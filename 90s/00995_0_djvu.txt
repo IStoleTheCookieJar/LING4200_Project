@@ -1,0 +1,2438 @@
+1990 SERVICES DIRECTORY 
+TECHNICAL SERVICES DIVISION 
+
+
+Di 
+
+
+Engineering Research 
+
+and Development Bureau 
+Materials Bureau 
+Soil Mechanics Bureau 
+
+
+NEW YORK STATE DEPARTMENT OF TRANSPORTATION 
+
+
+a eae ee 
+
+
+<a Ct 
+
+
+af 
+
+
+as 
+ae 
+me ar 
+
+
+= a) Sa 
+
+
+
+
+
+r ay a 
+d ~ 
+‘ 2 - 1 
+> : 4 ‘ 
+Vouet t 2 
+A." 5 J 
+a = a ' 
+ae 9 er, * 
+q 7 
+
+
+FOREWORD 
+
+
+The Technical Services Division's mission is to provide materials and 
+geotechnical engineering services and targeted engineering research in a 
+timely and cost-effective manner for the Department and other government 
+agencies. This is accomplished through development and recommendation of 
+engineering policies, standards, and specifications; management of a quality 
+assurance program for materials incorporated into Department projects; and 
+conduct of specialized engineering studies requiring investigations, testing, 
+analysis, and recommendations. 
+
+
+The Division's Director is New York's principal representative to the 
+Transportation Research Board (TRB), a unit of the National Research Council 
+and the nation's foremost organization for exchange of transportation 
+information. Through TRB, the Department helps plan and monitor the National 
+Cooperative Highway Research Program (NCHRP). The Director also serves as New 
+York's coordinator for another major national research initiative -- the 
+Strategic Highway Research Program (SHRP). Division staff members are active 
+in ongoing work of such organizations as the American Association of State 
+Highway and Transportation Officials (AASHTO), the American Society for 
+Testing and Materials (ASTM), the University Research Transportation 
+Consortium (URTC), and many specialized national technical and professional 
+societies. 
+
+
+This Directory -- prepared as part of the Division's Goal-Oriented Management 
+program "communications goal" under direction of Wesley P. Moody, by A. Donald 
+Emerich, James J. Finke, and Gerald R. Perregaux -- is intended primarily for 
+
+
+circulation to new and current Division staff and regional soils and materials 
+personnel. It was preceded in November 1989 by a preliminary Directory, still 
+available to interested persons on request, which also lists contact names and 
+telephone numbers in sections and units throughout the Division. 
+
+
+January 31, 1990 us 
+wySDOT 
+
+
+Library OD 34 
+es Ree ork 1223? 
+
+
+AYbany> 
+
+
+TECHNICAL SERVICES DIVISION 
+ENGINEERING RESEARCH AND DEVELOPMENT BUREAU 
+
+
+Administration/Publications 
+Materials/Pavements 
+Structures 
+
+
+Technology Transfer/Implementation/Special Services 
+
+
+MATERIALS BUREAU 
+
+
+Materials Administration 
+General Engineering 
+
+Field Engineering I 
+
+Field Engineering II 
+Chemical Testing Laboratory 
+Physical Testing Laboratory 
+
+
+Engineering Geology 
+
+
+SOIL MECHANICS BUREAU 
+
+
+General Soils Laboratory and Administration 
+Subsurface Exploration , 
+
+Engineering Geology 
+
+Specifications and Standards 
+
+Geologic Survey 
+
+Highway Design and Construction: Regions 1 through 10 
+Highway Design and Construction: Region 1l 
+
+Roadway Foundation 
+
+
+Structure Foundation 
+
+
+CONTENTS 
+
+
+ENGINEERING RESEARCH AND DEVELOPMENT BUREAU . 
+
+
+fy SeeYel rebe c b he ae hel eee ee gee an ea 
+Adminiatration/Publications:. . > c« s.. 
+Materials/Pavements Section ...... 
+BEM Cures eSCOTLON wake 040: sane Suge 
+
+
+Technology Beeree Genlenentari oni saeciol Sepeicee 
+
+
+MATERIALS SBUREAU 9.5. 5 wos 6 ¢ + 6 « » 
+
+
+DITeCeroceseOl C1 Clk seme + ios 7 
+Materials Administration Section ... 
+Adu Ss CrationeUni Gt. < sc... 4 © s+ 
+Products0peract. onus Upit «1... ~. . .. 
+General Engineering Section ...... 
+Fields bovineerings 1) sa ier wyatt e o's 
+Piel een eI Neerine Ll yee. ee) cles ss ee 
+Chemical Testing Laboratory ...... 
+Physicabelestine Laboratory sa..*,0n+, 
+Engineering Geology Section ...... 
+
+
+SOIL MECHANICS BUREAU . ...... -» 
+
+
+PVE C CORES OLEICOG 5). 6 vcnie's. cus. 4c 
+
+
+General Soils Laboratory and rinieteat ion 
+
+
+Adiainieeration: Unit... os 4. .3 
+General Soils Laboratory Unit . 
+Subsurface Exploration Section .... 
+Soil Survey and Mapping Unit ... 
+ GeoonvetcabsSurveys Unit -psacr su « genus 
+DEST Ei peeoupery i St ongUn Lt...) meus | * Rais 
+Engineering Geology Section... ote 
+Specifications and Standards Senet on 
+Geologi casurvey p Sections uate? wy whe 
+
+
+Highway Design and Construction Section: 
+Highway Design and Construction Section: 
+
+
+Roadway Foundation Section ...... 
+Poundation Desian Unit 9. 3 6. ess 
+Sott-Mechaniessbab  Unlt . ose s5 ane sets 
+
+Structure Foundation Section ..... 
+Bridge and Building Foundation Uascy, 
+DER ELOGE LUNGS Bye ee oe gs Dis. 1s <3 eo she 
+
+
+Regions 1 through 10 
+Region ll. 
+
+
+Section 
+
+
+e e 
+
+
+Section 
+
+
+in & NM NH Po i 
+
+
+~S 
+
+
+
+
+
+
+
+
+
+
+Y 
+: 
+4 
+‘ a 
+Oy 
+ons Pu it tiany Keema - 
+> 
+* 
+errs ' pa 
+< ; , 
+i xy | Sid ‘ae 
+7 . cre n i. ; ; at 
+f sai *fiex: 10) eoerreae = 
+j as 
+" ~— = - | 
+x 4 mM Oda, 
+‘ aIyvait 
+i » yt > 4 a * * * 4 ~ yaakad ™% ia y 
+¥ ~ 7 7 
+: & ‘* fatise 
+° , , . * . ‘ . . > « iJ e 
+ee - - me re . >.> * a ] 
+“1 Piet a iether 
+Un . - _ a ‘ ‘ + nt su ae et ret hot 
+ios = olin eect: "1st, Labaing2\o ee ta 
+j ” » { A erie ort f : 7 z aL 
+> "“s * 4 « . : ‘ * e7 4 ‘+ « ‘* &, & «2,98 © °«@ ae. * 
+oe = ie ? 
+4 : ; ae a3 i a he 
+' } « . a “« . ' . * } ee 
+A 7? 
+> e ie . * . . 
+‘ | ° at} ' é 
+F ait } 
+v . 2 » ¢ a ‘ 
+‘ 
+* ¢ tJ] » 4 * e e 6 
+wri } 
+. > 7 if ‘ ' ¥ + 4 » 
+> a i > ‘ . 2 ‘ * 
+. » . 4 . ‘ ® > ‘ 
+i ~ i 
+‘ ‘ . ed ,4 « « : Ad 4 , 4 
+‘ . . os « i) ital wt ie , 
+¢ 1 
+4 ' - “ef « . * + * * 2 
+gol ant cri lat 
+' ‘ ‘ . « ¥,¢ #4 ap @ es ® 
+. * ; : 7 ‘> iu 
+? Si ¥ ityoec eo13 872 
+,' i Ga4- io we . + & ss 
+a + ar) ad? ws m *' * + e- « 4 @ 
+t. . A ‘ Yo) 
+ci ‘ = * ' : . * Ah a4 Ay e @ * e % 
+vi a e * « > ' . : * e © ~ 9 
+a 
+ve Py . e ~~ * .” S. 4 e 4 » 
+‘ a 3 - ‘ _ h7 « « . ,* = he rT - v ‘a 
+i’ . » D 7. © ‘ a | * . >, \F - « ‘wo 8) . 
+« = ys ‘y ho " 
+‘ ’ , ‘ e . © a*+ ie 7 + » a. i? Na 
+c em : 
+ar. (2 a ’ +4 eva 8 Rea 
+a ( 
+es ss 4 5 OF Agee anne ee 
++ ‘ 7 
+} wa en ® Bs) Gwe ee’ le , . & 
+¢ ~ oe a 
+ee 4 ¥ 's . * ore * cm =) Say - 
+Mead 1 2 Oe le r fal * Re a 
+ce’ P 
+“5%. © ©€'4(\¢ rela x ~ ed : 
+: , ow sg ) — a 
+a j i au 7 a 
+-4 7 : A 7 
+at 
+> pill: 
+i4 
+/ - > ri 
+-% iy 
+{ 
+1 
+] “on 
+y ’ i 
+
+
+ENGINEERING RESEARCH AND DEVELOPMENT BUREAU 
+
+
+It is the mission of the Engineering Research and Development Bureau to manage 
+a targeted engineering research and development program to enhance the quality 
+and cost-effectiveness of engineering policies, practices, procedures, 
+standards, and specifications. Activities performed to accomplish this 
+mission include applied research, product evaluation, technical assistance, 
+technology transfer, and engineering consultation. 
+
+
+The Bureau fulfills this mission by: 
+
+
+1. Soliciting research suggestions from Department employees and the private 
+sector; 
+
+
+2. Evaluating each suggestion and providing information and a recommendation 
+concerning its disposition to the Engineering Research Technical Advisory 
+Panel (ERTAP); 
+
+
+3. Conducting in-house, high-priority research studies selected by ERTAP and 
+approved by the Chief Engineer; 
+
+
+4. Submitting ERTAP-approved studies to other research programs, such as 
+NCHRP, FHWA, URTC, when adequate resources are unavailable or the problem 
+
+
+is regional or national in scope; 
+
+
+5. Providing technical assistance through literature searches, consultation, 
+presentations, and training; 
+
+
+6. Aiding in the implementation of research findings; 
+
+
+7. Maintaining current awareness in technical areas of high priority to the 
+Department; 
+
+
+8. Coordinating the Department's responses to various Federal activities, 
+such as pooled-fund studies, experimental features, and demonstration 
+projects; 
+
+
+9. Supporting other national or regional research activities such as SHRP, 
+URTC, NCHRP, and TRB; 
+
+
+10. Assessing and distributing technical information; 
+
+
+11. Providing statistical, instrumentation, and editing assistance. 
+
+
+2 Services Directory 
+
+
+The Engineering Research and Development Bureau is comprised of the Director's 
+office, three engineering sections, and an administration/publication section 
+with the following responsibilities. 
+DIRECTOR'S OFFICE 
+The Director's office provides overall management for the Engineering Research 
+and Development program and directly manages and supervises all the Bureau's 
+activities. The Director's office is the focal point for contact with upper 
+Department management, regions, industry, FHWA, and other research-related 
+activities, such as SHRP, NCHRP, URTC, and TRB. 
+ADMINISTRATION/PUBLICATIONS SECTION 
+
+Services Provided 
+
+1. Distributes Bureau reports and other publications. 
+
+2. Maintains the Research library. 
+
+3. Edits and illustrates publications manuscripts. 
+
+4. Produces the Research Digest and formal papers (TRB, etc.). 
+
+5. Coordinates contacts with Transportation Research Information Service. 
+
+6. Provides Bureau administrative support. 
+Capabilities/Equipment 
+
+1. Maintains access to the DIALOG Data Base. 
+
+2. Retrieves literature from the State Library System. 
+
+3. Facilitates use of AASHTO Electronic Mail Bulletin Board. 
+
+4. Microfiche reader. 
+MATERIALS/PAVEMENTS SECTION 
+
+
+Services Provided 
+
+
+1. Conducts research to develop new or improved specifications for 
+construction and maintenance materials. 
+
+
+2. Confirms or develops design, construction, and maintenance practices that 
+promote effective, economical use of materials. 
+
+
+3. Develops design, construction, and maintenance practices that result in 
+more economical pavements, improved service, optimized performance, and 
+extended service life. 
+
+
+Engineering R&D 3 
+
+
+a 
+
+
+Provides technical assistance to the Department in the subject areas of 
+materials and pavements. 
+
+
+Coordinates SHRP activities for the long-term pavement performance 
+project. 
+
+
+Performs multilayer elastic analysis of pavements. 
+
+
+Capabilities /Equipment 
+
+
+in 
+
+
+fap 
+
+
+10. 
+
+
+ts 
+
+
+ta 
+
+
+13. 
+
+
+14. 
+
+
+is: 
+
+
+16. 
+
+
+a) 3 
+
+
+1H. 
+
+
+a9; 
+
+
+20% 
+
+
+Data Logger Fluke Model 2280B reads up to 1500 channels. 
+Faultmeters - measures pavement faulting. 
+
+Three Benkelman beams - measures pavement deflection. 
+Pinning bars - measures joint openings. 
+
+Concrete saw (30-in. diam blades). 
+
+Fog room facilities. 
+
+
+Walk-in freezer. 
+
+
+Projection Tachistoscope Model 41010-A - controls the time a slide is 
+visible. 
+
+Retroreflectometer, Gamma Scientific Model 910 - measures sign panel 
+reflectance. 
+
+
+Two 16-mm high-speed cameras (variable speeds) and tripods and variable 
+voltage regulators. 
+
+
+Two 16-mm electric normal speed cameras. 
+
+Two 16-mm electric intermediate speed cameras. 
+
+Three 16-mm manual normal speed cameras. 
+
+Camera power packs. 
+
+Camera tripods. 
+
+Electronic data recorders (Racal Store 4 DS). 
+
+Digital oscilloscope (Nicolet Model 2090-111 with 206 processor). 
+Analog recorder (Gulton Model TR 2000). 
+
+X-Y recorder (Hewlett-Packard) 7015A. 
+
+
+16-mm film editor (Kalart Craig). 
+
+
+Zi. 
+
+
+Pap ae. 
+
+
+* So J 
+
+
+24. 
+
+
+Services Directory 
+
+
+16-mm variable speed film projector. 
+
+
+Video equipment - color video camera, video cassette recorder, and 
+portable video cassette recorder. 
+
+
+Two digital thermometers. 
+
+
+Portable generators. 
+
+
+STRUCTURES SECTION 
+
+
+Services Provided 
+
+
+Le 
+
+
+Ve 
+
+
+Conducts research to develop and verify new structural design techniques 
+and refine existing methods. 
+
+
+Performs load-capacity evaluations of existing structures’ through 
+physical testing and analysis. 
+
+
+Evaluates equipment and procedures for bridge inspection and evaluation. 
+Performs mathematical analyses of unique structural configurations. 
+Provides assistance for structural evaluation and monitoring. 
+
+
+Provides technical assistance to the Department in the area of 
+structures. 
+
+
+Provides finite element analysis. 
+
+
+Capabilities /Equipment 
+
+
+1a) 
+
+
+2: 
+
+
+Static data logger - 80 strain-gage channels, 30 thermocouple channels. 
+
+
+Dynamic data logger - Eight channels with individual signal conditioning. 
+Sample rate to 5000 per sec per channel. 
+
+
+Structural testing laboratory - 26- by 60-ft floor, 30-kip capacity 
+tiedowns at 2 ft centers, 5-ton overhead crane. 
+
+
+Electronics laboratory - design, construction, installation, calibration, 
+and repair of electrical instrumentation and measurement systems. 
+
+
+Fourier analyzer - a specialized electronic data processing system that 
+measures vibrational responses of a structure - four-channel capability, 
+frequency span from DC to 20 kHz. 
+
+The following software packages perform or support data analysis: 
+
+
+a. GIFTS (finite element analysis). 
+
+
+b. STARMODAL (modal analyses program). 
+
+
+Engineering R&D 5 
+
+
+c. WINDOWS (software utility package). 
+d. MATHCAD (mathematical software package). 
+
+
+e. Fortran 77, Q Basic, Basic and C. 
+
+
+TECHNOLOGY TRANSFER/ IMPLEMENTATION/SPECIAL SERVICES SECTION 
+
+
+Services Provided 
+
+
+b 
+
+
+Conducts engineering research to develop or improve specifications and 
+practices in areas not directly related to structures, pavements, or 
+materials. 
+
+
+Provides technology transfer and consultation services to the Department 
+in various engineering subject areas. 
+
+
+Provides statistical consultation. 
+
+
+Coordinates Department activities with the following transportation 
+programs: 
+
+
+a. Federal technology transfer program. 
+pee Unio. 
+
+c. FHWA pooled-fund studies. 
+
+d. Federal demonstration projects. 
+
+e. FHWA experimental features program. 
+f. NCHRP. 
+
+
+Administers implementation of Engineering Research and Development Bureau 
+research results within the Department. 
+
+
+Provides engineering consultation services to facilitate library services 
+involving the DIALOG data base. 
+
+
+Reviews and coordinates with research and technology transfer centers for 
+awareness of projects ongoing in other states. 
+
+
+Edits and publishes Technology News Transfer, a quarterly report aimed at 
+keeping the Department's engineers informed of technological advances 
+that may impact their work. 
+
+
+6 Services Directory 
+
+
+Capabilities/Equipment 
+
+
+1. Staff experience with following software applications: 
+a. Desk-top Publishing: First Publisher, Newsroom. 
+b. Project Management: Harvard Project Manager. 
+c. Expert Systems: Exsys, Insight 2+, Prolog. 
+d. Communications: Crosstalk, Procomm. 
+e. Presentation Graphics: Chartmaster, Signmaster, Freelance, PC Paint. 
+f. Developmental Tools: Turbo Pascal, APL Plus 5.0. 
+
+
+g. Numerical Analysis: Statgraphics, MathCad, SAS, Mystat, Solo, 
+Statxact, Q-Solver, TK Solver, Survcalc. 
+
+
+h. Micropaver. 
+2. Machine shop. 
+3. Audiovisual equipment. 
+
+
+4. Maintains schedule for use of the garage. 
+
+
+MATERIALS BUREAU 
+
+
+It is the mission of the Materials Bureau to provide a quality assurance (QA) 
+program for materials incorporated into Department projects, materials 
+engineering services for design and construction, evaluation of material 
+performance, and technology transfer. 
+
+
+The Bureau fulfills this mission as follows: 
+
+
+l. Specifies, through materials engineering, the appropriate material 
+characteristics, construction techniques, and levels of quality. 
+
+
+2. Assures, through inspection and testing, that materials incorporated in a 
+project are what was specified. 
+
+
+3. Monitors materials performance, and evaluates and implements materials and 
+construction technology. 
+
+
+4. Provides a complete range of laboratory testing, noise measurement, and 
+pavement friction testing services. 
+
+
+5. Supports regional offices in their materials programs by providing 
+equipment, supplies, staffing support, and related services. 
+
+
+6. Provides training to Department design, construction, and maintenance 
+personnel as it relates to materials. 
+
+
+7. Provides overall direction and management of the materials program. 
+
+
+The Materials Bureau is comprised of the Director's Office and seven 
+laboratory, engineering, and administrative sections with the following 
+responsibilities. 
+
+
+DIRECTOR'S OFFICE 
+
+
+The Director's Office provides overall management for the materials program and 
+directly manages and supervises all Materials Bureau activities. The 
+Director's Office is the focal point for contact with upper Department 
+management, regions, industry, FHWA, and various national organizations such as 
+AASHTO, ASTM, TRB, SHRP, and others. 
+
+
+MATERIALS ADMINISTRATION SECTION 
+
+
+The Materials Administration Section is comprised of Administration and Product 
+Operations Units with the following responsibilities. 
+
+
+Services Directory 
+
+
+Administration Unit 
+
+
+i te 
+
+
+Provides overall administrative support services to the Bureau, including 
+accounting, budgeting, purchase, personnel, inventory, forms and publi- 
+cation control, vehicle procurement, maintenance of files, operation of 
+shipping and receiving dock, and clerical support. 
+
+
+Manages procurement and disbursement of sampling and testing supplies to 
+regional materials units, as well as sampling supplies and forms to 
+consultant inspection agencies. 
+
+Manages the materials sampling, testing and inspection consultant contracts 
+used by regional materials units, the Structures Division, and the 
+Materials Bureau. 
+
+Maintains Bureau files including: 
+
+a. Complete set of active construction contract documents 
+
+
+b. Bureau test reports 
+
+
+c. Bureau correspondence 
+
+
+Product Operations Unit 
+
+
+1. 
+
+
+Develops and operates QA programs for specific construction materials, 
+including cement, bituminous liquids, reinforcing steel, bridge bearings, 
+and precast concrete items. QA activities include: 
+
+
+a. Serving as the primary contact in the Department for industries engaged 
+in manufacture and/or fabrication and supply of these materials to 
+Department construction projects. 
+
+
+b. Coordinating materials sampling and inspection among suppliers, 
+regions, and consultant inspection agencies. 
+
+
+c. Directing activities of consultant inspection agencies at various 
+locations within New York State, as well as throughout the United 
+States and Canada. 
+
+
+d. Taking final (accept/reject) action on test results with attendant 
+communication of the action to suppliers and regions. 
+
+
+Develops and administers the "Materials Inspection Manual," which is also 
+Part 2A of MURK. 
+
+
+Directs and coordinates sampling and testing of lead-based paint waste and 
+determines hazardous/non-hazardous status of the material represented by 
+the sample, with the attendant notifications. 
+
+
+Materials 9 
+
+
+GENERAL ENGINEERING SECTION 
+
+
+Services Provided 
+
+
+i 
+
+
+10. 
+
+
+1G 
+
+
+12. 
+
+
+Performs materials engineering functions related to materials and equipment 
+performance, construction application methods, safety issues, and economics 
+in design, construction, and maintenance of transportation facilities. 
+
+
+Develops QA programs for various manufactured products and materials, such 
+as paints, epoxies, bridge bearings, preformed joint seals, pavement 
+markings, reflective sheeting, etc. 
+
+
+Evaluates products for use as construction items in Department contracts, 
+establishes approved product lists, and prepares materials data sheets. 
+Some examples are: thin polymer overlays, elastomeric concrete, protective 
+coatings, delineation devices. 
+
+
+Investigates and reports materials failures, determines causes of problems, 
+recommends solutions, and documents performance. 
+
+
+Develops specifications, construction methods, and special tests relating 
+to materials, equipment, and construction practices. 
+
+
+Trains personnel in application of materials standards and testing methods 
+pertinent to construction; e.g., paint inspection, pavement marking 
+inspection, installation of joint and crack sealers/fillers, etc. 
+
+
+Provides special testing services, including pavement friction testing and 
+noise measurements. 
+
+
+Develops and maintains computer data bases for certain materials-related 
+areas to support the design and construction program. 
+
+
+Provides equipment services including procurement, periodic calibration, 
+and loan of specialized equipment for use in the Department's construction 
+program -- e.g., noise measuring meters. 
+
+
+Develops and implements policies and programs for dealing with certain 
+construction materials -- e.g., pavement markings, bridge bearings, 
+pavement joint and crack sealers/fillers, structural paints. 
+
+
+Provides liaison with commercial producers, construction and professional 
+organizations, and other governmental agencies. 
+
+
+Disseminates information on new technical developments to federal, state, 
+and local agencies. 
+
+
+Capabilities/Equipment 
+
+
+ie 
+
+
+Noise measurement meters, Nagra dual-channel sound-level recorder, B&K 
+one-third octave band analyzer. 
+
+
+10 Services Directory 
+
+
+2. Pavement friction measurement system conforming to ASTM E 274. 
+3. Magnetic paint-film-thickness gage. 
+
+4. Thin protective coating adhesion tester. 
+
+5. Flux continuity tester. 
+
+6. Coating holiday tester. 
+
+7. Flexible-delineator-post impact tester. 
+
+
+Unique Files 
+
+
+1. Computer data files including asphalt test data, concrete cylinder 
+data, Marshall test data, bridge bearing test data, air void data, 
+
+
+strength 
+
+
+aggregate friction inventory data, bridge deck potential data, and bridge 
+
+
+deck delamination files. 
+
+
+2. Test data files on various materials, appurtenances, and construction 
+
+
+equipment. 
+
+
+3. Technical reference files, texts, and reports on various materials, 
+
+
+appurtenances, construction equipment practices. 
+FIELD ENGINEERING I 
+
+
+Services Provided 
+
+
+1. Provides engineering services and technical reports for materials used in 
+pavements, structures, dams, locks, drainage facilities, and concrete 
+
+
+appurtenances. 
+
+
+2. Develops specifications, evaluates new products and technology, and 
+
+
+provides materials-related training. Primary materials include: 
+a. Portland cement concrete pavement and structures 
+b. Precast concrete products and concrete pipe 
+
+
+c. Metal and plastic pipe drainage materials 
+
+
+3. Provides evaluations and recommendations for rehabilitation and/or repair 
+of pavements, structures, dams, locks, drainage facilities, and other 
+
+
+facilities/appurtenances. 
+
+
+4, Provides consultation and engineering assistance in design, construction, 
+
+
+maintenance, testing, and QA. 
+
+
+5. Manages and publishes the NYSDOT "Approved Lists for Materials and 
+Equipment" for use on NYSDOT projects. 
+
+
+Materials i 
+
+
+62 
+
+
+9. 
+
+
+Provides services for specialized concrete bridge deck overlay systems, 
+including mix designs, training, assistance, evaluations, and repair 
+recommendations. 
+
+
+Provides on-site portable concrete coring services and testing to regional 
+and Main Office units for design and construction. 
+
+
+Provides microcomputer assistance, training, and programming related to the 
+Materials program area. 
+
+
+Coordinates new or special product evaluations for NYSDOT. 
+
+
+Capabilities/Equipment 
+
+
+iS 
+
+
+2. 
+
+
+On-site nuclear-gage concrete-density measurement (Troxler nuclear 
+gage services). 
+
+
+On-site rapid testing evaluations: 
+
+a. Electrical potential surveys 
+
+b. Covermeter and delamination detection surveys 
+
+c. Swiss hammer, rebound hammer, pulse velocity, and Windsor probe testing 
+Materials program area video operations: 
+
+a. Production/recording 
+
+b. Editing/dubbing 
+
+
+c. Materials-related training video distribution 
+
+
+FIELD ENGINEERING II 
+
+
+Services Provided 
+
+
+ie 
+
+
+Provides engineering services, develops quality assurance programs, and 
+conducts plant inspections for the two major field-produced materials -- 
+portland cement and asphalt concrete. Provides inspections of liquid 
+bituminous materials (emulsions) facilities. 
+
+
+Develops specifications for the above listed materials. 
+
+
+Evaluates new products and technologies, including asphalt additives, to 
+improve asphalt concrete pavement performance. 
+
+
+Provides materials engineering assistance to Design, Construction, 
+Maintenance, and the regions. Included in this activity are existing 
+asphalt concrete pavement evaluations. 
+
+
+12 
+
+
+By 
+
+
+Services Directory 
+
+
+Manages the Independent Assurance Sampling and Testing program (IAST), and 
+the BAMS production quantity totaling systems. 
+
+
+Coordinates training of regional personnel in performing plant inspections 
+and field testing of concrete. 
+
+
+Develops procedures for recycling existing pavements, including hot-mix 
+recycling using asphalt concrete plants and in-place recycling using both 
+hot surface and cold techniques. 
+
+
+Manages the pavement coring program and profilograph pavement roughness 
+measuring program. 
+
+
+CHEMICAL TESTING LABORATORY 
+
+
+Services Provided 
+
+
+7< 
+
+
+6. 
+
+
+Performs materials testing of a chemical nature on a variety of engineering 
+materials. Primary materials tested include asphalt cement and emulsions; 
+portland cement; fine aggregate; epoxy; stainless and high-strength bolts, 
+nuts, and washers; structural paint; neoprene joint sealer; fencing; 
+highway marking materials (thermoplastic and traffic paint); concrete water 
+and admixtures. 
+
+
+Recommends routine acceptance/rejection actions for construction materials 
+to support the QA function of the Bureau. 
+
+
+Performs chemical testing to support various Department engineering activi- 
+ties. This includes such testing as chloride content in hardened concrete; 
+bituminous concrete mix designs; PCB analysis of water and sediment samples 
+for Soils and Waterways; sulfates in soils; heavy metals and chlorides in 
+soils, recycled concrete, and sediment. 
+
+
+Performs laboratory evaluations of asphalt laboratory facilities as part of 
+the QA program. 
+
+
+Provides training to regional inspectors in asphalt cement concrete 
+sampling, testing, and inspection. 
+
+
+Participates in AMRL and CCRL proficiency sample programs for bituminous 
+materials and mixes, cement, and paint. 
+
+
+Capabilities/Equipment 
+
+
+l. 
+
+
+Atomic absorption apectrometer - Chemical analysis of cement, paint 
+pigments, and various other items that can be put into solution. 
+Determination of hazardous elements in solid waste according to EPA SW-846. 
+Determination of chlorides in concrete. 
+
+
+Atomic emission spectrometer - Determination of the elemental composition 
+of metals including stainless steel, high-strength steel, and aluminum 
+alloys. . 
+
+
+Materials LS 
+
+
+ae 
+
+
+Atomic emission spectrograph - Qualitative elemental analysis of unknown 
+solid samples. 
+
+
+Gas chromatograph - Determination of PCB's in water and sediment samples 
+and other volatile materials. 
+
+
+Infrared spectrophotometer - Qualitative determination of organic materials 
+in samples such as paint, latex, and concrete. 
+
+
+Ultraviolet-visible spectrometer - Determination of chemical species in 
+solution such as sulfate in soils, DCI in precast concrete, and detergents 
+in water. 
+
+
+Salt spray cabinet - Evaluation of the effect of salt water on samples such 
+as coated steel products. 
+
+
+Weatherometer - Evaluation of the effect of sun and rain on materials such 
+as paint, epoxy, and other coatings. 
+
+
+PHYSICAL TESTING LABORATORY 
+
+
+Services Provided 
+
+
+1. 
+
+
+Performs materials testing of a physical nature on a variety of engineering 
+materials. Primary materials tested include fine and coarse aggregate, 
+cement, pozzolans, fly ash, grout, epoxy, concrete additives, curing 
+compounds, concrete cylinders and cores, precast concrete units, 
+reinforcing bars, wire strand, bolts, guide rail, plastic pipe, bearings, 
+joint sealer and other rubber and neoprene materials. 
+
+
+Recommends routine acceptance/rejection actions for construction materials 
+to support the QA function of the Bureau. 
+
+
+Performs physical testing to support various Department engineering 
+activities. This includes portland cement concrete mix trial batches, air 
+content in hardened concrete, freeze-thaw testing for various materials, 
+and specimen preparation for examination and testing. 
+
+
+Participates in AMRL and CCRL proficiency programs for cement, aggregate, 
+and portland cement concrete. 
+
+
+Repairs and maintains existing test equipment and builds new test equipment 
+for the three Technical Services Bureaus and other Department units. 
+
+
+Provides training to regional concrete inspectors in portland cement 
+concrete sampling and testing, including ACI certification. 
+
+
+Coordinates regional materials laboratory program, including providing lab 
+supplies and equipment, evaluating test equipment and lab test procedures, 
+AMRL and CCRL proficiency samples, and training lab technicians as 
+necessary. 
+
+
+14 
+
+
+Services Directory 
+
+
+Capabilities/Equipment 
+
+
+1. 
+
+
+12. 
+
+
+Universal testing machines - tensile and compression force tests 
+a. Range 0-600 K at constant rate of load 
+b. Range 0-30 K at constant rate of crosshead movement (inch/minute) 
+
+
+Stress/strain recorders - measure and record stress/strain data for various 
+materials in tension or compression tests. 
+
+
+X-ray machine - examination of various metals and welds. 
+
+
+Hardness testers - Brinell, Rockwell, and Superficial Rockwell on metal 
+specimens. 
+
+
+Drop-weight tear testing of metal. 
+
+
+High-pressure air meter - measure air content of hardened concrete 
+specimens. 
+
+
+Linear traverse air content - microscopic examination of hardened concrete. 
+Freeze-thaw chambers - testing of concrete and aggregate samples. 
+Alkali/aggregate reaction testing by expansion (ASTM C 227). 
+
+Concrete mixer - capability to produce trial concrete batches. 
+
+
+Calibration equipment - verify force test machines (0-600 K), thermo- 
+meters, pressure gages (0-10,000 psi), vacuum measurements. 
+
+
+Full machine shop capabilities. 
+
+
+ENGINEERING GEOLOGY SECTION 
+
+
+Services Provided 
+
+
+i 
+
+
+Coordinates the aggregate QA program, including the sampling, testing and 
+performance evaluation of aggregates. 
+
+
+Develops specifications for aggregate materials used in portland cement and 
+asphalt concrete; evaluates new aggregate products and technologies. 
+
+
+Conducts geological investigations of Department aggregate sources. 
+Takes final (accept/reject) action on aggregate test results with attendant 
+communication of the action to the regions. The Section also maintains a 
+
+
+testing history of all aggregate sources. 
+
+
+Manages and publishes "Approved List of Sources of Fine and Coarse 
+Aggregates" for use on NYSDOT projects. 
+
+
+Materials 
+
+
+6. 
+
+
+a. 
+
+
+15 
+
+
+Reviews and takes final (accept/reject) action on Geologic Source Reports 
+required for all Department aggregate sources. The Section also maintains 
+an operational history of all aggregate sources. 
+
+
+Provides consultation and geotechnical assistance in evaluating aggregate- 
+related pavement and structure problems. This includes evaluation of 
+aggregates as pavement friction providers. 
+
+
+Coordinates recycled waste product aggregate evaluations for the 
+Department. 
+
+
+Provides training to Departmental personnel in aggregate evaluation 
+procedures. 
+
+
+Capabilities/Equipment 
+
+
+ie 
+
+
++ So 
+
+
+Laboratory aggregate techniques - Carbonate staining identification, 
+insoluble residue determination, and petrographic analysis. 
+
+
+Thin-section equipment - Preparation of thin sections for sand and drilled 
+core analysis, special evaluations and failure examinations, using 
+microscopy techniques. 
+
+
+Petrographic microscope - Rock and mineral identification and asbestos 
+determination. 
+
+
+Ultraviolet fluorescence lamp - Identification of silica gel product of 
+alkalai-silica reaction. 
+
+
+sabofoor ¥] sine 
+
+
+“ 
+
+
+pie ale > "hoped ; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“nt 6 Sea) - 
+
+
+
+
+
+riiatedn avenodss?) = veuptados2 ee ae 
+4° afigke ait 750" bas conrataeaat Sinteer aJaai 
+
+
+bY abStiSee BETS Oy ys = t aaiis sei si 
+
+
+tieexs orillte?t bes enackwavinve ietaaee ,ate 
+f e ‘4 amt. re gP a \ 
+Si tktasht Iszenkm: bas good = ‘tmeening »t 
+; : : _ 2% Rone 
+, > rien 
+a2 fTInSbi = qe’ ‘438 RetobH dat 
+
+
+
+
+
+7 or 
+& e740 Coa res 
+e oe | : - 
+al eWu4riceocicas b¢€ 
+i i 7 
+
+
+vei napee’) active 5 le 
+ve per feu (e uh rian (era 
+- ait Redhead Bay td 
+
+
+‘fo toe 
+a. "49 ans 
+
+
+
+
+
+sao om PYG 
+7 ad 
+
+
+SOIL MECHANICS BUREAU 
+
+
+It is the mission of the Soil Mechanics Bureau to provide all the geotech- 
+nical engineering services in the specialty of earthwork and foundation 
+engineering needed by the Department's program for the solution of soil, 
+rock, and groundwater problems. 
+
+
+The Bureau fulfills this mission as follows: 
+
+
+Ps 
+
+
+The 
+
+
+Manages, on a Departmentwide basis, those portions of the Department's 
+programs concerned with earth, rock, and groundwater engineering 
+studies. 
+
+
+Coordinates technical activities of all Department units involving 
+problems related to soils, foundations, and geology. 
+
+
+Directs operations of the Main Office soils program and technical 
+operations of the Regional Soil Groups. 
+
+
+Provides earth engineering services for design, construction, and 
+maintenance of highways, buildings, bridges, ports, railroads, and 
+waterways. 
+
+
+Develops plans, policies, and procedures for fiscal management, 
+purchasing, and personnel development for the Main Office and Regional 
+Soils Sections. 
+
+
+Monitors quality assurance of Main Office and Regional Soils and 
+Regional construction groups concerning all aspects of the soils 
+programs (drilling, sampling, testing, materials acceptance, con- 
+struction control, and engineering services). 
+
+
+Soil Mechanics Bureau is composed of the Director's Office, two 
+
+
+laboratories, and eight engineering and administrative sections with the 
+following responsibilities: 
+
+
+DIRECTOR'S OFFICE 
+
+
+Manages the Department's geotechnical program and provides a focus for 
+AASHTO, ASTM, TRB, and training activities. 
+
+
+Ly 
+
+
+18 
+
+
+Services Directory 
+
+
+GENERAL SOILS LABORATORY AND ADMINISTRATION SECTION . 
+
+
+Administration Unit 
+
+
+is 
+
+
+La 
+
+
+a je 
+
+
+Furnishes accounting, budgeting, purchasing, personnel, clerical, 
+filing, and stenographic services to the Bureau. 
+
+
+Provides services for procurement of state vehicles, equipment and 
+supply inventory, and employee safety. 
+
+
+Maintains the stockroom for all Main Office supplies, regional 
+drilling supplies, and program manuals and publications. 
+
+
+General Soils Laboratory Unit 
+
+
+Services Provided 
+
+
+1 
+
+
+Lee 
+
+
+Conducts laboratory tests and field testing for numerous routine and 
+special earthwork needs. 
+
+
+Conducts tests including identification, compaction, and gradation for 
+design and construction control of earthwork and related items. 
+
+
+Conducts tests for the stabilization of soils for various subgrade, 
+subbase, base, and shoulder purposes, using bituminous materials, 
+portland cement, hydrated lime, fly ash, salt, and various other 
+stabilizing agents. 
+
+
+Conducts soundness and plasticity tests for the approval/rejection of 
+granular materials for construction. 
+
+
+Conducts tests for the approval/rejection of topsoil used on 
+Department projects. 
+
+
+Provides technical direction to the Regional Soils laboratories and 
+field earthwork construction control testing operations. 
+
+
+Designs and conducts specialized tests necessary to evaluate the use 
+of waste and recycled materials. 
+
+
+Conducts training of permanent and temporary personnel for earthwork 
+inspection on a statewide basis. 
+
+
+Provides statewide field services to implement earthwork construction. 
+
+
+Monitors and controls nuclear moisture-density test equipment and 
+procedures for the Main Office and regions. 
+
+
+Soil Mechanics | ae 
+
+
+th 
+
+
+Conducts and evaluates and participates in quality assurance (QA) 
+programs for Main Office, Regional laboratory, and construction 
+inspection staffs such as: 
+
+
+a. AMRL: AASHTO Materials Reference Lab Program (participant). 
+
+
+b. SMRL: Soil Mechanics Reference Laboratory Program (participant 
+as well as manager) for all Main Office, Regional Soils, and IAST 
+participants. 
+
+
+Ce IAST: Independent Assurance Sampling Testing Program (respon- 
+sibility for training and overseeing all aspects regarding the 
+soils portion of this program). 
+
+
+d. Inspects and monitors Regional laboratories regarding equipment 
+and procedures. 
+
+
+e. Conducts earthwork inspector's schools to train Regional soils 
+and construction staffs and temporary construction inspectors. 
+
+
+Capabilities/Equipment 
+
+
+Granular material, soil classification, soil stabilization, topsoil and 
+compaction testing. 
+
+
+SUBSURFACE EXPLORATION SECTION 
+
+
+Soil Survey and Mapping Unit 
+
+
+Services Provided 
+
+
+le 
+
+
+4. 
+
+
+Progresses terrain reconnaissance and earth materials resource sur- 
+veys. Prepares reports for physical environment studies, including 
+wetlands, flood plains, erosion potential, and other physical aspects, 
+such as hypsographic maps, slope maps, unconsolidated aquifer situa- 
+tion maps, and climatological data. 
+
+
+Serves as liaison between Department and U.S. Department of Agricul- 
+ture on a cooperative, long-term research project (Statewide Soil 
+
+
+Survey Mapping). 
+
+
+Conducts all geotechnical engineering activities for waterways, 
+including canal bottom sampling for dredging permits. 
+
+
+Designs building foundations, dams, and canal structure foundations. 
+
+
+Capabilities/Equipment 
+
+
+i. 
+
+
+Ee 
+
+
+Published ground water resource bulletins and stream flow data. 
+
+
+Field water quality testing (Hach field chemical test kit). 
+
+
+20 
+
+
+Services Directory 
+
+
+8; File of all published terrain reconnaissance reports. 
+4, State building foundation files. 
+
+
+Geophysical Surveys Unit 
+
+
+Provides geophysical surveys (seismic, resistivity, and vibration 
+monitoring) for all Department planning, design, construction, and 
+maintenance activities. 
+
+
+Capabilities/Equipment 
+
+fats Research model vibration monitoring seismograph. 
+
+5% Remote data loggers with piezometers (well monitoring). 
+4. 24 trace seismographs. 
+
+a Electrical resistivity unit. 
+
+6% Plane table. 
+
+
+Drilling Supervision Unit 
+
+
+Le Provides technical supervision for all subsurface explorations pro- 
+gressed by or for the Department, such as drilling, probing, and hand 
+augering. 
+
+
+2h Responsible for statewide operation of Dutch cone penetrometer, and 
+other specialized drilling operations. 
+
+
+Bi Sets standards, monitors quality of state and contract drilling, and 
+oversees drill inspection contracts. 
+
+
+4. Sets standards for and controls inventory of all drilling equipment 
+and supplies for the regional soils drilling programs. 
+
+
+os Provides recommendations on drilling and coring of soil and rock. 
+
+6. Provides recommendations on concrete and masonry coring (deep work). 
+ie Supervises drilling aspects of all subsurface instrumentation. 
+
+8. Recommendations on sealing of borings and wells. 
+
+oR Provides advice on pumping applications, water transfer, grouts, etc. 
+
+
+10. Provides support for probing and hand augering operations and equip- 
+ment. 
+
+
+11. Provides recommendations on drilling operations on water. 
+
+
+Soil Mechanics Lae 
+
+
+ENGINEERING GEOLOGY SECTION 
+
+
+ite 
+
+
+Advises on construction problems of geologic nature involving charac- 
+teristics of various rock formations and their associated structural 
+features that affect engineering considerations, i.e., stability of 
+rock slopes, bearing capacities for structural foundations, rock 
+quality for stone fill and riprap, drillability and resistance to 
+blasting of rock during excavation operations, and transmissibility of 
+blasting vibrations in various rock types. 
+
+
+Advises on procedures for obtaining suitable water supply from subsur- 
+face aquifers during well construction operations. 
+
+
+Organizes, directs, and implements blasting operations to assist 
+Department maintenance staff and communities throughout the state in 
+conducting corrective procedures involving rockslides, unstable rock 
+slope, sight distance, and fixed obstacle problems. 
+
+
+Advises on the alleviation of ice jams and does blasting if needed. 
+
+
+Provides technical assistance concerning blasting safety and confor- 
+mance to specifications, conducts preblasting meetings, and evaluates 
+all blasting plans for rock excavation, blasting permits, and demoli- 
+tion. 
+
+
+Capabilities/Equipment 
+
+
+3 
+
+
+4 
+
+
+licensed blasters 
+
+blasting machines 
+
+sets of magazines (cap and powder) at strategic locations in Region 1 
+(Warrensburg and Defreestville) and Region 8 (Kingston and 
+Luddingtonville) 
+
+lightning detectors 
+
+air horns 
+
+bullhorns 
+
+two-way voice activated communicators 
+
+vibration monitoring seismographs 
+
+
+ice augers. 
+
+
+blasting mats 
+
+
+oe 
+
+
+Services Directory. 
+
+
+1 3500-watt generator 
+
+
+3 deep-well pumps 
+
+
+1 rock bolt hydraulic tension equipment and strain gage 
+
+
+SPECIFICATIONS AND STANDARDS SECTION 
+
+
+re Conducts major special projects to investigate, develop, and implement 
+improvements in geotechnical engineering operations of the Bureau, and 
+supports operating sections through technical assistance in effecting 
+innovations. Projects are assigned by the Director. 
+
+
+dis Projects may involve any of the following in a given period: 
+
+
+a. 
+
+
+Develops of new geotechnical specifications to be incorporated 
+into the Department's standard specifications. 
+
+
+Performs of HP&R formal research projects as principal inves- 
+tigators on topics in the geotechnical field. 
+
+
+Designs and develops specialized custom equipment for laboratory 
+and/or field usage. 
+
+
+System analysis, design, and implementation of computer applica- 
+tion programs and internal Soils Bureau automation projects. 
+
+
+Develops new design, field, or laboratory test methods, proce- 
+dures, or other standards. 
+
+
+Js Provides the Bureau with sustained technical support: 
+
+
+a. 
+
+
+e. 
+
+
+System management of local Digital minicomputer systems and 
+application support of their custom software. 
+
+
+Maintenance and repair for TACT station hardware. 
+Centralized hardware and software support for microcomputers. 
+
+
+Application development and database administration for Bureau 
+systems on the IBM mainframe. 
+
+
+Staff training in computer applications. 
+
+
+GEOLOGIC SURVEY SECTION 
+
+
+lL. Advises Bureau and Department on design problems of a geologic nature 
+involving rock and groundwater. 
+
+
+7 Be Designs rock slopes for new alignments and remedial work. 
+
+
+Soil Mechanics 23 
+
+
+Determines allowable bearing capacities for foundations on rock. 
+
+
+Designs appropriate rock slope stabilization measures, including rock 
+bolting, scaling, excavation, etc. 
+
+
+Conducts investigations and prepares specifications for ground water 
+supplies. 
+
+
+Provides technical assistance to Geophysical Surveys Unit. 
+Provides input for earthquake (seismic) designs and standards. 
+Conducts ground water evaluations (salt contamination, dye tests). 
+
+
+Maintains statewide rock slope inventory. 
+
+
+HIGHWAY DESIGN AND CONSTRUCTION SECTION: REGIONS 1 THROUGH 10 
+
+
+Services Provided 
+
+
+fae 
+
+
+Furnishes technical liaison in earthwork engineering subjects during 
+all phases of the Department's highway projects from project ini- 
+tiation through construction and operation. 
+
+
+Advises Regions on optimum location, position of grade line, suitabil- 
+ity of earth materials, and on problems relating to earthwork con- 
+struction; develops and evaluates specifications for earthwork, 
+excavation, cut slopes, subgrades, subbases, riprap, stream, bank and 
+slope protection, subsurface drainage, etc. 
+
+
+Reviews all phases of highway plans and specifications, and advises 
+Regions of additions or deletions necessary to economically account 
+for earthwork and terrain conditions to be encountered. 
+
+
+Assists Regions on solutions of earth engineering problems encountered 
+during construction. 
+
+
+Promotes implementing new technology related to exploration, inves- 
+tigation, and solution of earth engineering problems. 
+
+
+Responsible for all phases of the Department's railroad and airport 
+programs related to earthwork and foundation engineering problems. 
+
+
+Responsible for all soil stabilization work, including specifications, 
+development, field calibration of equipment, and inspection and 
+evaluation of stabilized soil material during construction. 
+
+
+Responsible for the earthslope (landslide) inventory program. 
+
+
+Responsible for pavement design activities including all associated 
+field evaluation work. 
+
+
+24 
+
+
+10. 
+
+
+116 
+
+
+Services Directory. 
+
+
+SHRP geotechnical coordination. 
+
+
+Coordinates geotechnical environmental issues. 
+
+
+Capabilities/Equipment 
+
+
+Ee 
+
+
+10. 
+
+
+Air photo library 
+
+Map sheet library - (USGS and NYSDOT) 
+Contract proposals 
+
+Contract plans 
+
+Engineering Instructions 
+
+Engineering Bulletins 
+
+Slides and photographs 
+
+Microfilm file 
+
+Saltzman projector 
+
+
+Slide projector 
+
+
+HIGHWAY DESIGN AND CONSTRUCTION SECTION: REGION 11 
+
+
+Provides the same services as HD&C upstate, but because of the highly 
+urbanized environment and greater emphasis on reconstruction, traffic 
+maintenance, and structures, it has the following additional responsibil- 
+ities: 
+
+
+L: 
+
+
+Evaluates geotechnical support required by consultants and assesses 
+adequacy of geotechnical design services. Evaluates adequacy of 
+consultant and in-house geotechnical designs, particularly as relating 
+to restrictions imposed on these designs in the New York City environ- 
+ment. 
+
+
+Guides geotechnical designs, details, and specifications of consul- 
+tants and Department designers with particular attention to spe- 
+cialized soil-structure interaction problems affecting structure 
+elements such as caissons, bored-in piles, post grouted bored-in 
+caissons and piles, earth and rock anchors, tied back walls, braced 
+excavations, sheeting, soldier pile and lagging walls, pile load 
+testing, etc. 
+
+
+Assists Regional construction on all aspects of geotechnical problems 
+including the project's effect on adjacent facilities. 
+
+
+Soil Mechanics 25) 
+
+
+5. 
+
+
+oy 
+
+
+Monitors and documents performance of major geotechnical projects to 
+improve future designs and construction performance. 
+
+
+Provides appropriate technology transfer to Region 11 and New York 
+City DOT staff, including formal training sessions and office and 
+field support for design, construction, and maintenance. 
+
+
+ROADWAY FOUNDATION SECTION 
+
+
+Foundation Design Unit 
+
+
+re 
+
+
+4. 
+
+
+Conducts investigations and analyses, and prepares reports pertaining 
+to design, construction, and performance of foundations for embank- 
+ments, earth slopes, dams, dikes, and other earth structures. 
+
+
+Develops and evaluates methods, techniques, and specifications for 
+foundation treatments. 
+
+
+Provides specialty services for slope stability, settlement, land- 
+slides, erosion control, geosynthetic applications, and _ special 
+earthwork problems. 
+
+
+Provides field instrumentation, installation, and monitoring for 
+design, construction, and post-construction evaluation. 
+
+
+Capabilities/Equipment 
+
+
+Slope indicators 
+Theodolite 
+
+Wye level 
+
+Tape extensometer 
+Tiltmeter 
+
+Truck scales 
+
+
+Field vane-test equipment 
+
+
+Soil Mechanics Lab Unit 
+
+
+Services Provided 
+
+
+Li 
+
+
+Designs and conducts tests related to use of earth in its natural 
+state for support of embankments, cut slopes, pavements, bridges, 
+buildings, dams, and other structures. 
+
+
+Performs routine design test programs in determining strength, 
+consolidation, and permeability characteristics and routine 
+acceptance/rejection of geosynthetics. 
+
+
+26 
+
+
+Services Directory 
+
+
+Designs and conducts specialized geotechnical testing for solution of 
+specific problems, including geosynthetic testing, instrumentation 
+testing, and others. 
+
+
+Performs model studies for solutions to geotechnical problems (pipe 
+filters, piles, walls, etc.) 
+
+
+Monitors and evaluates soil identification practices for Main Office, 
+Regions, and consultants. Provides schools as needed. 
+
+
+Provides leadership in American Society for Testing and Materials 
+(ASTM), International Organization for Standardization (ISO), and 
+other professional organizations for geosynthetics testing and 
+acceptance procedures. 
+
+
+Capabilities/Equipment 
+
+
+Strength, consolidation, permeability, geosynthetic testing. 
+MicroVax II computer dedicated to lab test operations (TACT). 
+
+
+Hewlett/Packard Model 87 computer dedicated to lab test operations 
+(triaxial). 
+
+
+STRUCTURE FOUNDATION SECTION 
+
+
+Bridge and Building Foundation Unit 
+
+
+ike 
+
+
+Provides geotechnical support for all structure/soil interactions, 
+primarily for Structures Division, with considerable support to the 
+regional design and construction staff. 
+
+
+Conducts foundation engineering investigations and analyses, and 
+prepares reports pertaining to design, construction, and performance 
+of foundations for bridges, buildings, large-diameter pipes, walls, 
+and similar structures. 
+
+
+Performs and evaluates special field testing such as static and 
+dynamic pile load tests, including determination of pile bearing 
+capacity and/or damage to piles. 
+
+
+Develops and evaluates methods, techniques, and specifications for 
+structure foundation construction. 
+
+
+Performs geotechnical evaluation of new products (proprietary walls, 
+pipes, etc.) 
+
+
+Operates videotaping equipment to document construction et Aa 
+and trains personnel in its use. 
+
+
+Soil Mechanics Fol 
+
+
+Drafting Unit 
+
+
+I. 
+
+
+ae 
+
+
+Furnishes all drafting and related services to all Bureau units. 
+
+
+Operates CADD equipment for preparing drawings and visual aids. 
+
+
+Capabilities /Equipment 
+
+
+Pile driving analyzers 
+
+Oscilliscope 
+
+CAPWAP system 
+
+1 Panasonic WV3250 video camera (VHS format) 
+
+1 Quasar VM-27AC video camera (S-VHS format) 
+
+1 Panasonic AG 2400 video cassette recorder (VHS format) 
+
+1 Panasonic PV 1560 portable video cassette recorder (VHS format) 
+
+
+1 Panasonic AG 1950 multi-function video cassette recorder (VHS 
+format) 
+
+
+1 NEC 25-in. autocolor monitor 
+CADD terminal - (Interpro 32) 
+
+
+Videotape library 
+
+
+a 
+
+
+tgiw and 
+
+
+Pi 
+
+
+hove i ert f Ifa a. oi, eaak%9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ob iF 4 ine uc fy 
+
+
+z a |S ae oe 
+hae gamtuarb he oo 
+° ‘2 oeee 
+F ow 
+tee aovd ige ree 7 
+5 Lieat®. Ff cavtdee 4¢ 
+
+
+ine bee 
+
+
+tewro) S8Y) stoees > Oakes 
+
+
+dastto1 .2HV~2) atoumeo a *) 
+Pee. 
+
+
++ ri) r i= ky , Prey 4 - ae: 
+tot 33250mne Oebhy OBE Sho 
+
+
+. =! ei Lao here axaviinie’ baat 37 
+»3 sijseemo sabtv sidaziog O9t) V4 atnoeaaad: 
+
+
+a bs JAS on gad ti jj. usr € ? a ‘ 
+nsbiv coltonvi~reion GEL OA Slacence Ss i m2 
+; a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+— 
+
+
+sa rok = 
+aay . 
+
+
+he 
+
+
+‘i 
+tetiacn yolo o703un — ae 
+: eek 
+
+
+> 
+
+
+(Sf ases ne Fg oa 
+oo 
+\ 1 ' { sO» dee 
+« os 1 . he he 4 
++ ; 7 : ’ A oat ng 7 
+g 4 : ‘fe 3 > Pa ‘amt. : eat S 
+d i (tetage | y “f L 5 bed 
+rt 4 "4 a; 7 dani 
+“4B : 4 - . et ae 
+
+
+\alueteg opecios esta! Sa on 
+< : Ss eS, ingiods ing phe 
+rea 
+
+
+r Cemage éo pitene i» : 
+y 8 7 
+
+4 7 e.an a4 ¢b\ aa ew : 
+
+’ ‘on. ¢ nae ituctiaiy 
+
+. % 
+
+salen 
+
+
+@veluation. 
+% a 2 
+
+
+
+
+
+00995 
+LAI 
+LRI 
+
+

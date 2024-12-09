@@ -1,0 +1,17 @@
+ETag: "d561b39bc4768b853a67b66253c20b69"
+accept: */*
+authorization: LOW gcChNG1gwFjVzXbq:REDACTED_BY_IA_S3
+connection: close
+content-length: 27186897
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+x-amz-auto-make-bucket: 1
+x-archive-meta-date: 1995-06
+x-archive-meta-description: Australian Commodore and Amiga Review, The - Volume 12 Issue 6 (1995-06)(Storm Front Studios)(AU)
+x-archive-meta-language: eng
+x-archive-meta-mediatype: texts
+x-archive-meta-title: Australian Commodore and Amiga Review, The - Volume 12 Issue 6 (1995-06)(Storm Front Studios)(AU)
+x-archive-meta-year: 1995-06
+x-archive-meta01-collection: australiancommodoreamigareview
+x-upload-date: 2013-05-26T09:37:23.000Z

@@ -1,0 +1,3692 @@
+PLANT  COMMUNITIES  OF  THE  KEVIN 
+RIM,  TOOLE  COUNTY,  MONTANA: 
+Preliminary  Survey  Results 
+
+Robert  L.  DeVelice 
+Montana  Natural  Heritage  Program 
+1515  East  6th  Ave.,  Helena,  MT  59620 
+
+
+PLANT  COMMUNITIES  OF  THE  KEVIN  RIM, 
+
+TOOLE  COUNTY,  MONTANA: 
+
+Preliminary  Survey  Results 
+
+Robert  L.  DeVelice 
+Montana  Natural  Heritage  Program 
+1515  East  6th  Ave.,  Helena,  MT  59620 
+
+Abstract.  -  Plant  communities  of  the  Kevin  Rim  in  northcentral  Montana 
+are  described  according  to  their  floristic  composition  and  associated 
+environmental  variables.  These  results  are  based  on  21  reconnais¬ 
+sance  " fast-plot "  samples  located  along  environmental  gradients. 
+Floristic  data  were  grouped  into  community  types  based  on  existing 
+classifications.  Results  indicate  the  presence  of  eleven  series  (three 
+grassland ,  six  shrubland,  and  two  forest)  containing  thirteen  plant 
+communities.  Elevation  was  ordinated  against  a  subjectively  defined 
+moisture  index  (basically  a  composite  of  aspect,  slope,  and  topo¬ 
+graphic  position).  Results  suggest  that  the  plant  communities  occur 
+along  a  complex  topographiclsoil/moisture  gradient.  Since  total  relief 
+is  only  800  feet,  it  is  likely  elevation  relationships  are  more  strongly 
+associated  with  topographic  position  than  with  altitude-related 
+temperature  limitations.  These  results  are  based  on  a  total  of  two- 
+days  of  field  work  and  must  be  regarded  as  tentative  pending  more 
+intensive  fieldwork. 
+
+
+draft  date:  09/28/90 
+sourcecode:  /FOODEVOIMTUS 
+
+(A~ 
+
+
+1 
+
+
+INTRODUCTION 
+
+
+The  Kevin  Rim  in  northcentral  Montana  contains  the  second  highest 
+raptor  nest  density  recorded  in  the  western  United  States  (information  on 
+file  at  MTNHP).  At  present  these  raptor  populations  are  being  intensively 
+inventoried  and  monitored  as  part  of  a  study  to  determine  potential 
+impacts  of  oil/gas  and  agricultural  development  in  the  area.  Additionally, 
+the  Bureau  of  Land  Management  has  proposed  a  portion  of  the  Kevin  Rim 
+be  designated  an  Area  of  Critical  Environmental  Concern  (ACEC)  and  the 
+raptor  study  will  provide  information  relevant  to  the  ACEC  designation 
+process. 
+
+Although  significant  knowledge  is  building  regarding  raptor 
+populations,  plant  community  composition  and  environmental  relation¬ 
+ships  at  the  Kevin  Rim  have  been  poorly  studied.  Since  plant  communi¬ 
+ties  constitute  a  major  component  of  raptor  habitat,  this  survey 
+was  conducted.  The  objective  was  to  provide  a  preliminary  description 
+of  plant  community/environmental  relationships  of  the  area.  The  results 
+are  based  on  only  two-days  of  fieldwork  (June  20  and  21, 1990)  and  would 
+require  significant  additional  field  survey  to  validate  and  refine  the 
+community  listing  and  to  develop  an  acceptable  vegetation  map. 
+
+METHODS 
+
+The  study  area  was  defined  as  extending  from  the  south-end  of  the 
+Kevin  Rim  (T35N,  R3W,  Sec.  19)  north  approximately  six  miles  (T36N, 
+R3W,  Sec.  20).  The  study  area  forms  a  3/4  mile-wide  band  extending 
+approximately  1/4  mile  across  the  mesa-top  from  the  sandstone 
+escarpment  and  1/2  mile  below  the  escarpment. 
+
+Samples  were  subjectively  selected  using  a  variation  of  the  "gradsect" 
+method  described  by  Gillison  and  Brewer  (1985).  The  method  involved 
+preferential  sampling  along  local  transects  following  the  maximum  per¬ 
+ceived  environmental  gradients.  Representation  of  the  range  of  eleva- 
+tional,  topographic,  and  soil  conditions  was  strived  for.  Only  two  Mays 
+were  available  for  fieldwork.  An  additional,  fivefdays  of  sampling  would 
+likely  be  necessary  to  be  confident  that  a  representative  sample  was 
+achieved. 
+
+
+2 
+
+
+Reconnaissance  "fast-plots"  were  established  on  different  topographic 
+positions  along  elevational  transects  where  subjective  judgement  indicated 
+a  marked  change  in  vegetation  composition.  Information  recorded 
+included  community  occurrence  acreage  (continuous  area),  topographic 
+position,  slope  shape,  aspect,  slope  percent,  elevation,  canopy  cover 
+estimates  of  the  five  to  ten  dominant  plant  species,  and  general  comments 
+regarding  the  community  occurrence. 
+
+Analysis  focused  on  using  existing  plant  community  classifications 
+to  identify  plant  community  types.  Direct  gradient  analysis  was  used  to 
+describe  general  patterns  of  communities  in  relation  to  environmental 
+factors.  Elevation  formed  one  axis  of  this  ordination  while  the  other  axis 
+was  a  subjectively  defined  moisture  index  (basically  a  composite  of  aspect, 
+slope,  and  topographic  position). 
+
+Species  nomenclature  follows  GPFA  (1986). 
+
+RESULTS  AND  DISCUSSION 
+
+A  total  of  21  reconnaissance  plots  were  established  (Fig.  1).  These 
+data  were  grouped  into  three  grassland,  six  shrubland,  and  two  forest 
+series  containing  thirteen  plant  communities  (Table  1).  A  diagnostic  key 
+utilizing  indicator  plant  species  is  provided  for  field  identification  of  the 
+plant  communities  (Table  2). 
+
+Community  types  occur  along  topographic  and  soil  moisture 
+gradients  (Fig.  2).  Since  total  relief  is  only  800  feet,  it  is  likely  elevation 
+relationships  are  more  strongly  associated  with  topographic  position  than 
+with  altitude-related  temperature  limitations.  Descriptions  of  the  13 
+community  types  and  their  general  environmental  relationships  follow 
+(refer  to  Fig.  2  also): 
+
+Grasslands.  The  AGSM-BOGR  community  is  common  on  alluvial 
+fans  and  other  flat  to  slightly  sloping  surfaces  at  low  elevations.  Heavy 
+grazing  by  cattle  is  common  and  the  dominance  of  Bouteloua  gracilis  likely 
+reflects  the  species  ability  to  increase  in  response  to  grazing.  Other 
+characteristic  species  include  Agropyron  smithii ,  Carex  filifolia ,  and 
+Artemisia  frigida. 
+
+
+3 
+
+
+The  AGSM-STVT  community  likely  represents  a  less  heavily  grazed 
+and/or  slightly  mesic  variant  of  the  AGSM-BOGR  community.  Bouteloua 
+gracilis  is  often  well  represented  where  cattle  grazing  is  moderate  to 
+heavy.  The  community  occurs  on  clayey  alluvial  fans,  flats,  and 
+depressions  at  low  elevations.  In  addition  to  Bouteloua  gracilis ,  Agropyron 
+smithii ,  Stipa  viridula ,  Poa  sandbergii ,  Stipa  comata ,  Carex  filifolia,  and 
+Artemisia  frigida  are  generally  common  to  well  represented.  The  most 
+heavily  disturbed  sites  typically  feature  Bromus  tectorum. 
+
+The  AGSP-BOGR  community  is  common  on  flat  to  steep  slopes  at 
+low  to  mid  elevations.  Cattle  grazing  is  moderate  to  heavy  and  "increaser" 
+plants  such  as  Artemisia  frigida ,  Sphaeralcea  coccinea,  Hymenoxys  spp., 
+and  Phlox  hoodii  are  often  common.  Generally,  Bouteloua  gracilis  appears 
+to  be  more  abundant  on  the  heavily  grazed  sites.  Other  characteristic 
+species  include  Agropyron  spicatum ,  Stipa  comata ,  Carex  filifolia,  and 
+Koeleria  pyramidata. 
+
+The  AGSP-POSA  community  is  common  above  the  sandstone  rim  at 
+the  highest  elevations  of  the  study  area.  These  relatively  flat  to  gently 
+sloping  sites  have  likely  received  heavy  grazing  historically  both  by  cattle 
+and  sheep.  However,  no  stock  were  visible  at  survey  time.  "Increaser" 
+species  such  as  Artemisia  frigida ,  Phlox  hoodii ,  and  Selaginella  densa  are 
+often  abundant.  Characteristic  species  are  Agropyron  spicatum,  Poa 
+sandbergii,  Carex  filifolia,  Stipa  comata,  and  Koeleria  pyramidata. 
+Bouteloua  gracilis  is  generally  absent. 
+
+The  FEID-AGSP  community  is  relatively  uncommon  in  the  study 
+area  and  occurs  above  the  sandstone  rim  on  sites  similar  to  the  AGSP- 
+POSA  community.  It  is  possible  that  more  mesic  occurrences  of  the  AGSP- 
+POSA  community  might  represent  FEID-AGSP  sites  where  Festuca 
+idahoensis  has  been  eliminated  by  heavy  grazing.  In  addition  to  Festuca 
+idahoensis  and  Agropyron  spicatum ,  characteristic  species  include  Poa 
+sandbergii  and  Koeleria  pyramidata. 
+
+Shrublands.  The  ARCA/AGSM  community  is  of  relatively  small 
+extent  and  occurs  in  steep  mid  slope  concavities  (e.g.,  draws  and  other 
+moisture  run-on  sites).  The  community  represents  the  driest  extreme  of 
+"riparian"  sites  in  the  study  area.  The  common  occurrence  of  "weedy" 
+
+
+4 
+
+
+species  such  as  Bromus  tectorum  and  Descurainia  pinnata  is  suggestive  of 
+grazing  disturbance,  perhaps  by  sheep.  Cattle  traffic  on  these  steep  slopes 
+is  likely  infrequent.  Characteristic  species  include  Artemisia  cana, 
+Agropyron  smithii,  and  Elymus  cinereus. 
+
+Xeric  'badland"  sites  at  low  to  mid  elevations  feature  vegetation 
+varying  widely  in  composition  and  cover.  Bare  soil  dissected  by  gullies 
+characterizes  most  sites.  Perhaps  the  most  characteristic  species  are 
+Atriplex  nuttallii  and  Oryzopsis  hymenoides  and  the  community  is  provi¬ 
+sionally  referred  to  as  ATNU/ORHY  (complete  community  descriptive 
+information  would  be  needed  to  verify  classification).  Additional  species 
+encountered  include  Agropyron  spicatum ,  Artemisia  cana ,  and 
+Chrysothamnus  nauseosus.  Since  the  cover  of  forage  species  seldom 
+exceeds  10  percent  and  the  slopes  are  often  steep,  grazing  impacts  by 
+domestic  stock  is  low.  However,  even  infrequent  movement  of  stock  across 
+these  unstable  sites  would  likely  result  in  enhanced  erosion. 
+
+A  community  provisionally  referred  to  as  POFR/AGSP  was  observed 
+at  one  location  in  the  study  area  (complete  community  descriptive 
+information  would  be  needed  to  verify  classification).  The  site  is  a  steep, 
+mesic  north  slope  at  mid  elevation.  High  species  diversity  is  present  (>40 
+species/tenth  acre).  Although  the  grasslands/shrublands  below  on  gentle 
+topography  have  been  heavily  impacted  by  cattle,  the  steep  topography  on 
+this  site  likely  prevents  cattle  form  frequently  venturing  onto  the  site. 
+Species  that  are  common  or  well-represented  include  Potentilla  fruticosa, 
+Agropyron  spicatum ,  Amelanchier  alni folia,  Juniperus  communis , 
+Eleagnus  commutata ,  and  Koeleria  pyrfmidata. 
+
+Two  "riparian"  shrubland  communities  were  found  in  the  study  area: 
+PR VI  and  SYOC.  The  PR VI  community  is  found  in  upper  slope  draws  and 
+moist  concavities  and  the  more  common  SYOC  community  occurs  in 
+similar  habitats  at  lower  elevations.  Owing  to  the  greater  water 
+availability  on  these  sites,  forage  production  is  generally  higher  than  on 
+surrounding  uplands.  This  has  generally  resulted  in  higher  relative 
+utilization  (and  impact)  by  livestock  and  wildlife  on  such  sites.  Increaser 
+species  such  as  Bromus  tectorum  and  Poa  pratensis  are  often  well 
+represented. 
+
+
+5 
+
+
+Characteristic  species  in  the  PR VI  community  include  Prunus 
+virginiana  andi Symphoricarpos  occidentalis .  However,  species  composition 
+is  highly  varied  among  occurrences  of  this  community  and  Agropyron 
+smithii ,  Elymus  cinereus,  Artemisia  ludoviciana ,  Ribes  aureum,  and 
+Thermopsis  rhombifolia  are  well  represented  on  some  sites. 
+
+Symphoricarpos  occidentalis  characterizes  the  SYOC  community  and 
+sometimes  dominates  stands  to  the  extent  that  other  species  are  either 
+excluded  or  are  depauperate.  Associated  species  that  may  be  well 
+represented  include  Agropyron  smithii  and  A.  dasystachyum,  and 
+Artemisia  ludoviciana. 
+
+A  RHAR/AGSP  community  occurs  on.  xeric  mid  elevation  sites. 
+Slopes  are  steep  and  soils  are  sandy  and  erosive' with  up  to  70%  bare  soil 
+exposed.  The  physiognomic  characteristics  are  similar  to  the 
+ATNU/ORHY  badlands  community  which  occurs  on  clayey  substrates. 
+Characteristic  species  include  Rhus  aromatica ,  Agropyron  spicatum, 
+Artemisia  cana ,  Oryzopsis  hymenoides ,  and  Calamovilfa  longifolia. 
+
+Forests.  Two  riparian  broadleaved  forest  communities  were  found 
+in  the  study  area:  PODE/COST  and  POTR/COST.  These  communities 
+occupy  perhaps  the  smallest  total  area  of  any  community  in  the  study  area 
+but  contain  such  high  species  and  structural  diversity  that  their  biodi¬ 
+versity  importance  greatly  exceeds  their  area.  9 
+
+p 
+
+The  most  mesic  of  the  two  communities  is  PODE/COST  which  was 
+found  in  a  very  steep,  mid  elevation  draw.  Dominant  species  present  are 
+Populus  deltoides ,  Prunus  virginiana,  Amelanchier  alnifolia,  and 
+Heracleum  sphondylium. 
+
+The  POTR/COST  community  was  found  on  a  steep  north-facing 
+upper  slope.  Dominant  species  are  Populus  tremuloides,  Cornus 
+stolonifera,  Prunus  virginiana,  Amelanchier  alnifolia,  and  Ribes  lacustre. 
+The  Populus  tremuloides  present  features  about  30  percent  crown  mortal¬ 
+ity  (perhaps  in  response  to  drought  stress?)  but  appears  to  be  regenerating 
+sufficiently  for  self-replacement.  Species  diversity  is  high  (>40 
+species/tenth  acre).  The  dense  vegetation  and  isolation  high  up  a  steep 
+slope  has  minimized  livestock  impacts  and  vegetation  condition  was  among 
+
+
+6 
+
+
+the  most  pristine  observed.  Complete  community  descriptive  information 
+would  be  desirable  to  fully  document  this  interesting  community 
+occurrence. 
+
+
+CONSERVATION-SPECIFIC  COMMENTS 
+
+Most  of  the  vegetation  present  appears  to  have  been  impacted  by 
+grazing  disturbance.  At  present,  livestock  do  not  appear  to  be  intensively 
+utilizing  the  steeper  slopes  and  vegetation  condition  may  be  improving 
+from  past  impacts  (by  sheep?)  on  such  sites.  However,  many  of  the  steep 
+slopes  present  feature  unstable  substrates  that  will  likely  continue  to 
+provide  suitable  sites  for  disturbance  opportunists  such  as  Bromus 
+tecforam.regardless  of  grazing  status.  Reduction  of  cattle  numbers  on  the 
+more  heavily- impacted  flat  areas  below  the  escarpment  may  result  in 
+improvement  in  vegetation  condition  since  abundant  native  seed  sources 
+remain. 
+
+Conversion  of  native  vegetation  to  agriculture  (i.e.,  "sod-busting”)  has 
+occurred  on  flat  topography  both  above  and  below  the  sandstone  escarp¬ 
+ment.  Continued  farm  expansion  may  degrade  native  habitat  quality  in 
+the  area  both  by  reducing  the  extent  of  native  plant  community  occur¬ 
+rences  and  by  expanding  the  seed  pool  of  exotic  species. 
+
+The  network  of  access  roads  associated  with  oil  field  development 
+and  ranching  in  the  area  poses  a  threat  to  biodiversity.  Potential  impacts 
+associated  with  these  roads  include:  disturbances  to  soils  and  vegetation 
+resulting  from  off-road  vehicle  use,  increased  poaching,  and  increasesd 
+dispersal  of  weeds. 
+
+
+7 
+
+
+LITERATURE  CITED 
+
+
+Anderson,  N.L.  1973.  The  vegetation  of  rangeland  sites  associated 
+with  some  grasshopper  studies  in  Montana.  Montana  Agriculture 
+Experiment  Station  Bulletin  No.  668.  Montana  State  University, 
+Bozeman. 
+
+Gillison,  A.N.  and  K.R.W.  Brewer.  1985.  The  use  of  gradient  directed 
+transects  or  gradsects  in  natural  resource  surveys.  Journal  of 
+Environmental  Management  20:103-127. 
+
+GPFA  (Great  Plains  Flora  Association).  1986.  Flora  of  the  great  plains. 
+University  Press  of  Kansas,  Lawrence. 
+
+Hansen,  P.,  K.  Boggs,  R.  Pfister,  and  J.  Joy.  1990.  Classification  and 
+management  of  riparian  and  wetland  sites  in  central  and  eastern 
+Montana.  Draft  Version  2.  Montana  Riparian  Association,  School  of 
+Forestry,  University  of  Montana,  Missoula. 
+
+Mueggler,  W.F.  and  W.L.  Stewart.  1980.  Grassland  and  shrubland  habitat 
+types  of  western  Montana.  USDA  Forest  Service  General  Technical 
+Report  INT-66. 
+
+Ross,  R.L.,  E.P.  Murray,  and  J.G.  Haigh.  1973.  Soil  and  vegetation 
+inventory  of  near-pristine  sites,  Montana.  USDA  Soil  Conservation 
+Service,  Bozeman,  Montana. 
+
+
+8 
+
+
+Table  1.  Moisture  index  (l=most  mesic;  5= most  xeric),  elevation 
+(feet),  percent  slope,  aspect,  topographic  position,  element  occurrence 
+rank  by  community  type  (see  code  definitions  and  authority  at 
+bottom  of  table),  and  plot  number. 
+
+
+PLOT  CT 
+
+INDEX 
+
+ELEV 
+
+SLOPE 
+
+ASP. 
+
+POS.  RANK 
+
+GRASSLANDS 
+
+18 
+
+AGSM-BOGR 
+
+5 
+
+3530 
+
+5 
+
+NE 
+
+fan 
+
+F 
+
+2 
+
+AGSM-STVI 
+
+4 
+
+3660 
+
+5 
+
+S 
+
+flat 
+
+C 
+
+3 
+
+AGSM-STVT 
+
+4 
+
+3700 
+
+8 
+
+S 
+
+flat 
+
+D 
+
+1 
+
+AGSP-BOGR 
+
+5 
+
+3600 
+
+2 
+
+SE 
+
+flat 
+
+C 
+
+4 
+
+AGSP-BOGR 
+
+5 
+
+3840 
+
+45 
+
+SE 
+
+mid 
+
+B 
+
+9 
+
+AGSP-BOGR 
+
+5 
+
+3540 
+
+2 
+
+S 
+
+flat 
+
+C 
+
+11 
+
+AGSP-POSA 
+
+4 
+
+4190 
+
+3 
+
+E 
+
+ridge 
+
+C 
+
+17 
+
+AGSP-POSA 
+
+4 
+
+4250 
+
+1 
+
+W 
+
+ridge 
+
+C 
+
+21 
+
+FEID-AGSP 
+
+3 
+
+4020 
+
+5 
+
+E 
+
+ridge 
+
+C 
+
+SHRUBLANDS 
+
+5 
+
+ARCA/AGSM 
+
+3 
+
+3940 
+
+20 
+
+SE 
+
+mid 
+
+C 
+
+6 
+
+ARCA/AGSM 
+
+3 
+
+4000 
+
+40 
+
+SE 
+
+mid 
+
+D 
+
+14 
+
+ATNU/ORHY 
+
+5 
+
+3700 
+
+5 
+
+SE 
+
+ridge 
+
+B 
+
+15 
+
+ATNU/ORHY 
+
+5 
+
+3700 
+
+45 
+
+S 
+
+mid 
+
+B 
+
+19 
+
+POFR/AGSP 
+
+2 
+
+3780 
+
+70 
+
+N 
+
+mid 
+
+B 
+
+7 
+
+PR  VI 
+
+2 
+
+4060 
+
+85 
+
+SE 
+
+draw 
+
+C 
+
+12 
+
+PR VI 
+
+2 
+
+4060 
+
+50 
+
+E 
+
+draw 
+
+C 
+
+8 
+
+RHAR/AGSP 
+
+4 
+
+3960 
+
+75 
+
+SE 
+
+upper 
+
+C 
+
+16 
+
+RHAR/AGSP 
+
+4 
+
+3900 
+
+65 
+
+E 
+
+mid 
+
+B 
+
+10 
+
+SYOC 
+
+2 
+
+3580 
+
+10 
+
+S 
+
+draw 
+
+C 
+
+FORESTS 
+
+13 
+
+PODE/COST 
+
+1 
+
+3960 
+
+100 
+
+NE 
+
+draw 
+
+B 
+
+20 
+
+POTR/COST 
+
+1 
+
+3920 
+
+65 
+
+N 
+
+upper 
+
+B 
+
+9 
+
+
+Table  1.  (continued) 
+
+
+AGSM-BOGR: 
+
+AGSM-STVI: 
+
+AGSP-BOGR: 
+
+AGSP-POSA: 
+
+FEID-AGSP: 
+
+ARCA/AGSM: 
+
+ATNU/ORHY: 
+
+POFR/AGSP: 
+
+PRVI: 
+
+RHAR/AGSP: 
+
+SYOC: 
+
+PODE/COST: 
+
+POTR/COST: 
+
+
+Agropyron  smithii-Bouteloua  gracilis  (Anderson 
+1973) 
+
+A.  smithii-Stipa  viridula  (Ross  et  al.  1973) 
+
+A.  spicatum-Bouteloua  gracilis  (Mueggler  and 
+Stewart  1980) 
+
+A.  spicatum-Poa  sandbergii  (Mueggler  and  Stewart 
+1980) 
+
+Festuca  idahoensis-A.  spicatum  (Mueggler  and 
+Stewart  1980) 
+
+Artemisia  canal  Agropyron  smithii  (Hansen  et  al. 
+1990) 
+
+Atriplex  nuttalliilOryzopsis  hymenoides  (not 
+previously  described) 
+
+Potentilla  fruticosalAgropyron  spicatum  (not 
+previously  described) 
+
+Prunus  virginiana  (Hansen  et  al.  1990) 
+
+Rhus  aromatica/ Agropyron  spicatum  (Mueggler  and 
+Stewart  1980) 
+
+Symphoricarpos  occidentalis  (Hansen  et  al.  1990) 
+Populus  deltoides/Cornus  stolonifera  (Hansen  et 
+al.  1990) 
+
+Populus  tremuloides/Cornus  stolonifera  (Hansen 
+et  al.  1990) 
+
+
+10 
+
+
+Table  2.  Key  to  community  types  of  the  Kevin  Rim. 
+
+1.  Populus  spp.  with  at  least  5  percent  canopy  cover  -  2 
+
+1.  Populus  spp.  with  less  than  5  percent  canopy  cover  —  3 
+
+2.  Populus  tremuloides  with  at  least  5  percent  canopy  cover  — 
+
+Populus  tremuloides! Cornus  stolonifera  CT 
+
+2.  Populus  tremuloides  with  less  than  5  percent  canopy  cover  — 
+
+Populus  deltoides/ Cornus  stolonifera  CT 
+
+3.  Shrubs  present  with  a  combined  canopy  cover  of  at  least  10 
+
+percent  —  4 
+
+3.  Shrubs  with  a  combined  canopy  cover  of  less  than  10  percent 
+
+-  9 
+
+4.  Potentilla  fruticosa  with  at  least  10  percent  canopy  cover  — 
+
+Potentilla  fru ticosa/Agropyron  spicatum  CT 
+
+4.  P.  fruticosa  with  less  than  10  percent  canopy  cover  -  5 
+
+5.  Artemisia  cana  with  at  least  10  percent  canopy  cover  — 
+
+Artemisia  canafAgropyron  smithii  CT 
+
+5.  Artemisia  cana  with  less  than  10  percent  canopy  cover  —  6 
+
+6.  Prunus  virginiana  with  at  least  15  percent  canopy  cover  -- 
+
+Prunus  virginiana  CT 
+
+6.  P.  virginiana  with  less  than  15  percent  canopy  cover  -  7 
+
+7.  Symphoricarpos  occidentalis  with  at  least  15  percent  canopy 
+
+cover  —  Symphoricarpos  occidentalis  CT 
+
+7.  S.  occidentalis  with  less  than  15  percent  canopy  cover  —  8 
+
+8.  Rhus  aromatica  with  at  least  10  percent  canopy  cover  -- 
+
+Rhus  aromatica/Agropyron  spicatum  CT 
+
+8.  Rhus  aromatica  with  less  than  10  percent  canopy  cover  - 
+Atriplex  nuttallii/Oryzopsis  hymenoides  CT 
+
+
+11 
+
+
+Table  2.  (continued) 
+
+
+9.  Festuca  idahoensis  with  at  least  5  percent  canopy  cover  - 
+Festuca  idahoensis-Agropyron  spicatum  CT 
+
+9.  F.  idahoensis  with  less  than  5  percent  canopy  cover  --  10 
+
+10.  Agropyron  spicatum  with  at  least  5  percent  canopy  cover 
+
+-11 
+
+10.  A.  spicatum  with  less  than  5  percent  canopy  cover  —  12 
+
+11.  Bouteloua  gracilis  with  at  least  5  percent  canopy  cover  — 
+
+Agropyron  spicatum-Bouteloua  gracilis  CT 
+
+11.  B.  gracilis  with  less  than  5  percent  canopy  cover  - 
+
+Agropyron  spicatum-Poa  sandbergii  CT 
+
+12.  Stipa  viridula  present  -- 
+
+Agropyron  smithii-Stipa  viridula  CT 
+
+12.  S.  viridula  absent  -- 
+
+Agropyron  smithii-Bouteloua  gracilis  CT 
+
+
+12 
+
+
+Figure  1.  Map  of  the  Kevin  Rim  study  area  showing  locations  of  study 
+plots.  The  square  at  upper  left  represents  T36N,  R3W,  Section  20 
+and  the  thick  black  line  is  the  4000  foot  contour.  The  bottom  left 
+(including  plots  1  through  8)  is  the  northern  portion  of  T35N,  R3W, 
+Section  19  and  the  thick  black  line  is  the  4100  foot  contour.  The 
+contour  lines  follow  the  sandstone  rim  and  the  dashed  lines 
+represent  roads. 
+
+
+13 
+
+
+ELEVATION 
+
+
+4300 
+
+
+4100  1 
+
+
+3900 
+
+
+3700  L 
+
+
+3500 
+
+
+XERIC 
+
+
+MOISTURE  GRADIENT 
+
+
+Figure  2.  Approximate  distribution,  of  Kevin  Rim  plant  communities  along 
+soil  moisture  and  elevation  gradients.  The  empty  area  represents 
+combination  that  do  not  exist  or  are  unsampled.  Pink,  yellow,  and 
+no  highlighting  indicate  communities  of  high,  low,  and  intermediate 
+relative  acreage. 
+
+
+14 
+
+
+MONTANA  NATURAL  HERITAGE  PROGRAM 
+
+
+1515  East  Sixth  Avenue 
+Helena,  Montana  59620 
+(406)  444-3009 
+
+
+October  1,  1990 
+
+Marco  Restani 
+Department  of  Biology 
+Montana  State  University 
+Bozeman,  Montana  59717 
+
+
+Bear  Marco: 
+
+
+Please  find  enclosed  the  long  awaited  Kevin  Rim  plant 
+community  report  for  your  reading  enjoyment.  If  you  have 
+any  questions  or  comments  please  write  or  call  me.  I  talked 
+with  Dave  Genter  about  this  report  and  he  thought  it  could 
+be  appended  to  your  report.  I'll  let  you  too  decide  that  fate. 
+
+Sincerely , 
+
+Robert  L.  DeVelice 
+
+
+The  Mature  Conservancy  and  Montana  State  Library 
+
+
+MONTANA  NATURAL  HERITAGE  PROGRAM 
+
+1 
+
+1515  East  Sixth  Avenue 
+
+'  i! 
+
+Helena,  Montana  59620 
+
+(406)  444-3009 
+
+October  3,  1990 
+Tad  Day 
+
+BLM  Great  Falls  RA  Office 
+812-14th  Street  North 
+P.O.  Box  2865 
+
+Great  Falls,  MT  59403-2865 
+
+
+cc:  Joan  Bird  (TNC) ,  Patrick  Bourgeron  (TNC) ,  Dean  Culwell 
+(WESTECH) ,  Angela  Evenden  (USFS) ,  Dan  Leschevsky  (BLM) 
+Peter  Lesica  (UM)  ' ' 
+
+Dear  Mr.  Day: 
+
+
+.  .  IJllYe  ^closed  a  copy  of  my  report  entitled  "Plant  Communi- 
+Kevin  .Rlln'  Toole  County,  Montana:  Preliminary  Survey 
+Results  for  your  information.  This  report  is  based  on  two  days  of 
+“eld .  reconnaissance  conducted  at  the  request  of  Dave  Genter 
+M°ntana  Natural  Heritage  Program)  .  I  have  also  sub- 
+mitted  the  report  to  Marco  Restani  for  potential  incorporation  into 
+
+rapt?f  survey  report.  If  you  have  any  questions  or 
+comments  please  write  or  give  me  a  call. 
+
+Sincerely, 
+
+
+Robert  L.  DeVelice 
+Community  Ecologist 
+
+
+The  Nature  Conservancy  and  Montana  State  Library 
+
+
+Kxyin 
+
+
+CD 
+
+
+Ok  444  \/w% 
+
+
+JumjI  20/  fffO  b@y>n  /  f  {SO  Q  /vt 
+
+yhoia 
+
+
+— r~~~ 
+
+
+T“ 
+
+B  *30  s 
+
+
+o 
+
+
+A) 
+
+
+3 
+
+
+\j  '< 
+'O  t 
+
+
+4A> 
+
+
+vtb 
+
+
+.  Uotcf^  /V  kj  ^on/v  Ss.<_.  !H 
+
+
+poA  K!  HJ  s  pof  boyJOAd&  H^e.  f<j  **A 
+
+
+ftetso*.  jpfdj-  ha&ic  <7<  ,/M.fo,  *4o  / e cored  \ 
+
+0  rzcoA.  p/of  It-  ($ewAf*  *vs>  On.  fi.uad.  Map) 
+Xj  CommusA  < 7%  Ay p  e  /i  Q.  M 
+i?)  COhHh  «.o{a^i  acreage, 
+
+f)  f)[oi  pot/Ate  n  -  nf^iz, 
+
+upp  $  r  f  /o/  € 
+
+. .  mU  s/ope 
+
+LoyJdr  s  to  p  C 
+8e*ck,  (or  -flat) 
+
+-  Spa, sit 
+
+
+5 J  jV£ 
+
+
+c/> 
+
+
+rau*J 
+
+
+°f€.. 
+
+
+>7r&icji} 
+
+/ 
+
+
+V“ 
+
+4 
+
+V 
+
+4 
+
+Cp/i  C&pi 
+
+..........  ,  V\ 
+
+A- 
+
+I4 
+
+/? 
+
+X 
+
+7r 
+
+4 
+
+Aspect 
+
+c 
+
+*s> 
+
+O  ■■•••• 
+
+r  ■ 
+
+a 
+
+7) 
+
+S> 
+
+r  1  „  <s*y ,. 
+
+ohDi?  i c> 
+
+J  v" 
+
+1 
+
+0 
+
+. A 
+
+C&Mtp  H  Cdver 
+lire  5& teles) 
+
+e$i‘Anpe„ 
+
+T  = 
+
+f 
+
+O 
+
+of  S'- 
+
+Hfs 
+
+%4^ 
+
+w 
+
+/. - 
+
+/.- 
+
+•  S7& 
+
+1 
+
+2- 
+
+&  - 
+
+2$76 
+
+••  sa.  /  •  • 
+
+3  - 
+
+2S-5'<3^ 
+
+ioHAt 
+
+
+Wisf  {fir  cltGsmtfpy- 
+
+
+Jo)  fhoTo 
+//)  Co^At^'h 
+
+/l)  fORAAJk.  t Com 
+
+
+A  «  Jo-  ?■ $•% 
+5-75-.  i?Sr% 
+4-  c?5“-  /oo% 
+
+
+ploi%  I ->8  MomhUi*  Mea  fcltad  &moJ  T'AS/Vj  ftSys.  P 
+
+fjof  y o  .  We,j  7W  <W  t35-/vJj  s.  /fc 
+
+ftit  11*13 At  <V*d  T'|5/ \)}PZE'J  <,/£ 
+
+phi  iH*n  hVO . T?^.  % e,  <T.  1 7 
+
+MVS  Qud  TZ(*MttZ£  $-20 
+
+
+\Fi/vy4-c  iqcjo 
+
+/.  /'/of  /</  ^ 
+
+2.  .  /)  ( ./(nM  H  ) 
+
+
+© 
+
+
+pf  H  i 
+
+
+7  1 
+
+
+/ 
+
+o~ 
+
+
+/ 
+
+
+CM3 
+
+
+7:  k'dcj-C. 
+
+£ . COmA£?S. 
+
+
+. .v.<...  /  .  .//of'  15  _ _____  .  ^ 
+
+.  -  .  fc?*t Jt(ewAa\^  z  A  I  (s  A  \/  Qfc  h«4/^A&. 
+
+. \ . 3 . . 
+
+q . 
+
+
+6 
+
+7 
+
+
+8  3  7(3  0 
+
+7 . Q£Pg9W^.'T' 
+
+fr&i  SpT  ~T 
+
+/m%AA  i 
+
+. Mtc  an  . . I 
+
+"T 
+
+
+//rmi  x. . N 
+
+£W/ma 4. . 
+
+'  ^r:J 
+
+. yi  d^i . ^ 
+
+LfgtfS 
+
+
+.C^rfS^.  , i . T.... . 
+
+
+5  C%;s?Ti) 
+
+£  3 
+
+7  4-5% 
+
+#  3^-70 
+
+?  AitrcA/y.  i 
+
+A  T&  &/t£  I 
+
+CPks 
+
+
+I 
+
+
+tJ3Z 
+
+
+tO .  At  O  /u€— - 
+
+
+If. 
+
+
+AaA 
+
+
+1/  fC%  (V) 
+
+. ny 
+
+
+. 
+
+lggO-.  4  !'&*"■■  J 
+
+^  /_  ^  (7/  ^>/i  r  \  /t 
+
+Swr-»  *'  /* 
+
+
++  y/ 
+
+
+(.  yU&A 
+
+6dv^. .  &$?  .  X4A--C 
+
+
+I  /« 
+K 
+
+
+q?£)ptj&L  I  (  U£  *2  /&&■/<£ 
+
+. 7 . 
+
+
+7«0{ 
+
+
+^rsCr.  ^  i^.kl  l/Mtf&t&l. 
+
+v  *  **■ 
+
+H/'i  0 &lMj}0$ifi  (M  P  Cdlj€  f  {\\/A  dY’g 
+
+fWjy  Sr&s 
+
+
+<0:  B  3 . C,  j^/M3. . *  .C,r<3PS,  . 
+
+Ottd . /r . ___ 
+
+TvY-d.  L  ^  U 
+
+
+.3. . Af?Ar.. 
+
+
+17. 
+
+
+jfiQ  caa/a^.  (J  -fPe  c 
+
+j/14/jip^  ow^i  -  ^  cl  fbjf&.JfC  iP3^  -  . 
+
+q .jpn.l*Mp..LjAeP  !/krkJ  ~r 
+
+l  \/\Ap&it<  4  by!  <0(Q04§£nC 
+
+
+j 
+
+J^V*? 
+
+(d%~) (Axams/ 
+Sif-e  S  3’JduiJ  !>k:S,  ln(yz*££ 
+(Z/o^j  ij-gS  C/ 
+
+
+. . . . U-. 
+
+* ¥£%M  f  moj'c/  coiJ't  y  ittas~^ 
+
+gof~  /  V  cxaoJ  ^dp- 
+i/-e:  autses. . UM>  v£ . fgesAck 
+
+C¥~~A — ^ —  L  &*-/  ~itP&  ^  .'7  (a  ¥(a~A 
+
+1  {>  J  OyU<l  S'/a £0Jl/\. 
+u^-osg  cd  U)  k~czxs> 
+■■-j-zJb/e.  a0,'~tC\  . 
+
+
+o 
+
+i 
+
+
+l 
+
+
+'B 
+
+
+j?!of 
+
+
+Mue^j/er  f  •f-ypc') 
+
+'  / 
+
+
+ACrgsPl  -  CAZPZC  (hrS P~ So 6- R) 
+
+P  1 (oO  dSL,cj^«< 
+
+
+/,  p/ot  2 
+
+
+1  a.  A<r£Sf/£  -  STZVt.£ 
+
+I 
+
+I  1.  (Lirc.fr .  5" 
+
+
+^  Cre  j 
+
+
+I  x  f loJr 
+l  r- 
+
+I  i-  •  Con  c. 
+
+
+Si r 
+
+| 
+
+G. 
+
+2 
+
+■)  9 
+
+c-S  f'O 
+
+| 
+
+7, 
+
+77o 
+
+oO 
+
+o 
+
+o 
+
+0 
+
+| 
+
+o 
+<5  . 
+
+24  60 
+
+SttcqaA 
+
+5  1 
+
+o 
+
+i  • 
+
+/A  (j~  *>  Li— • 
+
+2 
+
+ACrfiisP~r 
+
+3  1 
+
+5  fX 
+
+I 
+
+PoAsrC. 
+
+1  j 
+
+jrl  A-  C 
+
+T" 
+
+C  A  ft  for  C. 
+
+2_  ‘ 
+
+Po(\S&X 
+
+2. 
+
+MTRkX 
+
+z 
+
+1 
+
+‘SrzcorA 
+
+X. 
+
+E-RoLpf'i 
+
+I 
+
+1 
+
+V 
+
+tiOaercA 
+
+j 
+
+iPhiCOM 
+
+i 
+
+1 
+
+CAR.  F-X  c_ 
+
+1 
+
+fiY/A  Ac  A 
+
+1 
+
+1 
+
+efior^x. 
+
+T 
+
+1<0£MA< 
+
+~T~ 
+
+1 
+
+Cere  c  a  f\J 
+
+T~ 
+
+r  o  k  (x(2_  r 
+
+Z  O  PM Poc  T 
+
+4 
+
+I 
+
+ARepfzz. 
+
+1 
+
+/I  /Grow/  T 
+
+
+f  '  -  x  :  "v"  / ""  x 
+
+dr  p4a/o  C 7  fr-cM^Jrf  Ttu\ 
+
+
+jO'b 
+
+
+/'"-■■'■•Oy:/ 
+
+
+/  A%.  /*■£&.,  r* 
+
+/ 
+
+
+Comhdtt 
+
+°\  ra-</  J 
+
+i  ^ 
+
+r  />-•-. 
+
+,?x  I !.  C‘coi',r:)  t 
+O  A  ^HO/E/S 
+
+;<5  “O  f>6r  *  R'ckP’ y  bcL  b/Zo 
+
+iikeL,  c/u>/  y  d  cK .  •/• 
+
+
+C.  —  lj  M  ''  '■?  <'Pj  O  f 
+
+obtAA-,J  a  i_y~\  4-oi 
+
+
+\  to. 
+
+i 
+
+Non  C 
+
+I  ij , 
+
+C  UAAt/J&y 
+
+tej  -«•  /  x  p  cy )  a-  x  J 
+
+j 
+
+/Mad  ->  }/ 
+
+Net  tss  Cr. 
+
+.  / 
+
+!  /  2_. 
+
+§ 
+
+o 
+
+(K°fe  E  Rot  cm  f 
+
+j 
+
+•» 
+
+poAse c) 
+
+1  If.  X 
+| 
+
+'6  A-  J  'type 
+
+*  *  oLq  Pr?ss  /  ^  (t  (Jy^  =, 
+
+i 
+
+t 
+
+J>'0  4i-  L 
+
+1  (j  U-hz  r  €  lO/ /  €*■(>.  if 
+
+f'^’7 
+
+
+Co  ft  f?  /t 
+
+
+I  &of~  U> 
+
+2...  .  ? . 
+
+3. . t  r-c  . 
+
+A . . . MM . 
+
+7. . CJLUO- 
+
+(°  6T 
+
+
+7 
+
+<* 
+
+
+-<==? 
+
+O 
+
+;<?oo 
+
+
+0/£b 
+
+
+c  /, 
+
+
+. . .Otl/  cioWs  cjy\ 
+
+<X:.cCtitreJ  i/IA-OlwJU 
+■CL"---''  ^ 
+
+
+/?-'  # 
+
+
+kMUAflo  | 
+
+. P^H6fX_ . I 
+
+. ; . MICaR  [  __ 
+
+Ck  .  (cojj) 
+
+^.ELECOPA.  . . T~ 
+
+(0,  Nc> 
+
+//.  pj&nJ^o.sp.<)  CK  ia/^siX-  vtA-a^-C  iJQMjO*4i . 
+
+. <5]  ..  ."Xr£.  nJst  l.H  .  +  S  5//t*^jfwv>, 
+
+■  Lt^-s  ‘/IrRfrAfe. 
+ou  (?  HU  ARC  3/; 
+
+
+1  fiiofll 
+<2_H  /j^/esFj:  -CAR  Ret 
+
+.  3  ~7  ^  4*0  s 
+
+4-  h«z4a.  ^  C  odoau^Ab  .  J/;  /  J 
+5  sAr<*bht 
+. 4 . IaJ  / 
+
+. ~r . [% . . 
+
+a  ^+2-50 
+
+. $ . 1<0£M  AC 
+
+P*OASdTC.  £. 
+
+/i"/  rf/z  £. 
+
+C  f  Z  c_ 
+
+*57'jC.<c<s»/tA 
+
+M°AJL 
+
+K  TX^aJS  Q/J2<^~  . oh(//<fuoA] 
+
+. V^tA  l/LPO^Zj  L  '~j  <s/  <3,  ^ 
+
+~iC*  p^jcM  . 
+
+}  /V  ,  J  V“ 
+
+..^w^j?.aa4V3 
+
+
+_Z- 
+
+I 
+
+
+PAL  ttoa  3 
+&&fZSf!X.  /  . 
+
+$&C€N  T 
+
+
+■ . : . f . '■ 
+
+. a 
+
+
+...^k2... 
+
+
+0 
+
+
+..e.Affu z 
+
+
+ipl^s 
+
+■h'.oAA 
+
+
+A  —  fM3^L{A^.dt  aX~ 
+
+<^>  sL&#p  ^  <roj>fn'y  $ 
+
+
+■X&L  it  (s\ 
+
+
+f 
+
+
+1 2_ .  <2. 
+
+
+Aajz'j  TCy  ,33 
+
+^cJ>-  imjsiaJ  qJ^a^J^S~  -&y\  fj^ 
+
+^AJ-;  So^Jii^  Siksb'sk*  I  !!  (<m.) 
+uiU.h?  4L*.  %  rM&ft/i-  i/Mmd' 
+
+K)  '/i/JPUP  C^i^UtLJSyX  <i>> 
+
+"^V-Q-  Ckifty.e^  SuAsba-hl 
+
+
+^~€ 
+
+
+s 
+
+
+I. 
+
+
+r 
+
+
+lot  3 
+
+
+A(r&sMx-aoa&M~ 
+
+y'  20yz.c~.r-f  5 
+
+
+2, 
+
+4. 
+
+5". 
+
+^  • 
+7. 
+6. 
+9.: 
+
+
+(jf 
+
+5 
+
+8% 
+
+
+3  700 
+
+/&/S5MX 
+
+&<3UO~&/k 
+
+"  <. . 
+
+
+2. 
+
+3 
+
+
+pl/«  p/n- 
+u\pr<ej) 
+MrF^ 
+
+
+r 
+
+i 
+
+i 
+
+
+fofl  Sec_ 
+8RbT£<2 
+£80  lA  ft 
+MTcaN 
+5  7X1/^ 
+
+
+3 
+
+a 
+
+/ 
+
+r 
+
+T” 
+
+
+jo,  fiJoylZ  /fryC-t^'t'  0.0mm Iw/Atj  I S 
+1/8  >k II  /A  phojp  c8  hxk& ia 
+
+■fy~o^  truck  y  Cr£.-I  Uicrfe-  BMT£<~ 
+
+at  A  $J*  tyO  sfwpe  S') 
+
+if  CbAAAXtZ  joe  re-ir,  t**oJ  ■  Lea.  <>  /  8 
+
+"  3  ■  ,d . ;  ; 
+
+. .  ;  ^  . 
+
+lx.  '~o  (wrf*-.  q  bw^d^x.p  J] 
+
+/>  »<  #  \  o 
+
+R  <5/{  i’cr»3  *€fi*S 3 
+
+
+lff4oz\t )  ^  jprobaM>T)  Ci  JljeCj  r^-dkzJ 
+A8P0MZ-  -  STLVL/3  Camm, 
+
+
+w. 
+
+
+I )  let  t 
+A&Asfi jo 
+
+2  10  <st  O'?  $ 
+
+Mi  d 
+
+C0K\JQX 
+
+S£ 
+
+H57o 
+384o 
+Af/tsPf 
+
+CAkPxx 
+STrcopA 
+
+80i4<-rfiA 
+f4  (/r^firc_. 
+APJpyr 
+
+A  PTC  A  A 
+
+
+c:  A  pp-xl 
+
+
+(Arsp-Vyz 
+
+
+z 
+
+1 
+
+2 
+
+I 
+
+T 
+
+L 
+
+/ 
+
+
+’TtG^SM'x  y~ 
+
+As"£)Rc|  7~ 
+GUTsa^  ~r 
+
+
+0(l£  /4  6//\  / 
+
+!0.  I  —  too  /<  f  *-*1  (XCyosy  ^ 1/ot.  7fe 
+
+(7^'cj  />  ^  ‘Slopes  (lo&  ki'rlfj  fZ) 
+
+It  j)f&kAjLj  !&«>  2-hz-tp  -for 
+j/u~cx^~t  {Z&ffP  -f~Q  UOo ss'JLsi/y 
+
+CfroL.  groyJ  k,„,  <sZ=f>  f  fP-p 
+
+^oX)  ,  Zrosf 't/e 
+
+cxm^j  ,  S’ 
+
+JZjPOU(5T\  -f~  £roy<>  &J  .^:rp* 
+
+. $ .  C/A^OJUL.  ’ .  . 
+
+
+/z. 
+
+
+(U/JJ\AZ/d  Q  Jr- 
+
+
+!o 
+
+
+60 
+
+
+(te-sP-Wy. 
+
+
+/,  p/d 7  -5 
+
+7 .  A f AS/41  - Boae  f§h  - ££OTec 
+
+
+i ,  j)  /of  H 
+
+
+fi£r&5Pj—  -  CT/4/S 
+
+
+pr  /. 
+
+
+3, 
+
+20  <<K~r£  3 
+
+\ 
+
+"7/0  tec-res 
+
+H 
+
+,  /  diredA  Jr#, 
+
+h  U{T  (  T?  Stid  fOA 
+
+PrW  4  tf-7  1 
+
+f 
+
+faj-d 
+
+.> . 
+
+h  eu* 
+
+\ 
+
+-  ■ 
+
+CAM  ox 
+
+(?  ■ 
+
+5 
+
+1 
+
+sr 
+
+7. 
+
+8% 
+
+7, 
+
+3700 
+
+3. 
+
+3BMo 
+
+<?. 
+
+ps  as />ax  2_ 
+
+PlaP AT  T 
+
+3, 
+
+/\C  j<-  S  t4-~ 
+
+A&PSMj: 
+
+QdUr'rfi.  A  3 
+
+LAFRer)  i 
+
+i 
+
+/A  a  ax  c / 
+
+AsTMcf 
+
+ST^rom  | 
+
+/if  T  f~  F  P-  / 
+
+1 
+
+5  tuco  (A  2, 
+
+<5  A/  7  5  A 
+
+POd/tST  3 
+
+1 
+
+BOiASaA  j 
+
+morse,  u 
+
+SfiOLA  /'./  I 
+
+A^Tcml  T 
+
+
+J4  -rMArc. 
+
+A^JpfLT 
+
+
+T 
+
+I 
+
+
+car 
+
+pj“C-  1 
+
+(0. 
+
+/  Joy\.Q 
+
+b>:"--T  c 
+
+/$• 
+
+:A'; ;  b 
+
+/  ,  ”  7  J 
+
+/C  /  Al  fj/fjK  ' 
+
+/>  ! 
+
+T  /  0  !/T  m/u  C  C  j  p,  Q, 
+
+y  nofe  Brxrec  j 
+
+aj~ 
+
+l/m/i  Z  <■/■#€„/ 
+
+P  - 
+
+<  Ape  t  ) 
+
+//■ 
+
+CUA/i&S' 
+
+f't  / 
+
+V f  i/'J.-Tt  *  MX  pT 
+
+OsJ  ■  ""d/  1'ieT  ■'  i  L-- 
+
+sf  / 
+
+!& 
+
+/ 
+
+d  y0  T 
+
+dt 
+
+/7A 
+
+V 
+
+(  A  01-**-  £%  0  //*-( 
+
+/ 
+
+'  1* 
+
+r),X  ICr/A  L  ■/  /  9.  J\ 5 
+
+) 
+
+w’  c 
+
+do  hi.  ) 
+
+Zfo  ixaj/R-: 
+
+T  oUq  r  A-s'J  i 
+
+J 
+
+f\CA 
+
+z.  5  /h  r  -  $*  /x  c/z  ye  cavm  ,  | 
+
+£t  C  /o : 
+
+
+/ 
+
+
+1  A,r 
+
+
+Afro  4/f  / 
+
+OPftf  y/A  T 
+
+/  (2  .  j  —  /o<o  l<  i  w.f/ 
+
+t  /'  '  \ 
+
+Qc(jott*j  Scopes  (ioi>  kf/tCf  //£y 
+/^.  jjfoU'zl'jb]  fiys>  -p£>r 
+
+T°sf  c*tfb  4-0  Udcp^Jjlr s 
+
+C  yro  &  .  £)  Ao*'y.  J  ht.  j  "SJr^sucr^j  cat  T^*-r 
+
+,  (Erosive  Jo^Jt  Sci  j 
+
+(biM^eUz/Z'  CUWj  tOou^ . i  ^ 
+
+^j/o^l<yr\x  +-  5-0^0  <J/  ^vac^,rj 
+
+S  CA/ejl&^Q  Q/p  p  oSk.  c/  • 
+
+
+/z. 
+
+
+{-4&0\.£mJ  'roj^isy'  j  0  tyj 
+
+
+/.  plot  IB  j 
+
+* z ,  msMi- fovumA 
+
+?■  :  GO  ctsc- . 
+
+
+V, 
+
+
+4/1&* 
+
+
+'■€t&s . 
+
+
+. 
+
+. 3, 
+
+Q; 
+
+
+7 
+
+
+X 
+
+mrj 
+
+
+s- . OoybO-tK . -  - . j 
+
+> C  .crYK:p,<3^jrt 
+
+7  n£  f 
+
+A J 
+
+?. . 5% . 
+
+7.  707o 
+
+S.  30^0 
+
+8,  37ga 
+
+Q  Bou^&OA  37 
+
+9  ipoT7Fl4  po 
+
+Ali^SML  X-  1 
+
+JMajcoaa  i 
+
+:  mtf& r  ■  3  ! 
+
+Mefru/  2_ 
+
+:  6M(3Zf-  )  ' 
+
+A  ^-o CjQ.t/S.  1 
+
+. atltoo/i . t . _.. . . .._. _. . ! 
+
+. ASrfiOPlO . . 2^ . 
+
+_  AOflSPZ.  T~  ;;  j 
+
+Koemao  i 
+
+. ; . TdAS..e<3-.T'. .  1 
+
+<J WAoAL  XL. 
+
+ti(2o /L/f  aj  j  ! 
+
+;  :  :  .  ..  '=...  .'  '"  .  1 
+
+/.Of .  tlqhJZ  ...  : ....  . . ! 
+
+. i  o,  (SIat^ 
+
+(C 
+
+
+loo 
+
+
+d 
+
+
+oo  r 
+
+
+too  $'071  0*7f 
+
+5>  k 
+
+
+/ 
+
+f{Ji..  L$e*s»* 
+
+
+l.L. 
+
+
+/  / 
+
+
+frjiA-d  o*\  CcJTL-t 
+
+.  v  ■  ■  re? . r  ■ 
+
+-fna^Oh  * 
+
+/-  O 
+
+/Z-.  ^ 
+
+
+3JL(Cm3)  £Q-'Jac-£>S  becJr-aot 
+\.  A  &tZS  p-E  -  BougFA 
+
+
+|  !j/  ~HX  d-(i  wi-fy;  c-i 
+
+UotZoU*  Oj  7'i/'c3i^A 
+
+
+r^j  /b  ku  '^tf 
+aaJAijZ  ... 
+
+
+.O^ 
+
+
+B 
+
+
+l  L . (orA-  ) . .  puris .  .  '>  A  o . 5  p  /  y~)5i 
+
+'Orp^/Ao  r/Ae  (7<?ssaj2,  c*h3JL^ 
+
+IjM  S  />A  I^LM^xf)  l 
+
+
+Hf 
+
+
+l  pkf-  5 
+
+2-:  MTCAAl/MfcSMx: 
+
+5  «  f)  <=CC,/*<L3 
+
+tf  M/J  ,r / ope,  bo^th 
+
+5  <Z  cy>i  C  axJ  %- 
+(o  5  £ 
+
+7  ;2£)c/o 
+
+
+/.  plot  C 
+
+a,  JAftrcAAj/A&&.$Mz 
+
+3.  7  iLcyes 
+
+4  Ml d  slope,  (JLuprtSS /VX*  (p3&<o 
+1)  •  Ccr>\-c<M/7 
+£>  JX 
+
+7.  ^6?0  . 8,  40-00 
+
+<f.  ELYCJZN  Cc*>i(  S)  2_ 
+
+'Tf^es/yir  ~3 
+
+Bkote<^.  *4 
+
+DESp-CA)  l 
+ARTCAi'i  I 
+
+l P>  NcrvKJL  . . . . . . . . 
+
+I),  LO-ea^J^  S t-f-e.  J cmAt  beJ/.4>c*) 
+"SaaaJ  5  TU'f'-Q  rlm'soch; 
+
+.  i  .  t> . ; . ; . 
+
+
+7  rrtcan  4 
+A&/15  /AIL  | 
+
+Jj  DCS  PZjJ  '  / 
+
+;j  0/ZOTE  C  I 
+
+4^rp/?x  7— 
+
+.  C/>  (ro//)  7~ 
+
+pdAZEC-  T~ 
+
+19,  I  —  / e  r\  R 1  **4  ®c 3 A _ 
+
+(5&t&  V*l  tyty  /  4 
+
+//•  rZ/e  C40!?  Qfior&Z- 
+
+W  73ES/’X Ai)  - 
+
+7^t/  5  ,4  «£>/**.  #*4*4****  ^  ^  iddtl  (A  l  ^-4  1 
+
+A  /  ^  ^ 
+
+;  |44_/  #1. €5 r  /  />i  ri>r^¥ 
+
+3b£M.^:  .$  <L  PA  ^  S  /<^  ?  5 
+
+ocxjL*f\Jb  an 
+
+hmc&tis  Qa^J)  + 
+
+
+xa^iuo .5  , 
+
+
+IZ  ^ 
+
+
+y 
+
+
+s  i-f-e..  )  u- 
+
+
+a  i~  mioM) 
+
+
+I  (4b f  5 
+
+2-  AK  ICAti/  fer&SMl 
+
+-  •  ^  *£,cS  CJ 
+
+M'd  s  l o pit  b<u/  t 
+
+e 
+
+h  C  C$y\  c  <3U£/  % 
+
+Co  s  £■ 
+
+7  ^Oc/o 
+
+8  3riLfO 
+
+9  /r«T 
+
+ASR5/-1H 
+
+
+4 
+
+
+DC: 
+
+
+fdflOTB  C 
+
+/^rf  /<  7 
+
+ECly .  C/>  (c 
+
+
+££>//  J 
+
+
+T 
+
+
+3)  ?/ 
+
+•6/  rt  -> 
+
+
+in 
+
+
+ih 
+
+
+I  —  ■/  a.  jdg  r\  t/}&  M  *  i'\ 
+
+
+(3) 
+
+
+i  p(0+  c 
+
+2.  'Aft  TCA/J  /  A&fi  s/A i 
+
+T.  M'd  $/op£  (jjjyjff, 
+
+“5  •  C  cr  y  .  caA/ft 
+
+
+r  <  ss-iY. 
+
+
+<3JAJ51&) 
+
+
+Wtt  d  ^  T//e  ('/■'? 6 /.?  (?/'}ot"£ 'C 
+
+^  gzsp^m)  - 
+
+l^h  5  f  to/**  iaa  r  (a)  f\S  laJhj/i1^, 
+V“v*  /  *t  © /"  ?'  ^,-j  T-;3  ft-V 
+
+OAMet-  ^Q...  on  ft s-e  sf&/fes 
+
+b^t~  oc-cjusu o  an  $>l 
+
+b&vtdles  Qy^J)  t4zc  -f 
+
+C$/\8aaJ$  f 
+
+12-  C  —  (c?^tA  /  /•€ 
+
+
+V 
+
+
+/  . 
+
+c? 
+
+
+^■f  ^  o  cjc!3 
+
+SLYCJZN  tcoli  s)  2_ 
+
+Bzorec- 
+
+DE5  /DXAi 
+
+
+-3 
+
+
+^  Ncrr^SL 
+
+^  i  t  Id ^  AtQ,_cd 
+
+
+2  /  ’  (aai$~  ^%JLo  c<j 
+
+W  5  r/  ^  ^  ^  ^c 
+
+
+1 
+
+
+% 
+
+
+W 
+
+
+If;  - 
+
+
+n  .  o 
+
+r  !  i<;T  T-.  A^<-*  (M-^d  4 
+
+IbJ  l/„  UpMA 
+
+
+\  0^ 
+
+
+(KAW 
+
+
+,  <1 
+
+S,  UJsJ/Joj'i  aA  ri.  ^  ro  e'k- 
+
+<k  Ai 
+
+7.  '6S"S>  . 
+
+
+9,  \>pfTM.  .  ^ 
+
+..  CQ  fcSTO  .  J 
+. PRu'jiM  . 
+
+
+A 
+
+
+(fS/<2 
+
+
+ia/4  ../...  . . 
+
+t&i4c~  2- 
+
+£  ^  j 
+
+1MMM..  /  i 
+
+*  Ho  fp/.zis.**.?'). . . . ..„ . 4 
+
+lQr  y  —  footCi  <E  jjfkffiYl .  fdc?C  ] . 
+
+If,.  (AJjdi  ohm^:  Ttve  .dvut<£  j 
+
+/  PZ'j'j ‘ ■ y|.  C.0$$i£  *  .  --t  ,| 
+
+i <:  (h  Su4*i£$4zs*\  df f  \ 
+
+r  dj  ji*? « 
+
+
+Uj/fU-  oM-  CiApJ/^xj  <Xo 
+
+e?  :  •  i  V  r  _  „  • 
+
+.J  /UAfJ  i  d.AJf,  2.0  f!A  Ar*t 
+
+'  -f6u.l  »*>  -.*•.*.»  ...  If  -  ! 
+
+
+iTA 
+
+
+. . 4 <x^j. 
+
+/ b  U  <  Is  >,  ■  i  '■/'/  \  I 
+
+W-  fu&£s^k  T&£  V/Cj&i  1  >  \i 
+.  / .  /  i 
+
+.A/y  T I 
+
+|/^v\  fke-  M.Qri&J$t.'h\  /j 
+
+.4o  b&fu.  I 
+
+^4/  f'£?A  71?  0  si  / 
+
+
+i£d\j  jt  |  // 
+. .  ;  i  X^lrf.  -sf  c 
+
+
+H  ■  { Cm \K)  ji 
+
+.  -fOfl  vE^fbrx.  ■■  f" 
+
+yJunAt  &M  >30% 
+
+
+•*  4/? 
+
+'Me. . i  -  to 
+
+
+#  I  '•/  » 
+
+CCVOi-OkX  M-M'y-  JAA--  fA\. 
+
+3  :4/fs$  7i- ■  ■- 1  ■ 
+
+
+(V 
+
+
+„  • 
+
+.B&.ftLj.iLL..—  f~:  BSXl}A  A-'V:.-  &.ccaA  &y\ 
+
+P  44l,  T>a4£5C  S  ^ 
+
+
+ff. 
+
+
+MAj 
+
+
+XT] 
+
+
+kl^Ki’  •*  ao it-  ma 
+
+
+t4|l  h'  |/l  H  # 
+
+
+1. 
+
+p/oi~ . z, / . 
+
+z. 
+
+■2 
+
+-o 
+
+.,  o  cx.~c.r  jz_ 
+
+jmm-  top 
+
+s*. 
+
+C&!Aca..tJQ  ( 
+
+1/3^ 
+
+E 
+
+"7, . 
+
+. .tt. ./<?:. . 
+
+. 
+
+i  Yv 
+
+\  Sn<. 
+
+. . ■  -- 
+
+"iC,£>  Sfijl  —  ^2:  £ 
+
+
+F>S  TAJfi 
+
+PdM^ec 
+
+*^2 
+
+^  ... 
+
+theMo 
+
+<&»»"*• 
+
+JMT'luO . 
+
+I 
+
+1 
+
+. P)'EE~:..  D.AS. . 
+
+2- 
+
+jtdE-MAC. 
+
+l 
+
+d.  tltfACL..  L . 
+
+f* 
+
+1 
+
+/  0  ,  » 
+
+///  .  hc<Ate.rJ  U*~J  'MyfcAft-. 
+
+. . . . y . 
+
+t4m.  ^£>f"  i&  f  ml.d^p.  Asf 
+
+loifUfW  <*r  Qrofsi^  "...{MA.lt~. 
+
+Pkf  ia&rit .  ^T/Vvts  ^bJ.~bkA4tiv<4 } 
+
+.  0/Asf  .  tCA^.  .cM^.. . .  ^  >,. 
+
+--  ao©d  ca^-ifiAn 
+
+jz..  c~t  c^^ut 
+
+(/mA//-  Tz-t  Co  £Ho4> 
+
+
+V 
+
+
+l&ilsO  fa&CiXM4~£.  eft.  ’ft" 
+
+
+a 
+
+
+r_J  C  t^ff- ';  ,B'l  T> f 
+
+,:’£^  ~UMk!^ 
+
+
+i.- f  ;  i..'^ 
+
+6<^  M  //  4  -ci-i_5 v  r'f  t 
+
+
+d 
+
+C  J- . 
+
+ri  r  t4P 
+
+
+i/ 
+
+
+3o 
+
+
+If) 
+
+
+W 
+
+
+-f 
+
+
+/  :4' 
+
+
+/ 
+
+2 
+
+3 
+
+4 
+
+5 
+
+7 
+
+.1, 
+
+
+o/, 
+
+
+rasJ 
+
+
+•r  7 
+
+pplAVZS  ?. 
+
+*  /  ac/e 
+UflXA  S'/ 
+
+CcjACAV-^, 
+
+as** 
+
+IxZaS  ryj^€r.  (c^iJJ 
+
+f#U  i/tM 
+
+R05UJOO 
+
+8  Rene  c 
+
+ft&ftSrAX. 
+
+JPTcsaI 
+
+Mrvu^ 
+
+
+± 
+
+I 
+
+
+~r~  flrtes  y°22  T 
+
+
+/& 
+
+l(  Ujzxdn  5"/f 
+r/t^ipc A 
+r/'ys.mt  k  ) 
+
+/4  £~ 
+
+
+/£,At~  4eJ^o . 
+
+a  buf'S 
+
+
+n~  Q 
+
+
+/O  . 
+
+
+:J  •  ^2-  Olxjtc  5 
+
+V.  A/l  ->  6f. 
+
+S,  ^o^s-'g.X 
+
+4,  5<2' 
+
+7,  7S°7, 
+
+£  3740 
+
+7,  RHm  a/?,o  / 
+
+64  2. So  a/  ~f~ 
+
+OA-VI+VM  1 
+
+A^S/vu :  T~ 
+ARTR AN  TT. 
+A&&S  PA:  J~ 
+
+'btXcarA  t 
+
+
+(fch-tKr  /Ajsj)  pj 
+
+^  l^CiT  ^  Kfl  ?i 
+
+
+/tf. 
+
+/  — 
+
+/  c^j  f  "f*~~  0^3-^  4- 
+.  (  /4  &/**  c  O  /Si's  /^a.V| 
+
+il, 
+
+L/<l /  h  cls^iAJZUA-  ( ...Sc^Jma 
+
+i  o  %  kw  , 
+
+o  /a«W  1"  U°  C-ks 
+
+2i.-.osv2n 
+
+c  so r  k  r-  sv/’-e. 
+
+/2 . 
+
+C  ^  AdjArUv*A.i  i 
+
+h&hvyj $*-> 
+
+cl 
+
+II 
+
+■  (cmtl)  MoS  c 
+
+/I  kU'5  /p&efic  u$qs\ 
+
+a 
+
+
+4 
+
+
+<? 
+
+
+/<?, 
+
+If. 
+
+
+,  /  -f  "T 
+
+r*'  7 
+
+p}<>A  \ZZ~/c  , 
+
+b-MXA  •  N  ‘y/e  o/ V  « '•-  - 
+CcrAtM*- 
+S& 
+
+as rs 
+
+‘t060  ., 
+
+jX>ho  $ 
+
+f$tt\JU< 
+
+Ro  50000 
+
+8$  ore  c, 
+
+ftHTc  f\/4 
+
+AJav-JL 
+
+OjQX  f{. 
+
+
+o.:  f  J 
+
+
+± 
+
+i 
+
+} 
+
+
+2 
+
+< 
+
+7““ 
+
+
+A  Ns  f  j 
+
+
+’fe  flMdi  UJLiaO 
+J  •  ,/ 
+
+
+rf/f'^Yat  A  (  Tk,  fi  &)  f /at  at.bi.TJ 
+j  \  t  i‘  '" 
+
+Y/jbroL  K  ) 
+
+
+C1 
+
+
+icTT  & 
+
+
+(RUalr  //-hoc 
+
+
+'f 
+
+
+?.  >  2.  cXc-y^.S 
+b  y\  "55'  t--4-  jy-^YlA  ^  J  iS-O-AotCs  j,  /#>4»'Ocli> 
+
+S'r  £  o  ai  o>  2  X 
+
+4,  5<£f 
+
+7.  7S% 
+
+a  5760 
+
+7>  RHt4  A/2o  / 
+
+(6  A  Z-Lo  a/  r 
+
+OA-VtiyM  j 
+
+/V&-&S  MX  T~ 
+
+AAT  Can 
+A&fcS  PZS  T~ 
+
+'t)'f'j/co  cA  t 
+
+
+I  10.  I 
+
+
+/ u)  /A-,  (4a>j-e  +- 
+N\\K^_  <2~  (  /AaAtO 
+
+
+dt 
+
+
+no 
+
+
+i  -f 
+
+yA,&tAJ.  (  < 
+
+%■  U 
+
+■pos^c 
+
+L  t 
+
+OS  /  A 
+
+r\ 
+
+S' 
+
+
+I Z.  C-f.di-i 50/ /s  t-  ?;/■■€. 
+
+ft 
+
+d 
+
+j  II.  AN)  HO-jf  cj  ft>‘S  /jjosik  OJqs 
+<*  l<f7dP.  fs  ofodtsM  { 
+
+
+fs  ora.cij.iN  (- 
+
+CffKjCL  ti  /'W^) 
+
+
+i.  Fto] 
+
+-2-  d£,%r#.(l£<4  Afyfi.sps  - 
+
+3'.  "7  9}  0  a„c~ 
+
+is  p.t  -r~ 
+t-  -r  (*.{ 
+
+5.  5'fe5u'ij  W~ 
+
+4  5 
+
+f, 
+
+YL  TTXCd/s/1  2. 
+
+C-A-fi.Px  l,  *2  t 
+
+j<OEM  Sf  C  2. 
+
+/4/^r^vex  2 
+
+Hy m  ^ic  T" 
+
+A&fiSfj:  i 
+
+.  SfiHcoc..  I 
+
+... . . Aghs.m?...'7~.. 
+
+JO  Nani... 
+
+‘  /  ‘  ^  /a.-:  .-?  ../  ; 
+
+/s'  d.  7  (fV- 
+
+
+>o 
+
+
+wnL 
+
+
+(fOO  / 
+.7/1  2 
+
+
+-^i// W 
+
+
+3 
+
+v-f 
+
+7 
+
+6 
+
+8 
+
+? 
+
+
+cNjj  '/iK, 
+
+
+/'  5"  <s¥.c 
+
+
+ths  Jj  5  /w  OC  C- 
+
+gJ,S^ 
+
+
+N  rts  uj  fej'ffavy-. 
+
+
+oir/XMO 
+
+Cbn.coM 
+
+
+<S 
+
+<3 
+
+
+\  .fC 
+
+
+I01o 
+3580 
+spy^-o  <~c. 
+PoAF/Zfy 
+/fp'TLMO 
+P.G- A.  CCs 
+AC 
+
+ZYG-Vi=aJ 
+
+"  ?o*  Noji) 
+
+
+z 
+
+a 
+
+2 
+
+I 
+
+/ 
+
+
+/£s  /V 
+
+//.  UiSU/’li 
+
+IX 
+
+
+r 
+
+
+y  ok  5  djuMj. 
+
+k/-  iy^J  €  irj.;S\ 
+
+. Yr 
+
+
+1 .  f)bf  ?f 
+
+3  /. 
+
+IZ- 
+
+Z.  APPTjPT-  CMEZL 
+
+j  2 
+
+3,  >SO«^-o 
+
+f  ■< 
+
+|  y 
+
+f  <x  0 
+
+*f.  P"H-AJi  (fop  Jj  /<Y»*0 
+
+1  H~ 
+
+l 
+
+HAjQ/3  /<C- 
+
+$  § 
+
+5.  Conue^p 
+
+1  c 
+
+1 
+
+C<o^\  <_jz%  cy^_ 
+
+(0 .  Pr 
+
+|  ,c 
+
+Ez 
+
+1-  3% 
+
+I  1 
+
+50  To 
+
+■f'V 
+
+
+or 
+
+
+,/j  ■«»««£»>. 
+
+/>  l  /)  ^  '■  ■ 
+
+/.  if'  /  ‘  {  / 
+
+/)j  gx  4?  4,4/' 5,  /•v  ftzkjC 
+
+
+0.  ^f~  |  O 
+
+
+c7* 
+
+
+A(s(&pz  j  f 
+
+CftfZfzEL.  3  '^[X 
+
+•STXCtfM  X  v^rrJL 
+
+
+°ii  5) 
+
+
+PtlTM.f'J 
+
+ft)  ft  (£6 
+
+
+2- 
+2, 
+
+1_ 
+2^ 
+
+\ClfiA  .6  ( 
+
+
+jy.M.ss 
+
+
+*jL 
+
+rlT*!  rT\>r'  ^ 
+
+
+i%ii,y,V 
+
+C~ 
+
+
+SI  --  /  I  f  j t  f  1  // 
+
+
+^  '>  i  CovCt"  Mof  f  .  oi?S  e*~i«  /! 
+
+
+SrJU(rA?.A 
+
+
+c/ 
+
+
+|-:..s.,W.,. 
+
+v/ 
+
+
+2  Lf-ObO 
+
+e’UAcJ. 
+
+PRU  l/X£ 
+
+Jy  f-yl/f  PCd.„ 
+
+RRTl  uQj 
+
+f 
+
+CzrcKor-  j&AS/f*Af. 
+
+,  7% 
+
+SjsAUa  pall). 
+
+T HE  R  H  o 
+
+QrQ  t~e  c_  / 
+
+. SMM3 . 1.... 
+
+5rrt/j:/2-.  n  ^M£7SlM  / 
+
+/  0.  I  Pjs#.*?.  cAjTpVS'-CJZ' 
+
+^  (  •  Z^4£-«iV O  c*'  jRf-Aa.-  - 
+
+H  O  *>p,  /375  ^  Z“ 
+
+..!..£? . <C7 . l5um*4i/£Ma'  .  ..e;t  dA)<5y=»td/  >’  s^-ssi.. 
+
+
+.*$■>*  )0  «  V.  I  ;  \ 
+
+‘ v4'  0  Ift  i  Cl ' '\l  J 
+
+
+■tO  60 
+
+pf) 
+
+
+[PU.t  (3 
+
+"Z  ?opl)0_  / CORS  TO 
+J  .  tx:c...(r~EL 
+
+%  ., (J^V'€fJ-P  hdhsiA)  erP^  h 
+
+.5 
+
+0 . A/eT 
+
+7  (.£>0-70 
+
+POPDTU 
+HU  VTt 
+pm€AiO/ 
+
+
+c 
+
+r7 
+
+.J/ 
+
+2- 
+
+
+-fy&vT^ 
+
+°bf  1  ^  \>?  j?rd4>  ~  b. 
+<x)&gsj*l  tfbe  s  1“” 
+kuzXae.3 
+
+
+K 
+
+j6k .  3>  ! 
+
+
+f  }  pH  *>  o(?L 
+
+
+.001 
+
+
+EOCODE  :  ABNKC 1 9  :l.  S0 
+SNAMEs  BUTEO  REGAL IS 
+S  COMMA  ME FERRUGINOUS  HAWK 
+
+
+ELEMENT  RANKS;  GRANKs  G4 
+FS  STATUS:  SENSITIVE  LIST 
+MAT  I  ON :  US  S I  T'FCODF  * 
+
+SURVEYS I TEs  KEVIN  RIM 
+
+
+PRECISION:  M 
+
+
+I DENT :  Y 
+
+
+FQMUM ; 
+
+
+NRANK : 
+
+
+SPANK s  S3 
+
+
+COUNTYCODE 
+
+MTTOOL 
+
+
+QUADNAME : 
+
+MOUNTAIN  VIEW  SCHOOL 
+KEVIN  NORTH 
+H I L.L.S  I DE  COLONY 
+
+
+QUADCODE : 
+48 1 1571 
+4  S 1 .1 1 78 
+481 1581 
+
+
+MARGNUM ; 
+■  1 
+1 
+
+'  1 
+
+
+TEMTEN ; 
+1 0 1  4 
+
+
+LAT :  494930 
+
+LONG:  1150055 
+
+
+1  0  W  N  R  A  M  G  E  s  03 5 N  0  0  3  W  3  (r  r;  j  ]•  q  |-x|  «  0  ^ 
+
+TRSCOMs  MANY  ADDITIONAL  SECTIONS 
+
+DIRECTIONS;  THE  KEVIN  RIM  IS  A  PROMINENT  LANDMARK  WEST  OF 
+14  MILES  SOUTH  OF  THE  CANADIAN  BORDER 
+I  I  IN  3F-  KO  V :  MB  WA1  ERSHLD  :  10030503' 
+
+
+S ;  484650 
+
+N ;  485556 
+
+Es  1115613 
+W ;  1 1 50755 
+MERIDIAN;  PR 
+
+I “15  AMD  8  TO 
+
+
+1988-07-10 
+
+
+S  U  R  V  E  Y  D  A  T  E :  |_  A  S  T  0  B  S ; 
+
+EORANK ;  A  EORANKDATE: 
+
+EORANKCOM ;  SECOND  HIGHEST  RAPTOR  NEST  DENSITY  RE- COT 
+EODATAs  WITHIN  THE  MAPPED  AREA  (CA.  9  SO .  MI.)  IN 
+
+54  ACTIVE  NESTS  AND  45  ALTERNATE  (INACTIVE) 
+
+AT  LEAST  50  YOUNG  WERE  FLEDGED  FROM  18  NESTS  WITHIN  THE 
+AREA . 
+
+CONTACTNUM: 
+
+
+F I RSTOBS ; 
+
+*DED  IN  WESTERN  U S 
+1988  WERE  OBSERVED 
+NESTS.  IN  1988 
+
+
+CONTACT 
+
+
+GENDESC ; 
+
+
+1HL-:  KEVIN  RIM  IS  A  SANDSTONE  ESCARPMENT  THAT  RUNS  CA.  8 
+MILES,  GENERALLY  N-S,  AND  THAT  FACES  EAST.  THE  CLIFFS  AND 
+ADJACENT  BADLANDS ?  GRASSLANDS  AND  DRAWS  HOST  A  VERY  HIGH 
+DENSITY  OF  RAPTOR  NESTS.  PRIMARILY  BUTEO  RFRAI  IS  AND  FAI  CO 
+MEX I  CAN  US 
+
+
+ELEV :  4 1 00 
+
+
+SIZE 
+
+
+MACODE  s  PRIVATEOWNMTUS  CONTAINED M 
+
+FBLD0LEWI5MTUS  ’  N 
+
+SSLGN X X X X 1 MTUS  M 
+
+MORELAND ;  MOREPROT s  MORFMGMT - 
+
+MGMTCOM ;  BLM  PORTION  IS  PROPOSED  ACFC., 
+
+PROTCOM ; 
+
+
+TNC INVOLVE; 
+
+
+OWNER : 
+
+
+OWNER INFO; 
+
+
+COMMENTS ; 
+
+
+ADDITIONAL  RAPTORS  NESTING:  FALCO  SPARVERIUS,  FAI...CO 
+MEX  I C ANUS  •>  BUTEO  JAMAICENSIS,  BUTEO  SWAINSDNI..  ADI 1 1  i  A 
+CHRYSAETOS.  CIRCUS  CYANEUS,  BUBO  VIRGIN I ANUS . 
+
+
+SLOPE/ASP ; 
+
+
+DATASENS  s  BOUMDAR I  ES : 
+
+BESTSOURCE :  DIJBO I S  .  KR I  ST  I  .  35 1  7 
+SOURCECODE :  PNDDUB0 1 MTUS 
+
+
+Y  PHOTOS :  Y 
+
+6TH  AVE.  N.  GREAT  FALLS,  MT  59401 
+TRANSCRIBER:  89-05-56  CDJ 
+
+
+IlDREV : 
+
+
+LJ88DUB0 1 MTLIS 
+
+DAT ARESP :  HTHP 
+UPDATE:  89-06- 1 4  MEZ 
+
+
+MAPPER:  89-05-86  CDJ 
+
+

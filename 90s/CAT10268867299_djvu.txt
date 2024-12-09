@@ -1,0 +1,6457 @@
+Historic,  Archive  Document 
+
+Do  not  assume  content  reflects  current 
+scientific  knowledge,  policies,  or  practices. 
+
+
+vr\ 
+
+
+United  States 
+Department  of 
+Agriculture 
+
+Marketing  and 
+
+Regulatory 
+
+Programs 
+
+Agricultural 
+
+Marketing 
+
+Service 
+
+Dairy  Programs 
+FMOS-426 
+
+
+Federal  Milk  Order 
+Market  Statistics  for 
+May  and  June  1 998 
+
+
+1 
+
+
+CX- 
+
+
+T'O 
+
+
+U 
+
+
+rxj 
+
+:  j 
+
+
+v> 
+
+
+CONTENTS 
+
+
+Page  No . 
+
+Summary .  4 
+
+Milk  marketing  area  map .  8 
+
+Table  1:  Federal  order  fluid  (Class  I)  differentials,  July  1998 
+and  minimum  Federal  order  Class  I  prices,  July  and 
+
+August,  1998  and  1997 .  9 
+
+Table  2 :  Federal  milk  order  class  and  blend  prices  and  butterfat 
+
+differentials,  May,  with  comparisons .  10 
+
+Table  3 :  Federal  milk  order  class  and  blend  prices  and  butterfat 
+
+differentials,  June,  with  comparisons .  12 
+
+Table  4:  Average  Federal  milk  order  Class  I  and  blend  prices, 
+
+by  marketing  area,  January- June ,  with  comparisons .  14 
+
+Table  5:  Number  of  producers  delivering  milk  to  handlers  regulated 
+under  Federal  orders,  total  producer  deliveries,  butterfat 
+content  of  producer  deliveries,  and  average  daily  delivery 
+per  producer,  by  marketing  area,  May .  16 
+
+Table  6 :  Number  of  producers  delivering  milk  to  handlers  regulated 
+under  Federal  orders,  total  producer  deliveries,  butterfat 
+content  of  producer  deliveries,  and  average  daily  delivery 
+per  producer,  by  marketing  area,  June .  18 
+
+Table  7 :  Producer  deliveries  of  milk  used  in  Class  I 
+
+and  gross  Class  I  use  by  handlers  regulated  under 
+Federal  orders,  by  marketing  area,  May,  with 
+
+comparisons .  20 
+
+Table  8 :  Producer  deliveries  of  milk  used  in  Class  I 
+
+and  gross  Class  I  use  by  handlers  regulated  under 
+Federal  orders,  by  marketing  area,  June,  with 
+
+comparisons .  22 
+
+Table  9:  Producer  deliveries  of  milk  used  in  Class  II 
+by  handlers  regulated  under  Federal  orders, 
+
+by  marketing  area.  May  and  year  to  date .  24 
+
+Table  10:  Producer  deliveries  of  milk  used  in  Class  II 
+by  handlers  regulated  under  Federal  orders, 
+
+by  marketing  area,  June  and  year  to  date .  2  6 
+
+Table  11:  Total  producer  deliveries  of  milk  and  producer  deliveries 
+
+used  in  Class  I  by  handlers  regulated  under  Federal  orders, 
+by  marketing  area,  January- June ,  with  comparisons .  2  8 
+
+
+1 
+
+
+Page  No. 
+
+
+Table  12:  Whole  milk  and  fat-reduced  milk  products  sold  in  marketing 
+areas  defined  by  Federal  milk  orders,  for  markets  where 
+such  information  is  available,  April  1998,  with 
+
+comparisons .  3  0 
+
+Table  13:  Whole  milk  and  fat-reduced  milk  products  sold  in  marketing 
+areas  defined  by  Federal  milk  orders,  for  markets  where 
+such  information  is  available,  May  1998  with 
+
+comparisons .  32 
+
+Table  14:  Packaged  sales  of  individual  whole  milk  products, 
+
+and  fat-reduced  milk  products  in  selected  marketing  areas 
+defined  by  Federal  milk  orders,  January  1998  to  date, 
+
+with  comparisons .  34 
+
+Table  15:  Packaged  sales  of  whole  milk  products,  fat-reduced  milk  products, 
+milk  and  cream  mixtures,  cream  products,  and  total  fluid 
+products  by  handlers  regulated  under  Federal  milk  orders, 
+grouped  by  region,  April  1998,  with  comparisons .  35 
+
+Table  16:  Packaged  sales  of  whole  milk  products,  fat-reduced  milk  products, 
+milk  and  cream  mixtures,  cream  products,  and  total  fluid 
+products  by  handlers  regulated  under  Federal  milk  orders, 
+grouped  by  region,  May  1998,  with  comparisons .  36 
+
+Table  17:  Packaged  sales  of  milk  and  cream  mixtures,  cream  products, 
+yogurt,  and  eggnog  by  handlers  regulated  under  Federal  milk 
+orders,  January  1998  to  date,  with  comparisons .  37 
+
+Table  18 :  Milk,  skim  milk,  and  cream  utilized  in  the  manufacture  of 
+dairy  products  by  handlers  regulated  under  Federal  milk 
+orders,  grouped  by  region,  April  1998,  with  comparisons .  38 
+
+Table  19:  Milk,  skim  milk,  and  cream  utilized  in  the  manufacture  of 
+dairy  products  by  handlers  regulated  under  Federal  milk 
+orders,  grouped  by  region,  May  1998,  with  comparisons .  39 
+
+Table  20:  Percentage  of  whole  milk  equivalent  (milkfat  basis)  used 
+
+in  the  production  of  manufactured  dairy  products,  in  Federal 
+
+order  markets,  January  1998  to  date,  with  comparisons .  44 
+
+Table  21:  Federal  milk  order  component  prices  and  tests  in  various 
+
+marketing  areas,  May  and  June .  4  5 
+
+Table  22:  Factors  used  in  the  computation  of  Class  III-A 
+
+prices  in  Federal  milk  order  markets,  January  1998  to  date..  46 
+
+Table  23:  Producer  deliveries  used  in  Class  III-A  by  handlers  regulated 
+under  Federal  orders,  by  selected  Federal  milk  order  marketing 
+areas  and  region,  January  1998  to  date .  47 
+
+
+2 
+
+
+Table  24:  Factors  used  in  the  determination  of  the  Basic  Formula  Price, 
+
+
+January  1998  to  date .  48 
+
+Table  25:  Basic  Formula  Price  and  related  information, 
+
+January  1988  to  date .  49 
+
+Table  26 :  United  States  milk  prices  and  selected  dairy  farm 
+
+price  measures,  January  1998  to  date,  with  comparisons .  50 
+
+Table  27:  United  States  general  price  measures,  January  1998 
+
+to  date,  with  comparisons .  51 
+
+
+Table  28:  Consumer  price  index  for  all  urban  consumers: 
+
+Selected  products,  United  States  city  average, 
+
+
+January  1998  to  date,  with  comparisons .  52 
+
+Table  29:  USDA  purchases  (delivery  basis)  and  Dairy  Export  Incentive 
+
+Program  (DEIP)  Bid  Acceptances,  January  1998  to  date .  52 
+
+Table  30:  U.S.  production,  milk  and  selected  manufactured  dairy  products, 
+
+January  1998  to  date,  with  comparisons .  53 
+
+Table  31:  Commercial  and  government  storage  holdings,  January  1998 
+
+to  date .  53 
+
+Summary  of  Federal  milk  order  actions,  May  1998  .  54 
+
+Summary  of  Federal  milk  order  actions,  June  1998  .  54 
+
+Dairy  Division,  Washington,  DC,  August  1998 
+
+
+The  U.S.  Department  of  Agriculture  (USDA)  prohibits  discrimination  in  all  its 
+programs  and  activities  on  the  basis  of  race,  color,  national  origin,  gender, 
+religion,  age,  disability,  political  beliefs,  sexual  orientation,  or  marital  or 
+familial  status.  (Not  all  prohibited  bases  apply  to  all  programs) .  Persons  with 
+disabilities  who  require  alternative  means  for  communication  of  program 
+information  (Braille,  large  print,  audiotape,  etc.)  should  contact  the  USDA' s 
+TARGET  Center  at  (202)  720-2600  (voice  and  TDD) . 
+
+To  file  a  complaint  of  discrimination,  write  USDA,  Director,  Office  of  Civil 
+Rights,  Room  326-W,  Whitten  Building  14th  and  Independence  Avenue  SW.  Washington, 
+DC  20250-9410  or  call  (202)  720-5964  (voice  and  TDD)  .  USDA  is  an  equal 
+opportunity  provider  and  employer. 
+
+
+3 
+
+
+SUMMARY  OF  PRODUCER  DELIVERIES,  PRODUCER  DELIVERIES  USED  IN  CLASS  I,  AND  PRICES 
+
+
+U 
+
+
+o 
+
+£ 
+
+
+•a 
+
+c 
+
+o3 
+
+
+O 
+
+
+w 
+
+
+o 
+
+u. 
+
+CL 
+
+
+u 
+
+
+X 
+
+<u 
+
+
+CQ 
+
+
+X 
+
+2 
+
+3 
+
+O 
+
+£ 
+
+
+oo 
+
+On 
+
+On 
+
+
+-a 
+
+c 
+
+3 
+
+O 
+
+CL 
+
+3 
+
+O 
+
+
+o 
+
+
+’O 
+
+3 
+
+
+X 
+
+o 
+
+(N 
+
+TO 
+
+
+O 
+
+O 
+
+CL 
+
+
+o 
+
+'So 
+
+
+■a 
+
+3 
+
+03 
+
+
+u 
+
+
+3 
+
+O 
+
+00 
+
+
+T3 
+
+3 
+
+3 
+
+O 
+
+CL 
+
+
+X 
+
+VO 
+
+c4 
+
+r-r 
+
+Os 
+
+Os 
+
+
+-a 
+
+3 
+
+
+-a 
+
+3 
+
+3 
+
+o 
+
+CL 
+
+3 
+
+O 
+
+
+X 
+
+X 
+
+(N 
+
+oo" 
+
+os 
+
+os 
+
+
+<D 
+
+i— 
+
+03 
+
+dJ 
+
+C 
+
+3 
+
+*—> 
+
+<*-h 
+
+O 
+
+X 
+
+3 
+
+o 
+
+s 
+
+
+o 
+
+c 
+
+CL 
+
+
+X 
+
+H 
+
+
+-a 
+
+3 
+
+3 
+
+
+o 
+
+O 
+
+CL 
+
+
+<D 
+
+Oh 
+
+
+dJ 
+
+OX) 
+
+3 
+
+cO 
+
+X 
+
+
+OC 
+
+(Nl 
+
+
+03 
+
+1) 
+
+
+3 
+
+03 
+
+
+3 
+
+T3 
+
+
+-a 
+
+3 
+
+W 
+
+
+£  03" 
+
+1  3 
+
+
+03 
+
+£  u 
+
+6  >; 
+
+(L>  dJ 
+
+1  « 
+2  > 
+
+
+u 
+
+.  H 
+
+C/D 
+
+<D 
+
+v  T3 
+
+}  3 
+
+
+^  O 
+^  dJ 
+
+^  2P 
+
+H 
+
+3  J- 
+-  dJ 
+
+l< 
+
+?n 
+
+
+4 
+
+
+SUMMARY  OF  PACKAGED  DISPOSITIONS  OF  FLUID  MILK  AND  FLUID  CREAM  ITEMS  1/ 
+
+
+Ph 
+
+
+3 
+
+w 
+
+cd 
+
+3 
+
+CD 
+
+C 
+
+CJ 
+
+u 
+
+o 
+
+<d 
+
+"3 
+
+CL 
+
+CD 
+
+u 
+
+OX) 
+
+3 
+
+O 
+
+'  ,*~! 
+
+CL 
+
+3 
+
+<D 
+
+CL 
+
+u 
+
+g 
+
+NO 
+
+£ 
+
+o 
+
+O 
+
+CJ 
+
+-a 
+
+3 
+
+<D 
+
+3 
+
+cd 
+
+O'N 
+
+3 
+
+u 
+
+cd 
+
+u 
+
+£ 
+
+4) 
+
+OX) 
+
+X 
+
+C/5 
+
+T3 
+
+3 
+
+
+>*  "2 
+
+cd  c 
+
+E  ^ 
+
+
+>% 
+
+cd 
+
+T3 
+
+
+X 
+
+
+S  E 
+
+C/5  Cd 
+
+O 
+
+O-  o 
+
+
+^  3 
+
+<d  o 
+
+C/5  C/5 
+
+<D 
+
+•£  m 
+ON 
+ON 
+
+
+NO 
+
+a 
+
+
+Cd 
+
+o- 
+
+E 
+
+o 
+
+CJ 
+
+3 
+
+o 
+
+
+T3  >% 
+
+E  3 
+
+
+Ew 
+> 
+
+o  x 
+
+vfc  O 
+,0/ 
+
+C/5  ££ 
+
+p  <D 
+
+«  «§ 
+
+CJ  5 
+
+u 
+
+ft  ^ 
+
+■S  £ 
+
+S  8 
+
+CQ  g 
+T3 
+
+2  8 
+i)  g 
+-a  cl 
+
+s  g 
+
+x  .2 
+
+73  ^ 
+
+4)  CJ 
+C3  ^  C/5 
+
+
+^■S 
+
+-  aj 
+
+cd  ox) 
+
+E  c 
+
+cd 
+
+^  x 
+
+OX)  u 
+
+.E  ^ 
+Id  o 
+^  w 
+
+
+•a 
+
+o 
+
+U 
+
+CL 
+
+<D 
+
+
+u  f2  73 
+
+O  CJ 
+
+
+73  ^ 
+P  <2 
+
+
+E  Q 
+
+
+S  5 
+
+3  ° 
+*-  E 
+3  P 
+o 
+
+
+*3  a. 
+
+T3 
+
+<D  — < 
+
+
+-a 
+
+CD 
+
+E 
+
+x> 
+
+E 
+
+o 
+
+CJ 
+
+
+S3  g 
+
+-a  ^ 
+
+Z3  c/5 
+
+— 
+
+O  e>o 
+
+.E  3 
+
+.  c 
+
+C/5  0) 
+
+o  a 
+
+■a  cu 
+
+
+cd 
+
+1) 
+
+>> 
+
+c/5 
+
+3 
+
+.2 
+
+> 
+
+u 
+
+u< 
+
+CL 
+
+3 
+
+
+O  L—  c/5 
+
+
+w  c/i  *35  3  cd 
+
+
+."3 
+
+5/3  3 
+
+o  .E- 
+
+CL  CD 
+C/5  O 
+
+"3 
+
+*3 
+4>  o 
+
+OX)  ^ 
+
+cd  32 
+
+M  s 
+
+cj  cd 
+
+2  c/5 
+
+^  c 
+
+cd  ^2 
+
+o  c1- 
+H 
+
+
+Oh 
+
+
+*3 
+
+C 
+
+cd 
+
+TD 
+
+CD 
+
+Ui 
+
+o 
+
+> 
+
+cd 
+
+c: 
+
+
+0) 
+
+
+Hi 
+
+
+O  e  .S 
+
+3  cd  jjd 
+
+O  S  Oh 
+
+u  _ ^ 
+
+9“  CNI  r<Nl 
+
+O 
+
+
+3 
+
+8 
+
+u 
+
+S. 
+
+
+o 
+
+U-. 
+
+
+2  a? 
+
+E  co 
+
+—  <D 
+
+Cd  ^ 
+
+£  ^ 
+
+^  2 
+
+
+cd 
+
+3  3 
+ox)  cd 
+
+u. 
+
+CO 
+
+o  73 
+
+O 
+
+CJ 
+
+4) 
+
+>< 
+
+3 
+
+-a  •£ 
+
+*3 
+
+3  *2 
+
+£ 
+
+o 
+
+cd  3 
+
+(D 
+
+u 
+
+CL 
+
+OX)  ° 
+
+Z 
+
+o  -a 
+
+L*i 
+
+3  2 
+
+o 
+
+OX)  ft 
+
+X 
+
+e 
+
+OX)  _g 
+
+CD 
+
+Q- 
+
+o 
+
+
+■o 
+
+CD 
+
+PL 
+
+
+3-|  WPl  NO  I 
+
+
+4)  r/ 
+OX)  ^ 
+
+3  ^ 
+
+Cd  m 
+
+
+5 
+
+
+SUMMARY  OF  MILK,  SKIM  MILK,  AND  CREAM  UTILIZED  IN  MANUFACTURED  PRODUCTS  1/ 
+
+
+1J 
+
+.2P  e3 
+
+CO 
+
+o  EE 
+
+O  3 
+
+OJ 
+
+O  £ 
+
+
+oj 
+
+73  73 
+
+2  s 
+
+«  <u 
+
+-C 
+
+
+-a 
+
+a 
+
+
+00  $ 
+On  as 
+On  — 
+
+
+•a  - 
+c  ^ 
+73 
+
+
+OJ 
+
+
+m 
+
+ON 
+
+ON 
+
+
+on  *53 
+
+'  CO 
+CJ 
+
+c 
+oj 
+
+e  ^ 
+
+.5  x> 
+
+CO  OJ 
+
+oj 
+
+v>  03 
+
+"S  -C 
+
+I  2 
+
+3  3 
+
+oj  o 
+
+E  S 
+8  £ 
+■H  E 
+
+cj  3: 
+
+c  w 
+
+03  OJ 
+
+
+co 
+
+
+CO 
+
+
+co  a 
+
+C  ^ 
+J2  03 
+O-  cd 
+v-  -O 
+U  « 
+
+O 
+
+e  O 
+
+O  OJ 
+
+?  E 
+
+o  o 
+
+w  c/3 
+73 
+<D 
+
+CL  co 
+rv  OJ 
+•ST  CJ 
+
+■S  3 
+
+•a  8 
+
+rt  T3 
+
+
+C  3 
+
+oj  bX) 
+>  oj 
+
+'*5  c 
+^  3 
+•S  E 
+
+
+U  W  _ 
+
+
+u  o 
+
+
+OJ  .9- 
+
+>  <D 
+^  CD 
+
+co  <L> 
+03  *- 
+
+co  73 
+C  3 
+
+J  « 
+
+CL  co" 
+
+I  "S 
+
+CL  O 
+
+
+<D 
+
+3=  -a 
+
+3  <L) 
+
+OJ)  £ 
+
+
+.2  £ 
+
+co  O 
+
+I  | 
+
+-a  o 
+
+e  * 
+
+Cl  co 
+
+
+3  -a 
+
+a  S 
+
+
+E  tj 
+
+3  CJ 
+
+CJ  OJ 
+
+.*3  CQ 
+
+CJ 
+C  CO 
+
+.2  S 
+
+a  "2 
+
+.2  o 
+•S 
+
+03  •  — 
+
+3  E 
+
+cr 
+
+b  03 
+
+o  *- 
+
+-3  73  73 
+C  OJ  a) 
+
+cl  o  fc 
+
+2  *g  « 
+c  3  £ 
+.2  -a  fe 
+
+•2  o  £ 
+2i  O  cs 
+a.  u 
+u  _  >> 
+
+.2  S  u 
+Q.  S 
+
+3  >  U. 
+
+co  <2  fO 
+
+
+OJ  u- 
+O  w 
+
+■3  £ 
+
+£  M 
+
+o  « 
+
+w  73 
+
+•a  .2 
+
+OJ  CJ 
+
+3  .s 
+
+co 
+
+3:  s 
+E  42 
+
+Qj  Cu 
+
+cj  73 
+
+3  2 
+o  73 
+co  3 
+
+
+73 
+
+c 
+
+o 
+
+
+E 
+
+— 
+
+73 
+
+
+•B  i  c^- 
+
+■*”*  _  rrt  .  . 
+
+
+— 
+
+E  ^ 
+
+2  ^ 
+
+O  .*3 
+
+
+M 
+
+E  _ 
+
+u-  3  03 
+
+OJ  O  7 
+
+
+73 
+
+C 
+
+od 
+
+
+03 
+
+
+«  | 
+So"  'EL  ■ 
+
+OJ  co 
+
+«  u 
+
+O  ’ 
+
+
+^  CL 
+
+3  E 
+
+O  3 
+cj  73 
+
+bfl  <£> 
+
+«  I 
+
+id  c 
+
+3  o 
+73  co 
+
+£  * 
+°-73 
+&1  o 
+42  d 
+
+73  H 
+OJ 
+
+
+CL 
+
+E 
+
+o 
+
+cj 
+
+
+CO  73 
+
+OJ  .  OJ 
+bU  to  co 
+c  o  « 
+
+o3  bD  JD 
+
+•SJ  ss 
+
+'S 
+
+OJ  ^  03 
+
+£Z  G  £2 
+
+H  S  ^J 
+
+
+^3  .E 
+
+
+2  CL 
+S  73 
+L-  O 
+OJ  O 
+
+•S  V 
+o  c 
+-  o 
+.£  c 
+
+73  73 
+
+5?  i 
+
+3  73 
+
+E  0 
+%  2 
+
+
+bJ)  C 
+C  aj 
+
+
+==  73 
+•3  oj 
+
+E  g 
+.§  £ 
+
+
+III 
+
+°  E  u 
+co  O  O 
+
+OJ  0  Ph 
+^  OJ  . 
+L-  L-  ^ 
+
+§  c2  « 
+
+E  oj  2 
+
+_  X)  S 
+
+03  CO  ^ 
+
+^ 
+
+£  g  £ 
+
+■3  7  1 
+
+OJ  JO  >H 
+£  VO  r 
+<-•  m 
+c 
+o 
+
+73 
+
+OJ  T7 
+V 
+
+
+£ 
+
+03  OJ 
+
+O  Z 
+
+
+?3  73 
+
+E  § 
+
+CO 
+
+OJ  D4 
+
+73  .73 
+
+*2  E 
+
+
+J-J 
+
+3  3- 
+
+OJ  .3^  OJ 
+ic  73  cj 
+^  X 
+co  oj  ^ 
+OJ  C- 
+bO  3  co 
+2  vo  OJ 
+
+c  a! 
+
+ON  ^ 
+
+5  .  E 
+
+
+■S  E  a-  5 
+
+
+3 
+
+73  7= 
+
+£  E 
+“■•o 
+
+T3  C 
+OJ  03 
+
+
+■£  »-  73 
+
+
+E  ^  E 
+
+i-rt  •  •— «  •  — 
+
+E  to 
+
+OJ 
+
+
+s  S 
+
+
+CJ 
+
+
+3  - 
+3  2 
+
+
+.§•2 
+■sly. 
+
+2  >.•§  . 
+
+3  s  a, 
+
+Q  E  ^  - 
+
+*  O  *3  ' 
+
+3  E 
+
+
+oj  Cl 
+
+
+O  3 
+
+
+•  >> 
+bU  1- 
+
+.3  S 
+
+co  .3 
+co  c 
+OJ  3  „ 
+Cj  L3  . 
+o  oj  . 
+
+u.  u-  < 
+CL  CL 
+
+
+OJ 
+
+3  ^ 
+
+c  a 
+
+03  73 
+
+E  2 
+
+73  2 
+
+OJ  OJ 
+
+to  ^ 
+
+11 
+
+I  s 
+
+■3  3 
+
+73  73 
+73  O 
+
+
+OJ 
+
+^  2  "S 
+
+J  M  O 
+* 
+
+co  .  *3 
+
+§  ^  f 
+
+>  E  2 
+
+£  c 
+
+■—  a> 
+
+■“  n-  — 
+
+u-  o  73 
+OJ  1_ 
+
+>  co 
+
+o-g2 
+
+
+OJ  o 
+bJ)  - 
+
+
+_  O  T3 
+c 
+
+
+C 
+
+x:  o 
+
+
+OJ 
+
+co  -■ 
+
+
+S  «2 
+
+"3  CO  3 
+
+S  s  S 
+
+CO  CO 
+
+OJ  aj  OJ 
+
+
+OJ 
+
+
+6 
+
+
+SUMMARY  OF  PACKAGED  SALES  OF  FLUID  MILK  ITEMS  IN  MARKETING  AREAS  DEFINED  BY  FEDERAL  MILK  ORDERS  1/ 
+
+
+O  -= 
+
+
+0) 
+
+
+c/: 
+
+<U 
+
+1  1 
+Z* 
+
+X)  ^ 
+cfl  o 
+
+
+■o 
+
+
+■>  <U 
+.  ,z.  t- 
+^  <u 
+
+O  SI 
+1)  *3 
+a.  . . 
+
+<D  cd 
+*-  0) 
+0)  *3 
+J=  * 
+w  GO 
+V-  C 
+<L>  •  — 
+"O  aj 
+
+i  * 
+
+C3 
+
+1)  S 
+
+
+s 
+
+
+O 
+
+3  ’ 
+
+•o 
+
+O 
+
+o- . 
+E  . 
+
+
+o 
+
+3 
+
+■a 
+
+
+£  o  i 
+
+
+O  <u  — 
+-C  *3  J2 
+
+
+CL>  j- 
+
+C  4- 
+
+
+3  *2 
+O  c 
+
+a>  cd 
+
+c 
+
+
+■3 
+
+3 
+
+
+3 
+
+CO  TJ  _r 
+C  T3 
+
+•  ,2 
+cn  ..  Tj 
+
+■s  S  -g  -S  , 
+
+C/3  *3  t  C/3 
+
+■'  e  o  -O 
+2«  — 
+2  o 
+
+G—  C/3 
+
+C  C 
+
+*53  E 
+
+Oh  Dh  I 
+
+1  (Nl  rnl  ' 
+
+
+cS  - 
+on  -C 
+
+
+cs  in 
+
+fli  D 
+j-  CJ 
+
+cd  3 
+
+£  -S 
+
+
+-i 
+
+
+7 
+
+
+4/  Represents  changes  over  the  previous  year.  Percentages  are  based  on  the  same  group  ot  markets  comparable  in  both  years.  Data  for  1996  are  adjusted  to  a 
+computing  percent  changes. 
+
+5/  Adjusted  to  eliminate  variation  in  data  to  calendar  composition  and  seasonality. 
+
+6/  Represents  the  data  for  all  Federal  milk  order  markets. 
+
+
+Marketing  Areas  Under  Federal  Milk  Orders,  October  1 ,  1997 
+
+
+UP  FL 
+
+
+TABLE  1 -FEDERAL  ORDER  FLUID  (CLASS  I)  DIFFERENTIALS,  JULY  1998  AND  MINIMUM  FEDERAL  ORDER  CLASS  I  PRICES,  JULY  AND 
+
+AUGUST  1998  AND  1997  1/ 
+
+
+9 
+
+
+\l  Prices  are  for  100  pounds  of  milk  of  3.5  percent  butterfat  content.  Prices  are  listed  generally  for  the  major  city  in  the  marketing  area;  see  footnotes  on  pages  40  and  41  for  these  locations. 
+21  The  fluid  differential  is  the  amount  added  to  the  Basic  Formula  Price  to  determine  the  Class  I  price.  The  Basic  Formula  Price  is  the  base  month  Minnesota-Wisconsin  price  for  the  second 
+preceding  month  updated  with  a  product  price  formula.  See  Table  25.  The  fluid  differentials  shown  for  New  England,  New  York-New  Jersey,  and  Michigan  Upper  Peninsula  reflect  location 
+adjustments.  The  differentials  specified  in  the  orders  are:  New  England  -  $2.52,  New  York-New  Jersey  -  $2.42;  and  Michigan  Upper  Peninsula  -  $1 . 15. 
+
+
+TABLE  2-FEDERAL  MILK  ORDER  CLASS  AND  BLEND  PRICES  AND  BUTTERFAT  DIFFERENTIALS,  MAY,  WITH  COMPARISONS  II 
+
+
+Q 
+
+W 
+
+D 
+
+Z 
+
+H 
+
+Z 
+
+O 
+
+U 
+
+
+10 
+
+
+See  footnotes  on  pages  40  and  4 1 . 
+
+
+TABLE  2-FEDERAL  MILK  ORDER  CLASS  AND  BLEND  PRICES  AND  BUTTERFAT  DIFFERENTIALS,  MAY,  WITH  COMPARISONS  1/-CONT. 
+
+
+11 
+
+
+See  footnotes  on  pages  40  and  4 1 . 
+
+
+TABLE  3-FEDERAL  MILK  ORDER  CLASS  AND  BLEND  PRICES  AND  BUTTERFAT  DIFFERENTIALS,  JUNE,  WITH  COMPARISONS  II 
+
+
+Q 
+
+UU 
+
+D 
+
+g 
+
+H 
+
+2 
+
+O 
+
+u 
+
+
+12 
+
+
+See  footnotes  on  pages  40  and  4 1 . 
+
+
+TABLE  3-FEDERAL  MILK  ORDER  CLASS  AND  BLEND  PRICES  AND  BUTTERFAT  DIFFERENTIALS,  JUNE,  WITH  COMPARISONS  J./-CONT. 
+
+
+13 
+
+
+See  footnotes  on  pages  40  and  4 1 . 
+
+
+TABLE  4-AVERAGE  FEDERAL  MILK  ORDER  CLASS  I  AND  BLEND  PRICES,  BY  MARKETING  AREA,  JANUARY-JUNE,  WITH  COMPARISONS  JV 
+
+
+<N 
+
+
+14 
+
+
+CONTINUED 
+
+
+TABLE  4-AVERAGE  FEDERAL  MILK  ORDER  CLASS  I  AND  BLEND  PRICES,  BY  MARKETING  AREA,  JANUARY-JUNE,  WITH  COMPARISONS  1/-CONT. 
+
+
+15 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  5-NUMBER  OF  PRODUCERS  DELIVERING  MILK  TO  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS,  TOTAL  PRODUCER  DELIVERIES,  BUTTERFAT 
+CONTENT  OF  PRODUCER  DELIVERIES,  AND  AVERAGE  DAILY  DELIVERY  PER  PRODUCER,  BY  MARKETING  AREA,  MAY 
+
+
+< D 
+OD 
+cd 
+Cl 
+C 
+O 
+
+
+16 
+
+
+CONTINUED 
+
+
+TABLE  5-NUMBER  OF  PRODUCERS  DELIVERING  MILK  TO  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS,  TOTAL  PRODUCER  DELIVERIES,  BUTTERFAT 
+CONTENT  OF  PRODUCER  DELIVERIES,  AND  AVERAGE  DAILY  DELIVERY  PER  PRODUCER,  BY  MARKETING  AREA,  MAY-CONT. 
+
+
+17 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  6-NUMBER  OF  PRODUCERS  DELIVERING  MILK  TO  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS,  TOTAL  PRODUCER  DELIVERIES,  BUTTERFAT 
+CONTENT  OF  PRODUCER  DELIVERIES,  AND  AVERAGE  DAILY  DELIVERY  PER  PRODUCER,  BY  MARKETING  AREA,  JUNE 
+
+
+(N 
+
+<L> 
+
+CD 
+
+cd 
+
+a. 
+
+c 
+
+o 
+
+
+18 
+
+
+CONTINUED 
+
+
+TABLE  6-NUMBER  OF  PRODUCERS  DELIVERING  MILK  TO  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS,  TOTAL  PRODUCER  DELIVERIES,  BUTTERFAT 
+CONTENT  OF  PRODUCER  DELIVERIES,  AND  AVERAGE  DAILY  DELIVERY  PER  PRODUCER,  BY  MARKETING  AREA,  JUNE-CONT. 
+
+
+19 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  7-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  I  AND  GROSS  CLASS  I  USE  BY  HANDLERS  REGULATED  UNDER 
+
+FEDERAL  ORDERS,  BY  MARKETING  AREA,  MAY,  WITH  COMPARISONS 
+
+
+<N 
+
+0> 
+
+oo 
+
+03 
+
+CL 
+
+a 
+
+o 
+
+C/5 
+
+w 
+
+o 
+
+c 
+
+o 
+
+£ 
+
+<D 
+
+D 
+
+in 
+
+
+20 
+
+
+CONTINUED 
+
+
+TABLE  7-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  I  AND  GROSS  CLASS  I  USE  BY  HANDLERS  REGULATED  UNDER 
+FEDERAL  ORDERS,  BY  MARKETING  AREA,  MAY,  WITH  COMPARISONS-CONT. 
+
+
+21 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  8-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  I  AND  GROSS  CLASS  I  USE  BY  HANDLERS  REGULATED  UNDER 
+
+FEDERAL  ORDERS,  BY  MARKETING  AREA,  JUNE,  WITH  COMPARISONS 
+
+
+(N 
+
+<D 
+
+OX) 
+
+ed 
+
+CL 
+
+C 
+
+o 
+
+
+22 
+
+
+CONTINUED 
+
+
+TABLE  8-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  I  AND  GROSS  CLASS  I  USE  BY  HANDLERS  REGULATED  UNDER 
+FEDERAL  ORDERS,  BY  MARKETING  AREA,  JUNE,  WITH  CQMPARISQNS-CQNT. 
+
+
+23 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  9-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  II  BY  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS, 
+
+BY  MARKETING  AREA,  MAY  AND  YEAR  TO  DATE 
+
+
+(N 
+
+•'3' 
+
+<D 
+
+03 
+
+a. 
+
+c 
+
+o 
+
+C/3 
+
+w 
+
+O 
+
+c 
+
+o 
+
+£ 
+
+<u 
+
+Q) 
+
+c/} 
+
+
+24 
+
+
+CONTINUED 
+
+
+TABLE  9-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  II  BY  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS, 
+
+BY  MARKETING  AREA,  MAY  AND  YEAR  TO  DATE-CONT. 
+
+
+25 
+
+
+See  footnotes  on  page  42. 
+
+
+TABLE  10-PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  II  BY  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS, 
+
+BY  MARKETING  AREA,  JUNE  AND  YEAR  TO  DATE 
+
+
+<N 
+
+OX) 
+
+o- 
+
+C 
+
+o 
+
+
+o 
+
+£ 
+
+0) 
+
+<D 
+
+C/3 
+
+
+26 
+
+
+CONTINUED 
+
+
+TABLE  10— PRODUCER  DELIVERIES  OF  MILK  USED  IN  CLASS  II  BY  HANDLERS  REGULATED  UNDER  FEDERAL  ORDERS, 
+
+BY  MARKETING  AREA,  JUNE  AND  YEAR  TO  DATE-CONT. 
+
+
+27 
+
+
+See  footnotes  on  page  42. 
+
+
+(N 
+
+1) 
+
+OX) 
+
+oj 
+
+O- 
+
+
+<D 
+
+0) 
+
+C/3 
+
+
+28 
+
+
+CONTINUED 
+
+
+on 
+
+c4 
+
+UJ 
+
+Q 
+
+o£ 
+
+C 
+
+J 
+
+< 
+
+oi 
+
+u 
+
+Q 
+
+w 
+
+uu 
+
+0£ 
+
+UJ 
+
+Q 
+
+2 
+
+P 
+
+Q 
+
+W 
+
+H 
+
+< 
+
+-1 
+
+P 
+
+O 
+
+s 
+
+
+s  s 
+
+
+uu 
+
+O 
+
+00 
+
+UJ 
+
+2 
+
+UJ 
+
+> 
+
+2 
+
+pj 
+
+Q 
+
+dS 
+
+w 
+
+u 
+
+p 
+
+Q 
+
+O 
+
+at 
+
+Cl. 
+
+
+< 
+
+H 
+
+O 
+
+H 
+
+
+W 
+
+P 
+
+03 
+
+
+< 
+
+H 
+
+
+29 
+
+
+See  footnotes  on  page  42. 
+
+
+§ 
+
+
+30 
+
+
+See  footnotes  on  pages  42  and  43 . 
+
+
+31 
+
+
+See  footnotes  on  pages  42  and  43. 
+
+
+3 
+
+w 
+
+X 
+
+£ 
+
+co 
+
+H 
+
+PP 
+
+2 
+
+05 
+
+< 
+
+
+05 
+
+O 
+
+PL¬ 
+
+OT! 
+
+05 
+
+HP 
+
+Q 
+
+05 
+
+O 
+
+05 
+
+-J 
+
+
+3 
+
+PP 
+Q 
+W 
+PL- 
+
+>- 
+
+« 
+
+Q 
+
+w  £2 
+
+§  05 
+< 
+Oh 
+
+s 
+
+o 
+u 
+
+w 
+
+H 
+
+
+—I 
+
+co 
+
+z 
+
+o 
+
+
+PP 
+pq 
+
+Q 
+
+CO 
+< 
+
+< 
+
+O  ^ 
+S  oo 
+
+(~H  O' 
+
+up  2 
+
+^  >* 
+<  s 
+
+
+z  PP 
+
+P3 
+< 
+h-J 
+
+
+^  o 
+
+Q  £ 
+
+op  Z 
+
+D  X 
+Q 
+
+PP  D 
+05  ^ 
+
+H 
+
+< 
+
+P p 
+
+Q 
+
+Z 
+
+< 
+
+CO 
+
+F— 
+
+U 
+
+X 
+
+a 
+
+o 
+
+05 
+
+a- 
+
+05 
+
+_P 
+
+
+PP 
+
+-P 
+
+O 
+
+33 
+
+£ 
+
+
+PP 
+
+_P 
+
+ca 
+
+< 
+
+E-| 
+
+
+32 
+
+
+See  footnotes  on  pages  42  and  43. 
+
+
+TABLE  13-WHOLE  MILK  PRODUCTS  AND  FAT-REDUCED  MILK  PRODUCTS  SOLD  IN  MARKETING  AREAS  DEFINED  BY  FEDERAL  MILK  ORDERS  FOR  MARKETS  WHERE 
+
+SUCH  INFORMATION  IS  AVAILABLE,  MAY  1998,  WITH  COMPARISONS  J./-CONTINUED 
+
+
+33 
+
+
+See  footnotes  on  pages  42  and  43. 
+
+
+TABLE  14-PACKAGED  SALES  OF  INDIVIDUAL  WHOLE  MILK  PRODUCTS  AND  FAT-REDUCED  MILK  PRODUCTS  IN  SELECTED  MARKETING  AREAS 
+
+DEFINED  BY  FEDERAL  MILK  ORDERS,  JANUARY  1998  TO  DATE,  WITH  COMPARISONS  1/6/9/ 
+
+
+Q 
+
+g 
+
+Z 
+
+H 
+
+Z 
+
+o 
+
+u 
+
+
+34 
+
+
+See  footnotes  on  pages  42  and  43 . 
+
+
+TABLE  15-PACKAGEO  SALES  OF  WHOLE  MILK  PRODUCTS,  FAT-REDUCED  MILK  PRODUCTS,  MILK  AND  CREAM  MIXTURES,  CREAM  PRODUCTS,  AND  TOTAL  FLUID 
+PRODUCTS  BY  HANDLERS  REGULATED  UNDER  FEDERAL  MILK  ORDERS,  GROUPED  BY  REGION,  APRIL  1998,  WITH  COMPARISONS  10/ 
+
+
+35 
+
+
+TABLE  16-PACKAGED  SALES  OF  WHOLE  MILK  PRODUCTS,  FAT-REDUCED  MILK  PRODUCTS,  MILK  AND  CREAM  MIXTURES,  CREAM  PRODUCTS,  AND  TOTAL  FLUID 
+PRODUCTS  BY  HANDLERS  REGULATED  UNDER  FEDERAL  MILK  ORDERS,  GROUPED  BY  REGION,  MAY  1998,  WITH  COMPARISONS  10/ 
+
+
+36 
+
+
+TABLE  17-PACKAGED  SALES  OF  MILK  AND  CREAM  MIXTURES,  CREAM  PRODUCTS,  YOGURT,  AND  EGGNOG  BY  HANDLERS  REGULATED  UNDER  FEDERAL  MILK 
+
+ORDERS,  JANUARY  1998  TO  DATE,  WITH  COMPARISONS  10/11/ 
+
+
+Q 
+
+PJ 
+
+D 
+
+Z 
+
+H 
+
+z 
+
+o 
+
+u 
+
+
+37 
+
+
+See  footnotes  on  pages  42  and  43 . 
+
+
+3 
+
+w 
+
+Q 
+
+UJ 
+
+Oh 
+
+qS 
+
+W 
+
+Q 
+
+2 
+
+D 
+
+Q 
+
+W 
+
+H 
+
+< 
+
+J 
+
+D 
+
+O 
+
+
+on 
+
+OS 
+
+W 
+
+_) 
+
+Q 
+
+2 
+
+< 
+
+a 
+
+
+>H  xs 
+
+CO  04 
+< 
+
+
+oo 
+H 
+U 
+D 
+Q 
+O 
+oS 
+
+Oh 
+
+>" 
+oS 
+
+< 
+
+Q 
+
+Uh 
+
+O 
+
+3 
+
+a 
+
+H 
+U 
+
+a  o 
+
+
+<  >* 
+
+s  “ 
+
+w  g 
+
+H  ^ 
+
+2  O 
+"  OS 
+Q  O 
+W  . 
+N  oo 
+"1  Pi 
+
+
+H 
+
+D 
+
+s 
+
+< 
+
+3 
+
+u 
+
+Q 
+
+2 
+
+< 
+
+2 
+
+a 
+
+§ 
+
+S 
+
+2 
+
+00 
+
+
+OJ 
+
+J 
+
+CO 
+
+< 
+
+H 
+
+
+ro 
+
+'d- 
+
+■o 
+
+C 
+
+H3 
+
+fS 
+
+^1- 
+
+
+CJ 
+
+o 
+
+00 
+
+
+38 
+
+
+TABLE  19-MILK,  SKIM  MILK,  AND  CREAM  UTILIZED  IN  THE  MANUFACTURE  OF  DAIRY  PRODUCTS  BY  HANDLERS  REGULATED  UNDER  FEDERAL  MILK, 
+
+ORDERS,  GROUPED  BY  REGION,  MAY  1998,  WITH  COMPARISONS  \±! 
+
+
+39 
+
+
+FOOTNOTES  FOR  TABLES  2  AND  3. 
+
+
+1/  Prices  are  for  milk  of  3.5  percent  butterfat  content  and  for  the  major  city  in  the 
+marketing  area.  All  averages  are  weighted. 
+
+2 /  For  those  markets  which  have  multiple  component  pricing  (see  table  21),  the  prices 
+represent  the  Basic  Formula  Price  plus  the  weighted  average  differential  price  or  producer 
+price  differential  computed  under  the  order. 
+
+3/  For  the  21  marketing  areas  where  it  currently  is  in  effect,  this  price  is  applicable  to 
+producer  milk  used  to  produce  nonfat  dry  milk. 
+
+4/  Zone  1  (Boston).  Price  at  201-210  mile  zone:  Class  I  and  blend,  72  cents  less.  Class 
+1  and  blend  price  at  Hartford,  10  cents  less. 
+
+5/  New  York  metropolitan  area.  Price  at  201-210  mile  zone:  Class  I  and  blend,  72  cents 
+less;  Class  II  and  Class  III,  8  cents  less. 
+
+6/  Philadelphia,  Baltimore,  and  Washington,  D.C.  Price  excludes  a  6-cent  direct 
+delivery  differential  applicable  to  milk  delivered  to  the  Philadelphia  area. 
+
+7/  Charlotte. 
+
+8/  Bristol,  Chattanooga,  and  Knoxville. 
+
+9/  Effective  October  1,  1997,  the  order  regulating  the  marketing  area  was  terminated. 
+
+See  “Summary  of  Federal  Milk  Order  Actions,  October  1997"  in  FMOS-422. 
+
+10/  Zone  7  (Atlanta  and  Birmingham).  Class  I  and  blend  price  at  Little  Rock,  31  cents 
+less;  and  at  New  Orleans,  57  cents  more. 
+
+1 1/  Figures  exclude,  where  applicable.  Upper  Florida,  Southeastern  Florida,  Eastern  South 
+Dakota,  and  Western  Colorado;  some  of  the  data  used  to  weight  the  monthly  prices  are 
+restricted.  The  individual  Class  I  and  blend  price  data  for  these  markets  are  shown  below. 
+Class  II  and  Class  III  prices  are  the  same  as  the  prices  shown  in  the  table  for  Carolina. 
+
+
+M 
+
+ay 
+
+June 
+
+Marketing 
+
+Class  I 
+
+Blend 
+
+Class  I 
+
+Blend 
+
+area 
+
+1998 
+
+1997 
+
+1998 
+
+1997 
+
+1998 
+
+1997 
+
+1998 
+
+1997 
+
+- Dollars - 
+
+Upper  Florida 
+
+16.39 
+
+16.07 
+
+16.10 
+
+15.81 
+
+15.59 
+
+15.02 
+
+15.55 
+
+14.58 
+
+S.  E.  Florida 
+
+16.99 
+
+16.67 
+
+16.66 
+
+16.31 
+
+16.19 
+
+15.62 
+
+16.00 
+
+15.17 
+
+E.  S.  Dakota 
+
+14.31 
+
+13.99 
+
+12.32 
+
+12.36 
+
+13.51 
+
+12.94 
+
+13.27 
+
+11.78 
+
+W.  Colorado 
+
+14.81 
+
+14.49 
+
+14.37 
+
+13.87 
+
+14.01 
+
+13.44 
+
+13.98 
+
+12.93 
+
+40 
+
+
+FOOTNOTES  FOR  TABLES  2  AND  3.  -CONTINUED 
+
+
+12/  Figures  are  based  on  the  same  group  of  comparable  markets— markets  where  the 
+orders  were  in  effect  the  entire  period  1997-98,  and  for  which  the  data  were  not  affected 
+by  marketing  area  changes.  Excludes  Tennessee  Valley,  Carolina,  Southeast,  and 
+Louisville-Lexington-Evansville,  where  applicable.  The  termination  of  the  Tennessee 
+Valley  order  affected  significantly  the  comparability  of  the  data  for  these  neighboring 
+marketing  areas;  see  9/.  Figures  also  exclude  Greater  Kansas  City  and  Iowa,  where 
+applicable.  Some  of  the  data  used  to  weigh  the  monthly  prices  for  these  markets  are 
+restricted. 
+
+13/  Zone  II  (Marquette). 
+
+14/  Individual  handler  pool.  Blend  prices  are  weighted  average  of  all  handlers. 
+
+15/  Zone  1  (Detroit).  Price  excludes  a  10-cent  direct  delivery  differential  applicable  to 
+milk  delivered  to  the  Detroit  metropolitan  area. 
+
+16/  Cleveland  and  Pittsburgh. 
+
+17/  Zone  3  (Columbus).  Class  I  and  blend  price  at  Cincinnati  (Zone  4)  7  cents  more. 
+
+18/  Indianapolis. 
+
+19/  Zone  1  Chicago).  Class  I  and  blend  price  at  Milwaukee  (Zone  4)  9  cents  less. 
+
+20/  Peoria. 
+
+21/  Base  Zone  (Alton).  Class  I  and  blend  price  at  Carbondale  (Southern  Zone)  and  at  St. 
+Louis  9  cents  more. 
+
+22/  Zone  1  (Minneapolis). 
+
+23/  Zone  1  (Des  Moines). 
+
+24/  Zone  1  (Omaha). 
+
+25/  Kansas  City  and  Topeka. 
+
+26/  Zone  1  (Oklahoma  City).  Class  I  and  blend  price  at  Springfield,  Mo.,  58  cents  less. 
+27/  Zone  1  (Dallas).  Class  I  and  blend  price  at  Houston,  54  cents  more. 
+
+28/  Denver. 
+
+29/  Boise,  Idaho. 
+
+30/  Salt  Lake  City,  Utah. 
+
+31/  Phoenix. 
+
+32/  Albuquerque,  Santa  Fe,  and  El  Paso. 
+
+33/  Zone  1  (Seattle  and  Portland). 
+
+
+41 
+
+
+FOOTNOTES  FOR  TABLES  4  THROUGH  1 1 
+
+
+1/  Prices  are  for  milk  of  3.5  percent  butterfat  content  and  for  the  major  city  in  the 
+marketing  area.  See  footnotes  on  pages  40  and  41  for  location  at  which  price  is  reported. 
+All  averages  are  weighted. 
+
+2/  Effective  October  1,  1997,  the  order  regulating  the  marketing  area  was  terminated. 
+
+3/  Figures  are  based  on  the  same  group  of  comparable  markets— markets  where  the  orders 
+were  in  effect  the  entire  period  1997-98,  and  for  which  the  data  were  not  affected  by 
+marketing  area  changes.  Excludes  Tennessee  Valley,  Carolina,  Southeast,  and  Louisville- 
+Lexington-Evansville,  where  applicable.  See  21.  Figures  also  exclude  Iowa,  Greater 
+Kansas  City  and  Eastern  South  Dakota,  where  applicable.  See  8/. 
+
+4/  Figures  exclude,  where  applicable.  Upper  Florida,  Southeastern  Florida,  Eastern  South 
+Dakota,  and  Western  Colorado;  some  of  the  data  used  to  weight  the  monthly  prices  are 
+restricted. 
+
+5/  Data  are  a  summation  or  weighted  average  of  the  Tampa  Bay,  Upper  Florida,  and 
+Southeastern  Florida  marketing  areas.  The  data  are  combined  in  order  to  mask  the  data  for 
+Upper  Florida,  which  are  restricted. 
+
+6/  In  these  marketing  areas,  milk  was  not  pooled  due  to  unusual  price  relationships.  See 
+on  page  4. 
+
+7/  The  data  for  these  marketing  areas  are  combined  in  order  to  mask  restricted  data.  See 
+table  1  for  complete  marketing  area  name. 
+
+8/  Class  I  and  Class  II  receipts  and  utilization  data  are  restricted  for  the  Greater  Kansas 
+City-Eastern  South  Dakota  area,  and  were  restricted  for  the  Iowa  area  from  August 
+through  October  1997.  These  data  are  excluded  from  all  market  figures,  where  applicable. 
+
+
+FOOTNOTES  FOR  TABLES  12  THROUGH  19. 
+
+1/  In-area  sales  include  total  sales  in  each  of  the  areas  by  handlers  regulated  under  the 
+respective  order,  by  handlers  regulated  under  other  orders,  by  partially  regulated  handlers, 
+and  by  producer-handlers.  Sales  routes  of  handlers  may  extend  outside  defined  marketing 
+areas;  therefore,  some  handlers'  in-area  sales  are  partially  estimated. 
+
+2/  Plain,  flavored,  and  miscellaneous  whole  milk  products. 
+
+3/  Plain,  fortified,  flavored,  and  miscellaneous  fat-reduced  milk  products,  and  buttermilk. 
+4/  Effective  October  1,  1997,  the  order  regulating  this  marketing  area  was  terminated. 
+
+5/  Comparable  markets  are  markets  where  the  orders  were  in  effect  the  entire  period 
+1997-98,  and  for  which  the  data  were  not  affected  significantly  by  marketing  area  changes. 
+Excludes  Tennessee  Valley;  see  4/. 
+
+6/  Excludes  New  York-New  Jersey. 
+
+7/  Figures  adjusted  to  eliminate  variation  in  data  due  to  calendar  composition. 
+
+8/  The  data  for  this  market  are  estimated. 
+
+9/  See  table  12  for  marketing  areas  included;  excludes  Tennessee  Valley. 
+
+10/  Total  packaged  disposition,  in  and  out  of  the  marketing  area,  by  regulated  handlers. 
+Besides  receipts  from  producers,  these  dispositions  also  may  include  receipts  from  other 
+Federal  order  plants  and/or  receipts  from  other  sources.  However,  sour  cream,  yogurt, 
+and  eggnog  are  reported  on  a  used-to-produce  basis. 
+
+
+42 
+
+
+FOOTNOTES  FOR  TABLES  12  THROUGH  19. -CONTINUED 
+
+
+11/  See  table  12  for  marketing  areas  included;  excludes  New  York-New  Jersey.  Percent 
+changes  are  based  on  the  same  groups  of  comparable  markets;  excludes  Carolina, 
+Tennessee  Valley,  Southeast,  and  Louisville-Lexington-Evansville.  See  4/. 
+
+12/  Light,  heavy,  and  sour  cream,  and  cream  dips. 
+
+13/  In  addition  to  listed  fluid  milk  and  cream  products,  includes  yogurt  and  eggnog. 
+
+14/  Includes  producer  milk  and  other  source  milk  used  to  produce  manufactured  dairy 
+products  in  regulated  pool  plants,  as  well  as  milk  diverted  and  shipped  to  non-order  plants 
+for  processing.  Other  source  milk  at  regulated  plants  includes  bulk  transfers  and 
+diversions  from  other  Federal  orders,  and  receipts  from  unregulated  sources.  Some  of  the 
+data  are  preliminary  and  partially  estimated. 
+
+15/  See  table  12  for  marketing  areas  included;  excludes  New  York-New  Jersey.  Percent 
+changes  are  based  on  the  same  groups  of  comparable  markets;  excludes  Carolina, 
+Tennessee  Valley,  and  Southeast.  See  4/. 
+
+16/  In  addition  to  listed  manufactured  products,  includes  milk,  skim  milk,  and  cream  used 
+in  other  manufactured  dairy  products,  e.g.,  evaporated  milk,  condensed  milk,  dried 
+products,  aerated  cream,  and  fat-free  milk  equivalent  used  to  fortify  fluid  milk  products; 
+milk,  skim  milk,  and  cream  used  in  other  food  products  as  well  as  used  in  animal  feed, 
+dumped  or  spilled,  plant  loss,  and  miscellaneous  products. 
+
+17/  Percent  changes  over  the  previous  year  are  based  on  the  same  group  of  comparable 
+markets— markets  where  the  orders  were  in  effect  the  entire  applicable  two  year  period,  and 
+for  which  the  data  were  not  affected  significantly  by  marketing  area  changes;  excludes 
+Black  Hills.  These  changes  are  based  on  pounds  of  butterfat,  except  for  nonfat  dry  milk 
+which  are  based  on  pounds  of  fat-free  milk. 
+
+18/  The  marketing  areas  in  which  milk  was  not  pooled  in  April  1997  and  1998  due  to 
+unusual  price  relationships  were  in  these  regions.  See  on  page  6. 
+
+19/  Restricted. 
+
+20/  The  marketing  areas  in  which  milk  was  not  pooled  in  May  1997  and  1998  due  to 
+unusual  price  relationships  were  in  these  regions.  See  on  page  6. 
+
+
+43 
+
+
+TABLE  20-PERCENTAGE  OF  WHOLE  MILK  EQUIVALENT  (MILKFAT  BASIS)  USED  IN  THE  PRODUCTION  OF  MANUFACTURED  DAIRY  PRODUCTS, 
+
+IN  FEDERAL  ORDER  MARKETS,  JANUARY  1998  TO  DATE,  WITH  COMPARISONS  II 
+
+
+s  U  e 
+
+
+44 
+
+
+TABLE  21 -FEDERAL  MILK  ORDER  MILK  COMPONENT  PRICES  AND  TESTS  IN  VARIOUS  MARKETING  AREAS,  MAY  AND  JUNE  II 
+
+
+C/3  O 
+
+2  ^ 
+
+
+G 
+
+O 
+
+■O  c 
+c  c^ 
+
+
+E  -s 
+
+
+<d  ■  cd 
+
+sE'z 
+c.s: 
+°  E  £ 
+.•2  fe  u. 
+
+cs  trt  d 
+
+"2 
+
+^.52  ° 
+
+
+C/3 
+
+S  .2 
+
+3  S. 
+■o 
+o 
+
+
+C/3 
+
+<L>  •  G 
+
+U  -S 
+
+
+TD  .G 
+C  cd 
+3  Q- 
+
+2  « 
+
+CL  ^ 
+
+S  2 
+
+a.  S 
+<u  y 
+
+
+a-  £ 
+<d  ^ 
+x:  w 
+
+
+o 
+
+
+,  -p 
+
+
+..sg 
+S  3 
+
+W  O 
+
+WOO 
+
+-  -a  = 
+
+<u  '5  « 
+
+■3  = 
+
+cr  1,1  — 
+
+dj  ^  cd 
+
+u  E 
+
+-a  o 
+
+D  O 
+T3  O 
+
+ir  -52  O 
+
+°  -5  o 
+
+C/3  u. 
+
+<u  o  Jr; 
+^  Ph  cl 
+
+ti  <2 
+
+I-  2 
+
+y  -5  = 
+
+C  CD 
+
+O  «  s 
+
+
+cd 
+
+
+0) 
+
+
+^  c 
+-o 
+
+
+Pu  g 
+
+c  '-3 
+
+cd  oj 
+„  o 
+
+3 
+
+£  Cl 
+O  u- 
+
+•— 1  <u 
+
+
+«  5  £ 
+
+pG  flj 
+
+
+pG  Jg 
+
+
+o 
+
+C/3 
+
+0) 
+
+pC 
+
+H 
+
+»nl 
+
+
+s  -S  o  >3 
+
+
+e  ^ 
+§  ^ 
+■o  £ 
+
+
+a>  c 
+
+-u.  y 
+cd  o 
+
+
+.o 
+<u 
+^7  cd 
+^  o 
+
+«r  s 
+
+s  -o 
+
+5  o 
+
+»•  C/3 
+
+S3 
+
+za 
+
+cd  <L> 
+
+Q  .a 
+
+Up 
+
+•£  D- 
+o  .2 
+5/3  c 
+
+C  Oi 
+
+
+W 
+
+
+©J) 
+
+’3 
+
+£ 
+
+T3 
+
+
+£ 
+
+-a 
+
+
+-a 
+
+
+C/T  (U 
+
+§  3 
+
+
+C/3  = 
+
+0)  u2 
+.G  ^ 
+
+w  *a 
+
+OX)  c 
+
+■S  § 
+
+cd  G- 
+
+*3  U- 
+
+m  g. 
+
+0) 
+
+>—  gj 
+C/3  /-) 
+
+Up 
+
+■o 
+
+U-p  u 
+O  SZ 
+^  W 
+£  <u 
+
+
+Q-  OX) 
+
+CL  "o3 
+
+D  -s 
+
+_r  cd 
+cd  L_ 
+
+§  £ 
+
+•  —  T3 
+
+oo  Cd 
+<L>  <D 
+0^  oo 
+O  £ 
+00  ^ 
+
+3 
+
+‘pG  • 
+
+U  % 
+
+<D  '*3 
+
+-C  o 
+
+E-.  ^ 
+
+Up 
+
+.  OJ 
+,G 
+
+•1  O 
+o 
+
+
+©  *- 
+o" 
+
+US 
+
+cd  o 
+
+c4i  O 
+
+oj 
+
+■a  S 
+
+Up 
+
+Op  *3 
+
+8  S 
+
+y  o 
+
+~G  vo 
+w  O 
+
+S'8 
+►2  ° 
+•o  <U 
+
+G  Up 
+
+cd  cd 
+>> 
+
+Cd  C 
+
+3 
+
+
+45 
+
+
+TABLE  22-FACTORS  USED  IN  THE  COMPUTATION  OF  CLASS  III- A  PRICES  IN  FEDERAL  MILK  ORDER  MARKETS, 
+
+JANUARY  1998  TO  DATE  JV 
+
+
+3 
+
+M 
+
+
+3 
+
+•o 
+
+o 
+
+
+u  CL 
+
+
+M  E 
+
+
+<NI  ml  ^-1  u-ii  voi  rH  ool  c\| 
+
+
+46 
+
+
+—  00 
+u*  ON 
+Q-  On 
+<  - 
+
+
+3  OS 
+
+
+(D  00 
+
+C  Os 
+3  OS 
+
+
+>s  OO 
+3  Os 
+■5  Os 
+
+
+5  °° 
+S3  OS 
+
+S  ~ 
+
+
+e? 
+
+3  oo 
+
+3  °s 
+
+<D 
+
+Bh 
+
+
+2  o 
+c  2 
+
+
+h  * 
+
+
+•3 
+
+1— ! 
+
+o 
+
+*  ^ 
+—  cd 
+
+
+in  Q  m  •£> 
+o  no  o\ 
+^  cd  ^ 
+00  ^  go 
+VO  (N  ^ 
+
+
+—<  co 
+uo  m 
+r-  oo 
+
+o' 
+
+co 
+
+
+— '  ON 
+
+r-  — . 
+
+ON  VO 
+
+— T  vo" 
+co 
+
+
+ON 
+
+
+OO  T)  OO  5$ 
+on  m  oo 
+
+‘  3  CD  «n 
+
+oo"  in  cn 
+on  on  3; 
+
+(N 
+
+
+r-  o  no  ^ 
+
+in  in  ro 
+(N  '-<  cn  ^ 
+— "  (N  in  Q 
+
+Tf  m  o 
+
+
+oo  o 
+
+r-.  vo  OO 
+
+i —  r-  co 
+
+in  in  o 
+
+no  co  ^  t^; 
+
+(N 
+
+
+no  m  Tt 
+
+r-  oo  (N 
+h  in  on  ^ 
+r-  «n  «n  no 
+no  fn  (N  ^ 
+CN 
+
+
+»n  co  vo  ti- 
+co  oo  no 
+co  ro  on 
+
+in  »n  (N 
+r"  co  — ■  ^ 
+ON 
+
+
+ON  00  ON  3  ^ 
+
+no  n  Q  3  3 
+
+co  — <  no  ^  ^ 
+
+
+in 
+
+
+2  S  3  §  g 
+
+OO  o  oo  O  w 
+
+co"  <N  (N  ^  °° 
+
+
+^-s  m  oo  «— < 
+
+2  00  Q  S  oo 
+
+^  (N  O  (n  ^ 
+
+
+(N 
+
+
+CN 
+
+
+)£  o  co  in 
+3  Ov  cn 
+OO  Tf  Os 
+
+<N  oo'  so" 
+
+<N 
+
+
+3- 
+
+O 
+
+
+CM  CM 
+
+
+so  £4  m  3-  >n 
+
+o  os  SO  os  CM 
+
+^  Sj-  S£)  SO 
+
+S  so  so  cn  3; 
+
+CM  CM  CM 
+
+
+c«-> 
+
+CM 
+CM  C 
+
+8  *£ 
+
+(N  ^ 
+
+
+oo  r- 
+VO  O' 
+
+cd  r- 
+
+no"  m 
+
+CN 
+
+ro  nc 
+
+
+*-«  c«“ 
+ON  (N 
+
+. 
+
+(N  NC 
+co  r- 
+
+
+no  r-* 
+— •  r- 
+«n 
+
+«o  c 
+on  r- 
+
+<N  NC 
+
+
+r- 
+
+O  OC 
+co  m 
+
+^t"  nc 
+co  _ 
+(N  nc 
+
+
+vo  m 
+3 
+CD 
+
+oo"  m 
+O  ^t 
+CN  m 
+
+
+—  ^ 
+oo  ir 
+c  o 
+
+
+UJ 
+
+£ 
+
+
+(Nl 
+
+
+cd 
+Q 
+
+•5 
+
+§  S3 
+
+co  W 
+
+
+c 
+
+cd 
+
+00 
+
+2 
+
+o 
+
+s 
+
+c 
+
+
+3 
+
+o 
+
+00 
+
+
+C  w 
+
+.2  8 
+
+00  ^ 
+
+(2  i 
+
+o  S 
+3  6  - 
+
+.2  Cl  t) 
+
+x  a- 
+U  D 
+
+
+col 
+
+Xr> 
+
+<L> 
+
+£ 
+
+
+^1 
+
+c^) 
+
+<L>  — 
+
+^  < 
+
+
+O  ON 
+W  ON 
+
+
+cd 
+TD 
+
+
+*§  00 
+C  ON 
+<U  ON 
+O  ^ 
+<U 
+
+Q 
+
+
+0) 
+
+«g  00 
+E  on 
+
+a>  on 
+>  — • 
+o 
+Z 
+
+
+o 
+
+r- 
+
+ON 
+
+(N 
+
+8 
+
+00 
+
+Ov 
+
+On 
+
+*“ 1 
+
+ON 
+
+CO 
+
+(O 
+
+c» 
+
+vo 
+
+cd 
+
+<L> 
+
+0> 
+
+CN 
+
+Tf 
+
+^r 
+
+ON 
+
+vo" 
+
+oo 
+
+8 
+
+,st 
+
+Ov 
+
+cd 
+
+CO 
+
+«— 1 
+
+IO 
+
+T3 
+
+_r 
+
+S  00 
+
+*0  ON 
+2  on 
+
+O  — * 
+
+O 
+
+
+00 
+
+
+<D 
+
+X) 
+
+E  ON 
+2  on 
+
+On 
+<U 
+
+cn 
+
+
+S2  oo 
+
+3  ON 
+
+2>On 
+
+
+on  in 
+cn  vo 
+00  00 
+
+
+m 
+
+(N 
+
+
+$  2 
+o  in 
+r-  o 
+r- 
+
+
+3  O  ON  ON  Ov 
+^  no  m  <n  o 
+
+
+(N  <n  >n  ^ 
+
+O  O  cn 
+
+'t  (N  h  d 
+
+
+r-  oo 
+-=t 
+
+
+r-  o 
+r- 
+
+CD 
+NO 
+
+
+NO  — 
+m 
+
+oo"  Tt 
+<N  O' 
+r-  O' 
+
+
+00  NC 
+OO  Tt 
+»n  nc 
+
+
+<D 
+
+*—> 
+
+c  V 
+
+iS 
+
+oo  !r 
+
+c 
+
+W 
+
+
+<L> 
+
+z 
+
+
+(Nl 
+
+
+cd 
+u 
+
+•S 
+
+§  S3 
+
+oo  w 
+
+
+c 
+
+cd 
+
+oc 
+
+2 
+
+o 
+
+
+E 
+
+<U 
+
+5 
+
+3 
+
+O 
+
+00 
+
+
+cd 
+
+.1  B 
+
+0D  > 
+
+2  cni 
+o2  3 
+
+1  §  li| 
+
+
+-  a  ^  § 
+
+
+=  f  o. 
+
+■Z  u  D 
+
+
+3-1 
+
+(A 
+OJ  — 
+
+^  < 
+
+
+47 
+
+
+1/  The  marketing  areas  shown  are  the  marketing  areas  for  which  the  data  is  available  and  unrestricted. 
+
+2/  The  marketing  areas  included  in  this  region  are  shown  on  table  2  under  the  North  Atlantic  and  Southeastern  regions. 
+
+3/  The  marketing  areas  included  in  this  region  are  shown  on  table  2  under  the  East  North  Central  and  West  North  Central  regions. 
+
+4/  The  marketing  areas  included  in  this  region  are  shown  on  table  2  under  the  West  South  Central,  Mountain,  and  Pacific  regions. 
+
+
+TABLE  24-FACTORS  USED  IN  THE  DETERMINATION  OF  THE  BASIC  FORMULA  PRICE,  JANUARY  1998  TO  DATE 
+
+
+M-i  .  — 
+
+°  E 
+
+CD  <D 
+
+s  « 
+
+2  00 
+•5  .c 
+
+•S  3 
+
+C  tj 
+
+.2  42 
+
+•§  2 
+o  E 
+
+o,  E 
+
+aj  <s 
+
+X3  C/3 
+
+f-H  ^ 
+
+^  1) 
+
+cnl  3 
+T3 
+c/S  £ 
+
+a  &■ 
+
+■a  s 
+
+S-1 
+
+Cl 
+
+a  <u 
+
+=S  .2 
+
+oj  a. 
+•S  CD 
+
+£ 
+
+c  H 
+
+-£ 
+
+oj) 
+
+§  00 
+>  00 
+CD  ^ 
+
+E  £ 
+
+3  s 
+
+
+>,  3 
+
+x  -a 
+^  2 
+s  ^ 
+
+< 
+
+Q  S 
+"5  c  ^ 
+
+c.=  Z 
+
+P  "O  >, 
+
+E  "  -C 
+2  5  T3 
+
+tu  3:  i) 
+
+•a  x)  >> 
+
+«  3  y 
+
+•-  a.  > 
+
+
+48 
+
+
+TABLE  25-BASIC  FORMULA  PRICE,  AND  RELATED  INFORMATION,  JANUARY  1998  TO  DATE 
+
+
+*3 
+
+a 
+
+cd 
+
+
+*3 
+
+G 
+
+3 
+
+
+P 
+
+EC 
+
+a. 
+
+
+X 
+
+H 
+
+
+cl 
+
+ed 
+
+
+2 
+
+P 
+
+(A 
+
+P 
+
+cj 
+
+cL 
+
+
+CL 
+
+£ 
+
+3 
+
+s 
+
+E 
+
+E 
+
+
+■a 
+
+3 
+
+u. 
+
+p 
+
+
+o 
+
+Uh 
+
+
+cd 
+
+CQ 
+
+X 
+
+oo 
+
+(N 
+
+O 
+
+o 
+
+
+3 
+
+■3 
+
+o 
+
+
+Cl 
+
+Ph 
+
+CQ 
+
+p 
+
+-3 
+
+H 
+
+j2 
+
+3 
+
+
+Cu 
+
+©■g 
+
+3  .s 
+
+•g  E 
+
+CL  P 
+cd  p 
+3  ^ 
+
+E  S3 
+
+u< 
+
+o  •£ 
+U-  C 
+
+.2  I 
+
+C/0  3 
+
+cS 
+
+^  Uh 
+
+
+w  p 
+
+x  -S 
+
+
+*_3  "P 
+
+
+.  3 
+C  T3 
+
+g  2 
+
+O  ^ 
+cj  p 
+«/5  X 
+
+
+•O  P 
+
+5  ^ 
+
+ed  c 
+w  _c 
+
+9  *S 
+
+-A 
+
+p  p 
+
+
+s= 
+
+c 
+
+cd 
+
+X 
+
+§ 
+
+X 
+
+£ 
+
+3 
+
+c 
+
+•3 
+
+X 
+
+O 
+
+E 
+
+3 
+
+P 
+
+cd 
+
+3 
+
+O 
+
+p 
+
+O 
+
+3 
+
+CL 
+
+E 
+
+cd 
+
+o 
+
+3 
+
+p 
+
+X 
+
+3 
+
+•3 
+
+X 
+
+P 
+
+X 
+
+G 
+
+«n 
+
+o 
+
+Q.  m 
+
+3 
+
+s-  P 
+
+o  p 
+
+■g.B 
+
+^  P 
+-3  X 
+3 
+
+O  .*3 
+
+E  E 
+
+p  <+- 
+
+x  ° 
+
+W  CJ 
+
+.2  3 
+
+
+o  " 
+
+h  c/o 
+®  2 
+P  OX) 
+
+c/o 
+
+cd  p 
+
+x  E 
+
+2  3  ' 
+X  — 
+cd  1) 
+
+O  OX) 
+—  3 
+
+CL  cd 
+CL  X 
+cd  CJ 
+P  P 
+-3  -3  ■ 
+
+H  H 
+
+^1  CNI 
+
+
+cd 
+
+Ed 
+cj 
+
+■o  “* 
+
+
+*3 
+
+G 
+
+
+I  1 
+
+w  OJ 
+
+
+a 
+
+
+w  D  CJ 
+
+
+JG 
+
+P 
+
+X 
+
+W 
+
+
+cd  a. 
+
+X  W  D 
+
+o  ,cd  ."3 
+
+’  *  ■  •*— I 
+
+P  J-  c 
+
+3  ^  .  cd 
+
++-*  P 
+
+
+^  2 
+
+X)  35 
+
+w  -n 
+
+8  1 
+
+w  cd 
+
+ts  i 
+
+.y  <u 
+
+Q.  0- 
+
+_TUh 
+■£  S3 
+3 
+
+O 
+
+
+aj 
+
+
+P  h: 
+
+c/o 
+
+,2  s? 
+
+aj  'O 
+7?  ^ 
+
+
+&  GJ 
+
+;s  s 
+
+a.  o 
+
+—  ao 
+c  w 
+
+5  .y 
+=  j= 
+
+§.<-> 
+E  X 
+8  00 
+
+«  2 
+
+c/o 
+
+3  w 
+
+3  is 
+
+-  3 
+
+E 
+
+
+^  -SJ  —  Oh  —  C 
+—  cd  tT*  3 
+
+
+cd  CQ 
+
+
+*3  -a 
+QJ  P 
+3  3 
+
+E  E 
+
+P  P 
+
+
+cl  -a  g 
+
+■S.I  S 
+'?  P'S 
+
+“  U  § 
+8  U  3 
+
+,£•0.0 
+
+O  £  <U 
+«  r=  ^ 
+■5  -2  M 
+<l>  c  .E 
+c  o  c 
+
+E  sS  E 
+
+
+P 
+
+
+-3  £ 
+
+
+X  X 
+
+H  H 
+
+
+■8  £ 
+2 
+
+
+-sl-l  >/H 
+
+
+49 
+
+
+TABLE  26— UNITED  STATES  MILK  PRICES  AND  SELECTED  DAIRY  FARM  PRICE  MEASURES, 
+JANUARY  1998  TO  DATE,  WITH  COMPARISONS 
+
+
+U.S.  Milk  Prices,  3.5  Percent  Butterfat  Basis  1/ 
+Dollars  ner  100  pounds 
+
+
+Month 
+
+All  Milk 
+
+Wholesale 
+
+Milk  Eligible 
+for  Fluid 
+
+Market 
+
+Manufacturing 
+
+Grade  Milk 
+
+1998 
+
+Percent  change 
+from  1997 
+
+1998 
+
+Percent  change 
+from  1997 
+
+1998 
+
+Percent  change 
+from  1997 
+
+Jan. 
+
+14.38 
+
+8.4 
+
+14.38 
+
+8.2 
+
+13.07 
+
+11.1 
+
+Feb. 
+
+14.38 
+
+9.3 
+
+14.48 
+
+9.1 
+
+13.04 
+
+7.5 
+
+Mar. 
+
+14.10 
+
+5.4 
+
+14.20 
+
+6.0 
+
+12.48 
+
+3.7 
+
+Apr. 
+
+13.79 
+
+5.7 
+
+13.79 
+
+5.6 
+
+11.72 
+
+3.4 
+
+May 
+
+13.06 
+
+3.7 
+
+13.16 
+
+3.5 
+
+11.04 
+
+3.2 
+
+June 
+
+13.89 
+
+14.4 
+
+13.89 
+
+13.2 
+
+12.74 
+
+19.2 
+
+July 
+
+14.23 
+
+17.8 
+
+14.26 
+
+17.0 
+
+13.50 
+
+26.1 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+Average 
+
+
+Dairy  Farm  Price  Measures:  U.S.  Averages  2/ 
+
+Milk  Cows 
+
+Alfalfa  Hay 
+
+Cows 
+
+Milk-Feed 
+
+Month 
+
+3/  4/ 
+
+Baled  5/ 
+
+6/ 
+
+Price  Ratio  7/ 
+
+Percent 
+
+Percent 
+
+Percent 
+
+Percent 
+
+1998 
+
+change 
+
+1998 
+
+change 
+
+1998 
+
+change 
+
+1998 
+
+change 
+
+from  1997 
+
+from  1997 
+
+from  1997 
+
+from  1997 
+
+$  oer  head 
+
+$  per  ton 
+
+$  Der  cwt. 
+
+Pounds 
+
+Jan. 
+
+1,070 
+
+-1.8 
+
+105.00 
+
+1.0 
+
+34.50 
+
+15.0 
+
+2.73 
+
+12.8 
+
+Feb. 
+
+— 
+
+... 
+
+106.00 
+
+-6.2 
+
+36.00 
+
+8.1 
+
+2.74 
+
+16.6 
+
+Mar. 
+
+... 
+
+— 
+
+104.00 
+
+-10.3 
+
+36.00 
+
+-2.4 
+
+2.72 
+
+19.8 
+
+Apr. 
+
+1,110 
+
+0 
+
+105.00 
+
+-12.5 
+
+36.20 
+
+-5.2 
+
+2.70 
+
+25.0 
+
+May 
+
+— 
+
+— 
+
+108.00 
+
+-3.6 
+
+36.40 
+
+-4.7 
+
+2.55 
+
+18.1 
+
+June 
+
+— 
+
+... 
+
+96.50 
+
+-16.1 
+
+36.10 
+
+-3.7 
+
+2.87 
+
+36.0 
+
+July 
+
+1,120 
+
+1.8 
+
+93.40 
+
+-11.9 
+
+34.40 
+
+-9.9 
+
+3.07 
+
+36.4 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+Average 
+
+1/  Based  on  prices  at  test  as  reported  in  "Agricultural  Prices,"  National  Agricultural  Statistics  Service  (NASS);  converted  to  a 
+3.5  percent  test  by  using  the  butterfat  differential  specified  in  Federal  milk  orders  for  conversion  of  the  blend  prices  that  vary 
+from  3.5  percent.  2/  "Agricultural  Prices,"  NASS.  3/  Animals  sold  for  dairy  herd  replacement  only.  4/  Figures  are  published 
+for  January,  April,  July,  and  October  only.  5/  Mid-month  price.  6/  Includes  beef  cows  and  cull  dairy  cows  sold  for  slaughter, 
+but  not  dairy  cows  for  herd  replacement.  7/  Pounds  of  16  percent  mixed  dairy  feed  equal  in  value  to  1  pound  of  milk  sold  to 
+plants.  The  methodology  utilizes  major  raw  feed  component  prices  from  the  NASS  agricultural  commodity  prices  published 
+monthly. 
+
+
+50 
+
+
+TABLE  27— UNITED  STATES  GENERAL  PRICE  MEASURES,  JANUARY  1998  TO  DATE,  WITH  COMPARISONS 
+
+
+General  price  measures  1/ 
+
+Index  of  prices  paid  by 
+
+Index  of  prices  received  by  farmers 
+
+Month 
+
+farmers  2/ 
+
+All  farm  products 
+
+Livestock  &  Products 
+
+Dairy 
+
+Products 
+
+Parity 
+Ratio  3/ 
+
+1998 
+
+Percent 
+change 
+from  1997 
+
+1998 
+
+Percent 
+change 
+from  1997 
+
+1998 
+
+Percent 
+change 
+from  1997 
+
+1998 
+
+Percent 
+change 
+from  1997 
+
+Indexes  1990-92  =  100 
+
+Jan. 
+
+117 
+
+0.8 
+
+103 
+
+-4.6 
+
+94 
+
+-4.1 
+
+113 
+
+9.7 
+
+88 
+
+Feb. 
+
+117 
+
+0.8 
+
+101 
+
+-3.8 
+
+94 
+
+-4.1 
+
+113 
+
+9.7 
+
+86 
+
+Mar. 
+
+116 
+
+-0.9 
+
+102 
+
+-5.6 
+
+95 
+
+-4.0 
+
+110 
+
+6.8 
+
+88 
+
+Apr. 
+
+116 
+
+-0.9 
+
+104 
+
+-1.9 
+
+95 
+
+-4.0 
+
+107 
+
+5.9 
+
+90 
+
+May 
+
+116 
+
+-1.7 
+
+103 
+
+-4.6 
+
+95 
+
+-5.0 
+
+101 
+
+4.1 
+
+89 
+
+June 
+
+115 
+
+-1.7 
+
+102 
+
+-4.7 
+
+98 
+
+1.0 
+
+107 
+
+15.1 
+
+89 
+
+July 
+
+Aug. 
+
+Sep. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+115 
+
+-1.7 
+
+102 
+
+-4.7 
+
+96 
+
+-3.0 
+
+109 
+
+17.2 
+
+89 
+
+Average 
+
+General  price  measures  4/ 
+
+Producer 
+
+price  index 
+
+Consumer 
+
+price  index 
+
+Month 
+
+All  commodities 
+
+Dairy  products 
+
+All  items 
+
+Food 
+
+Dairy  products 
+
+Meat,  poultry,  fish 
+and  eggs 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+Indexes  1982=100 
+
+Indexes  1982-1984=100 
+
+Jan. 
+
+125.5 
+
+-3.2 
+
+129.9 
+
+0.8 
+
+161.6 
+
+1.6 
+
+159.9 
+
+2.2 
+
+148.3 
+
+0.3 
+
+148.3 
+
+-0.9 
+
+Feb. 
+
+125.1 
+
+-2.6 
+
+133.5 
+
+4.9 
+
+161.9 
+
+1.4 
+
+159.4 
+
+1.9 
+
+147.7 
+
+1.0 
+
+147.3 
+
+-0.9 
+
+Mar. 
+
+124.5 
+
+-2.2 
+
+132.2 
+
+3.0 
+
+162.2 
+
+1.4 
+
+156.7 
+
+2.0 
+
+148.4 
+
+1.6 
+
+147.2 
+
+-0.4 
+
+Apr. 
+
+124.7 
+
+-2.0 
+
+131.5 
+
+2.9 
+
+162.5 
+
+1.4 
+
+159.8 
+
+2.0 
+
+148.5 
+
+1.9 
+
+146.3 
+
+-0.9 
+
+May 
+
+124.9 
+
+-1.9 
+
+131.5 
+
+4.9 
+
+162.8 
+
+1.7 
+
+160.3 
+
+2.4 
+
+148.1 
+
+1.9 
+
+146.2 
+
+-1.0 
+
+June 
+
+July 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+124.8 
+
+-1.9 
+
+132.8 
+
+6.0 
+
+163.0 
+
+1.7 
+
+160.1 
+
+2.2 
+
+148.1 
+
+2.8 
+
+146.3 
+
+-1.1 
+
+Av. 
+
+1/  "Agricultural  Prices,"  NASS.  2/  For  commodities  and  services,  interest,  taxes,  and  wage  rates.  The  index  is  published  for  January, 
+April,  July,  and  October  only.  3/  Ratio  of  the  Index  of  Prices  Received  by  farmers,  all  farm  products,  to  the  most  recent  Index  of  Prices 
+Paid,  Interest,  Taxes,  and  Farm  Wage  Rates.  See  2/.  4/  "Producer  Price  Index,"  Bureau  of  Labor  Statistics,  U.S.  Department  of  Labor, 
+(BLS),  as  first  reported.  "Consumer  Price  Index,"  BLS,  consumer  price  index  for  all  urban  consumers  (CPI-U),  not  seasonally  adjusted. 
+
+
+51 
+
+
+TABLE  28-CONSUMER  PRICE  INDEX  FOR  ALL  URBAN  CONSUMERS:  SELECTED  PRODUCTS,  UNITED  STATES  CITY 
+
+AVERAGE,  JANUARY  1998  TO  DATE,  WITH  COMPARISONS  1/ 
+
+
+Fresh  whole  milk 
+
+Cheese 
+
+Butter 
+
+Ice  cream  and  related 
+products 
+
+Month 
+
+Index 
+
+Percent 
+change  from 
+1997 
+
+Index 
+
+Percent 
+change 
+from  1997 
+
+Index 
+
+Percent 
+change 
+from  1997 
+
+Index 
+
+Percent 
+change 
+from  1997 
+
+Indexes  1982-1984  =100 
+
+Jan. 
+
+145.6 
+
+-0.7 
+
+148.5 
+
+-0.5 
+
+124.7 
+
+13.2 
+
+153.5 
+
+1.1 
+
+Feb. 
+
+146.3 
+
+1.6 
+
+148.3 
+
+-0.3 
+
+126.2 
+
+16.1 
+
+150.8 
+
+-0.5 
+
+Mar. 
+
+147.0 
+
+2.2 
+
+150.1 
+
+1.4 
+
+129.4 
+
+12.9 
+
+150.0 
+
+-0.9 
+
+Apr. 
+
+146.3 
+
+2.6 
+
+149.9 
+
+1.1 
+
+125.0 
+
+7.9 
+
+152.4 
+
+0.9 
+
+May 
+
+145.6 
+
+2.2 
+
+149.4 
+
+1.1 
+
+127.5 
+
+14.1 
+
+150.9 
+
+0.1 
+
+June 
+
+July 
+
+Aug. 
+
+Sep. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+144.4 
+
+2.0 
+
+148.9 
+
+1.2 
+
+133.8 
+
+23.1 
+
+153.2 
+
+2.8 
+
+II  "CPI  Detailed  Report,"  BLS.  The  Consumer  Price  Index  for  All  Urban  Consumers  (CPI-U)  covers  approximately  80  percent  of  the  total 
+noninstitutional  civilian  population  of  the  United  States  and  is  based  on  data  for  85  urban  areas. 
+
+
+TABLE  29-USD  A  PURCHASES  (DELIVERY  BASIS),  AND  DAIRY  EXPORT  INCENTIVE  PROGRAM  (DEIP) 
+
+BID  ACCEPTANCES,  JANUARY  1998  TO  DATE 
+
+
+Month 
+
+USDA  Purchases  (Delivery  Basis)  1/ 
+
+DEIP  Bid  Acceptances  2/ 
+
+Butter 
+
+3/ 
+
+Cheese 
+
+Nonfat 
+Dry  Milk 
+
+5/ 
+
+Whole 
+
+Milk 
+
+Powder 
+
+Butter 
+
+6/ 
+
+Cheese 
+
+7/ 
+
+Nonfat  Dry 
+Milk 
+
+Whole 
+
+Milk 
+
+Powder 
+
+Cheddar  4/ 
+
+Mozz¬ 
+
+arella 
+
+Process 
+
+- . 1.000 
+
+pounds . 
+
+- Metric  tons  8/ - 
+
+Jan. 
+
+0 
+
+1,020 
+
+1,814 
+
+6,454 
+
+14,276 
+
+0 
+
+0 
+
+0 
+
+2,414 
+
+383 
+
+Feb. 
+
+0 
+
+1,093 
+
+1,492 
+
+5,661 
+
+10,773 
+
+0 
+
+0 
+
+0 
+
+2,010 
+
+1,226 
+
+Mar. 
+
+328 
+
+585 
+
+2,661 
+
+3,564 
+
+10,929 
+
+0 
+
+20 
+
+155 
+
+4,993 
+
+0 
+
+Apr. 
+
+0 
+
+469 
+
+726 
+
+2,257 
+
+14,934 
+
+705 
+
+18 
+
+300 
+
+2,890 
+
+0 
+
+May 
+
+0 
+
+398 
+
+524 
+
+1,782 
+
+30,084 
+
+1,102 
+
+0 
+
+158 
+
+3,070 
+
+0 
+
+June 
+
+0 
+
+0 
+
+357 
+
+0 
+
+July 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov 
+
+Dec. 
+
+Year  to 
+
+date  1998 
+
+328 
+
+3,565 
+
+7,217 
+
+19,718 
+
+80,996 
+
+1,807 
+
+38 
+
+613 
+
+15,734 
+
+1,609 
+
+1/  Farm  Service  Agency.  Includes  price  support  purchases  and  market  price  purchases  for  the  Food  and  Consumer  Service.  2/  Foreign 
+Agricultural  Service.  3/  Bulk  and  packaged.  4/  Block,  barrel,  and  print.  5/  Nonfortified  and  fortified.  6/  Includes  butter,  butteroil,  and 
+anhydrous  milkfat.  7/  Includes  Cheddar,  Gouda,  Mozzarella,  Processed,  and  Cream  Cheese.  8/  A  metric  ton  equals  2,204.6  pounds. 
+
+
+52 
+
+
+TABLE  30--U.S.  PRODUCTION,  MILK  AND  SELECTED  MANUFACTURED  DAIRY  PRODUCTS, 
+JANUARY  1998  TO  DATE,  WITH  COMPARISONS 
+
+
+Milk  1/ 
+
+Butter  2/ 
+
+Total  Cheese 
+
+2/ 
+
+Nonfat  Dry  Milk 
+
+2/ 
+
+Frozen 
+
+Products  2/ 
+
+Month 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+1998 
+
+Percent 
+
+change 
+
+from 
+
+1997 
+
+Bil.  lbs. 
+
+Mil.  lbs. 
+
+Mil.  lbs. 
+
+Mil.  lbs. 
+
+Mil.  gal. 
+
+Jan. 
+
+13.3 
+
+1.0 
+
+113.5 
+
+-11.0 
+
+615.7 
+
+2.9 
+
+103.7 
+
+2.8 
+
+92.1 
+
+-5.0 
+
+Feb. 
+
+12.2 
+
+0.7 
+
+102.7 
+
+-5.5 
+
+574.2 
+
+-0.5 
+
+97.0 
+
+4.3 
+
+100.7 
+
+-4.8 
+
+Mar. 
+
+13.7 
+
+0.3 
+
+100.8 
+
+-4.4 
+
+645.2 
+
+1.1 
+
+107.3 
+
+-5.9 
+
+119.8 
+
+-3.8 
+
+Apr. 
+
+13.5 
+
+0.7 
+
+103.0 
+
+-12.9 
+
+641.3 
+
+7.2 
+
+120.4 
+
+-5.8 
+
+126.7 
+
+0.2 
+
+May 
+
+14.1 
+
+1.1 
+
+92.9 
+
+-9.5 
+
+653.1 
+
+1.7 
+
+121.3 
+
+-8.6 
+
+130.0 
+
+-4.2 
+
+June 
+
+July 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+13.4 
+
+0.5 
+
+73.4 
+
+-10.5 
+
+640.3 
+
+2.7 
+
+104.8 
+
+-12.7 
+
+143.1 
+
+-0.8 
+
+Total  3/ 
+
+80.2 
+
+0.7 
+
+586.3 
+
+-9.0 
+
+3,769.7 
+
+2.5 
+
+654.5 
+
+-4.9 
+
+712.4 
+
+-2.9 
+
+U  "Milk  Production,"  NASS.  Monthly  milk  production  is  collected  only  for  20  selected  States.  NASS  collects  total  U.S.  production  on  a 
+quarterly  basis  only.  NASS  estimates  total  U.S.  monthly  production  based  on  the  pattern  in  production  in  the  20  survey  States.  2/  "Dairy 
+Products,"  NASS.  Frozen  products  include  ice  cream,  lowfat  ice  cream,  nonfat  ice  cream,  sherbet,  and  frozen  yogurt.  3/  The  sum  of  the 
+monthly  figures  may  not  add  up  to  the  total  due  to  rounding. 
+
+
+TABLE  31 -COMMERCIAL  AND  GOVERNMENT  STORAGE  HOLDINGS,  JANUARY  1998  TO  DATE 
+
+
+Storage  Holdings  \! 
+
+Butter  2/ 
+
+All  natural  cheese  2/  3/ 
+
+Nonfat  Dry  Milk 
+
+Month 
+
+Total 
+
+4  / 
+
+Govern¬ 
+
+ment 
+
+owned 
+
+Commer¬ 
+
+cial 
+
+Total 
+
+4/ 
+
+Govern¬ 
+
+ment 
+
+owned 
+
+5/ 
+
+Commer¬ 
+
+cial 
+
+Natural 
+
+American 
+
+6  / 
+
+Swiss 
+
+cheese 
+
+Total 
+
+4/ 
+
+Govern¬ 
+
+ment 
+
+owned 
+
+2/ 
+
+Commer¬ 
+
+cial 
+
+8/ 
+
+Million  pounds 
+
+Jan. 
+
+34.2 
+
+0.2 
+
+34.0 
+
+493.5 
+
+0.1 
+
+493.4 
+
+411.8 
+
+14.4 
+
+128.1 
+
+24.0 
+
+104.1 
+
+Feb. 
+
+44.2 
+
+0.1 
+
+44.1 
+
+509.5 
+
+0.2 
+
+509.3 
+
+410.7 
+
+15.4 
+
+131.4 
+
+26.1 
+
+105.3 
+
+Mar. 
+
+55.9 
+
+0.3 
+
+55.7 
+
+519.4 
+
+0.2 
+
+519.2 
+
+421.2 
+
+13.6 
+
+128.9 
+
+36.2 
+
+92.7 
+
+Apr. 
+
+67.4 
+
+0.4 
+
+67.0 
+
+544.7 
+
+0.2 
+
+544.5 
+
+441.6 
+
+12.6 
+
+161.2 
+
+48.0 
+
+113.1 
+
+May 
+
+72.7 
+
+0.3 
+
+72.4 
+
+551.6 
+
+0.2 
+
+551.4 
+
+442.7 
+
+11.3 
+
+186.8 
+
+54.8 
+
+132.0 
+
+June 
+
+July 
+
+Aug. 
+
+Sept. 
+
+Oct. 
+
+Nov. 
+
+Dec. 
+
+59.2 
+
+0.3 
+
+58.9 
+
+576.0 
+
+0.2 
+
+576.9 
+
+459.2 
+
+11.4 
+
+191.5 
+
+68.9 
+
+122.7 
+
+*  Less  than  50,000  pounds.  II  End  of  month.  2/  "Cold  Storage  ,"  NASS.  3/  Includes  American.  Swiss,  and  Other  Natural  Cheese.  4/ 
+May  not  add  due  to  rounding.  51  Represents  natural  American  cheese  only  and  does  not  include  Government  holdings  of  processed  cheese. 
+6/  Includes  Government  stocks.  7/  "Summary  of  Processed  Commodities  in  Store,"  FSA.  7/  "Dairy  Products,"  NASS. 
+
+
+53 
+
+
+Summary  of  Federal  Milk  Order  Actions.  Mav  1998 
+
+
+There  were  no  final  actions  effective  during  this  period. 
+
+
+Summary  of  Federal  Milk  Order  Actions.  June  1998 
+
+
+There  were  no  final  actions  effective  during  this  period. 
+
+
+54 
+
+

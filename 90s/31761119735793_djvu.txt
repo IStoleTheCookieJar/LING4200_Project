@@ -1,0 +1,2871 @@
+EV $0 Se eas fe ie Spiny sees, chats 2 pafirre 
+
+
+— 3995 DE7 
+
+
+- STOPPING | : 
+_ WATER POLLUTION — 
+AT a ) SOURCE 
+
+
+3 1761 11973579 3 
+
+
+Me 
+
+
+fasta Municipal/industrial Strategy for Abatement - 
+
+
+DRAFT EFFLUENT LIMITS REGULATION 
+FOR THE 
+- PULP AND PAPER SECTOR 
+
+
+ieee @ Sengionment- 
+| Environnement 
+
+
+a 
+
+
+| Report Prepared By: _ 
+he Water Resources Branch. 
+te Ontario ae of the eae nears 
+
+
+This Desf Regalatten lay mot bec ‘nally reviewed by the ) 
+Registrar of Regulations or by counsel of the Registrar of _ 
+Regulations, and may be subject to wording changes. 
+
+
+- FEBRUARY 1993 _ 
+Cette phblication technique a 
+| my "est cena qu ‘en ene las: 
+ei ges E Copyright: ‘Queen’ S Printer ay Ontario, 1993 ? 
+am This Publication may be reproduced for non-commercial purposes 3 
+| i with SprenaS attribution. 
+" PIBS 2261 
+
+
+She 
+
+
+_. DraftP&P.Jan,1993 . 
+
+
+. Definitions 
+
+
+_ Purpose 
+
+
+21. 
+
+
+24. 
+
+
+725. 
+
+
+ie Calculations 
+Calculations 
+
+
+_ Calculations 
+
+
+“Application . Aron = 
+
+
+Parameter Limits. 
+- AOX. Limits 
+
+
+Lethality limits . 
+
+
+Sampling Points aie 
+
+
+Calculations - 
+
+
+Calculations 
+
+
+_ Monitoring : ae 
+
+
+‘Process Effluent. 
+
+
+‘Process Effluent 
+Process Effluent 
+' Process Effluent 
+Process Effluent. 
+pH Measurement . 
+
+
+List 
+
+
+| Sampling and Analytical 
+
+
+loadings 
+
+
+e 
+
+
+OF CONTENTS 
+
+
+Daily: Limits . . 
+
+
+Quarterly Limits . 
+
+
+Quality Control * 
+
+
+e e-e e e e 
+
+
+Procedures. §.° 
+
+
+- Reference Production Rate . 
+= Revised Parameter Limits . 
+
+
+ferocess Effluent Loadings ° 
+
+
+Reduced Frequency . 
+
+
+Acute Lethality Testing - Rainbow Trout ° 
+Acute Lethality Testing - Daphnia Magna . 
+
+
+Chronic: Toxicity Testing - Ceriodaphnia . . 
+Chronic Toxicity Testing - Fathead Minnow 
+Cooling Water Effluent - Weekly Assessment 
+
+
+Flow Measurement . 
+
+
+e eo e e- e o> 
+
+
+Calculations - Effluent eo limecl anata 
+
+
+Storm Water Control Study 
+
+
+Record Keeping. . 
+
+
+‘Cooling Water Effluent Loadings. 
+
+
+e e e e © 
+
+
+¢ ¢ @¢ e@ 
+
+
+: e e @ ° 
+
+
+Page No. 
+Sits 1 
+3 
+ney 4 
+Ae 4 
+e e oa 
+e e i 5 ‘i 
+is. ates 
+se es ay f 
+a 8 
+Sa cuits 8" 
+a. 9 
+& e e 10 
+e e : 10 
+ae LZ 
+ee ae 
+ah eh Cig aia Weg 
+s e e aka 
+shee? ee 
+se e 14 
+speco aL 6 
+e e j 16 2 
+eiite ed, 
+aie 7 
+Ag. a7 
+ee e 18 
+naa 
+° 20 
+
+
+‘ 
+
+
+DraftP&P.Jan,1993 © 
+
+
+26.6: Reporting 26.7 oo) se ere one 
+
+Compliance 
+Quarterly 
+
+- Loadings 
+
+<= DH a 
+
+- Flow Measurement 
+By-Passes 
+Chronic Toxicity testihg 
+AOX Elimination Plan 
+
+
+14 ° Timing e e e e e e ‘e e e e 
+
+
+LIST: OF. SCHEDULES -) 0-72 at ce 
+
+
+List OF PROTOCOLS 4. 4. - =< 
+
+
+DraftP&P.Jan,1993 is Se Be ca ae sae ad 
+
+
+Definitions _ 
+
+
+1.-(1) In this Regulation, 
+
+
+"combined effluent means effluent that originates from or comes 
+into contact by design with any industrial process or process. 
+materials. and that is mixed ‘with cooling water effluent or 
+stormwater effluent prior to discharge to a surface water; 
+
+
+"cooling water effluent". means water and associated material that 
+is used in an industrial process for the purpose of removing heat 
+and, by design, does not come into contact with process materials, 
+but does not include blowdown - from SOCLINE LEN Aarts poling water 
+systems; 
+
+
+"cooling ‘water effluent monitoring Brann means a covling water 
+effluent stream on which a ha emt paerete is ‘required to be 
+_.established under section 6; . 
+
+
+"cooling water effluent: med tnt EL point" ‘means a "sampling point 
+
+
+designated under section 6; 
+
+
+"direct discharger" means an owner or’ person in’ occupation or ae 
+having the charge, management or ELAS SEY of a plant that discharges 
+effluent to a. surface waters. 
+
+
+"Director", in Hire of obligations ona direct discharger, means 
+
+a director appointed under section 5 of the Environmental 
+Protection Act and responsible for the region in which the direct 
+discharger’s plant is located and. oes an. alternate named: by 
+ete Director; 
+
+
+"final treatment procaaan means. ane last treatment process through 
+which an effluent passes before the effluent is Bene char ged: to 
+
+
+' surface water; 
+
+
+"limited parameter", in. relation to.a airect aischarger’ — plant, 
+means a parameter for which a ENS is. specified in columns se aS 
+
+
+“schedule” ‘2. for the plant;. 
+
+
+"month" means a calendar month; 
+
+
+"operating day" means all or part of 24 consecutive hours cantare, 
+which process effluent is beings discharged from -a direct _ 
+discharger’ s plant; 
+
+
+"plant" means an Pagcecrial facility and the developed property and 
+vests disposal sites associated With Lt 24. sae 
+
+
+Eaprocers: change" méans a change in equipment, production process, 
+proces materials or ‘treatment Degen ss ey, : 
+
+
+DraftPeP. Jan,1993 — 7 ee Cee ane ae ‘age die 2 
+
+
+“process effluent" means effluent that originates from or comes 
+into contact by design with any industrial process or process 
+materials, and includes continuous and intermittent discharges, 
+combined effluent, blowdown from recirculating cooling water 
+systems, waste disposal site effluent and waste waters discharged. 
+during a maintenance shut-down period for all or part of the plant; 
+
+
+"process effluent monitoring stream" means a process effluent . 
+. stream on which a pte taren porns is beac fre to be established ~ 
+under section’ 6. ; . 
+
+
+"process effluent sampling point" means a sampling point designated 
+under section 6 of this Regulation. ou 
+
+
+. "process faateriaten in relation to a direct alecher ents s plant, 
+means raw materials ‘for use in an industrial process at the plant, . 
+- Manufacturing intermediates produced at the plant, or products or 
+by-products of an industrial process at the plant, but does not 
+include chemicals added to once-through cooling water for’ the 
+‘purpose of controlling organisms ’ fouling and corrosion; . 
+
+
+"reference production rate", means the production rate for a. direct 
+ci Sone s plant as set out in schedule 4. ' 
+
+
+"quarter" means all. or part of : a period. of three connecacivel months 
+beginning on the first day of. TERE NES April, July and October; 
+
+
+"schedule 3. parameter" , in relation to a direct aieeharcen s plant, } 
+means a parameter listed in Schedule # for monitoring - -at: the pia ; 
+
+
+"semi-annual period" means raid or pare ofa period of six months 
+beginning on the first day ae January and rhe . 
+
+
+"set of samples" means all of the samples. that must be ‘eollectea on 
+a given operating day from all of the sampling points established 
+under section 464 at a discharger’s pliant, for the purposes of _ 
+analysing for the pai oneL ers listed in schedules 2 and 3 SOU that 
+eteteieteae hie s plant; : : Bey 26 
+
+
+"storm water effluent" means ieee: from: a storm | event or thaw 
+that is discharged from a Tena ere Ss. plant either ERSTE or 
+indirectly to a surface Abeheottt . 
+
+
+"surface water" means a ey, river,. poral Gee ‘reservoir, 
+swamp, marsh or surface SECRET works; F ic soe ea Thee ¥ 
+
+
+‘s "Waste. disposal site effluent" means ertiuent aisenarcea from any 
+
+
+waste disposal site other than a waste disposal'.site used. solely ‘ = 
+
+
+. for the storage, for use as fuel, of wood ES, bark or no 
+
+
+"week" means a period of seven days commencing at midnight on 
+SENSES TAY and oe at Seas on the. ites tothe aha : 
+
+
+DraftPsP.Jan,1993. 
+
+
+- The purpose of this Raguiatien is, through the 
+- application of monitoring and limits, to control 
+the discharge to surface waters of substances 
+
+
+listed in schedule 2, to assess the discharge to 
+
+surface waters of substances listed in schedule 3, 
+
+and to require mills to. prepare eran for the 
+; elimination of AOX. | 
+
+
+DraftP&P.Jan,1993. , 7 eerie ited 
+Lipemtim 
+
+
+2. ‘This Regulation applies only with respect to othe aber listed in 
+schedule 1. . 
+
+
+Parameter Limits 
+
+
+3.-(2) The daily plant loading limits for process effluents, 
+listed in column 3 of schedule 2 for a rae ah s Sones shall not 
+be exceeded for any SITE NEAT day. 
+
+
+(2) The monthly average plant loading timits for process. 
+effluents, listed in column 4 of schedule 2 fora SEES saree a 
+shall not be exceeded. for any month." 
+
+
+(3) The pencentra tion of hydrogen ion in “Sar process effluent 
+monitoring stream at a discharger’s plant at the point of discharge of 
+that effluent to a surface water, shall be controlled so that the Ph 
+value (analytical test cRTS of. each stream is not outside the ~ 
+‘range of 6.0 to 9.5. - 
+
+
+(4) A direct Aechernen shall not discharge a Sracecal effluent from 
+ene discharger’s plant except senseets a tied effiuent monitoring . 
+strean. 
+
+
+Adsorbable PEE Eue Halide (20x) Limits 
+
+
+-* (5). Each direct discharger ‘for which. a limit for AOX is: listea in 
+columns 3 and 4 of schedule 2 for that discharger’ s plant, shall 
+ensure that on the day after this regulation is filed, the daily plant 
+loading and: the monthly average loading for the parameter AOX at that 
+discharger’s plant, calculated in accordance with section 8, does not. 
+exceed the "day one" limit for AOX listed in columns 3 and 4 ; 
+Respect ae of . schedule 2 for that cischarger: a plant. — 
+
+
+(By Each direct discharger for which a Limit for AOX is listed in 
+columns 3 and 4 of schedule 2 for that discharger’s plant, shall 
+ensure that by the thirty-first day of December, 1995, the daily plant 
+loading and the monthly average loading for the parameter AOX at that 
+discharger’s plant, calculated in accordance with section 8, does not 
+exceed the "December 31, 1995" limit for AOX listed in columns 3 and 4. 
+4 respectively, of schedule 2 for that discharger’ S Sth: E 
+
+
+(7) Each direct discharger for which a‘ limit for ‘AOX is listed in - 
+columns 3 and 4 of schedule 2 for that discharger’s plant, shall 
+ensure that by the thirty-first day of December, 1999, the daily plant 
+loading and the monthly average loading for the parameter AOX at that 
+
+
+Vee 
+
+
+5 ae : | =i 
+‘DraftP&P.Jan,1993 te ee ik oe ecu She 
+_discharger’s plant, calculated in accordance with: section 8, does not 
+
+
+exceed the "December 31, 1999" limit for AOX listed in columns 3 and 
+4, respectively, of schedule e for that discharger’ s plant. as 
+
+
+- (8). Each direct’ ai ncneraer shall from time to time as requested by 
+
+
+the director, provide the Director with plans, schedules and progress 
+
+
+reports for achieving the requirements of subsections (6) and (7). 
+7 jestbaliey ‘Limits 
+
+
+4. as Each direct discharger ghall ‘control. the’ Clemens of Gach | 
+process effluent monitoring stream and each cooling water effluent 
+monitoring stream at the discharger’s plant to ensure that any rainbow 
+
+
+. trout acute lethality test or any Daphnia magna acute lethality test. 
+
+
+performed on any grab sample under section 9 results in mortality tore 
+no more than fifty Bencent of the test cas ame in one-hundred 
+percent effluent. Rive 
+
+
+Sampling and Analytical: Procedures 
+
+
+5.-(1) For the purposes of this Regulation, the location of nea : 
+' points and. sampling and analysis including quality control sampling. 
+
+. and analysis, shall be performed in accordance with the procedures 
+described in the Ministry publication entitled "Protocol:-for the 
+Sampling and- Analysis of Marine bere Municipal Wastewater" Ghia 
+October, 1991. Aah ; 
+
+(2) Each. direct di ccnarqer shail maintain the sampling equipment 
+used at designated sampling points at a direct discharger’s plant ina 
+way that ensures the collection of eeoneiee that are characteristic of 
+
+the effluent. : 
+
+
+Sampling Points 
+
+
+6.-(1) Each direct discharger: shall, within ninety days of this 
+Regulation coming into force or within thirty days of the stream 
+coming into existence, whichever is later, ensure that a sampling - 
+point is established on each process effluent stream ‘at the © 
+discharger’s plant in accordance with the peeked point location 
+requirements of. subsection (5)- a ; 
+
+
+ae) A direct discharger need) not establish a feene ting) point ona 
+
+_ process effluent stream that flows into another process effluent 
+
+- stream if the samples collected at the sampling point on the merged 
+stream are characteristic: of the effluent in whe cana ease eh stream. 
+
+
+‘ 
+
+DraftPéP. Jan, 1993 | 
+
+(3). - If the samples. collected ata reeiien point « ‘on the more ‘stream 
+cease to be characteristic of the effluent in the contributing strean, 
+
+
+the direct discharger shall, within thirty days of the change, ensure 
+that a sampling Stet is established on coe contributing strean. ; 
+
+
+g 
+
+
+(4) For the purposes of subsections (2) andl (3),:;a sample collected 
+" ata sampling point on a merged stream is characteristic of the. 
+effluent in a contributing stream if analysis of the sample from the 
+merged stream would consistently yield a positive analytical result . 
+for every limited parameter: for which a sample from the contributing | 
+stream taken in the same way at the same time would yield a positive ‘9 
+
+
+analytical LEE ee 
+
+
+(5). A sampling = giles on a Procesm effluent A hai pe. 
+established at a. location on the stream that, bearer 
+
+
+. (a) allows the eoitection of samples representative of the: 
+effluent in the stream; : 
+
+
+(b) is downstream of final treatment on the stream) it any; 
+
+
+(c) in the case of a stream that. goes. through treatment, is 
+upstream of any mixing with cooling water effluent or stormwater 
+effluent Ceres eet) after final treatment: on the stream; and 
+
+
+(ad) in the case of a stream that does nee go through any 
+treatment, is upstream of any mixing with Spchaes Seae nr rarer 
+water effluent or stormwater errluent: ate 
+
+
+(6) Each direct ajecnereer shall, within ninety days of this 
+Regulation coming into force or within: thirty days of the stream 
+coming into existence,. ensure that a sampling point is established on 
+each cooling water effluent stream at the discharger’s plant in. : 
+accordance with che. sampling. aa location ee of subsection 
+
+
+(8). 
+
+
+(7). Subsections (2) to (4) apply eich necessary modifications to. 
+
+cooling water effluent streams and, for the purpose, a reference in 
+subsections (2) 'to (4) to a process effluent stream shall be deemed to 
+be a reference to a. cooling water ASC: strean. "A 
+
+
+(8) A sampling peiat on a cooling watery effluent stream shall be os 
+established at a. location on the stream that, eore - 
+
+
+(a) _allows the collection of samples representative of the 
+effluent in the stream; "and ; Y : 
+
+
+(b) is. upstream of any mixing with Process: effluent or stormvater 
+ert sent: : . 
+
+
+‘ Cea 
+“raftper. Jan,1993, oe | EERO I at See AT 
+
+
+(9) Within ninety days after this Regulation comes into force, each 
+direct discharger shall submit to the Director a list and plot plan 
+- showing the sampling points required to be established within that 
+ninety day period under. subsections (2) and (6). 
+
+
+(10) If a sampling point established on a direct Watncnnr cer s stream 
+no longer meets the sampling point location requirements of this 
+‘section or no longer permits the collection of samples from the stream 
+as required by this Regulation, whether because of a process change, 
+an installation of a waste treatment works, an alteration of a waste’ 
+treatment works, a redirection of an effluent stream or any other 
+change, the direct discharger shall, as soon as is reasonably — 
+possible, establish an alternate sampling point on the stream in 
+
+- accordance:with the brane point location edt een ce of this 
+
+
+section. 
+
+
+(11). x direct discharger may replace a sampling point established on 
+- a stream under this section with an alternate sampling point at a new 
+- location on the. stream, so long as the alternate sampling point 
+
+accords with the cherish onde poinpeocaS.cn requirements of this section. 
+
+
+(12) As soon as is reasonably possible but in. any case within thirty | 
+days after establishing a new sampling point under subsection (1), 
+(3), (6), (7), (10) or (11), the direct discharger shall give the 
+
+_ Director a written notice describing the location of the new sampling 
+point, together with a revised version of the list and plot plan 
+submitted ‘under subsection (9) showing the new sampling point. 
+
+
+(13) Subject to subsection 16.-(2)., each direct discharger shall use 
+the sampling points established under this section . for Nats sampling 
+required ay this Sth hean ; 
+
+
+‘Calculations - Loadings — 
+
+
+7 <6=(1)-° For the purposes of performing a ‘calculation under. sections 8 
+_and 9, a direct discharger shall use the actual. BES AES result . 
+obtained by the ge DOE a OEY. 
+
+
+(2) Despite subsection Pei. fiers the aerual reinetcat result is — 
+less than one-tenth of the analytical method detection limit set out 
+in the Ministry publication entitled "Protocol for the Sampling and 
+Analysis of Industrial/Municipal Wastewater". dated. Octobér, 1991, the - 
+
+direct discharger shall use the value zero for the purpose ona 
+pet LOS Rng a calculation under this section. — agin 
+
+
+(3) Each direct discharger shall ensure that each nates tion 
+required by this section is performed as soon as possible after the 
+analytical result on which eae calculation is: based pecones: available 
+to the discharger. ; 
+
+
+5 Sareea Ss 
+
+
+‘ 
+DraftPEP. Jan,1993 : ae ee ea te be Ai ape 8 
+Calculations - Reference Production Rates 
+
+
+‘7a.-(1) Commencing in 1996 and theresteer each year, each direct 
+discharger may calculate a revised reference production rate for 
+bleached pulp, tales finished product for that discharger’ s plant. Re 
+
+
+(2) For the purposes of subsection (1),. the reference production: 
+rate for any year for bleached pulp is equal to the highest value of 
+the 90th percentile of the daily production of bleached eee at -the 
+discharger’s plant for any of the Previous three years. 
+
+
+(3) For the purposes of subsection (1), the reference production 
+rate for any year for finished product is equal to the highest value 
+of the 90th percentile of the daily production of finished product at. 
+the . discharger’ s plant for any of the previous three. years. 
+
+
+(4) The 90th percentile of the daily production of finished prosden 
+at a plant for a year is the statistically derived value that is equal 
+to the quantity of finished product, produced daily by the plant, that 
+was exceeded on 10 seitecuhe of the aGeye ate the plant she aah in the | 
+ea 
+
+
+(5) For the purposes of subsections (2) and REY the finished 
+product is the tonnes of pulp or paper product that has completed the | 
+production process ata tet he, and is calculated on an air-dry basis. — 
+
+
+(6) Each direct discharger that calculates a revised reference 
+production rate under subsection (1), shall notify the Director, in > 
+writing, no later than the thirty-first day of January of each year 
+of the value of the revised reference ahha charac rate. 3 
+
+
+} calculations - Revised Paraneter Limits 
+
+
+7b.-(1) ‘Commencing in 1996 and thereafter ‘each year, each direct 
+discharger may calculate revised Petters limits for atthe Ciao s 
+plant. . . . 
+
+
+(2) For the purposes of BuneeCtion (1), aerat lees daily. loading limit 
+and a revised monthly average loading limit for each parameter shall be 
+Calculated by multiplying the revised reference production rate as 
+calculated under section 7a., by the respective daily and monthly unit 
+of production loading limits for each parameter as set out in schedule — 
+2A for the respective SRE? for .the secooaree s plant. 
+
+
+@) Each direct discharger that calculates revised: parameter limits 
+under subsection (1) shall notify the Director, in writing, no later 
+than the thirty-first day of. ipbatbercted of each -yeary of the value of the 
+revised parameter limits. - : : . 
+
+(4) For the purposes of section 3(1), 7 the epee: daily loading 
+limits calculated under subsection ey small replace. the respective 
+
+
+t 
+
+
+t:* Base 5 
+DraftPéP.Jan, 1993 isn Par ie ae tele gene cate Cle are hax, PG) 
+daily loading limits listed in column 3 of Schedule 2: — 
+
+
+(5) For the purposes of section 3(2), the revised monthly average 
+loading limits. calculated under. subsection (1) shall -replace the 
+respective monthly ever age MOLISE E limits listed in Becbiie 4 of Schedule 
+2. : 
+
+
+Caicuiation ef precens we popeah vende 
+
+
+8.-(1) Each direct discharger shall calculate, in kilograms, a daily 
+process effluent stream loading for each limited parameter in each 
+
+. process effluent stream of the discharger for each day on which a 
+sample is collected under poe ert arian om the stream for analysis 
+for. ae SLUICE igh 
+
+
+(2) When calculating a daily stream Noadincecnder, eUveact ion nos, 
+the direct discharger shall multiply,: with suitable adjustment of 
+units to yield a-result in kilograms, the analytical result obtained . 
+- from the sample for the parameter by the total volume. of effluent . 
+discharged on the aave or On ere strean. 
+
+
+(3) For char purposes of pubsention an ene total volume of 
+effluent discharged on an operating day from an SCE stream is the 
+volume as calculaced under . lahat 23.° ; . . 
+
+
+(4) Each: direct acecneroar ‘shall. calculate ‘a daily. process effluent 
+plant loading for each limited parameter for each day: in respect of 
+which the discharger is required to calculate a Gaily atari ee 
+_ stream loading under subsection (1). 
+
+
+(5). For the purposes of subsection (4), a daily process. fectiuents 
+“plant loading for a parameter for a day is the sum, in kilograms, of 
+
+the daily stream loadings for the parameter calculated: under 
+subsection. (1) for the day. af 
+
+
+(6) Where a direct discharger . calculates ‘only one Faatiy. process. 
+effluent stream loading under subsection (1), the daily process 
+effluent plant loading for the purposes of ‘subsection (4) is the 
+sng Te daily process eos stream loading. . 
+
+
+(7) Each direct avacnarger ‘shall calculate, in. kilograms, a eeenTe 
+average process effluent plant loading for each limited parameter for 
+each month in which a sample is collected under this Regulation more. 
+‘than once from a process effluent ‘stream at the econ sy s Daate for 
+analysis for the. parameter. . : 
+
+
+_ (8) ° For the. purposes of. subsection (7), ‘a monthly average process 
+effluent plant loading for a parameter for a month is the arithmetic 
+
+-mean of the daily process effluent plant loadings for Boe parameter 
+calculated under: ‘subsection. (4) for the month. 
+
+
+é 
+
+
+DraftP&P.Jan,1993 eae | eM enae ay: rer 
+calculation of cooling Water Effluent Loadings . 
+
+
+9.-(1) Each direct aTeonareen shall eaticulatat in kilograms, a daily 
+_cooling water effluent stream loading for each Schedule 3 parameter in’ 
+each cooling water effluent stream of the discharger for each day on 
+which a sample is collected under this ary from the stream for 
+analysis for Bee parameter. — : } 
+
+
+(2) When Caloulaning a. daily stream rosaing: under subsection (1), 
+‘the direct. discharger shall multiply, with suitable adjustment of 
+units to yield a result in kilograms, the analytical result obtained 
+‘from the sample for the parameter by the total volune of effluent 
+‘discharged on the Bay from. the ‘stream. 
+
+
+(3) For the purposes of subsection (2); the total ‘volume of 
+effluent discharged on an operating day from an ee stream is the 
+volume as calculated under section 23%. 
+
+
+(4) Each direct discharger isha calculate a Vanity coolines water 
+effiuent plant loading for each: Schedule 3 parameter: for each day in 
+respect of which the discharger is required to calculate a daily : 
+cooling water effluent stream EERE! under subsection (2); is 
+
+
+(5) For the purposes of subsection (4), a daily cooling water 
+effluent plant loading for a parameter for a day is the sum, in 
+kilograms, of the daily stream gag Se a. ‘for the Dee eas calculated — 
+under subsection (1) for the day. 
+
+(6) Where | a: direct discharger calculates iy one daily ‘coaltneae 
+water effluent stream loading under subsection (1), the daily cooling 
+water effluent plant loading for the purposes of subsection (4) is the 
+single daily cooling sts effluent stream loading... 
+
+
+(7) Each direct Qi gchererl shall calculate, in kilograms, a “monthly: 
+average cooling water effluent plant Beckers for each Schedule 3 
+parameter for each meri s 
+
+
+(8) For: the purposes of subsection (ayiiat monthly average Goolinam 
+water effluent plant loading for a parameter for a month is the 
+arithmetic mean of the daily cooling water effluent plant mercer for 
+the parameter calculated under subsection (4). for the aoe 
+
+
+Monitoring 
+
+
+10.-(1) For. the purposes of this Regulation, composite samples of © 
+process effluent and cooling water effluent shall be collected and 
+analyzed in accordance with the procedures described in the. Ministry - 
+publication entitled "Protocol for the Sampling and Analysis’ of 
+pabapaiee aor hearin Wastewater" dated MRAS tS: 1991. 
+
+
+| 
+“DraftPap. Jan,1993° s ie | Besse i eh a ese, Te 
+
+
+(2) Where a direct faiechnt ar is required under this Regulation 
+to collect composite ° Sec, those samples shall be collected over an 
+dt ete day. . fare \§ 
+
+
+(3) Despite subsection (2), where a direct discharger has more 
+than one process effluent monitoring stream and is required on an 
+operating day to collect a composite sample from each stream at the 
+discharger’s plant, the discharger may designate any period of twenty- 
+four consecutive hours for each stream provided that the discharger; 
+
+
+i. specifies to the Director in writing no later than 
+thirty days after this Regulation comes into force, the 
+sampling. commencement time for each stream and ~ 
+
+maintains those times. from day to See and 
+
+
+ii. commences ‘the sampling of all streams on the | same ; 
+S getenaar day. 
+
+
+(4) Where a direct discharger has more than one process effluent 
+monitoring stream and is required on an operating day to collect a set 
+of samples from each stream at the discharger’ s plant, the discharger 
+shall collect all Sones in the set from each stream on the same 
+operating Oayie ea 
+
+
+(5) Despite subsection (2), where a fect discharger has more 
+than one cooling water effluent monitoring stream and is required on 
+an operating day to collect a composite sample from each stream at the 
+discharger’s plant, the discharger may designate any period of. twenty- 
+four consecutive hours for each stream provided that the discharger, 
+
+
+i. . specifies to the Director in writing no later than 
+
+_thirty days after this Regulation comes into force, the 
+sampling commencement time for each stream and 
+maintains those times eek day to Cae and 
+
+
+ii. commences the sampling of all streams on ‘the same 
+’ Aer re day. 
+
+
+(6) Where a direct discharger has more than one cooling water . 
+effluent monitoring. stream and is required on: an operating day to . 
+collect a set of samples: from each stream at the discharger’s plant,. 
+“the discharger shall collect all samples in the set from each: stream 
+on the same operating day. 
+
+
+(7). A: direct discharger shall use ‘all. renaonabie erfarts co ensure 
+
+that all analyses required by this Regulation are completed as soon as 
+‘possible and that the results of those Stier fod are made available to. 
+et discharger as soon as possible. 
+
+
+‘ 
+DraftPEP. Jan, 1993 igeve hein? Lax “ela 
+
+
+pera ee - Process Effluent. - Daily Limits 
+
+
+11.-(1) Each direct Avecnader shall collect a set of samples from 
+each process effluent sampling point during each operating day, and 
+shall analyze each set of samples for the parameters for which the 
+frequency of monitoring, set out in column. 2 of declare 2 for the 
+discharger’s ieee is daily. ; 
+
+
+(2) #oA direct discharger need not meet the requirements of 
+subsection - (1) where it is impossible to ‘do so because of sampling ny 
+a provincial officer. — ie 
+
+
+Monitoring - “ Process Effluent = Weekly Limits 
+
+
+12.-(1) Each qirect a ecnerger shall collect a set of samples from 
+each process effluent sampling point on one operating day during each 
+week, and shall analyze each set of samples for the parameters for 
+which the frequency of monitoring, set out in eRe) 2. Of. schedule io 
+for the SENSE ESE 5” s plant, is weekly. 
+
+
+(2). For the purposes of subsection (1), a set ‘of eamilest 
+collected from a process effluent sampling point after the first set 
+- Of samples is collected from that point shall be collected no sooner 
+than three days after the previous sampling from that sampling point. 
+
+
+7 ont tla Process Effluent - Crna Limits 
+
+
+13.-(1) Each direct ai echarder shall collect a’ eatl of éamcieel on 
+each process effluent sampling point on one operating day during each 
+quarter, and shall analyze each set of samples for the parameters for 
+which the frequency of monitoring, set out in column = of schedule 2 
+for the discharger’ s plant, ‘is quarterly. © : 
+
+
+: (2) For the purposes of subsection (1), ‘a set of eaanies 
+collected from a process effluent sampling point. after the first set 
+
+of samples is collected from that point shall be collected no sooner 
+
+ar SSCL) days. ‘after the previous epee ste that ae 
+pou ‘ 
+
+
+un cen reciuent ~ nesuoad 2 Frequency. 
+
+
+14.-(1) Where, for ‘twelve consecuctce months of monitoring under 
+subsection 11(1), the monthly average plant loading of a daily .. 4 
+parameter is equal to or less than fifty percent of the limit for the 
+parameter as set out in column 4. of schedule 2 for a direct ‘a 
+discharger’s plant, the frequency of EISEASEEST for: the. parse may 
+be reduced to three times per i Tose 
+
+
+Ls 
+DraftPEP. Jan, 1993 oe ere eae Rig es 7 
+
+
+(2) ° Subsection 1 ceases to aot if the monthly average plant 
+loading of a parameter is greater than fifty percent of the limit eschs 
+the parameter as set out in column 4 of schedule 2 for the 
+- @ischarger’s plant, for two consecutive months and the discharger 
+
+shall instead sample in accordance with the oe rb ee of subsection 
+11(1). dir 
+
+
+(3) here for uel verconascutive months of monitoring under 
+subsection 12(1), the monthly average plant loading of a weekly | 
+parameter is equal to or less than fifty percent of. the limit for the 
+parameter as set out in column 4 of schedule.2 for a direct | 
+‘ discharger’s plant, the frequency he Ciba for the parameter may 
+. be reduced to bi-weekly. - . 
+
+
+—(4)— Subsection (3) ceases to apply if the onthe average plant 
+loading of a: parameter: is greater than fifty percent of the limit for 
+the parameter as set out in column: 4 of schedule 2 for the 
+- discharger’s plant, for two consecutive months and the discharger 
+shall instead crema in accordance with the ae od enence. of subsection 
+12(1)- 
+
+
+(5) AD Sairact discharger shall. notify the Wirecvos in writing of 
+any-changes in the frequency of monitoring at the discharger’s plant 
+made under subsections (1) through (4), within seen’ ee after the 
+day on which a change Stil hey ies 
+
+
+‘Monitoring - Process Effluent - ga siento 
+
+
+18.-(1) . Each cece Wala heroes shall collect or. prepare | the quality 
+
+control samples required by subsections (2) and. (3) in accordance with 
+
+the procedures described in the Ministry publication entitled 
+
+' “Protocol. for the Sampling and Analysis of pena eae ee 
+Wastewater" dated October, 1991. , cits 
+
+
+(2) Once per year, each airect faiecharcer shall collect from one 
+process effluent sampling point at the discharger’s plant, a duplicate 
+or replicate sample for each sample collected on that day from that | 
+sampling point. under subsection 12(1), and shall analyze each | 
+duplicate or replicate sample for the parameters .for which the . 
+frequency of monitoring set out. in. column 2 of schedule oa for the 
+een ea s pian is weekly. : f 
+
+
+KES )ee i: once per year, on the day ¢ on ‘which duoiicate or raniicace 
+‘samples are collected .under subsection (2), each direct discharger 
+shall prepare a travelling blank and travelling spiked blank barat 
+for each sample collected on that day from one process effluent - 
+sampling point under subsection 12(1), and shall analyze the =. 
+travelling blank and travelling, ‘spiked blank . sample for the: parameters 
+_for which the frequency of monitoring set. out in column 2 of I 
+2 for the lata a ear oma is eee: | :: 
+
+
+‘i Sos 
+DraftP&P.Jan,1993 Seaameies oF ee | AS oS See elae Le 
+
+
+(4) A direct discharger need not anaivee a. travelling. blank 
+sample collected under subsection (3) for parameters in analytical 
+test groups (ATGs) 3 and 8 listed in schedule 1 of the Ministry 
+' publication entitled "Protocol for the Sampling and Analysis of 
+industrial/Municipal Wastewater", October, 1991. . 
+
+
+(5) A direct discharger shall only analyze a travelling spiked 
+blank sample collected under subsection (3). for parameters in 
+analytical test groups (ATGs) 16 to 20, 23 and 26 listed in ‘schedule 19 
+of the Ministry publication entitled "Protocol for the Sampling and » 
+poy Sey of Industrial/Municipal Wastewater", October, 1991. 
+
+
+Monitoring | - Process Effluent - pH Measurement 
+
+
+16.-(1) Each direct discharger shall ensure that the pH of each 
+_. process effluent monitoring stream at the discharger’s plant is | 
+_ Measured during each operating Gay 7) Beane an on-line Ro 
+
+
+(2) For the purposes of this section, a direct Riecharden shall use — 
+either the sampling point established under section 6:on the stream or 
+an alternate sampling point located downstream of the sampling point 
+but before the sehess of discharge of the stream. to surface water. — 
+
+
+(3). ‘Before using an alternate sampling point under subsection 2, 
+a direct discharger shall give the Director a written notice 
+describing the location of the alternate sampling point, together with 
+a revised version of the list and plot plan submitted under subsection 
+nee showing the alternate sampling bon : q 
+
+
+(4) If an on-line analyzer used by a direct idiscnarger for the 
+purpose of measuring pH under this section is not operational due to a 
+problem of malfunction, maintenance or calibration for a period of - : 
+
+more than twenty-four consecutive hours, for every subsequent 
+- operating day that the on-line analyzer-is not :operational, that. 
+discharger shall instead collect eight grab samples throughout . each _ 
+operating day, at approximately three-hour intervals, from the as 
+sampling point on which the analyzer is located, and shall analyze . 
+each connie for the parameter. PH. 
+
+
+Monitoring = "Aeute Lethality testing ~ Bainbow Trent ae 
+
+
+17.-(1) Where a direct discharger is ereqaired to ar rora a rainbow 
+trout acute lethality test, the discharger shall perform the test 
+
+‘according to the procedures described in the Environment Canada aa 
+publication entitled "Reference Method for Determining Acute ee fest! } 
+of Effluents to Rainbow Trout" dated July's 1990. = 
+
+
+(2) Once. in each month and on the same operating day, faxes direct - 
+Secharders shall Co ece a gee conte) from each oe ceae effluent - 
+
+
+ae 
+DraftP&P.Jan,1993 4 DOE is area adel ca( oh cee 150 
+
+
+_. sampling point and each cooling water effluent .sampling point at the 
+discharger’s plant, and shall perform a rainbow Se acute lethality 
+test on (etek Sete : 
+
+
+(3) ° Each direct faecharved shall carry out each rainbow mrone 
+acute lethality test as a single concentration test being one hundred 
+percent effluent and shall record the result. — ) | 
+
+
+(4) For the purposes of subsection (2), a sample collected from a 
+sampling point after the first sample is collected from that point 
+shall be collected no sooner than fifteen oa after the previous 
+sampling fron that’ sampling point. : 
+
+
+(5) » Where a direct discharger. has colar a twelve consecutive 
+tests under subsection (2) on a sample collected from the same 
+sampling point and the mortality of the rainbow trout in each test has 
+not. exceeded fifty percent, the discharger is relieved of the 
+obligations under subsection (2) and may instead collect a grab sample 
+- once per quarter from that sampling point and. aware a rainbow trout 
+acute PONSA SBy test on wees soupie- 
+
+
+(6) -For the purposes aye subsection (5), a sample collected. from a 
+-. sampling point after the first sample is collected from that point . 
+
+
+. shall be’ collected no sooner than forty-five GAYE after Makes Previous 
+sampling from that sampling poses ; 
+
+
+(7) ‘te a rainbow trout acute aeehality, test pierre under 
+subsection (5) on any sample from a sampling point results in 
+mortality for more than: fifty percent of the test fish, subsections 
+(5) and (6) cease to apply in respect to samples from that sampling 
+point, and a direct discharger shall instead test in accordance with 
+the requirements _of . subsection (2). until the tests performed under | 
+subsection (2) on all samples from that sampling point for a further 
+_ twelve consecutive months result in Boas oy for no more than fifty 
+ees of the fish for. each test. 
+
+
+(8) — Where etairect discharger reasonably believes aye the BES 
+Peecing of an effluent stream would result in mortality to more than 
+fifty percent of the test fish,. the discharger shall so acknowledge to 
+the Director in writing, and is. then relieved of the obligations to 
+perform.a rainbow trout acute lethality. test under subsection (2) 
+oes section 4 of this regulation poner into force. 
+
+
+(9) For the purposes of subsection (2),. each direct cierrere ; 
+shall collect each sample from each process effluent sampling point at 
+the discharger’s plant on one of the days on which a set of samples is 
+
+collected at the See s Ett under subsections (12 (1) or 14(3). 
+
+
+'(10): For the purposes of subsections (5) ‘ana (7), a direct | 
+discharger shall notify the Director in writing of any changes. in the 
+frequency of acute lethality testing at the discharger’s plant, within : 
+thirty eh after ie day on which a ats occurs. — a 
+
+
+‘ 
+DraftPéP. Jan,1993 | 3 ie anes | 16 
+Monitoring - Acute Lethality wasting - Daphnia Magna | 
+
+
+18.-(1) Where a arecr a lacnarees is eat hei this ‘Regulation to 
+perform a Daphnia magna acute lethality test, the discharger shall | 
+perform the test according to the procedures. described in the 
+Environment Canada publication entitled "Reference Method for 
+Determining Acute Lethality of Eri lven to Daphnia magna" dated July, 
+HEEM 
+
+
+(2) subsections 17(2) to (10). apply with necessary eoaiticatione 
+to Daphnia magna — acute lethality tests. his 
+
+
+(3). Each direct discharger shall collect all samples requires by 
+rainbow trout acute SSSR ERE tests Oe E2BDELA magne acute Lethal, 
+tests on the same day. 
+
+
+enivecine Chronic Toxicity Testing - Ceriodaphnia 
+
+
+. 19.-(1): Where a direct discharger is required to perform a 7-day 
+Ceriodaphnia reproduction inhibition and survivability test, the ae 
+discharger shall perform the test according to the procedure described 
+in the Environment Canada publication entitled. "Test of Reproduction. ~ 
+and. Survival bee the Cladoceran Seriodaphnia dubia" dated February, 
+1992. ; 
+
+
+(2) Once in eact Semi -annuat period ana on the same operating 
+day, each direct discharger shall collect a grab sample from each 
+process effluent sampling point and each cooling water effluent 
+sampling point at the discharger’s plant, and shall perform a-7-day | 
+Ceriodaphnia reproduction inhibition and Brame mers test on each 
+ti eh a 
+
+(3) For cree purposes. of subsection (2), a Peas collected from a 
+sampling point after the first sample is collected from that. point 
+shall be collected no sooner than ninety ale after the Previcoss 
+St SENS Ase from that ey point. xo 
+
+
+(4) | Subsection (2) does not apply’ anti ttwelvel consecutive 
+
+
+monthly rainbow trout and Daphnia magna acute lethality tests 
+
+
+performed on samples collected from process effluent and once-through 
+cooling water effluent sampling points at a direct discharger’s prt 
+result in mortality for no more than fifty percent of che Leary 
+organisms in one hundred Lagann effluent. 
+
+
+(5) For the purposes of subsection (2), each direct discharger — 
+shall collect each sample from each process effluent sampling point at 
+the discharger’s plant on one of the days on which a set of samples is 
+collected at the discharger’s plant under subsections 12(1) or 14(3). © 
+
+
+. 
+a DraftPéP. Jan, 1993. ne : pe aN oth ane | 17 
+
+
+Monitoring - Chronic Toxicity Testing =. ‘Pathead Minnow 
+
+
+- 20.-(1). "Where a direct discharger is required to perform a. 7-day. 
+
+‘' fathead minnow growth inhibition test, the discharger shall perform 
+the test according to the procedure described in the Environment — 
+Canada publication entitled "Test of Larval Growth and Survival Using 
+Fathead Minnows" dated February, 1992. 
+
+
+_ .(2) Subsections 19(2) to (5) ‘apply, with necesaary SEER GA GN S: 
+. to fathead minnow chronic: AE RIEAS f tests. ie 
+
+
+Paes) ine ‘Each ‘direct Aeecnarcded shall ‘collect Paik samples Peete by 
+Ceriodaphnia chronic toxicity tests and pocneao minnow chronic ; 
+Poca tC ety tests on the same day. — . aa oe 
+
+
+meatier = EE as = mesk?y, Assessment. 
+
+
+| 21.-(1) j Each ‘direct discharger shall collect: a'set of samples. from 
+each cooling water effluent sampling point at the discharger’s plant 
+
+
+- om one operating day during each week, and shall then analyze each set 
+
+
+of samples for the parameters listed in schedule 3 for the 
+ao s plant. ¢ av 
+
+
+(2) -.For the purposes ‘of Bunseet ion (ay a set of samples 
+collected from a cooling water effluent sampling point after the first 
+set of samples is collected from that point shall be collected no. 
+sooner than ek days after. the previous cane ata! from \eatite pemoent 
+Boclae 
+
+
+_ ‘Flow meararennt 
+
+
+Be) subject oat subsection [eA ep ‘each direct discharger shall 
+determine in cubic metres the daily volume of.effluent in each process 
+effluent monitoring stream at the. discharger’ s plant throughout each 
+operating. GRY; by peed re eton of continuous flowrate measurements. 
+
+
+Pan 2:) A direct discharger that has process effluent monitoring 
+: streams that discharge on an intermittent basis throughout. an 
+operating day at the discharger’s plant, shall determine the daily. 
+volume of effluent from each of the streams throughout an operating 
+day, either. by integration of continuous flowrate measurements or by utes 
+the summation of individual batch volume measurements. 
+
+
+(3) Each Neri ‘discharger shail use “flow measurement mathoda) 
+_ which allow the volume of effluent discharged from each process 
+- effluent -monitoring stream at the discharger’ s plant to be determined 
+
+
+_ to an ae aney. of wichin oS OE minus fifteen percen . 
+
+
+« : 
+DraftP&P.Jan, 1993 We ey Tee Pe: SOA iar ie ae 18 
+
+
+(4) Each direct discharger shall Aocern ine the ‘daily volume in 
+cubic metres of effluent in each cooling water effluent monitoring 
+stream at the discharger’ s plant, throughout each operating day on . 
+which a set of samples is collected TOE analysis under section 21% 
+
+
+(5) | Each direct discharger shall use flow measurement methods 
+“which allow the volume of effluent discharged from each cooling aS ee 
+effluent monitoring stream at that discharger’s plant, to be 
+
+
+determined to’an accuracy of within plus or minus twenty percent. 
+
+
+(6) Each direct discharger shall, no later than the day that 
+this section comes into force, determine by calibration methods or 
+confirm by means of a certified report of a registered professional 
+engineer of the Province of Ontario that each flow measurement method | 
+or system used under subsections (1) and (2) meets the accuracy | 
+requirements of subsection (3). and those used under subsection (Sh 
+' meet the accuracy: requirements of subsection Oy 
+
+
+(7) Where a direct discharger installs a new flow measurement 
+method or system or alters an existing flow measurement method or 
+system, the discharger shall determine by calibration methods. or. 
+confirm by means of a certified report of a registered professional 
+engineer of the Province of Ontario that each new:or altered . 
+flow measurement method or system meets the accuracy requirements of 
+- either subsections (3) or subsection (5) within two weeks after the | 
+AM on which the new or altered method or system is used. 
+
+
+(8) 2. Each direct discharger shall davelor ana implement a 
+maintenance schedule and a calibration schedule for each flow 
+measurement system installed at that discharger’s plant and shall 
+Maintain each flow OREO NS system reheat st] to good operat 
+practices. . 
+
+
+(9). Each dicect Hahaha: use ae to set 
+up flow measurement bh fer NS can be pie De by. a provincial 
+
+
+officer. 
+
+
+Calculations of Effluent Volumes | 
+
+
+23.-(1) Each aivect discharger: ‘shall oR GarAraee in cubic metres, a 
+Chae process effluent plant MAE for COSEE day. ee 
+
+
+(2) For the purposes of subeserion (1), a ‘process effluent panel 
+volume for a day is the sum of the eee volumes calculated under 
+section 22 in respect of the day. | 
+
+
+_ (3) Each direct discharger shall eT TeE aye in cubic metres, a 
+monthly average process effluent plant volume for each month, by 
+taking the arithmetic mean of the daily process effluent. plant volumes 
+calculated under subsection (1) for the month. at 
+
+
+‘ . 
+_ DraftPsP.Jan,1993 SS ee ee ae Ss Re 19. 
+(4). Each direct discharger shall calculate, in cubic metres, a daily 
+Cool tag water effluent EEGs volume for each day. © ; 
+
+
+(5) FOF. the purposes of subsection (4), a cooling water effluent 
+plant volume for a day is the sum-of the daily volumes calculated 
+under section 22 in respect oe the gaye, 
+
+
+(6) - Each direct discharger aRaTY ealcdinta:: in cubic metres? ale 
+monthly average cooling water effluent plant volume for each month, by 
+
+
+taking the arithmetic mean of the daily cooling water. effluent plant 
+7 volumes calculated under subsection (4). for the EIR. 
+
+
+eat Pane 
+
+
+24.-(1) Each direct discharger shall complete a storm water control 
+
+
+~~ study in accordance with the requirements of the Ministry publication 
+
+
+entitled "Storm Water control SEOGy Protocol", dated August, 1992. 
+
+
+(2) Where a direct discharger. meets the exemption criteria set 
+out in the Ministry publication entitled "Storm Water Control Study 
+Protocol, 4 dated August, 1992, . the discharger shall.so notify the © 
+Director in writing, no. later than one year after this Regulation 
+comes into force, and is eines aoc ame from the peda emeic! of 
+subsection | (1). 
+
+
+(3) A diréct Si ecnercer, shal? Gemplete che storm water control 
+study required by subsection (1) no later than two hehaechi after this 
+Regulation comes into force. 
+
+
+(4) Where, in order ts meet the requirements of section 3 or 4 
+of this regulation, a direct discharger plans to make process changes, 
+install waste water treatment facilities, implement management | 
+practices, or make any other changes at the discharger’s plant that 
+will alter the quantity or: quality of storm water discharged from the 
+plant, a discharger may delay the completion of the storm water i 
+‘control study as required under subsection (3) and shall notify the 
+Director accordingly, in CEE ibs) no later than two yeas oy after this - 
+Regulation comes into. force. Sha: 
+
+
+(5): A direct discharger that notifies Phepivcctor inden 
+subsection (4) shall complete the storm water control study required - 
+by subsection (1) no later than one year after sections 3 and 4 of 
+this regulation come -into force. tae 
+
+
+4, 
+A 
+
+
+DraftP&P.Jan,1993 | a ee = 20) 
+
+
+Record Keeping © 
+
+
+25.-(1) Each direct discharger shall keep the records required to be 
+
+
+kept under subsections (4) to (7) in an electronic format acceptable 
+to the Director, and shall, from time to time, make these records 
+available in an electronic format to the Ministry during normal. — 
+working. hours. , aon 
+
+
+(2) Each direct Hipchercer: shall ines records of the locations 
+
+
+of all sampling points established in CEREUS with the patel 2 
+
+
+of section 6. 
+
+
+(3) Each direct ‘discharger shall keep records of all samplingn 
+and analytical procedures used in meeting the requirements of - 
+section 5, including, for each sample, the date, the time of . 
+collection, the sampling procedures used, and any incidents likely to. 
+affect the analytical results. . 
+
+
+(4) z Each direct discharger shall keep records of all the “pesnies 
+of monitoring for limits, quality control, and assessment performed in 
+' accordance with the requirements of sections 11 Ehr oughly and 21. 
+
+
+(5) Each direct. discharger shall keep records of pH measurements 
+
+
+performed in accordance with the requirements ot section 16. 
+
+
+(6) 3 Each direct discharger shall keep acordal of Aisi the results 
+
+
+ef monitoring for acute lethality and chronic toxicity performed in 
+accordance with the requirements of sections. 17 aches 20. 
+
+
+(7) 2 Each direct discharger shall keep records of all flow . 
+measurements and all. maintenance and calibration procedures carriéd 
+out on each flow measurement system neces to .be performed under . 
+section 22. — | = ee 
+
+
+(8) Each direct ai senarcee shall. keep eecorde of all prone or. 
+malfunctions related to sampling, chemical analysis, on-line analyzers 
+for Ph measurement, acute lethality and chronic toxicity testing, or 
+flow measurement systems, or, other problems that interfere with | 
+fulfilling the requirements of this Regulation, detailing the date, 
+duration and cause of each malfunction, and including a 168 Crean of 
+any remedial action taken. 
+
+
+(9) . Each ‘direct discharger ener keep records of any ainchanden of 
+
+
+process effluent that is not discharged through a process effluent 
+monitoring stream at the discharger’s plant, in contravention of 
+section 3 of this regulation; detailing the date, duration,. cause and | 
+nature of each cies : . 
+
+
+. . 
+a 
+
+
+ss : 
+" praftPéP.Jan, 1993) A Dir ae el Gi a 2 ae 
+
+
+(10). Each direct discharger Era keep records of all neocesal 
+changes and any redirection of ‘effluent streams chat affect the 
+
+
+quality of any process effluent ‘monitoring etrens er cooling water: 
+effluent monitoring stream at the discharger’ s plant. 
+
+
+(lye | Each direct discharger shall keep. records. of the: daily . 
+_ production for the Laan ters adhe in schedule 4 for the Gar etn teat ee s 
+plant. | | | : ; | 
+
+
+(12) . - Each direct diecnerdes shail keep all records required by 
+this Regulation for a period of three years. | : 
+
+
+-. (13) ~~ Each direct discharcer shall from time to time upon Peeeat. 
+make records required to be kept under this section accessible to the 
+Ministry Sarees normal: working hours. 
+
+
+| Reporting 
+
+
+- 26.-(2) Each direct discharger shall notify the Director in writing 
+
+' of any change of name or ownership of the discharger’s plant occurring. 
+
+- after the day this Regulation comes into force, within thirty meth 
+after the end of the month in which the change occurs. . pg 
+
+
+2). ' Each airere discharger shall, within 30 days, noel ret the 
+Director in writing of all process changes and any redirection of or 
+charige in the character of any effluent stream that. permanently 
+affects the qualiry of any effluent stream at the discharger’ s plant. 
+
+
+(3). Where an operating day. of a direct dischargér spans two 
+calendar days, the discharger shall report the date of all sampling 
+and flow measurements done on aoe operating’ day as Me first of the 
+two calendar days. je) 
+
+
+ee (4) On or before the first hey of ‘June. faach year, each direct 
+‘discharger. shall. prepare a report including instances of non- ~ 
+compliance and summarizing the results of all testing performed by the 
+discharger during the previous calendar. year in accordance with the 
+requirements of monitoring under sections 11 through 21 and 
+measurement of flow under section 22, and shall make this report 
+available at. the discharger’s ott cee reasonable hours for 
+leet by the public.’ - : 
+
+
+(5) A direct discharger shall motity. the Director. in writing, 
+within thirty days, if the discharger’s plant has operated for more 
+
+- than ninety consecutive days, at less than seventy-five percent of the 
+. reference production rate Ag TRAN et in Schedule 4 for. the irene ea s 
+
+plant. i a gave 
+
+
+‘ 
+
+
+‘ 
+DraftP&P.Jan,1993 ts i ie Sho! Ele Ae aa 
+Reporting - Compliance | | ; 
+
+
+: (6). ‘A direct discharger. shall not ity the pirectsrs during Noome 
+business hours and as soon as the results are available, if.for any 
+parameter, a daily plant loading exceeds the limit specified in column 
+.3 of schedule 2 or, a monthly average plant loading CESSES the limit 
+SO aie in column 4 of schedule Serre : 
+
+
+(7)- Where an on-line analyzer is used for the purposes of 
+measuring pH under section 16, a direct discharger shall notify the 
+Director, during normal business hours and-as soon as the results are 
+available, if the discharger fails to meet the pH requirements of — 
+section 3 for any period of more than fifteen consecutive minutes 
+throughout an operating day, and shall notify the Director of the 
+‘duration of the failure. / 
+
+
+_ (8)- Deenite cuneertion LOR ye a airaee ‘aischarger need not notify - 
+the Director if the failure to meet the pH requirements of ‘section 3 
+is the result of a problem or malfunction related to the on-line 
+analyzer or, the maintenance or calibration of the one analy eeu 
+
+
+(9) - ' Where an. alternate method is used: for the purposes of 
+measuring pH under section 16, a direct discharger shall notify the 
+Director, during normal business hours, as soon as the results are 
+-available, if the discharger os peta Mae PH Fan te Ett of 
+' section 3. | : ; i eee 
+
+
+— (10) A direct i gene shall AGtLTy the iDiractor ‘as soon as enal 
+results are available, during normal business hours, if. the discharger 
+fails. to vlas the Eisner limits of section 4. 
+
+
+| pp are 
+(121). Once in each quarter, each direct discharger shall report to 
+_ the Director, in a format acceptable to the Director, all information 
+required to be reported under subsections (12) through (19) in an 
+electronic format, and by hard copy generated from that electronic 
+
+
+format signed by: the direct discharger, no later than forty-five IBY 
+after the and of the eavartes to which the information relates Aiea 
+
+
+Pane Bey | 
+
+
+(12) For process effluent monitoring streams, each direct 
+ai scharnee shall report for each month, the monthly average plant © 
+loadings and the maximum and ninimum daily plant: loadings for each of 
+the parameters for which there is a limit at out in columns 3 Of. |e 
+schedule 2 for the discharger’s ee yagi 
+
+
+é 
+
+
+Z< : 
+| DraftPéP.Jan, 11993 ey S | pn Ae é 23 
+
+
+(13) ° For process Pectlnant monitoring streams, a direct discharger 
+‘shall report, for. any parameter, any daily plant loading that exceeded 
+the limit specified in column 3 of schedule 2 and any monthly average 
+plant loading that exceeded the limit. erected in column 4 of | 
+schedule. 2, during any month. 
+
+
+(14) For cooling water effluent poniteriad streams, each direct 
+discharger shall report for each month, the monthly average plant 
+
+
+_. loadings and the maximum and minimum daily plant loadings for each of . 
+
+
+the parameters set out in schedule 3 for the discharger’s plant. 
+
+
+(15) _ | - Each direct. discharger shall report an estimation of an 
+average ‘pH range for each process effluent monitoring stream at the 
+“ote patabae s > plant, for each month ‘auring the: Satan 
+
+
+Plow Measurement , 
+
+
+(16). For process effluent meni tacing ae ee ty, each direct 
+discharger shall report the monthly average plant volume, and the 
+CE and minimum, daily plant volumes for each month. — 
+
+
+GET) acc For ‘cooling water. effluent monitoring streams, each As | 
+discharger shall report the monthly average plant volume, and the 
+maximum and minimum cally AAAS volumes for each month. 
+
+
+(18). ‘Each direct Bice shall Vrece the auries of days 
+- throughout each month on which effluent was discharged from eau: 
+pPHOCGES) effluent monitoring hk Ta at 
+
+
+(19). . Each. direct atacierces shall act the number of avs 
+throughout each month on which effluent was eens from each 
+SANE) water SEO mons Couend stream. 
+
+
+"Reporting Srey rested 
+
+
+(20) . Each direct reenter shall vepcre to the Director, as soon . 
+- as is reasonably possible, any process effluent that is discharged 
+other than through a process effluent: monitoring stream at the. 
+discharger’s plant, detailing the Rate duration, cause and nature De 
+each discharge. | 
+
+
+5 
+DraftPEP. Jan,1993..- - oS 5 PRR aa 24 
+senereing - Chronic Toxicity Testing : 
+
+
+(21) Each direct nlecueteas shall enone to the Director in 
+writing, the results of all chronic toxicity testing performed under 
+sections 19 and 20, together with the date on which each sample was 
+collected, no later than sixty days after the end of each semi-annual» 
+period in which the tests were Ltt hi = 
+
+
+nepentine - AOX Elimination Plan (AEP) 
+
+
+(22) Each direct discharger for which a limit for AOX is listed in 
+column 3 of schedule 2 for that discharger’s plant shall, no later 
+than 6 months after this regulation comes into force, submit to the 
+Director an initial or preliminary plan which contains a preliminary 
+schedule and outlines methods by which AOX generated from the | 
+bleaching of wood fibre or recycled fibre at the Giacharets s Plage 
+may be eliminated by the year 2002. 
+
+
+(23) Each Aivect discharger for which a limit for. AOX is listed in 
+‘column 3 of schedule 2 for that discharger’s plant shall, on or before 
+December 31, 1995, submit to the Director an interim, "AOX Elimination 
+Plan," prepared in accordance with the Part 1 requirements of schedule 
+5 of this regulation, which describes the methods by which AOX. — 
+generated from the bleaching of wood fibre or recycled fibre at the 
+discharger’ s Peo may be eliminated by the year 2002. 
+
+
+(24) Each direct discharger for which a’ Limit for AOX is listed inns 
+
+column 3 of schedule 2 for that discharger’s plant shall, on or before 
+
+December 31, 1998, submit to the Director a final "AOX Elimination 
+
+Plan," prepared in accordance with the Part 1 requirements of schedule 
+
+ § of this regulation, which. describes the methods by which the > 
+-discharger proposes. to eliminate, by the year 2002, AOX generated | from 
+Seip bleaching: of yopS fibre or a gee fibre at the ciecharieag Ss 
+
+P. ant. 
+
+
+(25) Each direct aiechacqareror anicn = Vimierer ‘AOX is ‘listed in 
+column 3 of schedule 2. for that discharger’s plant, shall submit to 
+the Director no later than the thirty-first day of December of the. 
+year in which it is due, an annual status report and AEP update 
+prepared in accordance with the aghom a of part 2 of schedule 5. 
+
+
+fo 
+
+
+‘DraftP&P.Jan,1993 : i ener tele Pare anaes Sipe 
+| so Timing ae | 
+
+-27.7(1) ‘Sections 46 ris) 5, ar 24 and subsection 3(5) and 26 (22): of 
+
+this ‘Regulation come into force on the day it is filed. 4 
+
+
+eo 8(2) Sections 7. through 23 and 25; and subsections 26 (1) ekecign! 
+(5) and 26(11) ‘through (22),- come into force free days after this 
+Regulation is filed. 
+
+
+(3) ~~: Subsections 3(1) through (4) and (6), gections 4, Ja, 7b and 
+subsections 26 (6) through. See ae and £25) c- ‘come anes force on — 
+December 31, ak rectal ile 
+
+
+(ie Subsection 26(24) comes ‘into. force on December 31, 1998. 
+
+
+(5) Subsection 3 (7) comes into force. on. December ict. 1999. 
+
+
+= 7) “1 
+
+
+s : : : 
+DraftP&P.Jan,1993 as “i toe OR a ae ieee 
+| | LIST OF SCHEDULES rs | 
+
+
+Schedule 1 = List of Regulated Plants in Sector 
+Schedule: 2 — - Process - Effluent Limits 
+Schedule 2A - Unit of Production Based Loading Limits. 
+Schedule 3.  §- Assessment Monitoring Requirements 
+
+Schedule 4 = Reference Production Rates — 
+Schedule 5 
+
+
+- - Requirements for AEP’s 
+LIST OF PROTOCOLS — 
+
+
+"Protocol for the Sampling and Analysis of ‘Industrial/Municipal 
+Wastewater" (1991) 
+
+"Storm Water Control Study Protocol" (1992) ; 
+"Reference Method for Determining Acute Lethality of Effluents to | 
+- Rainbow Trout" (1990) . be 
+"Reference Method for Determining Acute Lethality of Effluents to 
+Daphnia Magna"™ (1990) 
+
+"Test of Reproduction and Survival. Using the ‘Cladoceran ¢ Ceri odaphnia 
+dubia" (1992) 
+
+"Test of Larval Growth and survival Using Fathead Minnows" (1992). 
+
+
+ee Pa 
+
+
+‘pr uopesodiog uewoy |: 
+
+
+uojresodiog SELSNpU| Pupoqieded 
+
+
+“pr Bpeued jo yejQ Ayequiyy |. 
+
+
+‘Pry Bpeued jo yejD Ayequi}y 
+QU] 1SGJO4 EPUBION 
+
+oT sjonpold e104 fpp3'a'3 
+UO|S|AIG Jedeg euj4 ‘dUj 1e}WOG 
+
+
+‘pry Auedwod eiqi4 poo serBeg | 
+“Pl lepeojg—ueyyoeyy | 
+
+
+ne PsBoqieujewog ‘oul seWOG 
+‘pr Auedwiog Jededg pus JeMod sye4 eoruds 
+
+
+“ou sedeg shew ‘1S 
+
+
+. ‘pry Ausduwiog sededg © 2 0 
+‘Py] Bpeued epedsen esjog 
+
+_  UOISIAIG S}}1B4 SfoNbos| OU] edUd—!qQNQY 
+UO/SIAIG SIEdBq [BJDUIADIg OU} EO1g—IqINQY 
+——- UOISIANG LUNIA YO “9U) Ed1d—1qnay 
+
+
+ay Seta peomod DUS ding yes enojeW ‘oul eneeyy 
+
+
+"PY] Bpeued jo ej Apequ} 
+
+
+‘py] UojBseyy—JOEAY Sewer 
+
+> “pyT sionpolg seso4 Appz 'g'3) 
+. UOJSIAG PseOqueujEUOD "oUj 18)WOG 
+Uo|s|G suede eUul4 “9Uj Je)WOG 
+
+
+“PNT SyoNpodd Ses04 9j9eg U|peUReD 
+‘PY SIONPOld ISOIO4 DIE ue|peueD 
+_ Pr] epeued epeosed es}og 
+
+
+686! ‘St INA 0 SV HSNMO, 
+
+
+eoueden : 
+. uQues | 
+
+
+SOULBINED "IS 
+eqASyUN 
+PIOJOUL 
+BMENO 
+SOULIBIIED ‘IS 
+, PIOJOUL 
+
+
+“sired uoeBinig | 
+
+
+‘uqquel, 
+~ Buyseysndey 
+
+
+GUeEW EIS WNeS | 
+
+
+‘PIOJOUL 
+.  * BsOUB>| 
+sije4 sjonbau| 
+
+
+.. . Aeg sepunuy | 
+
+
+. Aeg sepuny 
+
+
+/ $1184 490 WoowsS 
+|. eg eveue) 
+
+
+uoyeyy | 
+_. ejousds3 
+
+
+490 pel 
+
+
+WeEMWOD- 
+(Reg sepunyy 
+
+
+ueplig 
+
+
+en eee seouel4 Od | 
+
+
+_NOIWOO} 
+
+
+ BUODIPRAIS . 
+
+
+os Peywif] CoOUDS 
+eI — Apequuyy) 
+ YeBIQ — Apequity 
+
+Jesei4 
+
+
+ae sionpoig se104 App3. 
+
+
+: eae ae sueded euj4 seIWIOG 
+@1Q|4 POOM soneeg 
+
+_ *. fopeojg—ueNWoeW 
+
+: . sewog 
+
+: _ $je4 eonuds 
+
+Fart slew ‘IS 
+
+
+ogee Jeded oyeiug 9 2eqenH 
+
+
+OPBIsBD es/0g 
+
+
+eud—-1qIUgQY ||” 
+
+MW NYY Yod eXg—IqNay || 
+WIN WEI YO4 BO.d—IqHIQY 
+
+i eee | 
+
+yeIQ—Apequuyy |! 
+
+
+JONNY sewer 
+
+
++ $yonpold se104 Appz 
+jones - . seqwog |] 
+
+
+se\Wwog 
+
+
+__sjonpolg e104 oyjoed UeIpEUeD 
+
+
+- SJONPOId chee Oyjoeg Ue|peued 
+ea epecseg esjog 
+
+
+SWVN LNVId 
+
+
+“SINVId aaivinozu 4O isn ‘}31NG3HOS | 
+
+
+- enssiy 
+/ssedeg ous |. 
+a /pseog . 
+ /Buyyujeg 
+
+
+Buye6nu05 
+
+
+jequeyoow | 
+—eyyding |. 
+
+
+— ~ (yes) . 
+erydins 
+MODALVO 
+
+
+- SCHEDULE 2: PROCESS EFFLUENT LIMITS. =~ —_—_28 
+
+
+LIMITS — 
+
+
+Nonmonca 
+Frequency 
+
+
+St Notes: ae . “ 
+r) = Daily Monitoring i En : aut . tet Group ara) Number — 
+.Q a Cuartety Monitonnig Requirement ms Nya Non=hees 
+
+
+8 aie eee eae A Naess copa ra: Citak suhcsenn Poets 
+
+
+"SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+| ANALYTICAL TEST GROUP | | Moni 
+
+
+Daly Monnoarg {Prenat HS, No,: = Tox onee (70) Number 
+= Quarterly Monitonng Requirement. . = Pk eee 1s = Non— oeSle Sa se 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+. LIMITS” 
+
+
+= Cuarerly Montoning Requirement NM = Non uraple 
+
+
+31; 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS | 
+
+
+aie Total Phosphorus 
+Eee Total Suspencee Solids (TSS) 
+
+
+D = Daily Monitoring Requirement ape : xpos (ATG) Number 
+Ca ee 
+
+
+* ee eh ee = 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS - 
+
+
+Adsorbable Organic Halide — Cay Coe ee 
+— December 3, 1995 
+
+
+= December 31, 1999 
+
+
+oe 
+ara. 
+
+
+Li LIMITS 
+
+
+; eee Test ges arm Number 
+
+
+Measurable 
+
+
+‘33 
+
+
+34 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS | 
+
+
+LIMITS - 
+
+
+D = Daily Monitoring uirement oe mes Z Ne. regent j Test Group Ta) Nicer 
+W @ Weekly Moniton: uirement re ; E 
+Q = Quarterly Monitonng Requirement Nee Non SQoeraaec ed 
+* Based on m more stingentexetng Ministry Contol Order or Cerca of Approval Requirements 
+
+
+_- SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+LIMITS — 
+
+
+Adsorbable Organic Halide — Day One 
+
+
+= December 31, 1995 
+
+
+— December 31, 1999 
+
+
+D = Daly Montorng pcuremertt , eu ss eee ores oI oe | 
+Q = Guanety Monttonhg Requrement . RCL Nae “Measurable én a ink 
+* Based on more 
+
+
+siignt exiting Minety Control Order or Certate ct Approval Requirement 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS — 
+
+
+2,3,7,8-T4CDD 
+2,3,7.8—-T4CDF. 
+
+
+Biochemical Oxygen Demand (5 day) 
+
+
+Adsorbable Organic Halide — Day One 
+
+
+ee 
+
+
+= December 31, 1995 
+
+
+— December 31, 1999 
+
+
+{ 
+i. 
+| 
+| 
+i 
+| 
+2 
+i 
+q 
+
+
+D Gas Neraotng Rae ie | | Sr Se AT Na | 
+Gs praberaal ames so feet caawible ee 
+
+
+- SCHEDULE 2: PROCESS EFFLUENT LIMITS. 
+
+
+375 
+
+
+ts |. Monthly | > 
+onitoring | Dai Ave 
+FeaUenCy Picesny : foasng 
+
+
+‘(siege | haar 
+
+
+* Biochemical Oxygen Demand (5 day) 
+_ Adsorbable Organic Halide - Day One 
+
+
+"+ = December 31, 1995 
+"= December 31, 1999 - 
+
+
+No. = ical Test Group (ATG) Number - 
+
+
+| Stoeger eee glen giao pha) | 
+av W = Weaky Morigeg Beqarment : en yy : 2 Nee None easurable 
+
+
+_ SCHEDULE 2: PROCESS EFFLUENT LIMITS i 
+
+
+| 6 | retarProsphons. 
+
+
+poe Total Suspended Solids ass) 
+
+
+D = Daily Monitoring rement | sponse Test Group aT) Number 
+ras = pisos, Monitonng Requirement : a; 3 per per day 
+
+
+couere 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+2.3,78-T4CDD 
+2.3,78-T4CDF 
+Biochemical Oxygen Demand (5 day) sin 
+
+
+" Adsorbable Organic Halide - Day One. 
+
+
+= December 31, 1995 
+
+
+__= December 31, 1999 
+
+
+D = Daily Monitoring irom } ne ) No, = Anslyical Test Group (ATG) Number 
+W = Weskiy tigranng Recurement eee eeu: f Non Weasuraole 
+
+
+“SCHEDULE 2: PROCESS EFFLUENT LIMITS | 
+
+
+oO 
+
+
+= Daily Rionionne ing Pecirmert uiremem  - eae Test soe ara) Number . 
+W = Weekly M : : 
+Q = Quarterly ee Flequrement dats! iY Ba me 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS) 
+
+
+LIMITS 
+
+
+| _ Monthly - 
+_ Daily —-—*| Average 
+Loading | Loading — 
+
+
+2,3,7,8—T4CDF 
+
+
+Biochemical Oxygen Demand (5 day) 
+
+
+Adsorbable Organic Halide — Day One 
+
+
+"-— December 31, 1995 
+= December 31,1999 
+D = Daily Monitor : a Be ; a te so) eleorans perasy Number 
+a 3 : 3 k . ie ; 
+* Based on more stringent existing Ministry Control Order or Certificate of Approval Requirements tierra 
+
+
+41 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS — 
+
+
+wie Bay Honma ee Aen eri ; Test Group (ATG) ‘Number : 
+Q = Quarterty Monitonng Requirement. : Sole, th ee eure 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS ye 43° 
+
+
+Monitoring} Daily.” 
+Frequency 
+
+
+Loading 
+
+
+2,3,7,8-T4CDD 
+2,3,7,8-T4CDF 
+Biochemical Oxygen Demand (5 day) 
+
+
+Adsorbable Organic Halide — Day One. 
+
+
+— December 31, 1995 
+
+
+— December 31, 1999. 
+
+
+Quarterty Bg Roqurement | 
+
+
+~ D = Daily Monitoring Requirement = ais: 205 Bias No, = Analytic al Test Group (ATG) Number 
+
+
+stingert exiting Micetry Cortrl Order or Carticets of Approval Requirements 
+
+
+-SCHEDULE 2: PROCESS EFFLUENT-LIMITS. . 
+
+
+oe Lan uirement ars } No. ayo eloorars Group (ATG) Number 
+a: = Quarterly Monitonng Requirement ats oe Nm Non x8 tind anton ae 
+
+
+* Based on more etingentexting Minty Conte! Order or Cerca of Approval Requirements 
+
+
+SCHEDULE 2: PROCESS EFFLUENTUMITS == 5 
+
+
+u MITS 
+
+
+D sie ee ) aeons ie: poe No. = T est G , ATG) etoae 
+
+= ng ment . . : . = roup a 
+W = Weekly Monitonng Requirement. ~ ae ko/day. = per day : 
+
+Q= tonng Ne’ Non~ urable 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+= December 31, 1995 
+
+
+= _ December 31, 1999 
+
+
+Q= Non— finigclinelon 
+
+
+b= bay Eitan | : . 2 Proes set et ra 70) no 
+
+
+. . epee nlorepritpe ep a poe 
+
+
+_ SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+2.3,7,8-T4CDF 
+Biochemical Oxygen Demand (5 day) 
+per 
+
+
+Non— urabie — 
+
+
+ibce inpettie areaae No. = Analytical Test Group (ATG) Number 
+
+
+47. 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS _ 
+
+
+| og | Total Phosphous = ue 
+eid Total Suspended Solids Ua) 
+
+
+Biochemical Oxygen Demand. (5 day) 
+‘Adsorbable Organic Halide. — Day One 
+
+
+— December 31, 1995 
+
+
+= December 31, 1999 : 
+
+
+Oe Daly Montoni cone | | ees eprams perce Number 
+
+
+ion etn ete ete 
+
+
+“SCHEDULE 2: PROCESS EFFLUENTLIMITS sg 
+
+
+‘LIMITS 
+
+
+a 0.0611 0.0611 
+
+
+ae ot December 31, 1995 
+
+
+vs December 31, 1999 : 
+
+
+: T Number 
+shark Be a. ome a) 
+Quarterly Monitonng Requirement p Non— laaricer! 
+
+
+50 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+23,78-T4CDD- 
+23, 7B-T4CDF 
+
+
+Biochemical Onan Demand (5 day) 
+
+
+= Quarterly Monitonng Requirement 
+
+
+D = Daly Mortorng A ee | : % : Test G “ane 
+W's Weekly Monitoning Requirement Ye ome Sig eae cafeiealness 3 
+
+
+. Hepmoarrmabme Sef e 5S 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS - 
+
+
+31 
+
+
+Monmoring Regaremert | z eis sting wore a 
+ol ee mee 
+
+
+52 
+
+
+SCHEDULE 2: PROCESS EFFLUENT LIMITS 
+
+
+LIMITS” 
+
+
+_ SCHEDULE 2: PROCESS EFFLUENTLIMITS =———s53 
+
+
+ie | | Monthly eae 
+
+‘|| Monitoring | Daily | Average 
+Frequency| Loading | Loading |— 
+roe | oy) 
+
+
+Be eeaeetearemuemet Bn Aneto cry ATO) Naber 
+we artes 9 pene) Kan Ne’ Non= feck eh atey ae 
+
+
+fags 
+= 
+
+
++84 
+
+
+SCHEDULE. 2: PROCESS EFFLUENT LIMITS 
+
+
+Peers uirement eet ie dun No, = AneiyScal Test Group (ATG) Number 
+Q= Quanetly Monitoring Requirement ne Nie’ Non x8 dood elie nee : 
+
+
+Based on more stringent exeting Minty Control Order or Cerificate of Approval Requirements 
+
+
+SCHEDULE 2A 
+Unit of Production Loading Limits for the 
+Sulphate bse Gatouoly (kg/tonne) 
+
+
+money, Avess 
+
+
+- fazercor 
+~_Non-Acuiely Lethal 
+
+
+‘SCHEDULE 2A | 
+Unit of Production Loading Limits for the 
+Sulphite-Mechanical Category (kg/tonne) 
+
+
+a ete Monthly Average 
+Parameter __ Daily Limit _Daily Limit 
+{ Sa ED 
+
+
+0.0863 
+0.00188 
+0.000215 
+0.000413 
+37, Norneasorablell 
+Non-measurable 
+
+
+Non-Acutely | Lethal 
+
+
+NI 
+oF 
++ 
+Q 
+Oo 
+nN 
+
+
+TS TS o | 4 maa he 
+eleziz/e18lSys | 
+ol l*lslalglsle 
+oe ae > 3 = | 
+Se ele 1 
+
+i 
+
+
+= 
+[*) 
+
+
+osels 
+
+
+ty 
+x, 
+
+
+| | Daily Limit Daily Limit 
+Noe TL ee 5 day pau O.0 cee) na SOO NEAT 5.00 | 
+frat Suspended seize [tsa [787 
+FAOX -Day One | 2422.60" 
+
+| _ + December 31, 1995 1.50 
+
+| ° Decembes 31, 1999 7 0.800 _ 
+oe : 
+Peet ans eo , 
+
+
+[23.7.8-T600 
+
+
+55 
+
+
+[Prerot SSCS 0020 0.000280 
+25,7 S100 ki - 
+
+
+ee ‘SCHEDULE 2A | 
+Unit of Production Loading Limits for the 
+-Corrugating Category (kg/tonne). 
+
+
+_ Monthly Average 
+| — Daily Limit 
+
+
+SCHEDULEQA = 
+‘Unit of Production Loading Limits for the ? 
+Deinking/Board/Fine Papers/Tissue Category (kg/tonne) 
+
+
+ae bis . ~ | Monthly Average 
+jParameter . _ Daily Limit _. Daity Limit 
+
+
+Po ay ace ee Err es an mer ey ee | 
+BOD, 5 day (Noranda Forest Inc. only) 10.0 §.00 — 
+
+Total Suspended Solids sid’ 
+Tol Prosphonus——~—S~SC~dtC*‘éi dO 
+EO 
+Frowene | 0.000218 | 0.000218 _| 
+
+
+- Non-Acutely Lethal .. 
+
+
+a 
+
+
+_ ONCE-THROUGH COOLING WATER, WEEKLY MONITORING 
+
+
+ANALYTICAL TEST GROUP 
+
+
+“Total Suspended Solids — 
+
+
+SCHEDULE 3: ASSESSMENT MONITORING REQUIREMENTS 
+
+
+ES Tat 
+
+
+ECs x 
+ad As 
+ae Rats . 
+
+
+wey 
+Bion 
+
+
+SCHEDULE 4: REFERENCE PRODUCTION RATES | 
+
+
+PLANT NAME _ 
+
+Abitibi—Price Inc., Fort William Division 
+Abitibi—Price Inc., Iroquois Falls Division 
+Abitibi—Price Inc., Provincial Papers Division 
+Beaver Wood Fibre Company Ltd. 
+
+Boise Cascade Canada Ltd. (Fort Frances) 
+Boise Cascade Canada Ltd. (Kenora) 
+Canadian Pacific Forest Products (Dryden) 
+
+
+Canadian Pacific Forest Products (Thunder Bay) i 
+
+
+Domtar Inc., Containerboard Division (Red Rock) 
+Domtar Inc., Containerboard Division (Trenton) — 
+Domtar Inc., Fine Papers Division (Cormwall) 
+
+
+- REFERENCE PRODUCTION RATE 
+
+
+| Bleached Kraft | Finished. Product 
+eo 2s "428 
+
+
+‘Domtar Inc., Fine Papers Division (St. Catharines). | 
+
+
+EB: Eddy Forest Products Ltd. (Espanola) 
+
+E.B. Eddy Forest Products Ltd. (Ottawa) 
+
+James River—Marathon Ltd.- 
+
+Kimberly—Clark Canada Inc. (Huntsville) | 
+
+Kimberly—Clark Canada Inc. (St. Catharines) 
+
+Kimberly-Clark Canada Inc. (Terrace ecey) 
+
+MacMillan—Bloedel Ltd. 
+
+Malette Kraft Pulp and Power Company 
+
++ Noranda Forest Inc., Recycled Papers 
+“Quebec & Ontario Paper Company Ltd. 
+
+St. Marys Paper inc. . 
+
+Sonoco Limited 
+
+Spruce Falls Power and Paper Company Ltd. 
+
+- Strathcona Paper Compa 
+
+
+a2 
+
+
+iis 
+Sip ss 
+F 
+
+
+. 
+‘DraftPé&P.Jan,1993 | e 
+_. SCHEDULE 5_ 
+UIRE NTS fo AOX Elimination Plans 
+Pn | 
+This schedule Seine to all dirace) Ratecnercerk: nten: are required 
+under Section a5 of this regulation to submit | an AEP. 
+
+
+Written AEP’s which: are submitted: under this. regulation will be 
+- evaluated by the Ministry in the context of environmental, 
+pecan ol ods Cal and. economic factors. 
+
+
+Commencing in 1999, each direct discharger shall prepare and. submit a 
+eared ehhh ae AEP bisipatee cuneoanse zi 
+
+
+Part 1 
+». AEP Contents ae 
+
+
+In order to comply. with the AEP requirement of section 26 of this 
+: regulation, each direct discharger shall submit information oe ee 
+
+
+- a). Describes the AOX elimination policy for the discharger’ s plant, — 
+- along with a plan for communicating this policy to relevant : 
+employee and management personnel. This description should 
+_ include: specific short-term and long-term goals for AOXx 
+- elimination; a statement of top-level management commitment to the | 
+- elimination policy; methods used to accomplish top-level 
+management support (i.e., reward and recognition program); and 
+; ‘designation of a AEP oon responsible. for eaten! the: AEP. 
+
+
+b) Identities the annual amounts of enor ine and chlorine compounds 
+' used for bleaching. at the adh ha s plant tere the TEA GE de 
+_calendar year: ; 
+
+
+=<C) ‘Describes (Gaatratively) the sources of mevaration of AOX from the. 
+
+bleaching operations and contains a simple flow diagram or block 
+
+diagram of the unit(s), processes or operations generating the AOxX 
+to facilitate evaluation of the chlorine and chlorine elimination 
+efforts. The diagram must include, as a niet major pec ess 
+steps, equipment and AOX waste Had Sido 
+
+
+DrartRer Jan Toe eaten as es OU a ae Mie ic {a 
+d) Provides etal ted deseripcions of AEP options ‘that aneie to the 
+
+
+discharger’s. plant including, but ithe pee LY, limited to, 
+opens which consider: | 
+
+
+i eupscicarion of other chemical agents for the bleaching of wood a 
+fibre or recycled fibre; Be, 
+
+
+ii) reformulation of products which will eliminate the need for the 
+use of chlorine or chlorine compounds; : 
+
+
+e) provides an evaluation of the technical feasibility of 
+para implementing the AEP Gprsons meee in item d); — 
+
+
+f) ‘Provides a proposed ‘schedule for implementing the preferred 
+option(s) from those listed in’ iten“d). 3 . 
+
+
+-g) Provides an estimate of the anticipated. reductions in AOX that 
+will Results from the various stages of a alos aoe onde 
+
+
+Part 2: 
+| Annual Report and ‘Update of the e AEP | 
+In preparing an annual report/update, each direct discharger anal 
+
+
+a) Include the amount of AOX generated by the discharger’s plant 
+(prior to biological treatment) for: the year and the method. PY 
+which the amount of AOX chee hh was determined. 
+
+
+b) -Include any Peavalusticns of the technical feasibility: of the oe 
+preferred option(s) submitted in the AEP and evaluations: of the — 
+technical feasibility and cost of any new options that were 
+considered since the last update of the REF; “ 
+
+
+c) Include any changes in the discharger’ s priorities, resource 
+requis een cute te Poca and schedules: Cee ae the 
+
+
+The reports Set be iguimitted no later than eee day of 
+December of. the year in. which they are que ane must = PRY ae continuity 
+with previous ae ater tke 
+
+
+mn 
+
+

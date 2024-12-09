@@ -1,0 +1,122 @@
+NSF Mongolian Wireless 
+Expedition: Bringing the Internet 
+
+
+to Mongolia 
+
+
+Dewayne Hendricks 
+Warp Speed Imagineering 
+
+
+Warp Speed Imagineering 
+
+
+What we’ II discuss 
+
+
+= Background of the project 
+gm he Expedition 
+
+
+m Lessons Learned 
+
+
+Background 
+
+
+m NSF’s role in increasing Internet access 
+globally 
+>» <http://www.nstf.gov/> 
+>» GNET (AI Gore) 
+m NSF Wireless Field Test Project 
+» <http://wireless.oldcolo.com/> 
+mg NSF ‘Innovative Connections to the 
+Internet” 
+mg NSF Mongolian Internet Initiative 
+
+
+NSF Mongolia POP 
+
+
+m Use PAMSAT and SprintNet 
+
+
+m Use private company rather than 
+universities 
+
+
+m Pay for access not ground station 
+= Standalone operation in two years 
+= Installation in 12/95 
+
+
+Problems with Mongolian POP 
+
+
+mg Local PSTN won't do the job 
+m Infrastructure problems 
+m Lack of local expertise 
+= Need for substitute for PSTN 
+
+
+The Expedition 
+
+
+= How we got there 
+mg What we did there 
+m How we left 
+
+
+How we got there 
+
+
+m NSF grant to WFT Project 
+m State Dept. assist 
+
+m No site survey 
+
+mg Choice of equipment 
+
+m [he travel to there 
+
+
+What we did there 
+
+
+m@ Site Survey 
+
+= Meet the locals 
+
+mg Deploy the equipment 
+
+gm Make it work 
+
+mg Make the locals understand there is no Santa 
+
+
+How we left 
+
+
+m Status of network 
+m Status of locals 
+= Getting back home alive 
+
+
+Lessons Learned 
+
+
+m@ The Internet is Wonderful!!! 
+= If you know how to use it... 
+
+
+= Current products won't address needs in 
+country 
+
+
+m= Current products won t scale well 
+
+
+mg Make something that will work 
+
+

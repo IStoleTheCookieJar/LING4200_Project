@@ -1,0 +1,907 @@
+““ Colloid Journal, Vol. 56, No. 6, 1994, pp. 674 - 679. Translated from Kolloidnyi Zhurnal, Vol. 56, No. 6, 1994, pp. 761 - 766. 
+Original Russian Text Copyright © 1994 by Zharkikh, Lyklema, Dukhin. 
+
+
+Electrophoresis and Electrical Conductivity 
+of Suspensions under the Conditions of Quasi-Equilibrium 
+Polarization of the Double Layer as a Whole 
+
+
+N. I. Zharkikh*, J. Lyklema**, and S. S. Dukhin*** 
+
+
+* Institute of Biocolloid Chemistry, Ukrainian Academy of Sciences, pr. Vernadskogo 42, Kiev, 252680 Ukraine 
+** Wageningen University of Agriculture, Wageningen, P/O 8038 6700 EK, Netherlands 
+*** Institute of Colloid Chemistry and Chemistry of Water, Ukrainian Academy of Sciences, 
+pr. Vernadskogo 42, Kiev, 252680 Ukraine 
+
+
+Received March 14, 1994 
+
+
+Abstract — The double layer as a whole includes a diffuse part and other structural parts such as, for example, 
+the Stern layer (a porous adsorption layer). Phenomenologically, polarization and, consequently, the electroki- 
+netic behavior of a particle are described by a set of parameters (phenomenological invariants); the moments of 
+double layer and partial surface conductivities for each type of ion should be used as such parameters. On a 
+molecular level, the task is to express these phenomenological invariants in terms of parameters characteristic 
+of individual parts of the double layer. Calculations were performed for a model of a thin adsorption layer, for 
+which the Henry—Stern isotherm is valid. The conductivity increment for such a system was shown to be very 
+sensitive to the mobility of adsorbed potential-determining ions. The magnitude of this mobility may be evalu- 
+
+
+ated by measuring adsorption and conductivity in a wide concentration range 
+
+
+The aim of this paper is to combine various 
+approaches to considering the polarization of constitu- 
+ent parts of the electrical double layer. The basic 
+assumptions underlying this study are quasi-equilib- 
+rium polarization (i.e., for ionic concentration in some 
+volume, the relaxation time is of the same order of 
+magnitude as the time of diffusion relaxation) and the 
+thickness of the electrical double layer (the thickness of 
+the diffuse part amounts to a predominant fraction 
+of the overall thickness) is small as compared to parti- 
+cle size. 
+
+
+TWO LEVELS IN DESCRIBING 
+THE SURFACE OF A PARTICLE 
+
+
+The theory of electrokinetic phenomena uses two 
+principal approaches [1]. The first one — the phenome- 
+nological approach — establishes the relationship 
+between the magnitude of observed phenomenon and a 
+set of certain phenomenological parameters describing 
+the surface. The extent of the correlation between a cer- 
+tain set of parameters (phenomenological invariants) 
+and a specific set of experimental data offers a criterion 
+to assess the validity of this approach. It is an advantage 
+of this approach that phenomenological invariants are 
+derived directly from the experimental results and are 
+as reliable as direct observations. The weaknesses of 
+this approach are a continuation of its merits: by oper- 
+ating with phenomenological invariants only, it is 
+impossible to make any specific conclusions about why 
+the values of the discussed invariants are these, and not 
+
+
+any other values. Phenomenological theory quite sol- 
+idly considers the problem “how”, but is almost help- 
+less in explaining “why.” 
+
+
+The other approach, which is traditionally denoted 
+as a model approach (we believe that it is more appro- 
+priate to speak of a molecular level or approach), rests 
+on assuming a certain microscopic (molecular) model. 
+On the basis of this model, both phenomenological 
+invariants and the actual observed effects can be calcu- 
+lated. The approach may be considered fruitful when it 
+involves a minimal number of parameters, which have 
+clear physical meaning, and the predictions allowed by 
+this approach are meaningful. The major advantage of 
+this approach is the clarity of elementary physical pro- 
+cesses underlying the phenomenon. The principal 
+drawback is that it requires an a priori model. 
+
+
+The drawbacks of both approaches may be compen- 
+sated by using them together, that is, by combining 
+them. In this case, experimental data are interpreted in 
+terms of theory of the first level (i.e., in terms of phe- 
+nomenological invariants), whereas the molecular the- 
+ory is used to analyze microscopic processes and prop- 
+erties that bestow a specific value to the invariant. 
+
+
+In this study we strive to demonstrate the advan- 
+tages of the combined method by way of an example 
+involving the analysis of the contributions of polariza- 
+tions of diffuse and compact parts of the electrical dou- 
+ble layer to conductivity during electrophoresis. 
+
+
+1061-933X/94/5606-0674$12.50 © 1994 MAMK Hayxa/Interperiodica Publishing 
+
+
+ELECTROPHORESIS AND ELECTRICAL CONDUCTIVITY OF SUSPENSIONS 
+
+
+BASIC SET OF EQUATIONS 
+
+
+Consider an electrolyte of arbitrary composition, 
+which contains ions of N types with valences z, (z > 0 
+for cations and z < 0 for anions), and diffusion coeffi- 
+cients D; at concentrations C;. Within the framework of 
+the ionophoretic approach [2, 3], the equations for the 
+flux rate of liquid v, flux pressure p,, and flux chemical 
+potentials p; (these are dimensionless quantities 
+reduced to RT) are as follows 
+
+
+N 
+nrotrotv + Vp, + RTS. Cy7,V pn, = 0, 
+i=l 1 
+divv = 0, (!) 
+
+
+div[(1+y, (-D,Vu,;+v)] =9, 
+
+
+where 7 is the viscosity of liquid, and yr) is equilib- 
+rium local excess concentrations of the ions of ith type 
+with respect to bulk concentration (y; is also a dimen- 
+sionless quantity reduced to C;). 
+
+
+The approach using chemical potentials of individ- 
+ual ions is rather popular [4, 5], especially in the studies 
+of systems containing ions of more than two types. 
+However, formal usage of 1; variables is not always 
+associated with the true understanding of the physical 
+meaning of the substitution performed, or of the dra- 
+matic simplifications introduced by this substitution 
+into the initial set of electrokinetic equations. 
+
+
+The term flux quantity refers to the thermodynamic 
+force causing the associated flux. For example, the 
+electrical double layer is characterized by an equilib- 
+rium potential difference and equilibrium electric field; 
+however, they do not cause electric current. Such an 
+electric field is not a flux quantity. Polarization of the 
+double layer by some external action distorts the equi- 
+librium electric field; if this distortion gives rise to elec- 
+tric current, the corresponding component of the poten- 
+tial is a flux electric potential. 
+
+
+In the set of equations of creep flow and convective 
+diffusion (1), it is the local concentration excesses ¥; 
+that are the most physically important quantities. Stick- 
+ing to phenomenological methodology, we ignore the 
+fact that the concentrations of ions at the surface of par- 
+ticles are different from concentrations in bulk; we 
+assume that this difference does exist and is confined to 
+a relatively thin layer. 
+
+
+The procedure described in [6] makes it possible to 
+express the contribution from a thin surface layer in the 
+form of a boundary condition. Applying this procedure 
+to equations of convective diffusion in (1) reveals that 
+beyond the surface layer, the flux chemical potentials p1; 
+satisfy the Laplace equation 
+
+
+Au; = 0. (2) 
+
+
+COLLOID JOURNAL Vol. 56 No.6 1994 
+
+
+675 
+
+
+At the surface of a spherical particle of radius a, the fol- 
+lowing boundary condition holds true: 
+
+
+On, Le A 
+(-D) 571 = came ge (Ms). ) 
+Ou, 
+Js, = - ary: + W,, (4) 
+Py, = [D,@)y(@)dzx, (5) 
+
+
+0 
+
+
+where J;; is the surface flux of the ions of ith type; Ig; is 
+the weighed total excess of the ions of ith type in the 
+surface layer. These calculations are described in detail 
+in [7]; the structure and meaning of electroosmotic cor- 
+rection factors W; are also discussed there. These fac- 
+tors are significant for counterions and are always small 
+for co-ions. As demonstrated in [8], under certain con- 
+ditions, these factors may be included into Pg; as addi- 
+tional components. In this study, we ignore these 
+factors. 
+
+
+In writing expression (5) for the total excess, we 
+assume that the diffusion coefficient may be a function 
+of the distance to the surface (in the simplest case this 
+dependence may be stepwise, with the steps associated 
+with the boundaries between structural parts of the dou- 
+ble layer). However, if one assumes that the diffusion 
+coefficient is constant within the surface layer, the total 
+excess is equal to the product of diffusion coefficient by 
+dimensionless adsorption of the ions of the ith type. 
+
+
+To solve the equation of creep flow, let us make use 
+of the fact that the surface layer is thin and may be con- 
+sidered locally planar. The liquid outside the limits of 
+the surface layer satisfies Stokes’ equations 
+
+
+Nrotrotv + Vp, = 0, 
+tee: (6) 
+divv = 0. 
+The effect of surface layer is reflected in the boundary 
+conditions on the surface of a particle: 
+
+
+Vs| a9 = 9 
+| RTS oy a (7) 
+v, x= oy as an a ye 2 
+‘ > q i=] dy x=0 
+Ty, = xy@)dx (8) 
+
+
+(the details are described in [7]). The magnitude of 1; 
+given by formula (8) is the first moment of local con- 
+centration excess (adsorption is the zero moment). In 
+this formula, the lower integration limit coincides with 
+the position of the slipping plane, so that the integration 
+is performed over only the mobile part of the surface 
+layer. 
+
+
+676 
+
+
+Hence, we demonstrated that electrokinetic behav- 
+ior of a particle with a thin surface layer is described by 
+equations (2) and (6) for the bulk solution that must be 
+solved with boundary conditions (3) and (7). The effect 
+of the surface layer on electrokinetic phenomena is 
+mediated via the quantities Ty, and T',;, which are the 
+above described phenomenological invariants of the 
+theory. 
+
+
+ELECTRICAL CONDUCTIVITY 
+AND PHENOMENOLOGICAL INVARIANTS 
+
+
+To calculate electrical conductivity, let us first cal- 
+culate the distribution of flux chemical potential 1, 
+around a spherical particle placed into a homogeneous 
+flux of ions of the ith type (such a flux corresponds to 
+the wt; gradient that is uniform over a large distance 
+from the particle). Solution of the Laplace equation (2) 
+satisfying the condition 
+
+
+Vu 
+
+
+and condition (3) is 
+
+
+= A; (9) 
+
+
+roo 
+
+
+LL, = cosO(A,r+ B,/r’), (10) 
+where B; is the induced dipole moment of a particle, 
+which is given as 
+
+
+5 a°A,1—-2R, 4 
+C7 eR, ve 
+Formula (11) involves partial polarization criterion Rel; 
+(R; in abbreviated form) 
+
+R,; = [5,7 (Da), (12) 
+which actually represents the appropriately reduced 
+total excess. The physical meaning of R; is the dimen- 
+sionless partial surface conductivity of a particle with 
+respect to the ions of the ith type. 
+
+
+Variation of the flux Aj; of the ions of the ith type is 
+associated with the presence of disperse particles, 
+whose content in solution is characterized by a small 
+volume fraction a. According to [6], this variation is 
+unequivocally related to the induced dipole moment as 
+
+
+Aj, = (-3B,C;D,0) /a’. (13) 
+
+If a uniform gradient of chemical potential pL; is 
+caused by external electric field E, 
+
+A; = -z,FE/(RT), (14) 
+
+
+and the variation of electric current A/ associated with 
+
+polarization of particles is given as 
+N 3 N 
+
+AI =) z,FAj, = -5KakE 
+
+
+i=l i= 
+
+
+el = 2R;) 
+
+
+eR) 
+
+
+ZHARKIKH et al. 
+
+
+where tf, is the transport number for the ions of ith type 
+in solution, 
+
+
+N 
+i= zZiDiC/ > 7 D,C;, 
+i=l 
+
+
+and 
+
+
+= — ) 27D,C, are the conductivity of solution. 
+i=] 
+Thus, the increment to conductivity associated with 
+the disperse particles is described as 
+N 
+3 1—2R; 
+Inc = = — 5 —. 
+nc = (Al) /(KGE) 5 out FR, (16) 
+Expression (16) is identical to the equation reported 
+by O’Brien [4] for the conductivity of dilute suspen- 
+sions in an electrolyte of arbitrary composition. This is 
+not surprising, because all phenomenological theories 
+that rely on the same initial equations produce identical 
+results. Differences arise on a molecular level. 
+
+
+Thus, we established that the low-frequency limit 
+for the conductivity of a suspension is expressed in 
+terms of R;, which is the phenomenological invariant of 
+this effect. 
+
+
+ELECTROPHORESIS 
+AND PHENOMENOLOGICAL INVARIANTS 
+
+
+To calculate the rate of electrophoresis, let us make 
+use of the well-known result [9] relating the velocity of 
+electrophoresis of a sphere to the velocity of electroos- 
+motic slinpage at the equator of this particle: 
+
+
+V, == Vio 
+
+
+eph ae 3 
+
+
+(17) 
+
+
+r=a,@=n/2 
+
+
+The slippage velocity at the equator is given by the 
+combination of equations (7), (10), and (14). Finally, 
+
+
+(18) 
+
+
+N 
+FE 
+V4 = He Lael, /(1+R,). 
+i=] 
+
+
+This formula demonstrates that partial polarization 
+criteria and moments of the surface layer, which were 
+both discussed above, are the phenomenological invari- 
+ants for the description of electrophoresis. 
+
+
+THE ELECTRICAL DOUBLE LAYER 
+AS A WHOLE AND ITS’ CONSTITUENT PARTS 
+
+
+After discussing briefly the phenomenological the- 
+ory, we proceed by analyzing a molecular model that 
+allows the calculation of the required invariants. 
+
+The following models are usually considered. 
+
+
+COLLOID JOURNAL Vol. 56 No.6 1994 
+
+
+ELECTROPHORESIS AND ELECTRICAL CONDUCTIVITY OF SUSPENSIONS 
+
+
+(a) A standard electrokinetic model, in which a fixed 
+charge lies on a mathematical plane identified with the 
+surface of a particle; this charge is assumed to be 
+immobile, whereas the charge of the diffuse part of the 
+double layer is mobile. 
+
+(b) The Dukhin—Seminikhin model [10], which is 
+different from the preceding model in that the internal 
+part (adjacent to the surface of a particle) of the diffuse 
+layer is assumed to be hydrodynamically immobile. 
+
+
+(c) A model of mobile ions of the Stern layer, which 
+supplements the standard model by assuming that the 
+ions adsorbed at the surface may have a finite mobility. 
+This model was qualitatively discussed in (11, 12]. 
+Simonova and Shilov [13] used this model to elaborate a 
+quantitative theory of electrophoresis and conductivity. 
+
+
+(d) A model of a porous surface layer in which, in 
+contrast to the preceding model, the adsorbed ions are 
+assumed to stay within a layer of finite thickness [14, 15] 
+rather than on an infinitely thin plane. 
+
+
+(e) A united model may be considered that com- 
+bines all characteristic structural elements of the pre- 
+ceding models: a porous adsorbed layer of finite thick- 
+ness, a hydrodynamically immobile part of the diffuse 
+layer, and a conventional diffuse layer. 
+
+
+Figure 1 compares these models. 
+
+
+Let us examine whether it is justified to assign the 
+Stern layer a finite thickness [models (d, e)] instead of 
+identifying it with the thickness of a monolayer 
+[model (c)]. The Stern isotherm of adsorption was sug- 
+gested in electrochemistry to explain the patterns of 
+electrocapillary curves. The following specific features 
+are inherent to the corresponding experiments: the sur- 
+face (of mercury) is smooth on a molecular level, that 
+is, it has the least roughness available in nature; the sur- 
+face possesses the highest possible energetic unifor- 
+mity; the concentration of electrolyte is high (moles per 
+liter) and the diffuse double layer is very thin (almost 
+completely suppressed). 
+
+
+The combined effect of these three features makes it 
+possible to reveal the role of the structures with dimen- 
+sions on a molecular scale, that is, the role of the 
+adsorbed monolayer identified, as conceived, with the 
+Stern layer on the surface of mercury. 
+
+
+When these concepts (which are quite universal 
+from a physical point of view) are applied to colloidal 
+objects, the specific features of these objects are often 
+ignored: a molecularly smooth surface for them is an 
+exception (e.g., mica) rather than a rule; energetic uni- 
+formity of any solid surface (especially crystalline) is 
+very rare, nonuniformity associated, for example, with 
+the presence of adsorption sites being a rule; the upper 
+limit of electrolyte concentrations lies in a centimolar, 
+rarely decimolar, range, which corresponds to the 
+er ig of diffuse layer of the order of magnitude 
+of 10 A. 
+
+
+When these three specific features act together, the 
+role of the structures with molecular dimensions is 
+No. 6 
+
+
+COLLOID JOURNAL _ Vol. 56 1994 
+
+
+677 
+
+
+strongly disguised, because both the roughness of the 
+surface and the diffuse layer are the structures with super- 
+molecular dimensions. This is why, we believe, the con- 
+cept of a porous surface layer, otherwise, the Stern layer 
+of finite thickness, makes it possible to reflect the specific 
+features of the surface structure of colloidal particles with- 
+out getting involved in detailed geometrical modeling 
+(i.e., without involving the concepts of fractal surfaces). 
+
+
+BINARY ELECTROLYTE 
+
+
+Let us specify general formulas for a particular case 
+of a1: | binary electrolyte. The situation is the simplest 
+with the moments of double layer, because only the dif- 
+fuse periphery of the double layer contributes to these: 
+
+
+Tt = 41n((1 + exp(#6/2)) /2)/(ka)?, (19) 
+
+
+where € is the potential of the slipping plane and x is 
+the reciprocal radius of shielding in solution (see [7] for 
+details). 
+
+For partial surface conductivities, integral (5) gives 
+a sum over individual parts of the double layer. Denot- 
+ing the potential of the boundary of the diffuse layer 
+[which does not coincide with ¢-potential for models (c) 
+and (d)] by ws, we come to the following formula for 
+conductance of the diffuse layer (the so-called Biker- 
+man’s surface conductance) [16]: 
+
+
+R* = (exp(FWs/2) — 1)/(ka). (20) 
+
+
+We call surface conductance over other structural 
+parts of the double layer additional surface conduc- 
+tance. The corresponding calculations are described 
+in [17] for model (c) and in [18] for model (d). 
+
+
+¢-POTENTIAL 
+AND PHENOMENOLOGICAL INVARIANTS 
+
+
+Is ¢-potential a phenomenological invariant? By 
+substituting expressions (19) for the moments into elec- 
+trophoretic formula (18), one may easily show that the 
+knowledge of C-potential, which is equal to 
+
+
+=~(kay (IY -1y)/2 
+
+
+makes it possible to predict the velocity of electro- 
+phoresis only when all partial surface conductivities are 
+
+
+Eee 
+
+
+(a) (b) (c) (d) (e) 
+ms ——- 
+
+
+Fig. 1. Different models for the structure of the electrical 
+double layer as a whole. (J) The volume of dielectric imper- 
+meable to ions, (2) hydrodynamically immobile layer, 
+(3) porous adsorption layer, (4) schematic depiction of a 
+very thin adsorption layer (Stern layer), (5) outer boundary 
+of the diffuse plate. See the text for discussion. 
+
+
+678 
+
+
+0 02° 04 06 O8 10 
+D/D* 
+
+
+Fig. 2. Conductivity increment as a function of the ratio 
+between diffusion coefficients of potential-determining ions 
+
+
+(cations) in the adsorption layer Ds and in bulk solution D*. 
+
+
+(1) Gt = 1000, (2) 10000, and (3) 100000; (4) shows the 
+upper limit of the increment for unipolar surface conductivity. 
+
+
+Inc 
+0 
+-0.5 
+2 
+-1 
+1 
+- 15 
+0.0001 0.001 0.01 0.1 1 
+C, mol/l 
+
+
+Fig. 3. Conductivity increment as a function of electrolyte 
+concentration C: (7) D§/D* = 0, (2) D5/D* =0.1. 
+
+
+small. When this condition holds true, C-potential is a 
+phenomenological invariant. As is common in the 
+development of physical theory, a more general 
+approach does not eliminate one suggested earlier, but 
+specifies the range of its applicability. 
+
+
+If a more complex structural model of the double 
+layer is considered, the ¢-potential is no longer a phe- 
+nomenological invariant, even in the absence of notable 
+surface conductivities. In the Dukhin—Seminikhin 
+model, the region in which the liquid is hydrodynami- 
+cally immobile (region 2 in Fig. 1) is assumed to be 
+completely impermeable to the liquid. However, in 
+more complex studies [14, 15, 19], which predomi- 
+nantly elaborate on modeling the electrokinetic behav- 
+ior of the adsorption layers of polymers, the flow of lig- 
+uid within the layer is allowed. As demonstrated 
+in [15], in some cases, the contribution of this flow 
+may be taken into account simply by modifying formu- 
+Jas (19) for the moments. 
+
+
+ZHARKIKH et ai. 
+
+
+THIN POROUS LAYER 
+
+
+Let us consider in more detail the partial surface 
+conductivities in model (c) (Fig. 1). The basic assump- 
+tion of this model is that the adsorption of ions occurs 
+in such a thin layer that the variation of potential across 
+this layer may be ignored. In [17], where additional sur- 
+face conductivity within the framework of this model 
+was studied in detail, this property was called the iso- 
+potentiality of the adsorption layer. 
+
+
+The principal inferences made in [17] are as fol- 
+lows. Let the adsorption of ions be described by the 
+Henry—Stern equation 
+
+
+M; = GCexp(-z,6), 
+
+
+where M; is the concentration of adsorbed ions and G; 
+is the Henry constant. For the adsorbed layer of thick- 
+ness H, the potential ¢ is given by the equation 
+
+
+sinh(‘Yp — ¢) = vsinh&/2; v = 2/(KH(G*G>)!2, 
+
+
+where ‘¥, = 0.5In(G*/G-) is the Donnan potential. 
+Using these equations one may write 
+
+
+R* = (exp(¥6/2)- 1) / (ka) 
++ (H/a) (Djs/D;) Gexp(-z;$), 
+
+
+where D,; is the diffusion coefficient within the 
+adsorbed layer and D; is the diffusion coefficient in 
+bulk solution. The first term in (21) reflects the contri- 
+bution of the diffuse part of double layer (Bikerman’s 
+surface conductivity), whereas the second term corre- 
+sponds to additional surface conductivity associated 
+with the mobility of adsorbed ions. 
+
+
+Substitute (21) into formula (16) for the conductiv- 
+ity increment and analyze the result for the following 
+set of parameters: H = 1 A; Dt = D™; G* = 10000; G- = 1. 
+
+Figure 2 illustrates the variation of the increment as 
+
+
+a function of the ratio Dj: D* between diffusion coef- 
+ficients of potential-determining ions (cations, in the 
+case considered). The increment increases with an 
+increase in adsorption affinity of the cations (concomi- 
+tantly, the Donnan potential and ¢-potential also grow); 
+it is also quite sensitive to the variation of mobility of 
+potential-determining ions within the adsorption layer. 
+When this mobility increases, the increment also 
+increases, because the unipolar character of surface 
+conductance ensured by the counterions of the diffuse 
+layer is deteriorated. It was reported [6] that at any arbi- 
+trarily high unipolar surface conductance, the low-fre- 
+quency increment of conductivity cannot exceed the 
+limiting magnitude, which is equal to 0.75 (horizontal 
+line 4 in Fig. 2). The flux of adsorbed co-ions reduces 
+the concentration polarization of a particle and the 
+polarization pattern acquires the features characteristic 
+of high-frequency limit, for which the maximum incre- 
+ment is 3. 
+
+When the mobility of mobile counterions is taken 
+into account, the magnitude of the increment is affected 
+only slightly (the variation amounts to hundredths of 
+
+
+(21) 
+
+
+COLLOID JOURNAL Vol. 56 No.6 1994 
+
+
+ELECTROPHORESIS AND ELECTRICAL CONDUCTIVITY OF SUSPENSIONS 
+
+
+a fraction, which is indistinguishable on the scale of 
+Fig. 2). 
+
+Figure 3 shows the variation of the increment with 
+electrolyte concentration. As can be seen, when there is 
+no flux of the adsorbed co-ions (curve /), the increment 
+first slightly increases because of the increased charge 
+of the double layer (one should keep in mind that it is 
+the concentration of potential-determining ions that is 
+plotted on the abscissa). When the concentration is 
+increased further, the increment decreases because of 
+the increasing conductivity of bulk solution. The 
+nobility of adsorbed co-ions results in a significantly 
+greater increment, which monotonically decreases as 
+the concentration of electrolyte is increased. In this 
+case, the concentration dependence of the increment is 
+more prominent. 
+
+
+Generally, analysis of the particular case examined 
+here allows a conclusion that the conductivity incre- 
+ment is rather sensitive to the mobility of adsorbed co- 
+ions; the magnitude of this mobility can be determined 
+in complex studies involving the studies of the adsorp- 
+tion of ions and of conductivity in a wide concentration 
+range. 
+
+
+ACKNOWLEDGMENTS 
+
+
+The authors wish to thank the International Associ- 
+ation for Collaboration between the Scientists of the 
+Independent States of the Former Soviet Union and the 
+State Committee for Science and Technology of the 
+Ukraine for financial support of this study. 
+
+
+REFERENCES 
+
+
+1. Dukhin, S.S., Adv. Colloid Interface Sci., 
+p. 1. : 
+
+2. Shilov, V.N., Zharkikh, N.L, and Borkovskaya, Yu.B., 
+Kolloidn. Zh., 1985, vol. 47, p. 757. 
+
+3. Shilov, V.N., Zharkikh, N.U., and Borkovskaya, Yu.B., 
+Kolloidn. Zh., 1985, vol. 47, p. 927. 
+
+
+1993, vol. 44, 
+
+
+COLLOID JOURNAL Vol. 56 No.6 1994 
+
+
+4. 
+
+
+5. 
+
+
+. Zharkikh, 
+
+
+. Dukhin, S.S. and Seminikhin, N.M., Kolloidn. Zh., 
+
+
+. Simonova, T.S. and Shilov, V.N., Kolloidn. Zh., 
+
+
+. Ohshima, H., J. Colloid Interface Sci., 
+
+
+679 
+O’Brien, R.W., J. Colloid Interface Sci., 1983, vol. 92, 
+p. 204. 
+
+
+Kyjlstra, J., van Leuven, M.D., and Lyklema, J., 
+J. Chem. Soc., Faraday Trans. 1, 1992, vol. 88, p. 3341. 
+
+
+. Dukhin, S.S. and Shilov, V.N., Dielektricheskie Yav- 
+
+
+leniya i Dvoinoi Sloi vy Dispersnykh Sistemakh i Poliele- 
+ktrolitakh (Dielectric Phenomena and the Double Layer 
+in Disperse Systems and Polyelectrolytes), Kiev: Nauk- 
+ova Dumka, 1972. 
+
+
+N.L and -Borkovskaya, Yu.B., Fiziko- 
+Khimicheskaya Mekhanika i Liofil’nost’ Dispesnykh 
+Sistem (Physicochemical Mechanics and Lyophilicity of 
+Disperse Systems), Kiev: Naukova Dumka, 1985, 
+vol. 17, p. 76. 
+
+
+. Razilov, 1.A., Pendze, G., and Dukhin, S.S., Colloid. J., 
+
+
+1994, vol. 56, no. 5, p. 610. 
+
+
+. Dukhin, S.S. and Derjaguin, B.V., Elekrroforez (Electro- 
+
+
+phoresis), Moscow: Nauka, 1976. 
+
+
+1970, 
+vol. 32, p. 360. 
+
+
+. Dukhin, S.S., Issledovaniya v Oblasti Poverkhnostnykh 
+
+
+Sil (Studies of Surface Forces), Moscow: Nauka, 1967, 
+p. 335. 
+
+
+. Lyklema, J., Dukhin, S.S., and Shilov, V.N., J. Electroa- 
+
+
+nal. Chem., 1983, vol. 143, p. 1. 
+
+
+1986, 
+vol. 48, p. 370. 
+
+
+. Yaroshchuk, A.E., Kolloidn. Zh., 1985, vol. 47, no. 5, 
+
+
+p. 1006. 
+1994, vol. 163, 
+p. 80. 
+
+
+. Dukhin, S.S. and Derjaguin, B.V., Electrokinetic. Phe- 
+
+
+nomena, Matijevic, E., Ed., Surface Colloid Sci. Ser., 
+vol. 7, New York: Wiley, 1974. 
+
+
+. Zharkikh, N.I., Pendze, X., and Dukhin, S.S., Colloid. J., 
+
+
+1994, vol. 56, no. 5, p. 571. 
+
+
+. Zharkikh, N.I., Vincent, B., ped Dukhin, S.S., Colloid. J., 
+
+
+1994, vol. 56. 
+
+
+. Donath, E. and Pastushenko, V., Bioelectrochem. Bioen- 
+
+
+erg., 1979, vol. 6, p. 343. 
+
+

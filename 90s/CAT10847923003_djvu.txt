@@ -1,0 +1,7477 @@
+Historic,  Archive  Document 
+
+Do  not  assume  content  reflects  current 
+scientific  knowledge,  policies,  or  practices. 
+
+
+United  States 
+(ii  * jjn  Department  of 
+w Agriculture 
+
+
+Soil 
+
+Conservation 
+
+Service 
+
+
+Washington 
+Basin  Outlook  Report 
+March  1, 1993 
+
+
+Basin  Outlook  Reports 
+
+and 
+
+Federal  - State  - Private 
+Cooperative  Snow  Surveys 
+
+For  more  water  supply  and  resource  management  information,  contact: 
+
+LOCAL  SOIL  CONSERVATION  SERVICE  FIELD  OFFICE  or  William  Weller 
+
+Water  Supply  Specialist 
+Soil  Conservation  Service 
+W.  316  Boone  Ave. ; Suite  450 
+Spokane,  WA  99201-2348 
+(509)  353-2341 
+
+
+How  forecasts  are  made 
+
+Most  of  the  annual  streamflow  in  the  Western  United  States  originates  as  snowfall  that 
+has  accumulated  high  in  the  mountains  during  winter  and  early  spring.  As  the  snowpack 
+accumulates,  hydrologists  estimate  the  runoff  that  will  occur  when  it  melts.  Predictions  are 
+based  on  careful  measurements  of  snow  water  equivalent  at  selected  index  points. 
+Precipitation,  temperature,  soil  moisture  and  antecedent  streamflow  data  are  combined  with 
+snowpack  data  to  prepare  runoff  forecasts.  Streamflow  forecasts  are  coordinated  by  Soii 
+Conservation  Service  and  National  Weather  Service  hydrologists.  This  report  presents  a 
+comprehensive  picture  of  water  suppiy  conditions  for  areas  dependent  upon  surface  runoff. 
+
+It  includes  selected  streamflow  forecasts,  summarized  snowpack  and  precipitation  data, 
+reservoir  storage  data,  and  narratives  describing  current  conditions. 
+
+Snowpack  data  are  obtained  by  using  a combination  of  manual  and  automated  SNOTEL 
+measurement  methods.  Manual  readings  of  snow  depth  and  water  equivalent  are  taken  at  j 
+locations  called  snow  courses  on  a monthly  or  semi-monthly  schedule  during  the  winter.  In 
+addition,  snow  water  equivalent,  precipitation  and  temperature  are  monitored  on  a daily  basis 
+and  transmitted  via  meteor  burst  telemetry  to  central  data  collection  facilities.  Both  monthly  | 
+and  daily  data  are  used  to  project  snowmelt  runoff. 
+
+Forecast  uncertainty  originates  from  two  sources:  (1)  uncertainty  of  future  hydrologic  and 
+climatic  conditions,  and  (2)  error  in  the  forecasting  procedure.  To  express  the  uncertainty  in 
+the  most  probable  forecast,  four  additional  forecasts  are  provided.  The  actual  streamflow 
+can  be  expected  to  exceed  the  most  probable  forecast  50%  of  the  time.  Similarly,  the  actual 
+streamflow  volume  can  be  expected  to  exceed  the  90%  forecast  volume  90%  of  the  time.  The 
+same  is  true  for  the  70%,  30%,  and  10%  forecasts.  Generally,  the  90%  and  70%  forecasts 
+reflect  drier  than  normal  hydrologic  and  climatic  conditions;  the  30%  and  10%  forecasts 
+reflect  wetter  than  normal  conditions.  As  the  forecast  season  progresses,  a greater  portion 
+of  the  future  hydrologic  and  climatic  uncertainty  will  become  known  and  the  additional 
+forecasts  will  move  closer  to  the  most  probable  forecast. 
+
+y 
+
+
+All  programs  and  services  of  the  USDA  Soil  Conservation  Service  are  offered  on  a nondiscriminatory  basis, 
+without  regard  to  race,  color,  national  origin,  religion,  sex,  age,  marital  status,  or  handicap. 
+
+
+Washington 
+Water  Supply  Outlook 
+
+March  1993 
+
+
+General  Outlook 
+
+MARCH  1,  1993:  Major  changes  in  the  weather  have  occurred  since  the 
+first  of  January,  with  cold  and  dry  being  the  norm.  February 
+precipitation  was  20%  of  normal  state  wide,  and  varied  from  56%  of 
+average  in  the  Walla  Walla  Basin  to  5%  in  the  North  Puget  Basin. 
+Year-to-date  precipitation  varies  from  88%  in  the  Walla  Walla  to  61% 
+in  the  North  Puget  Basin.  Forecasts  for  1993  runoff  vary  from  106%  of 
+average  for  the  Grande  Ronde  River  to  59%  for  the  Similkameen  River. 
+The  snowpack  varies  from  57%  in  the  Olympic  Basin  to  122%  in  the  Walla 
+Walla  Basin.  Washington  SNOTEL  sites  averaged  86%  of  normal  snowpack 
+on  March  1,  Down  from  105%  on  February  1 (By  March  8,  the  statewide 
+average  was  87%) . February  temperatures  were  below  normal  and  varied 
+from  one  degree  below  in  the  White-Green  Basin  to  11  degrees  below  in 
+the  Walla  Walla  Basin.  With  the  below  normal  temperatures  in  February, 
+streamflows  varied  from  91%  of  normal  on  the  Kettle  River  to  21%  on 
+the  Walla  Walla  River.  March  1 reservoir  storage  is  generally  poor 
+throughout  the  state,  with  reservoirs  in  the  Yakima  Basin  at  38%  of 
+average  and  25%  of  capacity. 
+
+
+Snowpack 
+
+The  March  1 SNOTEL  reading  showed  the  snowpack  to  be  86%  of  average. 
+Snowpack  continues  to  vary  over  the  state.  The  Colville  River  Basin 
+had  108%  of  average,  and  the  Walla  Walla  Basin  had  the  highest  with 
+122%  of  normal.  The  North  Puget  River  Basins  had  62%  of  average.  The 
+Olympic  Peninsula  rivers  were  the  lowest  with  57%  of  normal.  Snowpack 
+along  the  east  slopes  of  the  Cascade  Mountains  includes  the  Yakima 
+with  76%  down  from  95%  last  month,  and  the  Wenatchee  73%,  down  from 
+89%.  Snowpack  in  the  Okanogan  is  at  85%,  down  from  98%,  and  the 
+Spokane  Basin  at  90%,  down  from  108%.  Maximum  snow  cover  is  at 
+Paradise  on  Mount  Rainier,  with  a water  content  of  45.2  inches.  This 
+site  would  normally  have  47.9  inches  of  water  content  on  March  1. 
+
+
+Precipitation 
+
+February  precipitation  reported  from  National  Weather  Service  stations 
+was  20%  of  average  statewide.  The  year-to-date  precipitation 
+statewide  is  72%  and  varied  from  88%  of  normal  in  the  Walla  Walla 
+Basin,  to  61%  in  the  North  Puget  Basin.  February  precipitation  varied 
+from  5%  of  average  in  the  North  Puget  Basin,  to  88%  in  the  Walla  Walla 
+Basin.  SNOTEL  sites  in  Washington  showed  high  elevation  year-to-date 
+precipitation  values  to  be  72%.  Maximum  year-to-date  precipitation 
+was  at  the  June  Lake  SNOTEL  site  near  Mt.  St.  Helens,  with  75.1  inches 
+since  October  1,  1992;  normal  for  this  site  is  99.4  inches. 
+
+
+Reservoir 
+
+
+Reservoir  storage  in  Washington  is  much  below  average  for  March  1. 
+Cold  weather  has  reduced  the  streamflow  entering  the  reservoirs. 
+Reservoir  storage  in  the  Yakima  Basin  was  261,500  acre  feet,  38%  of 
+normal.  Storage  at  other  reservoirs  include  Roosevelt  at  94%  of 
+average,  and  the  Okanogan  reservoirs  at  92%  of  normal  for  March  1 . 
+The  power  generation  reservoirs  contain  the  following:  Coeur  d'Alene 
+Lake,  39,600  acre  feet,  or  27%  of  normal;  Chelan  Lake,  160,500  acre 
+feet,  95%  of  average  and  24%  of  capacity,  and  Ross  Lake  at  197%  of 
+average,  and  43%  of  capacity. 
+
+
+Streamflow 
+
+February  streamflows  were  below  average  in  Washington.  The  Kettle 
+River  at  91%  was  the  highest  and  the  South  Fork  Walla  Walla  River  with 
+21%,  was  the  lowest  in  the  state.  Other  streamflows  were  the 
+following  percentage  of  normal:  the  Lewis  River,  28%;  the  Okanogan 
+River,  61%;  the  Spokane  River,  36%;  the  Columbia  at  the  Canadian 
+border,  64%,.  and  the  Yakima  River  at  Kiona,  47%.  Forecasts  for 
+summer  streamflow  are  for  much  below-to-near  average  and  vary  from 
+106%  of  average  for  the  Grande  Ronde  River  to  59%  of  normal  for  the 
+Similkameen  River.  March  forecasts  for  some  west  side  streams 
+include:  Cedar  River,  83%;  Green  River,  81%;  and  the  Dungeness  River, 
+75%.  Some  east  side  streams  include  the  Yakima  River  at  Parker,  67%; 
+the  Stemilt,  83%;  the  Chelan  River,  70%  and  the  Colville  River,  81%. 
+
+
+Other 
+
+Some  water  saving  hints  have  been  enclosed  near  the  end  of  the 
+bulletin  for  irrigators  and  ranchers 
+
+
+For  wore  t^/7na/io/i  cort/ac?^^GMr  /ocai  Soil  Conservation  Service  office. 
+
+
+2 
+
+
+SOURCE:  Data  eompll*d  by  SCS 
+
+FUld  PtrtonntL  JANUARV  19*6  4-R-39<4l 
+
+
+U.S.  OEPARTUENTOF  AORICUITURE  SOIL  CONSERVATION  SERVICE 
+
+
+LOST  - DATA  CURRENT  AS  OFi  3/  4/93  14:28tl 
+
+
+BASIN  SUMMARY  OF 
+SNOW  COURSE  DATA 
+MARCH  1993 
+
+
+SNOW  COURSE 
+
+ELEVATION 
+
+DATE 
+
+SNOW 
+
+DEPTH 
+
+WATER 
+
+CONTENT 
+
+LAST 
+
+YEAR 
+
+AVERAGE 
+
+1961-90 
+
+SNOW  COURSE 
+
+ELEVATION 
+
+DATE 
+
+SNOW 
+
+DEPTH 
+
+WATER 
+
+CONTENT 
+
+LAST 
+
+YEAR 
+
+AVERAGE 
+
+1961-90 
+
+PEND  OREILLE  RIVER 
+
+YAKIMA  RIVER 
+
+BENTON  MEADOW 
+
+2370 
+
+2/25/93 
+
+26 
+
+8.1 
+
+.0 
+
+5.9 
+
+AKTANUM  R.S. 
+
+3100 
+
+3/01/93 
+
+34 
+
+11.2 
+
+2.4 
+
+6.8 
+
+BENTON  SPRING 
+
+4920 
+
+2/25/93 
+
+46 
+
+14.2 
+
+12.6 
+
+16.7 
+
+BLEWETT  PAESI2PILLOW 
+
+4270 
+
+3/01/93 
+
+
+
+11. 2S 
+
+10.4 
+
+17.0 
+
+BOYER  MOUNTAIN 
+
+5250 
+
+2/25/93 
+
+56 
+
+17.2 
+
+17.7 
+
+21.6 
+
+BUMPING  LAKE 
+
+3450 
+
+2/24/93 
+
+31 
+
+10.1 
+
+6.8 
+
+14.0 
+
+BUNCHGRASS  MEADOWS 
+
+5000 
+
+2/25/93 
+
+64 
+
+16.8 
+
+22.5 
+
+26.6 
+
+BUMPING  LAKE 
+
+(NEW) 
+
+3400 
+
+2/24/93 
+
+36 
+
+12.4 
+
+8.6 
+
+17.6 
+
+BUNCHGRASS  MDWPILLOW 
+
+5000 
+
+3/01/93 
+
+— 
+
+16.9 
+
+21.5 
+
+22.7 
+
+BUMPING  RIDGE 
+
+PILLOW 
+
+4600 
+
+3/01/93 
+
+
+
+17. 2B 
+
+17.9 
+
+16.4 
+
+CHEWALAH 
+
+4930 
+
+2/25/93 
+
+50 
+
+13.4 
+
+13.0 
+
+13.5 
+
+CAYUSE  PASS 
+
+5300 
+
+3/01/93 
+
+
+
+53. 6B 
+
+49.7 
+
+65.3 
+
+HOODOO  BASIN 
+
+6050 
+
+3/01/93 
+
+28. 8E 
+
+35.5 
+
+42.7 
+
+CORRAL  PASS 
+
+PILLOW 
+
+6000 
+
+3/01/93 
+
+
+
+21. 3S 
+
+27.5 
+
+27.6 
+
+HOODOO  CREEK 
+
+5900 
+
+3/01/93 
+
+— 
+
+25. OB 
+
+31.5 
+
+39.2 
+
+FISH  LAKE 
+
+3370 
+
+2/24/93 
+
+56 
+
+20.7 
+
+23.4 
+
+29.3 
+
+NELSON  CAN. 
+
+3100 
+
+2/24/93 
+
+43 
+
+12.3 
+
+12.2 
+
+14.3 
+
+FISH  LAKE 
+
+PILLOW 
+
+3370 
+
+3/01/93 
+
+
+
+18. 6S 
+
+21.0 
+
+26.4 
+
+KETTLE  RIVER 
+
+GREEN  LAKE 
+
+6000 
+
+3/01/93 
+
+63 
+
+23.7 
+
+19.3 
+
+29.1 
+
+BARNES  CREEK  CAN. 
+
+5300 
+
+2/25/93 
+
+54 
+
+17,3 
+
+18.2 
+
+17.2 
+
+GREEN  LAKE 
+
+PILLOW 
+
+6000 
+
+3/01/93 
+
+
+
+16. 8S 
+
+14.4 
+
+17.5 
+
+BIG  WHITE  MTN  CAN. 
+
+5510 
+
+2/26/93 
+
+50 
+
+14.6 
+
+14.9 
+
+16.3 
+
+GROUSE  CAMP 
+
+PILLOW 
+
+5380 
+
+3/01/93 
+
+- 
+
+12.56 
+
+17.9 
+
+17.1 
+
+CARMI  CAN. 
+
+4100 
+
+2/26/93 
+
+28 
+
+6.8 
+
+3.9 
+
+6.1 
+
+DOMMERIE  FLATS 
+
+2200 
+
+2/23/93 
+
+15 
+
+5.6 
+
+.0 
+
+7.7 
+
+FARRON  CAM. 
+
+4000 
+
+2/26/93 
+
+40 
+
+10.3 
+
+9.6 
+
+12.4 
+
+MORSE  LAKE 
+
+PILLOW 
+
+5400 
+
+3/01/93 
+
+... 
+
+31. 7S 
+
+44.5 
+
+36.5 
+
+GOAT  CREEK 
+
+3600 
+
+2/24/93 
+
+30 
+
+6.6 
+
+4.6 
+
+6.4 
+
+OLALLIB  MDWS 
+
+PILLOW 
+
+3960 
+
+3/01/93 
+
+— 
+
+31. 4S 
+
+29.3 
+
+44.6 
+
+MONASHEE  PASS  CAN. 
+
+4500 
+
+2/25/93 
+
+40 
+
+12.4 
+
+12.2 
+
+12.2 
+
+OLALLIB  MEADOWS 
+
+3630 
+
+3/01/93 
+
+34 
+
+16.9 
+
+12.1 
+
+38.7 
+
+SUMMIT  G.8. 
+
+4600 
+
+2/24/93 
+
+39 
+
+8.8 
+
+7.3 
+
+7.1 
+
+SASSB  RIDGE 
+
+PILLOW 
+
+4200 
+
+3/01/93 
+
+... 
+
+24. OS 
+
+26.0 
+
+27.4 
+
+TRAPPING  CK  LOW  CAM. 
+
+3050 
+
+2/28/93 
+
+20 
+
+5.3 
+
+2.6 
+
+5.1 
+
+STAMPEDE  PASS 
+
+PILLOW 
+
+3860 
+
+3/01/93 
+
+— 
+
+29. 2S 
+
+30.0 
+
+38.2 
+
+COLVILLE  RIVER 
+
+TUNNEL  AVENUE 
+
+2450 
+
+2/23/93 
+
+40 
+
+13.9 
+
+5.0 
+
+19.2 
+
+CHEWALAH 
+
+4930 
+
+2/25/93 
+
+50 
+
+13.4 
+
+13.0 
+
+13.5 
+
+WHITE  PASS  BS 
+
+PILLOW 
+
+4500 
+
+3/01/93 
+
+... 
+
+17. 5E 
+
+14.4 
+
+20.7 
+
+TOGO 
+
+3370 
+
+2/26/93 
+
+41 
+
+11.2 
+
+6.8 
+
+9.3 
+
+AHTANUM  CREEK 
+
+OMAK  LAKE,  TWIN  LAKES 
+
+AHTANUM  R.S. 
+
+3100 
+
+3/01/93 
+
+34 
+
+11.2 
+
+2.4 
+
+6.8 
+
+SPOKANE  RIVER 
+
+GREEN  LAKE  ^ 
+
+6000 
+
+3/01/93 
+
+63 
+
+23.7 
+
+19.3 
+
+29.1 
+
+FOURTH  OF  JULY  SUM 
+
+3200 
+
+2/23/93 
+
+42 
+
+11.6 
+
+.0 
+
+8.4 
+
+GREEN  LAKE 
+
+PILLOW 
+
+6000 
+
+3/01/93 
+
+... 
+
+16. 6S 
+
+14.4 
+
+17.5 
+
+LOST  LAKE  (d) 
+
+6110 
+
+3/01/93 
+
+— 
+
+34. 8B 
+
+43.5 
+
+47.2 
+
+MILL  CREEK 
+
+MOSQUITO  RDG  PILLOW 
+
+5200 
+
+3/01/93 
+
+— 
+
+22.5 
+
+30.9 
+
+32.2 
+
+HIGH  RIDGE 
+
+PILLOW 
+
+4980 
+
+3/01/93 
+
+— 
+
+25. OS 
+
+13.3 
+
+21.6 
+
+SUNSET 
+
+5540 
+
+2/25/93 
+
+58 
+
+16.6 
+
+22.9 
+
+30.8 
+
+TOUCHET  12 
+
+PILLOW 
+
+5530 
+
+3/01/93 
+
+... 
+
+27.6 
+
+21.9 
+
+27.8 
+
+SUNSET  PILLOW 
+
+5540 
+
+3/01/93 
+
+— 
+
+21.0 
+
+28.5 
+
+32.0 
+
+LEWIS  - COWLITZ  1 
+
+RIVERS 
+
+NEWMAN  LAKE 
+
+CAYUSE  PASS 
+
+5300 
+
+3/01/93 
+
+— 
+
+53. 8E 
+
+49.7 
+
+65.3 
+
+QUARTZ  PEAK  PILLOW 
+
+4700 
+
+3/01/93 
+
+— 
+
+17.4 
+
+13.3 
+
+18.6 
+
+JUNE  LAKE 
+
+PILLOW 
+
+3200 
+
+3/01/93 
+
+— 
+
+43. IS 
+
+1.9 
+
+33.6 
+
+RAGGED  RIDGE 
+
+3330 
+
+2/26/93 
+
+39 
+
+12.0 
+
+.0 
+
+7.4 
+
+LONE  PINE 
+
+PILLOW 
+
+3800 
+
+3/01/93 
+
+... 
+
+25.56 
+
+14.1 
+
+28.1 
+
+OKANOGAN  RIVER 
+
+PARADISE  PARK 
+
+PILLOW 
+
+5500 
+
+3/01/93 
+
+... 
+
+45. 2S 
+
+54.1 
+
+47.9 
+
+ABERDEEN  LAKE  CAM. 
+
+4300 
+
+2/26/93 
+
+27 
+
+6.0 
+
+3.9 
+
+5.9 
+
+PIGTAIL  PEAK 
+
+PILLOW 
+
+5900 
+
+3/01/93 
+
+... 
+
+28.  IE 
+
+38.6 
+
+41.0 
+
+BLACKWALL  PEAK  CAM. 
+
+6370 
+
+3/01/93 
+
+— 
+
+17.7 
+
+26.4 
+
+29.6 
+
+POTATO  HILL 
+
+PILLOW 
+
+4500 
+
+3/01/93 
+
+... 
+
+21. OS 
+
+15.8 
+
+21.9 
+
+BRENDA  MINE  CAN. 
+
+4800 
+
+2/25/93 
+
+39 
+
+10.3 
+
+8.5 
+
+11.9 
+
+SHEEP  CANYON 
+
+PILLOW 
+
+4050 
+
+3/01/93 
+
+... 
+
+35. 8S 
+
+9.4 
+
+30.1 
+
+BROOKMBRE  CAN. 
+
+3200 
+
+2/26/93 
+
+20 
+
+4.7 
+
+4.6 
+
+6.0 
+
+SPENCER  MDW 
+
+PILLOW 
+
+3400 
+
+3/01/93 
+
+— 
+
+28. OS 
+
+6.4 
+
+27.2 
+
+ENDERBY  CAM. 
+
+6200 
+
+2/27/93 
+
+78 
+
+25.6 
+
+28.7 
+
+32.6 
+
+SPIRIT  LAKE 
+
+PILLOW 
+
+3100 
+
+3/01/93 
+
+— 
+
+11.26 
+
+.0 
+
+6.6 
+
+ESPERON  CK.  UP  CAM. 
+
+5410 
+
+2/28/93 
+
+46 
+
+14.4 
+
+13.1 
+
+15.7 
+
+SURPRISE  LKS 
+
+PILLOW 
+
+4250 
+
+3/01/93 
+
+... 
+
+35. 8S 
+
+27.4 
+
+37.5 
+
+FREEZEOUT  CK.  TRAIL 
+
+3500 
+
+2/26/93 
+
+23 
+
+7.2 
+
+7.3 
+
+11.1 
+
+WHITE  PASS  BS 
+
+PILLOW 
+
+4500 
+
+3/01/93 
+
+— 
+
+17. 5E 
+
+14.4 
+
+20.7 
+
+GREYBACK  RES  CAM. 
+
+5120 
+
+2/25/93 
+
+34 
+
+8.3 
+
+6.4 
+
+7.8 
+
+WHITE  RIVER 
+
+HAMILTON  HILL  CAN. 
+
+4890 
+
+2/28/93 
+
+37 
+
+10.7 
+
+10.2 
+
+13.7 
+
+CAYUSE  PASS 
+
+5300 
+
+3/01/93 
+
+— 
+
+53. 8E 
+
+49.7 
+
+65.3 
+
+HARTS  PASS 
+
+6500 
+
+2/25/93 
+
+69 
+
+23.4 
+
+35.1 
+
+36.2 
+
+CORRAL  PASS 
+
+6000 
+
+3/01/93 
+
+... 
+
+26. 2E 
+
+— 
+
+33.9 
+
+HARTS  PASS  PILLOW 
+
+6500 
+
+3/01/93 
+
+— 
+
+23. 5E 
+
+40.2 
+
+34.6 
+
+CORRAL  PASS 
+
+PILLOW 
+
+. 6000 
+
+3/01/93 
+
+... 
+
+21. 3S 
+
+27.5 
+
+27.6 
+
+ISINTOK  LAKE  CAN. 
+
+5500 
+
+2/25/93 
+
+31 
+
+7.4 
+
+4.6 
+
+6.8 
+
+MORSE  LAKE 
+
+PILLOW 
+
+5400 
+
+3/01/93 
+
+... 
+
+31. 7S 
+
+44.5 
+
+38.5 
+
+LIGHTNING  LAKE  CAM. 
+
+4000 
+
+2/27/93 
+
+24 
+
+6.8 
+
+9.1 
+
+11.9 
+
+GREEN  RIVER 
+
+LOST  HORSE  MTN  CAM. 
+
+6300 
+
+3/01/93 
+
+29 
+
+6.7 
+
+6.5 
+
+6.1 
+
+COUGAR  MTN. 
+
+PILLOW 
+
+3200 
+
+3/01/93 
+
+... 
+
+15. 8S 
+
+.0 
+
+18.6 
+
+MCCULLOCH  CAN. 
+
+4200 
+
+2/23/93 
+
+32 
+
+8.2 
+
+4.3 
+
+6.4 
+
+GRASS  MOUNTAIN  12 
+
+2900 
+
+3/02/93 
+
+16 
+
+7.2 
+
+.0 
+
+13.9 
+
+MISSEZULA  MTN  CAM. 
+
+5090 
+
+2/27/93 
+
+27 
+
+6.8 
+
+6.7 
+
+9.0 
+
+LESTER  CREEK 
+
+3100 
+
+3/02/93 
+
+51 
+
+17.2 
+
+6.8 
+
+17.7 
+
+MISSION  CREEK  CAM. 
+
+5800 
+
+3/02/93 
+
+48 
+
+14.7 
+
+15.0 
+
+17.2 
+
+LYNN  LAKE 
+
+4000 
+
+3/02/93 
+
+45 
+
+18.7 
+
+6.5 
+
+16.0 
+
+MONASHEE  PASS  CAM. 
+
+4500 
+
+2/25/93 
+
+40 
+
+12.4 
+
+12.2 
+
+12.2 
+
+SAWMILL  RIDGE 
+
+4700 
+
+3/02/93 
+
+57 
+
+21.8 
+
+16.8 
+
+29.7 
+
+MT.  KOBAU  CAM. 
+
+5900 
+
+2/27/93 
+
+39 
+
+10.9 
+
+9.3 
+
+10.7 
+
+STAMPEDE  PASS 
+
+PILLOW 
+
+3660 
+
+3/01/93 
+
+... 
+
+29. 2S 
+
+30.0 
+
+38.2 
+
+HUTTON  CREEK  tl 
+
+5700 
+
+3/03/93 
+
+41 
+
+11.0 
+
+10.9 
+
+11.4 
+
+TWIN  CAMP 
+
+4100 
+
+3/02/93 
+
+58 
+
+22.0 
+
+16.3 
+
+21.6 
+
+OYAMA  LAKE  CAM. 
+
+4400 
+
+2/27/93 
+
+30 
+
+7.4 
+
+4.2 
+
+6.1 
+
+CEDAR  RIVER 
+
+POSTILL  LAKE  CAM. 
+
+4500 
+
+2/26/93 
+
+33 
+
+7.2 
+
+6.1 
+
+7.4 
+
+CITY  CABIN 
+
+2390 
+
+2/26/93 
+
+27 
+
+10.9 
+
+.0 
+
+12.3 
+
+rusty  creek 
+
+4000 
+
+3/03/93 
+
+23 
+
+6.1 
+
+4.5 
+
+6.2 
+
+MT.  GARDNER 
+
+3300 
+
+2/26/93 
+
+33 
+
+13.3 
+
+.0 
+
+14.2 
+
+SALMON  MDWS  PILLOW 
+
+4500 
+
+3/01/93 
+
+— 
+
+8. OS 
+
+9.4 
+
+8.3 
+
+SNOQUALMIE  RIVER 
+
+SILVER  STAR  MTN  CAN. 
+
+6000 
+
+2/28/93 
+
+68 
+
+24.6 
+
+21.4 
+
+24.3 
+
+ALPINE  MEADOWS 
+
+3500 
+
+2/26/93 
+
+62 
+
+36. 9E 
+
+13.4 
+
+33.8 
+
+SUMMERLAMD  RES  CAM. 
+
+4200 
+
+2/24/93 
+
+33 
+
+8.4 
+
+6.5 
+
+8.7 
+
+OLALLIB  MDWS 
+
+PILLOW 
+
+3960 
+
+3/01/93 
+
+- — 
+
+31. 4S 
+
+29.3 
+
+44.6 
+
+SUNDAY  SUMMIT  CAN. 
+
+4300 
+
+2/27/93 
+
+21 
+
+4.6 
+
+3.5 
+
+5.5 
+
+OLALLIB  MEADOWS 
+
+3630 
+
+3/01/93 
+
+34 
+
+16.9 
+
+12.1 
+
+38.7 
+
+trout  creek  can. 
+
+4690 
+
+2/26/93 
+
+28 
+
+6.9 
+
+4.3 
+
+6.7 
+
+SKYKOMISH  RIVER 
+
+VASEUX  CREEK  CAN. 
+
+4600 
+
+2/26/93 
+
+24 
+
+5.7 
+
+5.0 
+
+5.9 
+
+STAMPEDE  PASS 
+
+PILLOW 
+
+3660 
+
+3/01/93 
+
+... 
+
+29. 2S 
+
+30.0 
+
+38.2 
+
+WHITE  ROCKS  MTN  CAN. 
+
+6000 
+
+3/01/93 
+
+49 
+
+15.4 
+
+18.4 
+
+20.0 
+
+STEVENS  PASS 
+
+PIUX)W 
+
+4070 
+
+3/01/93 
+
+- — 
+
+26. 6S 
+
+32.6 
+
+34.7 
+
+METHOW  RIVER 
+
+STEVENS  PASS  SAND  SD 
+
+3700 
+
+2/26/93 
+
+57 
+
+20.3 
+
+22.0 
+
+31.1 
+
+HARTS  PASS 
+
+6500 
+
+2/25/93 
+
+69 
+
+23.4 
+
+35.1 
+
+36.2 
+
+SKAGIT  RIVER 
+
+HARTS  PASS  PILLOW 
+
+6500 
+
+3/01/93 
+
+— 
+
+23. 5E 
+
+40.2 
+
+34.6 
+
+BEAVER  CREEK  TRAIL 
+
+2200 
+
+2/27/93 
+
+37 
+
+12.5 
+
+1.7 
+
+12.6 
+
+MUTTON  CREEK  11 
+
+5700 
+
+3/03/93 
+
+41 
+
+11.0 
+
+10.9 
+
+11.4 
+
+BEAVER  PASS 
+
+3680 
+
+2/26/93 
+
+43 
+
+15.6 
+
+16.2 
+
+25.1 
+
+RUSTY  CREEK 
+
+4000 
+
+3/03/93 
+
+23 
+
+6.1 
+
+4.5 
+
+6.2 
+
+BROWN  TOP 
+
+AM 
+
+6000 
+
+2/26/93 
+
+87 
+
+31.0 
+
+47.0 
+
+51.9 
+
+SALMON  MDWS  PILLOW 
+
+4500 
+
+3/01/93 
+
+— 
+
+8. OS 
+
+9.4 
+
+6.3 
+
+DEVILS  PARK 
+
+5900 
+
+2/25/93 
+
+62 
+
+21.2 
+
+36.2 
+
+36.9 
+
+CHELAN  LAKE  BASIN 
+
+FREEZEOUT  CK. 
+
+TRAIL 
+
+3500 
+
+2/26/93 
+
+23 
+
+7.2 
+
+7.3 
+
+11.1 
+
+LYMAN  LAKE  PILLOW 
+
+5900 
+
+3/01/93 
+
+— 
+
+29. 5E 
+
+56.7 
+
+48.4 
+
+HARTS  PASS 
+
+6500 
+
+2/25/93 
+
+69 
+
+23.4 
+
+35.1 
+
+36.2 
+
+MINERS  RIDGE  PILLOW 
+
+6200 
+
+3/01/93 
+
+
+
+28. 3S 
+
+-- 
+
+HARTS  PASS 
+
+PILLOW 
+
+6500 
+
+3/01/93 
+
+... 
+
+23. 5B 
+
+40.2 
+
+34.6 
+
+PARK  CK  RIDGE  PILLOW 
+
+4600 
+
+3/01/93 
+
+- — 
+
+26. IE 
+
+47.9 
+
+40.6 
+
+KLESILKWA 
+
+CAM. 
+
+3710 
+
+2/23/93 
+
+21 
+
+6.9 
+
+2.8 
+
+11.4 
+
+RAINY  PASS 
+
+4760 
+
+2/25/93 
+
+56 
+
+19.2 
+
+35.8 
+
+33.4 
+
+LIGHTNING  LAKE  CAN. 
+
+4000 
+
+2/27/93 
+
+24 
+
+6.8 
+
+9.1 
+
+11.9 
+
+RAINY  PASS  PILLOW 
+
+4780 
+
+3/01/93 
+
+
+
+20. 8S 
+
+39.6 
+
+32.7 
+
+LYMAN  LAKE 
+
+PILLOW 
+
+5900 
+
+3/01/93 
+
+— 
+
+29. 5E 
+
+56.7 
+
+48.4 
+
+ENTIAT  RIVER 
+
+MEADOWS  CABIN 
+
+1900 
+
+2/27/93 
+
+16 
+
+5.0 
+
+.0 
+
+6.2 
+
+BRIEF 
+
+1600 
+
+2/22/93 
+
+23 
+
+6.9 
+
+.0 
+
+6.9 
+
+NEW  HOZQMBBN  LAKE 
+
+2800 
+
+2/26/93 
+
+26 
+
+7.2 
+
+4.3 
+
+10.9 
+
+POPE  RIDGE  PILLOW 
+
+3540 
+
+3/01/93 
+
+— 
+
+11. 4S 
+
+16.7 
+
+16.7 
+
+RAINY  PASS 
+
+4760 
+
+2/25/93 
+
+56 
+
+19.2 
+
+35.8 
+
+33.4 
+
+WENATCHEE  RIVER 
+
+RAINY  PASS 
+
+PILLOW 
+
+4760 
+
+3/01/93 
+
+— 
+
+20. 6S 
+
+39.6 
+
+32.7 
+
+BERME'MILL  CREEK  (d) 
+
+3170 
+
+2/26/93 
+
+53 
+
+19.0 
+
+16.6 
+
+24.7 
+
+THUNDER  BASIN 
+
+4200 
+
+2/27/93 
+
+39 
+
+12.6 
+
+17.8 
+
+16.5 
+
+BLEHBTT  PASSI2PILLOW 
+
+4270 
+
+3/01/93 
+
+— 
+
+11. 2S 
+
+10.4 
+
+17.0 
+
+BAKER  RIVER 
+
+CHIWAUKUM  G.S. 
+
+2500 
+
+2/26/93 
+
+25 
+
+7.5 
+
+5.1 
+
+10.7 
+
+DOCK  BUTTE 
+
+AM 
+
+3600 
+
+2/24/93 
+
+74 
+
+30.0 
+
+43.0 
+
+56.1 
+
+FISH  LAKE  PILLOW 
+
+3370 
+
+3/01/93 
+
+— 
+
+18. 6S 
+
+21.0 
+
+26.4 
+
+EASY  PASS 
+
+AM 
+
+5200 
+
+2/24/93 
+
+68 
+
+29.0 
+
+69.0 
+
+64.5 
+
+LYMAN  LAKE  PILLOW 
+
+5900 
+
+3/01/93 
+
+— 
+
+29. 5E 
+
+56.7 
+
+48.4 
+
+JASPER  PASS 
+
+AM 
+
+5400 
+
+2/24/93 
+
+102 
+
+40.0 
+
+79.0 
+
+75.0 
+
+MERRITT 
+
+2140 
+
+2/26/93 
+
+29 
+
+10.4 
+
+4.1 
+
+14.4 
+
+MARTEN  LAKE 
+
+AM 
+
+3600 
+
+2/24/93 
+
+62 
+
+31.0 
+
+57.0 
+
+63.6 
+
+MISSION  RIDGE 
+
+5000 
+
+2/23/93 
+
+51 
+
+14.1 
+
+11.6 
+
+14.0 
+
+MT.  BLUM 
+
+AM 
+
+5800 
+
+2/24/93 
+
+82 
+
+28.0 
+
+56.0 
+
+55.9 
+
+STEVENS  PASS  PILLOW 
+
+4070 
+
+3/01/93 
+
+— 
+
+26. 6S 
+
+32.6 
+
+34.7 
+
+ROCKY  CREEK 
+
+AM 
+
+2100 
+
+2/24/93 
+
+80 
+
+29.0 
+
+9.0 
+
+25.2 
+
+STEVENS  PASS  SAND  SD 
+
+3700 
+
+2/26/93 
+
+57 
+
+20.3 
+
+22.0 
+
+31.1 
+
+SCHREIBBRS  MDW  AM 
+
+3400 
+
+2/24/93 
+
+66 
+
+26.0 
+
+39.0 
+
+47.9 
+
+TROUGH  12  PILLOW 
+
+5310 
+
+3/01/93 
+
+. — 
+
+9. OS 
+
+7.4 
+
+9.0 
+
+SF  THUNDER  CK 
+
+AH 
+
+2200 
+
+2/24/93 
+
+16 
+
+6.5 
+
+.0 
+
+7.9 
+
+UPPER  WHEELER 
+
+4400 
+
+2/22/93 
+
+43 
+
+10.9 
+
+— 
+
+9.4 
+
+WATSON  LAKES 
+
+AH 
+
+4500 
+
+2/24/93 
+
+86 
+
+33.0 
+
+39.0 
+
+53.3 
+
+UPPER  WHEELER  PILLOW 
+
+4400 
+
+3/01/93 
+
+— 
+
+11. 3S 
+
+9.6 
+
+12.1 
+
+ELWHA  RIVER 
+
+SQUILCHUCK  CREEK 
+
+HURRICANE 
+
+4500 
+
+2/26/93 
+
+24 
+
+8.6 
+
+4.6 
+
+17.4 
+
+STEMILT  CREEK 
+
+MORSE  CREEK 
+
+STBMILT  SLIDE 
+
+5000 
+
+2/22/93 
+
+47 
+
+12.1 
+
+8.0 
+
+12.7 
+
+COX  VALLEY 
+
+4500 
+
+2/27/93 
+
+50 
+
+19.2 
+
+26.1 
+
+32.4 
+
+UPPER  WHEELER 
+
+4400 
+
+2/22/93 
+
+43 
+
+10.9 
+
+-- 
+
+9.4 
+
+DUNGBNESS  RIVER 
+
+UPPER  WHEELER  PILLOW 
+
+4400 
+
+3/01/93 
+
+— 
+
+11. 3S 
+
+9.8 
+
+12.1 
+
+DEER  PARK 
+
+5200 
+
+2/24/93 
+
+30 
+
+10.5 
+
+11.1 
+
+17-3 
+
+COLOCKUM  CREEK 
+
+QUILCENE  RIVER 
+
+TROUGH  12  PILLOW 
+
+5310 
+
+3/01/93 
+
+— 
+
+9. OS 
+
+7.4 
+
+9.0 
+
+MOUNT  CRAG 
+
+PILLOW 
+
+4050 
+
+3/01/93 
+
+— 
+
+17. 9S 
+
+16.4 
+
+— 
+
+HYNOOCHEE  RIVER 
+
+(d)  Denotee  discontinued  site. 
+
+
+CONSERVE  YOUR  IRRIGATION  WATER 
+
+
+i i Can  irrigators  use  less  water  and  get 
+
+I good  yields?  We  think  so.  With 
+(energy  costs  on  an  upward  spiral  and 
+water  shortages  likely,  we  offer  these 
+water  saving  ideas  to  irrigators. 
+
+•I,  Consider  ditch  lining  or  gated  pipe. 
+liThis  will  reduce  the  10-90%  loss  which 
+i: occurs  in  earth  ditches. 
+
+'Keep  ditches  clean  and  free  from 
+|i weeds,  sediment  or  other  debris,  which 
+|(can  slow  water  velocity,  affect 
+(delivery  rate,  and  increase 
+|(  evaporation. 
+
+II Make  sure  head  gates,  drop  structures, 
+[|:and  pipe  inlets  are  operational.  A 
+^jii washed  out  structure  is  water  lost. 
+
+i : 
+
+1 1 Inspect  ditch  banks  for  rodent 
+ic damage.  Rodent  holes  cause  leakage  or 
+; I failures. 
+
+;fMake  sure  sprinkler  nozzles  are  not 
+inworn  or  leaky.  Check  pipe  connections 
+irnd  valves  to  prevent  leaks. 
+
+[C  Operate  sprinklers  at  recommended 
+{pressure  to  effectively  use  available 
+K water. 
+
+I Maintain  your  pump  at  peak  efficiency 
+tto  save  energy. 
+
+BETTER  WATER  MANAGEMENT 
+(Better  water  management  may  require 
+nmore  labor.  It  may  require  changing  a 
+(head  of  water  in  the  middle  of  the 
+might.  But  it  will  be  worth  it.  You 
+(should: 
+
+(Measure  your  water  to  determine  how 
+smuch  is  applied. 
+
+|(Consider  alternate  row  irrigation  for 
+(crops  planted  in  furrows. 
+
+(Plan  short  runs.  Match  stream  size 
+jand  velocity  to  soil  intake  rate  and 
+(capacity. 
+
+CCatch  and  reuse  tail  water  where 
+{possible. 
+
+
+Under  irrigate  the  lower  end  of  the 
+field  to  stretch  your  water. 
+
+
+When  water  is  short,  consider 
+eliminating  that  last  irrigation. 
+
+Soil  Conservation  Service  personnel 
+can: 
+
+Help  plan  and  design  new  irrigation 
+systems  or  evaluate  existing  ones. 
+Provide  technical  assistance  for  land 
+leveling,  pipeline  installation,  and 
+other  practices. 
+
+
+KNOW  YOUR  SOILS 
+
+Soil  absorbs  irrigation  water  at  a 
+given  rate.  This  varies  with  each 
+soil  type.  Some  crops  require  more 
+water  than  others.  Check  soil 
+moisture  by  spade,  probe,  or  moisture 
+meter.  Or  use  the  "feel"  method. 
+
+
+WHEN  IRRIGATION  IS  NEEDED 
+SOIL  WILL  FEEL  AND  ACT  THIS  WAY 
+
+
+Soil  Texture 
+
+A handful  of  soil  will 
+
+Coarse 
+
+Tend  to  stick  together 
+slightly,  but  will  not 
+form  a ball 
+
+Medium 
+
+Be  crumbly,  but  will 
+form  a ball 
+
+Fine 
+
+be  pliable,  and  will 
+form  a ball. 
+
+If  you  have  a conservation  plan  on 
+your  farm,  or  if  the  soil  is  your  area 
+has  been  mapped,  the  Soil  Conservation 
+Service  can  crosscheck  soil  type  and 
+irrigation  data  and  provide  you  with 
+the  water  holding  capacity  of  your 
+soil  for  a given  crop. 
+
+
+RANCHING  TIPS  FOR  WATER-SHORT  YEARS 
+
+
+Forage  production  on  range  and  dry 
+pasture  depends  entirely  on  natural 
+moisture.  While  overgrazing  does 
+damage  to  perennial  plants  during  a 
+season  of  normal  moisture,  it  is 
+more  severe  during  a drought  year. 
+It  reduces  plant  vigor,  stops  root 
+and  leaf  growth,  reduces  ground 
+cover,  and  invites  accelerated 
+erosion.  Once  erosion  begins,  it 
+gets  worse  each  year,  further 
+reducing  plant  vigor  and  forage 
+production.  This  process  is 
+difficult  to  reverse. 
+
+Rather  than  risk  permanent  damage 
+to  grazing  resources  start  planning 
+a strategy  early.  For  example: 
+
+reduce  livestock  numbers  to 
+balance  with  forage  supply 
+
+- cull  herds  more  than  normal 
+
+- sell  calves  and  lambs  early 
+
+determine  forage  needs  and  buy 
+
+needed  supplements  early 
+
+- grow  small  grains  or  sorghums 
+for  hay  or  pasture  (these  use  less 
+water  than  conventional  forage 
+crops) 
+
+defer  planting  perennial 
+pasture,  hay  or  range  seedings 
+until  a year  with  more  favorable 
+water  outlook 
+
+- keep  spring  developments,  stock 
+tanks,  float  valves  and  pipeline  in 
+good  working  order  so  water  is  not 
+wasted 
+
+- use  evaporation  retardant  on 
+ponds  and  tanks 
+
+- prepare  for  hauling  stock  water 
+
+- give  spring  development  high 
+priority  (even  mediocre  springs 
+will  be  helpful) 
+
+- check  with  local  SCS  and  ASCS 
+offices  to  learn  if  cost-share 
+programs  are  available  to  help  with 
+spring  developments  or  other  water 
+conservation  practices 
+
+- don't  overgraze  or  otherwise 
+disturb  streambank  vegetation  (it 
+will  help  prevent  erosion,  reduce 
+sediment,  and  provide  food  and 
+cover  for  wildlife) 
+
+
+Remember,  if  a unit  must  be 
+abused,  well-established  seedings 
+can  tolerate  overgrazing  better 
+than  native  range. 
+
+Wildlife  will  suffer  during  a 
+drought  as  much  or  more  than 
+domestic  livestock.  The  wildlife 
+that  share  your  land  is  a valuable 
+natural  resource. 
+
+To  help  wildlife: 
+
+- include  features  at  stock  water 
+developments  which  will  allow  small 
+animals  and  birds  safe  access  to 
+water  (these  are  usually  not 
+expensive  and  are  easily  installed) 
+
+- fence  ponds  and  springs  and 
+install  collector  pipes  to  deliver 
+water  to  a tank  or  trough.  This 
+will  improve  water  quality  and 
+quantity  for  livestock,  as  well  as 
+provide  lush  vegetation  for  small 
+animals  and  birds. 
+
+Other  places  for  information  or 
+assistance: 
+
+- check  with  local  ASCS  office 
+for  possible  special  practices  or 
+cost-sharing  that  might  assist  with 
+irrigation  on  your  farm  or  ranch 
+this  year. 
+
+- maintain  contact  with  Farmers 
+Home  Administration  for  special 
+local  programs  available. 
+
+- maintain  contact  with  the  local 
+Cooperative  Extension  Service 
+office  for  agricultural  and 
+marketing  conditions. 
+
+If  you  belong  to  an  irrigation 
+district,  contact  irrigation 
+officials  throughout  the  season  to 
+learn  about  current  water 
+availability  and  water  supply 
+forecasts. 
+
+For  more  information  concerning 
+your  crop,  and  soil  and  water 
+conditions,  contact  the  local 
+Conservation  District  Office. 
+
+
+Spokane  River  Basin 
+
+
+Precipitation*  (X  of  nonaal) 
+SPOKANE  RIVER  BASIN 
+
+
+XT  NOV 
+
+
+*Based  on  selected  stations 
+
+
+Precipitation  for  February  was  38%  of  average.  The  March  1 forecasts 
+for  summer  runoff  within  the  Spokane  River  Basin  are  71%,  down  from 
+82%  of  normal.  The  forecast  is  based  on  a snowpack  that  is  90%  of 
+average  and  a water  year-to-date  precipitation  value  of  70%  of  normal 
+Temperatures  in  the  basin  were  seven  degrees  below  normal  during 
+February.  Streamflow  on  the  Spokane  River  was  36%  of  average  for 
+February.  March  1 storage  in  Coeur  d'Alene  Lake  was  36,600  acre  feet 
+27%  of  normal,  and  17%  of  capacity. 
+
+
+SPOKANE  RIVER  BASIN 
+
+
+Strecunflow  Forecasts  - March  1,  1993 
+
+
+1 «mmmmmm 
+
+Drier  — — 
+
+- Future  Conditions  ™ 
+
+Forecast 
+
+Point 
+
+Forecast 
+
+Chance  Of  Exceeding  * -- 
+
+Period 
+
+1 90% 
+
+70%  1 
+
+50%  (Most  Probable)  | 
+
+30% 
+
+10% 
+
+1 30-Yr  Avg. 
+
+1 (lOOOAF) 
+
+(lOOOAF)  1 
+
+(lOOOAF) 
+
+(%AVG.)  1 
+
+. 1 » 
+
+(lOOOAF)  (lOOOAF) 
+
+1 (lOOOAF) 
+
+SPOKANE  nr 
+
+Post  Falls  (1,2) 
+
+APR-SEP 
+
+910 
+
+1540  1 
+
+1940 
+
+1 
+
+71  1 
+
+2350 
+
+2980 
+
+2720 
+
+APR-JUL 
+
+875 
+
+1480  1 
+
+1870 
+
+71  1 
+
+1 
+
+2270 
+
+2870 
+
+2627 
+
+SPOKANE  at 
+
+Long  Lake  ( 2 ) 
+
+APR-JUL 
+
+975 
+
+1650  { 
+
+2090 
+
+1 
+
+71  1 
+
+1 
+
+2530 
+
+3210 
+
+2937 
+
+SPOKANE  RIVER  BASIN 
+
+1 
+
+SPOKANE  RIVER  BASIN 
+
+Reservoir  Storage  (1000 
+
+AF)  - End 
+
+of  February 
+
+1 
+
+Watershed  Snowpack  Analysis 
+
+- March 
+
+1,  1993 
+
+Usable  | 
+
+***  Usable 
+
+Storage  ***  | 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites 
+
+Last 
+
+Yr  Average 
+
+1 Spokane  River 
+
+1 
+
+12 
+
+116 
+
+90 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probeUsllitles  that  the  actual  flov  will  exceed  the  volumes  In  the  teUale. 
+
+
+..The  average  Is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+• (2)  - The  value  1s  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Colville  - Pend  Oreille  River  Basins 
+
+
+Precipitation*  iX  of  nonol) 
+COLVILLE  - PEND  OREILLE  RIVER  B 
+
+
+100 
+
+
+P90 
+
+e 
+
+roo 
+
+c 
+e 
+n 
+t 
+
+
+70 
+
+60 
+
+
+0 
+
+fSO 
+
+0 
+
+;3o 
+
+l20 
+
+10 
+
+0 
+
+
+OCT  NOV  DEC 
+
+
+*Based  on  selected  stations 
+
+
+The  forecast  for  the  Kettle  River  streamflow  is  84%  of  normal,  the 
+Pend  Oreille,  72%,  and  the  Colville  River,  81%  of  normal  for  the 
+summer  runoff  period.  February  streamflow  was  40%  of  normal  on  the 
+Pend  Oreille  River,  64%  on  the  Columbia  at  the  International  Boundary, 
+and  91%  on  the  Kettle  River.  March  1 snow  cover  is  77%  of  normal, 
+down  from  85%  of  average  on  the  Pend  Oreille,  108%  of  average  on  the 
+Colville  River,  and  99%  on  the  Kettle  River.  Snowpack  at  Bunchgrass 
+Meadow  SNOTEL  site  was  16.9  inches  of  water,  the  average  March  1 
+reading  is  21.5.  Precipitation  during  February  was  43%  of  average, 
+bringing  the  water  year-to-date  to  81%  of  normal.  Temperatures  were 
+four  degrees  below  normal  for  February. 
+
+
+COLVILLE  - PEND  OREILLE  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+1 
+
+1 
+
+Drier  -- 
+
+Future  Conditions 
+
+Forecast  Point 
+
+Forecast 
+
+1 
+
+1 
+
+Chance  Of  Exceeding  * — 
+
+Period 
+
+1 
+
+90% 
+
+70% 
+
+1 
+
+50%  (Moat  Probable)  | 
+
+30% 
+
+10% 
+
+1 30 
+
+-Yr  Avg. 
+
+1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 
+
+(lOOOAF) 
+
+(%  AVG.)  1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+PEND  OREILLE  bl  Box  Canyon 
+
+(1,2) 
+
+APR-SEP 
+
+7540 
+
+9570 
+
+1 
+
+10500 
+
+71  1 
+
+11400 
+
+13500 
+
+14590 
+
+APR-JUL 
+
+6910 
+
+8780 
+
+1 
+
+9630 
+
+71  1 
+
+10500 
+
+12300 
+
+13380 
+
+APR-JUN 
+
+5990 
+
+7600 
+
+1 
+
+1 
+
+8330 
+
+71  1 
+
+1 
+
+9060 
+
+10700 
+
+11570 
+
+CHAMOKANE 
+
+CK  nr  Long  Lake 
+
+MAY-AUG 
+
+1.7 
+
+5.3 
+
+1 
+
+1 
+
+1 
+
+7.7 
+
+1 
+
+81  1 
+1 
+
+10.1 
+
+13.7 
+
+9.4 
+
+COLVILLE 
+
+at  Kettle  Falla 
+
+APR-SEP 
+
+67 
+
+91 
+
+1 
+
+1 
+
+107 
+
+1 
+
+81  1 
+
+124 
+
+149 
+
+131 
+
+APR-JUL 
+
+61 
+
+83 
+
+1 
+
+98 
+
+81  1 
+
+113 
+
+136 
+
+120 
+
+APR-JUN 
+
+59 
+
+79 
+
+1 
+
+1 
+
+92 
+
+82  1 
+1 
+
+107 
+
+128 
+
+111 
+
+KETTLE  nr 
+
+Laurier 
+
+APR-SEP 
+
+950 
+
+1320 
+
+1 
+
+1 
+
+1560 
+
+1 
+
+84  1 
+
+1800 
+
+2170 
+
+1853 
+
+APR-JUL 
+
+900 
+
+1250 
+
+1 
+
+1480 
+
+84  1 
+
+1710 
+
+2050 
+
+1760 
+
+APR-JUN 
+
+825 
+
+1120 
+
+1 
+
+1 
+
+1330 
+
+83  1 
+
+1 
+
+1540 
+
+1850 
+
+1585 
+
+COLUMBIA 
+
+at  Birchbank  (1,2) 
+
+APR-SEP 
+
+27300 
+
+31600 
+
+1 
+
+1 
+
+33600 
+
+1 
+
+76  1 
+
+35600 
+
+39900 
+
+43810 
+
+APR-JUL 
+
+22000 
+
+25400 
+
+1 
+
+27000 
+
+76  1 
+
+28600 
+
+32000 
+
+35140 
+
+APR-JUN 
+
+16100 
+
+18600 
+
+1 
+
+1 
+
+19700 
+
+76  1 
+
+20800 
+
+23300 
+
+25670 
+
+COLUMBIA 
+
+at  Grand  Coulee  Dm 
+
+(1,2) 
+
+APR-SEP 
+
+39200 
+
+46300 
+
+1 
+
+1 
+
+49500 
+
+76  1 
+
+52700 
+
+59800 
+
+64780 
+
+APR-JUL 
+
+33200 
+
+39100 
+
+1 
+
+41800 
+
+76  1 
+
+44500 
+
+50400 
+
+54500 
+
+APR-JUN 
+
+26200 
+
+30800 
+
+1 
+
+1 
+
+32900 
+
+76  1 
+
+1 
+
+35000 
+
+39600 
+
+42730 
+
+COLVILLE  - 
+
+PEND  OREILLE  RIVER 
+
+BASINS 
+
+1 
+
+COLVILLE  - 
+
+PEND  OREILLE 
+
+RIVER  BASINS 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 
+
+Watershed  Snowpack  Analysis  - March 
+
+1,  1993 
+
+Usable  | 
+
+***  Usable 
+
+Storage 
+
+*** 
+
+1 
+
+Number 
+
+This 
+
+Year 
+
+as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year 
+
+Avg 
+
+1 
+
+Data  Sites  Last 
+
+Yr 
+
+Average 
+
+ROOSEVELT 
+
+5232.0 
+
+2589.5  4973.7  2763. 
+
+0 1 Colville  River 
+
+1 
+
+2 
+
+124 
+
+108 
+
+BANKS 
+
+NO  REPORT 
+
+1 
+
+1 Pend 
+
+1 
+
+Oreille  River  8 
+
+94 
+
+77 
+
+1 
+
+1 Kettle  River 
+
+1 
+
+9 
+
+116 
+
+99 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Okanogan  - Methow  River  Basins 
+
+
+Precipitation*  (1  of  normal) 
+OKANOGAN  - HETHQV  RIVER  BASINS 
+
+
+*Based  on  selected  stations 
+
+
+Summer  runoff  forecast  for  the  Okanogan  River  is  67%  of  normal;  the 
+Similkameen  River,  59%,  and  the  Methow  River,  66%  of  normal.  March  1 
+snow  cover  on  the  Okanogan  was  89%  of  normal,  down  from  98%  of 
+average,  80%  on  the  Methow,  and  68%  on  the  Similkameen  River. 
+
+February  precipitation  in  the  Okanogan-Methow  was  41%  of  normal,  with 
+water  year-to-date  at  68%  of  average.  February  streamflow  on  the 
+Methow  River  was  63%  of  normal,  61%  on  the  Okanogan  River,  and  55%  on 
+the  Similkameen.  Snow  water  content  at  the  Harts  Pass  SNOTEL, 
+elevation  6500  feet,  was  23.5  inches;  normal  for  this  site  is  34.6 
+inches.  Temperatures  were  four  degrees  below  normal  for  the  month. 
+Storage  in  the  Conconully  Reservoir  is  12,900  acre  feet,  which  is  55% 
+of  capacity  and  92%  of  March  1 average. 
+
+
+OKANOGAN  - METHOW  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+1 
+
+1 
+
+Drier 
+
+“ Future  Conditions 
+
+Forecast  Point 
+
+1 
+
+Forecast  | 
+
+- Chance  Of  Exceeding  * -- 
+
+Period  | 
+
+90% 
+
+70% 
+
+1 50%  (Most  Probable)  | 
+
+30% 
+
+10% 
+
+1 30-Yr  Avg. 
+
+1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 (lOOOAF) 
+
+(%  AVG.)  1 
+
+(lOOOAF)  (lOOOAF) 
+
+1 (lOOOAF) 
+
+SIMILKAMEEN  nr  Mighthawk 
+
+(1) 
+
+APR-SEP 
+
+435 
+
+870 
+
+1 830 
+
+59  1 
+
+1080 
+
+1230 
+
+1399 
+
+APR-JUL 
+
+620 
+
+815 
+
+1 770 
+
+59  1 
+
+1010 
+
+1210 
+
+1304 
+
+APR-JUN 
+
+585 
+
+750 
+
+1 670 
+
+60  1 
+1 
+
+905 
+
+1060 
+
+1113 
+
+OKANOGAN  RIVER  nr  Tonasket  (1) 
+
+APR-SEP 
+
+485 
+
+1330 
+
+1 1100 
+
+1 
+
+67  1 
+
+1730 
+
+1710 
+
+1624 
+
+APR-JUL 
+
+820 
+
+1220 
+
+1 1010 
+
+68  1 
+
+1580 
+
+1990 
+
+1467 
+
+APR-JUN 
+
+825 
+
+1120 
+
+1 850 
+
+68  1 
+1 
+
+1380 
+
+1670 
+
+1234 
+
+METHOW  RIVER  nr  Pateros 
+
+(1) 
+
+APR-SEP 
+
+365 
+
+545 
+
+1 630 
+
+1 
+
+66  1 
+
+715 
+
+890 
+
+942 
+
+APR-JUL 
+
+340 
+
+505 
+
+1 585 
+
+67  1 
+
+660 
+
+830 
+
+873 
+
+APR-JUN 
+
+295 
+
+435 
+
+1 510 
+
+68  1 
+1 
+
+570 
+
+710 
+
+746 
+
+OKANOGAN 
+
+- METHOW  RIVER  BASINS 
+
+1 
+
+OKANOGAN  - 
+
+METHOW  RIVER  BASINS 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 
+
+Watershed  Snowpack  Analysis 
+
+- March 
+
+1,  1993 
+
+Usable  | 
+
+***  Usable 
+
+Storage  ***  | 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites 
+
+Last 
+
+Yr  Average 
+
+CONCONOLLY  LAKE  (SALMON) 
+
+10.5 
+
+7.2 
+
+8.2 
+
+6*0  1 Okanogan  River 
+
+1 
+
+29 
+
+99 
+
+85 
+
+CONCONULLY  RESERVOIR 
+
+13.0 
+
+5.7 
+
+7.9 
+
+1 
+
+6.0  1 Nethow  River 
+
+1 
+
+4 
+
+75 
+
+80 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probeUsilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Wenatchee  - Chelan  River  Basins 
+
+
+Precipitation*  (Z  of  nomol) 
+VENATCHE  - CHELAN  RIO  BASINS 
+
+
+♦Based  on  selected  stations 
+
+
+Precipitation  during  February  was  15%  of  normal  in  the  basin  and  65% 
+for  the  year  to  date.  Runoff  for  the  Entiat  River  is  forecast  to  be 
+74%  of  normal  for  the  summer.  The  summer  forecast  for  the  Chelan 
+River  is  for  70%,  for  the  Wenatchee  River  it  is  67%,  and  81%  on  the 
+Squilchuck-Stemilt . March  1 snowpack  in  the  Wenatchee  Basin  is  73%  of 
+average  down  from  89%  and  the  Chelan  Basin  is  63%.  Snowpack  along 
+Colockum  Ridge  continues  to  be  near  normal  for  the  first  time  in  five 
+years,  with  Stemilt  Creek  at  94%  but  down  from  107%  last  month. 
+Snowpack  on  the  Entiat  River  is  at  78%  of  average.  Reservoir  storage 
+in  Lake  Chelan  is  160,500  acre  feet  or  95%  of  March  1 average  and  24% 
+of  capacity.  Lyman  Lake  SNOTEL  had  the  most  snow  water  with  29.5 
+inches  of  water,  this  site  would  normally  have  48.4  inches. 
+
+Streamflow  for  February  on  the  Chelan  River  was  58%  of  average  and  on 
+the  Wenatchee  River  it  was  59%  of  normal. 
+
+
+WENATCHEE 
+
+
+CHELAN  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+Forecast  Point 
+
+Forecast 
+
+Period 
+
+90% 
+
+(lOOOAF) 
+
+- Drier  ■ 
+
+70% 
+
+(lOOOAF) 
+
+■“  Future  Conditions  ■ 
+
+■ Chance  Of  Exceeding  * 
+50%  (Moat  Probable) 
+(lOOOAF)  (%  AVG.) 
+
+30% 
+
+(lOOOAF) 
+
+1 
+
+10%  1 
+(lOOOAF)  1 
+
+30-Yr  Avg. 
+(lOOOAF) 
+
+CHELAN  RIVER  at  Chelan  (1) 
+
+APR-SEP 
+
+590 
+
+730 
+
+820 
+
+70 
+
+910 
+
+1060 
+
+1160 
+
+APR-JUL 
+
+475 
+
+650 
+
+730 
+
+71 
+
+810 
+
+985 
+
+1024 
+
+APR-JUN 
+
+385 
+
+525 
+
+585 
+
+72 
+
+645 
+
+785 
+
+812 
+
+STEHEKIN  R.  at  Stehekin 
+
+APR-SEP 
+
+490 
+
+555 
+
+600 
+
+72 
+
+635 
+
+705 
+
+827 
+
+APR-JUL 
+
+420 
+
+475 
+
+510 
+
+72 
+
+545 
+
+600 
+
+701 
+
+APR-JUN 
+
+330 
+
+370 
+
+400 
+
+74 
+
+430 
+
+470 
+
+538 
+
+ENTIAT  RIVER  nr  Ardenvoir 
+
+APR-SEP 
+
+124 
+
+151 
+
+170 
+
+74 
+
+189 
+
+215 
+
+227 
+
+APR-JUL 
+
+111 
+
+137 
+
+155 
+
+75 
+
+173 
+
+199 
+
+206 
+
+APR-JUN 
+
+96 
+
+116 
+
+130 
+
+76 
+
+144 
+
+164 
+
+169 
+
+WENATCHEE  R.  at  Peshastin 
+
+APR-SEP 
+
+540 
+
+875 
+
+1090 
+
+66 
+
+1310 
+
+1640 
+
+1636 
+
+APR-JUL 
+
+510 
+
+795 
+
+990 
+
+66 
+
+1190 
+
+1470 
+
+1485 
+
+APR-JUN 
+
+425 
+
+655 
+
+810 
+
+67 
+
+965 
+
+1200 
+
+1204 
+
+STEMILT  nr  Wenatchee  (miners  in) 
+
+MAY-SEP 
+
+71 
+
+97 
+
+115 
+
+83 
+
+133 
+
+159 
+
+138 
+
+ICICLE  CREEK  nr  Leavenworth 
+
+APR-SEP 
+
+173 
+
+245 
+
+290 
+
+78 
+
+340 
+
+410 
+
+370 
+
+APR-JUL 
+
+157 
+
+220 
+
+265 
+
+77 
+
+310 
+
+375 
+
+340 
+
+APR-JUN 
+
+124 
+
+175 
+
+210 
+
+77 
+
+245 
+
+295 
+
+270 
+
+COLUMBIA  R.  bl  Rock  Island  Dam  (2) 
+
+APR-SEP 
+
+42100 
+
+49000 
+
+53600 
+
+76 
+
+58200 
+
+65100 
+
+70410 
+
+APR-JUL 
+
+35900 
+
+41700 
+
+45600 
+
+76 
+
+49500 
+
+55300 
+
+59690 
+
+APR-JUN 
+
+28100 
+
+32600 
+
+35700 
+
+75 
+
+38800 
+
+43300 
+
+46980 
+
+WENATCHEE  - CHELAN  RIVER  BASINS 
+
+1 
+
+WENATCHEE  - 
+
+CHELAN  RIVER  BASINS 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 Watershed  Snowpack  Analysis  - March  1 
+
+1993 
+
+Usable  | 
+
+***  Usable  Storage  [ 
+
+Number 
+
+This  Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites  Last  Yr  Average 
+
+CHELAN  LAKE 
+
+676.1 
+
+160.5 
+
+178.6  168 
+
+• 1 1 Chelan 
+
+1 
+
+Lake  Basin 
+
+3 
+
+53 
+
+63 
+
+1 
+
+1 Entiat 
+
+1 
+
+River 
+
+2 
+
+110 
+
+78 
+
+1 
+
+1 Wenatchee  River 
+
+1 
+
+11 
+
+90 
+
+73 
+
+i 
+
+1 Squilchuck  Creek 
+
+1 
+
+0 
+
+0 
+
+0 
+
+1 
+
+1 Stemilt  Creek 
+
+1 
+
+2 
+
+131 
+
+94 
+
+1 
+
+1 Colockum  Creek 
+
+1 
+
+1 
+
+122 
+
+100 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Yakima  River  Basin 
+
+
+Precipitation*  H of  nomal) 
+YAKIMA  RIVER  BASIN 
+
+
+*Based  on  selected  stations 
+
+
+February  precipitation  was  12%  of  normal  and  65%  for  the  water  year  to 
+date.  March  1 reservoir  storage  for  the  five  major  reservoirs  at 
+261,800  acre  feet,  was  38%  of  average.  Temperatures  were  eight 
+degrees  below  average  for  February.  March  1 summer  streamflow 
+forecasts  for  the  Yakima  Basin  vary  throughout  the  basin  as  follows: 
+The  Yakima  River  at  Cle  Elum,  70%;  Naches  River,  72%;  the  Yakima  River 
+at  Parker,  67%,  Ahtanum  Creek,  71%,  and  the  Tieton  River  71%. 
+
+February  streamflows  were  very  low,  with  the  Yakima  River  at  Parker 
+47%  of  normal,  48%  for  the  Yakima  near  Cle  Elum,  and  29%  for  the 
+Naches  River.  March  1 snowpack  is  76%  of  average,  down  from  95%  last 
+month.  The  snowpack  is  based  upon  18  snow  courses  and  SNOTEL  readings. 
+Volume  forecasts  for  the  Yakima  Basin  are  for  natural  flow.  As  such, 
+they  may  differ  from  the  U.  S.  Bureau  of  Reclamation's  forecast  for 
+the  total  water  supply  available  which  includes  irrigation  return 
+flow. 
+
+
+YAKIMA  RIVER  BASIN 
+
+
+Streauflow  Forecasts  - March  1,  1993 
+
+
+Forecast  Point 
+
+Forecast 
+
+Period 
+
+“ Drier 
+
+uture  Conditions 
+
+nee  Of  Exceeding 
+% (Most  Probable) 
+lOOOAF)  (%  AVG.) 
+
+30-Yr  Avg. 
+(lOOOAF) 
+
+90% 
+
+(lOOOAF) 
+
+70% 
+
+(lOOOAF) 
+
+1 SO 
+1 ( 
+
+1 
+
+1 
+
+30%  10% 
+
+(lOOOAF)  (lOOOAF) 
+
+LAKE  KEECHELUS  INFLOW 
+
+APR-JUL 
+
+69 
+
+80 
+
+88 
+
+70 
+
+1 
+
+96 
+
+107 
+
+124 
+
+APR-SEP 
+
+73 
+
+87 
+
+96 
+
+71 
+
+1 
+
+105 
+
+119 
+
+135 
+
+APR-JUN 
+
+63 
+
+72 
+
+78 
+
+71 
+
+1 
+
+1 
+
+84 
+
+93 
+
+109 
+
+KACBESS  LAKE  INFLOW 
+
+APR-JUL 
+
+62 
+
+71 
+
+78 
+
+70 
+
+1 
+
+1 
+
+85 
+
+94 
+
+111 
+
+APR-SEP 
+
+64 
+
+75 
+
+83 
+
+70 
+
+1 
+
+91 
+
+102 
+
+118 
+
+APR-JUN 
+
+57 
+
+65 
+
+70 
+
+70 
+
+1 
+
+1 
+
+75 
+
+83 
+
+99 
+
+CLE  ELUM  LAKE  INFLOW 
+
+APR-JUL 
+
+260 
+
+285 
+
+300 
+
+73 
+
+1 
+
+1 
+
+315 
+
+340 
+
+409 
+
+APR-SEP 
+
+260 
+
+295 
+
+315 
+
+70 
+
+1 
+
+335 
+
+370 
+
+448 
+
+APR-JUN 
+
+215 
+
+235 
+
+250 
+
+72 
+
+1 
+
+1 
+
+265 
+
+285 
+
+345 
+
+YAKIMA  RIVER  at  Cle  Elum 
+
+APR-JUN 
+
+440 
+
+480 
+
+510 
+
+70 
+
+1 
+
+1 
+
+540 
+
+580 
+
+721 
+
+APR-JUL 
+
+490 
+
+545 
+
+580 
+
+69 
+
+1 
+
+615 
+
+670 
+
+832 
+
+APR-SEP 
+
+535 
+
+595 
+
+640 
+
+69 
+
+1 
+
+1 
+
+685 
+
+745 
+
+915 
+
+BUMPING  LAKE  INFLOW 
+
+APR-SEP 
+
+69 
+
+91 
+
+100 
+
+73 
+
+1 
+
+1 
+
+109 
+
+131 
+
+136 
+
+APR-JUL 
+
+71 
+
+84 
+
+92 
+
+74 
+
+1 
+
+101 
+
+113 
+
+124 
+
+APR-Jtni 
+
+58 
+
+70 
+
+78 
+
+75 
+
+1 
+
+i 
+
+86 
+
+98 
+
+104 
+
+AMERICAN  RIVER  nr  Nile 
+
+APR-SEP 
+
+74 
+
+83 
+
+89 
+
+75 
+
+1 
+
+1 
+
+95 
+
+104 
+
+118 
+
+APR-JUL 
+
+68 
+
+76 
+
+82 
+
+75 
+
+1 
+
+88 
+
+96 
+
+109 
+
+APR-JUN 
+
+55 
+
+64 
+
+69 
+
+75 
+
+1 
+
+1 
+
+75 
+
+83 
+
+92 
+
+RIMROCK  LAKE  INFLOW 
+
+APR-SEP 
+
+119 
+
+158 
+
+170 
+
+71 
+
+1 
+
+1 
+
+182 
+
+220 
+
+238 
+
+APR-JUL 
+
+121 
+
+135 
+
+145 
+
+72 
+
+1 
+
+155 
+
+169 
+
+200 
+
+APR-JUN 
+
+96 
+
+109 
+
+118 
+
+72 
+
+1 
+
+1 
+
+127 
+
+141 
+
+162 
+
+NACHES  RIVER  nr  Naches  (2) 
+
+APR-SEP 
+
+410 
+
+550 
+
+600 
+
+72 
+
+1 
+
+1 
+
+650 
+
+800 
+
+832 
+
+APR-JUL 
+
+445 
+
+505 
+
+545 
+
+72 
+
+1 
+
+585 
+
+645 
+
+755 
+
+APR-JUN 
+
+390 
+
+440 
+
+475 
+
+72 
+
+1 
+
+510 
+
+560 
+
+651 
+
+AHTANUM  CREEK  nr  Tampico  (2) 
+
+APR-SEP 
+
+15.0 
+
+26 
+
+33 
+
+71 
+
+1 
+
+1 
+
+40 
+
+51 
+
+46 
+
+APR-JUL 
+
+14.0 
+
+24 
+
+30 
+
+71 
+
+1 
+
+37 
+
+46 
+
+42 
+
+APR-JUN 
+
+12.0 
+
+20 
+
+26 
+
+72 
+
+1 
+
+1 
+
+32 
+
+40 
+
+36 
+
+YAKIMA  near  Parker 
+
+APR-SEP 
+
+935 
+
+1240 
+
+1350 
+
+67 
+
+1 
+
+1 
+
+1460 
+
+1810 
+
+1994 
+
+APR-JUL 
+
+1010 
+
+1140 
+
+1230 
+
+68 
+
+1 
+
+1320 
+
+1450 
+
+1805 
+
+APR-JUN 
+
+925 
+
+1030 
+
+1100 
+
+68 
+
+1 
+
+1 
+
+1170 
+
+1280 
+
+1597 
+
+YAKIMA  RIVER  BASIN 
+
+1 
+
+YAKIMA 
+
+RIVER 
+
+BASIN 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 
+
+Watershed  Snowpack  Analysis 
+
+- March 
+
+1, 
+
+1993 
+
+Usable  | 
+
+***  Usable  Storage  ***  | 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 
+
+Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites 
+
+Last 
+
+Yr 
+
+Average 
+
+KEECHELUS 
+
+157.8 
+
+48.5 
+
+112.6  105.0  1 
+
+1 
+
+Yakima 
+
+River 
+
+18 
+
+105 
+
+76 
+
+KACHESS 
+
+239.0 
+
+64.1 
+
+1 
+
+165.0  179.0  1 
+
+1 
+
+Ahtanum  Creek 
+
+2 
+
+167 
+
+115 
+
+CLE  ELUM 
+
+436.9 
+
+83.8 
+
+1 
+
+294.0  273.0  | 
+
+1 
+
+BUMPING  LAKE 
+
+33.7 
+
+5.1 
+
+1 
+
+7.4  10.0  1 
+
+1 
+
+RIMROCK 
+
+198.0 
+
+60.0 
+
+1 
+
+98.8  130.0  1 
+
+1 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Walla  Walla  River  Basin 
+
+
+Precipitation*  (1  of  nomol) 
+WALLA  VALLA  RIVER  BASIN 
+
+
+*Based  on  selected  stations 
+
+
+The  forecast  is  for  98%  of  average  streamflow  in  the  Walla  Walla  River 
+for  the  coining  summer,  the  Grande  Ronde,  106%;  Snake  River,  78%,  and 
+87%  for  Mill  Creek.  February  streamflow  was  21%  of  normal  on  the 
+Walla  Walla  River,  44%  for  the  Snake  River,  and  32%  on  the  Grande 
+Ronde  River  near  Troy.  March  1 snowpack  is  at  122%  of  normal.  The 
+Touchet  SNOTEL  site  has  27.6  inches  of  water,  the  normal  March  1 
+reading  for  this  site  is  27.8  inches.  February  precipitation  was  56% 
+of  average,  bringing  the  year-to-date  precipitation  to  88%  of  normal. 
+Temperatures  were  11  degrees  below  average  for  February. 
+
+
+WALLA  WALLA  RIVER  BASIN 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+Forecast  Point 
+
+Forecast 
+
+1 
+
+Period 
+
+1 
+
+90% 
+
+70% 
+
+1 
+
+50%  (Most  Probable)  | 
+
+30% 
+
+10% 
+
+1 30-Yr  Avg. 
+
+1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 
+
+(lOOOAF) 
+
+(%  AVG.)  1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 (lOOOAF) 
+
+GRANDE  RONDE  at  Troy  (1) 
+
+MAR-JUL 
+
+1090 
+
+1390 
+
+1 
+
+1530 
+
+104  1 
+
+1670 
+
+1970 
+
+1471 
+
+APR-SEP 
+
+980 
+
+1260 
+
+1 
+
+1 
+
+1380 
+
+105  1 
+
+1 
+
+1500 
+
+1780 
+
+1312 
+
+SNAKE  bl  Lower  Granite  Dam  (1,2) 
+
+APR-JUL 
+
+9830 
+
+14800 
+
+1 
+
+1 
+
+17100 
+
+1 
+
+78  1 
+
+19400 
+
+24400 
+
+21650 
+
+APR-SEP 
+
+10900 
+
+16500 
+
+1 
+
+1 
+
+19100 
+
+78  1 
+
+1 
+
+21700 
+
+27300 
+
+24360 
+
+HILL  CREEK  at  Walla  Walla 
+
+APR-SEP 
+
+7.6 
+
+12.0 
+
+1 
+
+1 
+
+15.0 
+
+I 
+
+87  j 
+
+18.0 
+
+22 
+
+17.1 
+
+APR-JUL 
+
+7.5 
+
+11.9 
+
+1 
+
+14.9 
+
+88  1 
+
+17.9 
+
+22 
+
+16.9 
+
+APR-JUN 
+
+7.4 
+
+11.8 
+
+1 
+
+1 
+
+14.7 
+
+88  1 
+1 
+
+17.6 
+
+22 
+
+16.7 
+
+SF  WALLA  WALLA  nr  Milton  Freewater 
+
+APR-JUL 
+
+42 
+
+48 
+
+1 
+
+1 
+
+1 
+
+52 
+
+1 
+
+98  1 
+
+1 
+
+56 
+
+62 
+
+53 
+
+COLUMBIA  R.  at  The  Dalles  (2) 
+
+APR-SEP 
+
+57400 
+
+66300 
+
+1 
+
+1 
+
+74500 
+
+1 
+
+75  1 
+
+83100 
+
+92000 
+
+98910 
+
+APR-JUL 
+
+48900 
+
+58200 
+
+1 
+
+64500 
+
+76  1 
+
+70800 
+
+80100 
+
+84710 
+
+APR-JUN 
+
+39800 
+
+47300 
+
+1 
+
+1 
+
+52400 
+
+76  1 
+
+1 
+
+57500 
+
+65000 
+
+68890 
+
+' WALLA  WALLA  RIVER  BASIN 
+
+1 
+
+WALLA  WALLA  RIVER  BASIN 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 
+
+Watershed  Snowpack  Analysis  - March 
+
+1,  1993 
+
+Usable  1 
+
+•**  Usable  Storage 
+
+1 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+, 
+
+Capacity | 
+
+m • 
+
+* , 
+
+1 
+
+Year 
+
+Year 
+
+Avg 
+
+1 
+
+Data  Sites  Last 
+
+Yr  Average 
+
+1 Mill 
+
+1 
+
+Creek 
+
+2 
+
+149 
+
+106 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Cowlitz  - Lewis  River  Basins 
+
+
+Precipitation*  (Z  of  noraal) 
+COVLITZ  - LEWIS  RIVER  BASINS 
+
+
+*Based  on  selected  stations 
+
+
+February  precipitation  was  11%  of  normal,  bringing  the  water  year-to- 
+date  precipitation  to  65%  of  average.  March  1 snow  cover  for  the 
+Cowlitz  River  is  91%,  and  for  the  Lewis  River  it  is  105%.  The 
+forecast  for  summer  runoff  in  the  Lewis  River  is  83%  of  normal  and 
+the  Cowlitz  River,  80%.  February  streamflow  on  the  Cowlitz  River  was 
+39%  of  average,  and  28%  on  the  Lewis  River.  The  Paradise  Park  SNOTEL 
+contained  the  maximum  water  content  for  the  basin  with  45.2  inches  of 
+water.  Normal  March  1 water  content  is  47.9  inches.  Temperatures 
+were  three  degrees  below  normal  for  February. 
+
+
+COWLITZ 
+
+
+LEWIS  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+Point 
+
+Period 
+
+1 90% 
+
+70% 
+
+1 50%  (Most  Probable)  | 
+
+30% 
+
+10% 
+
+1 30-Yr  Avg. 
+
+1 (lOOOAF) 
+
+(lOOOAF) 
+
+1 (lOOOAF) 
+
+(%  AVG.)  1 
+
+(lOOOAF)  (lOOOAF) 
+
+1 (lOOOAF) 
+
+LEWIS  RIVER  at  Ariel  (2) 
+
+APR-SEP 
+
+495 
+
+860 
+
+1 1010 
+
+83  1 
+
+1160 
+
+1520 
+
+1204 
+
+APR-JUL 
+
+560 
+
+750 
+
+1 880 
+
+83  1 
+
+1010 
+
+1200 
+
+1051 
+
+APR-JUN 
+
+495 
+
+665 
+
+1 780 
+
+83  1 
+
+1 
+
+895 
+
+1070 
+
+933 
+
+COWLITZ  R. 
+
+bl  Mayfield  Dam  (2) 
+
+APR-SEP 
+
+610 
+
+1290 
+
+1 1580 
+
+1 
+
+80  1 
+
+1870 
+
+2540 
+
+1970 
+
+APR-JUL 
+
+770 
+
+1140 
+
+1 1390 
+
+80  1 
+
+1640 
+
+2010 
+
+1731 
+
+APR-JUN 
+
+660 
+
+975 
+
+1 1190 
+
+80  1 " 
+1 
+
+1400 
+
+1720 
+
+1477 
+
+COWLITZ  R. 
+
+at  Castle  Rock 
+
+(2) 
+
+APR-SEP 
+
+880 
+
+1860 
+
+1 2240 
+
+1 
+
+83  1 
+
+2620 
+
+3600 
+
+2667 
+
+APR-JUL 
+
+1140 
+
+1620 
+
+1 1950 
+
+83  1 
+
+2280 
+
+2760 
+
+2325 
+
+APR-JUN 
+
+975 
+
+1390 
+
+1 1675 
+
+83  1 
+
+1 
+
+1960 
+
+2370 
+
+1995 
+
+COWLITZ  - 
+
+LEWIS 
+
+RIVER  BASINS 
+
+1 
+
+COWLITZ  - LEWIS  RIVER  BASINS 
+
+Reservoir  Storage 
+
+(1000  AF)  - End 
+
+of  February 
+
+1 
+
+Watershed  Snowpack  Analysis 
+
+- March 
+
+1,  1993 
+
+Usable  | 
+
+***  Usable 
+
+Storage  **•  | 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Capacity | 
+
+ml  • 
+
+1 St 
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites  Last 
+
+Yr  Average 
+
+1 Cowlitz  River 
+
+1 
+
+7 
+
+117 
+
+91 
+
+1 
+
+1 Lewis 
+
+1 
+
+River 
+
+4 
+
+256 
+
+105 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  prob2d3ilities  that  the  actual  flow  will  exceed  the  volumes  in  the  tedsle. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+White  - Green  River  Basins 
+
+
+Mountain  snoipack*  (inchos) 
+
+WITH  - GREEN  RIVER  BASINS 
+
+MINIMUM 
+
+MAXIMUM 
+
+
+• AVERAGE 
+
+
+Precipitation*  (1  of  nomal) 
+VHITE  - GREEN  RIVER  BASINS 
+
+
+OCT  NOV  DEC  JAN  MAR 
+
+
+*Based  on  selected  stations 
+
+
+February  precipitation  was  6%  of  normal,  bringing  the  water  year  to 
+date  to  66%  of  average.  Temperatures  were  one  degrees  below  average 
+for  February.  Summer  runoff  is  forecasted  to  be  81%  on  the  Green 
+River  and  83%  on  the  Cedar  River,  the  Rex  River  at  85%,  the  South  Fork 
+of  the  Tolt  River  at  78%  and  the  Cedar  River  at  Cedar,  81%.  March  1 
+snowpack  was  81%  of  normal  in  the  White  River  Basin  and  85%  in  the 
+Green  River  Basin.  Water  content  on  March  1 at  the  Stampede  Pass 
+SNOTEL,  at  an  elevation  of  3860  feet,  was  29.2  inches.  This  site  has 
+a March  1 average  of  38.2  inches. 
+
+
+WHITE 
+
+
+GREEN  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+Forecast  Point 
+
+Forecast 
+
+Period 
+
+90% 
+
+(lOOOAF) 
+
+- Drier 
+70% 
+
+(lOOOAF) 
+
+““  Future  Conditions  — 
+
+- Chance  Of  Exceeding  * “• 
+1 50%  (Most  Prob2d>le)  | 
+
+1 (lOOOAF)  (%  AVG.)  1 
+
+30%  10% 
+
+(lOOOAF)  (lOOOAF) 
+
+30-Yr  Avg. 
+(lOOOAF) 
+
+GREEN  RIVER  below  Howard  Hanson  Dam 
+
+APR-JUL 
+
+177 
+
+197 
+
+1 210 
+
+81  1 
+
+225 
+
+245 
+
+257 
+
+APR-SEP 
+
+191 
+
+215 
+
+1 230 
+
+80  1 
+
+245 
+
+270 
+
+285 
+
+APR-JUN 
+
+161 
+
+178 
+
+1 190 
+
+81  1 
+1 
+
+200 
+
+220 
+
+234 
+
+CEDAR  RIVER  near  Cedar  Falls 
+
+APR-JUL 
+
+53 
+
+60 
+
+1 64 
+
+1 
+
+83  1 
+
+69 
+
+75 
+
+77 
+
+APR-SEP 
+
+58 
+
+65 
+
+1 70 
+
+82  1 
+
+75 
+
+82 
+
+85 
+
+APR-JUN 
+
+47 
+
+53 
+
+1 57 
+
+83  1 
+
+1 
+
+61 
+
+67 
+
+68 
+
+REX  RIVER  nr  Cedar  Falls 
+
+APR-JUL 
+
+17.0 
+
+21 
+
+1 23 
+
+1 
+
+85  1 
+
+25 
+
+29 
+
+27 
+
+APR-SEP 
+
+20 
+
+23 
+
+1 26 
+
+85  1 
+
+1 
+
+28 
+
+31 
+
+30 
+
+REX  RIVER  near  Cedar  Falls 
+
+APR-JUN 
+
+16.0 
+
+19.0 
+
+1 21 
+
+1 
+
+85  1 
+
+1 
+
+23 
+
+26 
+
+25 
+
+CEDAR  RIVER  at  Cedar  Falla 
+
+APR-JUL 
+
+45 
+
+58 
+
+1 57 
+
+1 
+
+81  1 
+
+76 
+
+89 
+
+82 
+
+APR-SEP 
+
+46 
+
+59 
+
+1 68 
+
+81  1 
+
+77 
+
+90 
+
+83 
+
+APR-JUN 
+
+45 
+
+58 
+
+1 67 
+
+83  1 
+
+1 
+
+76 
+
+89 
+
+80 
+
+-SOUTH  FORK  TOLT  RIVER  near  Index 
+
+APR-JUL 
+
+9.5 
+
+11.0 
+
+1 12.0 
+
+1 
+
+78  1 
+
+13.0 
+
+14.5 
+
+15.2 
+
+APR-SEP 
+
+11.3 
+
+13.2 
+
+1 14.6 
+
+82  1 
+
+16.0 
+
+17.9 
+
+17.8 
+
+APR-JUN 
+
+8.4 
+
+9.8 
+
+1 10.8 
+
+82  1 
+1 
+
+11.8 
+
+13o2 
+
+13.1 
+
+WHITE  - GREEN  RIVER 
+
+BASINS 
+
+1 
+
+WHITE  - GREEN  RIVER  BASINS 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 Watershed  Snowpack  Analysis 
+
+- March 
+
+1, 
+
+1993 
+
+Usable  | 
+
+***  Usable  Storage  ***  j 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Reservoir 
+
+Capacity! 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+— 
+
+— 
+
+
+
+1 
+
+Year 
+
+Year  Avg  | 
+
+Data  Sites 
+
+Last 
+
+Yr 
+
+Average 
+
+1 White 
+
+1 
+
+River 
+
+3 
+
+88 
+
+81 
+
+1 
+
+1 Green 
+
+1 
+
+River 
+
+7 
+
+168 
+
+85 
+
+1 
+
+1 Cedar 
+
+1 
+
+River 
+
+2 
+
+0 
+
+91 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+North  Puget  Sound  River  Basins 
+
+
+80 
+
+Mountain  snowpack*  (inchos) 
+
+NORTH  PUGET  SOUND  RIVER  BASINS 
+
+MINIMUM 
+
+MAXIMUM 
+
+AVERAGE 
+
+>i<- CURRENT 
+
+64 
+
+V 
+
+a 
+
+0 32 
+
+n 
+
+t 
+
+e > 
+
+n 16 
+t 
+
+0 
+
+7 
+
+,.r.r. 
+
+** 
+
+<- -> 
+
+< 
+
+1 
+
+2 3 ? 5 6 
+
+Month 
+
+Precipitation*  (X  of  nonool) 
+NORTH  PUGET  SOUND  RIVER  BASINS 
+
+
+OCT  NOV  DEC  JAN  MAR 
+
+
+♦Based  on  selected  stations 
+
+
+Precipitation  for  February  was  5%  of  average  with  a water  year  to  date 
+at  61%  of  normal.  March  1 snow  cover  in  the  Skagit  River  was  64%  of 
+normal,  and  on  the  Baker  River  it  was  56%.  February  streamflow  in  the 
+Skagit  River  was  62%  of  average.  Forecast  for  the  Skagit  River 
+streamflow  is  74%  of  normal  for  the  spring  and  summer  period.  Other 
+forecast  points  include  the  Baker  River  at  76%  and  Thunder  Creek  at 
+80%.  Rainy  Pass  SNOTEL  at  elevation  4780  feet,  had  20.8  inches  of 
+water  content;  normal  March  1 water  content  is  32.7  inches.  March  1 
+reservoir  storage  was  above  average,  with  Ross  Lake  reservoir  at  195% 
+of  normal  and  43%  of  capacity.  February  temperatures  were  two  degrees 
+below  normal. 
+
+
+NORTH  PUGET  SOUND  RIVER  BASINS 
+
+
+Streamflovr  Forecasts  - March  1,  1993 
+
+
+1 
+
+1 
+
+Drier  ------ 
+
+Future  Conditions  — 
+
+Forecast  Point 
+
+1 
+
+Forecast  | 
+
+Chance  Of  Exceeding  * -- 
+
+Period  | 
+
+90% 
+
+70%  1 
+
+50%  (Most  Probable)  | 
+
+30% 
+
+10% 
+
+1 30-Yr  Avg. 
+
+1 
+
+(lOOOAF) 
+
+(lOOOAF)  1 
+
+(lOOOAF) 
+
+(%AVGe)  1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 (lOOOAF) 
+
+THUNDER  CREEK  near  Newhalem 
+
+APR-Jin, 
+
+159 
+
+174  1 
+
+184 
+
+80  1 
+
+194 
+
+210 
+
+230 
+
+APR-SEP 
+
+235 
+
+250  1 
+
+260 
+
+79  1 
+
+270 
+
+285 
+
+328 
+
+APR-JUN 
+
+92 
+
+109  1 
+
+1 
+
+120 
+
+80  1 
+1 
+
+132 
+
+148 
+
+149 
+
+SKAGIT  RIVER  at  Newhalem  (2) 
+
+APR-SEP 
+
+1160 
+
+1 
+
+1440  1 
+
+1630 
+
+1 
+
+74  1 
+
+1820 
+
+2100 
+
+2185 
+
+APR-JUL 
+
+995 
+
+1230  1 
+
+1390 
+
+75  1 
+
+1550 
+
+1780 
+
+1830 
+
+APR-Jira 
+
+730 
+
+910  1 
+
+1 
+
+1030 
+
+73  1 
+
+1 
+
+1150 
+
+1330 
+
+1410 
+
+BAKER  RIVER  near  Concrete 
+
+APR-JUL 
+
+515 
+
+1 
+
+590  1 
+
+640 
+
+1 
+
+76  1 
+
+690 
+
+765 
+
+836 
+
+APR-SEP 
+
+675 
+
+760  1 
+
+820 
+
+77  1 
+
+880 
+
+965 
+
+1064 
+
+APR-JUN 
+
+380 
+
+435  1 
+
+1 
+
+475 
+
+77  1 
+
+1 
+
+515 
+
+570 
+
+611 
+
+NORTH  PUGET  SOUND  RIVER  BASINS 
+
+1 
+
+NORTH  PUGET  SOUND  RIVER 
+
+BASINS 
+
+Reservoir  Storage 
+
+(1000  AF)  - End  of  February 
+
+1 
+
+Watershed  Snowpack  Analysis  - March 
+
+1,  1993 
+
+Usable  | 
+
+***  Usable  Storage  *** 
+
+1 
+
+Number 
+
+This 
+
+Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+1 
+
+Year 
+
+Year  Avg 
+
+1 
+
+Data  Sites  Last 
+
+Yr  Average 
+
+ROSS 
+
+1404.1 
+
+607.0 
+
+834.2  307. 
+
+6 1 Snohomish  River 
+
+1 
+
+6 
+
+116 
+
+73 
+
+DIABLO  RESERVOIR 
+
+90.6 
+
+87.1 
+
+87.5 
+
+1 
+
+- 1 Skagit  River 
+
+1 
+
+13 
+
+71 
+
+64 
+
+GORGE  RESERVOIR 
+
+NO  REPORT 
+
+1 
+
+1 Baker 
+
+1 
+
+River 
+
+9 
+
+65 
+
+56 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+(1)  - The  values  listed  under  the  10%  and  90%  Chance  of  Exceeding  are  actually  5%  and  95%  exceedance  levels. 
+
+(2)  - The  value  is  natural  flow  - actual  flow  may  be  affected  by  upstream  water  management. 
+
+
+Olympic  Peninsula  River  Basins 
+
+
+Precipitation*  (Z  of  normal) 
+OLYMPIC  PENINSULA  Rie  BASINS 
+
+
+120  _ 
+
+
+100  _ 
+
+
+P 
+
+Q 
+r 
+c 
+e 
+
+n 80 
+
+t 
+
+0 
+
+f 60 
+
+
+N 
+
+? 40 
+
+
+20  . 
+
+
+OCT  NOV 
+
+
+JAN  MAR 
+
+
+♦Based  on  selected  stations 
+
+
+February  precipitation  was  7%  of  average,  with  water  year-to-date 
+precipitation  accumulation  at  66%  of  normal.  February  precipitation 
+at  Quillayute  was  .87  inches,  normal  for  the  month  is  12.01  inches. 
+March  1 snow  cover  in  the  Olympic  Basin  is  below  normal,  with  the 
+Elwah  at  49%  of  average  and  the  Dungeness  at  61%.  March  forecasts  of 
+runoff  for  streamflow  in  the  basin  are  for  75%  of  average  on  the 
+Dungeness  River  and  the  Elwha  River.  The  Big  Quilcene  can  expect 
+below  normal  runoff  this  summer.  The  Mount  Crag  SNOTEL  near  Quilcene 
+had  19.9  inches  on  March  1,  last  year  it  had  16.4  inches. 
+
+Temperatures  were  one  degree  below  normal  for  February. 
+
+
+OLYMPIC  PENINSULA  RIVER  BASINS 
+
+
+Streamflow  Forecasts  - March  1,  1993 
+
+
+1 
+
+1 
+
+Drier  -- 
+
+Future  Conditions 
+
+Forecast  Point 
+
+1 
+
+Forecast  | 
+
+•"  Chance  Of  Exceeding  * — 
+
+1 
+
+1 
+
+Period  | 
+
+90% 
+
+70% 
+
+1 
+
+50%  (Most  Probable)  | 
+
+30% 
+
+10%  1 
+
+30-Yr  Avg. 
+
+1 
+
+(lOOOAF) 
+
+(lOOOAF) 
+
+1 
+
+(lOOOAF)  (%  AVG,)  1 
+
+(lOOOAF)  (lOOOAF)  | 
+
+(lOOOAF) 
+
+DUNGENESS  RIVER  nr  Sequim 
+
+APR-SEP 
+
+92 
+
+109 
+
+1 
+
+120  75  1 
+
+132 
+
+148 
+
+160 
+
+APR-JUL 
+
+75 
+
+89 
+
+1 
+
+00 
+
+107 
+
+121 
+
+131 
+
+APR-Jini 
+
+57 
+
+67 
+
+1 
+
+1 
+
+74  75  1 
+
+i 
+
+81 
+
+91 
+
+98 
+
+ELWHA  RIVER  nr  Port  Angeles 
+
+APR-SEP 
+
+280 
+
+340 
+
+1 
+
+1 
+
+\ 
+
+380  75  1 
+
+420 
+
+480 
+
+502 
+
+APR-JUL 
+
+235 
+
+285 
+
+1 
+
+1 
+
+318  76  1 
+
+1 
+
+350 
+
+400 
+
+417 
+
+OLYMPIC  PENINSULA  RIVER  BASINS 
+
+1 OLYMPIC  PENINSULA  RIVER  BASINS 
+
+Reservoir  Storage  (1000 
+
+AF)  - End  of  February 
+
+1 Watershed  Snowpack  Analysis 
+
+- March  1, 
+
+1993 
+
+Usable  | 
+
+**•  Usable 
+
+Storage 
+
+*** 
+
+1 
+
+Number 
+
+This  Year  as  % of 
+
+Reservoir 
+
+Capacity | 
+
+This 
+
+Last 
+
+1 Watershed 
+
+of 
+
+— 
+
+1 
+
+Year 
+
+Year 
+
+Avg 
+
+1 
+
+Data  Sites 
+
+Last  Yr 
+
+Average 
+
+1 Elwha  River 
+
+1 
+
+1 
+
+187 
+
+49 
+
+• 
+
+1 
+
+1 Morse  Creek 
+
+1 
+
+1 
+
+74 
+
+59 
+
+1 
+
+1 Dungeness  River 
+
+1 
+
+1 
+
+95 
+
+61 
+
+1 
+
+1 Quilcene  River 
+
+1 
+
+0 
+
+0 
+
+0 
+
+1 
+
+1 Wynoochee  River 
+
+1 
+
+0 
+
+0 
+
+0 
+
+* 90%,  70%,  30%,  and  10%  chances  of  exceeding  are  the  probabilities  that  the  actual  flow  will  exceed  the  volumes  in  the  table. 
+
+
+The  average  is  computed  for  the  1961-1990  base  period. 
+
+
+(1) 
+
+(2) 
+
+
+The  values  listed  under  the  10%  and  90%  Chance 
+The  value  is  natural  flow  - actual  flow  may  be 
+
+
+of  Exceeding  are  actually  5%  and  95%  exceedance  levels, 
+affected  by  upstre2un  water  management. 
+
+
+In  addition  to  basin  outlook  reports,  a Water  Supply  Forecast  for  the  Western  United  States  is  published  by  the  Soil 
+Conservation  Service  and  National  Weather  Service  monthly,  January  through  May.  Reports  may  be  obtained  from  the 
+Soil  Conservation  Service,  West  National  Technical  Center,  51 1 Northwest  Broadway,  Room  248,  Portland,  OR 
+97209-3489. 
+
+
+Issued  by 
+
+Released  by 
+
+William  (Bill)  Richards 
+Chief 
+
+Lynn  A.  Brown 
+State  Conservationist 
+
+Soil  Conservation  Service  Soil  Conservation  Service 
+
+U.S.  Department  of  Agriculture  Spokane,  Washington 
+
+
+The  Following  Organizations  Cooperate 
+With  The  Soil  Conservation  Service 
+In  Snow  Survey  Work 
+
+Canada: 
+
+Ministry  of  the  Environment.  Water 
+Investigations  Branch,  Victoria,  British  Columbia 
+
+States: 
+
+Washington  State  Department  of  Ecology 
+Washington  State  Department  of  Natural  Resources 
+
+Federal: 
+
+Department  of  the  Army 
+Corps  of  Engineers 
+U.S.  Department  of  Agriculture 
+Forest  Service 
+
+U.S.  Department  of  Commerce 
+NOAA,  National  Weather  Service 
+U.S.  Department  of  the  Interior 
+Bonneville  Power  Administration 
+Bureau  of  Reclamation 
+Geological  Survey 
+National  Park  Service 
+Bureau  of  Indian  Affairs 
+
+Local: 
+
+City  of  Tacoma 
+City  of  Seattle 
+Chelan  County  P.U.D. 
+
+Pacific  Power  and  Light  Company 
+Puget  Sound  Power  and  Light  Company 
+Washington  Water  Power  Company 
+Snohomish  County  P.U.D. 
+
+Colville  Confederated  Tribes 
+Spokane  County 
+Yakima  Indian  Nation 
+
+Private: 
+
+Okanogan  Irrigation  District 
+Wenatchee  Heights  Irrigation  District 
+Newman  Lake  Homeowners  Association 
+
+Other  organizations  and  individuals  furnish  valuable  Information  for 
+snow  survey  reports.  Their  cooperation  is  gratefully  acknowledged. 
+
+Rock  Pointe  Tower  II,  Suite  450 
+W.  316  Boone  Avenue 
+Spokane,  WA  99201-2349 
+
+
+A 
+
+U.  S.  DEPT.  OF  AGRICULTURE 
+NATIONAL  AGRICUL.  LIBRARY 
+CURRENT  SERIAL  RECORDS 
+BELTS VI LLE  MD  20705 
+
+
+Washington 
+Basin  Outlook  Report 
+
+Soil  Conservation  Service 
+Spokane,  WA 
+
+

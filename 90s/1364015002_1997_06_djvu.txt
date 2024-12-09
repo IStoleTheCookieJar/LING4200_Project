@@ -1,0 +1,59 @@
+‘4 
+
+
+Australian! MUStralian Bureau of Statistics 
+
+
+Statistics 
+
+
+1364.0.15.002 - Treasury Model of the Australian Economy -- 
+
+
+Standalone Version, Jun 1997 
+Latest ISSUE Released at 11:30 AM (CANBERRA TIME) 14/10/1997 Ceased 
+
+
+Summary 
+
+
+About this Release 
+
+
+ABOUT THIS RELEASE 
+Related to: 1364.0.15.001. 
+
+
+The Treasury Macro-economic (TRYM) Model of the Australian economy has been 
+developed and is used within the Commonwealth Treasury of Australia. The TRYM Model 
+was designed to assist in policy analysis and forecasting at the macro-economic level. It can 
+be used as a tool to assist with understanding the workings of the Australian economy and 
+with economic research and analysis. The Model continues to be the focus of research and 
+development. The TRYM Model is available in two versions: a TSP version and a 
+standalone Windows compatible version. The TRYM Database is included in both versions 
+of the Model and is also available as a separate product. The standalone version of the 
+TRYM product allows you to simulate the Model using a familiar Windows spreadsheet 
+interface. The software assists time series analysis of data and Model results. The multiple 
+document interface allows the concurrent use of time series databases and multiple data 
+views and graphs; this facilitates comparison of different Model scenarios. Graphs and data 
+derived from TRYM Databases and simulations can also be pasted into other Windows 
+applications such as spreadsheets and word processors, or simply printed for reference and 
+comparison. The Model comes with comprehensive documentation and a user's guide for 
+running the Model in the interface software. The recommended PC hardware is a Pentium 
+or 486DX (however it will run on a 80386 with at least 4MB of RAM, Microsoft Windows 
+version 3.1 or later, and at least 5 MB of free disk space. 
+
+
+Note: Also available is the TSP Version of TRYM (1364.0.15.001) and the TRYM Database 
+(1364.0.15.003). 
+
+
+© Commonwealth of Australia 
+
+
+All data and other material produced by the Australian Bureau of Statistics (ABS) constitutes Commonwealth copyright administered by the ABS. 
+The ABS reserves the right to set out the terms and conditions for the use of such material. Unless otherwise noted, all material on this website - 
+except the ABS logo, the Commonwealth Coat of Arms, and any material protected by a trade mark - is licensed under a Creative Commons 
+Attribution 2.5 Australia licence 
+
+

@@ -1,0 +1,1944 @@
+The  Merit/NSFNET 
+Project 
+
+
+LU 
+
+I 
+
+
+II  v!>) 
+
+
+if i 
+
+
+MWiwmm 
+
+
+5)  1992  Merit/NSFNET  Information  Services 
+
+
+A    year  of  dedication  and  hard  work  by  the 
+fjk  NSFNET  partnership  has  begun  to  pay 
+X  JiL  dividends  for  network  users  as  the 
+ANS  T3  technology  becomes  a  production 
+tool  for  NSFNET  sites. 
+
+As  of  March  1 ,  a  number 
+of  midlevel  networks  were 
+moving  their  traffic  across 
+the  T3  network  and  plans 
+were  in  place  to  move  the 
+remaining  networks  over 
+the  next  few  months. 
+
+Merit  obtains  NSFNET 
+backbone  services  from 
+ANS  which  provides  a 
+major  national  network 
+that  operates  at  T3  speeds 
+using  circuits  provided  by 
+MCI  and  central  networking  technology  based 
+ontheIBMRS/6000™. 
+
+Fine-tuning  over  the  past  year 
+
+Activities  over  the  past  twelve  months  have 
+focused  on  installing  T3  technology  at  all     , 
+NSFNET  sites,  re-engineering  the  early  T3 
+backbone  to  expand  total  bandwidth  and  pro- 
+vide greater  redundancy,  and  refining  the 
+initial  developmental  hardware  and  software 
+to  bring  the  level  of  reliability  up  to  produc- 
+tion standards.  In  addition,  some 
+organizational  changes  have  been  made  to 
+ensure  a  smooth  problem-solving  path. 
+
+The  first  stage  is  nearly  complete  and  a  plan 
+is  in  place  to  deploy  higher  speed  T3  interface 
+cards  which  will  increase  the  throughput  on 
+all  nodes  during  second  quarter  1992. 
+
+Strengthening  the  architecture 
+
+When  T3  connections  were  originally  imple- 
+mented at  the  beginning  of  1991,  some 
+problems  were  experienced  with  the  new  ar- 
+
+
+chitecture. This  led  to  a  major  effort  by 
+Merit,  ANS,  IBM,  and  MCI  to  improve  the 
+technology  before  T3  traffic  was  increased. 
+Debugging  activities  continued  at  a  fast  pace 
+
+
+NSFNET  Backbone  Service  (T3) 
+
+
+through  October  1991,  until  a  reasonable 
+degree  of  reliability  was  achieved. 
+
+Peeling  the  onion 
+
+The  problem  analysis  and  resolution  pro- 
+cess has  been  compared  to  "peeling  the  skin 
+of  an  onion",  as  multiple  glitches  that  at  first 
+appeared  to  have  the  same  symptoms  were 
+
+See  T3  production,  page  8 
+
+
+This  newsletter  is  printed  on  recycled  paper. 
+
+
+Jf 
+
+
+This  informative 
+seminar  is 
+intended  for 
+providers  of 
+campus 
+information  and 
+administrators,  as 
+well  as  beginning 
+and  intermediate 
+network  users. 
+
+
+Of 
+
+
+>      f 
+
+
+fli 
+
+
+F« 
+
+
+m 
+
+
+f  t)3li  il(iJ 
+
+
+ill 
+
+
+Do  you  want  to  learn  more  about  the 
+Internet  and  the  many  resources 
+available  through  NSFNET  back- 
+bone services?  Your  opportunity  is  at  hand, 
+as  Merit/NSFNET  provides  another  high- 
+quality,  information-packed  day-and-a-half 
+seminar  in  Las  Vegas,  Nevada,  on  June  1 
+and  2,  1992. 
+
+The  revolution  in  national  computer  net- 
+working continues  to  affect  the  way  people 
+collaborate  in  education  and  research.  Hun- 
+dreds of  thousands  of  educators  and 
+researchers  are  accessing  library  resources, 
+supercomputers,  video  applications  and  the 
+expertise  of  colleagues  around  the  world 
+through  their  connections  to  NSFNET  and 
+the  Internet. 
+
+Who  Should  Attend: 
+
+This  informative  seminar  is  intended  for 
+providers  of  campus  information  and 
+administrators  as  well  as  beginning  and 
+intermediate  network  users. 
+
+Facilities 
+
+The  seminar  will  be  held  on  the  campus  of 
+the  University  of  Nevada,  Las  Vegas,  in  a 
+state-of-the-art  facility.  Attendees  will  be 
+able  to  access  remote  facilities  through 
+NevadaNet  and  NSFNET. 
+
+
+<!_  Ill 
+
+
+lis?! 
+
+
+Lodging 
+
+Lodging  will  be  available  at  the  St.  Tropez, 
+a  non-gaming  hotel  which  is  reserving  a 
+block  of  rooms  for  seminar  attendees  until 
+May  1,  1992.  Make  your  own  room  reserva- 
+tions and  payment  arrangements  directly  by 
+calling  800-666-5400  or  702-369-1 150. 
+
+Travel  discounts 
+
+Special  discounted  airfares  with  Northwest 
+Airlines  are  available  for  this  seminar. 
+
+Save  with  early  registration 
+
+The  registration  fee  is  $295  until  May  15, 
+1992.  After  May  15  the  cost  is  $345.  Lim- 
+ited scholarships  are  available;  contact  us 
+today. 
+
+The  fee  includes  the  one-and-a-half-day 
+seminar,  receptions  on  Sunday  and  Monday 
+evenings,  lunches  on  Monday  and  Tuesday, 
+refreshments,  the  demonstration  room,  and 
+all  seminar  materials.  For  more  information 
+on  any  or  all  of  the  above,  you  may  reach  us 
+electronically  at:  seminar@merit.edu  or  by 
+phone  at:  1-800-66-MERIT  or  313-936- 
+3000. 
+
+—  Merit/NSFNET  Information  Services 
+
+
+The  Link  Letter  is  published  by: 
+Merit/NSFNET  Information  Services 
+2901  Hubbard,  Pod  G 
+Ann  Arbor,  Michigan  48109-2016 
+
+To  subscribe  to  the  Link  Letter  send  an  electronic  message  to: 
+NSFNET-Linkletter-Request@merit.edu 
+
+For  further  information,  contact 
+
+Patricia  Smith,  Editor,  at  1-800-66-MERIT  or  send  e-mail  to: 
+
+NSFNET-info@merit.edu 
+
+Suggestions  and  Contributions  Welcome.  Thismaterial  is  based  upon  work  supported  by  tho  Notional  Science 
+
+_  .  .    ,      „  .      ,  ..        .  .    ,    ,     ,.       ,  ...     Foundation  under  Grant  No.  NCR  8720904.  The  Government  has 
+
+PermiSSIOn  tO  reprint  all  Or  part  Of  the  Link  Letter  tOr  non-profit     certain  rights  In  this  material.  Any  opinions,  findings,  and  conclusions 
+
+
+purposes  is  granted,  provided  full  acknowledgement  of  the 
+source,  including  authors'  names,  is  given. 
+
+
+or  recommendations  expressed  in  this  material  are  those  of  the 
+author(s)  and  do  not  necessarily  reflect  tho  views  of  the  National 
+Science  Foundation. 
+
+
+Page  2 
+
+
+Link  Letter 
+
+
+WMJ 
+
+
+I   1  ■ 
+
+
+I        11 
+
+
+(Reprinted  from  CERFnet  News,  Volume  3 
+Number  6.  Used  with  permission.) 
+
+The  Wide  Area  Information  Servers 
+(WAIS)  system  is  a  set  of 
+products  supplied  by  different  ven- 
+dors to  help  end-users  find  and  retrieve 
+information  over  networks.  Using  WAIS 
+(pronounced  ways)  the  user  isn't  required  to 
+become  familiar  with  several  different  sys- 
+tems. Also,  since  the  interface  consolidates 
+data  from  many  sources,  the  data  can  be  ma- 
+nipulated effortlessly,  virtually  without 
+regard  to  their  origins. 
+
+Thinking  Machines,  Apple  Computer,  and 
+Dow  Jones  initially  implemented  such  a  sys- 
+tem for  use  by  business  executives.  These 
+products  are  becoming  more  widely  avail- 
+able from  various  companies. 
+
+What  does  WAIS  do? 
+
+Users  on  different  platforms  can  access 
+personal,  company,  and  published  informa- 
+tion from  one  interface.  The  information 
+can  be  anything:  text,  pictures,  voice,  or 
+formatted  documents.  Since  a  single  com- 
+puter-to-computer protocol  is  used, 
+information  can  be  stored  anywhere  on  dif- 
+
+
+The  latest  and  greatest  from  the  world  of 
+WAIS  was  demonstrated  for  attendees  at  a 
+WAIS  seminar  held  at  the  MCNC  Center  for 
+Communications  in  Research  Triangle  Park, 
+NC  on  February  3  and  4. 
+
+Participants  viewed  a  number  of  demon- 
+strations of  WAIS  software  on  several 
+platforms  and  were  treated  to  a  sneak  pre- 
+view of  an  Apple  development  project  to 
+create  a  new  Macintosh-WAIS  interface. 
+The  prototype  of  this  interface  combines 
+
+
+ferent  types  of  machines.  Anyone  can  use 
+this  system  since  it  uses  natural  language 
+questions  to  find  relevant  documents.  Rel- 
+evant documents  can  be  fed  back  to  a  server 
+to  refine  the  search.  This  avoids  complicated 
+query  languages  and  vendor  specific  sys- 
+tems. Successful  searches  can  be 
+automatically  run  to  alert  the  user  when 
+new  information  becomes  available. 
+
+How  does  WAIS  work? 
+
+The  servers  take  a  user's  question  and  do 
+their  best  to  find  relevant  documents.  The 
+servers,  at  this  point,  do  not  understand  the 
+user's  English  language  question,  rather  they 
+try  to  find  documents  that  contain  those 
+words  and  phrases  and  ranks  them  based  on 
+heuristics.  The  user  interfaces  (clients)  talk 
+to  the  servers  using  an  extension  to  a  stan- 
+dard protocol  Z39.50.  Using  a  public 
+standard  allows  vendors  to  compete  with 
+each  other,  while  bypassing  the  usual  propri- 
+etary protocol  period  that  slows 
+development.  Thinking  Machines  is  giving 
+away  an  implementation  of  this  standard  to 
+help  vendors  develop  clients  and  servers. 
+
+See  WAIS,  following  page 
+
+
+graphics  and  text  to  present  information  in  a 
+newspaper-like  "front  page"  format. 
+
+Speakers  at  the  seminar  included  meeting 
+organizer  George  Brett  of  MCNC,  Cliff 
+Lynch  of  the  University  of  California, 
+Brewster  Kahle  of  Thinking  Machines,  and 
+Jim  Fullton  of  University  of  North  Carolina- 
+Chapel  Hill. 
+
+Further  information  about  WAIS  may  be 
+obtained  by  contacting  George  Brett, 
+ghb@concert.net. 
+
+— Mark  Davis-Craig,  Merit/MichNet 
+
+
+Users  on  different 
+
+platforms  can 
+
+access  personal, 
+
+company,  and 
+
+published 
+
+information  from 
+
+one  interface. 
+
+
+March/ April  1992 
+
+
+Page  3 
+
+
+Two  ^ 
+
+
+\SA  Sitei  C'om^oM 
+
+
+/  U0S6 
+
+connections  allow 
+scientists  to 
+access  the  very 
+large  space  and 
+earth  science  data 
+.bases  at  the 
+Goddard  and 
+Ames  Research 
+Centers. " 
+
+
+1 
+
+Merit  has  received  additional 
+funding  under  the  National 
+Science  Foundation  cooperative 
+agreement  to  provide  T3  connectivity  to  two 
+NASA  sites,  the  NASA-Ames  Research 
+Center  and  NASA-Goddard  Space  Flight 
+Center.  These  connections,  one  directly  to 
+Ames  and  a  second  for  Goddard  at  College 
+Park,  were  expected  to  be  in  place  by  early 
+March  1992. 
+
+"These  connections  allow  scientists  to  ac- 
+cess the  very  large  space  and  earth  science 
+
+
+data  bases  and  computational  facilities  at  the 
+Goddard  and  Ames  Research  Centers  to 
+achieve  major  breakthroughs  in  large-scale 
+modelling,  simulations,  and  space  mission 
+planning,"  stated  Tony  Villasenor,  Program 
+Manager  for  the  NASA  Science  Network. 
+"This  is  another  example  of  the  fine  collabo- 
+ration continuing  between  the  NASA  and 
+NSF  communities." 
+— Merit/NSFNET  Information  Services 
+
+
+WAIS,  cont.  from  page  3 
+
+
+Thinking 
+Machines 
+operates  a 
+Connection 
+Machine  on  the 
+Internet  for  free 
+use. 
+
+
+Where  do  WAIS  servers  exist? 
+
+Even  though  the  system  is  very  new,  there 
+are  already  several  servers: 
+
+•  Dow  Jones  is  putting  a  server  on  their 
+own  Dow  Vision  network.  This  server  con- 
+tains the  Wall  Street  Journal,  Barons,  and 
+450  magazines.  This  is  a  for-pay  server. 
+
+8  Thinking  Machines  operates  a  Connec- 
+tion Machine  on  the  Internet  for  free  use. 
+The  databases  it  supports  are  some  patents,  a 
+collection  of  molecular  biology  abstracts,  a 
+cookbook,  and  the  CIA  World  Factbook. 
+
+8  MIT  supports  a  poetry  server  with  a  great 
+deal  of  classical  and  modern  poetry. 
+
+8  Cosmic  is  serving  descriptions  of  govern- 
+ment software  packages. 
+
+8  The  Library  of  Congress  has  plans  to 
+make  their  catalog  available  on  the  protocol. 
+
+8  Weather  maps  and  forecasts  are  made 
+available  by  Thinking  Machines  as  a 
+repackaging  of  existing  information. 
+
+8  The  "directory  of  servers"  facility  is  op- 
+erated by  Thinking  Machines  so  that  new 
+servers  can  be  easily  registered  as  either  for- 
+
+
+pay  or  for-free  servers  and  users  can  find 
+out  about  these  services. 
+
+For  more  information 
+
+Contact  Brewster  Kahle  formore  informa- 
+tion on  the  WAIS  project,  the  Connection 
+Machine  WAIS  system,  or  the  free  Mac, 
+Unix  Server,  and  X  Window  System  inter- 
+faces. There  is  a  mailing  list  that  has  weekly 
+postings  on  progress  and  new  releases;  to 
+subscribe  send  e-mail  to:  wais-discussion- 
+request@think.Gom. 
+
+You  can  also  retrieve  a  copy  of  the  WAIS 
+Bibliography  by  Barbara  Lincoln,  Thinking 
+Machines,  October,  1991.  It  is  available  via 
+anonymous  FTP  from  quake.think.com. 
+The  directory/file  is:  /pub/wais/wais-dis- 
+cussion/bibliography.txt  It  is  also 
+available  via  the  WAIS  server  wais-discus- 
+sion-archive,src. 
+
+Brewster  Kahle  is  the  Project  Leader  for 
+Wide  Area  Information  Servers. 
+
+Kahle's  Internet-mail  address  is 
+brewster@think.com. 
+
+—  Brewster  Kahle 
+
+
+Page  4 
+
+
+Link  Letter 
+
+
+TIL, 
+
+in 
+M 
+
+
+rs 
+
+
+■c }) 
+
+
+w 
+
+
+^W^flC 
+
+
+o 
+
+
+As  the  migration  of  all  production 
+traffic  to  the  ANS  T3  backbone 
+"-nears  completion,  performance 
+improvement  is  the  feature  that  will  be  most 
+apparent  to  a  majority  of  users  of  NSFNET 
+backbone  services.  However,  underlying  the 
+visible  product  is  a  complex  foundation  of 
+innovations  and  advances  which  reside  at 
+the  forefront  of  network  technology. 
+
+Architecture 
+
+The  architecture  for  the  T3  network 
+evolved  from  many  observations  made  in 
+the  course  of  managing  the  Tl  network  and 
+is  shown  in  the  figure  at  right. 
+
+Packet  switches  in  the  T3  infrastructure  are 
+designated  as  either  Exterior  Nodal  Switch- 
+ing Subsystems  (ENSSs)  or  Core  Nodal 
+Switching  Subsystems  (CNSSs).  ENSSs  are 
+located  on  the  regional  network  premises 
+and  CNSSs  are  co-located  at  MCI  carrier 
+switching  centers  which  are  also  known  as 
+"points-of-presence"  (POPs)  or  "junction 
+points."  The  decision  to  co-locate  packet 
+switches  within  POPs  was  key  for  several 
+reasons.  Since  these  locations  are  major  car- 
+rier circuit  switching  centers,  they  have  the 
+full  backup  power  essential  to  the  stability 
+of  the  network  and  many  are  staffed  24 
+hours/day,  7  days/week. 
+
+Additionally,  co-locating  the  CNSSs  pro- 
+vides the  opportunity  to  more  closely  match 
+the  carrier-provided  circuit  switched  net- 
+work topology  with  packet  switched 
+network  topology.  As  a  result,  path  redun- 
+dancy becomes  much  easier  to  engineer. 
+
+With  this  architecture,  the  need  for  transit 
+traffic  to  traverse  the  end  nodes  is 
+eliminated.  Only  traffic  specifically  sourced 
+from  or  destined  to  a  given  ENSS  traverses 
+the  access  link.  Consequently,  the  total 
+bandwidth  needs  of  the  CNSS  cloud  are 
+
+
+■Wtaft 
+
+
+based  on  aggregate  requirements  because  of 
+the  shared  portion  of  the  network  while 
+access  link  needs  are  based  on  individual 
+requirements. 
+
+Regional  network  connections 
+
+Currently  the  T3  infrastructure  supports 
+both  Ethernet  and  FDDI  interconnection. 
+The  access  into  the  CNSS  cloud  is  via  DS3 
+(45  Mbs),  DS1  (1.544  Mbs)  or  DSO  (56Kbs) 
+circuits.  The  network  uses  cisco™  packet 
+switches  for  56  Kbs  access  into  the 
+backbone. 
+
+
+T3  Site 
+
+
+DS3  circuits 
+
+The  DS3  circuits  operate  in 
+non-subrated  mode,  which 
+means  that  the  full  45  Mbs, 
+less  framing  and  carrier  man- 
+agement overhead,  are 
+available  for  user  traffic.  The 
+physical  and  electrical  inter- 
+facing to  these  lines  is  handled 
+by  a  Data  Service  Unit  (DSU). 
+Nearly  all  of  the  DS3  circuits 
+are  carried  on  terrestrial  fiber- 
+optic lines. 
+
+Packet  switches 
+
+The  T3  network  packet  switches  are  based 
+on  the  IBM  RISC/6000™  machines  running 
+code  based  on  the  AIX  operating  system, 
+with  appropriate  network  adapter  hardware, 
+and  packet  switching,  routing  and  network 
+management  software.  In  order  to  drive  the 
+DS3  lines  at  45  Mbs,  high  performance 
+adapter  cards  and  software  were  required. 
+
+To  accomplish  this,  "smart"  adapter  cards 
+with  the  Intel  960CA  32-bit  microprocessor 
+on  board  were  developed.  The  cards  contain 
+all  information  required  to  switch  a  packet, 
+including  routing  tables  and  stored 
+
+See  13  Tech,  following  page 
+
+
+T3  Architecture 
+
+
+T3  Site 
+
+
+Exterior-NSS, 
+Router 
+
+
+T3  Site 
+
+
+March/ April  1992 
+
+
+Page  5 
+
+
+T3  Tech,  cont.  from  page  5 
+
+
+In  fact,  "smart 
+cards"  will  switch 
+packets  between 
+themselves 
+without  any  main 
+system 
+intervention. 
+
+
+In  order  to  take 
+advantage  of  the 
+new  architecture 
+exterior 
+information  is 
+transmitted 
+internally  via  the 
+Internal  Border 
+Gateway  Protocol 
+(IBGP). 
+
+
+instruction  code  for  packet  switching.  In 
+fact,  "smart  cards"  will  switch  packets 
+between  themselves  without  any  main 
+system  intervention,  thereby  greatly 
+increasing  packet  switching  efficiency.  CPU 
+intervention  is  necessary  only  when  routing 
+information  is  updated.  In  addition,  the 
+presence  of  a  high  speed  system  bus  (IBM's 
+MicroChannel™)  ensures  that  bus  bandwidth 
+will  not  restrict  packet  flow.  Deployment  of 
+these  cards  at  the  POP-based  CNSS  and 
+ENSS  sites  is  being  finalized.  Completion  of 
+this  task  is  expected  to  take  several  months. 
+
+Routing 
+
+The  routing  technology  and  architecture 
+used  on  the  T3  network  is  essentially  the 
+same  as  the  Tl  network.  Routing  is  fully 
+distributed,  with  each  NSS  exchanging  state 
+information  with  other  nodes  and  then  com- 
+puting the  optimal  routes.  The  Intermediate 
+System-to-intermediate  System  (IS-IS)  link 
+state  routing  protocol  is  used  as  the  intra-do- 
+main  routing  protocol. 
+
+In  order  to  take  advantage  of  the  new  ar- 
+chitecture and  to  minimize  routing  overhead, 
+exterior  information  is  transmitted  internally 
+via  the  Internal  Border  Gateway  Protocol 
+(IBGP).  With  over  4,500  network  numbers 
+in  the  routing  tables  maximizing  the  effi- 
+ciency and  controlling  the  dynamics  of  this 
+information  transmission  assumes  para- 
+mount importance. 
+
+Border  Gateway  Protocol  (BGP)  or  Exte- 
+rior Gateway  Protocol  (EGP)  are  used  as  the 
+inter-domain  routing  protocol,  to  share 
+reachability  and  routing  information  with 
+the  attached  regional  networks.  Policy-based 
+routing  with  tightly  controlled  routing  infor- 
+mation flow  between  attached  networks 
+ensures  that  the  T3  infrastructure  will  con- 
+tinue to  serve  as  the  primary  transit  WAN  in 
+the  global  Internet  system. 
+
+
+Tl  and  T3  co-existence 
+
+Since  the  T3  network  was  designed  as  an 
+overlay  to  complement  the  existing  Tl  net- 
+work and  eventually  replace  it,  controlled 
+traffic  migration  from  the  Tl  to  the  T3  net- 
+work posed  some  challenges. 
+
+In  the  migration  phase,  which  is  currently 
+in  progress,  some  sites  are  connected  to 
+both  networks,  and  some  to  only  one.  It 
+was  essential  that  a  stable  and  redundant 
+cross-connect  system  be  designed  to  allow 
+user  traffic  to  reach  any  site,  regardless  of 
+how  the  destination  site  was  connected  or 
+where  the  packet  entered  the  network. 
+Regional  networks  that  were  multihomed  to 
+both  Tl  and  T3  will  maintain  peering  with 
+both  backbones.  This  will  allow  the  Tl 
+network  to  be  used  to  connect  to  regionals 
+connected  directly  to  the  Tl,  and  the  T3 
+network  to  be  used  to  connect  to  regionals 
+directly  connected  to  the  T3.  At  press  time 
+traffic  migration  was  underway  and  a  load 
+sharing  configuration  was  running  on  the 
+production  network. 
+
+T1/T3  Interconnect  Gateways 
+
+The  routing  design  for  load  sharing  in- 
+volves T1/T3  interconnect  gateways  at  Ann 
+Arbor,  Houston,  San  Diego,  and  Princeton 
+with  5  th  and  6th  gateways  planned  at  Den- 
+ver and  Seattle.  This  scheme  is  integral  to 
+maintaining  traffic  balance  and  minimizing 
+congestion  at  the  interconnect  points. 
+
+As  1992  progresses,  developers  and  engi- 
+neers within  the  partnership  of  ANS,  Merit, 
+IBM,  and  MCI  will  continue  to  provide  a 
+leading-edge  environment  for  the  growing 
+number  of  network  users. 
+
+— Bilal  Chinoy,  San  Diego  Supercom- 
+puter Center,  and  Pat  Smith,  Merit 
+
+
+Page  6 
+
+
+Link  Letter 
+
+
+M 
+
+
+Wy>m  li-Tft^Vi'vk^l 
+
+
+Merit  has  received  word  that  two 
+proposals,  one  for  an  Internet 
+directory  project  called  TopNode, 
+and  the  other  for  an  Internet  Information 
+Packet  project,  have  been  accepted  by  the 
+Coalition  for  Networked  Information  (CNI). 
+CNI  is  a  consortium  formed  by  American 
+Research  Libraries,  CAUSE,  and  EDUCOM 
+to  promote  the  creation  of  and  access  to 
+information  resources  in  networked 
+environments  in  order  to  enrich  scholarship 
+and  to  enhance  intellectual  productivity. 
+Merit's  responsibilities  in  theTopNode 
+project  include  sharing  knowledge  about 
+network  resources,  assisting  in  the  gathering 
+of  such  information,  and  creating  an  X.500 
+version  of  the  TopNode  directory. 
+
+
+VCl  X 
+
+
+■  I 
+
+
+»fe€J  o¥  CNI 
+
+i     •  i         1=       '       *  /  Ml      VI    1 
+
+
+In  the  other  endeavor,  Merit  will  work  with 
+CNI  to  create  information  packets  about  net- 
+working and  the  Internet.  Participation  in 
+this  project  includes  serving  as  a  liaison 
+among  the  various  national  networking  or- 
+ganizations, the  regional  networks,  and  other 
+organizations  creating  information  packets 
+about  the  Internet.  Merit's  focus  will  be  on 
+coordination  and  cooperation  rather  than  re- 
+writing the  necessary  materials. 
+
+If  you  have  any  questions  about  these 
+projects,  please  contact  Laura  Kelleher,  CNI 
+Project  Coordinator,  Merit  Network  at  313- 
+936-3000  or  via  email  at  lak@merit.edu 
+
+—  Laura  Kelleher,  Merit/NSFNET 
+
+
+f 
+
+
+tjh'Vr^Kn'n' 
+
+
+~-c-*  <!  :v)iniMkm^j,  Ml  is  mw 
+
+
+On  December  9,  1991,  the  High  Perfor- 
+mance Computing  Bill  of  1991,  known  in  its 
+various  iterations  as  "The  Gore  Bill"  or 
+"The  NREN  Bill,"  was  signed  into  law  by 
+President  Bush. 
+
+"Congressional  action  on  the  High  Perfor- 
+mance Computing  and  Communications  Bill 
+provides  strong  national  recognition  of  the 
+importance  of  the  national  networking  effort 
+in  which  Merit,  Inc.,  has  played  a  pioneering 
+role,"  commented  Dr.  Douglas  Van  Houwel- 
+ing,  Merit  Board  of  Directors  member  and 
+Vice-Provost  for  Information  Technology  at 
+the  University  of  Michigan.  "The  hard  work 
+is  just  now  beginning,  however,  for  the  ex- 
+
+
+pectations of  our  colleagues  and  the  compe- 
+tition for  access  are  continuing  to  rise 
+rapidly.  Merit  will  continue  to  work  with 
+the  networking  community  in  response  to 
+these  demands." 
+
+Obtaining  an  electronic  copy 
+
+Readers  may  retrieve  an  electronic  copy  of 
+the  document  from  the  Merit/NSFNET  In- 
+formation Servces  server,  nis.nsf.net,  via 
+file  transfer  protocol  (FTP).  The  file  to  re- 
+trieve is  /internet/legislative.actions/ 
+nrenbill.txt 
+
+—  Merit/NSFNET  Information  Services 
+
+
+Merit's 
+
+responsibilities  in 
+
+theTopNode 
+
+project  include 
+
+sharing 
+
+knowledge  about 
+
+network  resources 
+
+and  creating  an 
+
+X.500  version  of 
+
+.  the  TopNode 
+
+directory. 
+
+
+"The  hard  work  is 
+
+just  now 
+
+beginning, 
+
+however,  for  the 
+
+expectations  of 
+
+our  colleagues 
+
+and  the 
+
+competition  for 
+
+access  are 
+
+continuing  to  rise 
+
+rapidly. " 
+
+
+March/ April  1992 
+
+
+Page  7 
+
+
+T3  production,  cont.  from  page  I 
+
+
+New 
+
+organizational 
+structures  have 
+been  developed 
+to  enhance 
+network  operation 
+and  improve  the 
+interaction  with 
+regionals  on 
+network  problems. 
+
+
+discovered  and  fixed.  Problems  were  inves- 
+tigated starting  at  the  circuit  level,  moving  to 
+the  DSU  or  interface  hardware,  and  finally 
+to  the  router  software  and  hardware. 
+
+In  recent  months,  T3  circuit  and  router  de- 
+ployment has  continued  at  the  sixteen 
+NSFNET  regional  sites  with  the  last  of  these 
+completed  in  November.  Nevertheless,  the 
+phase-in  of  additional  production  traffic  to 
+the  T3  network  was  delayed  because  of  con- 
+tinuing concerns  over  reliability  and 
+performance  of  the  new  technology.  These 
+issues  have  been  addressed  through  a  series 
+of  actions  including: 
+
+1)  improve  the  network  software  and  hard- 
+ware, 
+
+2)  deploy  new  monitoring  tools  to  better 
+track  problems, 
+
+3)  provide  a  fallback  system  in  the  event  of 
+core  node  isolation,  and 
+
+4)  develop  new  test  strategies  to  ensure 
+that  the  final  technology  implemented  would 
+meet  the  standards  of  reliability  to  which 
+NSFNET  users  had  become  accustomed. 
+
+In  addition,  new  organizational  structures 
+have  been  developed  to  enhance  network 
+operation  and  improve  the  interaction  with 
+regionals  on  network  problems. 
+
+Visible  improvements 
+
+At  the  top  of  the  stack  of  visible  improve- 
+ments are  performance  capabilities  which 
+now  exceed  that  of  most  local  networks  to 
+which  users  are  attached.  The  national  infra- 
+structure comprises  local/campus  area 
+networks  (local  area  networks  or  LANs) 
+connected  to  the  regional  and  national  net- 
+works (wide  area  networks  or  WANs). 
+
+In  the  past,  constraints  in  performance 
+were  generally  related  to  the  WANs  having 
+slower  speeds  than  the  LANs.  Many  LANs 
+which  interconnect  to  the  regional  and 
+
+
+national  networks  are  Ethernets  capable  of 
+10  Mb/sec,  much  higher  than  the  maximum 
+1.544  Mb/sec  of  the  Tl  networks  to  which 
+the  LANs  are  attached.  In  some  cases, 
+attachments  to  campus  and  other 
+organization  LANs  have  been  at  speeds  of 
+56  Kbps  or  less. 
+
+Bandwidth  limitation  now  at  the  local 
+level 
+
+Implementation  of  the  T3  infrastructure 
+has  produced  a  setting  in  which  backbone 
+capacity  is  higher  than  much  of  the  intercon- 
+necting network  bandwidth  beneath  it.  As  a 
+result,  bandwidth  limitation  now  occurs  for 
+most  sites  at  the  midlevel/regional  level 
+rather  than  at  the  national  network  level. 
+While  100  Mb/sec  Fiber  Distributed  Data 
+Interface  (FDDI)  is  supported  at  some  local 
+and  regional  networks,  most  have  yet  to  de- 
+ploy this  technology. 
+
+Stability  period  used  for  tests 
+
+A  two-week  hiatus  in  December  was  de- 
+clared a  period  of  "no  change"  on  the  T3 
+network.  The  time  was  used  to  judge  the  sta- 
+bility and  reliability  of  the  network  in  a 
+steady  state  condition,  to  prepare  for  the 
+cutover  of  Tl  traffic,  to  test  the  T1/T3  inter- 
+connect gateway  backup,  and  to  perform 
+tests  which  were  scheduled  and  coordinated 
+with  the  regional  networks.  The  testing  pe- 
+riod proved  successful  and  enhanced 
+confidence  in  the  network. 
+
+Safety  Net 
+
+Safety  Net  has  been  put  in  place  as  a 
+fallback  in  case  all  T3  paths  to  a  core  node 
+become  unusable.  It  represents  the  addition 
+of  12  Tl  links  to  interconnect  with  the  T3 
+backbone  Core  Nodal  Switching  Subsystem 
+(CNSS)  nodes.  These  safety  net  links  are  in- 
+
+See  T3  production,  following  page 
+
+
+Page  8 
+
+
+Link  Letter 
+
+
+T3  production,  cont.  from  page  8 
+
+stalled  between  the  MCI  switching  centers 
+and  do  not  connect  to  the  Exterior  Nodal 
+Switching  Subsystem  (ENSS)  nodes.  The  Tl 
+link  metrics  are  designed  so  that  a  Tl  path  is 
+used  only  if  all  other  T3  paths  to  adjacent 
+CNSS  nodes  become  unreachable. 
+
+Restructuring  of  Merit/ANS  NOC  and 
+Internet  Engineering  Group 
+
+The  NSFNET  is  a  vital  communications 
+link  which  demands  a  trouble-shooting 
+structure  that  is  as  efficient  and  reliable  as 
+possible.  In  an  effort  to  produce  such  a 
+framework  the  Network  Operations  Center 
+and  Internet  Engineering  groups  have  been 
+modified  to  provide  a  three-tier  problem- 
+resolution  setting. 
+
+1st  Level:  Network  Operations  Techni- 
+cians. NOC  operators  will  continue  to 
+provide  first  level  technical  support  for  net- 
+work problems.  The  NOC  function  will 
+become  more  formalized  with  emphasis  on 
+reporting,  escalation,  tracking,  and  proce- 
+dure execution. 
+
+2nd  level:  National  Network  Attack 
+Force.  As  part  of  the  ongoing  efforts  to  en- 
+sure complete  trouble-shooting  coverage  of 
+the  national  network,  the  National  Network 
+Attack  Force  (NNAF)  has  been  formed.  This 
+group  of  six  individuals  provides  24-hours 
+per  day /seven-days  per  week  implementa- 
+tion of  the  T3  network  problem  resolution 
+process.  The  team  develops  NOC  diagnostic 
+tools,  trains  NOC  operators,  and  performs 
+network-related  tests.  The  group  reports  to 
+the  IE  manager. 
+
+3rd  Level:  Internet  Engineering  Group. 
+A  number  of  the  tasks  indicated  above  were 
+previously  handled  by  the  Internet  Engineer- 
+ing staff.  As  the  NNAF  members  assume 
+those  duties,  the  Internet  Engineers  will 
+have  time  to  pursue  longer-term  engineering 
+
+
+activities  and  for  attending  to  the  highest 
+priority  problems  which  reach  the  third  level 
+of  escalation. 
+
+Future  T3 
+
+The  mix  of  a  solid  foundation  plus  future 
+leading  edge  technology  such  as  the  immi- 
+nent deployment  of  the  new  IBM-developed, 
+high-performance  interfaces  for  the  RS/ 
+6000-based  routers,  helps  ensure  that  no- 
+table network  performance  will  be  realized. 
+
+As  noted  on  page  10  of  this  issue,  the  Na- 
+tional Science  Board  recently  approved  a 
+request  by  the  National  Science  Foundation 
+to  extend  the  current  Cooperative  Agree- 
+ment with  Merit  for  a  period  of  up  to  18 
+months  beyond  the  November  1992  expira- 
+tion date  of  the  current  contract. 
+
+Developers  and  engineers  within  the  part- 
+nership continue  to  work  toward  a  greater 
+understanding  of  the  interactions  of  applica- 
+tion and  network  engineering,  and  to  tune 
+the  network  to  maximize  efficiency  as  the 
+user  base  grows. 
+
+—  Ellen  Hoffman,  Mark  Knopper,  and 
+Pat  Smith  Merit/NSFNET 
+
+
+The  mix  of  a  solid 
+
+foundation  plus 
+
+future  leading 
+
+edge  technology 
+
+helps  ensure  that 
+
+notable  network 
+
+performance  will 
+
+he  realized. 
+
+
+March/ April  1992 
+
+
+Page  9 
+
+
+At  the  end  of  November  1992,  the 
+existing  five-year  cooperative 
+t  agreementwhich  the  National 
+Science  Foundation  has  with  Merit  for 
+NSFNET  backbone  services  comes  to  an 
+end.  For  those  who  have  come  to  rely  on  the 
+NSFNET  for  the  work  they  do  in  research 
+and  education,  the  question  of  "what 
+happens  next?"  is  critical  to  assuring 
+stability  and  planning  for  the  future. 
+
+Some  answers  are  at  hand  since  the  Na- 
+tional Science  Board  met  at  the  end  of 
+November  and  approved  a  plan  put  forth  by 
+NSF's  Division  of  Networking  and  Commu- 
+nications Research  and  Infrastructure. 
+
+"NSF  plans  to  make  a  draft  solicitation  for 
+the  Backbone  follow-on  available  sometime 
+in  March  for  a  two  to  three  month  period  of 
+public  comment,"  said  Steve  Wolff.  He 
+added  that  NSF  hopes  to  issue  the  solicita- 
+tion in  May  or  June  of  this  year. 
+
+No  service  Interruption  for  users 
+
+The  plan  has  two  aspects:  the  first  is  a 
+provision  which  will  assure  that  users  will 
+see  no  interruption  in  service  when  the 
+current  agreement  expires.  The  second  is  a 
+set  of  solicitations  for  longer-term  provision 
+of  services. 
+
+
+"As  an  association  of  network  and  infor- 
+mation service  providers,  FARNET 
+[Federation  of  American  Research  Net- 
+works] has  endorsed  the  principles  of 
+competition  and  choice,  especially  where  the 
+market  for  these  services  is  maturing,"  said 
+Laura  Breeden,  Executive  Director  of 
+FARNET.  "We  are  looking  forward  to 
+working  with  NSF  on  the  implementation  of 
+its  plans  for  the  INREN  [Interim  National 
+Research  and  Education  Network]." 
+
+Plan  reflects  FARNET  recommendations 
+This  past  November  FARNET  submitted  a 
+number  of  recommendations  to  NSF 
+regarding  interregional  connectivity  after 
+November  1992.  The  plan  reflects  some 
+aspects  of  the  FARNET  input,  as  well  as 
+the  input  of  many  other  individuals,  federal 
+agencies,  and  organizations  with  whom 
+NSF  consulted. 
+
+A  complete  copy  of  the  document  may  be 
+obtained  via  anonymous  FTP  to  nis.nsf.net. 
+The  directory  is  /nsfnet/news.releases/  and 
+the  document  to  retrieve  is: 
+nsfnet.project.development.plan 
+
+— Merit/NSFNET  Information  Services 
+
+
+Page  10 
+
+
+Link  Letter 
+
+
+ij  ,V  !V 
+
+
+:i    l  ^i 
+
+
+fe>fii!i  IrW^'Wi 
+
+
+The  following  is  a  new  acceptable  use  policy  for  the  NSFNET  backbone  service.  Copies  are  available  via  anonymous 
+FTP  from  nis.nsf.net.  The  file  to  retrieve  is:  acceptable.use.policies/nsfnet.txt  or  nsfnet.ps  for  the  PostScript  version. 
+
+
+The  NSFNET  Backbone  Service  Acceptable  Use  Policy 
+
+GENERAL  PRINCIPLE: 
+
+(1)  NSFNET  Backbone  services  are  provided  to  support  open  research  and    education  in  and 
+among  US  research  and  instructional  institutions,  plus  research  arms  of  for-profit  firms  when  engaged  in 
+open    scholarly  communication  and  research,  Use  for  other  purposes  is  not  acceptable. 
+SPECIFICALLY  ACCEPTABLE  USES: 
+
+(2)  Communication  with  foreign  researchers  and  educators  in  connection  with  research  or  Instruc- 
+tion, as  long  as  any  network  that  the  foreign  user  employs  for  such  communication  provides  reciprocal 
+access  to  US  researchers  and  educators. 
+
+(3)  Communication  and  exchange  for  professional  development,  to  maintain  currency,  or  to  debate 
+issues  in  a  field  or  subfield  of  knowledge. 
+
+(4)  Use  for  disciplinary-society,  university-association,  government-advisory,  or  standards  activities  re- 
+lated to  the  user's  research  and  instructional  activities. 
+
+(5)  Use  in  applying  for  or  administering  grants  or  contracts  for  research  or  instruction,  but  not  for  other 
+fundraising  or  public  relations  activities. 
+
+(6)  Any  other  administrative  communications  or  activities  in  direct  support  of  research  and  instruc- 
+tion. 
+
+(7)  Announcements  of  new  products  or  services  for  use  in  research  or  instruction,  but  not  advertising 
+of  any  kind. 
+
+(8)  Any  traffic  originating  from  a  network  of  another  member  agency  of  the  Federal  Networking 
+Council  If  the  traffic  meets  the  acceptable  use  policy  of  that  agency. 
+
+(9)  Communication  incidental  to  otherwise  acceptable  use,  except  for  illegal  or  specifically  unac- 
+ceptable use. 
+
+
+UNACCEPTABLE  USES 
+
+(10)  Use  for  for-profit  activities  (consulting  for  pay,  sales  or  administration  of  campus  stores,  sale  of 
+tickets  to  sports  events,  and  so  on)  or  use  by  for-profit  institutions  unless  covered  by  the  General  Prin- 
+ciple or  as  a  specifically  acceptable  use. 
+
+(1 1)  Extensive  use  for  private  or  personal  business.  This  statement  applies  to  use  of  the  the  NSFNET 
+Backbone  only.  NSF  expects  that  connecting  networks  will  formulate  their  own  use  policies.  The  NSF 
+Division  of  Networking  and  Communications  Research  and  Infrastructure  will  resolve  any  questions 
+about  this  Policy  or  its  interpretation. 
+
+
+March/ April  1992 
+
+
+Page  1 1 
+
+
+Owing  to  the 
+
+leading-edge 
+
+nature  of  the 
+
+NSFNET 
+
+technology, 
+
+appropriate 
+
+monitoring  and 
+
+diagnostic  tools 
+
+are  generally  not 
+
+commercially 
+
+available. 
+
+
+Wnmi'--k^4h\(^  Up  kw  th© 
+
+
+HkJF 
+
+
+^.iJSnifllfK  'I  CSiTiBirYiief 
+
+
+Getting  the  "right  tool  for  the  job"  no 
+longer  applies  only  to  obtaining  the 
+latest  battery-powered  gizmo  from 
+the  local  "Hammers  R  Us"  hardware  store. 
+The  value  of  owning  the  proper  tool  holds 
+true  for  the  "net  ops"  who  manage  today's 
+rapidly  growing  computer  networks  as 
+much  as  for  carpenters,  electricians  or  auto 
+mechanics. 
+
+Since  1988,  Merit  has  operated  a  Network 
+Operations  Center  (NOC)  in  Ann  Arbor,  MI, 
+for  managing  the  NSFNET.  Network 
+capacity  has  expanded  more  than  700  times 
+and  network  connections  have  grown  from 
+170  in  July  1988  to  more  than  4,500  in 
+January  1992.  New  nodes  and  links  are  now 
+being  added  almost  weekly  and  data  traffic 
+has  increased  from  195  million  to  over  13 
+billion  packets  per  month. 
+
+
+It  is  the  job  of  the  technicians  in  the  Merit 
+NOC  to  monitor  this  vast  network,  open 
+trouble  tickets  for  problems  that  occur,  and 
+track  them  through  to  closure. 
+
+Owing  to  the  leading-edge  nature  of  the 
+NSFNET  technology,  appropriate  monitor- 
+ing and  diagnostic  tools  are  generally  not 
+commercially  available.  Consequently, 
+Merit  Internet  engineers  often  write  software 
+to  fill  the  need  for  timely  problem  detection 
+and  resolution  on  the  backbone. 
+
+Rover  is  one  of  the  primary  tools  used  by 
+the  Merit  NOC  to  monitor  the  NSFNET. 
+The  Rover  package  was  written  by  Bill 
+Norton  of  Merit's  Network  Management 
+Systems  group. 
+
+"Bill  has  had  almost  daily  contact  with 
+NOC  personnel  and  has  filled  in  as  an 
+
+See  Rover,  following  page 
+
+
+originalRover 
+"Roverd" 
+
+
+"Display" 
+
+NOC  Operator's 
+monitor         . 
+
+
+originalRover 
+
+
+"Display" 
+
+NOC  wall  monitor 
+
+
+d  iscovery  Rover 
+
+
+X  Window-based 
+display 
+
+
+Copyright©  Merit  Network,  1992 
+
+
+Page  12 
+
+
+Link  Letter 
+
+
+Rover,  cont.  from  page  12 
+
+operator  on  occasion.  The  unique  insight 
+into  the  needs  of  the  NOC  gained  from  this 
+contact  is  apparent  in  the  design  of  the  tool," 
+said  John  Labbe,  NOC  assistant  manager. 
+Rover  is  an  extensible  tool  that  currently 
+incorporates  two  modules:  originalRover, 
+including  Roverd  and  Display,  and 
+discoveryRover,  which  provides  an  in-depth, 
+real-time  picture  of  the  Advanced  Network 
+&  Services  T3  network.  Figure  1,  at  left,  il- 
+lustrates the  interactions  of  the  various 
+pieces  of  Rover. 
+
+originalRover 
+
+originalRover  was  developed  in  1988.  It 
+consists  of  two  parts,  Roverd  and  Display. 
+Roverd  reads  information  from  a  configura- 
+tion file  called  hostfile  that  contains  a  list  of 
+network  nodes,  IP  addresses  and  associated 
+tests  to  be  performed  on  each  of  them.  Ex- 
+ample lines  from  hostfile  are  shown  in 
+Figure  2,  below. 
+
+If  the  test  fails,  a  problem  entry  is  added  to 
+the  problem  file.  Subsequently,  if  a  test  suc- 
+ceeds the  problem  entry  is  removed.  All 
+problem  additions  and  deletions  are  logged. 
+The  contents  of  the  problem  file  are  view- 
+able on  monitors  through  the  Display 
+module  of  originalRover. 
+
+Display 
+
+The  Display  module  of 
+originalRover  allows  the 
+contents  of  the  problem 
+file  to  be  viewed  on  four- 
+by-five-foot  monitors  in 
+the  Merit  NOC  as  well  as 
+on  the  NOC  Ops'  moni- 
+tors. The  problem  file  is 
+periodically  polled  for 
+modifications  and  the  dis- 
+
+
+plays are  updated  accordingly.  A  representa- 
+tion of  the  text  display  is  shown  in  Figure  3 
+on  the  following  page. 
+
+Latest  Developments— discoveryRover 
+
+During  the  past  months,  the  T3  ANSnet 
+(Advanced  Network  &  Services  network) 
+has  come  into  its  own  as  noted  in  the  article 
+on  page  1  of  this  issue.  Rover  has  been  made 
+more  robust  to  deal  with  the  new  technology 
+and  the  increasing  complexity  of  the 
+networks. 
+
+Collection  mechanism 
+
+The  initial  version  of  originalRover  would 
+cycle  through  the  host  file  sequentially  and 
+the  time  it  took  to  query  all  the  nodes  was 
+somewhat  dependent  on  the  state  of  the 
+network.  It  would  not  put  a  report  of  "node 
+down"  in  the  problem  file  until  the 
+reachability  test — five  successive  "pings" 
+(five  retries,  one  second  apart)  had  failed. 
+This,  plus  the  sequential  pattern,  allowed  for 
+a  potentially  high  cycle  time  which  was 
+unacceptable. 
+
+With  discoveryRover  it  is  possible  to  ob- 
+tain a  more  in-depth  picture  of  the  network 
+by  supplementing  the  original  ping/ 
+reachability  tests  with  Simple  Network 
+Management  Protocol  (SNMP)  queries. 
+
+See  Rover,  following  page 
+
+
+Figure  2 
+
+#  Nodenarne 
+
+IP  Address 
+
+Info 
+
+NodeUp? 
+
+NetMgmtProto 
+
+NSF  10  BGP-601-1  /l  192.68.53.2 
+
+Help/CAEGP . HLP 
+
+PING() 
+
+NSF  5~>NSF  10 
+
+129.140.5.11 
+
+Help/LLRT . HLP 
+
+PING() 
+
+LL(LL/NSS5-NSS10) 
+
+NSF  5->NSF  8 
+
+129.140.5.12 
+
+Help/LLRT . HLP 
+
+PING() 
+
+LL(LL/NSS5-NSS8) 
+
+NSF  5->NSF  12 
+
+129.140.5.13 
+
+Help/LLRT . HLP 
+
+PING() 
+
+LL(LL/NSS5-NSS12) 
+
+NSF  5->NSF  18 
+
+129.140.5.14 
+
+Help/LLRT .  HLP 
+
+PING() 
+
+LL(LL/NSS5-NSS18) 
+
+NSF  5  spare 
+
+129.140.5.15 
+
+Help/SPR.HLP 
+
+PING() 
+
+NSF  5  NEARnet 
+
+129.140.5.16 
+
+Help/GW.HLP 
+
+PING() 
+
+NSF_5_NNStat 
+
+129.140.5.17 
+
+Help/NNSTAT . HLP 
+
+PING() 
+
+March/ April  1992 
+
+
+Page  13 
+
+
+Rover,  cont.  from  page  13 
+
+
+An  X  Window- 
+based  graphical 
+interface  has 
+been  developed 
+to  aid  in  using 
+Rover. 
+
+
+originalRover  Display  v3 . 32 
+Cycle  Time:  01:58  00:23 
+
+
+NOC  Internet  Rover 
+
+
+#  Reported 
+
+
+Problem 
+
+
+Wed  Feb  12  17:23  EST 
+Wed  Feb  12  22:23  GMT 
+SSN[   8] 
+StatusLine 
+
+
+08  NOC_merit.edu  35.1.1.42  TROUBLE 
+
+14  NSF_10_AS-601  AS_601_Address  ASDOWN 
+
+18  ISIS  cnss40-cnss32  DOWN 
+
+18  ISIS  cnss40-cnss41  DOWN 
+
+59  NSF_4_Test  129.140.4.1  PING 
+
+59  NSF_2_Test  129.140.2.1  PING 
+
+03  AS  enssl36-AS701(Alternet_Network_)  DOWtt  18418 
+
+21  T3_E150_BGP-81-3/3  192.101.21.254  PING  disabled  by  site 
+
+
+01 
+
+Wed 
+
+17 
+
+02 
+
+Wed 
+
+06 
+
+03 
+
+Tue 
+
+17 
+
+04 
+
+Tue 
+
+17 
+
+05 
+
+Sat 
+
+15 
+
+06 
+
+Sat 
+
+15 
+
+07 
+
+Fri 
+
+13 
+
+08 
+
+Fri 
+
+16 
+
+tt  18512 
+
+18504 
+
+18504 
+
+called,  no  answer 
+
+called,  no  answer 
+
+
+30-second  discovery  of  the  current 
+topology 
+
+Only  30  seconds  are  needed  for 
+discoveryRover  to  determine  the  current  to- 
+pology of  the  network  and  store  the  state  of 
+the  nodes  and  links  in  a  network  status  file. 
+This  is  accomplished  by  querying  the 
+"known"  nodes  for  information  on  the  nodes 
+they  know  about,  i.e.  "what  links  do  you 
+have,  who  is  attached  to  them,  and  what  is 
+the  state  of  the  link?"  More  specifically, 
+SNMP  queries  return  information  on  node 
+reachability,  link  state  information  and  in- 
+formation on  Autonomous  System  (AS) 
+reachability. 
+
+Nodes  that  respond  to  the  query  are 
+marked  up.  Link  state  is  determined  by  que- 
+rying the  IS -IS  tables  maintained  at  each  of 
+the  nodes. 
+
+The  IS-IS  protocol  operating  over  the  links 
+and  the  routers  will  mark  the  links  down  if 
+they  have  not  heard  a  hello  packet  recently. 
+Conversely,  if  the  router  says  the  link  is  up, 
+that  means  it  has  heard  a  hello  packet  and 
+the  remote  machine  is  probably  up  which  re- 
+sults in  the  node  being  marked  busy — most 
+
+
+likely  up  but  has  not  answered  the  SNMP 
+query  yet.  Therefore,  if  SNMP  link  queries 
+obtain  a  response  then  the  node  at  the  end  of 
+the  link  is  assumed  to  be  functioning  and  its 
+status  is  marked  up. 
+
+This  discovery  process  is  the  mechanism 
+that  obtains  the  information  stored  in  the 
+Network  Status  File  which  contains  a  list  of 
+objects  named  nodes  and  links.  Query  re- 
+sponses may  be  displayed  as  ordinary  text  or 
+through  an  X  Window-based  environment. 
+
+X  Window-based  display 
+
+An  X  Window-based  graphical  interface 
+has  been  developed  to  aid  in  using  Rover. 
+This  "front  end"  to  the  Rover  data  collector 
+displays  nodes  and  links  in  a  color-key 
+fashion  which  reflects  their  state  as  seen  in 
+the  Network  Status  File.  As  new  node  and 
+link  objects  are  discovered  in  the  network, 
+the  map  is  updated  to  show  the  new  objects. 
+Placement  of  nodes  on  the  display  is 
+accomplished  using  the  mouse,  and  the 
+map  is  automatically  saved  upon  exiting 
+the  program. 
+
+See  Rover,  following  page 
+
+
+Page  14 
+
+
+Link  Letter 
+
+
+Rover,  cont.  from  page  14 
+
+Customizing 
+
+Users  can  bind  arbitrary  actions  to  mouse 
+clicks  or  key  clicks  on  nodes  or  links  dis- 
+played on  the  map.  These  actions  are 
+defined  in  the  user's  .Xdefaults  file.  The  ex- 
+ample shown  in  Figure  4  is  a  user's 
+.Xdefaults  file  which  binds  a  "mouse  button 
+1  down  event"  to  opening  an  AiXterm  win- 
+dow and  pinging  the  node  in  question. 
+
+
+Nsfnet3*draw*XmPushButton. Translations:  #augment  \ 
+<BtnlDown>:      system (  aixterm  -e  ping  $1  )  \n\ 
+<Btn3Down>:      system (  aixterm  -e  telnet  $1  ) 
+
+
+The  "mouse  button  3  down  event"  is  like- 
+wise bound  to  opening  an  AiXterm  window 
+telneted  into  the  node.  The  graphical  display 
+replaces  all  instances  of  $1  with  the  IP  Ad- 
+dress of  the  node  that  was  pressed. 
+
+The  syntax  for  actions  on  links  is  similar. 
+Merit  is  currently  specifying  the  above  tasks 
+in  Rover's  .Xdefaults  file  by  binding  execu- 
+tion of  a  shell  script  rather  than  coding  the 
+actual  command  in  the  .Xdefaults.  While 
+originally  done  for  readability,  experience 
+has  shown  that  by  executing  a  shell  script,  a 
+layer  of  abstraction  can  easily  be  added.  For 
+instance,  if  there  is  a  desire  to  get  connected 
+to  a  node,  the  shell  script  could  try  to  use  in- 
+band  access  first,  and  if  that  failed, 
+automatically  use  out-of-band  access  trans- 
+parent to  the  operator. 
+
+One  can  imagine  invoking  a  link  testing 
+shell  script  with  a  mouse  or  key  click  se- 
+quence that  would  perform  link  diagnosis. 
+This  shell  script  might  query  either  end  of 
+the  link  for  DSU  and  interface  status,  error 
+counts,  or  other  defined  conditions. 
+
+
+Possible  use  with  other  tools 
+
+The  Network  Status  File  offers  another  ad- 
+vantage in  that  it  can  be  used  in  other 
+network  management  tools  such  as  statistics 
+collections.  The  status  file  provides  a  list  of 
+reachable  nodes  that  is  used  during  the  col- 
+lection of  data  from  the  network.  As  new 
+nodes  are  discovered  they  are  automatically 
+added  to  the  SNMP  data  collection  list. 
+
+An  additional  feature  is  the 
+automatic  measuring  of  cir- 
+cuit quality  by  Merit's  DSU 
+circuit  monitoring  facility  as 
+new  links  are  added. 
+
+Conceivably,  this  might  permit  automatic 
+diagnosis  of  problems.  Binding  execution 
+of  a  shell  script  to  a  node  or  link  state  transi- 
+tion would  be  one  way  of  automating 
+problem  determination.  This  script  could  po- 
+tentially update  the  operators'  problem  entry 
+with  the  information  that  it  discovered. 
+Eventually,  the  problem  might  also  be  cor- 
+rected automatically.  In  that  case,  the  NOC 
+would  be  informed  of  the  occurrence  and  the 
+corrective  action  taken. 
+
+Rover  is  continually  being  refined  to  stay 
+abreast  of  the  current  needs  of  the  Network 
+Operations  Center.  For  further  information 
+on  this  tool  contact: 
+
+Bill  Norton 
+
+Merit  Network,  Inc. 
+
+1071  Beal  Ave. 
+
+Ann  Arbor,  MI  48109-2112 
+
+wbn@merit.edu 
+
+—Pat  Smith,  Merit/NSFNET 
+
+
+Users  can  bind 
+
+arbitrary  actions 
+
+to  mouse  clicks  or 
+
+key  clicks  on 
+
+nodes  or  links 
+
+displayed  on  the 
+
+map. 
+
+
+March/ April  1992 
+
+
+Page  15 
+
+
+NSFNET  Packet  Traffic  History 
+
+
+February  1992, 
+13.4  billion  packets* 
+
+
+*Total  packets,  T1  and  T3 
+networks 
+
+
+Jan     Mar 
+
+
+May    Ju|y    Sep    Nov 
+
+
+1989 
+
+
+©Merit Network,  Inc.,    1992 
+
+
+Merit/NSFNET 
+
+2901  Hubbard,  Pod  G 
+
+Ann  Arbor,  MI  48109-2016 
+
+
+July  1988,  NSFNET  begins 
+.  operation  under  Merit's 
+management 
+
+
+14000 
+
+13000 
+
+12000 
+
+11000 
+
+10000 
+
+9000 
+
+8000 
+
+7000 
+
+6000 
+
+5000 
+
+4000 
+
+3000 
+
+2000 
+
+1000 
+
+
+992 
+
+
+en 
+c 
+o 
+
+
+-#— » 
+
+o 
+
+Q. 
+
+
+Page  16 
+
+
+Link  Letter 
+
+

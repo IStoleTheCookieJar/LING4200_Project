@@ -1,0 +1,1151 @@
+r 
+
+
+AD-A220  897 
+
+la.  REPORT  SECURITY  CLASSIFICATION  I  1  1  *' 
+
+Unclassified  *  1 
+
+
+2a.  SECURITY  CLASSIFICATION  AU 
+
+
+r=.,; 
+
+fit:  ■ 
+
+
+>ORT  DOCUMENTATION  PAGE 
+
+I  lb.  RESTRICTIVE  MARKINGS 
+
+
+2b.  DECLASSIFICATION /DOWNGR 
+
+
+4.  PERFORMING  ORGANIZATION 
+UMR-FDB-14 
+
+
+6a.  NAME  OF  PERFORMING  ORGANIZATION 
+University  of  Missouri-Rolla 
+
+
+6c  ADDRESS  (C/ty,  State,  and  ZIP  Code) 
+
+Department  of  Chemistry 
+University  of  Missouri-Rolla 
+Rolla,  MO  65401  _ 
+
+
+8a.  NAME  OF  FUNDING /SPONSORING 
+ORGANIZATION 
+
+
+8c.  ADDRESS  (City,  State,  and  ZIP  Code) 
+
+
+11.  TITLE  (Include  Security  Claudication) 
+
+
+I 
+
+
+3.  DISTRIBUTION  /AVAILABILITY  OF  REPORT 
+
+Approved  for  Unlimited  Public  Release 
+
+
+5.  MONITORING  ORGANIZATION  REPORT  NUMBER(S) 
+
+
+6b.  OFFICE  SYM80L  7a.  NAME  OF  MONITORING  ORGANIZATION 
+(If  applicable ) 
+
+Office  of  Naval  Research  (ONR) 
+
+
+7b.  ADDRESS  (C/ty,  State,  and  ZIP  Code) 
+Chemistry  Division 
+800  Quincy  Street 
+Arlington.  VA  22203 
+
+
+8b.  OFFICE  SYMBOL  I  9.  PROCUREMENT  INSTRUMENT  IDENTIFICATION  NUMBER 
+
+
+(If  applicable) 
+
+
+N00014-88-K-0109 
+
+
+10.  SOURCE  OF  FUNDING  NUMBERS 
+
+
+PROGRAM  PROJECT 
+
+ELEMENT  NO.  NO. 
+
+N00014-88  K-0109 
+
+
+Density  Profile  of  Terminally  Adsorbed  Polymers. 
+
+
+12.  PERSONAL  AUTHOR(S) 
+
+Frank  D.  Blum,  Brijnaresh  R.  Sinha,  and  Fredrick  C.  Schwab _ 
+
+
+13a.  TYPE  OF  REPORT  13b.  TIME  COVERED  14.  DATE  OF  REPORT  (Year,  Month,  Day)  15.  PAGE  COUNT 
+
+Interim  from  1/89  to  1/90  April  9,  1990  _  28 
+
+
+16.  SUPPLEMENTARY  NOTATION 
+
+
+Macromolecules,  in  press. 
+
+
+17. 
+
+COSATI  CODES  | 
+
+FIELD 
+
+GROUP 
+
+SUB-GROUP  1 
+
+18.  SUBJECT  TERMS  (Continue  on  reverse  if  necessary  and  identify  by  block  number) 
+
+^Polymers,  surface,  NMR,  molecular  motion,  colloidal 
+stability  ,  5  M? — - 
+
+
+ABSTRACT  ( Continue  on  reverse  if  neceuary  and  identify  by  block  number) 
+
+^Specifically  labelled  terpolymers  of  2-vinylpyridine,  styrene  and  deuterostyrene 
+have  been  prepared  by  anionic  polymerization.  The  deuterostyrene  was  deuterated  in  the 
+methine  position  and  positioned  either  in  the  middle  or  at  the  end  of  the  triblock 
+terpolymer.  The  moderately  low  molecular  weight  polymers  (ca.  20,000  g.mol, 
+polydispersity  ca.  1.4)  were  then  adsorbed  onto  high  surface  area  silica.  The 
+environment  of  the  styrene  segments  in  the  terpolymer  attached  to  the  silica  surface 
+and  swollen  with  toluene  was  probed  with  deuterium  NMR.  Comparison  of^deuterium 
+NMR  spin  lattice  relaxation  time,  Tpfor  the  adsorbed  polymer  to  that  of  Yhe  polymer 
+in  solution  suggests  that  the  local  concentration  of  styrene  segments  near  bhe  middle 
+of  the  polymer,  i.e.  next  to  -the  vinylpyr idine  segments,  is  about  0.11  g/ml.t  The 
+concentration  of  segments  located  at  the  end  of  the  polymer  is  estimated  to  be 
+approximately  0.048  g/ml.  These  experiments  suggest  that  the  polymers  are  extended 
+in  a  good  solvent  for  styrene  to  about  4  times  the  styrene  radius  of  gyration. 
+
+
+20.  DISTRIBUTION /AVAILABILITY  OF  ABSTRACT 
+
+[j3 UNCLASSIFIED/UNLIMITED  0  SAME  AS  RPT.  □  OTIC  USERS 
+
+21.  ABSTRACT  SECURITY  CLASSIFICATION 
+
+Unclassified 
+
+22a.  NAME  OF  RESPONSIBLE  INDIVIDUAL 
+
+Kenneth  J.  Wynne 
+
+22b  TELEPHONE  (Include  Area  Code ) 
+
+202-696-4409 
+
+83  APR  edition  may  be  used  until  exhausted. 
+All  other  editions  are  obsolete. 
+
+
+SECURITY  CLASSIFICATION  OF  THIS  PAGE 
+UNCLASSIFIED 
+
+
+I 
+
+
+OFFICE  OF  NAVAL  RESEARCH 
+Grant  N00014-88-K0109 
+R&T  Code  413m005 
+
+
+Technical  Report  #  UMR-FDB-14 
+Density  Profile  of  Terminally  Adsorbed  Polymers 
+
+
+by 
+
+Frank  D.  Blum.  Brijnaresh  R.  Sinha  and  Fredrick  C.  Schwab 
+
+
+Department  of  Chemistry  and  Materials  Research  Center 
+University  of  Missouri-Rolla 
+
+
+Rolla,  MO  65401 
+
+Acces ion  For  | 
+
+(314)  341-4451 
+
+NTIS  CRA&I 
+DTIC  TAB 
+
+Unannounced 
+
+Justification 
+
+0 
+
+□ 
+
+□ 
+
+Prepared  for  Publication  in 
+
+By 
+
+Distribution  / 
+
+Macromolecules 
+
+AvaMabil'ty  Codes 
+
+March  20,  1990 
+
+Dist 
+
+Avail  and /or 
+
+Special 
+
+/H 
+
+Reproduction  in  whole,  or  in  part,  is  permitted  for  any  purpose  of  the 
+United  States  Government. 
+
+
+This  document  has  been  approved  for  public  release  and  sale:  its 
+distribution  is  unlimited. 
+
+
+90  04  25  OH? 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+2 
+
+
+ABSTRACT 
+
+Specifically  labelled  terpolymers  of  2-vinylpyridine,  styrene  and  deuterostyrene  have  been 
+prepared  by  anionic  polymerization.  The  deuterostyrene  was  deuterated  in  the  methine  position  and 
+positioned  either  in  the  middle  or  at  the  end  of  the  triblock  terpolymer.  The  moderately  low 
+molecular  weight  polymers  (ca.  20,000  g/mol,  polydispersity  ca.  1.4)  were  then  adsorbed  onto  high 
+surface  area  silica.  The  adsorption  isotherm  was  measured  from  toluene  solution  to  plateau  at  about 
+1.75  mg  polymer/m^  silica.  The  environment  of  the  styrene  segments  in  the  terpolymer  attached  to 
+the  silica  surface  and  swollen  with  toluene  was  probed  with  deuterium  NMR.  Comparison  of 
+
+deuterium  NMR  spin  lattice  relaxation  time,  Tt  for  the  adsorbed  polymer  to  that  of  the  polymer  in 
+solution  suggests  that  the  local  concentration  of  styrene  segments  near  the  middle  of  the  polymer,  i.e. 
+next  to  the  vinylpy.idine  segments,  is  about  0.1 1  g/ml.  The  concentration  of  segments  located  at  the 
+end  of  the  polymer  js  estimated  to  be  approximately  0.048  g/ml.  These  experiments  suggest  that  the 
+polymers  are  extended  in  a  good  solvent  for  styrene  to  about  4  times  the  styrene  radius  of  gyration. 
+
+The  relaxation  times  (Tj  and  T2)  of  the  surface-bound  polymer  were  closer  to  each  other  than  those 
+for  the  homopolymer  in  solution  suggesting  that  the  dynamics  are  rather  different  than  in  solution. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+3 
+
+
+INTRODUCTION 
+
+The  use  of  polymers  as  agents  for  improving  colloidal  stability  is  well  known.1'4  In  the 
+absence  of  significant  electrostatic  forces,  polymers  may  be  used  to  achieve  colloidal  stability 
+through  entropic  stabilization,  based  on  the  inability  of  the  polymer  segments  on  neighboring 
+particles  to  pass  through  each  other  or  intertwine  upon  close  approach.  A  number  of  theoretical 
+treatments  have  been  used  to  describe  the  conformation  of  polymer  molecules  on  solid  surfaces 
+including  those  based  on  self-consistent  field,5'6  scaling7  or  Monte-Carlo  approaches.8  These 
+theories  have  been  of  importance  in  understanding  the  basic  chemistry  and  physics  of  adsorbed 
+macromolecules. 
+
+The  properties  of  systems  which  require  adsorbed  polymers  can  often  be  improved  with  the 
+use  of  copolymers  instead  of  homopolymers.  Block  copolymers  are  often  used  and  suited  for  study 
+because  these  specifically  tailored  molecules  may  behave  in  a  straightforward  way  if  one  segment 
+adsorbs  to  the  surface  much  better  than  the  other.  This  may  result  in  terminally  attached  polymers 
+which  have  been  treated  theoretically  for  the  case  where  one  segment  is  strongly  adsorbed  and  the 
+other  is  not.8'11  It  is  predicted  that  terminally  attached  polymers  will  have  density  profiles  that 
+depend  on  the  coil  radius  of  the  chain,  R  and  the  distance  between  the  grafted  sites  on  the  surface, 
+D .7.9,10  The  extreme  configurations  for  random-coil  polymers  have  been  described  as  "mushrooms" 
+(D  »  R)  or  "brushes"  (D  «  R).  In  the  mushroom  case,  the  polymer  coil  occupies  roughly  a  half 
+sphere  on  the  surface  with  a  radius,  R.  The  brushes,  on  the  other  hand,  are  expected  to  have  a  much 
+more  extended  conformation  with  a  density  profile  which,  after  an  initial  rise,  is  roughly  flat  and 
+drops  off  suddenly  at  a  distance,  ^proportional  to  molecular  weight.  This  has  not  yet  been 
+experimentally  verified.  The  chains  in  this  regime  have  been  called  "stretched  chains".10  Milner  et 
+al.1 1  have  used  self-consistent  field  methods  to  calculate  the  concentration  profile  of  brushes  in  a 
+solvent.  They  predict  a  concentration  profile  of  a  parabolic  form  for  high  molecular  weight  brushes 
+as  opposed  to  a  step  function  predicted  by  Alexander9  and  de  Gennes.10  Neither  model  has  been 
+conclusively  verified. 
+
+In  the  past  few  years,  there  have  been  a  number  of  experimental  studies  performed  on  block 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+4 
+
+
+copolymers  attached  to  solid  surfaces.  One  system  which  has  attracted  attention  has  been  block 
+poly(2-vinylpyridine-co-styrene),  (VPS).  In  addition,  many  similar  systems  with  variations  on  this 
+basic  structure  have  also  been  studied.  The  adsorption  of  VPS  on  silica  for  both  block  and  random 
+copolymers  in  trichloroethylene  has  suggested  that;  styrene  does  not  adsorb  on  the  silica  surface  and 
+the  presence  of  2-vinylpyridine  in  the  copolymer  is  necessary  to  achieve  steric  stabilization.12 
+Hadziioannou,  et  al.1^  have  adsorbed  VPS  polymers  on  mica  and  used  the  surface  force  apparatus  to 
+probe  the  polymer-polymer  interactions  between  coated  surfaces  at  small  separations  in  solvents  of 
+different  thermodynamic  quality.  In  a  good  solvent,  toluene,  they  found  that  the  onset  of  the 
+repulsive  interactions  between  the  polymer  coated  surfaces  occurred  at  separations  of  about  10  R2 
+
+(radius  of  gyration  value  expected  in  solution).  This  suggested  a  very  extended  structure  for  the 
+styrene  segments.  In  contrast,  in  a  poor  solvent,  cyclohexane,  the  repulsion  occurs  only  at  about  4 
+
+Rg,  suggesting  a  much  more  compact  structure.  Qualitatively  similar  results  have  been  found  for 
+
+copolymers  with  t-butylstyrene  as  a  comonomer  with  2-vinylpyridine  in  several  solvents.14’1 5 
+
+A  number  of  other  experimental  techniques  for  studying  adsorbed  polymers  are  available  and 
+many  of  these  have  been  reviewed16  and  classified  as  either  thermodynamic,  spectroscopic 
+(including  scattering),  hydrodynamic,  electrochemical  or  disjoining  pressure.  Though  many 
+advances  in  understanding  them  have  been  made,  much  more  experimental  work  needs  to  be  done  to 
+test  the  theoretical  predictions  and  also  to  gain  further  insight  into  these  systems.  In  the  present 
+study,  we  have  probed  the  environment  of  two  different  triblock  terpolymers,17  namely 
+poly(2-vinylpyridine-styrene-deuterostyrene)  (VPSDS)  and  poly(2-vinylpyridine-deuterostyrene- 
+styrene),  (VPDSS)  bound  to  silica  surfaces  and  swollen  with  solvent.  The  two  polymers  differ  in 
+the  positions  of  the  label  (deuteron),  allowing  the  environment  to  be  probed  as  a  function  of  the 
+
+contour  length  of  the  polymer.  Using  the  fact  that  the  deuteron  longitudinal  relaxation  time,  Tj  is 
+sensitive  to  the  local  dynamics  of  the  chain,  a  comparison  with  the  solution  relaxation  time  and  that 
+of  the  surface-bound  segments  provides  a  measure  of  the  effective  polymer  concentration  for  the 
+
+latter  species.  Differences  in  the  transverse  relaxation  times  (T2)  between  bound  and  unbound 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+5 
+
+
+polymer  segments  of  a  fairly  large  magnitude  have  already  been  demonstrated.1^'1^  Much  smaller 
+differences  in  liquid-like  spectra  were  used  in  this  study  to  probe  the  relatively  small  differences 
+between  the  two  different  labelled  polymer  segments. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+6 
+
+
+Experimental 
+
+Polymer  Synthesis  and  Characterization,  a-deuterated  styrene  was  synthesized  by 
+preparing  the  Grignard  reagent  from  a-bromostyrene  followed  by  addition  of  deuterium  oxide.  The 
+purity  of  the  monomer  was  checked  by  deuterium  and  proton  NMR,  and  IR  spectroscopy.  Typically 
+deuteration  levels  for  the  monomer  were  found  to  be  80-90%  d  in  the  methine  position.  The  block 
+polymers  were  prepared  via  "living"  anionic  polymerization  techniques  by  sequential  addition  of 
+monomer  similar  to  methods  used  by  Sigwalt,  et  al.20  The  polymerizations  were  carried  out  in 
+tetrahydrofuran  (THF)  at  low  temperatures  (-78  °C)  using  sec-butyllithium  as  the  initiator.  The 
+vinylpyridine  block  was  always  added  last  because  the  pyridinyl  anion  is  incapable  of  initiaing 
+styrene  monomer.  After  termination  with  methanol  the  block  polymers  were  isolated  by  precipitation 
+in  hexane.  The  structure  of  the  polymers  is  given  below: 
+
+(CH  2  -CH)X  -  (CH  2  -CD)  y  -  (CH  2  -CH)Z 
+
+(Oj  (Q] 
+
+VPDSS 
+
+(CH 2  -CH)X—  (CH 2  -CH)y -  (CH  2  -CD)Z 
+
+(Oj  (O)  (O) 
+
+VPSDS 
+
+We  note  that  in  the  absence  of  any  molecular  weight  effects,  the  polymers  differ  only  in  the  position 
+of  the  deuteron. 
+
+
+The  molecular  weights  of  the  polymers  were  determined  by  size  exclusion  chromatography  in 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+7 
+
+
+THF  which  is  a  good  solvent  for  both  polymer  segments.  The  molecular  weights  reported  are  based 
+on  polystyrene  standards  and  no  correction  was  made  for  the  presence  of  the  2-vinylpyridine 
+segments.  The  results  for  the  polymers  used  in  this  study  are  given  in  Table  I. 
+
+Adsorption.  Due  to  its  high  surface  area  (200  ±  25  m2/g),  amorphous  fumed  silica, 
+Cab-O-Sil  M-5,  (Cabot  Corporation,  Tuscola,  IL)  was  chosen  as  the  model  surface.  This  silica  was 
+first  heated  in  a  vacuum  oven  at  105°C  for  24  hours  to  remove  any  adsorbed  moisture  and  then 
+samples  of  it  weighed  in  centrifuge  tubes.  The  surface  area  of  the  silica  was  found  to  be  within 
+experimental  error  of  the  nominal  200  m2/g  before  and  after  heat  treatment  as  determined  by  nitrogen 
+adsorption.  Cab-O-Sil  consists  of  fused  silica  beads  with  diameters  of  about  140  A  each.  Solutions 
+of  poIy(2-vinylpyridine-co-styrene)  (VPS)  in  toluene  of  varying  concentrations  were  prepared. 
+Known  quantities  of  these  solutions  were  then  added  into  the  tubes  containing  silica,  which  were 
+allowed  to  equilibrate  in  a  water  bath  for  48  h  at  25  °C.  The  tubes  were  then  removed  and 
+centrifuged.  The  concentration  of  polymer  in  the  supernatant  liquid  was  then  determined 
+gravimetrically  after  solvent  evaporation.  The  amount  of  VPS  adsorbed  per  gram  of  silica  was  then 
+calculated  from  the  knowledge  of  the  initial  and  final  concentration  of  VPS  and  the  amount  of  silica 
+used.  The  amount  of  VPS  adsorbed  per  g  of  surface  was  calculated  and  plotted  against  the 
+equilibrium  concentration  of  polymer  in  solution  to  obtain  the  adsorption  isotherm.  The  isotherms 
+obtained  in  this  way  were  similar  to  those  obtained  by  waiting  only  24  h  for  equilibration. 
+
+NMR  Measurements.  The  NMR  measurements  reported  were  made  at  18  °C  for  the 
+surface  bound  species  and  for  the  solutions  on  a  Varian  VXR-200  NMR  spectrometer  operating  at 
+30.7  MHz  for  deuterons  and  50.3  MHz  for  carbon- 13.  Modulated  proton  decoupling  was  used  for 
+the  carbon- 13  measurements.  Solutions  of  deuteropolystyrene  (DS)  in  toluene  of  several  different 
+concentrations  were  prepared  along  with  samples  with  monolayer  coverage  of  both  terpolymers, 
+
+washed  with  toluene,  dried,  and  reswollen  with  toluene.  Deuterium  relaxation  times  (Tj  and  T2) 
+
+were  measured  for  the  methine  deuteron.  The  T[  values  were  measured  using  the  inversion-recovery 
+
+( 1  80°-t-90°)  sequence  and  the  T2's  with  the  CPMG  method.21  A  pulse  delay  of  410  ms  (greater  than 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+8 
+
+
+5  x  Tj)  was  allowed  for  the  deuterons  to  acheive  equilibrium  magnetization  after  each  data 
+acquisition.  Typically  2000  (surface)  and  200  (solution)  transients  were  taken  for  each  time  value 
+of  the  relaxation  measurements.  The  errors  in  the  measurement  of  Tj  were  about  3%  and  for  T2 
+about  10%.  These  estimates  are  based  on  both  the  precision  estimated  on  individual  runs  plus  the 
+consistency  of  replicate  runs.  In  addition  to  high  resolution  liquids  experiments,  several  wide-line 
+experiments  on  these  polymers  were  also  made.  Deuterium  wide-line  spectra  using  the  solid  echo 
+sequence22  with  a  2ps  90°  pulse  and  2  MHz  band  width,  were  used  on  the  bulk  homopolymer  to 
+estimate  the  quadrupole  coupling  constant  and  to  check  for  the  presence  of  broad  (solid-like) 
+resonances  on  the  swollen,  surface-bound  polymers. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+9 
+
+
+Results 
+
+The  adsorption  isotherms  for  two  of  the  copolymers  are  shown  in  Figure  1.  Both  are  similar 
+in  nature  and  are  not  of  the  high  affinity  type  exhibited  for  other  polymer  systems.22-24  They  plateau 
+at  320  and  370  mg  polymer/g  silica  for  the  VPS-7  and  VPS-1,  respectively.  Using  the  nominal 
+value  of  200  m2/g  for  the  surface  area  of  the  silica,  the  plateaus  correspond  to  1.6  and  1.9  mg 
+polymer/m2,  respectively.  The  isotherms  of  the  two  polymers  are  similar  and  perhaps  expected  to 
+be  so  because  they  have  similar  weight  average  molecular  weights. 
+
+The  proton  decoupled  carbon- 13  spectrum  of  VPS-1  and  VPDSS  surface-bound  onto  silica  are 
+
+shown  in  Figure  2  in  toluene-dg.  The  spectrum  of  the  solution  polymer  is  assigned  in  the  figure 
+
+based  on  chemical  shifts  found  in  the  literature.25  The  spectrum  of  the  swollen  polymer  on  the 
+surface  has  resonances  which  are  somewhat  broader  than  those  of  the  solution  polymer.  In  addition, 
+the  resonances  from  the  vinylpyridine  are  not  observed  in  the  surface-bound  species  suggesting  that 
+these  segments  are  somewhat  immobile. 
+
+The  segmental  dynamics  of  the  polymer  was  studied  using  deuterium  NMR  of  the  deuterons 
+labelled  at  the  methine  position.  Some  of  the  original  spectra  were  shown  previously17  and  are  not 
+repeated  here.  The  response  of  the  magnetization  of  the  styrene  deuterons  to  the  inversion-recovery 
+pulse  sequence  is  shown  in  Figure  3  for  terpolymers  VPDSS  and  VPSDS,  adsorbed  on  Cab-O-Sil 
+and  reswollen  with  toluene.  A  small  resonance  from  the  ring  deuterons  on  the  toluene  (from  natural 
+
+abundant  deuterons)  was  apparent,  but  because  of  chemical  shift  and  Tj  differences,  it  could  easily 
+be  distinguished  from  that  of  the  polymer.  It  is  important  to  note  that  the  relaxation  behavior  can  be 
+fit  with  a  single  exponential  in  each  case.  Statistical  analysis  of  both  curves  verified  that  within 
+experimental  error,  multi-  and  bi-exponential  behavior  was  not  present.  In  addition,  both  curves 
+
+suggest  similar  relaxation  times.  The  Tj  values  which  describe  the  data  are  3.63  ±  0.092  and  3.94 
+±  0.089  ms  for  the  VPDSS  and  VPSDS,  respectively.  These  values  represent  the  averages  of  3  runs 
+each. 
+
+The  response  of  the  deuterons  to  the  CPMG  pulse  sequence  is  shown  in  Figure  4  for  the  two 
+
+
+Blum,  .-'mha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  0 
+
+Jeuterated  polymers  adsorbed  on  silica  and  swollen  in  toluene.  The  time  dependence  of 
+magnetization  was  fit  with  a  single  exponential  decay  constant,  T2,  for  both  of  the  polymers.  The 
+time  dependence  of  the  magnetization  could  also  be  fit  to  a  multi-exponential  decay  for  each  case  but 
+these  fits  are  not  significantly  better  statistically  than  a  single  exponential  fit.  The  CPMG  behavior 
+was  also  probed  for  time  periods  of  an  order  of  magnitude  larger  and  smaller  than  the  range  at  which 
+
+the  T2  was  measured  (Figure  4).  At  time  periods  larger  than  that  range,  no  signal  was  obtained  from 
+the  adsorbed  polymer  while  at  time  periods  smaller  than  that  range  the  peak  intensities  were  virtually 
+constant.  Again  the  relaxation  times  for  the  deuterons  in  either  polymer  are  similar.  They  have  TVs 
+of  3.38  and  3.60  ms  for  VPDSS  and  VPSDS,  respectively.  The  linewidths  from  the  spectra  suggest 
+T2  values  which  are  similar,  but  not  equal  to,  the  measured  T2  values.  For  example,  2.70  ms  (from 
+linewidth)  vs.  3.38  ms  (from  CPMG)  was  found.  The  lineshapes  were  slightly  broader  near  the 
+base  than  expected  for  Lorentzian  shapes  based  on  the  width  at  half-height.  The  deviation  from  a 
+Lorentzian  was  typically  on  the  order  of  10%  or  less.  No  solid-like  components  w-ere  found  in 
+wide-line  spectra  of  these  species. 
+
+In  order  to  understand  the  dynamics  of  the  adsorbed  polymers,  we  have  chosen  to  compare 
+their  behavior  with  labelled  polystyrene  (DS)  in  toluene  solution.  Three  polymers  have  been  used 
+for  this  purpose  namely;  a  high  (DS1  and  low  (DS-L)  molecular  weight  homopolvmer  plus  the  block 
+
+terpolymer  (VPDSS).  In  Figure  5,  the  relaxation  times  Tj  and  T2  have  been  plotted  at  18  °C  for  the 
+polymers  in  solution  as  a  function  of  concentration.  The  concentration  range  w-as  chosen  to  bracket 
+the  relaxation  behavior  of  the  polymer  adsorbed  to  the  surface.  Rossler  et  al.-6  have  measured 
+deuteron  relaxation  times  for  the  polystyrene-toluene  system  but  they  do  not  report  separate  data  for 
+the  a-deuteron.  It  is  obvious  from  the  figure  that  the  relaxation  times  for  the  polymer  in  solution  do 
+not  bear  a  1:1  correspondence  to  those  of  the  surface  bound  polymer.  The  low  molecular  weight 
+polymer  has  significantly  higher  relaxation  times  indicative  of  faster  and/or  more  isotropic  motions. 
+The  high  molecular  weight  polymer  and  the  block  terpolymer  have  very  similar  relaxation  data.  For 
+
+a  given  T |  value  the  surface  bound  polymer  has  a  longer  T2  than  the  solution  polymer.  Shown  as 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers  1  1 
+
+dashed  lines  on  this  plot  are  the  behavior  of  the  surface-bound  polymers.  The  measured  relaxation 
+time  of  the  surface-bound  polymers  fixes  a  location  on  the  solution  relaxation  curves.  Vertical 
+extrapolation  of  these  points  yields  a  value  on  the  concentration  axis  which  will  be  used  for 
+comparison.  This  yields  concentrations  for  the  surface  bound  polymers  of  0.1 1  and  0.048  g/ml  for 
+the  VPDSS  and  VPSDS,  respectively. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  2 
+
+
+Discussion 
+
+The  plateau  for  copolymer  adsorption  (Figure  1)  is  about  a  factor  of  two  lower  than  VPS  block 
+copolymers  previously  studied  of  similar  molecular  weight,12  although  no  polydispersities  were 
+reported  in  that  study.  The  lower  affinity  adsorption  isotherms  exhibited  here  are  probably  due  to  a 
+combination  of  the  relatively  low  molecular  weight  used  here  plus  polydispersity  effects.27  Ideally, 
+in  the  plateau  region  it  is  expected  that  the  high  molecular  weight  polymer  is  preferentially  adsorbed 
+on  the  surface.27  At  these  molecular  weights,  the  adsorption  of  homo-polystyrene  from  0.01  g/ml 
+solutions  on  silica  is  on  the  order  of  1  mg/m2  from  a  poor  solvent,  cyclohexane.28  Even  though  the 
+polystyrene  adsorption  is  of  the  same  order  of  magnitude,  our  experiments  confirm  that  the  polymer 
+is  bound  to  the  surface  via  the  vinylpyridine  groups.  Carbon- 13  liquid-like  NMR  studies  of  these 
+polymers  (Figure  2)  adsorbed  on  the  surface  and  swollen  with  toluene,  show  relatively  narrow 
+•esonances  for  the  styrene  segments  and  none  for  the  vinylpyridine.  This  supports  the  conclusion 
+that  the  polymer  is  bound  through  the  2-vinylpyridine  segments  which  are  broad  because  their 
+motion  is  significantly  reduced  on  or  near  the  surface.  Similar  results  were  observed  for  poly(methyl 
+methacrylate)  on  silica  gel  in  deuterochloroform.29  In  addition,  polystyrene  does  not  effectively 
+compete  with  more  polar  polymers  in  competitive  adsorption  studies.30 
+
+The  relaxation  time  measurements  of  the  surface-bound  polymers  help  to  infer  a  number  of 
+things  about  the  polymers'  environment.  Since  relatively  narrow  resonances  were  found,  the 
+environment  of  the  deuterons  is  liquid-like  as  opposed  to  rigid  or  semi-rigid.  The  environment  is  far 
+from  that  of  a  small  molecule  solution  which  can  be  characterized  by  rapid  and  isotropic  molecular 
+motion.  The  anisotropic  and/or  slow  motion  of  polymer  molecules  in  solution  is  clearly 
+
+established.31  This  is  obvious  from  the  inequality  of  the  Tj  and  T2  for  the  same  polymer.  If  one 
+compares  the  relaxation  times  for  the  VPDSS  and  VPSDS  polymers,  it  is  found  that  in  both  cases  the 
+VPDSS  polymer  has  shorter  relaxation  times.  This  suggests  that  the  styrene  segments  near  the 
+vinylpyridine  groups  move  slightly  slower  and/or  less  isotropically  than  those  closer  to  the  styrene 
+end.  The  difference  in  relaxation  times  is  easily  measured  because  the  precision  of  the  relaxation 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  3 
+
+time  measurements  is  good  especially  for  T}.  The  difference  between  the  the  relaxation  times  is  not 
+very  large  suggesting  that  there  is  not  very  much  difference  between  the  dynamics  of  the  two 
+segments.  Further  support  for  this  is  found  in  the  single-exponential  relaxation  behavior  found  for 
+each  sample.  It  is  expected  that  some  differences  in  mobility  and  concentration  exist  as  a  function 
+of  contour  length  along  the  polymer  backbone.  However,  in  the  concentration  region  probed,  small 
+concentration  differences  would  not  yield  large  relaxation  time  differences.  Therefore  our 
+measurements  would  be  representative  of  the  average  dynamics  and  concentrations  of  the  labelled 
+block. 
+
+In  previous  studies,32  we  have  reported  how  a  variety  of  models  for  molecular  motion  can  be 
+applied  to  NMR  relaxation  behavior.  Several  of  these  models  were  shown  to  adequately  describe  the 
+relaxation  behavior  of  polymers  in  dilute  to  semi-dilute  solution.  At  higher  concentrations,  however, 
+the  models  yield  unphysical  results.  It  was  also  noted  they  appear  to  contain  essentially  the  same 
+
+physics.  Whether  by  design  or  accident,  they  describe  relatively  fast  motions  which  dominate  Tj 
+
+and  slower  motions  which  dominate  T2.  With  respect  to  the  present  work,  most  of  the  models  are 
+
+difficult  to  apply  to  the  surface-polymer  data  because  of  the  closeness  of  the  Tj  and  T2.  The  model 
+
+of  Hall  and  Helfand33  (HH)  does  not  appear  to  have  this  difficulty  and  is  therefore  used  in  this 
+work. 
+
+The  relaxation  times  for  a  deuterium  nucleus  attached  to  a  carbon  atom  is  dominated  by  electric 
+quadrupole  effects  and  given  by:31’32 
+
+1  /Tx  =  (3ji2/20)  (e2qQ/h)2  [J(co0)  +  4J(2co0)]  (1) 
+
+and 
+
+1/T2  =  (37t2/40)  (e2qQ/h)2  [3J(0)  +  5J(co0)  +  2J(2co0)J  (2) 
+
+where  e2qQ/h  is  the  quadrupole  coupling  constant  (kHz),  and  J(w)  is  the  spectral  density  at  various 
+
+
+frequencies  with  wq  being  the  Larmor  (resonance)  frequency.  The  quadrupole  coupling  constant 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  4 
+
+was  determined  to  be  165  kHz  based  on  the  solid-state  deuterium  spectrum  of  the  DS-L  polymer. 
+For  the  HH  model,  the  spectral  density  is  given  by:33-34 
+
+J(co)  =  2A(co){[X0(X0+  2Xj)  -  to2]2  +  [2(X0  +  Xj)co]2}-°-25  (3) 
+
+where 
+
+A(co)  =  cosfO.Stan-’KlfXQ  +  A.1)cd)/(X0(>.q  +  2\ j)  -  co2)] }  (3a) 
+
+\q  and  Xj  are  the  two  fitted  parameters  from  the  model  which  take  the  form  of  rates.  In  our 
+
+previous  work,32  we  interpreted  these  parameters  as  rates  representative  of  the  fast  (short  range)  and 
+slow  (long  range)  motions  of  the  polymer  chains.  We  acknowledge  that  it  is  difficult,  if  not 
+impossible,  to  distinguish  between  the  spatial  and  temporal  averaging  of  the  C-D  bond  vectors  on  the 
+basis  of  relaxation  times  alone.  For  bulk  cis-  1,4-polybutadiene  a  number  of  NMR  techniques  have 
+been  used  to  demonstrate  that  its  motion  is  (as  observed  by  NMR)  "best  modelled  as  rapid 
+anisotropic  segmental  motion".35  For  polymers  in  dilute  or  semi-dilute  regimes,  this  type  of 
+constraint  is  less  likely.  In  the  worst  case,  the  results,  in  terms  of  rates  for  isotropic  motion,  of  the 
+HH  or  similar  models  can  be  used  as  a  qualitative  measure  of  the  restricted  motion  of  the  C-D  bond 
+vector.  If  the  motion  is  isotropic  on  the  NMR  timescale,  then  the  rates  themselves  are  valid  for 
+quantitative  camparison. 
+
+The  results  of  the  fitting  of  the  HH  model  to  the  data  are  reported  in  Table  II.  Also  shown  are 
+the  results  for  the  homopolymer  of  styrene-d  (DS)  polymer  in  solution.  For  comparison,  the 
+
+solution  and  surface  bound  relaxation  results  are  reported  for  similar  Tj  values.  These  are 
+interpolated  from  Figure  5  for  the  solution  data.  Within  the  framework  of  the  model,  these  results 
+confirm  that  the  Tj  values  are  dominated  by  the  faster  motions  of  the  polymer  chains  while  the  T2's 
+
+are  dominated  by  the  slower  motions.  This  can  be  verified  in  the  spectral  density  terms,  where  J(0) 
+is  the  term  representing  the  longer-range  slow  motion.  Comparison  of  the  surface  and  solution  data 
+
+show  that  the  longer  T2  of  the  surface  bound  species  significantly  changes  the  J (0)  values. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  5 
+
+Consequently,  the  view  taken  is  of  the  swollen  polymer  on  the  surface  in  a  local  environment  where 
+the  fast  motions  may  be  similar  to  those  in  solution,  but  the  longer  range  motions  are  faster  due  to  the 
+fact  that  the  polymers  are  somewhat  extended  in  solution.  Alternatively,  it  may  also  be  possible  that 
+certain  long  range  motions  are  not  possible  for  the  bound  polymer,  but  are  for  the  solution  species. 
+
+Given  that  the  Tj  is  dominated  by  the  local  motions,  and  that  these  should  be  similar  to  those 
+
+experienced  by  the  solution  polymer,  the  Tj  has  been  used  to  give  a  rough  estimate  the  polymer 
+concentration.  From  Figure  5  the  polymer  concentrations  were  estimated  to  be  0.1 1  and  0.048  g/ml 
+for  the  styrene  segments  next  to  and  away  from  the  VP  segments,  respectively.  The  Tj  values  of  the 
+
+adsorbed  polymers  were  compared  to  solution  Tj's  of  the  higher  molecular  weight 
+deuteropolystyrene  (DS).  We  believe  that  this  comparison  is  appropriate  because  the  attachment  of 
+the  polymer  to  the  surface  may  make  it  behave  more  like  a  high  molecular  weight  polymer. 
+
+Moreover,  the  solution  Tj's  of  VPDSS  at  different  concentrations  compared  quite  well  with  those  of 
+
+the  solution  Tj's  of  DS.  For  VPDSS  in  solution,  micelle  formation  is  likely.36  Previously,  we  have 
+obtained  somewhat  different  results  by  comparison  with  the  low  molecular  weight  polymer  (DS-L) 
+in  solution.17  However,  we  feel  that  comparison  with  the  DS  data  is  more  appropriate.  A  similar 
+
+comparison  has  not  been  done  for  the  T2  data  because  of  its  dependence  on  slower  motions  which 
+are  apparent  from  the  comparison  with  solution  data. 
+
+From  the  concentration  and  the  adsorption  data  it  is  possible  to  estimate  the  thickness  of  the 
+swollen  surface-bound  polymer  layer.  For  simplicity  we  assume  the  polymer  adsorbed  is  20,000 
+g/mol  (75%  of  which  is  styrene)  and  has  an  adsorption  plateau  of  1.75  mg  polymer/m2  silica.  This 
+corresponds  to  an  effective  surface  area  of  ca.  1900  A2/molecule.  Based  on  the  simple  model  of  a 
+uniform  distribution  of  polymer  segments  the  effective  volume  occupied  by  the  styrene  on  one 
+molecule  (including  solvent),  is  3.15  x  105  A3/molecule  based  on  a  average  concentration  of  (0.1 1  + 
+0.048)/2  g/ml.  The  ratio  of  the  volume  to  surface  area  yields  the  height  of  the  styrene  segments 
+which  is  about  166  A.  For  comparison  the  radius  of  gyration  of  a  styrene  chain  of  the  same  size 
+
+
+Blum,  Sinha,  Schwab  Density  Protile  ot  Terminally  Attached  Polymers 
+
+
+1  6 
+
+(15,000  g/mol)  would  have  a  Rg  of  ca.  42  A  in  toluene  solution.37  It  is  therefore  estimated  that  the 
+chains  extends  to  roughly  four  times  the  radius  of  gyration  of  the  solution  polymer. 
+
+Milner  et  a/.1 1  predict  the  density  profile  for  polymeric  brushes  in  a  good  solvent,  O(z),  to  be 
+parabolic  in  nature  and  given  by: 
+
+<D(z)  =  K(L2  -  z2).  (4) 
+
+where  K  is  a  constant,  L  is  the  brush  length,  and  z  is  the  distance  from  the  surface.  This  can  be  used 
+to  calculate  the  mean  concentration  in  the  lower  (0  <  z  <  L/2)  and  upper  (L/2  <  z<  L)  portions  of  the 
+
+brush  by  integrating  over  z  for  each  region.  The  ratio  of  <0  (0  <  z  <  L/2)>  to  <0  (L/2  <  z<  L)> 
+would  then  be  11:5.  This  value  is  quite  close  to  the  11:4.8  from  our  analysis  and  remarkable 
+agreement  considering  the  degree  of  approximation  in  our  model. 
+
+The  accuracy  of  our  estimate  is  limited  by  several  factors.  The  smallness  of  the  silica  beads  is  a 
+significant  factor,  but  is  partially  compensated  by  the  fact  that  many  beads  are  fused  together.  The 
+molecular  weights  used  are  perhaps  too  low  to  conclusively  distinguish  between  the  mushroom  and 
+brush  models.  Further  experimentation  is  needed  on  these  systems,  particularly  with  the  use  of 
+higher  molecular  weight  polymers  and  larger  particles.  However,  the  moderately  low  concentrations 
+predicted  from  the  data  are  in  agreement  with  the  proposal  that  the  chains  are  significantly  extended 
+in  toluene  dispersions13  and  the  predictions  from  the  data  seem  realistic.  Previous  studies 
+indicated13  that  repulsion  between  two  coated  surfaces  occurs  at  about  10  x  Rg  for  similar  polymers 
+in  toluene.  The  present  results  suggest  a  factor  of  8.  This  value  may  be  lower  due  to  the  curvature 
+of  the  silica  used  in  our  study. 
+
+Other  magnetic  resonance  studies  of  swollen,  adsorbed  polymers  have  been  made  and 
+reviewed. 18’,9,38-42  [n  contrast  to  the  present  work,  these  have  often  shown  strong  two-component 
+relaxation  behavior  due  to  different  environments  along  the  polymer  chain.  Solid  and  liquid  NMR 
+echo  studies  have  been  used  to  count  the  fraction  of  bound  segments.18’19  This  was  based  on  the 
+differences  in  relaxation  times  between  the  surface  bound  and  unbound  material.  Grafting  of  ethylene 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  7 
+
+oxide  polymers  and  oligomers  on  silica  in  benzene  also  show  two-component  behavior  in  NMR.38  as 
+well  as  ESR39  studies.  The  power  of  ESR  spectroscopy  has  also  been  shown  in  a  number  of 
+systems  with  labelled  polystyrene,  poly(vinyl  acetate),  or  poly(methyl  methacrylate)40-41  including 
+the  effect  of  solvent  systems,  and  types  of  as  surfaces.  This  technique  has  the  advantage  of 
+sensitivity  over  NMR  but  suffers  from  the  need  of  a  bulky  label.  Silica  labelled  poly(vinyl  acetate) 
+showed  two-component  motional  behavior  (fast  and  slow),  while  on  titania  the  polymer  was  held 
+tight  and  immobile  on  the  surface.40  In  our  work  only  single  fast-component  behavior  was  found 
+for  each  type  of  polymer,  and  the  difference  between  the  two  types  was  small.  This  is  possibly  due 
+to  the  VP  attachment  point  being  near  a  narrow  depletion  layer,  separating  most  of  the  styrene  groups 
+from  the  surface  creating  relatively  uniform  styrene  segments. 
+
+Finally,  we  note  that  scattering  experiments  provide  spectroscopic  evidence  for  the  structure  of 
+surface  bound  polymers.  Of  these,  neutron  scattering,  under  proper  contrast  matching,  can  yield  the 
+density  profile  of  the  polymer  attached  to  the  surface.43-44  While  these  types  of  experiments  are  very 
+informative  and  productive,  the  present  technique  offers  a  different  probe  of  structure.  That  probe  is 
+along  the  contour  length  of  the  polymer.  In  principle,  similar  specific  labelling  could  be  used  with 
+proper  contrast  matching  and  neutron  scattering  to  compare  with  our  results  for  block  copolymers. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  8 
+
+Conclusions 
+
+Deuterium  NMR  has  been  used  to  probe  the  environment  of  a  polymer  segment  attached  to  a 
+surface.  Selective  deuteration  of  vinylpyridine-styrene  block  copolymers,  were  used  to  obtain 
+information  on  the  motion  as  a  function  of  position  (i.e.  contour  length).  The  adsorbed  polymers 
+show  that  the  behavior  of  the  styrene  segments  is  similar  to  those  of  a  polymer  in  solution.  The 
+conformation  of  the  polymer  is  also  shown  to  be  rather  extended  in  agreement  with  other 
+
+experimental  results.  Based  on  the  comparison  of  the  Tj  behavior  of  the  surface  bound  and  solution 
+polymers,  the  local  concentration  of  the  surface-bound  polymer  was  found  to  be  0.11  and  0.048 
+g/ml  for  the  styrene  segment  next  to  and  away  from  the  VP  segments,  respectively.  This  suggests  a 
+
+conformation  of  styrene  extended  to  4x  the  normal  Rg.  Comparison  of  the  T2  values  provide  a 
+quantitative  measure  of  the  differences  in  long-range  motions  of  the  polymers.  Unfortunately,  the 
+lack  of  theoretical  understanding  of  polymer  segmental  dynamics  limits  the  overall  usefulness  of  the 
+technique.  However,  the  technique  does  provide  a  rather  different  view  of  the  environment  of  an 
+attached  polymer. 
+
+
+Acknowledgements.  The  authors  wish  to  thank  the  Office  of  Naval  Research  for  their 
+financial  support.  Purchase  of  the  NMR  spectrometer  was  made  possible,  in  part,  with  NSF  grant 
+(DMR-8616789).  The  authors  also  thank  Mr.  Dennis  Lin  for  preparing  the  deuterated  styrene  and 
+the  reviewers  for  helpful  comments. 
+
+Registry  Nos.  polystyrene,  9003-53-6;  vinylpyridine-co-styrene,  24980-54-9;  toluene, 
+108-88-3. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+1  9 
+
+
+REFERENCES  AND  NOTES 
+
+(1)  Vincent,  B.  Adv.  Colloid  Interface  Sci.  1974,  4,  193. 
+
+(2)  Napper,  D.  II.  Polymeric  Stability  of  Colloidal  Dispersion;  Academic  :  New  York.  1983. 
+
+(3)  Vincent,  B.  Surface  Colloid  Sci.  1982.  12,  1. 
+
+(4)  Takahashi,  A.;  Kawaguchi,  M.  Adv.  Polym.  Sci.  1982,  46,  1. 
+
+(5)  Scheutjens,  J.  M.;  Fleer,  G.  J.  J.  Phys.  Chem.  1979,  83,  1619. 
+
+(6)  Scheutjens,  J.  M.;  Fleer,  G.  J.  J.  Phys.  Chem.  1980,  84,  178. 
+
+(7)  de  Gennes,  P.  G.  Adv.  Colloid  Interface  Sci.  1987,  27,  189. 
+
+(8)  Cosgrove,  T.;  Heath,  T.;  van  Lent,  B.;  Leermakers,  F.;  Scheutjens,  J.  Macromolccules  1987, 
+20,  1692. 
+
+(9)  Alexanders.  J.  Physique(Paris)  1977,38,983. 
+
+(10)  de  Gennes,  P.G.  Macromolecules  1980,13,  1069. 
+
+(11)  Milner,  S.  T.;  Witten,  T.  A.;  Cates,  M.  E.;  Macromolecules  1988,  21,  2610. 
+
+(12)  Howard,  G.J.;  McGrath,  M.J.  J.  Polym.  Sci.,  Polym.  Chem.  Ed.  1977,  15,  1705. 
+
+(13)  Hadziioannou,  G.;  Patel,  S.;  Granick,  S;  Tirrell,  M.  ./.  Am.  Chem.  Soc.  1986,  108,  2869. 
+
+( 1 4)  Ansarifar,  M.A.;  Luckham,  P.F.  Polymer  1988,  29,  329. 
+
+(15)  Ansarifar,  M.A.;  Luckham,  P.F.  Polymer  Comm.  1988,  29,  177. 
+
+(16)  Cohen-Stuart,  M.;  Cosgrove,  T.;  Vincent,  B.  Adv.  Colloid  Interface  Sci.  1986,  24.  143. 
+
+(17)  Blum,  F.D.;  Sinha,  B.;  Schwab,  F.  Polym.  Mat.  Sci.  Eng.,  1988,  59,  302. 
+
+(18)  Cosgrove,  T.;  Barnett,  K.G.  J.  Magn.  Reson.  1981,43,15. 
+
+(19)  Barnett,  K.G.;  Cosgrove,  T.;  Vincent,  B.;  Sissons,  D.S.;  Cohen-Stuart,  M.  Macromolecules 
+1981,  14,  1018. 
+
+(20)  Champetier,  G.;  Kom,  A.C.;  Fontanille,  M.;  Sigwalt,  P.;  J.  Polym.  Sci.  1962,  58, 911. 
+
+(21)  Farrar,  T.C.;  Becker,  E.D.  Pulse  and  Fourier  Transform  NMR;  Academic:  New  York,  1971. 
+
+(22)  Davis,  J.  H.;  Jeffrey,  K.  R.;  Bloom,  M.;  Valic,  M.  I.  Chem.  Phys.  Lett.  1976,  42,  390. 
+
+(23)  Vander  Linden,  C.;  Van  Leemput,  R.  ./.  Colloid  Interface  Sci.  1978,  67,  48. 
+
+(24)  Vander  Linden,  C.;  Van  Leemput,  R.  J.  Colloid  Interface  Sci.  1978,  67,  63. 
+
+
+■ 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+20 
+
+
+(25)  The  carbon  shifts  from  styrene  segments  were  assigned  based  on  the  paper  of  Randall,  J.  C.  J . 
+Polym.  Sci.,  Polym.  Phys.  Ed.  1975,  13,  889.  The  aromatic  carbon  shifts  from  the 
+2-vinylpyridine  segments  were  assigned  based  on  the  carbon  shifts  of  2-ethylpyridine  found  in 
+Johnson,  L.  F.;  Jankowski,  W.  C.  Carbon-13  NMR  Spectra  John-Wiley:New  York,  1972. 
+
+(26)  Rossler,  E.;  Sillescu,  H.;  Spiess,  H.  W.  Polymer ,  1985,  26,  203. 
+
+(27)  Cohen  Stuart,  M.A.;  Scheutjens,  J.M.;  Fleer,  G.J.  J.  Polym.  Sci.,  Polym.  Phys.  Ed.  1980, 
+
+18,  559. 
+
+(28)  Pefferkorn,  E.;  Tran,  Q.;  Varoqui,  R.  J.  Polym.  Sci.,  Polym.  Chem.  Ed.  1981,  19,  27. 
+
+(29)  Miyamoto,  T.;  Cantow,  H.J.  Makromol.  Chem.  1972,  162,  43. 
+
+(30)  Thies,  C.  J.  Phys.  Chem.  1966,  70,  3783. 
+
+(3 1 )  Heatley,  F.  Prog.  NMR  Spectros.  1979, 1 3,  47. 
+
+(32)  Blum,  F.D.;  Durairaj,  B.,  Padmanabhan,  A.S.  Macromolecules  1984,  17,  2837. 
+
+(33)  Hall,  C.  K.;  Helfand,  E.  J.  Chem.  Phys.  1982,  77,  3275. 
+
+(34)  Connolly,  J.  J.;  Gordon,  E.;  Jones,  A.  A.  Macromolecules  1984,  17,  722. 
+
+(35)  English,  A.D.  Macromolecules  1984,  18,  178. 
+
+(36)  Munch,  M.  R.;  Gast,  A.  P.  Macromolecules  1988,  21,  1360. 
+
+(37)  Baumann,  H .  Polymer  Letters  1965,3,1069. 
+
+(38)  Facchini,  L.;  Legrand,  A.P  Macromolecules  1984,17,2405. 
+
+(39)  Hommel,  H.;  Legrand,  A.P.;  Balard,  H.;  Papirer,  E.  Polymer  1983,  24,  959. 
+
+(40)  Liang,  T.  M.;  Dickenson,  P.N.;  Miller,  W.G.  In  Polymer  Characterization  by  ESR  and  NMR: 
+Woodward,  A.  E.;  Bovey,  F.  A.,  Eds.;  ACS  Symposium  Ser.  #142,  1,  1980. 
+
+(41)  Miller,  W.G.;  Rudolf,  W.T.;  Veksli,  Z.;  Coon,  D.L.;  Wu,  C.C.;  Liang,  T.M.  In  Molecular 
+Motion  in  Polymers  by  ESR ;  Boyer,  R.  F.;  Keinath,  S.  E.,  Eds.;  Harwood  Academic:  New 
+York,  1980;  pl45. 
+
+(42)  Blum,  F.  D.  Colloids  Surf.,  in  Press. 
+
+(43)  Cosgrove,  T.;  Crowley,  T.L.;  Vincent,  B.;  Barnett,  K.G.;  Tadros,  T.F.  Faraday  Symp. 
+
+Chem.  Soc.,  1987, 16, 101. 
+
+(44)  Cosgrove,  T.;  Heath,  T.;  Ryan,  K.;  Crowley,  T.L.  Macromolecules  1987,  20,  2879. 
+
+
+Blum.  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+Table  I. 
+
+Molecular  Weight  and  Monomer  Distribution  in  VPS  Polymers 
+
+
+Designation 
+
+Mwa 
+
+Mw/Mn 
+
+wt.%  S(H) 
+
+wt.  %  S(D) 
+
+wt.  %  VP 
+
+DS 
+
+265.5 
+
+2.5 
+
+- 
+
+100 
+
+- 
+
+DS-L 
+
+8.8 
+
+1.9 
+
+- 
+
+100 
+
+- 
+
+VPS-1 
+
+20.9 
+
+2.4 
+
+75.0 
+
+- 
+
+25.0 
+
+VPS-7 
+
+20.7 
+
+1.5 
+
+75.0 
+
+- 
+
+25.0 
+
+VPDSS 
+
+19.2 
+
+1.5 
+
+37.5 
+
+37.5 
+
+25.0 
+
+VPSDS 
+
+21.3 
+
+1.4 
+
+37.5 
+
+37.5 
+
+25.0 
+
+a  from  SEC  in  THF  based  on  calibration  with  polystyrene  in  kg/mol. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+Table  II. 
+
+Relaxation  Parameters  from  HH  Model 
+
+
+Polymer 
+
+T^ms) 
+
+T2(ms) 
+
+Xx* 
+
+O  ' 
+
+J(0)b 
+
+J(co0)b 
+
+J(2w0  )b 
+
+VPDSS 
+
+3.63 
+
+3.38 
+
+9.51 
+
+6.611 
+
+1.54 
+
+1.48 
+
+1.34 
+
+Solution 
+
+3.63 
+
+2.75 
+
+18.48 
+
+2.043 
+
+2.24 
+
+1.76 
+
+1.27 
+
+VPSDS 
+
+3.94 
+
+3.60 
+
+14.67 
+
+5.392 
+
+1.46 
+
+1.39 
+
+1.23 
+
+Solution 
+
+3.94 
+
+3.25 
+
+20.68 
+
+2.939 
+
+1.75 
+
+1.52 
+
+1.19 
+
+ain  units  of  108  s_1. 
+bin  units  of  10'9  s. 
+
+
+Blum,  Sinha,  Schwab  Density  Profile  of  Terminally  Attached  Polymers 
+
+
+2  3 
+
+
+Figure  Captions 
+
+Figure  1.  Adsorption  isotherms  for  block  poly(styrene-co-vinylpyridine)  in  toluene  on  Cab-O-Sil 
+silica  (♦)  VPS-1  and  (■)  VPS-7.  The  curves  are  drawn  to  aid  the  eye. 
+
+Figure  2.  Carbon- 13  spectra  of  VPS-1  (above)  and  VPDSS  surface-bound  onto  silica  (below)  in 
+toluene-d8  at  80  °C. 
+
+Figure  3.  NMR  response  of  styrene  deuterons  to  the  inversion-recovery  sequence  for  (■)  VPDSS 
+
+and  (♦)  VPSDS  adsorbed  on  silica  and  reswollen  with  toluene.  Also  shown  are  the  single 
+exponential  best  fits  characterized  in  each  case. 
+
+Figure  4.  Response  of  styrene  deuterons  intensity  to  the  CPMG  sequence  for  (■)  VPDSS  and  (  ♦  ) 
+VPSDS  adsorbed  on  silica  and  reswollen  with  toluene.  Also  shown  are  the  single  exponential 
+best  fits  in  each  case. 
+
+
+Figure  5.  Deuterium  NMR  relaxation  times  for  DS  ((■)  Tj  and  (♦)  To),  DS-L  ((▲)  T ^  and  (A)  Tn) 
+and  VPDSS  ((+)  Tj  and  (x)  T2)  in  toluene  solution.  Also  shoum  are  the  relaxation  times  for  the 
+surface  bound  polymers  and  their  extrapolations  to  the  concentration  axis  (dashed  lines). 
+
+
+400 
+
+
+24 
+
+
+(eojiis  6/SdA  6uj)  peqjospe  jeuMiod 
+
+
+25 
+
+
+Figure  2.  Carbon- 13  spectra  of  VPS-1  (above)  and  VPDSS  surface-bound  onto  silica  (below)  in 
+toluene-djj  at  80  °C. 
+
+
+concentration  (g/ml) 
+
+
+Figure  5.  Deuterium  NMR  relaxation  times  for  DS  ((a)  T,  and  (♦)  T2)>  DS-L  ((A)  T,  and  (A)  T2) 
+
+and  VPDSS  ((+)  T,  and  (x)  T2)  in  toluene  solution.  Also  shown  are  the  relaxation  times  for  the 
+surface  bound  polymers  and  their  extrapolations  to  the  concentration  axis  (dashed  lines). 
+
+

@@ -1,0 +1,22 @@
+ETag: "63ec9c42731d81688b62637d59b616d9"
+accept: */*
+authorization: low zbvALf1Yzhl0eXzX:REDACTED_BY_IA_S3
+connection: close
+content-length: 13751814
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.25.0 (i686-pc-linux-gnu) libcurl/7.25.0
+x-amz-auto-make-bucket: 1
+x-archive-meta-author: Silverman, F.|Urch, R. B.|Corey, P.|Shephard, R. J.; University of Toronto. Department of Medicine.|Ontario Ministry of the Environment. Research and Technology Branch.
+x-archive-meta-call-number: 96936000008229
+x-archive-meta-copyright: © Queen's Printer for Ontario, Reproduced with permission
+x-archive-meta-date: 1991
+x-archive-meta-language: eng
+x-archive-meta-mediatype: texts
+x-archive-meta-publisher: Ontario Ministry of the Environment
+x-archive-meta-scanningcenter: uoft
+x-archive-meta-sponsor: Internet Archive
+x-archive-meta-title: Dose response for selected environmental air pollutants : a study on runners [November 1991]
+x-archive-meta01-collection: omote
+x-archive-meta02-collection: toronto
+x-upload-date: 2012-04-18T18:34:27.000Z

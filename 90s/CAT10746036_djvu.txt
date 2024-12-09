@@ -1,0 +1,3604 @@
+Historic,  Archive  Document 
+
+Do  not  assume  content  reflects  current 
+scientific  knowledge,  policies,  or  practices. 
+
+
+ISSN:  1082-9644 
+
+
+United  States 
+
+Department  of  Agriculture 
+
+
+National 
+
+Agricultural  Library 
+
+
+Animal  Welfare 
+Information  Center 
+
+
+Directory  of  Resources 
+
+on 
+
+Alternatives  and  Animal  Use 
+
+in 
+
+the  Life  Sciences 
+
+1995 
+
+
+AWIC  Resource  Series  No.  1 
+
+
+June  1995 
+
+
+USD  A,  National  Agricultural  Library 
+NAL  Bldg 
+
+10301  Baltimore  Blvd 
+BeltsviU©,  MD  20705-2351 
+
+
+Directory  of  Resources 
+
+on 
+
+Alternatives  and  Animal  Use 
+
+in 
+
+the  Life  Sciences 
+
+
+1995 
+
+
+by 
+
+
+JEAN  A.  LARSON,  M.A. 
+
+Animal  Welfare  Information  Center 
+United  States  Department  of  Agriculture 
+Agricultural  Research  Services 
+National  Agricultural  Library 
+
+
+DAVID  C.  ANDERSON,  B.L.S. 
+
+University  of  California  Center  for  Animal 
+Alternatives 
+
+
+KRYS  UNGAR,  Ph.D. 
+
+European  Research  Group  for 
+Alternatives  in  Toxicity  Testing  /  Fund  for 
+the  Replacement  of  Animals  in  Medical 
+Experiments 
+
+
+PEARL  S.  STARK,  Ph.D.  (retired) 
+
+Wyeth-Ayerst  Research 
+
+
+AWIC  Resource  Series  No.  1 
+
+
+National  Agricultural  Library  Cataloging  Record 
+
+
+Directory  of  resources  on  alternatives  and  animal  use  in  the  life  sciences. 
+
+1st  ed. 
+
+(AWIC  resource  series  ;  no.  1) 
+
+1.  Animal  welfare-Directories.  2.  Animal  experimentation— Moral  and  ethical  aspects— 
+Directories.  4.  Life  sciences-Research.  I.  Larson,  Jean  A. 
+aHV4701.A94  no.l 
+
+
+The  United  States  Department  of  Agriculture  (USDA)  prohibits  discrimination  in  its  programs  on  the 
+basis  of  race,  color,  national  origin,  sex,  religion,  age,  disability,  political  beliefs  and  marital  or  familial  status. 
+(Not  all  prohibited  bases  apply  to  all  programs).  Persons  with  disabilities  who  require  alternative  means  of 
+communication  of  program  information  (braille,  large  print,  audiotape,  etc.)  should  contact  the  USDA  Office  of 
+Communications  at  (202)720-5881  (voice)  or  (202)720-7808  (TDD). 
+
+To  file  a  complaint,  write  the  Secretary  of  Agriculture,  U  S.  Department  of  Agriculture,  Washington,  D  C., 
+20250,  or  call  (202)  720-7327  (voice)  or  (202)  720-1127  (TDD).  USDA  is  an  equal  employment  opportunity 
+employer. 
+
+Mention  of  commercial  enterprises  or  brand  names  does  not  constitute  endorsement  or  imply  preference 
+by  the  U  S.  Department  of  Agriculture.  Items  appearing  in  this  directory  do  not  represent  positions  or  policies 
+of  the  U  S.  Department  of  Agriculture  or  any  agency  thereof. 
+
+
+li 
+
+
+CONTENTS 
+
+
+INTRODUCTION  . v 
+
+NEWSLETTERS  . 1 
+
+DATABASES  . 15 
+
+PUBLICATIONS  . 31 
+
+AUDIOVISUALS  . 55 
+
+COMPUTER  SIMULATIONS . 57 
+
+INDEX  TO  ORGANIZATIONS  BY  NAME  . 59 
+
+INDEX  TO  ORGANIZATIONS  BY  COUNTRY . 61 
+
+
+QUESTIONNAIRE 
+
+
+63 
+
+
+IV 
+
+
+INTRODUCTION 
+
+
+Background 
+
+This  project  was  conceived  during  a  volunteer  meeting  of  about  40  interested  persons  who 
+were  attending  the  1st  World  Congress  on  Alternatives  and  Animal  Use  in  the  Life 
+Sciences:  Education,  Research,  and  Testing  Conference  held  in  Baltimore,  Maryland, 
+November  14-19,  1993. 
+
+At  that  time,  it  became  obvious  to  everyone  that  a  resource  addressing  various  aspects  of 
+the  alternatives  issue  should  be  referenced  in  a  directory.  The  authors  volunteered  to  work 
+on  the  project.  In  the  spring  of  1994,  a  questionnaire  was  developed  and  sent  to  all 
+interested  parties.  Except  for  one  or  two  additional  entries,  the  directory  entries  are  from 
+those  items  submitted  by  those  attending  the  voluntary  meeting. 
+
+
+Content  and  Arrangement 
+
+
+The  directory  is  composed  of  information  regarding:  newsletters,  databases,  publications, 
+audio-visuals,  and  computer  models.  Within  those  broad  categories,  the  organizations 
+producing  resources  are  listed  alphabetically. 
+
+The  quantity  and  quality  of  information  varies  since  it  is  based  on  information  voluntarily 
+provided.  Generally,  each  entry  consists  of  the  following:  sponsor's  name,  address, 
+telephone/fax,  descriptive  information,  costs,  availability,  audience,  language,  and  a  contact 
+person.  There  is  also  a  note  field  for  information  considered  important  but  which  doesn't  fit 
+neatly  into  the  above.  Hopefully,  if  the  publication  is  updated,  referenced  organizations  will 
+provide  additions  for  more  consistently  complete  records. 
+
+Final  Note 
+
+The  authors  are  well  aware  that  this  first  edition  is  by  no  means  complete,  but  hope  that  it 
+will  be  understood  by  the  readers  as  a  germinal  beginning.  We  hope  that  as  a  reader  you 
+will  function  as  a  resource  and  provide  additional  information  or  resources  for  a  second 
+edition.  Please  contact: 
+
+Jean  A.  Larson,  Coordinator,  Animal  Welfare  Information  Center 
+National  Agricultural  Library,  5th  Floor,  10301  Baltimore  Blvd. 
+
+Beltsville,  MD  20705  (Tel:  301-504-6212) 
+
+
+v 
+
+
+ACKNOWLEDGEMENTS 
+
+
+The  authors  would  like  to  thank  all  those  who  supplied  the  documents  and  information 
+necessary  to  put  this  first  edition  together.  Thanks  also  go  to  D'Anna  Jensen  and  Ruth 
+Criscio  for  their  help  in  word  processing  and  formatting  the  document. 
+
+
+COMMENTS  AND  SUGGESTIONS  ARE 
+
+WELCOMED 
+
+
+Comments,  questions,  and  suggestions  are  requested.  We  would  also  appreciate  information 
+on  organizations  not  yet  profiled.  (The  questionnaire  used  to  produce  this  first  edition  is  found 
+at  the  end  of  the  document.) 
+
+
+vi 
+
+
+newsletters 
+
+
+SPONSOR: 
+
+ADVOCATES  FOR  ANIMALS 
+
+ADDRESS: 
+
+10  Queensferry  Street 
+
+Edinburgh  EH2  4PG,  Scotland,  UK 
+
+TELEPHONE: 
+
+031-225-6039  FAX:  031-220-6377 
+
+TITLE: 
+
+No  specific  title  submitted. 
+
+EDITOR: 
+
+Advocates  for  Animals. 
+
+FREQUENCY: 
+
+2  issues  per  year. 
+
+DESCRIPTION: 
+
+None  provided. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  organization. 
+
+AUDIENCE: 
+
+Those  interested  in  animal  welfare  issues. 
+
+CONTENTS: 
+
+News  updates  on  the  organization's  campaigns  and  general 
+animal  protection  news. 
+
+CONTACT: 
+
+Peter  Haddow,  Campaigns  Support  Officer 
+
+1 
+
+
+Newsletters 
+
+
+SPONSOR: 
+
+ANIMAL  WELFARE  INFORMATION  CENTER  (AWIC),  NATIONAL 
+AGRICULTURAL  LIBRARY  (NAL),  U.S.  DEPARTMENT  OF 
+AGRICULTURE  (USDA) 
+
+ADDRESS: 
+
+National  Agricultural  Library,  5th  Floor 
+
+10301  Baltimore  Ave. 
+
+Beltsville,  MD  20705-2351,  USA 
+
+TELEPHONE: 
+
+301-504-6212  FAX:  301-504-7125 
+
+INTERNET: 
+
+awic@nalusda.gov 
+
+TITLE: 
+
+ANIMAL  WELFARE  INFORMATION  CENTER  NEWSLETTER 
+
+EDITOR: 
+
+Tim  Allen 
+
+PUB.  DATA: 
+
+Published  quarterly  (Spring,  Summer,  Fall,  Winter,).  First  published  in 
+1990.  ISSN:105Q-561X. 
+
+DESCRIPTION: 
+
+Printed  on  8  1/2"  by  11"  paper.  Includes  text,  graphics,  and 
+photographs.  Currently  16  pages. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Currently  distributed  free  of  charge  to  any  requestor.  Previous  issues 
+are  available  as  photocopies  or  electronic  files. 
+
+AUDIENCE: 
+
+The  publication  is  mainly  of  interest  to  researchers,  veterinarians, 
+regulators,  scientists  and  others  interested  in  or  involved  with  the  use 
+of  animals  in  research,  testing  and  teaching.  Some  articles  may  be  of 
+use  to  the  zoo  community. 
+
+CONTENTS: 
+
+Most  issues  have  two  or  three  articles  on  one  topic  e.g.,  welfare  issues 
+of  rodents  and  primates,  environmental  enrichment,  animal  models, 
+and  alternatives.  Special  features  include  animal-related  bills 
+introduced  into  Congress,  new  AWIC  publications,  meeting 
+announcements,  and  funding  opportunities. 
+
+2 
+
+
+tlemteHen 
+
+
+NOTE: 
+
+
+The  text  of  the  newsletter  is  available  in  electronic  format  from  the 
+NETVET  gopher  site  at  Washington  University.  The  address  is 
+"netvet.wustl.edu".  Locate  the  AWIC  materials  in  the  Animal  Welfare 
+Information  Center  subfile.  The  Newsletter  is  also  available  on  the 
+NETVET  World  Wide  Web  server  at  http://netvet.wustl.edu/awic.htm. 
+
+
+3 
+
+
+llemteHers 
+
+
+SPONSOR: 
+
+AUSTRALIAN  AND  NEW  ZEALAND  COUNCIL  FOR  THE 
+
+CARE  OF  ANISVSALS  IN  RESEARCH  AND  TEACHING,  LIMITED 
+(ANZCCART) 
+
+ADDRESS: 
+
+P.O.  Box  19  P.O.  Box  598 
+
+Glen  Osmond  SA  5064  Wellington 
+
+Australia  New  Zealand 
+
+TELEPHONE: 
+
+A.C.N.  06-33-83-522 
+
+EDITOR: 
+
+R.M.  Baker,  J.H.  Burrell,  G.  Jenkins,  D.J.  Mellor,  M.A.  Rose,  T. 
+Kuchel,  J.  Reilly 
+
+TITLE: 
+
+ANZCCART  NEWS 
+
+FREQUENCY: 
+
+Quarterly  (March,  June,  September,  December). 
+
+DESCRIPTION: 
+
+12  pages  in  A4  format. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+By  subscription. 
+
+CONTENTS: 
+
+Articles  address  a  variety  of  topics  including  adjuvants, 
+alternatives,  animal  care/ethics  committees,  animal  housing, 
+veterinary  care,  alleviation  of  pain  and  stress,  and  training  for 
+animals  users. 
+
+NOTE: 
+
+The  newsletter  is  under  copyright,  but  reproduction  is  permitted 
+providing  acknowledgement  is  given  to  ANZCCART. 
+
+tlemtetlers 
+
+
+SPONSOR: 
+
+EURONICHE 
+
+ADDRESS: 
+
+C/O  Nick  Jukes 
+
+1 1  Beckingham  Road 
+
+Leicester  LE2  1HB,  England,  UK 
+
+TELEPHONE/FAX:  44-53-35-53-223 
+
+
+TITLE: 
+
+EURONICHE  NEWSLETTER 
+
+EDITOR: 
+
+Nick  Jukes. 
+
+FREQUENCY: 
+
+Twice  yearly.  (Issues  are  still  available  for  12/88,  9/89,  9/90,  4/91, 7/93.) 
+
+DESCRIPTION: 
+
+None  provided. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+From  either  N.  Jukes  as  above  or  Tannetje  Konig  at  Havikskruid  1 1 , 
+3892  AA  Zeewolde,  The  Netherlands.  Tel:  31-32-41-68-30.,  Fax:  31-32- 
+42-49-94. 
+
+AUDIENCE: 
+
+Students  and  other  interested  persons. 
+
+CONTENTS: 
+
+The  newsletter  contains  information  on  alternatives,  animal  care/ethics 
+committees,  organizations,  reference  data  and  the  animal  use  situations 
+in  different  countries. 
+
+5 
+
+
+newsletters 
+
+
+SPONSOR: 
+
+EUROPEAN  HEPATOCYTE  USERS  GROUP  (HUG) 
+
+ADDRESS: 
+
+Attn:  Dr.  Paul  Skett 
+
+Department  of  Pharmacology 
+
+University  of  Glasgow 
+
+Glasgow  G12  8QQ,  Scotland,  UK 
+
+TITLE: 
+
+No  specific  newsletter  title  provided. 
+
+PUB.  DATA  : 
+
+February  1994 
+
+FREQUENCY: 
+
+Unknown. 
+
+DESCRIPTION: 
+
+None  provided. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Freely  available. 
+
+AUDIENCE: 
+
+All  users  of  hepatocytes  and  liver-derived  cells. 
+
+CONTENTS: 
+
+Reports,  abstracts,  book  reviews  and  meeting  announcements. 
+
+NOTE: 
+
+The  group  would  be  willing  to  publish  the  newsletter  on  list  serves, 
+Internet  or  on  other  networks. 
+
+tlemtetten 
+
+
+SPONSOR: 
+
+FUND  FOR  THE  REPLACEMENT  OF  ANIMALS  IN  MEDICAL 
+EXPERIMENTS  (FRAME) 
+
+ADDRESS: 
+
+Russell  &  Burch  House 
+
+96-98  North  Sherwood  Street 
+
+Nottingham,  NG1  4EE,  England,  UK 
+
+TELEPHONE: 
+
+01-15-95-84740  FAX:  01-15-95-03570 
+
+TITLE: 
+
+FRAME  NEWS 
+
+EDITOR: 
+
+Lynda  Warrington 
+
+FREQUENCY: 
+
+3  Issues  per  year. 
+
+DESCRIPTION: 
+
+A4  format. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Distributed  free  of  charge  to  libraries,  MPs,  the  press,  and 
+schools.  Others  may  subscribe  at  £15/$30  per  year.  Airmail  is 
+£6/$12  extra  in  all  cases. 
+
+AUDIENCE: 
+
+The  general  public,  academic  and  industrial  scientists,  animal 
+welfare  groups,  and  students. 
+
+CONTENTS: 
+
+General  information  on  the  use  of  animals  in  science,  alternative 
+methods  and  their  development,  legislation  and  regulations,  the 
+work  of  FRAME. 
+
+CONTACT: 
+
+Lynda  Warrington 
+
+ftemleUers 
+
+
+SPONSOR: 
+
+HADWEN  TRUST  FOR  HUMANE  RESEARCH 
+
+ADDRESS: 
+
+22  Bancroft 
+
+Hitchin,  Hertfordshire,  SG5  1JW,  England,  UK 
+
+TELEPHONE: 
+
+04-62-43-68-19 
+
+TITLE: 
+
+ALTERNATIVE  NEWS 
+
+EDITOR: 
+
+Dr.  Gill  Langley 
+
+FREQUENCY: 
+
+Quarterly  (Jan.,  April,  July,  Oct.) 
+
+DESCRIPTION: 
+
+6  p.,  A4  format. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+To  members  of  the  Trust.  (Annual  dues  UK  £8.00,  overseas 
+£10.00,  life  membership  £100.00.) 
+
+AUDIENCE: 
+
+Members,  non-scientific  laypersons,  general  public 
+
+CONTENTS: 
+
+Updates  of  research  funded  by  the  Trust.  The  research  projects 
+are  for  the  development  of  alternatives  to  animal  experiments  in  a 
+wide  range  of  medical  fields  e.g.,  cancer,  AIDS,  heart  diseases. 
+
+It  also  contains  general  news  about  the  development  of 
+alternatives. 
+
+CONTACTS: 
+
+Carol  Newman,  Scientific  Assistant 
+
+Dr.  Gill  Langley,  Scientific  Advisor 
+
+8 
+
+
+tlemtetters 
+
+
+SPONSOR: 
+
+THE  JOHNS  HOPKINS  CENTER  FOR  ALTERNATIVES  TO  ANIMAL 
+TESTING  (CAAT) 
+
+ADDRESS: 
+
+Deborah  Rudacille,  Science  Writer 
+
+Johns  Hopkins  School  of  Public  Health 
+
+1 1 1  Market  Place,  Suite  840 
+
+Baltimore,  MD  21202-6709,  USA 
+
+TELEPHONE: 
+
+410-223-1693 
+
+INTERNET: 
+
+CAAT@jhuhyg.sph.jhu.edu 
+
+TITLE: 
+
+THE  JOHNS  HOPKINS  CENTER  FOR  ALTERNATIVES  TO  ANIMAL 
+TESTING 
+
+EDITOR: 
+
+D.  Rudacille 
+
+FREQUENCY: 
+
+3  issues  per  year. 
+
+DESCRIPTION: 
+
+8  1/2"  by  11"  on  recycled  paper. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Free  to  anyone  on  request. 
+
+AUDIENCE: 
+
+Scientists,  animal  welfarists,  regulatory  authorities  and  the  public. 
+
+CONTENTS: 
+
+Information  on  all  aspects  of  alternatives  and  alternative 
+methodologies,  information  resources,  grants  programs,  and 
+international  news  items. 
+
+NOTE: 
+
+The  newsletter  has  been  published  for  1 1  years.  Back  issues  are 
+available.  The  Center  is  willing  to  distribute  the  newsletter  via  list 
+services  and  other  networks.  Beginning  with  volume  11,  no.  3, 
+Summer  1994,  the  CAAT  Newsletter  is  available  at  the  Johns  Hopkins 
+gopher  server:"jhuniveerse.jhu.edu"  (128.220.2.80).  The  path  is 
+"/divisions/pubhealth/caat". 
+
+ItemteHen 
+
+
+SPONSOR: 
+
+INSTITUTE  OF  LABORATORY  ANIMAL  RESOURCES  (ILAR) 
+
+ADDRESS: 
+
+National  Research  Council, 
+
+National  Academy  of  Sciences 
+
+2101  Constitution  Ave.,  NW 
+
+Washington,  DC  20418,  USA 
+
+TELEPHONE: 
+
+202-334-2590  FAX:  202-334-1687 
+
+TITLE: 
+
+ILAR  JOURNAL  (formerly  ILAR  News) 
+
+EDITOR: 
+
+Mara  L.  Glenshaw 
+
+PUB.  DATA: 
+
+The  newsletter  is  published  quarterly.  ISSN:  0018-9960.  The  Spring  '94 
+issue  is  Volume  36,  no.  2. 
+
+DESCRIPTION: 
+
+It  is  printed  on  8  1/2"  by  11"  paper  and  contains  photographs  and 
+graphics.  Number  of  pages  varies. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Circulated  to  requestors. 
+
+AUDIENCE: 
+
+Investigators  in  the  field  of  biomedical  and  related  research. 
+
+CONTENTS: 
+
+Each  issue  contains  peer  reviewed  articles  on  topics  relevant  to  those 
+who  use  animals  in  biomedical  research,  current  news  items,  upcoming 
+meetings,  new  books,  and  ILAR  publications  currently  available. 
+
+10 
+
+
+ttemleHen 
+
+
+SPONSOR: 
+
+THE  SCANDINAVIAN  SOCIETY  OF  CELL  TOXICOLOGY  (SSCT) 
+
+ADDRESS: 
+
+Multicenter  Evaluation  of  In  Vitro  Cytotoxicity 
+
+Erik  Walum,  Ph.D.,  Committee  Chairman 
+
+Pharmacia  AB,  Biopharmaceuticals 
+
+S-112  87  Stockholm,  Sweden 
+
+TELEPHONE: 
+
+46-86-95-72-54  FAX:  46-86-56-30-60 
+
+TITLE: 
+
+MEIC  NEWSLETTER 
+
+PUB.  DATA: 
+
+Began  in  1989. 
+
+DESCRIPTION: 
+
+Four  pages  on  8  1/2"  by  1 1  3/4"  paper.  Includes  photographs  and 
+graphics. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+The  newsletter  is  distributed  to  committee  members  as  well  as  to  400 
+others. 
+
+AUDIENCE: 
+
+Those  involved  or  interested  in  alternatives  for  toxicity  testing. 
+
+CONTENTS: 
+
+The  Newsletter  notes  techniques  and  methods,  published  items  of 
+interest,  MEIC  meetings  and  activities,  recipients  of  grants  and  awards 
+The  subject  matter  relates  to  evaluation  of  in  vitro  toxicity  and  kinetic 
+tests  for  their  relevance  to  human  acute  systemic  toxicity,  and  to  other 
+types  of  toxicity  as  well. 
+
+CONTACT: 
+
+Bjorn  Ekwall,  M.D.,  Ph.D. 
+
+Managing  Director 
+
+Div.  of  Toxicology  of  Pharmaceutical  Biosciences 
+
+Uppsala  University,  Sweden 
+
+S-751  24  Uppsala,  Sweden 
+
+TEL:  46-18-17-42-51  or  55-25-40  FAX:  46-18-17-42-53 
+
+jj 
+
+
+MemleUers 
+
+
+SPONSOR: 
+
+SCIENTISTS  CENTER  FOR  ANIMAL  WELFARE  (SCAW) 
+
+ADDRESS: 
+
+Golden  Triangle  Building  One 
+
+7833  Walker  Drive,  Suite  340 
+
+Greenbelt,  MD  20770,  USA 
+
+TELEPHONE: 
+
+301-345-3500  FAX:  301-345-3503 
+
+TITLE: 
+
+SCAW  NEWSLETTER 
+
+EDITOR: 
+
+Lee  Krulisch 
+
+PUB.  DATA: 
+
+Published  quarterly.  First  published  in  1979.  ISSN:  1052-7559. 
+
+DESCRIPTION: 
+
+In  an  8  1/2"  by  11"  format.  Typical  issues  are  8  to  24  pages  in  length 
+and  include  photographs  and  other  graphics. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  to  members  of  SCAW.  There  are  two  levels  of  institutional 
+membership-Level  A  for  large  institutions  is  $1,000.  Level  B  is  for  small 
+institutions  and  is  $500.  For  additional  information,  contact  the  Center. 
+
+AUDIENCE: 
+
+Researchers,  members  of  animal  care  and  use  committees, 
+administrators,  veterinarians,  and  others  interested  in  the  welfare  of 
+animals  used  in  research,  testing,  and  education. 
+
+CONTENTS: 
+
+Topics  vary  and  include  special  feature  articles  on  issues  important  to 
+animal  users,  meeting  reports,  upcoming  meetings,  book  reviews, 
+reports  on  SCAW  activities,  etc. 
+
+CONTACT: 
+
+Lee  Krulisch,  Executive  Director 
+
+12 
+
+
+newsletters 
+
+
+SPONSOR: 
+
+TUFTS  CENTER  FOR  ANIMALS  AND  PUBLIC  POLICY 
+
+ADDRESS: 
+
+200  Westboro  Rd. 
+
+N.  Grafton,  MA  01536,  USA 
+
+TELEPHONE: 
+
+508-839-7991  FAX:  508-839-2953 
+
+INTERNET: 
+
+dpease@opal.tufts.edu 
+
+TITLE: 
+
+THE  ALTERNATIVES  REPORT 
+
+EDITOR: 
+
+Dr.  A.  Rowan 
+
+FREQUENCY: 
+
+Bimonthly. 
+
+DESCRIPTION: 
+
+6-8  pages,  A4  format. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+By  subscription  only.  ($48  annual  in  the  U.S.;  $65  for  Canada  and 
+abroad.) 
+
+AUDIENCE: 
+
+Regulators,  toxicologists,  veterinarians,  scientists,  persons  with 
+professional  knowledge  of  the  field. 
+
+CONTENTS: 
+
+Covers  technical  and  policy  aspects  of  alternatives  topics  with  a 
+concentration  in  pharmacology  and  toxicology. 
+
+CONTACTS: 
+
+Andrew  Rowan,  Editor 
+
+Donna  Pease,  Administrator 
+
+13 
+
+
+Databases 
+
+
+SPONSOR: 
+
+AKADEMIE  FUR  TIERSCHUTZ.  EINRICHTUNG  DES  DEUSCHEN 
+TIERSCHUTZBUNDES  e.V.  ZUR  FORSCHUNG  UND  LEHRE. 
+
+ADDRESS: 
+
+Attn:  Dr.  Ursula  Sauer 
+
+Spechtstr.  1A 
+
+D-8014  Neubiberg 
+
+Germany,  85579 
+
+TELEPHONE: 
+
+49-89601-7078  FAX:  49-89601-7078-523 
+
+TELEX:  52-39-36  AKADE 
+
+TITLE: 
+
+DATABANK  ON  ALTERNATIVES  TO  ANIMAL  EXPERIMENTS  OF 
+THE  GERMAN  ANIMAL  WELFARE  ASSOCIATION.  (DEUTSCHER 
+TIERSCHUTZBUND  e.V.) 
+
+EDITORS: 
+
+Brigitte  Rusche,  Ursula  G.  Sauer,  Irmela  Ruhdel 
+
+PUB.  DATA: 
+
+The  database  was  installed  in  1986.  It  is  constantly  being  updated  and 
+revised. 
+
+EDITION: 
+
+June  1994. 
+
+DESCRIPTION: 
+
+The  database  contains  reviewed  articles  and  methods  with  over  13,000 
+entries.  It  is  contained  on  computer  discs.  There  are  biannual  updates.  A 
+users'  manual  is  available. 
+
+REQUIREMENTS: 
+
+The  database  is  written  in  LIDOS,  which  is  IBM  compatible  software. 
+
+LANGUAGE: 
+
+German.  There  are  plans  to  translate  the  database  into  English. 
+
+AVAILABILITY: 
+
+Staff  conducts  literature  searches  free  of  charge. 
+
+AUDIENCE: 
+
+Scientists,  animal  welfarists,  regulatory  authorities,  and  the  public. 
+
+CONTENTS: 
+
+Included  in  the  database  are  citations  to  books  and  journal  literature  on 
+the  alternative  concepts  of  replacement,  refinement,  and  reductions  in 
+the  numbers  of  animals  used  in  research.  Keywords  are  assigned  to 
+each  entry  for  ease  of  searching.  The 
+
+15 
+
+
+databases 
+
+
+disciplines  include,  but  not  are  limited  to,  toxicology,  medicine, 
+pharmacodynamics,  veterinary  medicine,  etc. 
+
+REFERENCE: 
+
+Rusche,  B.,  U.  Sauer.  "Reviewed  Literature  databank  for  Alternatives  to 
+Animal  Experiments-Gelbe  liste."  Alternatives  to  Animal  Testing.  New 
+Ways  in  the  Biomedical  Sciences.  Trends  and  Progress.  C.A.  Reinhardt 
+(ed.).  VCH  Weinheim.  p.  85-88.  (1994) 
+
+NOTE: 
+
+Bibliographies--"Yellow  lists"--have  been  published  on  topics  such  as 
+mutagenicity,  toxicity  testing,  etc.  Currently  there  are  no  plans  to  locate 
+the  database  on  a  network. 
+
+16 
+
+
+Databases 
+
+
+SPONSOR: 
+
+ASSOCIATION  OF  VETERINARIANS  FOR  ANIMALS  RIGHTS 
+
+ADDRESS: 
+
+Nedium  Buyukmihci,  VMD 
+
+Association  of  Veterinarians  for  Animal  Rights 
+
+P.O.  Box  6269 
+
+Vacaville,  CA  95696-6269,  USA 
+
+TITLE: 
+
+ALTERNATIVES  IN  EDUCATION  (ALT-ED)  DATABASE 
+
+PUB.  DATA: 
+
+The  current  version  is  March  16,  1994. 
+
+DESCRIPTION: 
+
+The  database  runs  on  an  IBM  type  computer.  The  current  version  runs 
+on  DOS  3.0  or  higher  or  Windows  and  includes  the  managing  software. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+The  database  can  be  obtained  at  no  cost,  but  the  organization  would  like 
+requestors  to  supply  two  blank,  DOS  formatted  3.5  diskettes  and 
+coverage  of  mailing  charges. 
+
+AUDIENCE: 
+
+Mostly  educators. 
+
+CONTENTS: 
+
+The  database  contains  citations  of  books,  journal  articles,  computer 
+programs,  clinical  programs,  and  information  about  other  resources 
+actively  used  in  life  sciences  education.  Coverage  is  from  elementary 
+school  level  through  specialty  residencies  in  human  and  veterinary 
+medicine. 
+
+NOTE: 
+
+The  database  was  published  in  an  earlier  print  version  as  Veterinary 
+Medical  Education:  Alternatives  to  Harmful  use  of  Nonhuman 
+Animals.  This  version  is  still  available  from  the  same  address. 
+
+databases 
+
+
+SPONSOR: 
+
+EUROPEAN  HEPATOCYTE  USERS  GROUP  (HUG) 
+
+ADDRESS: 
+
+Attn:  Dr.  Paul  Skett 
+
+Department  of  Pharmacology 
+
+University  of  Glasgow 
+
+Glasgow  G12  8QQ,  Scotland,  UK 
+
+TITLE: 
+
+A  DATABASE  OF  THE  HEPATOCYTE  USER  GROUPS 
+COMMITTEE 
+
+PUB.  DATA: 
+
+March  1994. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Confidential  to  the  HUG  Committee  members,  but  extracts  will  be 
+provided  on  request. 
+
+AUDIENCE: 
+
+The  HUG 
+
+CONTENTS: 
+
+Experts  and  methodologies 
+
+NOTE: 
+
+Due  to  legal  restriction  under  the  UK's  Data  Protection  Act,  the 
+database  cannot  be  put  up  on  electronic  networks. 
+
+18 
+
+
+Databases 
+
+
+SPONSOR: 
+
+FUND  FOR  THE  REPLACEMENT  OF  ANIMALS  IN  MEDICAL 
+EXPERIMENTS  (FRAME) 
+
+ADDRESS: 
+
+ECVAM 
+
+Environmental  Institute 
+
+JRC 
+
+1-21020  Ispra,  Italy 
+
+FAX: 
+
+39-33-27-85336 
+
+TITLE: 
+
+INVITTOX 
+
+PUB.  DATA: 
+
+Irregular. 
+
+DESCRIPTION: 
+
+Available  as  both  a  computer  database  and  in  paper  copy  of 
+methodological  description  of  in  vitro  methods  and  test  systems. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Free  services  to  anyone. 
+
+AUDIENCE: 
+
+Scientists  looking  for  alternatives  in  toxicology. 
+
+CONTENTS: 
+
+Detailed  methodological  descriptions  of  in  vitro  methods  for  toxicology 
+Also  includes  names  and  addresses  of  scientists  registered  to  use 
+INVITTOX,  which  may  be  released  if  the  scientist  has  granted 
+permission. 
+
+NOTE: 
+
+The  database  is  also  sponsored  by  the  European  Research  Group  for 
+Alternatives  in  Toxicity  Testing.  INVITTOX  was  originally  based  in 
+FRAME,  but  moved  to  ECVAM  in  March  of  1995. 
+
+19 
+
+
+Databases 
+
+
+SPONSOR: 
+
+INSTITUTO  NAZIONALE  PER  LA  RICERCA  SUL  CANCRO  (1ST) 
+[NATIONAL  INSTITUTE  FOR  CANCER  RESEARCH-ADVANCED 
+BIOTECHNOLOGY  CENTER] 
+
+ADDRESS: 
+
+Dr.  Gabriella  Rondania 
+
+Viale  Benedetto  XV,  n.  10 
+
+16132  Genoa,  Italy 
+
+TELEPHONE: 
+
+28-63-53  FAX:  35-29-99 
+
+TITLE: 
+
+CELL  LINE  DATA  BASE  ELECTRONIC  CATALOGUE  1993 
+
+PUB.  DATA: 
+
+October  1993. 
+
+DESCRIPTION: 
+
+The  catalogue  is  in  MS  DOS  and  on  floppy  diskettes.  The  information  is 
+from  the  Cell  Line  Database  and  managed  by  software  that  includes 
+searching  capabilities.  System  requirements:  an  IBM  compatible  386 
+computer  with  3Mb  and  at  least  8Mb  on  the  hard  drive. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Can  be  purchased  from  the  Institute.  ITL  37.000/$24.00  plus  postage. 
+Order  from  the  Biotechnology  Department,  Interlab  Project,  Advanced 
+Biotechnology  Center,  Viale  Benedetto  XV  10,  16132,  Genoa,  Italy. 
+
+Tel.:  010/57-37-282.  Fax:  010/57-37-295. 
+
+AUDIENCE: 
+
+Public  and  private  researchers  in  biomedical  research  fields. 
+
+CONTENTS: 
+
+Detailed  description  on  human  and  animal  call  lines  available  in  many 
+European  culture  collections  and  research  laboratories.  Synthetic 
+description  of  culture  collections.  Searchable  by  keywords. 
+
+REFERENCES: 
+
+Cytotechnology.  Vol.  11,  Suppl  1,  p.  130-133  (1993). 
+
+NOTE: 
+
+The  database  is  the  electronic  version  of  the  Human  and  Animal  Cell 
+Lines  Catalogue  1993.  (Listed  elsewhere  in  the  Directory.) 
+
+20 
+
+
+databases 
+
+
+SPONSOR: 
+
+INSTITUTO  NAZIONALE  PER  LA  RICERCA  SUL  CANCRO  (1ST) 
+[NATIONAL  INSTITUTE  FOR  CANCER  RESEARCH-ADVANCED 
+BIOTECHNOLOGY  CENTER] 
+
+ADDRESS: 
+
+Ing.  Paolo  Romano 
+
+Viale  Benedetto  XV,  n.  10 
+
+16132  Genoa,  Italy 
+
+TELEPHONE: 
+
+28-63-53  FAX:  35-29-99 
+
+TITLE: 
+
+CELL  LINE  DATA  BASE 
+
+PUB.  DATE: 
+
+1993. 
+
+DESCRIPTION: 
+
+An  on-line  database  that  is  indexed  with  WAIS.  Documentation  is 
+available  with  the  on-line  version. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Searchable  by  Gopher  at  "gopher.ist.unige.it".  Limited  data  is  also 
+available  by  anonymous  FTP  at  the  same  site. 
+
+AUDIENCE: 
+
+Public  and  private  researchers  in  biomedical  research  fields. 
+
+CONTENTS: 
+
+Detailed  description  of  human  and  animal  cell  lines  available  in  many 
+European  culture  collections  and  research  laboratories.  Searchable  by 
+keywords. 
+
+REFERENCES: 
+
+Bynary.  Vol.  5,  p.  66-72  (1993). 
+
+Chimica  Oggi.  vol.  8,  p.  23  (1990). 
+
+NOTE: 
+
+The  database  is  the  electronic  version  of  the  Human  and  Animal  Cell 
+Lines  Catalogue  1993.  (Listed  elsewhere  in  the  Directory.) 
+
+21 
+
+
+databases 
+
+
+SPONSOR: 
+
+LABORATORY  OF  GENETIC  TOXICOLOGY,  THE  UNIVERSITY  OF 
+PISA 
+
+ADDRESS: 
+
+Dr.  N.  Loprieno 
+
+Genetic  Toxicology  Laboratory 
+
+University  of  Pisa 
+via  San  Giuseppe  12 
+
+1-56126  Pisa,  Italy 
+
+TELEPHONE: 
+
+39-50-55-56-85  FAX:  39-50-55-56-87 
+
+INTERNET: 
+
+galileo@vm.cnuce.cnr.it 
+
+TITLE: 
+
+GALILEO  DATA  BANK  ON  TOXICITY  TESTING  WITH  INVITRO 
+ALTERNATIVE  METHODS 
+
+PUB.  DATA: 
+
+No  date  provided. 
+
+DESCRIPTION: 
+
+Exists  as  an  interrelated,  archives  databank  of  information  (as  of  Oct. 
+1993)  on  1,650  identified  chemicals,  50  methods  for  evaluation  of  toxic 
+effects  on  in  vivo  cell  populations,  90  bio-systems  of  different  origins  and 
+histological  natures,  and  100  toxic  endpoints.  The  software  permits 
+various  listings— toxic  level  of  chemicals,  methods  used  fortesting  a 
+chemical,  chemicals  by  biosystem  effect,  qualitative  and  quantitative 
+data  according  to  assay  methods,  and  comparative  values  between  in 
+vivo  and  in  vitro  results. 
+
+AVAILABILITY: 
+
+Contact  G.  Loprieno. 
+
+AUDIENCE: 
+
+Scientists,  researchers,  industry,  and  regulators. 
+
+CONTENTS: 
+
+The  databank  focuses  on  toxicity  testing.  Information  relates  to  cell 
+toxicity,  mutagenicity,  genotoxicity,  clastogenicity,  cell  transformation, 
+animal  carcinogenicity,  photomutagenicity  and  photogenotoxicity, 
+electrical  conductance,  neurotoxicity  and  QSAR. 
+
+REFERENCES: 
+
+1.  Loprieno,  N.,  G.  Boncristiani,  E.  Bosco,  G.  Loprieno,  and  M. 
+
+22 
+
+
+databases 
+
+
+CONTACT: 
+
+
+Nieri.  Galileo  Data  Bank  Progress  on  Alternatives  to  Animal  Testing: 
+Results  of  First  Year  Activity  (13,874  tests).  Published  by  the  Laboratory. 
+1993.  42p. 
+
+2.  Loprieno,  N.,  G.  Boncristiani,  G.  Loprieno,  and  M.  Tesoro.  "Data 
+Selection  and  Treatment  of  Chemical  Tested  for  Genotoxicity  and 
+Carcinogenicity."  Environmental  Health  Perspectives,  v.  96;  p.  121-126 
+(1991). 
+
+3.  Loprieno,  N,  G.  Boncristiani,  E.  Bosco,  M.  Nieri,  and  G.  Loprieno. "The 
+Galileo  Data  Bank  on  Toxicity  Testing  with  in  vivo  Alternative  Methods.  I. 
+General  Structure."  ATLA  22(1)  p.  20-30.  (1994). 
+
+4.  Loprieno,  N,  G.  Boncristiani,  E.  Bosco,  and  M.  Loprieno.  "The  Galileo 
+Data  Bank  on  Toxicity  Testing  with  in  vivo  Alternative  Methods.  II. 
+Toxicology  Profiles  of  20  Chemicals."  ATLA  22(2)  p.  82-114  (1994). 
+
+Dr.  Gregorio  Loprieno,  Technical  Services,  via  Vecchia  Lucchese  no.  59, 
+1-56123  Pisa,  Italy 
+
+
+23 
+
+
+databases 
+
+
+SPONSOR: 
+
+NORWEGIAN  COLLEGE  OF  VETERINARY  MEDICINE 
+
+ADDRESS: 
+
+P.O.  Box  8146  DEP 
+
+N-0033  Oslo,  NORWAY 
+
+TELEPHONE: 
+
+22-96-45-75  FAX:  22-96-45-35 
+
+TITLE: 
+
+NORINA:  A  NORWEGIAN  INVENTORY  OF  AUDIOVISUALS 
+
+EDITORS: 
+
+Karina  Smith,  Adrian  Smith,  Richard  Fosse 
+
+PUB.  DATA: 
+
+Volume  1  was  made  available  on  May  1993. 
+
+DESCRIPTION: 
+
+Floppy  discs  with  a  compressed  software  that  allows  for  searching. 
+Includes  an  instruction  manual. 
+
+REQUIREMENTS:  The  Mackintosh  version  requires  Filemaker  Pro  installed  on  the  hard 
+
+
+disc.  A  stand  alone  version  is  available  for  IBM  compatible  machines 
+with  DOS.  Windows  application  with  Filemaker  Pro  can  use  the 
+Filemaker  Pro  version. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+The  full  system  is  available  for  purchase.  A  demo  version  is  also 
+available  that  may  be  freely  copied.  The  demo  version,  sample  entries 
+and  an  information  sheet  are  available  by  anonymous  FTP  from 
+"wuarchive.wustl.edu"  in  the  directory  "doc.techreports.wustl.edu 
+compmed.mac". 
+
+AUDIENCE: 
+
+Teachers  and  professors  who  are  looking  for  materials  to  use  for 
+students  from  elementary  school  through  college. 
+
+CONTENTS: 
+
+The  database  is  a  set  of  entries  describing  audiovisual  aids  of  all 
+categories  that  can  be  used  as  alternatives  or  supplements  to  the  use 
+of  animals  in  teaching.  There  is  also  information  on  suppliers  and 
+producers. 
+
+NOTE: 
+
+There  are  no  plans  to  make  the  entire  database  available  on  Internet. 
+As  noted  above,  there  are  demonstration  files  and  other 
+
+Databases 
+
+
+CONTACT: 
+
+
+information  about  the  database  on  Internet. 
+Adrian  Smith  at  the  above  address 
+
+
+25 
+
+
+Databases 
+
+
+SPONSOR: 
+
+PREX  ON-LINE  INFORMATION  SERVICE 
+
+ADDRESS: 
+
+The  Department  of  Laboratory  Animal  Science/PREX 
+
+Faculty  of  Veterinary  Medicine 
+
+Utrecht  University 
+
+P.0  Box  80.156 
+
+Yalelaan  17 
+
+3584  TD  Utrecht-Uithof 
+
+The  Netherlands 
+
+TELEPHONE: 
+
+31-30-53-58-43  FAX:  31-30-53-67-47 
+
+TITLE: 
+
+PREX  ONLINE  INFORMATION  SERVICE 
+
+PUB.  DATE: 
+
+Unknown 
+
+DESCRIPTION: 
+
+An  on-line  service  that  originates  from  both  multiple  databases  on 
+CD-ROM  and  topic-specific  institutional  databases.  System 
+requirements:  IBM/XT/AT  or  100%  compatible  computer;  a  hard 
+disk  and  a  diskette  unit;  DOS  version  4.0  or  higher;  and  either  a 
+Hayes  Compatible  modem  of  2400  or  9600  bps;  a  network  card 
+for  Internet;  or  a  connection  using  NFS  (RUU  only). 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+The  database  is  available  to  members  only.  The  annual 
+subscription  runs  January  to  January  and  costs  1 .6000  Dutch 
+guilders/$360.0Q  U.S. 
+
+AUDIENCE: 
+
+The  brochure,  describing  the  database,  states  that  membership  is 
+required,  but  there  is  no  apparent  requirement  for  membership 
+other  than  payment  of  dues. 
+
+CONTENTS: 
+
+The  system  is  made  up  of  a  number  of  databases:  Medline 
+(1984-present),  CABIvet  (from  CAB  International),  Disvet  (titles  of 
+vet  dissertations  from  EuroScience),  Merkvet  a  (full  text  of  the 
+Merk  Veterinary  Manual--7th  edition),  Laslit  (references  from  lab 
+animal  science  journals),  T-base  (a  transgenic  animal  database), 
+Books  (contents  of  relevant  books),  Alternat  (references  to 
+
+26 
+
+
+Databases 
+
+
+NOTE: 
+
+
+CONTACT: 
+
+
+research,  testing  and  education),  Bioval  (biological  reference  data), 
+Norina  (audiovisuals  for  alternatives),  Strains  &  InbrList  (international  list 
+of  lab  animal  strains,  and  availability),  Dissert  (dissertations  on  lab 
+animal  science). 
+
+The  system  is  an  initiative  of  both  the  Department  of  Laboratory  Animals 
+Science  of  the  University  of  Utrecht  and  supported  by  the  Dutch  Ministry 
+of  Education  and  Science. 
+
+Dr.  J.D.  Kuiper  at  the  University  of  Utrecht.  TEL:  31-30-531583 
+
+
+27 
+
+
+Databases 
+
+
+SPONSOR: 
+
+ZENTRALSTELLE  ZUR  ERFASSUNG  UND  BEWERTUNG  VON 
+ERSATZ  UND  ERGANZUNGSMETHODEN  ZUM 
+
+TIERVERSUCH  (ZEBET)  [CENTER  FOR  DOCUMENTATION 
+AND  EVALUATION  OFALTERNATIVE  METHODS  TO  ANIMAL 
+EXPERIMENTS] 
+
+ADDRESS: 
+
+Diedersdorfer  Weg  1 . 
+
+D-12277  Berlin,  Germany 
+
+TELEPHONE: 
+
+49-30-7236  2270  FAX:  49-30-7236-2958 
+
+TITLE: 
+
+ZEBET  DATABANK  ON  ALTERNATIVES  TO  THE  USE  OF 
+EXPERIMENTAL  ANIMALS 
+
+EDITORS: 
+
+Horst  Spielmann,  Barbara  Grune-Wolff,  Antje  Dorendahl, 
+
+Susanne  Skolik 
+
+PUB.  DATA: 
+
+The  Center  was  established  in  1989. 
+
+EDITION: 
+
+Fifth  version. 
+
+DESCRIPTION: 
+
+The  system  is  a  multi-user  system  PC-LAN/Novell.  The  software 
+is  LARS  II,  WEKA  GmbH,  Frankfurt  a  M  Information  Retrieval 
+System. 
+
+LANGUAGE: 
+
+German 
+
+AVAILABILITY: 
+
+This  is  an  in-house  database.  Currently,  requests  for  information 
+are  directed  to  the  Center's  staff.  The  Center  is  exploring  the 
+feasibility  of  offering  the  database  to  the  public  through  DIMDI. 
+
+AUDIENCE: 
+
+Government  agencies,  scientific  institutions,  scientists,  welfare 
+committees,  local  animal  protection  officers,  interested  citizens, 
+and  journalists. 
+
+CONTENTS: 
+
+The  database  contains  information  on  alternative  methods 
+gathered  from  the  scientific  literature.  To  date,  there  is 
+information  on  200  methods  plus  more  than  2000  bibliographic 
+references.  The  database  is  divided  into  "documents".  A 
+
+28 
+
+
+databases 
+
+
+REFERENCES: 
+
+
+NOTE: 
+
+
+"document"  contains  a  short  description  of  a  method  including  the 
+aim,  principle,  stage  of  development  and  validation,  evaluation, 
+and  whether  it  is  a  replacement,  reduction,  or  refinement. 
+
+
+1.  Spielmann,  H,  B.  Grune-Wolff,  and  M.  Liebsch.  "ZEBET:  Three 
+years  of  the  National  German  Center  for  Documentation  and 
+Evaluation  of  Alternatives  to  Animal  Experiments  at  the  Federal 
+Health  Office  (BGA)  in  Berlin."  Alternatives  to  Animal  Testing. 
+New  Ways  in  the  Biomedical  Sciences.  Trends  and  Progress. 
+VCH.  Weinheim.  (1994). 
+
+2.  Liebsch,  M.,  H.  Spielmann,  M.  Balls,  M.  Brand,  B.  Doring,  et  al. 
+"  First  results  of  the  EC/COLIPA  validation  project.  In  vitro 
+phototoxicity  testing."  In  "  In  Vitro  Skin  Toxicology:  Irritation, 
+Phototoxicity,  Sensitization.  A.  Rougier,  A.M.  Goldberg,  and  H. 
+Maibach  (eds.);  Mary  Ann  Liebert,  N.Y  (1994). 
+
+3.  Speilmann,  H,  B.  Grune-Wolff,  S.  Ewe,  S.  Skolik,  M.  Liebsch, 
+et  al.  "ZEBET's  data  bank  and  information  service  on  alternatives 
+to  the  use  of  experimental  animals  in  Germany."  ATLA.  v.  20  p. 
+362-367  (1992). 
+
+An  alphabetical  listing  of  keywords  is  available.  The  group  is  now 
+a  part  of  the  BGW,  the  Federal  Institute  for  Health  Protection  of 
+Consumers  and  Veterinary  Medicine.  In  addition  to  information 
+services  and  maintaining  the  database,  the  Center  is  also 
+responsible  for  planning,  funding  and  coordinating  validation 
+programs  for  alternative  testing  methods.  ZEBET  also  has 
+laboratory  facilities  for  developing  experimental  in  vitro  models. 
+
+
+29 
+
+
+30 
+
+
+Publications 
+
+
+SPONSOR: 
+
+ADVOCATES  FOR  ANIMALS 
+
+ADDRESS: 
+
+10  Queensferry  Street 
+
+Edinburgh  EH2  4PG,  Scotland,  UK 
+
+TELEPHONE: 
+
+03-1 2-25-60-39  FAX:  03-12-20-63-77 
+
+TITLE: 
+
+ANNUAL  PICTORIAL  REVIEW 
+
+EDITOR: 
+
+Advocates  for  Animals 
+
+FREQUENCY: 
+
+Yearly  (April). 
+
+DESCRIPTION: 
+
+An  A5  color  booklet  of  approximately  70  pages. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  organization. 
+
+AUDIENCE: 
+
+Not  stated,  but  assumed  to  be  those  interested  in  animal  welfare  issues 
+
+CONTENTS: 
+
+Contains  a  review  of  the  activities  of  the  organization  and  the  major 
+international  developments  in  animal  protection. 
+
+CONTACT: 
+
+Peter  Haddow,  Campaigns  Support  Officer 
+
+31 
+
+
+"Publications 
+
+
+SPONSOR: 
+
+ADVOCATES  FOR  ANSIWIALS 
+
+ADDRESS: 
+
+10  Queensferry  Street 
+
+Edinburgh  EH2  4PG,  Scotland,  UK 
+
+TELEPHONE: 
+
+03-12-25-60-39  FAX:  03-1 2-20-63-77 
+
+TITLE: 
+
+There  are  various  brochures  in  an  unnamed  series. 
+
+EDITOR: 
+
+Advocates  for  Animals 
+
+PUB.  DATA: 
+
+The  dates  vary. 
+
+DESCRIPTION: 
+
+A5  leaflets/brochures  of  1-10  pages 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  organization. 
+
+AUDIENCE: 
+
+Those  interested  in  animal  welfare  issues. 
+
+CONTENTS: 
+
+Indepth  analyses  and  facts  regarding  animal  protection  issues  including 
+a  brochure  about  the  organization,  using  animals  in  medical  and  non¬ 
+medical  research,  replacement  techniques,  ethics  of  experimentation, 
+testing  for  beauty  products,  effects  of  wars  on  animals,  etc. 
+
+CONTACT: 
+
+Peter  Haddow,  Campaigns  Support  Officer 
+
+32 
+
+
+"Publications 
+
+
+SPONSOR: 
+
+ANIMAL  WELFARE  INFORMATION  CENTER  (AWIC), 
+NATIONAL  AGRICULTURAL  LIBRARY  (NAL),  U.S. 
+DEPARTMENT  OF  AGRICULTURE  (USDA) 
+
+ADDRESS: 
+
+National  Agricultural  Library 
+
+10301  Baltimore  Ave.,  5th  FI. 
+
+Beltsville,  MD  20705,  USA 
+
+TELEPHONE: 
+
+301-504-6212  FAX:  301-504-7125 
+
+INTERNET: 
+
+awic@nalusda.gov 
+
+PUB.  DATA: 
+
+The  Center  produces  a  variety  of  publications  about  animal  care 
+and  use,  including:  Quick  Bibliography  Series  (QB)  that  are 
+topical,  bibliographic  citation  downloads  from  the  AGRICOLA 
+database:  Special  Reference  Brief  (SRB)  that  are  reviews  of 
+important  literature  and  are  reviewed  by  an  expert  in  the  topic; 
+Fact  Sheets  which  are  informational/instructional.  AWIC  has 
+provided  support  for  a  variety  of  other  documents  e.g.  manuals, 
+videotapes,  slide  programs,  and  conference  proceedings.  (All  are 
+available  from  the  NAL  collection.) 
+
+DESCRIPTION: 
+
+Print  versions  are  in  8  1/2"  by  11"  format.  Many  documents  are 
+available  in  ASCII  or  WordPerfect.  Videotapes  are  in  VHS  or  U- 
+matic  format.  Slides  are  35MM. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Current  paper  publications  are  available  free  on  a  first  come  first 
+serve  basis.  Older  paper  items  and  other  materials  are  available 
+on  interlibrary  loan. 
+
+AUDIENCE: 
+
+The  publication  is  mainly  of  interest  to  researchers,  scientists  and 
+others  interested  or  involved  with  the  use  of  animals  in  research, 
+testing  and  teaching.  Some  articles  may  be  useful  to  the  zoo 
+community. 
+
+CONTENTS: 
+
+Subjects  include:  alternative  animal  models,  non-animal  models, 
+humane  care,  euthanasia,  animal  welfare  legislation,  toxicity 
+testing,  ethical  issues,  etc. 
+
+33 
+
+
+VubticaUons 
+
+
+NOTE: 
+
+Many  documents  are  available  in  full  text,  electronic  format  from 
+the  NETVET  gopher  site  at  Washington  University.  The  address 
+is  "netvet.wustl.edu".  Locate  AWIC  publications  in  the  Animal 
+Welfare  Information  Center  subfile.  Also  available  on  World  Wide 
+Web  at  http://netvet.wustl.edu/awic.htm. 
+
+CONTACT: 
+
+Jean  A.  Larson,  Coordinator.  E-mail  address: 
+jlarson@nalusda.gov. 
+
+3¥ 
+
+
+Publications 
+
+
+SPONSOR: 
+
+AUSTRALIAN  AND  NEW  ZEALAND  COUNCIL  FOR  THE  CARE  OF 
+ANIMALS  IN  RESEARCH  AND  TEACHING,  LIMITED  (ANZCCART) 
+
+ADDRESS: 
+
+P.O.  Box  19  P.O.  Box  598 
+
+Glen  Osmond  SA  5064  Wellington 
+
+Australia  New  Zealand 
+
+TELEPHONE: 
+
+A.C.N.  06-33-83-522 
+
+TITLE: 
+
+There  is  no  specific  series  title  for  these  publications. 
+
+PUB.  DATA  : 
+
+Those  currently  available  date  from  1991. 
+
+DESCRIPTION: 
+
+Various  types. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+An  order  form  is  available  that  lists  current  titles  and  costs.  Publication 
+costs  may  be  charged  via  credit  card,  check  or  money  order  made  out 
+to  ANZCCART. 
+
+CONTENTS: 
+
+Scientific  information  on  euthanasia,  conference  proceedings  on 
+effective  animal  care  and  use  committees  and  improved  well  being  for 
+animals  in  research,  listings  of  alternative  for  undergraduate  teaching, 
+a  survey  of  lab  animals  and  tumor  cell  lines  in  Australia,  and 
+publications  on  the  care  and  use  of  animals  in  research  and  animal 
+pain. 
+
+NOTE: 
+
+Not  yet  on  Internet 
+
+CONTACT: 
+
+Dr.  R.M.  Baker,  Executive  Officer,  ANZCCART 
+
+P.O.  Box  19,  Glen  Osmond,  SA  5064,  Australia 
+
+TEL:  61-83-03-73-93  FAX:  61-83-79-38-80 
+
+35 
+
+
+"Publications 
+
+
+SPONSOR: 
+
+ASSOCIATION  OF  VETERINARIANS  FOR  ANIMALS  RIGHTS 
+
+ADDRESS: 
+
+Nedium  Buyukmihci,  V.M.D 
+
+Association  of  Veterinarians  for  Animal  Rights 
+
+P.O.  Box  6269 
+
+Vacaville,  CA  95696-6269,  USA 
+
+TITLE: 
+
+VETERINARY  MEDICAL  EDUCATION:  ALTERNATIVES  TO  THE 
+HARMFUL  USE  OF  NONHUMAN  ANIMALS 
+
+PUB.  DATA: 
+
+None  given. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  Association. 
+
+AUDIENCE: 
+
+Mostly  educators. 
+
+CONTENTS: 
+
+The  publication  contains  citation  for  books,  journal  articles,  computer 
+programs,  clinical  programs,  and  information  about  other  resources 
+actively  used  in  life  sciences  education.  Coverage  is  from  elementary 
+school  level  through  specialty  residencies  in  human  and  veterinary 
+medicine. 
+
+NOTE: 
+
+The  listing  evolved  into  an  electronic  database  which  is  available  from 
+the  Association  under  the  title  Alternatives  in  Education  (Alt-Ed). 
+
+36 
+
+
+Publications 
+
+
+SPONSOR: 
+
+CANADIAN  COUNCIL  ON  ANIMAL  CARE  (CCAC) 
+
+ADDRESS: 
+
+315-350  Albert  Street 
+
+Ottawa,  Ontario,  Canada  KIR  1B1 
+
+TELEPHONE: 
+
+613-238-4031  FAX:  61 3-238-2837 
+
+INTERNET: 
+
+ccac@carleton.ca 
+
+TITLE: 
+
+GUIDE  TO  THE  CARE  AND  USE  OF  EXPERIMENTAL  ANIMALS 
+
+EDITORS: 
+
+E.  D.  Olfert,  B.  M.  Cross,  A.  A.  McWilliam 
+
+PUB.  DATA: 
+
+Volume  1  is  available  in  the  2nd  edition  which  was  publicized  in  1993. 
+ISBN:  0-919087-18-3.  Volume  2  was  published  in  1984.  ISBN:  0- 
+919087-08-6. 
+
+DESCRIPTION: 
+
+A  two-volume  set  in  8  1/2"  by  11",  soft  cover  volumes.  Contains 
+graphs. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  Council  for  a  modest  charge. 
+
+AUDIENCE: 
+
+The  Guidelines  are  designed  for  those  who  use  animals  in  research, 
+testing,  and  education  in  Canada. 
+
+CONTENTS: 
+
+Volume  1  covers  a  wide  variety  of  topics  regarding  adequate  animal 
+care-responsibilities  of  the  user,  adequate  facilities,  care,  social  and 
+behavioral  requirements,  pain  control,  euthanasia,  etc.  Volume  2 
+"deals  with  the  care  and  use  of  representative  classes  of  animals."  The 
+groups  covered  include:  fish,  amphibians,  reptiles,  pigeons  and  doves, 
+waterfowl,  bats,  cats,  dogs,  ferrets,  foxes,  mink,  guinea  pigs,  Mongolian 
+gerbils,  hamsters,  rabbits,  marine  mammals,  miniature  swine,  non¬ 
+human  primates,  laboratory  rats,  and  some  less  used  species. 
+
+CONTACT: 
+
+Gilly  Griffin 
+
+3  7 
+
+
+Publications 
+
+
+SPONSOR: 
+
+EURONICHE 
+
+ADDRESS: 
+
+C/O  Nick  Jukes 
+
+11  Beckingham  Road 
+
+Leicester  LE2  1HB,  England,  UK 
+
+TELEPHONE/FAX: 
+
+44-53-35-53-223 
+
+TITLE: 
+
+UBER  LEICHEN  ZUM  EXAMEN  TIERVERSUCHE IM  STUDIUM 
+
+AUTHORS: 
+
+T.  Rieg,  B.  Vollon,  A.  Fedderson 
+
+EDITOR: 
+
+T.  Verlag 
+
+PUB.  DATA: 
+
+Bundesverdand  Satis  e.V.  of  Stuttgart,  Germany.  1993. 
+
+DESCRIPTION: 
+
+A  paperback. 
+
+LANGUAGE: 
+
+German,  with  short  abstracts  in  English. 
+
+AVAILABILITY: 
+
+Can  be  purchased  from  the  publisher. 
+
+AUDIENCE: 
+
+For  anyone  interested  in  the  issues  of  animal  experiments  in  the 
+classroom. 
+
+CONTENTS: 
+
+The  book  contains  a  concise  description  of  the  situation  on  the 
+different  university  campuses  regarding  animal  use.  Topics 
+covered  include  ethics,  alternatives,  and  objecting  against  animal 
+experiments.  It  can  be  used  as  a  discussion  workbook. 
+
+38 
+
+
+Publications 
+
+
+SPONSOR: 
+
+EURONICHE 
+
+ADDRESS: 
+
+C/O  Nick  Jukes 
+
+1 1  Beckingham  Road 
+
+Leicester  LE2  1HB,  England,  UK 
+
+TELEPHONE/FAX:  44-53-35-53-223 
+
+
+TITLE: 
+
+EURONICHE  CONFERENCE  PROCEEDINGS 
+
+PUB. DATA: 
+
+Three  have  been  published— April  1989,  October  1990  and  September 
+1993. 
+
+DESCRIPTION: 
+
+The  first  proceedings  is  a  hard  cover  book,  the  other  two  are 
+paperbacks. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Can  be  purchased  from  the  organization. 
+
+AUDIENCE: 
+
+Students  and  other  interested  persons. 
+
+CONTENTS: 
+
+#1  contains  all  the  papers  of  the  lectures  and  workshops.  The  topics 
+include  an  overview  of  animal  use  in  Europe,  animal  awareness,  cross- 
+cultural  differences,  alternatives  and  attitudes  to  animal  use  in  education 
+
+#2  A  discussion  of  the  current  animal  welfare/use  in  different  countries, 
+scientific  antivisection  issues. 
+
+#3  Papers  on  the  current  animal  welfare/use  situation  in  different 
+countries  and  on  alternatives. 
+
+59 
+
+
+Publications 
+
+SPONSOR: 
+
+FUND  FOR  THE  REPLACEMENT  OF  ANIMALS  IN  MEDICAL 
+EXPERIMENTS  (FRAME) 
+
+ADDRESS: 
+
+Russell  &  Burch  House 
+
+96-98  North  Sherwood  Street 
+
+Nottingham,  NG1  4EE,  England,  UK 
+
+TELEPHONE: 
+
+01-15-95-84740  FAX:  01-15-95-03570 
+
+TITLE: 
+
+ATLA  (Alternatives  to  Laboratory  Animals) 
+
+EDITOR: 
+
+Michael  Balls 
+
+FREQUENCY: 
+
+6  issues  per  year. 
+
+DESCRIPTION: 
+
+7"  by  10  1/2"  paper  with  photographs,  graphs,  charts,  graphics. 
+
+ISSN:0261  1929. 
+
+LANGUAGE: 
+
+English. 
+
+AVAILABILITY: 
+
+Available  on  subscription  at  £65/$130  per  year.  Subscriptions  start  on 
+the  calendar  year.  Airmail  distribution  is  available  for  an  extra  cost.  In 
+exceptional  cases,  applications  to  receive  ATLA  free  of  charge  will  be 
+considered. 
+
+AUDIENCE: 
+
+Academic  and  industrial  scientists,  and  students. 
+
+CONTENTS: 
+
+A  scientific  journal  on  alternatives  to  the  use  of  animals  in  biomedical 
+research  and  toxicity  testing.  It  includes  original  research  papers,  news 
+and  views,  conference  reports,  comments,  book  reviews,  and  a  subject 
+and  author  index. 
+
+CONTACT: 
+
+Lynda  Warrington 
+
+w 
+
+
+“Publications 
+
+
+SPONSOR: 
+
+HADWEN  TRUST  FOR  HUMANE  RESEARCH 
+
+ADDRESS: 
+
+22  Bancroft 
+
+Hitchin,  Hertfordshire,  SG5  1JW,  England,  UK 
+
+TELEPHONE: 
+
+04-62-43-68-19 
+
+TITLE: 
+
+DR.  HADWEN  TRUST  FACTSHEETS 
+
+PUB.  DATA: 
+
+1992/93. 
+
+DESCRIPTION: 
+
+Set  of  6  single  sheets. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Free  to  any  requestor. 
+
+AUDIENCE: 
+
+Laypersons,  members  of  the  public. 
+
+CONTENTS: 
+
+Subjects  are  alternatives  such  as  cell  cultures,  microorganisms, 
+human  studies,  education,  body  scanners,  and  computers. 
+
+CONTACTS: 
+
+Carol  Newman,  Scientific  Assistant 
+
+NOTE: 
+
+Fact  sheets  are  available  on  the  World  Wide  Web  at 
+http://envirolink.org/adn/DdrHt/index.html 
+
+< H 
+
+
+Publications 
+
+
+SPONSOR: 
+
+INSTITUTO  NAZIONALE  PER  LA  RICERCA  SUL  CANCRO  (1ST) 
+[NATIONAL  INSTITUTE  FOR  CANCER  RESEARCH] 
+
+ADDRESS: 
+
+Dr.  Maria  Assunta  Manniello 
+
+Viale  Benedetto  XV,  n.  10 
+
+16132  Genoa,  Italy 
+
+TELEPHONE: 
+
+28-63-53  FAX:  35-29-99 
+
+TITLE: 
+
+HUMAN  AND  ANIMAL  CELL  LINES  CATALOGUE  1993 
+
+EDITORS: 
+
+B.  Parodi,  0.  Aresu,  A.  Manniello,  and  P.  Romano. 
+
+PUB.  DATA: 
+
+June  1993. 
+
+EDITION: 
+
+2nd. 
+
+DESCRIPTION: 
+
+Printed  volume  of  456  pages. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Can  be  purchased  from  the  organization.  Order  from  the  Biotechnology 
+Department,  Interlab  Project,  Advanced  Biotechnology  Center,  Viale 
+Benedetto  XV  10,  16132,  Genoa,  Italy. 
+
+Tel.:  010-57-37-282.  Fax:  010-57-37-295.  ITL  37.000/$24.00  plus 
+postage. 
+
+AUDIENCE: 
+
+Public  and  private  researchers  in  biomedical  research  fields. 
+
+CONTENTS: 
+
+Detailed  description  on  human  and  animal  cell  lines  available  in  many 
+European  culture  collections  and  research  laboratories.  Indexed  by 
+tumor  and  species,  species  and  tissue  etc..  Short  references  include 
+source  data  and  a  brief  description  of  the  culture  collection  activities. 
+
+REFERENCES: 
+
+Cytotechnology.  Vol.  11,  Suppl  1,  p.  130-133  (1993). 
+
+NOTE: 
+
+The  database  is  available  at  "gopher.ist.unige.it". 
+
+Publications 
+
+
+SPONSOR: 
+
+JAPANESE  SOCIETY  OF  ALTERNATIVES  TO  ANIMAL 
+EXPERIMENTS 
+
+ADDRESS: 
+
+C/O  Hatano  Research  Institute,  Food  &  Drug  Safety  Center 
+
+729-5  Ochiai,  Hadano,  Kanagawa,  257,  Japan 
+
+TELEPHONE: 
+
++81-463-82-4751  FAX:  +81-463-82-9627 
+
+TITLE: 
+
+AATEX:  ALTERNATIVES  TO  ANIMAL  TESTING  AND  EXPERIMENTS 
+
+EDITOR: 
+
+Masami  Watanabe  (Nagasaki  University  Faculty  of  Pharmaceutical 
+Sciences,  Division  of  Radiation  Biology) 
+
+PUB.  DATA: 
+
+4  issues  per  year.  Publication  is  periodic.  Volume  2  in  1994. 
+
+LANGUAGE: 
+
+English. 
+
+AVAILABILITY: 
+
+The  journal  is  sent  to  all  the  members  of  the  Society.  The  domestic, 
+yearly  membership  fee  is  5,000  Japanese  yen  and  an  overseas 
+membership  is  U.S.  $100.  Back  issues  may  also  be  available. 
+
+CONTENTS: 
+
+The  contents  includes  journal  articles  on  alternatives  in  scientific 
+experimentation  and  safety  testing. 
+
+*3 
+
+
+SPONSOR: 
+
+THE  JOHNS  HOPKINS  CENTER  FOR  ALTERNATIVES  TO 
+ANIMAL  TESTING  (CAAT) 
+
+ADDRESS: 
+
+Johns  Hopkins  School  of  Public  Health 
+
+1 1 1  Market  Place,  Suite  840 
+
+Baltimore,  MD  21202-6709,  USA 
+
+TELEPHONE: 
+
+410-223-1693 
+
+INTERNET: 
+
+CAAT@jhuhyg.sph.jhu.edu 
+
+TITLE: 
+
+ALTERNATIVE  METHODS  IN  TOXICOLOGY  (Includes  various 
+secondary  titles.) 
+
+EDITOR: 
+
+A.M.  Goldberg 
+
+PUBLISHER: 
+
+Mary  Ann  Liebert,  Inc.,  New  York. 
+
+PUB.  DATA: 
+
+From  1983  to  the  present. 
+
+FREQUENCY: 
+
+Every  one  to  two  years. 
+
+DESCRIPTION: 
+
+Printed  hard  cover  books. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Through  the  publisher. 
+
+AUDIENCE: 
+
+Scientists  and  the  public. 
+
+CONTENTS: 
+
+The  10  volumes  published  in  this  series  to  date  include  the 
+following  topics:  product  safety  evaluation,  toxicity  testing,  various 
+aspects  of  toxicology,  eye  irritation  testing,  validation 
+approaches,  mechanism  and  new  technologies,  and  other 
+symposia  proceedings. 
+
+CONTACT: 
+
+Deborah  Rudacille,  Science  Writer 
+
+Publications 
+
+
+SPONSOR: 
+
+THE  JOHNS  HOPKINS  CENTER  FOR  ALTERNATIVES  TO 
+ANIMAL  TESTING  (CAAT) 
+
+ADDRESS: 
+
+Johns  Hopkins  School  of  Public  Health 
+
+1 1 1  Market  Place,  Suite  840 
+
+Baltimore,  MD  21202-6709,  USA 
+
+TELEPHONE: 
+
+410-223-1693 
+
+INTERNET: 
+
+CAAT@jhuhyg.sph.jhu.edu 
+
+TITLE: 
+
+TECHNICAL  REPORT  (  Includes  various  secondary  titles.) 
+
+EDITOR: 
+
+CAAT 
+
+PUB.  DATA: 
+
+From  1989  to  the  present. 
+
+FREQUENCY: 
+
+About  every  year. 
+
+DESCRIPTION: 
+
+Hard  cover  books. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Through  the  Center.  Request  a  listing  and  order  form. 
+
+AUDIENCE: 
+
+Scientists  and  the  public. 
+
+CONTENTS: 
+
+The  seven  volumes  published  in  this  series  to  date  include  the 
+following  topics:  technical  problems  in  in  vitro  testing  systems, 
+extrapolation  for  risk  assessment,  international  status  of  in  vitro 
+methods,  reports  of  CAAT  grantees,  in  vitro  toxicology  systems 
+alternatives  to  lab  animals,  and  predictive  relationships  in 
+toxicology. 
+
+CONTACT: 
+
+Deborah  Rudacille,  Science  Writer 
+
+*5 
+
+
+Publications 
+
+
+SPONSOR: 
+
+NATIONAL  LIBRARY  OF  MEDICINE  (NLM) 
+
+ADDRESS: 
+
+8600  Rockville  Pike 
+
+Bethesda,  MD  20894 
+
+TELEPHONE: 
+
+301-496-6308  (public  information)  1-800-272-4787  (health  professional 
+inquiries). 
+
+TITLE: 
+
+ALTERNATIVES  TO  THE  USE  OF  LIVE  VERTEBRATES  IN 
+BIOMEDICAL  RESEARCH  AND  TESTING-AN  ANNOTATED 
+BIBLIOGRAPHY 
+
+EDITORS: 
+
+A.A.  Wykes,  Scientific  Editor;  S.  Siegel,  Project  Coordinator 
+
+FREQUENCY: 
+
+Quarterly  (Spring,  Summer,  Fall,  Winter). 
+
+DESCRIPTION: 
+
+Paper,  double  sided,  photocopied,  8  1/2"  by  11",  number  of  pages  per 
+issue  varies. 
+
+LANGUAGE: 
+
+English. 
+
+AVAILABILITY: 
+
+The  publication  is  free  to  the  requestor.  To  subscribe  contact  the 
+following:  National  Library  of  Medicine,  Specialized  Information  Services 
+Office  of  Hazardous  Substances  Information,  Building  38A,  Room  55- 
+SI  6,  8600  Rockville  Pike,  Bethesda,  MD  20894. 
+
+AUDIENCE: 
+
+Biomedical  scientists. 
+
+CONTENTS: 
+
+A  bibliography  featuring  citations  which  contain  information  on  methods, 
+tests,  assays,  or  procedures  that  may  be  useful  to  researchers  trying  to 
+establish  alternatives  to  intact  vertebrates.  Citations  are  selected  from 
+on-line  bibliographic  databases  of  the  National  Library  of  Medicine 
+(NLM). 
+
+NOTE: 
+
+A  limited  number  of  WordPerfect  versions  on  floppy  discs  are  available. 
+The  publication  is  also  available  on  the  NIH  gopher. 
+
+CONTACT: 
+
+A.A.  Wykes.  TEL:  301-496-5022.  Fax:  301-402-0421. 
+
+u 
+
+
+“Publications 
+
+
+SPONSOR: 
+
+NATIONAL  LIBRARY  OF  MEDICINE  (NLM) 
+
+ADDRESS: 
+
+8600  Rockville  Pike 
+
+Bethesda,  MD  20894 
+
+TELEPHONE: 
+
+301-496-6308  (general  information),  1-800-272-4787  (reference 
+questions). 
+
+TITLE: 
+
+NATIONAL  LIBRARY  OF  MEDICINE  FACT  SHEET 
+
+FREQUENCY: 
+
+Irregularly  published. 
+
+DESCRIPTION: 
+
+Usually  a  single  sheet,  printed  on  both  sides  of  8  1/2"  by  1 1"  white 
+paper. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  on  request.  Distributed  at  conferences  and  meetings. 
+
+AUDIENCE: 
+
+A  wide  variety  of  people-researchers,  regulatory  authorities,  the  public 
+and  information  providers. 
+
+CONTENTS: 
+
+A  wide  variety  of  topics  such  as  print  and  electronic  products,  services 
+and  how  to  access  information  from  NLM  and  medical  resources. 
+
+CONTACT: 
+
+Contact  the  NLM  via  the  telephone  numbers  or  through  the  NLM  gopher. 
+
+Publications 
+
+
+SPONSOR: 
+
+THE  PROGRAMME  OF  BIOTECHNOLOGY  OF  THE 
+EUROPEAN  COMMISSION 
+
+ADDRESS: 
+
+European  Commission 
+
+Prof.  H.  Bazin/Dr.  L.  Matthiessen 
+
+DG  Xll-Biotechnology 
+
+SDME  2/4 
+
+Rue  de  la  Loi,  200 
+
+B-1049  Brussells,  Belgium 
+
+TELEPHONE: 
+
+32-2-296-57-74/295-03-61  exchange  299-1 1-1 1  FAX:  295-53-65 
+
+TITLE: 
+
+EUROPEAN  LABORATORY  WITHOUT  WALLS  (series  title) 
+Currently  there  are  eight  booklets  on  different  topics  with  unique 
+titles. 
+
+DESCRIPTION: 
+
+Booklets  8"  by  6"  of  various  lengths.  Color  photographs,  tables, 
+charts,  and  graphics  are  included. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+A  listing  of  the  current  titles  is  available.  The  publications  are 
+available  at  no  cost.  (Direct  any  inquiries  to  H.  Bazin  or  L. 
+Matthiessen  as  listed  above.) 
+
+CONTENTS: 
+
+The  booklets  describe  research  activities  in  in  vitro  alternatives  to 
+animal  experiments  in  pharmacotoxicology.  The  research  is 
+supported  by  the  Commission  of  the  European  Communities. 
+
+The  specific  topics  addressed  are:  gap  junctional  intercellular 
+communication  and  screening  of  tumor  promoters:,  development 
+of  immortalized  human  articular  cartilage  cell  lines  and  of  human 
+endothelial  cell  lines,  in  vitro  integrated  approach  to  skin 
+pharmacotoxicology,  use  of  neural  primary  cultures  and  cell  lines, 
+nephrotoxicity  of  biotech  derived  polypeptides  in  human  and 
+animal  renal  cell  lines  using  molecular  and  cellular  biology 
+techniques. 
+
+Publications 
+
+
+NAME: 
+
+SCIENTISTS  CENTER  FOR  ANIMAL  WELFARE  (SCAW) 
+
+ADDRESS: 
+
+Golden  Triangle  Building  One 
+
+7833  Walker  Drive,  Suite  340 
+
+Greenbelt,  MD  20770  USA 
+
+TELEPHONE: 
+
+301-345-3500  FAX:  301-345-3503 
+
+TITLE: 
+
+Miscellaneous  types  of  publications  that  are  not  in  any  series  title. 
+Types  of  publications  include  conference  proceedings, 
+bibliographies,  and  papers. 
+
+EDITORS: 
+
+Editors  are  various 
+
+PUB. DATA: 
+
+Publications  date  back  to  1987.  They  are  published  on  an 
+irregular  basis. 
+
+DESCRIPTION: 
+
+Usually  printed  in  soft  cover  in  8  1/2"  by  11". 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Recent  volumes  are  available  for  purchase  from  SCAW.  Prices 
+vary.  Contact  SCAW  for  a  current  listing. 
+
+AUDIENCE: 
+
+The  publications  are  of  interest  to  researchers,  members  of 
+animal  care  and  use  committees,  research  administrators, 
+veterinarians,  animal  technicians,  and  others  interested  in  animal 
+based  research  issues. 
+
+CONTENTS: 
+
+Most  of  the  publications  contain  papers  delivered  at  conferences 
+that  were  sponsored  by  SCAW  and  other  collaborating 
+organizations.  Some  currently  available  titles  include:  Annotated 
+Bibliography  on  Laboratory  Animal  Welfare,  (1991  ed.);  Science 
+and  Animals:  Addressing  Contemporary  Issues;  Refinement  and 
+Reduction  in  Animal  Testing;  Canine  Research  Environment; 
+Well-being  of  Nonhuman  Primates  in  Research;  Summary  of  New 
+Animal  Welfare  Regulations;  The  Wellbeing  of  Agricultural 
+Animals  in  Biomedical  and  Agricultural  Research;  Field  Research 
+
+99 
+
+
+Publications 
+
+
+Guidelines;  The  Care  and  Use  of  Amphibians,  Reptiles  and  Fish 
+in  Research;  and  Rodents  and  Rabbits:  Current  Issues. 
+
+NOTE: 
+
+At  this  time,  there  is  no  intention  to  publish  items  through 
+electronic  networks. 
+
+CONTACT: 
+
+Lee  Krulisch,  Executive  Director 
+
+50 
+
+
+VublicaUom 
+
+
+SPONSOR: 
+
+TUFTS  CENTER  FOR  ANIMALS  AND  PUBLIC  POLICY 
+
+ADDRESS: 
+
+200  Westboro  Rd. 
+
+N.  Grafton,  MA  01536,  USA 
+
+TELEPHONE: 
+
+508-839-7991  FAX:  508-839-2953 
+
+INTERNET: 
+
+dpease@opal.tufts.edu 
+
+PUB.  DATA: 
+
+The  Center  produces  a  variety  of  workshop  conference  proceedings. 
+
+The  main  animal  research  publication  is  The  Animal  Research 
+Controversy:  Protest,  Process  and  Public  Policy.  The  book  contains  one 
+chapter  on  alternatives  but  has  other  chapters  that  are  related  to  the 
+topic. 
+
+DESCRIPTION: 
+
+A4  size,  210  pages,  indexed. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+The  book  is  available  for  $30. 
+
+AUDIENCE: 
+
+Persons  (both  scientists,  the  general  public,  animal  protection  groups, 
+etc.)  with  an  interest  in  learning  about  the  context,  central  themes,  and 
+manner  in  which  the  argument  of  animal  research  is  prosecuted. 
+
+CONTENTS: 
+
+History,  current  status,  major  philosophical  issues,  evaluation  of  animal 
+research,  the  questions  of  alternatives,  issues  regarding  pain  and 
+distress,  education,  animal  testing,  the  form  of  the  public  debate, 
+organizations  and  resources,  and  the  history  of  the  animal  protection 
+movement. 
+
+CONTACT: 
+
+Donna  Pease 
+
+SI 
+
+
+Publication s 
+
+
+SPONSOR: 
+
+UNIVERSITY  OF  CALIFORNIA,  CENTER  FOR  ANIMAL 
+ALTERNATIVES 
+
+ADDRESS: 
+
+School  of  Veterinary  Medicine 
+
+University  of  California  at  Davis 
+
+Davis,  CA.  95616-8684,  USA 
+
+TELEPHONE: 
+
+916-752-1800  FAX:  916-752-8391 
+
+INTERNET: 
+
+dcanderson@ucdavis.edu 
+
+TITLE: 
+
+INFORMATION  RESOURCES  FOR  ANIMAL  WELFARE  & 
+ALTERNATIVES 
+
+EDITOR: 
+
+D.  C.  Anderson  (916-752-9016) 
+
+DESCRIPTION: 
+
+Individual  titles  in  this  series  are  printed  on  8  1/2"  by  11"  sheets  at 
+various  dates;  text  on  both  sides;  4-15  pages  long. 
+
+LANGUAGE: 
+
+English. 
+
+AVAILABILITY: 
+
+Available  to  requestors  from  the  Center  at  the  above  address.  Also  see 
+the  note  below. 
+
+AUDIENCE: 
+
+Educators,  professionals,  college  students,  libraries  interested  in  access 
+or  collection  development  in  the  area  of  animal  welfare  and  alternatives 
+in  education  and  research,  other  organizations,  and  the  public  with 
+interests  in  these  areas. 
+
+CONTENTS: 
+
+This  series  of  bibliographies  and  resource  listings  covers:  organizations, 
+bibliographies,  Internet  resources,  recommended  journals,  training 
+materials,  higher  education,  animal  care  and  use  committees,  and  pre¬ 
+college  science  education. 
+
+NOTE: 
+
+This  series  is  available  upon  publication  at  the  gopher  site: 
+"gopher.ucdavis.edu".  The  path  is:  "Research  support\School  of 
+veterinary  medicine".  The  Center  is  willing  to  furnish  these  information 
+resources  to  other  Internet  sites,  but  will  maintain  only  the  set  at  the 
+UCDavis  gopher  site.  The  Center  can  provide 
+
+52 
+
+
+Publications 
+
+
+CONTACT: 
+
+
+this  series  of  resource  guides  in  WordPerfect  6.0  or  ASCII  format  on 
+either  3  1/2  or  5  1/4  inch  diskettes. 
+
+David  C.  Anderson 
+
+
+53 
+
+
+Audiovisuals 
+
+
+SPONSOR: 
+
+ADVOCATES  FOR  ANIMALS 
+
+ADDRESS: 
+
+10  Queensferry  Street 
+
+Edinburgh  EH2  4PG,  England,  UK 
+
+TELEPHONE: 
+
+031-225-6039  FAX:  031-220-6377 
+
+TITLE: 
+
+EXPOSED 
+
+EDITOR: 
+
+Advocates  for  Animals 
+
+PUB.  DATA: 
+
+April  1990. 
+
+DESCRIPTION: 
+
+A  videotape  in  VHS  format. 
+
+LANGUAGE: 
+
+English 
+
+AVAILABILITY: 
+
+Available  from  the  organization. 
+
+AUDIENCE: 
+
+Not  stated,  assumed  to  be  those  interested  in  animals  welfare 
+issues. 
+
+CONTENTS: 
+
+An  undercover  expose  of  laboratory  animal  abuse/use. 
+
+CONTACT: 
+
+Peter  Haddow,  Campaigns  Support  Officer 
+
+55 
+
+
+56 
+
+
+Computer  Simulations 
+
+
+SPONSOR: 
+
+THE  NATIONAL  ANTI-VIVISECTION  SOCIETY  LTD.-THE 
+LORD  DOWDING  FUND 
+
+ADDRESS: 
+
+Jan  Creamer 
+
+261  Goldhawk  Road 
+
+London  W12  9PE  England,  UK 
+
+TELEPHONE: 
+
+081-846-9777  FAX:  081-846-9712 
+
+TITLE: 
+
+No  specific  series  title.  As  of  July  1 994,  there  are  22  simulation 
+programs  available  for  educational  purposes. 
+
+PUB.  DATA: 
+
+The  series  started  in  1986. 
+
+DESCRIPTION: 
+
+No  information  provided. 
+
+LANGUAGE: 
+
+Assumed  to  be  English. 
+
+AVAILABILITY: 
+
+Contact  the  organization. 
+
+AUDIENCE: 
+
+Level  A  students  and  undergraduate  level  students. 
+
+CONTENTS: 
+
+These  are  computer  simulations  developed  by  Dr.  David 
+Dewhurst  to  replace  animal  dissection  and  physiological  oriented 
+teaching  laboratories  with  non-animal  alternatives.  Some  of  the 
+simulations  are  on  topics  such  as:  the  frog  heart  and  skin,  guinea 
+pig  ileum,  intestinal  absorption,  muscle  and  nerve  physiology, 
+neuromuscular  and  respiratory  pharmacology,  Finkleman 
+preparation,  etc. 
+
+NOTE: 
+
+The  computer  simulations  were  supported  by  grants  from  the 
+
+Lord  Dowding  Fund.  The  fund  supports  a  wide  range  of  projects 
+including  biological  research,  human  and  veterinary  medicine, 
+toxicological  testing  and  education. 
+
+57 
+
+
+58 
+
+
+Index  by  Organization  (flame 
+
+
+►  Advocates  for  Animals . 1,  31,  32,  55 
+
+►  Akademie  fur  Tierschutz.  Einrichtung  des  Deuschen  Tierschutzbundes  e.V  Zur 
+
+Forschung  und  Lehre . 15 
+
+►  Animal  Welfare  Information  Center  (AWIC),  National  Agricultural  Library  (NAL), 
+
+U.  S.  Department  of  Agriculture  (USDA)  . 2,33 
+
+►  Association  of  Veterinarians  for  Animals  Rights . 17,  36 
+
+►  Australian  and  New  Zealand  Council  for  the  Care  of  Animals  in  Research  and 
+
+Teaching,  Limited  (ANZCCART)  . 4,35 
+
+►  Canadian  Council  on  Animal  Care  (CCAC) . 37 
+
+►  Euroniche  . . . 5,  38,  39 
+
+►  European  Hepatocyte  Users  Group  (HUG) . 6,  18 
+
+►  Fund  for  the  Replacement  of  Animals  in  Medical  Experiments  (FRAME) . 7,  19,  40 
+
+►  Hadwen  Trust  for  Humane  Research  . 41 
+
+►  Institute  of  Laboratory  Animal  Resources  (ILAR)  . 10 
+
+►  Instituto  Nazionale  per  La  Ricerca  Sul  Cancro  (1ST)  [National  Institute  for  Cancer 
+
+Research-Advanced  Biotechnology  Center] . 20,  21,  42 
+
+►  Japanese  Society  of  Alternatives  to  Animal  Experiments  . 43 
+
+►  The  Johns  Hopkins  Center  for  Alternatives  to  Animal  Testing  (CAAT) . 9,  44,  45 
+
+►  Laboratory  of  Genetic  Toxicology,  The  University  of  Pisa . 22 
+
+►  The  National  Anti-Vivisection  Society  Ltd. -The  Lord  Dowding  Fund . 57 
+
+►  National  Library  of  Medicine  (NLM) . 46-48 
+
+►  Norwegian  College  of  Veterinary  Medicine  . 24 
+
+
+59 
+
+
+Index,  h  Organizations  by  flame 
+
+
+►  Prex  On-Line  Information  Service  . . . . 26 
+
+►  The  Programme  of  Biotechnology  of  the  European  Commission  . 48 
+
+►  The  Scandinavian  Society  of  Cell  Toxicology  (SSCT) . 11 
+
+►  Scientists  Center  for  Animal  Welfare  (SCAW)  . 12,  49 
+
+►  Tufts  Center  for  Animals  and  Public  Policy . 13,  51 
+
+►  University  of  California,  Center  for  Animal  Alternatives . 52 
+
+►  ZentralsteSle  Zur  Erfassung  Und  Bewertung  von  Ersatz  Und  Erganzungsmethoden 
+
+zum  Tierversuch  (ZEBET)  [Center  for  Documentation  and  Evaluation  of  Alternative 
+Methods  to  Animal  Experiments]  . 28 
+
+
+Index  h  Organizations  by  Counity 
+
+
+AUSTRALIA 
+
+►  Australian  and  New  Zealand  Council  for  the  Care  of  Animals  in  Research  and  Teaching, 
+Limited  (ANZCCART) 
+
+BELGIUM 
+
+►  The  Programme  of  Biotechnology  of  the  European  Commission 
+
+CANADA 
+
+►  Canadian  Council  on  Animal  Care  (CCAC) 
+
+GERMANY 
+
+►  Akademie  fur  Tierschutz.  Einrichtung  des  Deuschen  Tierschutzbundes  e.V.  Zur  Forschung 
+und  Lehre 
+
+►  Zentralstelle  Zur  Erfassung  und  Bewertung  von  Ersatz  und  Erganzungsmethoden  zum 
+Toerversuch  (ZEBET)  [Center  for  Documentation  and  Evaluation  of  Alternative  Methods  to 
+Animal  Experiments] 
+
+ITALY 
+
+>►  Instituto  Nazionale  per  la  Ricerca  sul  Cancro  (1ST)  [National  Institute  for  Cancer  Research- 
+Advanced  Biotechnology  Center] 
+
+►  Laboratory  of  Genetic  Toxicology,  The  University  of  Pisa 
+
+JAPAN 
+
+►  Japanese  Society  of  Alternatives  to  Animal  Experiments 
+
+THE  NETHERLANDS 
+
+►  Prex  On-line  Information  Service 
+
+NEW  ZEALAND 
+
+►  Australian  and  New  Zealand  Council  for  the  Care  of  Animals  in  Research  and  Teaching, 
+Limited  (ANZCCART) 
+
+
+61 
+
+
+J ndex  h  Organizations  by  Country 
+
+
+NORWAY 
+
+►  Norwegian  College  of  Veterinary  Medicine 
+
+SWEDEN 
+
+►  The  Scandinavian  Society  of  Cell  Toxicology  (SSCT) 
+
+UNITED  KINGDOM 
+
+►  Advocates  for  Animals 
+
+►  Euroniche 
+
+►  European  Hepatocyte  Users  Group  (HUG) 
+
+►  Fund  for  the  Replacement  of  Animals  in  Medical  Experiments  (FRAME) 
+
+►  Hadwen  Trust  for  Humane  Research 
+
+►  The  National  Anti-vivisection  Society  Ltd. -The  Lord  Dowling  Fund. 
+
+UNITED  STATES 
+
+►  Animal  Welfare  Information  Center  (AWIC) 
+
+►  Association  of  Veterinarians  for  Animal  Rights 
+
+►  Institute  of  Laboratory  Animal  Resources  (ILAR) 
+
+►  The  John  Hopkins  Center  for  Alternatives  to  Animal  Testing  (CAAT) 
+
+►  National  Library  of  Medicine  (NLM) 
+
+►  Scientists  Center  for  Animal  Welfare  (SCAW) 
+
+►  Tufts  Center  for  Animals  and  Public  Policy 
+
+►  UC  Center  for  Animal  Alternatives 
+
+
+62 
+
+
+Questionnaire 
+
+
+The  object  of  this  questionnaire  is  to  collect  data  regarding  information  resources 
+
+that  available  in  the  animal  welfare/alternatives  area. 
+
+INSTRUCTIONS  REGARDING  THIS  FORM. 
+
+1 .  If  you  have  more  than  one  information  resource  product,  please  duplicate  this  form 
+and  provide  the  information  for  each. 
+
+2.  Please  be  as  specific  as  possible  regarding  critical  elements  such  as  software  and 
+hardware  needs,  updating,  assessibility  to  others  and  costs,  and  whether  you  are 
+interesting  in  cooperative  activities. 
+
+3.  If  there  are  critical  items  that  we  have  not  addressed,  please  be  sure  and  note  them. 
+
+
+Title 
+
+
+General  subject  area  addressed:  (More  than  one 
+
+_ Adjuvants 
+
+_ Alternatives 
+
+_ Animal  care/ethics  committees 
+
+_ Animal  welfare/well  being 
+
+_ Environmental  enrichment 
+
+_ Housing  and  environment 
+
+_ Laboratory  Animal  Medicine 
+
+
+Material  type: 
+
+_ Data  base 
+
+_ Newsletter 
+
+_ Publication-bibliography 
+
+_ Publication-full  text 
+
+_ Cirricula 
+
+_ Directory 
+
+
+subject  may  be  checked) 
+
+_ Organizations 
+
+_ Pain  &  stress  and  allevation  (including 
+
+anesthetics,  analgesics,  and  tranquilizers) 
+
+_ People/experts 
+
+_ Reference  data 
+
+_ Research  Design 
+
+_ Training  materials 
+
+
+List  of  experts 
+Fact  sheet 
+Brochure 
+.Audiovisual 
+.Software  program 
+
+
+65 
+
+
+Questionnaire 
+
+
+Author(s)  or  editor(s):  [Whether  personal  or  corporate] 
+Edition:  [version,  release,  etc.] 
+
+
+Place  of  publication:  [City,  state,  country] 
+
+
+Publisher:  [organization  responsible  for  issuing  it] 
+
+
+Date  of  publication:  [including  month  if  available] 
+
+
+Date  of  update  or  revision: 
+
+
+Physical  description: 
+
+
+Series  if  issued  in  a  series: 
+
+
+Accompanying  material:  [e.g.  accompanied  by:  2  user's  manuals;  1  instructional  audiocassette] 
+
+
+Availability:  [Source,  acquisition  or  order  information,  including  lease  arrangements  available.  If 
+not  copyrighted,  indicate  location  and  how  to  obtain,  e  g.,  by  anonymous  FTP] 
+obtain,  e.g.,  by  anonymous  FTP] 
+
+
+Language: _ English _ French _ German _ Spanish 
+
+
+Contents:  Describe  the  material,  including  criteria  for  inclusion  or  exclusion.  If  desired,  individual 
+files  within  the  contents  may  be  individually  cited. 
+
+
+Questionnaire 
+
+
+Note:  (May  include  corresponding  print  versions  here). 
+
+
+Bibliographic  references:  (Include  any  bibliographic  references  that  describe  the  resource). 
+
+
+System  requirements:  (Include  specific  make  and  model  of  computer  on  which  the  electronic 
+product  is  designed  to  run,  amount  of  memory  required,  name  of  the  operating  system  and  its 
+version,  software  requirements  and  kind  and  characteristics  of  any  required  or  recommended 
+peripherals). 
+
+
+Intended  audience: 
+
+
+Credits: 
+
+
+Are  you  willing  to  locate  a  copy  at  your  own  or  another  internet  site,  e.g.,  on  COMPMED,  an 
+institutional  Gopher,  etc.? 
+
+
+Name,  position,  and  address  of  the  person  submitting  the  information: 
+
+
+Who  to  contact  for  additional  information  if  not  the  preceding: 
+
+
+65 
+
+
+NATIONAL  AGRICUI  fURAL  I  IBRAR- 
+
+
+111 
+
+|| 
+
+- 
+
+■M" 
+
+o 
+
+CD 
+
+C\J 
+
+CM 
+
+O 
+
+33 
+
+m a tt dmai  AGRICULTURAL  LIBRARY 
+
+

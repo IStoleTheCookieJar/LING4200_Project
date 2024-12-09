@@ -1,0 +1,16087 @@
+AD-A221  558 
+
+
+r 
+
+
+•  4 
+
+
+\ 
+
+
+Technical  Report  882 
+
+
+OTIC  HLE  COPY 
+
+
+Relationship  Between  Vehicle 
+Identification  Performance  and  the 
+Armed  Services  Vocational  Aptitude 
+Battery  (ASVAB) 
+
+
+Otto  H.  Heuckeroth  and  Norman  D.  Smith 
+
+U.S.  Army  Research  Institute 
+
+
+March  1990 
+
+
+United  States  Army  Research  Institute 
+for  the  Behavioral  and  Social  Sciences 
+
+
+Approved  for  public  release;  distribution  is  unlimited 
+
+
+90  04  SO  1  050 
+
+
+U.S.  ARMY  RESEARCH  INSTITUTE 
+
+FOR  THE  BEHAVIORAL  AND  SOCIAL  SCIENCES 
+
+
+A  Field  Operating  Agency  Under  the  Jurisdiction 
+of  the  Deputy  Chief  of  Staff  for  Personnel 
+
+
+JON  W.  BLADES 
+COL,  IN 
+Commanding 
+
+
+Technical  review  by 
+
+Jane  M.  Arabian 
+Marshall  A.  Narva 
+Donald  S.  Peckham 
+
+
+EDGAR  M.  JOHNSON 
+Technical  Director 
+
+
+NOTICES 
+
+
+FINAL  DISPOSITION:  This  report  may  be  destroyed  when  it  is  no  longer  needed.  Please  do  not 
+return  it  to  the  U.S.  Army  Research  Institute  for  the  Behavioral  and  Social  Sciences. 
+
+
+NOTE:  The  findings  in  this  report  are  not  to  be  construed  as  an  official  Department  of  the  Army 
+position,  unless  so  designated  by  other  authorized  documents. 
+
+
+UNCLASSIFIED 
+
+
+SECURITY  CLASSIFICATION  of  THIS  PAGE 
+
+
+REPORT  DOCUMENTATION  PAGE 
+
+
+Form  Approved 
+OMB  No  0704-0188 
+
+
+1*  REPORT  SECURITY  CLASSIFICATION 
+Unclassified 
+
+
+2*.  SECURITY  CLASSIFICATION  AUTHORITY 
+
+
+2b  DECLASSIFICATION /DOWNGRADING  SCHEDULE 
+
+
+4  PERFORMING  ORGANIZATION  REPORT  NUMBER(S) 
+ARI  Technical  Report  882 
+
+
+6a.  NAME  OF  PERFORMING  ORGANIZATION 
+Army  Research  Institute 
+
+Fort  Hood  Field  Unit 
+
+
+6c.  ADORESS  (City,  State,  and  ZIP  Code) 
+HQ  TEXCOM 
+
+Fort  Hood,  TX  76544-5065 
+
+
+8a.  NAME  OF  FUNDING /SPONSORING 
+
+ORGANIZATION U.S.  Army  Research 
+Institute  for  the  Behavioral 
+and  Social  Sciences 
+
+
+8c  ADDRESS  (City.  State,  and  ZIP  Code) 
+
+
+6b  OFFICE  SYMBOL 
+(If  applicable) 
+
+PERI-SH 
+
+
+8b.  OFFICE  SYMBOL 
+(If  applicable) 
+
+PERI-S 
+
+
+lb.  RESTRICTIVE  MARKINGS 
+
+
+3.  DISTRIBUTION/AVAILABILITY  OF  REPORT 
+Approved  for  public  release; 
+distribution  is  unlimited. 
+
+
+5  MONITORING  ORGANIZATION  REPORT  NUMBER(S) 
+
+
+7a.  NAME  OF  MONITORING  ORGANIZATION 
+
+
+7b.  ADDRESS  (City,  State,  and  ZIP  Code) 
+
+
+9.  PROCUREMENT  INSTRUMENT  IDENTIFICATION  NUMBER 
+
+
+10.  SOURCE  OF  FUNDING  NUMBERS 
+
+
+5001  Eisenhower  Avenue 
+
+PROGRAM 
+
+PROJECT 
+
+TASK 
+
+WORK  UNIT 
+
+Alexandria,  VA  22333-5600 
+
+ELEMENT  NO. 
+
+NO. 
+
+NO. 
+
+ACCESSION  NO. 
+
+O3007A 
+
+795 
+
+321 
+
+HI 
+
+11.  TITLE  (Include  Security  Classification) 
+
+Relationship  Between  Vehicle  Identification  Performance  and  the  Armed  Services  Vocational 
+Aptitude  Battery  (ASVAB) 
+
+
+12.  PERSONAL  AUTHOR(S) 
+
+Heuckeroth,  Otto  H.;  and  Smith,  Norman  D.  (AM) 
+
+
+13a.  TYPE  OF  REPORT  13b  TIME  COVERED 
+
+Final  FROM  1980  TO  1986 
+
+
+14.  DATE  OF  REPORT  (year,  Month,  Day) 
+
+1990,  March 
+
+
+15.  PAGE  COUNT 
+
+
+COSATI  CODES 
+
+
+GROUP  SUB-GROUP 
+
+
+18  SUBJECT  TERMS  ( Continue  on  reverse  if  necessary  and  identify  by  block  number) 
+Combat  vehicle  identification  Identification  and 
+
+
+CVI 
+
+ASVAB 
+
+
+recognition 
+
+I&R 
+
+
+19.  ABSTRACT  (Continue  on  reverse  if  necessary  and  identify  by  block  number) 
+
+'jJThe  development  and  testing  of  training  programs  for  combat  vehicle  identification  was 
+conducted  from  1980-1986  under  the  Target  Acquisition  and  Analysis  Training  System  (TAATS) 
+work  unit  at  Fort  Hood,  Texas.  During  that  time  ]5  independent  research  projects  were  com¬ 
+pleted.  This  research  evaluated  the  programs  as  well  as  a  variety  of  factors  related  to 
+training  program  performance,  e.g.,  motion,  alternate  media,  retention,  and  repeated  train¬ 
+ing.  The  Manpower  and  Personnel  Integration  (MANPRINT)  initiative  motivated  the  exploration 
+of  the  magnitude  and  validity  of  relationships  between  Armed  Services  Vocational  Aptitude 
+Battery  (ASVAB)  and  vehicle  identification  performance.  Comparable  vehicle  identification 
+performance  data  from  those  efforts  exist  for  942  soldiers;  ASVAB  scores  and  vehicle  identi¬ 
+fication  performance  data  from  those  efforts  exist  for  about  600  soldiers.  These  relation¬ 
+ships  were  examined  using  (1)  unweighted  Pearson  correlations;  (2)  correlations  of  perfor¬ 
+mance  with  individual  differentially  weighted  ASVAB  scores;  (3)  multiple  correlations 
+involving  different  ASVAB  scaled  scores  and  subtests;  and  (4)  discriminant  analyses  to 
+predict  high  and  low  achieving  soldiers.  .  j  1  i  'f-  (Continued)  ^ 
+
+
+20  DISTRIBUTION /AVAILABILITY  OF  ABSTRACT  21  ABSTRACT  SECURITY  CLASSIFICATION 
+
+0 UNCLASSIFIED/UNLIMITED  □  Same  AS  RPT  □  dtic  USERS  Unclassified 
+
+
+22a.  NAME  OF  RESPONSIBLE  INDIVIDUAL 
+Otto  H.  Heuckeroth 
+
+
+00  Form  1473.  JUN  86 
+
+
+22b  TELEPHONE  (Include  Area  Code)  22c  OFFICE  SYMBOL 
+(817)  288-1316  PERI-SH 
+
+
+Previous  editions  are  obsolete. 
+
+
+PERI-SH 
+
+
+SECURITY  CLASSIFICATION  OF  THIS  PAC-E 
+
+UNCLASSIFIED 
+
+
+UNCLASSIFIED _ _ 
+
+SECURITY  CLASSIFICATION  OF  THIS  PAGE|TW»«n  P«>«  Encretf) _ _____________ 
+
+AR1  Technical  Report  882 
+19.  ABSTRACT  (Continued) 
+
+Researchers  found 
+
+1.  Correlations  based  on  equally  weighted  scores  for  individual  ASVAB 
+scaled  scores  and  subtests  are  in  the  high  .20s  and  low  ,30s. 
+
+2.  When  ASVAB  scores  for  individual  scaled  scores  and  subtests  are 
+differentially  weighted,  modest  increase  (of  about  .05)  in  the  absolute  value 
+of  the  correlations  may  be  obtained. 
+
+3.  Multiple  correlations  involving  more  than  one  ASVAB  scaled  score  or 
+subtest  are  comparable  to  correlations  obtained  by  the  differential  weighting 
+of  scores  for  individual  ASVAB  scaled  scores  and  subtests. 
+
+4.  Soldiers  who  will  score  "high"  or  "low"  in  vehicle  identification 
+performance  can  be  identified  in  advan_ed  about  75%  of  the  time  by  using 
+quadratic  discriminant  functions  involving  ASVAB  scaled  scores. 
+
+5.  Supplementary  analyses  involving  use  of  random  sample  halves  generally 
+confirm  the  validity  of  relationships  reported. 
+
+
+_ UNCLASSIFIED _ 
+
+SECURITY  CLASSIFICATION  of  This  PAG£f»S«"  Dmlm  Enfr*d> 
+
+i  i 
+
+
+Technical  Report  882 
+
+
+Relationship  Between  Vehicle  Identification 
+Performance  and  the  Armed  Services  Vocational 
+Aptitude  Battery  (ASVAB) 
+
+Otto  H.  Heuckeroth  and  Norman  D.  Smith 
+
+U.S.  Army  Research  Institute 
+
+
+Field  Unit  at  Fort  Hood,  Texas 
+George  M.  Gividen,  Chief 
+
+Systems  Research  Laboratory 
+Robin  L.  Keesee,  Director 
+
+U.S.  Army  Research  Institute  for  the  Behavioral  and  Social  Sciences 
+5001  Eisenhower  Avenue,  Alexandria,  Virginia  22333-5600 
+
+Office,  Deputy  Chief  of  Staff  for  Personnel 
+Department  of  the  Army 
+
+March  1990 
+
+
+Army  Project  Number  Training  and  Simulation 
+
+2Q263007A795 
+
+Approved  for  public  release;  distribution  is  unlimited 
+iii 
+
+
+FOREWORD 
+
+
+As  part  of  a  research  task  titled  Target  Acquisition  and  Analysis 
+Training  System  (TAATS),  the  Fort  Hood  Field  Unit  of  the  U.S.  Army  Research 
+Institute  for  the  Behavioral  and  Social  Sciences  (ARI)  developed  a  series  of 
+target  recognition  and  identification  (R&I)  training  programs.  Both  Training 
+and  Doctrine  Command  (TRADOC)  and  Forces  Command  (FORSCOM)  recognized  the  need 
+for  standardized  R&I  training  and  requested  that  ARI  develop  such  programs. 
+With  the  support  of  the  Combined  Arms  Center  (CAC),  Fort  Leavenworth,  Kansas, 
+15  independent  research,  development,  and  evaluation  (RDE)  efforts  were 
+completed  in  the  1980-1986  period. 
+
+With  the  increasing  importance  of  the  Manpower  and  Personnel  Integration 
+(MANPRINT)  initiative,  ARI  has  emphasized  investigation  of  the  relationship 
+between  performance  measures  and  soldier  scores  on  the  Armed  Services 
+Vocational  Aptitude  Battery  (ASVAB) — a  battery  of  scaled  scores  and  suhtests 
+used  by  the  Army  for  selection  and  assignment  of  personnel.  Data  from  various 
+military  units  during  those  RDE  efforts  was  useful  in  developing  a  large  and 
+reliable  database  of  soldier  vehicle  identification  performance.  The  relative 
+ease  of  obtaining  ASVAB  data  for  a  large  proportion  of  these  soldiers  made  it 
+possible  and  desirable  to  explore  the  relationship  between  the  ASVAB  scores 
+and  vehicle  identification  performance. 
+
+A  copy  of  this  report  has  been  provided  to  the  proponent  for  vehicle 
+identification,  CAC,  Fort  Leavenworth, 
+
+
+Technical  Director 
+
+
+Kansas. 
+
+
+EIXfAR  M;  JOHNSON 
+
+
+ACKNOWLEDGMENT 
+
+
+Special  thanks  are  due  to  Dr.  Gerald  M.  Deignan  for  his  helpful 
+methodological  recommendations  during  the  planning  of  this  effort. 
+
+
+vi 
+
+
+RELATIONSHIPS  BETWEEN  VEHICLE  IDENTIFICATION  PERFORMANCE  AND  THE  ARMED 
+SERVICES  VOCATIONAL  APTITUDE  BATTERY  (ASVAB) 
+
+
+EXECUTIVE  SUMMARY 
+
+
+Requirement: 
+
+Current  Army  emphasis  on  the  Manpover  and  Personnel  Integration 
+(MANPRINT)  initiative  to  aid  in  the  development  of  Army  systems  stresses  the 
+importance  of  understanding  the  relationships  between  soldier  performance  and 
+aptitude.  In  this  spirit  the  purpose  of  this  report  is  to  explore  the 
+relationship  between  one  criterion  performance  measure--vehicle  identification 
+accuracy  and  Armed  Services  Vocational  Aptitude  Battery  (ASVAB)  scores  as 
+predictor  variables. 
+
+
+Procedure: 
+
+Data  suitable  for  the  analyses  were  obtained  for  942  soldiers  from  11  of 
+the  15  independent  research  projects  conducted  within  the  scope  of  the  Target 
+Acquisition  and  Analysis  Training  System  (TAATS)  work  unit  at  Fort  Hood,  Texas 
+from  1980  to  1986. 
+
+Prior  to  initiating  this  evaluation,  a  database  of  common  information  was 
+designed  and  constructed.  For  each  soldier  trained,  ASVAB  scaled  (standard) 
+scores  and  subtest  scores  were  obtained.  These  data  were  used  in  a  series  of 
+correlational  and  discriminant  analyses  to  determine  the  relationships  that 
+exist  between  vehicle  identification  performance  and  soldier  aptitude  (ASVAB). 
+Analyses  included  unweighted  (Pearson)  correlations,  correlations  based  on 
+differentially  weighting  scale  values  of  each  ASVAB  scaled  score  and  subtest, 
+multiple  correlations  that  used  combinations  of  ASVAB  scores,  and  discriminant 
+analyses  to  predict  high  (upper  two-thirds)  versus  low  vehicle  identification 
+performance  soldiers.  Since  the  reliability  of  vehicle  identification 
+performance  scores  (the  criterion  measure)  was  quite  high  (r  *  .88),  no 
+correction  for  attenuation  of  correlations  was  necessary. 
+
+
+Findings: 
+
+Correlations  based  on  equally  weighted  scores  for  individual  ASVAB  scaled 
+scores  and  subtests  are  in  the  high  .20s  and  low  .30s. 
+
+When  ASVAB  scores  for  individual  scaled  sores  and  subtests  are 
+differentially  weighted,  modest  increases  (of  about  .05)  in  the  absolute  value 
+of  the  correlations  may  be  obtained. 
+
+
+vii 
+
+
+Multiple  correlations  involving  more  than  one  ASVAB  scaled  score  or 
+subtest  are  comparable  to  correlations  obtained  by  the  differential  weighting 
+of  scores  for  individual  ASVAB  scaled  scores  and  subtests. 
+
+Soldiers  who  will  score  "high"  or  "low"  in  vehicle  identification 
+performance  can  be  identified  in  advance  about  75X  of  the  time  by  using 
+quadratic  discriminant  functions  involving  ASVAB  scaled  scores. 
+
+Supplementary  analyses  involving  use  of  random  sample  halves  generally 
+confirm  the  validity  of  relationships  reported. 
+
+
+Utilization  of  Findings: 
+
+The  quadratic  discriminant  functions  described  in  this  report  may  be  used 
+by  the  Army  as  a  tool  to  assist  in  selecting  soldiers  for  MOS  where  vehicle 
+identification  ability  is  (or  is  not)  important. 
+
+
+viii 
+
+
+RELATIONSHIP  BETWEEN  VEHICLE  IDENTIFICATION  PERFORMANCE  AND  THE  ARMED  SERVICES 
+VOCATIONAL  APTITUDE  BATTERY  (ASVAB) 
+
+
+CONTENTS _ 
+
+Page 
+
+INTRODUCTION  .  1 
+
+METHOD  .  1 
+
+Development  of  the  Combat  Vehicle  Identification  Master 
+
+Database .  1 
+
+Characteristics  of  Soldiers  Included  in  the  Master  Database  ....  5 
+
+Data  Analysis .  5 
+
+RESULTS .  14 
+
+Individual  ASVAB  Scaled  Score  and  Subtest  Relationships 
+
+to  Identification  Performance  .  14 
+
+Multiple  Correlation  Relationships  Involving  ASVAB  Scaled 
+Scores  or  Subtests  as  Predictors  and  Identification 
+
+Performance  as  Criterion .  19 
+
+Differential  Weighting  Correlations  .  23 
+
+Discriminant  Analyses  .  27 
+
+DISCUSSION .  37 
+
+Individual  Correlation  Relationships .  37 
+
+Multiple  Correlation  Relationships .  38 
+
+Differential  Weighting  Correlations  .  40 
+
+Discriminant  Analyses  .  40 
+
+CONCLUSIONS .  41 
+
+REFERENCES .  43 
+
+APPENDIX  A.  ASVAB  INTERCORRELATIONAL  MATRICES  .  A-l 
+
+B.  ASSIGNMENT  OF  INDIVIDUALS  TO  LOW  AND  HIGH 
+
+VEHICLE  IDENTIFICATION  ACHIEVER  CLASSES  .  B-l 
+
+C.  LIST  OF  ACRONYMS .  C-l 
+
+
+ix 
+
+
+CONTENTS  (Continued] 
+
+
+Page 
+
+
+LIST  OP  TABLES 
+
+Table  1.  Subtests  used  in  ASVAB  test  forms  5-7  and  ASVAB 
+
+test  forms  8-14 .  3 
+
+2.  Aptitude  area  composites  used  in  ASVAB  test  forms 
+
+5-7  and  ASVAB  test  forms  8-14 .  4 
+
+3.  Military  Occupational  Specialty  (MOS)  of  soldiers 
+
+included  in  the  CVI  Master  Data  Base .  7 
+
+4.  Rank  of  the  soldier  sample  in  the  CVI  Master 
+
+Data  Base .  10 
+
+5.  Racial  or  Ethnic  background  of  the  soldier  sample 
+
+in  the  CVI  Master  Data  Base  for  the  Army  during 
+
+1978-1984  .  10 
+
+6.  Educational  background  of  soldier  sample  in  the 
+
+CVI  Master  Data  Base .  11 
+
+7.  Age  of  the  soldier  sample  in  the  CVI  Master  Data  Base  ...  12 
+
+8.  Length  of  time  in  service  of  soldier  sample  in  the  CVI 
+
+Master  Data  Base .  13 
+
+9.  Length  of  time  in  military  occupational  specialty  (MOS) 
+
+of  the  soldiers  in  the  CVI  Master  Data  Base .  13 
+
+
+10.  Correlational  matrix  of  identification  performance 
+with  ASVAB  scaled  scores  for  independent  sample 
+halves  and  total  sample  for  soldiers  vho  took 
+
+
+an  ASVAB  test  form  5-7  or  8-14 .  15 
+
+11.  Correlational  matrix  of  identification  performance 
+
+vith  ASVAB  subtests  (percent  correct)  for  independent 
+
+sample  halves  and  total  sample  for  soldiers  vho  took 
+
+an  ASVAB  test  form  5-7  or  8-14 .  16 
+
+12.  Comparison  of  ASVAB  scaled  scores  and  subtests 
+
+correlations  vith  Identification  performance 
+for  soldiers  vho  took  an  ASVAB  test  form 
+
+5-7  or  8-14 .  18 
+
+
+x 
+
+
+CONTENTS  (Continued'! 
+
+
+Page 
+
+LIST  OF  TABLES  (Continued) 
+
+
+Table  13.  Selected  multiple  correlations  of  identification 
+performance  with  ASVAB  scaled  scores  for 
+Independent  sample  halves  and  total  sample 
+for  soldiers  vho  took  an  ASVAB  test  form 
+
+5-7  or  8-14 .  21 
+
+14.  Selected  multiple  correlations  of  identification 
+
+performance  vith  ASVAB  subtests  (percent  correct) 
+for  independent  sample  halves  and  total  sample 
+
+for  soldiers  vho  took  an  ASVAB  test  form  5-7  or  8-14.  .  .  22 
+
+15.  Correlations  between  weighted  and  unweighted  ASVAB 
+
+scaled  scores  predictors  and  vehicle  identification 
+performance .  24 
+
+16.  Correlations  between  weighted  and  unweighted  ASVAB 
+
+subtest  predictors  (percent  correct)  and  vehicle 
+identification  performance . 28 
+
+
+17.  Discriminant  analyses  performed  using  ASVAB  scaled 
+
+scores  and  subtests  (Test  Forms  5-7)  for  a 
+calibration  (ODD  HALF),  test  (EVEN  HALF)  and 
+
+total  sample .  34 
+
+18.  Discriminant  analyses  performed  using  ASVAB  scaled 
+
+scores  and  subtests  (Test  Forms  8-14)  for  a 
+calibration  (ODD  HALF),  test  (EVEN  HALF)  and 
+
+total  sample .  35 
+
+19.  Discriminant  analyses  performed  using  ASVAB  scaled 
+
+scores  and  subtests  (Test  Forms  5-14)  for  a 
+calibration  (ODD  HALF),  test  (EVEN  HALF)  and 
+
+
+total  sample . .  .  36 
+
+20.  Criterion  and  predictor  variables  used  by  Horne 
+
+and  matched  in  present  research  .  .  39 
+
+21.  Significance  tests  for  regression  coefficients 
+
+obtained  in  current  research  using  Horne’s  (1986) 
+
+predictor  variables  (n=517)  .  39 
+
+
+xi 
+
+
+RELATIONSHIP  BETWEEN  VEHICLE  IDENTIFICATION  PERFORMANCE  AND 
+THE  ARMED  SERVICES  VOCATIONAL  APTITUDE  BATTERY  (ASVAB) 
+
+
+Introduction 
+
+Current  Army-wide  and  Army  Research  Institute  (ARI)  management  emphasis  on 
+the  Manpower  and  Personnel  Integration  (MANPRINT)  initiative  to  aid  in  the 
+development  of  Army  systems  stresses  the  importance  of  understanding  the 
+relationships  between  soldier  performance  and  aptitude.  In  this  spirit  the 
+purpose  of  the  present  report  is  to  explore  the  relationship  between  one 
+criterion  performance  measure — vehicle  identification  accuracy  and  Armed 
+Services  Vocational  Aptitude  Battery  (ASVAB)  scores  as  predictor  variables. 
+
+Conceptually,  the  Target  Acquisition  and  Analyses  Training  System  (TAATS ) 
+has  included  within  its  domain  the  goal  of  achieving  a  better  understanding  of 
+human  performance  in  the  entire  target  acquisition  process — target  detection, 
+recognition,  identification  (R&I),  and  tactical  analysis.  From  1980  to  1986 
+under  the  TAATS  umbrella,  a  series  of  Combat  Vehicle  Identification  (CVI) 
+programs  were  developed,  tested  and  adopted  by  the  Army.  A  key  feature  of 
+these  programs  was  the  presentation  of  photopic  (daylight)  images  of  friendly 
+and  threat  vehicles  at  simulated  battlefield  ranges.  In  order  to  conduct  the 
+evaluation  of  the  various  aspects  of  these  programs,  generally  three  views  of 
+each  of  five  vehicles  were  trained  in  a  single  training  period;  such  a  grouping 
+of  vehicles  constituted  a  training  module.  For  each  of  the  training  evaluation 
+efforts  conducted,  a  single  training  session  involved  training  soldiers  with 
+between  two  and  six  modules.  In  the  training,  the  images  were  presented  and 
+the  instructor  would  indicate  /ey  features  of  the  vehicle  that  were  visible  at 
+the  simulated  ranges.  Each  of  the  program  evaluation  efforts  involved 
+presenting  tests  with  two  to  five  images  of  each  of  the  vehicles  trained.  For 
+the  effort  described  herein,  criterion  data  from  results  obtained  in  eleven 
+research  efforts  were  used.  Specifically,  the  criterion  data  used  were  the 
+vehicle  identification  performance  scores  on  a  test  given  after  completion  of 
+one  training  session.  In  each  of  these  efforts  It  was  possible  to  use  as  the 
+performance  (criterion)  measure,  the  number  of  photopic  images  correctly 
+identified  for  vehicles  trained  in  three  modules  with  two  views  (a  front  and  an 
+oblique)  per  vehicle.  Performance  scores  so  obtained  had  a  possible  range  of 
+0-30.  In  the  course  of  testing  during  these  eleven  research  efforts, 
+performance  measures  were  collected  for  942  soldiers.  These  eleven  efforts 
+were  designed  to  assess  training  effectiveness  under  several  conditions, 
+including:  (1)  effects  of  vehicle  motion  during  training;  (2)  task  complexity; 
+(3)  relative  effectiveness  of  training  with  different  training  media;  and  (4) 
+the  importance  of  retraining  on  acquisition  and  recall  of  vehicle 
+identification  skills.  The  eleven  efforts  involved  using  soldiers  stationed  in 
+units  throughout  Continental  United  States  (CONUS),  U.S.  Army  in  Europe 
+(USAREUR)  and  U.S.  Army  South  (S0UTHC0M). 
+
+Method 
+
+Development  of  the  Combat  Vehicle  Identification  Master  Data  Base 
+
+As  noted  earlier,  work  by  the  Fort  Hood  Field  Unit  over  the  past  several 
+years  has  involved  several  independent  data  collection  efforts  in  which 
+soldiers  were  trained  and  tested  for  their  ability  to  recognize  and  identify 
+(R&l)  friendly  and  enemy  combat  vehicles.  Under  the  sponsorship  of  the 
+
+
+1 
+
+
+Combined  Arms  Center  (CAC)  at  Fort  Leavenworth,  TAATS  was  engaged  in  the 
+development  and  evaluation  of  these  programs.  Within  a  systems  context,  many 
+of  those  research  efforts  resulted  in  performance  data  reflecting  R&I 
+knowledges.  When  the  role  of  the  Fort  Hood  Field  Unit  of  ARI  in  this  effort 
+was  discontinued,  it  appeared  desirable  to  develop  a  MASTER  data  base  which 
+contained  data  elements  common  to  the  various  TAATS  research  efforts. 
+
+Generally,  these  elements  fall  into  three  classes:  1)  Background  and 
+demographic  characteristics;  2)  Performance — specifically  number  of  photopic 
+images  correctly  identified;  and  3)  Aptitude  measures  (ASVAB  Scaled  Scores  and 
+Subtests).  The  process  involved  in  development  of  this  data  base  as  a 
+Statistical  Analysis  Software  (SAS)  data  set  required  examination  of  the 
+individual  data  bases  for  fifteen  coordinated  research  and  development  efforts 
+in  the  TAATS  program.  Based  on  that  review,  only  those  performance  data  common 
+to  eleven  of  those  research  efforts  were  included.  For  example,  in  some  efforts  the 
+posttraining  test  involved  exposure  to  two  views  of  each  vehicle  while  in  other 
+studies  three  and  five  were  used.  To  increase  the  comparability  of  performance 
+data,  only  the  posttraining  test  responses  to  images  of  vehicles  in  the  two 
+commonly  presented  views  (front,  left  or  right  oblique)  were  used  to  define  the 
+identification  performance  (criterion)  measure.  ^ 
+
+Following  development  of  the  performance  and  background  and  demographic 
+characteristics  of  the  MASTER  data  base  in  the  spring  of  1986,  a  request  was 
+made  to  obtain  ASVAB  Composites  and  Subtest  scores. ^  ASVAB  Composite  scores 
+were  standardized  (scaled)  scores  while  Subtest  scores  received  were  in  raw 
+score  form.  In  order  to  provide  a  measure  of  standardization  for  Subtest 
+scores  based  on  different  numbers  of  items,  all  Subtest  scores  were  converted 
+to  percentages  prior  to  any  analyses.  Tables  1  and  2  list  the  ASVAB  Subtests 
+found  in  different  forms  of  this  test  and  the  particular  Subtests  used  in 
+defining  each  Composite  measure. 
+
+It  is  important  to  emphasize  that  the  task  required  of  the  soldier,  i.e., 
+identification  of  a  vehicle,  is  relatively  complex.  Identification  as  defined 
+throughout  the  TAATS  research  is  naming  or  giving  the  number  of  the 
+vehicle — for  example,  T-62,  Bradley,  or  Leopard.  Embodied  in  this  response  is 
+the  implicit  knowledge  that  the  vehicle  is  a  "Friend"  or  "Threat"  and  that  it 
+falls  into  one  of  several  classes  of  vehicles — for  example,  tank,  armored 
+personnel  carrier  or  self-propelled  gun.  A  substantial  part  of  the  task  was 
+cognitive  in  combination  with  simple  rote  learning  and  perception. 
+
+
+^A  complete  description  of  this  data  base,  including  variables  used,  is  available 
+from  the  ARI  Fort  Hood  Field  Unit  on  request. 
+
+^Composite  scores  are  computed  by  combining  two  or  more  Subtest  scores  in 
+various  combinations.  For  purposes  of  this  analysis,  the  Armed  Forces 
+Qualification  Test  (AFQT)  is  considered  a  composite.  The  ASVAB  data  used  in  all 
+analyses  was  received  from  the  Manpower  Data  Center  in  Monterey,  California, 
+with  backup  support  from  the  Manpower  Personnel  Research  Laboratory  of  ARI. 
+
+
+2 
+
+
+Table  1 
+
+
+Subtests  Used  in  ASVAB  Test  Forms  5-7  and  ASVAB  Test  Forms  8-14 
+
+
+ASVAB  Test  Forms  5-7 
+
+Armed  Forces  Qualification  Test 
+(AFQT)  Subtest 
+
+Word  Knowledge  (WK) 
+Arithmetic  Reasoning  (AR) 
+Space  Perception  (SP) 
+
+
+Other  Subtests 
+
+Numerical  Operations  (NO) 
+General  Information  (GI) 
+Electronics  Information  (El) 
+Mathematical  Knowledge  (MK) 
+Mechanical  Comprehension  (MC) 
+Automotive  Information  (AI) 
+Shop  Information  (SI) 
+Attention-to-Detail  (AD) 
+General  Science  (GS) 
+
+Classification-Inventory  Scales 
+
+Mechanical  (CM)c 
+Attentiveness  (CA)c 
+Electronics  (CE)c 
+Outdoors  (CC)c 
+
+
+ASVAB  TeBt  Forms  8-14 
+
+
+Word  Knowledge  (WK) 
+Arithmetic  Reasoning  (AR) 
+Paragraph  Comprehension  (PC) 
+Numerical  Operations  (NO) 
+
+
+General  Science  (GS) 
+Electronics  Information  (El) 
+Mathematical  Knowledge  (MK) 
+Mechanical  Comprehension  (MC) 
+Auto/Shop  Information  (AS)a 
+Coding  Speed  (CS)^ 
+
+Verbal  (VE) 
+
+
+Note :  Information  obtained  from  annotated  computer  printouts  provided  by 
+Francis  Grafton,  HQ  ARI,  Data  Base  Management  Project  Leader,  Manpower 
+and  Personnel  Research  Laboratory  (MPRL). 
+
+Combination  of  previous  subtests:  AI  and  SI.  ^Highly  speeded  test  designed  to 
+replace  Attention-to-Detail.  cDoes  not  appear  in  ASVAB  test  form  5. 
+
+
+3 
+
+
+Table  2 
+
+
+Aptitude  Area  Composites  Used  in  ASVAB  Test  Forms  5-7  and  ASVAB  Test  Forms  8-14 
+
+
+Subtest  Used  in  Computing  Composites 
+
+
+Aptitude  Area  Composite 
+
+Combat  (CO) 
+
+Field  Artillery  (FA) 
+Electronics  (EL) 
+Operators/Foods  (OF) 
+Surveillance/ Communications 
+Motor  Maintenance  (MM) 
+General  Maintenance  (GM) 
+Clerical  (CL) 
+
+Skilled  Technical  (ST) 
+General  Technical  (GT) 
+
+
+ASVAB  Test  Forms  5-7 
+AR+SI+SP+AD+CC 
+AR+GI+MK+EI+CA 
+AR+E I+S I+MC+CE 
+GI+AI+CA 
+
+(SC)  AR+WK+MC+SP 
+
+MK+E I+S 1+AI+CM 
+
+AR+GS+MC+AI 
+
+AR+WK+AEH-CA 
+
+AR+MK+GSB 
+
+AR+WK 
+
+
+ASVAB  Test  Forms  8-14 
+AR+AS+MC+CS 
+AR+MK+MC+CS 
+AR+EI+MK+GS 
+NO+VEa+MC+AS 
+NO+CS+VE+AS 
+NO+EI+MC+AS 
+MK+EI+GS+AS 
+NO+CS+VE 
+VE+MK+MC+GS 
+VE+AR 
+
+
+Note  1:  Raw  subtest  scores  from  ASVAB  Test  Forms  5-7  are  used  in  computation  of 
+Composites. 
+
+Note  2:  Composites  for  ASVAB  test  form  5  are  as  defined  for  ASVAB  test  forms  6 
+and  7  except  that  Subtests  CA,CC,  CE  and  CM  were  not  used. 
+
+Note  3:  Standard  subtest  scores  from  ASVAB  Test  Forms  8-14  are  used  in 
+computation. 
+
+aVerbal  (VE)  is  a  standard  score  conversion  of  the  sura  of  raw  scores  for  word 
+knowledge  (WK)  and  paragraph  comprehension  (PC). 
+
+
+4 
+
+
+Characteristics  of  Soldiers  Included  In  the  Master  Database 
+
+
+While  missing  data  precludes  use  of  the  entire  sample  of  soldiers  in  all 
+analyses,  it  is  nevertheless  relevant  to  provide  generally  descriptive  data 
+along  several  dimensions.  These  data  speak  to  the  relative  heterogeneity  of 
+soldier  sample  studied.  Characteristics  of  the  sample  described  Include: 
+
+1)  Military  Occupational  Speciality  (MOS)  (See  Table  3);  2)  Rank  (See  Table  4); 
+
+3)  Racial  and  Ethnic  Background  (See  Table  5);  4)  Education  (See  Table  6);  5) 
+
+Age  (See  Table  7);  6)  Service  Time  (See  Table  8);  and  7)  Time  in  MOS  (See  Table 
+9).  In  addition  it  is  interesting  to  note  that  22.8  %  (_n  “  211)  of  soldiers 
+included  in  this  data  base  used  glasses  on  the  job;^  11.1%  (n  **  100)  used  them 
+for  reading  only.^  Finally,  the  vast  majority  of  soldier  sample  were  males 
+(96.5%,  n  =  828). 5 
+
+It  is  important  to  note  that  it  was  generally  beyond  the  scope  of  this  effort  to 
+explore  performance  and  aptitude  relationships  for  particular  soldier 
+characteristics  categories. 
+
+Data  Analysis 
+
+
+This  effort  had  two  primary  objectives:  1)  to  explore  the  relationship 
+between  vehicle  identification  performance  and  ASVAB  Scaled  Scores  or  Subtest 
+scores  and  2)  to  provide  analyses  which  document  the  validity  of  the 
+relationships  obtained.  In  addressing  these  objectives,  four  analytic  techniques 
+were  used:  1)  Correlations  of  individual  ASVAB  Scaled  Scores  and  Subtests  with 
+soldier  vehicle  identification  performance,  2)  multiple  correlations  between 
+soldier  vehicle  identification  performance  and  ASVAB  Scaled  Scores  or  Subtests 
+as  predictor  variables,  3)  correlations  of  differentially  weighted  scores  of 
+ASVAB  predictor  variables  with  vehicle  identification  performance,  and  4) 
+discriminant  analyses. 
+
+It  is  important  to  note  that  in  this  effort  analyses  were  generally 
+performed  using  data  from  ASVAB  Test  Forms  5-7,  8-14  and  5-14  for  random  halves 
+of  soldiers  for  which  data  were  available,  and  the  entire  set  of  data  available. 
+Separate  analyses  for  different  ASVAB  test  forms  were  motivated  by  the  general 
+understanding  that  there  are  rather  major  differences  in  test  structure  for 
+ASVAB  versions  beginning  with  test  form  8  compared  with  earlier  ASVAB  versions. 
+Analyses  for  random  halves  were  completed  primarily  to  address  the  validity  of 
+findings  reported.  The  procedure  used  in  forming  random  halves  involved 
+sorting  soldiers  by  Social  Security  Number  and,  in  the  case  of  the  discriminant 
+analyses,  also  involved  sorting  soldier  identification  performance  scores.  In 
+each  case,  data  from  the  first,  third,  fifth,  etc.,  soldiers  constituted  the  ODD 
+half;  the  remaining  cases  the  EVEN  half. 
+
+
+^Data 
+
+^Data 
+
+-’Data 
+
+
+concerning  use  of  glasses  on  job  is  missing  for  16  soldiers, 
+concerning  use  of  glasses  for  reading  is  missing  for  41  soldiers, 
+on  soldiers'  sex  missing  for  84  cases. 
+
+
+5 
+
+
+For  correlations  involving  differentially  weighted  ASVAB  predictor 
+variables  (Scaled  Scores  and  Subtests),  all  available  data  were  used;  separate 
+analyses  for  different  ASVAB  test  forms  were  not  performed.  In  order  to  assign 
+weights  for  categories  of  each  ASVAB  predictor  variable,  frequency  tabulations 
+were  first  performed  for  each  predictor  value.  From  these  tabulations 
+categories  of  values  were  formed  so  that  each  category  would  be  represented  by 
+approximately  15  to  20  observations  for  ODD  and  EVEN  random  samples®.  in  turn, 
+weights  which  maximized  the  correlation  between  each  ASVAB  predictor  and 
+vehicle  identification  performance  were  obtained  for  the  complete  sample  as 
+well  as  ODD  and  EVEN  halves.^  Further,  weights  were  assigned  to  categories  of 
+each  predictor  variable  so  that  15  to  20  observations  existed  for  each  category 
+of  the  total  sample.  In  this  latter  case,  weights  for  a  larger  number  of 
+categories  were  used  as  additional  fitting  constants.  In  order  to  address  the 
+validity  of  these  correlations,  the  weights  obtained  for  ODD  and  EVEN  halves 
+were  used  to  compute  the  correlations  for  the  complete  sample. 
+
+
+Low  correlations  are  sometimes  found  because  the  criterion  itself  is 
+
+
+unreliable.  This  is  usually  a  result  of  poorly  defined  measurements,  use  of 
+overly  subjective  judgements,  inadequately  trained  data  collectors, 
+uncalibrated  equipment,  or  some  combination  of  these  factors.  In  order  to 
+assure  that  findings  reported  here  were  not  attenuated  by  low  reliability  of 
+criterion  variable — identification  performance — results  of  two  consecutive  post 
+training  tests  with  no  intervening  training  were  correlated  yielding  a  retest 
+reliability  of  .88.®  Applying  the  correction  for  attenuation  to  the  criterion 
+
+
+described  by  Guilford  produced  negligible  changes  in  correlations  involving 
+ASVAB  Scaled  Scores  and  Subtests  with  identification  performance.^ 
+
+
+Consequently,  correlations  reported  have  not  been  corrected  for  the  very  slight 
+
+
+unreliability  they  manifest. 
+
+
+®In  the  context  of  multiple  correlational  analyses,  Herzberg  (1969)  indicated 
+that  to  obtain  stable  correlations — across  other  samples — there  should  be  about 
+15  to  20  observations  per  weight  estimated;  i.e.,  with  N  as  sample  size  and  K 
+the  number  of  weights  estimated,  the  N/K  ratio  should  approach  20.  See 
+Herzberg,  P.A.  The  parameters  of  cross-validation.  Psychometrika  Monograph 
+Supplement .  1969,  No.  16. 
+
+^Weights  were  estimated  by  a  computer  algorithm  utilizing  "pattern  search."  The 
+function  minimized  was  1  -  |  r  |.  See  C.F.  Wood  "Recent  Developments  in 
+Direct  Search  Techniques".  Westinghouse  Research  Laboratories,  Research  Report 
+
+
+8 
+
+
+62-159-522R1,  31  July  1962. 
+
+Myers,  J.L.  Fundamentals  of  Experimental  Design,  Allyn  &  Bacon,  Boston  1967, 
+
+
+pp.  294-299. 
+
+^Guilford,  J.P.  Psychometric  Methods,  McGraw-Hill,  Inc.,  New  York,  1954,  pp. 
+
+
+400-402. 
+
+
+6 
+
+
+Table  3 
+
+
+Military  Occupational  Speciality  (MOS) 
+CVI  Master  Data  Base 
+
+
+MOS _ Frequency  Percent 
+
+
+05B 
+
+8 
+
+.9 
+
+05C 
+
+16 
+
+1.7 
+
+05G 
+
+3 
+
+0.3 
+
+11B 
+
+118 
+
+12.6 
+
+11C 
+
+17 
+
+1.8 
+
+11D 
+
+1 
+
+0.1 
+
+11H 
+
+37 
+
+3.9 
+
+11M 
+
+56 
+
+6.0 
+
+12A 
+
+2 
+
+0.2 
+
+12B 
+
+9 
+
+1.0 
+
+12C 
+
+3 
+
+0.3 
+
+12D 
+
+1 
+
+0.1 
+
+12E 
+
+1 
+
+0.1 
+
+12Z 
+
+1 
+
+0.1 
+
+13B 
+
+22 
+
+2.3 
+
+13E 
+
+4 
+
+0.4 
+
+13F 
+
+29 
+
+3.1 
+
+13R 
+
+5 
+
+0.5 
+
+16B 
+
+2 
+
+0.2 
+
+16P 
+
+5 
+
+0.5 
+
+16R 
+
+24 
+
+2.6 
+
+16S 
+
+15 
+
+1.6 
+
+17C 
+
+1 
+
+0.1 
+
+17K 
+
+4 
+
+0.4 
+
+19D 
+
+103 
+
+11.0 
+
+19E 
+
+154 
+
+16.4 
+
+19F 
+
+2 
+
+0.2 
+
+19J 
+
+1 
+
+0.1 
+
+19K 
+
+94 
+
+10.0 
+
+24G 
+
+1 
+
+0.1 
+
+24M 
+
+1 
+
+0.1 
+
+24  N 
+
+1 
+
+0.1 
+
+31E 
+
+1 
+
+0.1 
+
+31M 
+
+7 
+
+0.7 
+
+31N 
+
+1 
+
+0.1 
+
+31V 
+
+4 
+
+0.4 
+
+of  Soldiers  Included  in  the 
+
+
+_ MOS  Description _ 
+
+Signal  MOSa 
+Signal  MQSa 
+
+Signal  Security  Specialist 
+Infantryman 
+
+Indirect  Fire  Infantryman 
+
+MOS  description  unknown 
+
+Heavy  Armor  Weapons  Infantryman 
+
+Fighting  Vehicle  Infantryman 
+
+MOS  description  unknown 
+
+Combat  Engineer 
+
+Bridge  Crew  Member 
+
+MOS  description  unknown 
+
+Atomic  Demolition  Munitions  Specialist 
+
+Combat  Engineering  Senior  Sergeant 
+
+Cannon  Crew  Member 
+
+Cannon  Fire  Direction  Specialist 
+
+Fire  Support  Specialist 
+
+Field  Artillary  Firefinder  Radar  Operator 
+Air  Defense  Artillery  Hercules  Missile 
+Crewmember 
+
+Air  Defense  Artillery  CHAPARRAL 
+Crewmember 
+VULCAN  Crewmember 
+Man  Portable  Air  Defense  System 
+Crewmember 
+
+Field  Artillery  Target  Acquisition 
+Specialist 
+
+Ground  Surveillance  Radar  Crewman 
+Cavalry  Scout 
+M48  M60  Armor  Crewman 
+MOS  description  unknown 
+MOS  description  unknown 
+M-l  Armor  Crewman 
+HAWK  Information  Coordination 
+Central  Mechanic 
+VULCAN  System  Mechanic 
+CHAPARRAL  System  Mechanic 
+Field  Radio  Repairer 
+Multichannel  Communications  Systems 
+Operator 
+
+Tactical  Circuit  Controller 
+
+Unit  Level  Communications  Maintainer 
+
+
+7 
+
+
+Table  3 
+
+MOS 
+
+(cont'd) 
+
+Frequency 
+
+Percent 
+
+MOS  Description 
+
+33S 
+
+2 
+
+0.2 
+
+Electronic  Warfare/Intercep  System 
+Maintalner 
+
+35K 
+
+1 
+
+0.1 
+
+Avionic  Mechanic 
+
+36C 
+
+5 
+
+0.5 
+
+Wire  Systems  Installer 
+
+36K 
+
+12 
+
+1.3 
+
+Signal  M0Sa 
+
+45E 
+
+1 
+
+0.1 
+
+Ml  Abrams  Tank  Turret  Mechanic 
+
+62E 
+
+1 
+
+0.1 
+
+Heavy  Construction  Equipment  Operator 
+
+62J 
+
+1 
+
+0.1 
+
+General  Construction  Equipment  Operator 
+
+63B 
+
+15 
+
+1.6 
+
+Light  Wheel  Vehicle  Mechanic 
+
+63C 
+
+1 
+
+0.2 
+
+Mechanical  Maintenance8 
+
+63D 
+
+1 
+
+0.1 
+
+Self-propelled  Field  Artillery  System 
+Mechanic 
+
+63F 
+
+3 
+
+0.3 
+
+Mechanical  Maintenance8 
+
+63N 
+
+2 
+
+0.2 
+
+M60A1/A3  Tank  System  Mechanic 
+
+63S 
+
+1 
+
+0.1 
+
+Heavy  Wheel  Vehicle  Mechanic 
+
+63T 
+
+3 
+
+0.3 
+
+Bradley  Fighting  Vehicle  System  Mechanic 
+
+63Y 
+
+4 
+
+0.4 
+
+Track  Vehicle  Mechanic 
+
+64C 
+
+8 
+
+0.9 
+
+Motor  Transport  Operator 
+
+67N 
+
+5 
+
+0.5 
+
+Utility  Helicopter  Repairer 
+
+67V 
+
+3 
+
+0.3 
+
+Observation/Scout  Helicopter  Repairer 
+
+67Y 
+
+2 
+
+0.2 
+
+AH-1  Attack  Helicopter  Repairer 
+
+67Z 
+
+1 
+
+0.1 
+
+Aircraft  Maintenance  Senior  Sergeant 
+
+68B 
+
+1 
+
+0.1 
+
+Aircraft  Powerplant  Repairer 
+
+68M 
+
+1 
+
+0.1 
+
+Aircraft  Weapon  Systems  Repairer 
+
+7 1 L 
+
+9 
+
+1.0 
+
+Administrative  Specialist 
+
+71M 
+
+1 
+
+0.1 
+
+Chaplain  Assistant 
+
+72E 
+
+7 
+
+0.7 
+
+Tactical  Telecommunications  Center 
+Operator 
+
+75B 
+
+6 
+
+0.6 
+
+Personnel  Administration  Specialist 
+
+7  5Z 
+
+3 
+
+0.3 
+
+Personnel  Sergeant 
+
+76C 
+
+3 
+
+0.3 
+
+Equipment  Records  and  Parts  Specialist 
+
+76P 
+
+1 
+
+0.1 
+
+Materiel  Control  and  Accounting 
+Specialist 
+
+76V 
+
+3 
+
+0.3 
+
+Materiel  Storage  and  Handling  Specialist 
+
+76W 
+
+4 
+
+0.4 
+
+Petroleum  and  Supply  Specialist 
+
+76Y 
+
+29 
+
+3.1 
+
+Unit  Supply  Specialist 
+
+79D 
+
+4 
+
+0.4 
+
+Reenlistment  NC0 
+
+81E 
+
+1 
+
+0.1 
+
+Illustrator 
+
+84B 
+
+1 
+
+0.1 
+
+Still  Photographic  Specialist 
+
+91A 
+
+4 
+
+0.4 
+
+Medical  Specialist 
+
+91 B 
+
+14 
+
+1.5 
+
+Medical  NCO 
+
+91C 
+
+1 
+
+0.1 
+
+Practical  Nurse 
+
+93F 
+
+1 
+
+0.1 
+
+Field  Artillery  Meteorological 
+
+Crewmember 
+
+94B 
+
+5 
+
+0.5 
+
+Food  Service  Specialist 
+
+95B 
+
+2 
+
+0.2 
+
+Military  Police 
+
+8 
+
+
+Table  3  (cont'd) 
+
+
+MOS 
+
+Frequency 
+
+Percent 
+
+MOS  Description 
+
+96B 
+
+2 
+
+0.2 
+
+Intelligence  Analyst 
+
+96C 
+
+1 
+
+0.1 
+
+Interrogator 
+
+98C 
+
+TOTAL 
+
+6 
+
+0.6 
+
+Electronic  Warfare/Signal 
+
+Intelligence  Analyst 
+
+936 
+
+
+Note:  MOS  missing  for  six  soldiers 
+
+a  Specific  MOS  description  not  known — no  longer  listed  in  AR  611-201 
+
+
+9 
+
+
+Table  4 
+
+Rank  of  the  Soldier  Sample  in  the  CVI  Master  Data  Base 
+
+
+Pay  Grade 
+
+Frequency  (Percent) 
+
+El 
+
+28 
+
+(  3.0) 
+
+E2 
+
+88 
+
+(  9.3) 
+
+E3 
+
+206 
+
+(21.9) 
+
+E4 
+
+292 
+
+(31.0) 
+
+E5 
+
+167 
+
+(17.7) 
+
+E6 
+
+111 
+
+(11.8) 
+
+E7 
+
+40 
+
+(  4.2) 
+
+E8 
+
+3 
+
+(  0.3) 
+
+E9 
+
+7 
+
+(  0.7) 
+
+Total 
+
+942 
+
+Table  5 
+
+Racial  or  Ethnic  Background  of  the  Soldier  Sample  in  the  CVI  Master  Data  Base 
+for  the  Army  During  1978-1984 
+
+Sample 
+
+Army  Composition 
+
+Race  or  Ethnicity 
+
+Frequency  (Percent) 
+
+(Percent) 
+
+Black 
+
+286  (30.8) 
+
+31 
+
+Hispanic 
+
+119  (12.8) 
+
+5 
+
+White 
+
+490  (52.8) 
+
+60 
+
+Other 
+
+33  (  3.6) 
+
+4 
+
+Total 
+
+928 
+
+Note:  Racial  or  ethnic  data  missing  for  14  soldiers# 
+
+
+10 
+
+
+Table  6 
+
+
+Educational  Background  of  Soldier  Sample  in  the  CVI  Master  Data  Base 
+
+
+Educational  Level  Frequency  (Percent) 
+
+
+8  Years 
+
+3 
+
+(  0.4) 
+
+1  Yr  High  School 
+
+22 
+
+(  2.8) 
+
+2  Yr  High  School 
+
+43 
+
+(  5.5) 
+
+3-4  Yr  High  School,  No  Diploma 
+
+69 
+
+(  8.9) 
+
+High  School  Graduate,  Diploma,  Attendance 
+Certificate  or  GED 
+
+587 
+
+(75.5) 
+
+1  Yr  College 
+
+18 
+
+(  2.3) 
+
+2  Yr  College 
+
+19 
+
+(  2.4) 
+
+3-4  Yr  College,  No  Degree 
+
+9 
+
+(  1.2) 
+
+College  Graduate  (Bachelors) 
+
+6 
+
+(  0.8) 
+
+Masters  Degree 
+
+1 
+
+(  C.l) 
+
+Total 
+
+777 
+
+Note:  Educational  background  data  missing  for  165  soldiers. 
+
+
+11 
+
+
+Table  7 
+
+
+the  Soldier  Sample 
+
+in  the  CVI  Master  Data  Base 
+
+Age 
+
+Frequency 
+
+(Percent) 
+
+17 
+
+4 
+
+(  0.4) 
+
+18 
+
+30 
+
+(  3.2) 
+
+19 
+
+93 
+
+(10.0) 
+
+20 
+
+111 
+
+(12.0) 
+
+21 
+
+114 
+
+(12.3) 
+
+22 
+
+94 
+
+(10.1) 
+
+23 
+
+90 
+
+(  9.7) 
+
+24 
+
+63 
+
+(  6.8) 
+
+25 
+
+35 
+
+(  3.8) 
+
+26 
+
+32 
+
+(  3.5) 
+
+27 
+
+27 
+
+(  2.9) 
+
+28 
+
+33 
+
+(  3.6) 
+
+29 
+
+31 
+
+(  3.3) 
+
+30 
+
+25 
+
+(  2.7) 
+
+31 
+
+20 
+
+(  2.2) 
+
+32 
+
+16 
+
+(  1.7) 
+
+33 
+
+15 
+
+(  1.6) 
+
+34 
+
+17 
+
+(  1.8) 
+
+35 
+
+15 
+
+(  1-6) 
+
+36 
+
+12 
+
+(  1.3) 
+
+37  &  above 
+
+50 
+
+(  5.4) 
+
+Total 
+
+927 
+
+Note:  Age  missing  for  15  soldiers. 
+
+
+12 
+
+
+Table  8. 
+
+
+Length  of  Time  in  Service  of  Soldier  Sample  in  the  CVI  Master  Data  Base 
+
+
+Time  in  Service  (months) 
+
+Frequency  (Percent) 
+
+4-24 
+
+323 
+
+(35.0) 
+
+25-48 
+
+281 
+
+(30.4) 
+
+49-72 
+
+111 
+
+(12.0) 
+
+73-96 
+
+70 
+
+(  7.6) 
+
+97-144 
+
+81 
+
+(  8.8) 
+
+145-193 
+
+40 
+
+(  4.3) 
+
+>  194 
+
+18 
+
+(  1.9) 
+
+Total 
+
+924 
+
+Note:  Length  of  service  time  is  missing 
+
+Table  9. 
+
+Length  of  Time  in  Military  Occupational 
+CVI  Master  Data  Base 
+
+for  18  soldiers. 
+
+Speciality  (MOS)  of  the  Soldiers  in  the 
+
+Time  in  MOS  (months) 
+
+Frequency  (Percent) 
+
+1-24 
+
+351 
+
+(49.0) 
+
+25-48 
+
+224 
+
+(31.3) 
+
+49-72 
+
+80 
+
+(11.2) 
+
+73-96 
+
+36 
+
+(  5.0) 
+
+>  97 
+
+25 
+
+(  3.5) 
+
+Total 
+
+716 
+
+Note :  Length  of  time  in  MOS  is  missing  for  226  soldiers. 
+
+
+13 
+
+
+Results 
+
+
+Individual  ASVAB  Scaled  Score  and  Subtest  Relationships  to  Identification 
+Performance 
+
+
+Table  10  presents  the  correlations  between  each  ASVAB  Scaled  Score  and 
+identification  performance  together  with  their  statistical  significance,  sample 
+size  (N)  and  for  ODD  and  EVEN  halves  a  Z  statistic  to  assess  the  significance 
+of  differences  between  correlations.*^  Including  the  correlations  for  ODD  and 
+EVEN  halves  as  well  as  those  based  on  the  total  sample,  all  but  three  are 
+significantly  different  from  zero;  all  of  the  correlations  based  on  the  total 
+sample  are  statistically  significant.  The  range  of  correlations  obtained  using 
+test  forms  5-7  is  .246  (for  the  CL  Composite)  to  .354  (for  the  SC  Composite); 
+for  test  forms  8-14  the  range  is  .119  (for  the  CL  Composite)  to  .289  (for  the 
+ST  Composite).  For  all  test  forms  the  range  is  .212  (for  the  CL  Composite)  to 
+.336  (for  the  GM  Composite).  This  means  that  between  1.4%  and  12.5%  of  the 
+variability  between  ASVAB  Scaled  Scores  and  identification  performance  is  in 
+common . 
+
+In  a  similar  manner  Table  11  presents  the  same  information  as  Table  10  but 
+for  ASVAB  Subtests.  For  several  Subtests — NO,  CS,  AD,  CM,  CA,  CE,  and 
+CC — correlations  with  identification  performance  are  not  significantly 
+different  from  zero.  The  range  of  correlations  obtained  using  test  forms  5-7 
+which  are  significant  range  from  .156  (for  SP  Subtest)  to  .351  (for  GI 
+Subtest);  for  test  forms  8-14,  the  range  for  those  which  are  significant  is 
+.179  (for  El  Subtest)  to  .295  (for  GS  Subtest).  For  all  test  forms,  the  range 
+of  significant  correlations  is  .156  (for  SP  Subtest)  to  .351  (for  GI  Subtest). 
+Again  this  means  that  between  2.4%  and  12.3%  of  the  variability  between  ASVAB 
+Subtests  and  identification  performance  is  in  common. 
+
+As  noted  in  the  METHOD  section,  separate  analyses  for  test  forms  5-7  and 
+8-14  were  performed  because  of  the  understanding  that  there  were  rather  large 
+substantive  changes  beginning  with  test  form  8  compared  to  earlier  forms.  Table 
+12  shows  the  correlations  for  ASVAB  Scaled  Scores  and  the  seven  Subtests  common 
+to  most  test  forms  with  identification  performance.  While  in  every  case  the 
+correlations  using  test  forms  5-7  scores  are  higher  in  absolute  value  than 
+comparable  correlations  involving  test  forms  8-14,  only  in  one  case  (SC 
+Composite)  did  the  Z  test  for  testing  significance  of  differences  among 
+correlations  prove  statistically  significant  (j>  <  .05).  With  18  comparisons, 
+one  statistically  significant  difference  could  occur  by  chance  about  5%  of  the 
+time. 
+
+
+It  was  also  noted  in  the  METHOD  section  that  in  order  to  assess  the 
+validity  of  the  obtained  correlations,  the  data  were  divided  into  random  halves 
+with  comparison  of  correlations  for  each  half  serving  as  a  measure  of  the 
+validity  of  the  relationship  reported.  In  Tables  10  and  11  there  are  a  total 
+of  67  different  comparisons.  In  these  67,  four  proved  to  have  significantly 
+different  Z  values  at  the  .05  level  or  better.  Since  4/67  x  100  is 
+approximately  6%  and  there  was  no  a  priori  expectation  that  the  obtained 
+correlations  for  random  halves  would  differ  significantly,  it  seems  reasonable 
+
+^McNemar,  Q.  Psychological  Statistics,  John  Wiley  and  Sons,  New  York,  1966,  pp. 
+139-140. 
+
+
+14 
+
+
+Table  10 
+
+
+(ornti(lr«*l  Hatrl*  of  1 4  • « 1 1 1  i  c  •  i  l  o*  “Ilk  ASvai  Scaled  Srotti  fur  |nfrpmd«ni  Seapl#  Total  Staplr  lot  Solflrn 
+
+wt*o  Took  an  ASVAJ  1»*t  for*  J*J  or  8-1* 
+
+ASVAI 
+
+
+Scaled 
+
+t TEST  »0*H  5- 
+
+TCST  rOAH  )-T 
+
+TCST  POWi 
+
+)->l 
+
+TtST  FOR*  8- 
+
+1*  TCST  FOR-  8 
+
+1*  Tf SI  F  .AH  8 -  1  *  1 T C ST  F0*H  -1*  TlST  Foe-  )-|* 
+
+TtST  FOAM  5- 
+
+t  ! 
+
+Sc  oiea 
+
+1  ODD  HALF 
+
+E*th  HALF 
+
+T0TA1 
+
+0DD  HALF 
+
+CVCb  HALF 
+
+TOT 
+
+I  ODD  HALF 
+
+eye*  HALF _ 
+
+_ total _ 
+
+1 
+
+AfQT* 
+
+1  .790 
+
+.370 
+
+.3)0 
+
+.217 
+
+.297 
+
+75*  1  3:5 
+
+-?89 
+
+-307 
+
+1 
+
+1 
+
+r 
+
+|  .0002 
+
+■  0001 
+
+.0001 
+
+.0112 
+
+.000* 
+
+.0001 
+
+1  .0--01 
+
+-0001 
+
+.0001 
+
+1 
+
+h 
+
+t  1)5 
+
+15* 
+
+309 
+
+1)6 
+
+1)6 
+
+272 
+
+791 
+
+?90 
+
+561 
+
+1 
+
+|f 
+
+.70 
+
+.69 
+
+1 
+
+1 
+
+.*7 
+
+f 
+
+1 
+
+CO 
+
+1  .  2*0 
+
+369 
+
+.3)0 
+
+1 
+
+.2*9 
+
+.2)8 
+
+.2)3 
+
+1 
+
+1  .29? 
+
+.31 1 
+
+-302 
+
+1 
+
+1 
+
+P 
+
+l  .000) 
+
+.0001 
+
+.0001 
+
+.00)3 
+
+.0)08 
+
+.0001 
+
+1  .00"! 
+
+■  Of  *01 
+
+.0001 
+
+1 
+
+S 
+
+1  155 
+
+1)3 
+
+310 
+
+1)7 
+
+1)6 
+
+27) 
+
+1  7«? 
+
+791 
+
+58  ) 
+
+1 
+
+2 
+
+.2* 
+
+.27 
+
+1 
+
+1 
+
+.75 
+
+1 
+
+1 
+
+Fa 
+
+1  .290 
+
+•  36) 
+
+.323 
+
+.171 
+
+•  290 
+
+.727 
+
+1 
+
+1  .278 
+
+.311 
+
+.796 
+
+1 
+
+1 
+
+p 
+
+1  .0002 
+
+.0001 
+
+.0001 
+
+.0*61 
+
+■  0006 
+
+.0002 
+
+I  .0001 
+
+.0001 
+
+.0001 
+
+1 
+
+5 
+
+1  156 
+
+1)3 
+
+31! 
+
+1)6 
+
+1)6 
+
+77? 
+
+1  29? 
+
+79 1 
+
+51) 
+
+1 
+
+| 
+
+.21 
+
+1.03 
+
+1 
+
+1 
+
+.** 
+
+J 
+
+1 
+
+If* 
+
+1  .310 
+
+•  323 
+
+.31) 
+
+•  160 
+
+.282 
+
+.217 
+
+1 
+
+1  .318 
+
+.7)6 
+
+.287 
+
+1 
+
+1 
+
+t 
+
+\  .0001 
+
+.090! 
+
+.0001 
+
+.0608 
+
+•0008 
+
+.000) 
+
+.0001 
+
+-0001 
+
+.0001 
+
+1 
+
+1  1)2 
+
+1)6 
+
+313 
+
+1)8 
+
+138 
+
+276 
+
+1  29) 
+
+29* 
+
+589 
+
+1 
+
+| 
+
+.12 
+
+1  .06 
+
+1 
+
+1 
+
+.81 
+
+1 
+
+1 
+
+CH 
+
+1  . 379 
+
+.390 
+
+.3)7 
+
+395 
+
+.17* 
+
+.782 
+
+1  .30® 
+
+36) 
+
+.3)6 
+
+1 
+
+1 
+
+P 
+
+l  .0001 
+
+■  0001 
+
+.0001 
+
+.0001 
+
+•0*25 
+
+.0001 
+
+1  .00-  l 
+
+•  OOOl 
+
+.0001 
+
+1 
+
+5 
+
+1  156 
+
+13) 
+
+311 
+
+138 
+
+137 
+
+275 
+
+1  2*  1 
+
+29) 
+
+566 
+
+1 
+
+| 
+
+.61 
+
+1 .99* 
+
+1 
+
+.7) 
+
+l 
+
+1 
+
+CL 
+
+1  .2)2 
+
+.2  38 
+
+.2*6 
+
+[ 
+
+.0*5 
+
+.20' 
+
+.119 
+
+1  -221 
+
+•  202 
+
+.217 
+
+1 
+
+1 
+
+r 
+
+1  .0016 
+
+.0078 
+
+.0001 
+
+.6002 
+
+•n  62 
+
+.0*84 
+
+1  ‘V01 
+
+.0006 
+
+.0001 
+
+1 
+
+S 
+
+I  15) 
+
+15) 
+
+310 
+
+1)7 
+
+•  37 
+
+27* 
+
+1  79? 
+
+29? 
+
+58* 
+
+1 
+
+2 
+
+.1* 
+
+1.33 
+
+i 
+
+1 
+
+.76 
+
+1 
+
+1 
+
+Cl 
+
+I  .229 
+
+351 
+
+.28) 
+
+j 
+
+.30* 
+
+•  182 
+
+7)5 
+
+1  . 28  3 
+
+.?-! 
+
+.261 
+
+I 
+
+f 
+
+I  ,0o** 
+
+.0001 
+
+.0001 
+
+•  0U0l 
+
+.0;)* 
+
+.0001 
+
+1  . OVD  1 
+
+■  OOOl 
+
+.0001 
+
+1 
+
+b 
+
+1  15* 
+
+15) 
+
+307 
+
+1)6 
+
+155 
+
+311 
+
+1  309 
+
+309 
+
+616 
+
+1 
+
+2 
+
+i 
+
+.16 
+
+1.1* 
+
+1 
+
+1 
+
+-  )6 
+
+1 
+
+1 
+
+CL 
+
+1  .288 
+
+.  696 
+
+.3*2 
+
+j 
+
+.278 
+
+-286 
+
+.276 
+
+1 
+
+1  .32) 
+
+-377 
+
+.326 
+
+1 
+
+1 
+
+P 
+
+1  .000) 
+
+•  0001 
+
+.0001 
+
+.0011 
+
+•  0007 
+
+.0001 
+
+1  .0-.01 
+
+•  OOOl 
+
+.oco: 
+
+1 
+
+b 
+
+1  1)6 
+
+1)5 
+
+311 
+
+136 
+
+1)6 
+
+27J 
+
+1  2' 2 
+
+791 
+
+58) 
+
+1 
+
+2 
+
+1 
+
+.17 
+
+•  O' 
+
+1 
+
+1 
+
+•  2 
+
+1 
+
+1 
+
+SC 
+
+1  .3') 
+
+•  33* 
+
+•  35* 
+
+.  2 1  ( 
+
+•19) 
+
+.70? 
+
+1 
+
+1  .)  6 
+
+•  272 
+
+305 
+
+r 
+
+/  .0001 
+
+■  0Q01 
+
+.0001 
+
+.01)6 
+
+•02)6 
+
+.0008 
+
+1  .  c  *1 
+
+•  O-.'Cl 
+
+.ooc: 
+
+K 
+
+15) 
+
+15) 
+
+310 
+
+1  38 
+
+1)7 
+
+275 
+
+1  29 
+
+297 
+
+585 
+
+i 
+
+| 
+
+.*2 
+
+.16 
+
+1 
+
+1 
+
+** 
+
+ST 
+
+i  .300 
+
+.3)6 
+
+.317 
+
+.*19 
+
+•17) 
+
+.789 
+
+1  -2'  • 
+
+.  )*9 
+
+.316 
+
+; 
+
+P 
+
+1  .0001 
+
+.0001 
+
+.0001 
+
+.0001 
+
+•«H)8 
+
+.0001 
+
+1  .00" 
+
+•  oco: 
+
+.0001 
+
+i 
+
+h 
+
+1  1)6 
+
+1)5 
+
+311 
+
+1)8 
+
+137 
+
+275 
+
+t  79  j 
+
+293 
+
+586 
+
+t 
+
+2 
+
+.35 
+
+2.71* 
+
+i 
+
+1 
+
+90 
+
+i 
+
+OF 
+
+1  .228 
+
+.366 
+
+.290 
+
+.16) 
+
+•  308 
+
+.2  5 
+
+1  .29? 
+
+.27? 
+
+.28? 
+
+: 
+
+p 
+
+.00-2 
+
+.0001 
+
+.0001 
+
+.0))) 
+
+•0002 
+
+0001 
+
+1  .090! 
+
+.0001 
+
+.0001 
+
+i 
+
+b 
+
+1)2 
+
+1)6 
+
+313 
+
+1)8 
+
+1)8 
+
+276 
+
+1  ?«) 
+
+29* 
+
+589 
+
+i 
+
+2 
+
+1  1 
+
+.  32 
+
+1.26 
+
+1 
+
+.27 
+
+J 
+
+*All  value*  o*  aaoe  lie# 
+
+aa 
+
+Scale  Score 
+
+oitra  are  cor r e 1  a 1 1  one . 
+
+■p  value* 
+
+addrea*  (be  significance  of  Individual  correlation#  and  ware  provided  aa 
+
+part  of  th*  Stall  at  leal  Amlyae# 
+
+Software  <  SAS )  PP9C  COAA  cutput 
+
+^  value# 
+
+were  computed 
+
+by  th#  formula: 
+
+1  V  l-2 
+
+7\i 
+
+»  ♦ 
+
+l  .  See 
+
+hcMeair,  0-  Piychologl c  .1  Statistic#.  John  Wiley 
+
+asd  Son*.  Inc 
+
+-  1 9t 
+
+n 
+
+b,  -  J 
+
+b2  -  3 
+
+pp.  139-1*0-  for  two  tailed  (rata,  I  2  I  >  1-9*  1*  significant  at  £  <.05.  Tabled  2a  addreaa  th#  significance  of  difference  between  correlation* 
+obtained  using  Indapeodeot  h*]r«r  of  available  data.  2  value#  uhJrh  era  aifol/lrant  are  sored  b»  *. 
+
+
+15 
+
+
+Tsbl*  II 
+
+
+Correlational  netrii  of  Identification  Performance  With  ASVAJ  Suktote  (Percent  Correct)  for  Independent  Semple  Neleea  and  Total  Semple  for  Seldlere 
+Who  Took  an  ASVAJ  Teat  Form  5-7  or  6-1* 
+
+
+ASVAJ  SUITES!  1  TtST  FOAM  5-7  TEST  FOAM  5-7 
+
+TtST  FOIW  5-7  1  TtST  POM  P- 
+
+-  TEST  FOAM  6-16 
+
+tes;  row*  d-u 
+
+1  TEST  FOAM  5- 
+
+1*  TEST  FOAM  5-1* 
+
+TEST  FOAM  5-1* 
+
+1  ODD  HALF  EVCA  HALF 
+
+TOTAL 
+
+ODD  KAi.r 
+
+EVEN  HALF 
+
+TOTAL 
+
+1  ODD  HALF 
+
+1  1  1  1  ■  IIIH 
+
+TOTAL 
+
+cs* 
+
+1 
+
+1 
+
+1  .250 
+
+.44* 
+
+.339 
+
+.297 
+
+.291 
+
+.295 
+
+1  .347 
+
+.370 
+
+3)3 
+
+p» 
+
+1  .0015 
+
+.0001 
+
+.0001 
+
+.000* 
+
+.0005 
+
+•  OOCi 
+
+1  .0001 
+
+.0001 
+
+.oooi 
+
+k 
+
+1  151 
+
+157 
+
+315 
+
+131 
+
+136 
+
+276 
+
+1  295 
+
+296 
+
+591 
+
+V 
+
+I 
+
+1 
+
+1.94 
+
+.05 
+
+.35 
+
+All 
+
+- , - 
+
+1  .212 
+
+•  16k 
+
+.237 
+
+.260 
+
+.16) 
+
+.203 
+
+1  .242 
+
+.222 
+
+.235 
+
+f 
+
+1  .0002 
+
+.0199 
+
+.0001 
+
+.0022 
+
+.0921 
+
+.0009 
+
+1  .0001 
+
+.0001 
+
+.0001 
+
+k 
+
+i  151 
+
+15k 
+
+312 
+
+137 
+
+136 
+
+273 
+
+1  293 
+
+292 
+
+565 
+
+2 
+
+1 
+
+1 
+
+1.00 
+
+.96 
+
+.25 
+
+UK 
+
+- j - 
+
+1  .310 
+
+.216 
+
+.26* 
+
+.210 
+
+.27) 
+
+.242 
+
+1  .283 
+
+.262 
+
+.271 
+
+P 
+
+1  .0001 
+
+.006* 
+
+.0001 
+
+.0133 
+
+.0012 
+
+.0001 
+
+1  .0001 
+
+.0001 
+
+.0001 
+
+i 
+
+I  151 
+
+151 
+
+316 
+
+136 
+
+136 
+
+276 
+
+1  29b 
+
+296 
+
+5*2 
+
+2 
+
+1 
+
+1 
+
+.19 
+
+.5* 
+
+.28 
+
+NO 
+
+1 - 
+
+1  .112 
+
+.020 
+
+.0*6 
+
+.026 
+
+.006 
+
+.015 
+
+1  .078 
+
+-065 
+
+.073 
+
+P 
+
+1  .1590 
+
+.7996 
+
+.6112 
+
+.7*26 
+
+.9413 
+
+.8042 
+
+.1788 
+
+.262* 
+
+.07*6 
+
+N 
+
+1  159 
+
+159 
+
+311 
+
+136 
+
+136 
+
+276 
+
+1  297 
+
+297 
+
+59* 
+
+2 
+
+1 
+
+1 
+
+1.17 
+
+.16 
+
+.16 
+
+ru 
+
+- j - 
+
+1  .3)1 
+
+.185 
+
+.255 
+
+.300 
+
+- 1  36 
+
+.217 
+
+i  .333 
+
+.1*5 
+
+.2*1 
+
+t 
+
+1  .0001 
+
+.0203 
+
+.0001 
+
+.0003 
+
+.109. 
+
+.0003 
+
+1  .0001 
+
+.0126 
+
+.0001 
+
+1 
+
+1  157 
+
+157 
+
+31* 
+
+1)8 
+
+137 
+
+2*5 
+
+1  295 
+
+29* 
+
+569 
+
+2 
+
+1 
+
+1 
+
+1  .«0 
+
+1.39 
+
+2.*1* 
+
+*C 
+
+- 1 - 
+
+1  .304 
+
+.38? 
+
+.3*2 
+
+.062 
+
+.346 
+
+.206 
+
+1  .295 
+
+.303 
+
+.299 
+
+P 
+
+1  0O01 
+
+.0001 
+
+.0001 
+
+.*679 
+
+.OdOl 
+
+.0005 
+
+1  .0001 
+
+.0001 
+
+.0001 
+
+A 
+
+1  1 57 
+
+156 
+
+31) 
+
+1)6 
+
+1)8 
+
+276 
+
+!  295 
+
+29* 
+
+589 
+
+| 
+
+\ 
+
+1 
+
+.82 
+
+?.*5« 
+
+.10 
+
+El 
+
+1 
+
+1  .114 
+
+.307 
+
+.233 
+
+.197 
+
+.171 
+
+.179 
+
+1  -256 
+
+.231 
+
+-2*5 
+
+P 
+
+1  .0)94 
+
+.0001 
+
+.0001 
+
+.0206 
+
+.0451 
+
+■  °028 
+
+1  .0001 
+
+.008* 
+
+.0001 
+
+V 
+
+1  159 
+
+158 
+
+317 
+
+136 
+
+138 
+
+.’76 
+
+t  297 
+
+296 
+
+593 
+
+2 
+
+\ 
+
+1 
+
+1.3* 
+
+.23 
+
+1.70 
+
+PC 
+
+"1 
+
+1 
+
+.096 
+
+.27 
+
+.'83 
+
+1  .096 
+
+.271 
+
+.16) 
+
+P 
+
+1  aSvaB 
+
+were loni 
+
+5-7  did  not 
+
+contain 
+
+.  2675 
+
+.00’ 
+
+.(a?6 
+
+'  .2675 
+
+.0015 
+
+.0026 
+
+N 
+
+1  a  PC 
+
+Subteat 
+
+1)5 
+
+1 
+
+27; 
+
+135 
+
+135 
+
+270 
+
+| 
+
+1 
+
+1 
+
+1  .*» 
+
+l.*8 
+
+CS 
+
+1 
+
+1 
+
+-.025 
+
+.082 
+
+.0*7 
+
+:  -.025 
+
+.082 
+
+.0*2 
+
+P 
+
+1  ASVAJ 
+
+were! ooe 
+
+5-7  did  not 
+
+contain 
+
+.  7  746 
+
+.2)06 
+
+.*412 
+
+\  .77*6 
+
+.2506 
+
+.6412 
+
+A 
+
+1  a  CS 
+
+Subtaet 
+
+138 
+
+137 
+
+.  5 
+
+1  136 
+
+1)8 
+
+276 
+
+2 
+
+» 
+
+1 
+
+1.01 
+
+1.01 
+
+AS 
+
+1 
+
+1 
+
+.261 
+
+.186 
+
+.225 
+
+1  .266 
+
+.186 
+
+.225 
+
+P 
+
+1  ASVAJ 
+
+verelone 
+
+5-7  did  not 
+
+contain 
+
+.089) 
+
+.0009 
+
+.0005 
+
+1  .0893 
+
+.0009 
+
+•  OCD 
+
+i 
+
+1  eo  AS 
+
+Subteat 
+
+13- 
+
+137 
+
+275 
+
+1  138 
+
+137 
+
+27> 
+
+2 
+
+1 
+
+1 
+
+1.15 
+
+1.15 
+
+16 
+
+
+IlM*  1 1  «*nnr  'd) 
+
+
+ASYAS 
+
+St'STCST 
+
+TES1  FOAM  5 
+
+7  icst  row  s-7 
+
+TEST  FOR*  3-71  t£ST  FuAM  8-1*  TfSt  fnw  8-1* 
+
+TEST  80.  *t  «- 1*1  TPST  ff'KW  3 
+
+-1*  TEST  tot Or  3 
+
+'1*  TEST  ro*r  5-J 
+
+ODD  HALF 
+
+£V£h  KALf 
+
+TOTAL 
+
+1  000  HALF  £V£h  HALF 
+
+TOTAL  I  000  HAU 
+
+tvf>  half 
+
+TOTAL 
+
+1 
+
+Vf 
+
+AS V AS  version* 
+
+S-7  did  not 
+
+contain 
+
+1  .312  .167 
+
+•  2):-  1  .312 
+
+.167 
+
+•  2)3 
+
+p 
+
+a  V£  Subtest 
+
+1  .06*5 
+
+.OOOi  1  .06*5 
+
+.000* 
+
+.0001 
+
+► 
+
+1  138  la 
+
+278  1  1)8 
+
+137 
+
+273 
+
+2 
+
+1  1.20 
+
+) 
+
+l 
+
+1.20 
+
+Cl 
+
+j 
+
+.380 
+
+.326 
+
+.331 
+
+1 
+
+1 
+
+.380 
+
+.326 
+
+-351 
+
+, 
+
+.  >002 
+
+.0001 
+
+.0001 
+
+1  ASYAS  versions  I*,*  did  not 
+
+contain  1  .0002 
+
+.0001 
+
+.0001 
+
+h 
+
+13* 
+
+13* 
+
+308 
+
+1  a  Cl  Subtest 
+
+1  13* 
+
+15* 
+
+SOB 
+
+Z 
+
+l  .29 
+
+1 
+
+1 
+
+J  .29 
+
+AD 
+
+1 
+
+-.092 
+
+.109 
+
+-.101 
+
+1 
+
+1  -.092 
+
+-.109 
+
+-.101 
+
+t 
+
+.8065 
+
+■  3268 
+
+.  3727 
+
+1  ASYAS  versions  8-1*  did  not 
+
+contati-  1  .806  5 
+
+.3268 
+
+.3727 
+
+h 
+
+157 
+
+136 
+
+313 
+
+1  an  AT  Subteat 
+
+1  137 
+
+136 
+
+313 
+
+2 
+
+.52 
+
+1 
+
+32 
+
+SP 
+
+T 
+
+.137 
+
+•  179 
+
+.136 
+
+1 - 
+
+1 
+
+1  .137 
+
+.179 
+
+.156 
+
+t 
+
+.03*5 
+
+.0269 
+
+.0023 
+
+1  ASYAS  version*  8-1*  did  not 
+
+contain  1  .03*3 
+
+.0269 
+
+.0025 
+
+b 
+
+136 
+
+133 
+
+311 
+
+1  an  SP  Subteat 
+
+1  136 
+
+135 
+
+311 
+
+l 
+
+.06 
+
+1 
+
+1 
+
+.06 
+
+SI 
+
+T 
+
+.316 
+
+331 
+
+.332 
+
+- 1 - 
+
+1  .316 
+
+.351 
+
+.332 
+
+P 
+
+.0005 
+
+.0002 
+
+.0001 
+
+t  ASVAt  versions  8-1*  did  not 
+
+contain  1  .0003 
+
+.0002 
+
+•  OOOI 
+
+h 
+
+IS* 
+
+133 
+
+307 
+
+1  an  SI  Subtest 
+
+1  15* 
+
+133 
+
+SO? 
+
+z 
+
+.15 
+
+1 
+
+) 
+
+.15 
+
+A 1 
+
+.278 
+
+.25* 
+
+.268 
+
+i  ASYAS  version*  8-1*  did  not 
+
+contain  i  .278 
+
+.25* 
+
+-  268 
+
+t 
+
+.0001 
+
+-0328 
+
+.0001 
+
+I  an  A 1  Subteat 
+
+■  .000. 
+
+.0)28 
+
+•  0328 
+
+h 
+
+13* 
+
+153 
+
+307 
+
+1  15* 
+
+153 
+
+307 
+
+2 
+
+1.21 
+
+1.21 
+
+tr 
+
+T 
+
+-.030 
+
+.128 
+
+.0*9 
+
+1 
+
+-  .030 
+
+.i2e 
+
+.0*9 
+
+f 
+
+.7011 
+
+.  1068 
+
+.38*9 
+
+1  ASYAB  versions  8-1*  did  not 
+
+contain  .  .7011 
+
+.1068 
+
+•  38-9 
+
+h 
+
+161 
+
+160 
+
+321 
+
+1  a  CM  Subteat 
+
+1  161 
+
+160 
+
+321 
+
+| 
+
+1  .*1 
+
+\ 
+
+1 
+
+1  .*1 
+
+CA 
+
+-.073 
+
+012 
+
+-.0*3 
+
+1  -,o:j 
+
+-.012 
+
+-  O.J 
+
+r 
+
+.33*5 
+
+•  8  768 
+
+.**00 
+
+1  ASYAB  version*  8-1*  dl«.  .*nt 
+
+conta.n  1  .35*3 
+
+.8768 
+
+**X- 
+
+A 
+
+161 
+
+160 
+
+321 
+
+1  a  CA  Subteat 
+
+1  161 
+
+160 
+
+321 
+
+| 
+
+.3* 
+
+1 
+
+1 
+
+.5* 
+
+Cl 
+
+-.058 
+
+•  030 
+
+-.011 
+
+1 
+
+1  -.038 
+
+.03C 
+
+-.011 
+
+r 
+
+.*662 
+
+.7033 
+
+.8301 
+
+1  ASYAS  version*  8-1*  did  not 
+
+contain  .*662 
+
+.7033 
+
+•  8501 
+
+A 
+
+16! 
+
+}6D 
+
+32  J 
+
+I  a  Cf  Subteat 
+
+1  16) 
+
+16C 
+
+321 
+
+l 
+
+.78 
+
+1 
+
+•  78 
+
+cc 
+
+T 
+
+.033 
+
+•  16  8 
+
+.IOC 
+
+1  .033 
+
+.168 
+
+•  IOC 
+
+r 
+
+.6758 
+
+•  03*2 
+
+.0733 
+
+1  ASVAt  version*  8-1*  did  not 
+
+conta-n  |  .6758 
+
+.0*2 
+
+•  0*35 
+
+h 
+
+161 
+
+160 
+
+321 
+
+I  a  CC  Subteat 
+
+1  161 
+
+16C 
+
+321 
+
+1 
+
+1.20 
+
+1  -20 
+
+•  All 
+
+values 
+
+„ 
+
+aaate  line  a* 
+
+Subteat  naae*  are 
+
+correlat Ion* 
+
+f  value*  addra 
+
+as  the  significance  of  individual  correlations  and  were  provid'd  as  art  of 
+
+the  Sta’faflea]  '*el*ee«  Soltyrw 
+
+SAS )  MOC 
+
+COM  out  put . 
+
+*  2  *a 
+
+lue*  ar< 
+
+c 
+
+ovputed  67  the  f oraula :  1  2 
+
+*„  •  /vL 
+
+1*1  See  .icheaar. 
+
+Q-  Pevci-ologtce  Statistics 
+
+John 
+
+Wile)  and 
+
+Son* ,  1  nr  . 
+
+1  /  V 
+
+1  °  k! 
+
+1962  . 
+
+FP-  139- 
+
+1 
+
+0 .  For  two 
+
+tailed 
+
+teats,  1  2 
+
+1  >  1.96  la  aigniflcant  »t  |  '  .05.  Tabled  Zs  sddresa  the  e1*.lf1ce«ce  of 
+
+dlffe 
+
+ranee  betwi 
+
+en  correlations 
+
+obi  a i ned  using  independent  halves  of  available  data.  Z  values  which  ate  significant  are  noted  b.  •. 
+
+
+17 
+
+
+Table  12 
+
+
+Comparison  of  ASVAH  Scnled  Score*  and  Subtesta  Correlation*  With  Ident  1 1 1  cn  t  Inn 
+Performance  for  Soldiera  Who  Took  An  ASVAB  Teat  Kora  5-7  or  8-14 
+
+
+Scaled  Scores 
+
+Test  Form  5-7  Test  Farm  8-14 
+Total  Total 
+
+Subteats  (Common  to 
+Test  Form  5-7  Tes 
+Total 
+
+all  forms) 
+t  Form  8-14 
+lotnl 
+
+AFOT* 
+
+.330 
+
+.254 
+
+CS 
+
+.339 
+
+.295 
+
+Pb 
+
+.0001 
+
+.0001 
+
+P 
+
+.0001 
+
+.0001 
+
+N 
+
+309 
+
+272 
+
+N 
+
+315 
+
+276 
+
+r 
+
+1.00 
+
+Z 
+
+.58 
+
+CO 
+
+.330 
+
+.233 
+
+AK 
+
+.237 
+
+.203 
+
+p 
+
+.0001 
+
+.0001 
+
+p 
+
+.0001 
+
+.0008 
+
+N 
+
+310 
+
+273 
+
+N 
+
+312 
+
+273 
+
+Z 
+
+1.27 
+
+Z 
+
+.42 
+
+FA 
+
+.323 
+
+.227 
+
+WK 
+
+.264 
+
+.242 
+
+P 
+
+.0001 
+
+.0002 
+
+P 
+
+.0001 
+
+.0001 
+
+H 
+
+311 
+
+272 
+
+N 
+
+316 
+
+276 
+
+Z 
+
+1.25 
+
+Z 
+
+.28 
+
+MM 
+
+.315 
+
+.217 
+
+NO 
+
+.046 
+
+.015 
+
+F 
+
+.0001 
+
+.0003 
+
+P 
+
+.41  12 
+
+.8042 
+
+N 
+
+313 
+
+276 
+
+N 
+
+318 
+
+276 
+
+Z 
+
+1.27 
+
+Z 
+
+.37 
+
+CM 
+
+.357 
+
+.282 
+
+HK 
+
+.255 
+
+.217 
+
+P 
+
+.0001 
+
+.0001 
+
+P 
+
+.0001 
+
+.0003 
+
+N 
+
+311 
+
+275 
+
+N 
+
+314 
+
+275 
+
+Z 
+
+.97 
+
+Z 
+
+.48 
+
+CL 
+
+.246 
+
+.119 
+
+MC 
+
+.342 
+
+.208 
+
+P 
+
+.0001 
+
+.0484 
+
+P 
+
+.0001 
+
+.0005 
+
+N 
+
+310 
+
+274 
+
+N 
+
+313 
+
+276 
+
+I 
+
+1.58 
+
+Z 
+
+1.74 
+
+GT 
+
+.285 
+
+.235 
+
+El 
+
+.233 
+
+.179 
+
+P 
+
+.0001 
+
+.0001 
+
+P 
+
+.0001 
+
+.0028 
+
+N 
+
+307 
+
+311 
+
+N 
+
+317 
+
+276 
+
+Z 
+
+.67 
+
+Z 
+
+.69 
+
+EL 
+
+.342 
+
+.278 
+
+P 
+
+.0001 
+
+.0001 
+
+N 
+
+311 
+
+272 
+
+Z 
+
+.85 
+
+SC 
+
+.354 
+
+.202 
+
+p 
+
+.0001 
+
+.0008 
+
+N 
+
+310 
+
+275 
+
+Z 
+
+1.98* 
+
+ST 
+
+.317 
+
+.289 
+
+P 
+
+.0001 
+
+.0001 
+
+N 
+
+311 
+
+275 
+
+Z 
+
+.37 
+
+OF 
+
+.290 
+
+.235 
+
+P 
+
+.0001 
+
+.0001 
+
+N 
+
+313 
+
+276 
+
+Z 
+
+.72 
+
+*All  values  on  sane  line  as 
+
+Scale  Score  and  Subtest  names  are  correlations. 
+
+°P  values 
+
+address  the  algnlflcance  of  Individual 
+
+correlations  and  were 
+
+provided  as 
+
+cart  of  the  Statistical  Analyses  Software 
+
+(SAS) 
+
+PK0C  CORR  output. 
+
+c2  values 
+
+were  computed  by 
+
+the  foraula:  1 
+
+S  - 
+
+S'/  \  > 
+
+l 
+
++ 
+
+/  \  N1  -  3 
+
+N2  -  3 
+
+See  HcNemar,  Q.  Psycholog 
+
+leal  Statistics 
+
+,  John 
+
+Wiley  and  Sons,  Inc. 
+
+1962  , 
+
+pp.  139-140.  For  two  tailed  testa ,  I  Z  T  >  1.96  la  significant  at  p  <.05.  Tabled 
+Z*  addreaa  the  algnlflcance  of  difference  between  correlation*  obtained  using 
+Independent  halves  of  available  data. 
+
+*  £  <.05. 
+
+
+18 
+
+
+to  believe  that  these  four  correlations  which  differ  significantly  are  due  to 
+chance.  This  interpretation  in  turn  leads  to  an  inference  that  the  obtained 
+relationships  are  indeed  valid. 
+
+Multiple  Correlation  Relationships  Involving  ASVAB  Scaled  Scores  or  Subtests  as 
+Predictors  and  Identification  Performance  as  Criterion 
+
+
+Procedure  for  Analyses  Involving  ASVAB  Scaled  Scores  [Composites  and  Armed 
+Forces  Qualification  Test  (AFQT)}.  As  with  correlations  involving  individual 
+ASVAB  Scaled  Scores,  multiple  correlations  were  obtained  generally  for  random 
+halves  of  the  data.  Such  analyses  were  designed  to  address  the  matter  of 
+validity  of  obtained  relationships — when  sample  sizes  were  sufficiently  large 
+to  satisfy  Herzberg's  criterion  for  obtaining  stable  multiple  correlation 
+relationships  across  different  samples. 
+
+Multiple  correlation  relationships  involving  the  ten  area  Aptitude 
+Composites  and  AFQT  (ASVAB  Scaled  Scores)  with  identification  performance  are 
+summarized  in  Table  13.  Since  with  11  predictor  variables  there  are  2047 
+possible  predictor  sets  for  predicting  the  criterion,  it  is  reasonable  to 
+consider  only  selected  sets  for  both  describing  and  validating  relationships 
+which  exist.  As  with  individual  predictor  and  criterion  correlations,  separate 
+analyses  were  performed  with  test  form  5-7  data,  8-14  and  5-14  for  the  total 
+sample.  In  each  of  these  cases  PROC  STEPWISE  from  the  SAS  package  was  used  to 
+select  the  best  set  from  the  11  predictor  variables.  The  predictor  set 
+selected  was  the  one  which  satisfied  Mallow's  criterion — Cp  statistic — as 
+described  in  the  SAS  manual.  Results  of  these  analyses  are  presented  in  row  1, 
+columns  4,  7,  and  10  of  Table  13.  As  noted  in  each  case  the  best  predictor  set 
+involved  a  single  Aptitude  Area  (AA)  Composite.  In  order  to  address  the 
+question  of  the  validity  of  the  obtained  relationships,  the  total  sample  in 
+each  case  was  randomly  divided  into  halves  and  the  correlations  involving  that 
+single  AA  composite  with  the  criterion  were  computed  using  PROC  RSQUARE  from 
+SAS.  Results  of  those  analyses  are  shown,  as  indicated,  in  row  1  of  Table  13. 
+
+While  statistically  the  best  subset  of  predictor  variables  involved  only 
+one  AA  Composite,  it  was  of  some  interest  to  examine  changes  in  absolute 
+multiple  correlation  magnitude  that  might  result  with  use  of  larger  predictor 
+subsets . 
+
+Rather  than  explore  all  subsets,  it  was  decided  to  examine  the  "best” 
+subset  of  six  predictors  for  each  case.  A  subset  size  of  six  was  selected  as 
+the  sample  size  in  each  random  half  would  be  sufficiently  large  according  to 
+Herzberg  (1969)  to  obtain  reasonably  stable  multiple  correlational 
+relationships.  "Best,"  again  was  defined  as  that  subset  which  satisfied 
+
+**With  N  as  the  sample  size  and  K  the  number  of  predictor  variables,  Herzberg 
+(1969)  indicated  that  to  obtain  stable  multiple  correlations — across  other 
+samples — the  N/K  ratio  should  approach  20,  i.e.,  there  should  be  approximately 
+20  observations  per  weight  estimated.  See  Herzberg,  P.A.  The  Parameters  of 
+Cross-Validation.  Psychometrika  Monograph  Supplement,  1969,  No.  16. 
+
+^Mallow's  criterion  for  selection  of  a  "best"  multiple  correlation  relationship 
+involves  selecting  the  model  with  the  predictor  variables  which  first  lead  the 
+Cp  statistic  to  approach  £  (the  number  of  weights  estimated,  excluding  the 
+intercept).  See  SAS  User's  Guide:  Statistics,  Version  5,  pp.  765-766  for  more 
+detailed  discussion. 
+
+
+19 
+
+
+Mallow's  criterion  when  the  total  sample  was  used.  Using  only  ASVAB  scaled 
+scores  from  Test  Forms  5-7,  the  best  subset  of  six  involved  the  EL,  GT,  CL,  OF, 
+CO  and  MM  Aptitude  Area  scaled  scores  with  an  R  of  .400  (see  row  2,  column  4, 
+Table  13).  The  multiple  correlations  involving  this  subset  of  predictors  were 
+computed  to  produce  all  other  entries  in  row  2.  Using  only  ASVAB  Scaled  Scores 
+from  test  forms  8-14,  the  best  subset  of  six  involved  the  ST,  CL,  SC,  CO,  OF 
+and  AFQT  scaled  scores  with  an  R  of  .341  (see  row  3,  column  7,  Table  13).  As 
+before,  the  multiple  correlations  involving  this  subset  of  predictors  was 
+computed  to  produce  other  entries  in  row  3.  Finally  row  4  shows  the  multiple 
+correlations  which  results  when  all  11  Scaled  Scores  are  used — for  random 
+halves  and  total  sample.  Multiple  correlations  involving  all  11  Scaled  Scores 
+were  not  computed  for  test  forms  5-7  or  8-14  individually  since  the  N/K  ratios 
+(per  Herzberg,  1969)  were  not  sufficiently  large  to  obtain  stable  correlational 
+values. 
+
+Based  on  review  of  Table  13  it  appears  that  the  multiple  correlation 
+approach  does  not  produce  any  marked  improvement  in  the  demonstrated 
+relationships  between  individual  ASVAB  Scaled  Scores  and  the  criterion 
+variable — although  in  all  cases  when  Herzberg's  (1969)  guidance  is  followed 
+there  is  no  evidence  to  conclude  that  the  relationships  obtained  are  not  valid. 
+
+Procedure  for  Analyses  Involving  ASVAB  Subtests.  Multiple  correlational 
+analyses  involving  ASVAB  Subtests  in  many  ways  parallels  analyses  for  ASVAB 
+Scaled  Scores  discussed  above — separate  analyses  for  data  involving  test  forms 
+5-7,  8-14  and  5-14  using  the  total  samples  and  for  each  random  half  (See  Table 
+14).  In  each  case  analyses  presented  are  consistent  with  Herzberg's  (1969) 
+guidance  that  approximately  20  observations  per  predictor  be  available. 
+Generally,  results  shown  in  the  first  four  rows  of  Table  14  were,  in  part, 
+based  on  use  of  PROC  STEPWISE  of  SAS  package.  The  specific  procedure  used  for 
+each  of  those  rows  will  be  described  momentarily.  In  reviewing  Table  14  it  is 
+important  to  understand  that  in  ASVAB  test  forms  5-7  there  are  16  Subtest 
+scores;  for  te6t  forms  8-14  there  are  eleven.  For  test  forms  5-14  there  are 
+seven  common  Subtests.  Results  presented  in  rows  1-3  and  5  of  Table  14 
+consider  only  these  seven  common  Subtests  as  predictors — for  comparability 
+across  analyses  as  well  as  to  reflect  sensitivity  to  Herzberg's  (1969)  guidance 
+noted  above. 
+
+For  results  presented  in  row  1,  PROC  STEPWISE  of  SAS  was  used  to  identify 
+the  best  subset  of  predictors  using  the  total  sample  available  for  those 
+soldiers  who  had  been  given  one  of  ASVAB  test  forms  5-7.  As  in  discussion  of 
+the  comparable  6et  of  analyses  involving  ASVAB  Scaled  Scores,  Mallow's 
+criterion*3  was  used  to  select  the  "best"  subset  (See  row  1,  column  4,  Table 
+14).  Other  results  presented  in  row  1  address  the  issues  of  validity  and 
+generality  of  findings  using  other  data. 
+
+For  results  presented  in  row  2  (Table  14)  the  ''best"  subtest  of  predictors 
+using  the  total  sample  available  for  soldiers  given  one  of  ASVAB  test  forms 
+8-14  involved  a  single  Subtest  (See  column  7).  As  before,  other  results 
+presented  in  row  2  address  the  issues  of  validity  and  generality  of  findings. 
+
+
+130p.  Cit.  12. 
+
+
+20 
+
+
+Selected  Multiple  Correlations  of  Identification  Performance  With  ASVAB  Scaled  Scores  for  Independent  Sample  Halves  and  Total  Sample  for  Soldiers 
+tfho  Took  An  ASVAB  Test  Form  5-7  or  8-14 
+
+
+Froa  11  1 
+
+led  Scores)*! 
+
+1 
+
+.361  1 
+
+483  1 
+
+1 
+
+CT,  CL,  | 
+
+CO,  MM)  1 
+
+1 
+
+.360  1 
+
+483  1 
+
+1 
+
+.  CL,  SC,  1 
+
+OF,  AFQT)  1 
+
+.361  1 
+
+483  1 
+
+0 
+
+0 
+
+U 
+
+o  CO  r» 
+
+U  fb  «> 
+
+to  m  x 
+
+bb  • 
+
+-*  TJ 
+
+0 
+
+bb  lb 
+
+g  5 
+
+•J  - 
+
+H  - 
+to  o 
+
+3  5 
+
+w  to 
+
+v  o 
+
+w  O 
+
+Ex 
+
+o  a 
+
+
+di 
+
+e*8 
+
+~3  • 
+UJ  U. 
+
+w  o 
+
+
+tS  & 
+
+V)  U, 
+
+d  u. 
+
+
+3  3 
+
+w*  I/I 
+
+
+d5 
+
+G*8 
+
+J  • 
+pj  u. 
+w  O 
+
+
+J& 
+
+to  U, 
+
+d  uT 
+
+
+H  • 
+V)  o 
+
+W  u 
+
+
+3  3 
+
+w  co 
+
+
+m  o 
+o 
+
+0  X 
+
+0 
+
+u  -a 
+u.  c 
+
+H  e 
+
+X  u 
+«/> 
+
+
+O'  x 
+
+N 
+
+
+b8 
+
+
+u  & 
+
+V)  Uj 
+
+d  uT 
+
+O 
+
+H  • 
+C/5  O 
+
+
+o  c 
+u.  0 
+> 
+
+u<  UJ 
+
+
+U  H 
+
+tn  O' 
+
+^  n 
+
+*  mm 
+
+•  3  n  n 
+
+H  ^  (N 
+
+t-*  -  <N  fN 
+
+OO 
+
+fJ  -  4  N 
+
+U  u.  mm 
+
+U 
+
+H  - 
+
+to  o 
+
+Q 
+
+w  °  « 
+
+o 
+
+ds 
+
+Go 
+
+
+U  Ui 
+
+w  O 
+
+
+U  O' 
+to  U, 
+
+
+0 
+
+—  o 
+
+
+C_8 
+
+►J  * 
+u  u. 
+
+w  O 
+
+
+O  X 
+
+O  n 
+x  in 
+
+
+u  & 
+
+(O  U, 
+
+duT 
+
+o 
+H  • 
+
+V)  O 
+w  U 
+
+
+IS 
+
+o 
+
+
+d5 
+
+•  m  «o 
+
+6*  <0  H 
+
+8  "  ^ 
+
+
+u  & 
+
+to  Uj 
+
+duT 
+
+
+H  • 
+CO  o 
+w  u 
+
+
+O'  CO 
+x  m 
+
+fO  bb 
+
+
+bb 
+
+u*  & 
+
+di 
+
+to 
+
+•  X  « 
+
+«  oo 
+
+m.  m  bb 
+
+O  b»  m 
+
+H  *  X  — • 
+
+C  8  b  - 
+
+Du.  x  m 
+
+o  • 
+
+UJ  U. 
+
+CO  O 
+
+u-  O 
+
+w  u 
+
+k> 
+
+lb 
+
+o 
+
+o 
+
+U  0 
+
+U  0 
+
+bb  44  MEM 
+
+U  0 
+
+bb  64  MEN 
+
+T3  0  m  m  m 
+
+y  0 
+
+■o  0 
+
+M 
+
+u 
+
+a. 
+
+o> 
+
+a. 
+
+O 
+
+O' 
+
+7  2 
+
+■a 
+
+0  o  o  * 
+
+o  o  o 
+
+It-  oc  u 
+
+0  &•  0 
+o  a  r 
+u  a  *  m 
+
+a  3  c  TJ  < 
+
+t-  O  m  0  > 
+
+u  9 
+
+a « 
+
+ti  m 
+
+b  lb 
+
+
+ii5 
+
+s 
+
+
+v  a 
+
+
+.  •  u 
+
+a  s*-  a 
+
+o  sc  or  0 
+
+0  fcs  UJ  9 
+0  a  fc>  C  0 
+bb  0.  UJ  o  X 
+4J  9  bb  44 
+
+a  tj  u 
+o  w  e  «  v 
+
+•  «  -H  p 
+
+J  -  - 
+
+
+_  b  o 
+O  u-  Q 
+O 
+
+
+t  V  - 
+b  bit  I 
+X  ui  0  0 
+
+U  ■  <b  L 
+
+•  0 
+
+»  u  V  ■b 
+
+0000 
+/n  u  a  « 
+
+co  •  -*  6. 
+
+<  m  0 
+CO  Oul  m  O 
+
+w>u  ^  a  o 
+o  a  — 
+
+
+o  e 
+
+u  x  o 
+
+
+a 
+
+44  0 
+*-  0 
+
+
+m 
+
+0  u 
+0 
+
+
+use 
+0  o.  0 
+
+9  b<  *o 
+
+
+*  X 
+
+
+0  0  ►» 
+a  •  o  *h 
+
+«  -»  e 
+a  u  o  bj  o 
+
+<«>-<« 
+
+>  JD  H  » 
+-I  *  K  o 
+
+a  u  — 1 1  t»  •-* 
+
+o  o  u 
+
+
+b  a  •  <b  A 
+
+o  -<  o  n 
+
+u  £  H 
+
+u  a  b  b 
+
+to  x  v  m 
+
+M  U  Sb  ► 
+
+3  Ot  1 
+
+fib  TP  *4  «b 
+
+UJ  4  >  H  J 
+
+H  >  —  m  •* 
+
+W  H  o  J 
+
+o  >  o 
+
+o  a  a  0  u» 
+
+O  0  «H  X 
+
+K  —  U  S 
+
+o-  •  5 
+
+•o  c  u  x 
+
+0  4  0  0 
+
+a  u  b  <b  4 
+
+
+t»  0 
+
+•o  41  t- 
+
+0  w  a  o 
+
+p  bb  o  9  «b< 
+
+4  4  O  4  p 
+
+0  *n  0 
+
+ui  o  *o  o- 
+X  0  •  4 
+
+O  44  ^  0 
+
+«  a  *n  o 
+
+•  x  0  0  -b 
+
+O  ui  O  u» 
+
+
+»  W  b  b 
+
+4#  e  e  cm 
+
+9  «b  0  *-< 
+
+
+•  V  4  ct  fl 
+
+H  U  X  «r 
+
+X  o  UI  o  TJ 
+
+«  t-  ' 
+
+*4  a 
+
+
+v 
+
+w~* 
+
+3 
+
+
+> 
+
+u 
+
+H 
+
+
+0 
+
+o 
+
+z 
+
+o 
+
+r 
+
+
+Ml 
+
+TJ 
+
+O 
+
+X 
+
+
+o 
+
+i  0 
+
+
+N 
+
+I 
+
+
+bb  bb  «| 
+
+
+m  «  •-*  o 
+
+►  w  *n  «  a 
+
+X  9  CO 
+4  U  b  « 
+
+o  o  *n  e 
+
+b  b  M  0  u 
+
+u  O  0  «  o 
+
+3  ^  I  r-  cX 
+•  ^■01 
+
+4  C  4in  s 
+a.  9  w  0 
+
+C  «  «  >H 
+
+0  0  0  0  9 
+
+m  -  c  y 
+
+cu  u  o  to 
+
+b  IA  •  U. 
+
+ui  <  0  «Q 
+
+rb  t/>  V  < 
+
+9  0  *  > 
+
+0  0  UI  Cl  10 
+
+X  X  t-  < 
+
+
+bb  bt  W  bbl  0 
+
+3s  S£-SU 
+
+
+O'! « 
+
+
+W  0 
+0  > 
+0 
+
+
+0  UI 
+-b  C 
+0 
+
+0  0 
+
+44  0 
+
+fc* 
+
+u»  T) 
+
+
+km  a. 
+
+0  0 
+
+x  d  «  * 
+
+u  b  O  4 
+o  e  —  u 
+ul  0  0 
+0  0  3  x 
+
+0  0  M 
+O  U  tJ  U 
+4-  0  0 
+
+v  0  ui  aa 
+9  0  3 
+i  >  a  0 
+
+I  0  0 
+
+0  0  0  to 
+c  x  o 
+o 
+
+b-  z  o  • 
+
+44  UJ  0  0 
+
+0  >  o- 
+
+b  U  «  b 
+
+0  X 
+
+4  0  4  1 
+U  C  U  D 
+0  0  0  0 
+V  »  bb 
+
+O  44 
+
+0  O  0  0 
+
+O  1  -b 
+
+a  C  4 
+
+-<  0  ©  t- 
+
+44  W  «M 
+
+-b  c  *o 
+
+2—  UI  0 
+CO  0  0 
+
+0  bb 
+
+0  44  0 
+
+H  •  44 
+
+X  *0  0  x 
+0  0  0  O 
+
+44  *4  « 
+
+0  0X0 
+
+■  44  X 
+0  -b  44 
+W  44  U 
+0  0  0  «4- 
+
+44  0  U-  O 
+X 
+
+O  44  0  »N 
+
+X  0  UI 
+
+O  (0  U  b 
+
+w  b  O  -O 
+0  <J  -* 
+
+44  9  tO  —I 
+
+0  9 
+
+X  4-  *TJ  ► 
+
+UJ  0  0 
+
+a.  ~b  v 
+
+U  0  X 
+
+0  0  U  44 
+
+44  C  tO 
+
+9  0  U 
+
+to 
+
+C  >  to  UI 
+
+b4  u  -d  U 
+
+0  o  • 
+
+b-K  0  k  a  x 
+
+O'  X  b  {tb 
+
+X  O  0  3 
+
+O'  0  • 
+
+b  O  U  O 
+
+rb  •  T>  Z 
+
+M  J(  4>  . 
+
+t-  b  t  e 
+0  0  0  •  X 
+
+X  *b  X  O' 
+*i  9  44  Cl  b 
+
+W.  B  TJ 
+
+0  -  ce  b-  • 
+
+80  K  0  »  44 
+
+o  b*  o  e 
+•  u  >  t-  0 
+
+0  a-b  a  e 
+
+0  0-0  0 
+0  >  0  — 
+
+x  a  ui  a 
+m  0  •*  a 
+
+b-  X  0  3 
+
+t-  0  a  in 
+
+9-oct 
+>  bb  o  O  X, 
+
+n  w4  u.  al 
+
+U  o  UI  0 
+
+o  X  0  44  U 
+
+44  0  rb  0  CO 
+
+U  0  0  0 
+
+bb  V  ki  H  C 
+
+*3  t-  I-  0 
+
+0  0  o  bb  r 
+
+U  X  O  bb 
+
+0  *3 
+
+«M  -  ^b  -O  b- 
+
+o  •  a  c  u 
+
+0  b-  9  41 
+Cl  •  44  0 
+
+0  bb  v  e 
+
+X  9  0  0 
+
+0  -  0  c  X 
+
+3  0  O  Cl 
+
+a  n  0  u.  ►. 
+
+x  0 
+
+XU  0 
+44  0  b  0 
+
+0  X  H  • 
+
+0  U  U  0 
+
+0  a  0  i*  o 
+
+Q.  0  0  bb 
+
+U  9  X  44 
+
+0  44  0 
+
+t  t  c  o  t 
+C  -»  O  b- 
+0  P  b  Cl  b 
+0  44  x  9 
+
+«  x  9  ui  p 
+
+N  0  >  | 
+
+bb  U  I-  0 
+
+0  0  0  0  0 
+
+bb  0  u-  o 
+
+0  44  X  U 
+
+bb  0  O  to  U 
+
+b.  U  < 
+
+9  0  to  «M 
+
+W  IN  0 
+9  *>»  b  «M 
+
+Z  0  9 
+
+
+bb  X  0  -« 
+
+
+O  3 
+** 
+
+--  t 
+
+
+X  0  -«  U4  0 
+
+44  X  0  fit  W 
+
+44  W  <  0 
+
+s  i  s§  a 
+
+Z  332  £ 
+
+x  a  u  u 
+
+u4  g  a  o  0 
+
+b-  9  a.  m  x 
+
+3  0  0  a.  p 
+
+u 
+
+
+21 
+
+
+a 
+
+3 
+
+
+3 
+
+> 
+
+3 
+
+
+C  — 
+«l  I 
+TJ  CD 
+
+
+z  e 
+
+
+ft  > 
+
+Z  3 
+
+
+■D  M 
+*>  0 
+cj  O 
+
+
+—  o 
+
+*  £ 
+m  5 
+
+
+8 
+
+0 
+
+U  cm  f  O  m 
+*4  u  m  to 
+on  mm 
+
+U  O  II 
+
+r  IZ 
+
+•  o  3 
+
+VI  o  vi 
+
+o 
+
+1  5 
+
+o  VI  m  00 
+
+Of  m  m 
+
+V  « 
+
+B  0 
+
+O  3 
+i4  m 
+«M 
+
+CM 
+
+VI 
+
+O  CM 
+
+X  f 
+
+0  M 
+
+»  O  U  Cm  fl 
+
+&  9  S5R 
+
+O  u  • 
+
+•OX 
+
+Vi  3 
+
+ur 
+
+-  *4 
+
+O  *4 
+
+O 
+
+z 
+
+ss 
+
+m  m 
+
+
+i 
+
+
+“15 
+
+*03 
+
+in  o  vi 
+
+O 
+
+
+U  Cm 
+
+r 
+
+c  « 
+
+» 5  “ 
+
+
+in 
+
+
+B  II  <0  ffi 
+
+o  u  n  n 
+O  X  • 
+
+3 
+
+
+C  r 
+0  f 
+
+IZ 
+
+
+®0  CM 
+O  XT' 
+
+m  rs 
+
+
+§ : 
+
+o  •> 
+
+O  V 
+u 
+
+a  x 
+
+O  3 
+ft*  V) 
+
+
+O  CM 
+r>  <* 
+m  cm 
+
+
+O  cm 
+
+X 
+
+c  • 
+
+*  o  V 
+
+X  H  vi  *r»  CM 
+£  I  «  n  O' 
+o  u  n  n 
+»y  jo  • 
+
+V)  3 
+19  (  V) 
+
+O 
+
+*  I* 
+o  *4 
+
+
+Of  NO* 
+
+i  z  t* 
+
+
+3  5 
+
+
+»**  w  <J  cm 
+
+C  •»  O 
+
+O  O  f  r\  cm 
+
+re-' 
+
+B  -o 
+•03 
+V)  U  V) 
+
+o 
+
+
+CM  CM 
+
+O  CM 
+c-i  cm 
+
+
+C  « 
+
+*  O  u 
+
+S’  i  S2JS 
+
+o  u  n  n 
+
+-OX  i 
+VI  3 
+O  B  V) 
+
+0 
+
+•  u 
+o  »** 
+z 
+
+
+B  X 
+O  3 
+
+b  V) 
+
+
+O  O' 
+O  X 
+cn  cm 
+
+
+a  vi 
+o  f 
+
+IZ 
+
+O  3 
+U  V) 
+
+
+N  CM 
+Cm 
+
+<m  cm 
+
+
+I  2 
+
+O  V) 
+O  f 
+
+B  X 
+
+O  3 
+ft*  V) 
+
+
+cn  vx> 
+O  m 
+m  -* 
+
+
+O  u  »m  ri 
+*  u  n  h 
+
+
+O  *0 
+cm  m 
+cm 
+
+
+U  %i  — «  co 
+
+
+C  m 
+
+•  0 
+
+;■•>*>* 
+
+0  n  n  n 
+
+O  u  n  -* 
+-  U  x  • 
+
+
+O  IM 
+
+z 
+
+
+B  x 
+o  a 
+ft*  v> 
+
+
+C  VI 
+O  f 
+
+IZ 
+
+O  3 
+O  V) 
+
+
+e  vi  cm  «m 
+
+o  o  f  m  r> 
+
+r  BZ  • 
+
+•  03 
+W  U  1/1 
+
+o 
+
+
+•  x 
+
+O  3 
+ft*  V) 
+
+
+U  CM 
+
+X 
+
+a  « 
+
+•  0  u 
+
+£  I  IS: 
+
+o  «ni 
+
+•  0.0  • 
+V)  3 
+
+19  B  in 
+o 
+
+
+g~ 
+
+
+U  H  (I  o  00 
+
+£H  UNO 
+O  U  4  n 
+
+*  x  • 
+OB3 
+o  o  on 
+
+
+0  VI 
+0  f 
+
+IZ 
+
+0  3 
+o  V) 
+
+
+E2 
+
+JD 
+
+
+! 
+
+b  cm 
+
+“h 
+
+•03 
+
+in  o  vi 
+o 
+
+
+i : 
+
+
+8  X 
+
+O  3 
+u  v> 
+
+
+>*-  *-*  O'  « 
+
+e  vi  nm 
+o  o  f  cn 
+
+E  sz  • 
+
+•03 
+
+mum 
+
+o 
+
+
+a  « 
+
+•  Ob 
+
+s  l 
+
+
+o  VI 
+X  .H  f  CM  ^ 
+1  umm 
+•  X  -f  —* 
+OB3* 
+
+O  O  VJ 
+
+
+cm  VI 
+w 
+0  VI 
+
+iz 
+
+65 
+
+
+8  o 
+
+O  3 
+
+|4  V) 
+
+
+£  I  V  N  « 
+o  u  m  in 
+-oof!-* 
+V)  3  • 
+
+19  8  V» 
+o 
+
+
+•  JO  <f  -J 
+
+0  8  3* 
+o  o  m 
+
+
+v« 
+
+u 
+
+ft* 
+
+0 
+
+o 
+
+0 
+
+0 
+
+u 
+
+b 
+
+ft* 
+
+«* 
+
+U  f 
+
+u  « 
+
+•4  W  X 
+
+4-*  *-*  ■£  Z  M 
+
+•b  u  BIN 
+
+4b  W  OC  Z  M 
+
+3  V  at  Z  M 
+
+*0  f 
+
+■o  f 
+
+*0  f 
+
+V  Vi 
+
+«i  m 
+
+f  V) 
+
+f  to 
+
+u 
+
+ft* 
+
+a 
+
+a 
+
+a 
+
+a 
+
+o 
+
+?: 
+
+
+£  h  « 
+U  «4  O 
+vC  «M  V 
+
+3  > 
+
+
+CM 
+
+<0 
+
+0* 
+
+
+C 
+
+m 
+
+
+M  ►. 
+
+a  f 
+
+
+V)  w 
+<  »  - 
+
+Vi  -m  £  •* 
+
+w  l*  «  M  3 
+
+f  <— <  C 
+
+f  u  0  o  0 
+
+I*  «n  f  £. 
+
+m  u  c 
+
+3  au  «  n 
+
+b  O  V  H 
+
+«m  >  i  • 
+Of  i-  vi 
+
+m  jc  u  u 
+
+v  o  *0 
+
+«  U  |l  u 
+
+•*-  0  U  C  * 
+
+VI  (I  -4  -*4  -H 
+
+►.  X  TJ  f  v 
+
+*M  )  II  U  V 
+
+“  i.  0  w 
+
+a  o  vi 
+
+
+s 
+
+!n 
+
+
+«  n  r. 
+
+
+-1  U  «.  10 
+
+•j  m  oo  o  o 
+
+vi  >  e 
+
+**  *<  ►>  0 
+
+U  U  >  U  X 
+
+f  O  *M  *4  c 
+
+b/wOT3>- 
+VI  O  >  « 
+
+-4  O  ft- 
+
+f  *tj  -4  n 
+
+z  f  > 
+
+«  14  C 
+
+a  o  f  o- 
+
+*•-  4H  x: 
+
+O  **-  u  u  • 
+Of  l- 
+UJ  -c  V.  f 
+
+V)  u  «  O  B 
+
+«  |4  M4  « 
+
+3  vi  U  z 
+
+D-  0 
+
+UJ  o  ^ 
+
+H  f  0 
+
+v>  £  ii  a  v 
+
+*-*  —  0  f 
+
+O  ft  3  W 
+O  -o  —  vi 
+
+K  I  b 
+
+ft-  >  *"  ' 
+
+??  ■ 
+
+
+P  b  v  > 
+
+C  u  v  0 
+
+
+u  r 
+
+
+a 
+
+a  — 
+
+f  I 
+
+
+<  "D 
+
+c 
+
+
+O  *  U  CM  — 
+
+*4  *  ft  I 
+
+U  f  in  c 
+
+*0  3  0  o 
+
+f  *D  O  B  M 
+
+c  f  f  C 
+
+O  w  O  I 
+
+f  o  e  u.  . 
+
+
+o  «  m 
+•  x  f  — 
+•  «c  b  H 
+
+5  £ 
+
+>  U  M  u  •• 
+
+0  0  f 
+u  b  <M  H 
+f  O  *0  3 
+
+•**ig  E 
+
+f  o  <  O 
+
+•M  f  K  O  M4 
+
+•0  3  0  O' 
+
+2  s  i  a  z 
+
+o  a  *0  « 
+
+f  f  o 
+
+►  vi  u  o 
+
+<  f  K  0 
+bin  ■  o. 
+o  «•*  *o 
+
+u  z  «  e  w 
+
+•P4  «J  «  3 
+
+*o  •  a 
+
+v  o  vi  s  a 
+
+14  b  II  O 
+
+a  x  vi  o 
+H  M  II 
+a  «  -4  >  V 
+
+~4  *0  v  -c  U 
+■  C  3  f  - 
+
+
+g~x  * 
+
+B  O  Z  Vi 
+
+o  u  v 
+U  w<  >  3 
+V  «  UJ  ~4 
+U  0  N  f 
+
+fo  > 
+
+o 
+
+<  C  O  Ml 
+X 
+
+
+0 
+
+f 
+
+
+/v| 
+
+
+M  -O 
+—  f 
+
+
+f  f 
+
+•b  > 
+
+f 
+
+
+> 
+
+0  -l 
+
+3  f 
+
+b  x 
+
+
+O  &. 
+
+
+22 
+
+
+Results  presented  in  row  3,  column  10,  Table  14)  represent  the  "best" 
+subset  of  the  common  7  Subtest  predictors  which  Involved  all  available  data 
+(Test  Forms  5-14).  Again,  as  before,  other  results  cited  in  row  3  address 
+issues  of  validity  and  generality  of  findings  with  different  data. 
+
+Results  presented  in  row  4  (table  14)  indicate  the  "best"  subset  of 
+Subtest  predictors  using  all  available  Subtests  for  the  particular  ASVAB  test 
+forms  indicated.  Again,  results  for  random  halves  address  the  issue  of 
+validity. 
+
+Finally  results  presented  in  row  5  (Table  14)  present  the  multiple 
+correlations  involving  all  common  7  Subtest  predictors.  These  results  were 
+obtained  by  using  PROC  RSQUARE  of  SAS. 
+
+Major  Findings.  For  correlations  involving  ASVAB  Scaled  Scores 
+(Composites  and  AFQT)  the  best  predictor  set  is  defined  by  a  single  Composite 
+(GM)  with  a  magnitude  of  about  .36  (Table  13).  A  multiple  correlation  of 
+comparable  magnitude  (.35)  is  obtained  for  a  Subtest  predictor  set  of  4  (NO, 
+
+CS,  MK,MC)  out  of  seven  Common  Subtests  when  data  from  all  test  forms  (5-14) 
+are  used  (Table  14). 
+
+It  is  particularly  encouraging  to  note  that  none  of  the  Z  tests  which 
+compare  multiple  correlations  for  random  halves  are  significant.  As  with 
+findings  involving  individual  ASVAB  Scaled  Scores  and  Subtests,  this  finding  is 
+consistent  with  an  inference  concerning  the  validity  of  the  reported 
+relationships . 
+
+Differential  Weighting  Correlations 
+
+In  attempting  to  determine  the  relationship  among  predictive  and  criterion 
+variables,  it  seems  reasonable  to  ask  whether  weighting  different  values  of  the 
+predictor  variables  by  values  other  than  one  might  improve  the  apparent 
+relationship.  As  repeatedly  emphasized  in  this  report  the  concern  has  been  on 
+both  documenting  the  relationships  as  well  as  providing  results  which  point  to 
+the  validity  of  those  relationships.  The  METHOD  section  has  described  the 
+procedure  used  and  the  rationale.  For  each  ASVAB  Scaled  Score  or  Subtest, 
+Tables  15  and  16  show:  1)  the  different  correlations  computed;  2)  the  F  test 
+which  assesses  the  statistical  significance  of  the  correlations,  3)  the  sample 
+size  (Ip  on  which  the  correlation  is  based;  4)  the  number  of  weights  (K) 
+estimated  in  computing  the  correlations;  and  5)  where  appropriate,  Z  tests  to 
+assess  the  significance  of  differences  among  correlations.  In  order,  by 
+numbered  column,  Tables  15  and  16  show:  1)  the  ASVAB  Scaled  Score  or  Subtest; 
+
+2)  columns  2  through  6  show  correlations  when  the  total  sample  of  available 
+data  is  used;  and  3)  columns  7  and  8  are  based  on  ODD  and  EVEN  halves  of  the 
+data,  respectively.  Column  2  shows  the  standard  Pearson  correlations  where 
+each  predictor  variable  score  is  weighted  by  1.  Columns  3  and  4  show  modified 
+Pearson  correlations  where  weights  for  different  categories  of  predictor 
+variable  scores  have  been  estimated  so  as  to  make  the  reported  correlations  a 
+maximum;  correlations  reported  in  column  4  generally  use  almost  twice  as  many 
+categories  as  for  the  correlations  reported  in  column  3.  Correlations  reported 
+in  columns  7  and  8  were  computed  using  the  same  categories  for  the  predictor 
+variables  as  used  for  correlations  reported  in  column  3  but  for  random  halves 
+of  the  data.  Category  weights  estimated  for  correlations  reported  in  columns  7 
+
+
+23 
+
+
+Table  15 
+
+
+Correlations  Between  Weighted  and  Unweighted  ASVAB  Scaled  Score  Predictors  and  Vehicle 
+Identification  Performance 
+
+
+Correlations  for  Half 
+
+
+ASVAB 
+
+Scaled 
+
+Scores 
+
+(1) 
+
+! 
+
+! 
+
+1 
+
+! 
+
+1  Unweighted3 
+
+1  (2) 
+
+Correlations  for  Total  Sample 
+
+Using  Wts 
+In  Column 
+
+Weighted3  Weighted3  ODD  Halfb 
+(3)  (4)  (5) 
+
+.  Estimated 
+(7)  and  (8) 
+EVEN  Half “ 
+(6) 
+
+Samples  (ODD  Half  and 
+EVEN  Half)  Using  Wts. 
+Estimated  from: 
+
+ODD  Half  b  EVEN  Halfb 
+(7)  (8) 
+
+AFQT  r 
+
+.307c 
+
+•  326c 
+
+.354c 
+
+.301 
+
+.302 
+
+.355  .352 
+
+Fd 
+
+60.25** 
+
+4.19** 
+
+2.54** 
+
+57.68** 
+
+58.11** 
+
+2.47**  2.41** 
+
+Ne 
+
+K  (No. 
+
+Wgts. 
+
+581 
+
+581 
+
+581 
+
+581 
+
+581 
+
+291  290 
+
+Est . ) 
+Zg 
+
+f 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.02 
+
+16  16 
+.04 
+
+CO  r 
+
+.  302c 
+
+•  348c 
+
+•  383c 
+
+.318 
+
+.328 
+
+.333  .419 
+
+F 
+
+58.31** 
+
+4.87** 
+
+3.06** 
+
+65.36** 
+
+70.04** 
+
+2.14**  3.65** 
+
+N 
+
+K  (No. 
+
+Wgts. 
+
+583 
+
+583 
+
+583 
+
+583 
+
+583 
+
+292  291 
+
+Est . ) 
+Z 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.06 
+
+16  16 
+
+1.21 
+
+FA  r 
+
+.  296c 
+
+•  353c 
+
+.379° 
+
+.316 
+
+.300 
+
+.428  .373 
+
+F 
+
+55.79** 
+
+5.04** 
+
+2.98** 
+
+64.45** 
+
+57.46** 
+
+3.85**  2.77** 
+
+N 
+
+K  (No. 
+
+Wgts. 
+
+583 
+
+583 
+
+583 
+
+583 
+
+583 
+
+292  291 
+
+Est . ) 
+Z 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.32 
+
+16  16 
+.78 
+
+MM  r 
+
+•  287c 
+
+.  34  lc 
+
+.  38 1 c 
+
+.314 
+
+.314 
+
+.390  .354 
+
+F 
+
+52.69** 
+
+4.70** 
+
+3.05** 
+
+64.21** 
+
+64.21** 
+
+3.12**  2.48** 
+
+N 
+
+K  (No. 
+
+Wgts. 
+
+589 
+
+589 
+
+589 
+
+589 
+
+589 
+
+295  294 
+
+Est . ) 
+Z 
+
+1 
+
+16 
+
+31 
+
+1  1 
+
+0 
+
+16  16 
+.50 
+
+GM  r 
+
+•  336c 
+
+•  368c 
+
+.395° 
+
+.340 
+
+.353 
+
+.346  .430 
+
+F 
+
+74.32** 
+
+5.57** 
+
+3.30** 
+
+76.33** 
+
+83.13** 
+
+2.35**  3.91** 
+
+N 
+
+K  (No. 
+
+Wgts  • 
+
+586 
+
+586 
+
+586 
+
+586 
+
+586 
+
+293  293 
+
+Est . ) 
+Z 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.26 
+
+16  16 
+
+1.19 
+
+24 
+
+
+Table  15  (cont'd) 
+
+
+— r~ 
+
+i 
+
+i 
+
+Correlations  for  Total 
+
+Sample 
+
+- r 
+
+i 
+
+i 
+
+Correlations  for  Half 
+Samples  (ODD  Half  and 
+EVEN  Half)  Using  Wts. 
+
+ASVAB 
+
+Scaled 
+
+Scores 
+
+Cl) 
+
+i 
+
+i 
+
+i 
+
+| Unweighted 
+
+1  (2) 
+
+Weighted 
+
+(3) 
+
+Weighted 
+
+(4) 
+
+Using  Wts. 
+In  Column 
+ODD  Half 
+(5) 
+
+Estimated 
+(7)  &  (8);! 
+EVEN  Half  1 
+
+(6)  t 
+
+Estimated  from: 
+
+ODD  Half  EVEN  Half 
+(7)  (8) 
+
+CL  r 
+
+F 
+
+N 
+
+.212c 
+
+27.39** 
+
+584 
+
+.258c 
+
+2.53** 
+
+584 
+
+•  303c 
+1.80** 
+
+584 
+
+.208 
+
+26.32** 
+
+584 
+
+.228 
+
+31.91** 
+
+584 
+
+.258 
+
+1.23 
+
+292 
+
+.347 
+
+2.35** 
+
+292 
+
+K  (No. 
+Est  • ) 
+Z 
+
+Wgts. 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.34 
+
+16 
+
+1. 
+
+16 
+
+18 
+
+GT  r 
+
+F 
+
+N 
+
+.26  lc 
+45.03** 
+618 
+
+.283c 
+
+3.27** 
+
+618 
+
+.  3 1 7  c 
+2.11** 
+618 
+
+.257 
+
+43.56** 
+
+618 
+
+.250 
+
+41.07** 
+
+618 
+
+.310 
+
+1.94* 
+
+309 
+
+.315 
+
+2.01* 
+
+309 
+
+K  (No. 
+Est . ) 
+Z 
+
+Wgts. 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.12 
+
+16 
+
+16 
+
+07 
+
+EL  r 
+
+F 
+
+N 
+
+.  326c 
+69.09** 
+583 
+
+« 354c 
+5.07** 
+583 
+
+•  387c 
+3.13** 
+583 
+
+.324 
+
+68.14** 
+
+583 
+
+.326 
+
+69.09** 
+
+583 
+
+.390 
+
+3.08** 
+
+292 
+
+.379 
+
+2.87** 
+
+291 
+
+K  (No. 
+ESt*; 
+Z 
+
+Wgts . 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.04 
+
+16 
+
+16 
+
+.16 
+
+SC  r 
+F 
+N 
+
+.  305c 
+
+59.80** 
+
+585 
+
+.  32 1 c 
+4.08** 
+585 
+
+.  353c 
+2.54** 
+585 
+
+.305 
+
+59.80** 
+
+585 
+
+.289 
+
+53.13** 
+
+585 
+
+.371 
+
+2.75** 
+
+293 
+
+.321 
+
+1.97* 
+
+292 
+
+K  (No. 
+Est . ; 
+
+z 
+
+Wgts. 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+..29 
+
+16 
+
+16 
+
+.69 
+
+ST  r 
+F 
+N 
+
+.  31 6C 
+64.79** 
+586 
+
+.359c 
+
+5.26** 
+
+586 
+
+.  39  7  c 
+3.34** 
+586 
+
+.332 
+
+72.34** 
+
+586 
+
+.342 
+
+77.35** 
+
+586 
+
+.363 
+
+2.62** 
+
+293 
+
+.402 
+
+3.33** 
+
+293 
+
+K  (No. 
+Est  ♦ 
+
+Z 
+
+Wgts. 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.19 
+
+16 
+
+16 
+
+.55 
+
+OF  r 
+F 
+N 
+
+•  282c 
+50.71** 
+589 
+
+.356h 
+
+5.19** 
+
+589 
+
+.394h 
+
+3.30** 
+
+589 
+
+.345 
+
+79.31** 
+
+589 
+
+.336 
+
+74.70** 
+
+589 
+
+.432 
+
+3.99** 
+
+295 
+
+.313 
+
+1.88* 
+
+294 
+
+K  (No. 
+Est. 
+
+z 
+
+Wgts. 
+
+) 
+
+1 
+
+16 
+
+31 
+
+1 
+
+1 
+
+.18 
+
+16 
+
+1 
+
+16 
+
+.67 
+
+25 
+
+
+Table  15  (cont'd) 
+
+
+Note :  Predictor  variable  categories  and  weights  estimated  for  each  category  will 
+be  provided  on  request. 
+
+a  The  significance  of  difference  among  weighted  and  unweighted  correlations  was 
+estimated  with  the  £  statistic.  For  these  evaluations 
+
+F  -  [(R2!  ~  R22)  /  ~  K2)]  /  [(1“R2]_)  /  (N  -  Kx  -  1)],  with  £  evaluated  on 
+
+Kj-  K2  and  N-K^-l  degrees  of  freedom. 
+
+k  Only  the  slope  coefficient  used  in  computing  the  usual  Pearson  correlation  was 
+estimated  in  this  computation.  Predictor  variable  scores  were  transformed  with 
+weights  estimated  during  calculation  of  correlations  reported  in  the  last  two 
+columns  of  this  table. 
+
+c  Superscripts  for  these  correlations  which  are  the  same  indicate  no  significant 
+differences — £>.05 — ;  where  superscripts  are  different,  ££.05.  See  McNemar,  Q., 
+Psychological  Statistics,  John  Wiley  and  Sons,  Inc.  (3rd  Edition)  1962,  p.  284. 
+
+^  The  significance  of  each  individual  correlation  was  estimated  with  the  £ 
+statistic.  For  these  evaluations 
+
+£  ■  [R^  /  (1  -  R2 ) ] [ (N-K-l )  /  K],  with  £  evaluated  on  K  and  N-K-l  degrees  of 
+freedom. 
+
+See  McNemar,  Q.  Psychological  Statistics,  John  Wiley  and  Sons, 
+
+Inc.  (3rd  Edition),  1962,  p.  283. 
+
+e  N  values  tabled  are  the  number  of  pairs  of  observations  used  in  computing  the 
+tabled  correlations. 
+
+^  Number  of  weights  estimated  includes  weights  for  each  predictor  variable 
+category  of  weighted  correlations  plus  the  slope  coefficient  used  in  computing 
+the  Pearson  correlation. 
+
+R  The  significance  of  difference  between  independent  correlations  based  on  ODD 
+and  EVEN  sample  halves  was  estimated  with  Z  statistic.  For  these  evaluations 
+
+
+For  two-tailed  tests,  |  Z  I  £  1.96  is  significant  at  £  £  .05;  when  I  Z  |  £ 
+
+2.58,  j>  £  .01.  See  McNemar,  Q.  Psychological  Statistics,  John  Wiley  and  Sons,  Inc. 
+(3rd  Edition)  1962,  pp  139-140. 
+
+**  See  Note  c  above. 
+
+*£  <.05.  **  £  <.01  All  tests  are  two-tailed. 
+
+
+26 
+
+
+and  8  for  ODD  and  EVEN  sample  halves,  respectively,  were  used  to  compute 
+correlations  for  the  total  sample  reported  in  columns  5  and  6.  The  correlations 
+reported  in  column  2  are  also  found  in  Tables  10  and  11.  They  have  been  repeated 
+here  to  facilitate  comparisons  with  the  differentially  weighted  correlations. 
+
+Inspection  of  Table  15  indicates  that  the  Scaled  Score  correlations 
+obtained  (weighted  and  unweighted)  are  generally  statistically  significant  (£ 
+
+<.05).  Except  for  the  NO,  CS,  AD,  CM,  CA  and  CE  Subtests,  the  same  conclusion  is 
+reached  from  review  of  Subtest  correlations  in  Table  16.  In  almost  every  case  using 
+estimated  weights  to  selected  categories  of  ASVAB  predictors  does  lead  to  increases 
+in  the  absolute  value  of  the  obtained  correlations.  Generally  use  of  more  weights 
+leads  to  increases  in  the  absolute  value  of  resulting  correlations. 
+
+For  each  of  the  31  ASVAB  predictors  (Scaled  Scores  and  Subtest  Scores),  a 
+total  of  93  correlations  were  subjected  to  evaluation  for  test  of  significance 
+differences — three  correlations  per  predictor.  As  noted  above,  one  of  these 
+correlations  was  the  simple  unweighted  (Pearson)  correlation;  the  remaining  two 
+were  Pearson-type  correlations  obtained  for  weighted  aptitude  values  and 
+performance.  Only  for  the  OF  Composite  Scaled  Score  did  differential  weighting  lead 
+to  a  statistically  larger  (£<.05)  correlational  value  compared  to  the  unweighted 
+correlation.  Differential  weighting  led  to  significantly  larger  correlations  for 
+the  GS,  AS,  GI  and  CC  Subtests.  Of  the  93  comparisons,  ten  were  statistically 
+significant . 
+
+In  order  to  address  the  validity  of  correlations  obtained  with  differential 
+weighting  (columns  3  and  4,  Tables  15  and  16),  correlations  (with  weighting)  were 
+obtained  for  ODD  and  EVEN  halves  of  randomly  sorted  data  (columns  7  and  8,  Tables 
+15  and  16)  and  then  the  weights  (for  predictor  variable  categories)  estimated 
+during  the  computational  procedure  were  used  to  compute  Pearson-type  correlations 
+for  the  entire  set  of  available  data  (columns  5  and  6,  Tables  15  and  16).  Tables 
+15  and  16  show  the  results  of  Z  tests  used  to  assess  the  significance  of 
+differences  in  correlations  for  each  ASVAB  scale.  For  the  ASVAB  Scaled  Scores  no 
+significant  differences  in  correlations  for  ODD  and  EVEN  halves  occurred;  for  the 
+ASVAB  Subtests  seven  of  the  40  comparisons  reported  were  statistically  significant 
+(£<  .05)  . 
+
+Discriminant  Analyses 
+
+As  research  with  the  CVI  Training  Systems  progressed,  it  became  increasingly 
+apparent  that  the  acquisition  of  R&I  skills  is  a  difficult  task  and  retention  is 
+low.  Given  these  circumstances  and  the  importance  of  R&I  skills  on  the  modern 
+battlefield,  it  seemed  relevant  in  earlier  research  (Smith  et  al.  1987a,  Smith  et 
+al  1987b)  to  ask  about  the  importance  of  individual  soldier  capability  differences. 
+Large  standard  deviations  of  performance  indicated  a  large  amount  of  individual 
+performance  variability.  In  the  cited  research  this  observation  prompted  a  closer 
+look  at  the  performance  of  individual  soldiers  who  had  been  exposed  to  repeated 
+training.  Examination  of  scatterplots  of  identification  performance  following  the 
+first  training  session  and  subsequent  sessions  seemed  to  indicate  that  soldiers  who 
+performed  relatively  poorly  after  the  first  session  tended  to  show  smaller 
+performance  increases  with  subsequent  training.  These  initial  impressions  led  to 
+more  definitive  analyses  in  which  soldier  performance  following  the  first  training 
+session  served  as  a  basis  for  categorizing  them  as  "low"  or  "high"  achievers. 
+
+
+27 
+
+
+Table  16 
+
+
+Correlations  Between  Weighted  and  Unweighted  ASVAB  Subtest  Predictors  (Percent  Correct) 
+and  Vehicle  Identification  Performance 
+
+
+ASVAB 
+
+Subtest 
+
+(1) 
+
+I 
+
+1 
+
+1 
+
+1 
+
+1 
+
+I  Unweighted' 
+
+i  (2) 
+
+Correlations  for  Total  Sample 
+
+Using  Wts 
+in  Column 
+
+Weighted3  Weighted3  ODD  Halfb 
+(3)  (4)  (5) 
+
+.  Estimated 
+(7)  6  (8): 
+EVEN  Hal f b 
+(6) 
+
+Correlations  for  Hal 
+Samples  (ODD  Half  an 
+EVEN  Half)  Using  Wts 
+Estimated  from: 
+
+ODD  Half b  EVEN  Half 
+(7)  (8) 
+
+GS  r 
+
+.333c 
+
+•  383h 
+
+.413d 
+
+.367 
+
+.367 
+
+.416 
+
+.381 
+
+Fd 
+
+73.46** 
+
+7.07** 
+
+5.31** 
+
+91.68** 
+
+91.68** 
+
+4.20** 
+
+3.40** 
+
+Ne 
+
+591 
+
+591 
+
+591 
+
+591 
+
+591 
+
+296 
+
+295 
+
+K  (No. 
+
+Wgts 
+
+• 
+
+Est . ) 
+
+f 
+
+1 
+
+14 
+
+22 
+
+1 
+
+1 
+
+14 
+
+14 
+
+zs 
+
+0 
+
+.0 
+
+.51 
+
+AR  r 
+
+•  229c 
+
+•  261c 
+
+.  260c 
+
+.216 
+
+.227 
+
+.278 
+
+.346 
+
+F 
+
+32.27** 
+
+3.48** 
+
+1.77* 
+
+28.53** 
+
+31.67** 
+
+1 .95* 
+
+3.16** 
+
+N 
+
+585 
+
+585 
+
+585 
+
+585 
+
+585 
+
+293 
+
+292 
+
+K  (No. 
+
+Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+12 
+
+23 
+
+1 
+
+1 
+
+12 
+
+12 
+
+Z 
+
+.19 
+
+.91 
+
+WK  r 
+
+.  2  7 1 c 
+
+.290c 
+
+.  306c 
+
+.258 
+
+.256 
+
+.325 
+
+.331 
+
+F 
+
+46.76** 
+
+4.08** 
+
+2.44** 
+
+42.07** 
+
+41.38** 
+
+2.56** 
+
+2.67** 
+
+N 
+
+592 
+
+592 
+
+592 
+
+592 
+
+592 
+
+296 
+
+296 
+
+K  (No. 
+
+Wgts 
+
+• 
+
+Est.) 
+
+1 
+
+13 
+
+24 
+
+1 
+
+1 
+
+13 
+
+13 
+
+Z 
+
+.03 
+
+.08 
+
+NO  r 
+
+•  073c 
+
+.  122c 
+
+.  195c 
+
+.037 
+
+.077 
+
+.207 
+
+.222 
+
+F 
+
+3.17 
+
+.67 
+
+.86 
+
+.81 
+
+3.53 
+
+.97 
+
+1.13 
+
+N 
+
+594 
+
+594 
+
+594 
+
+594 
+
+594 
+
+297 
+
+297 
+
+K  (No. 
+
+Wgts 
+
+• 
+
+Est.) 
+
+1 
+
+13 
+
+26 
+
+1 
+
+1 
+
+13 
+
+13 
+
+Z 
+
+.69 
+
+. 
+
+19 
+
+MK  r 
+
+.  24 1 c 
+
+.  269c 
+
+.289c 
+
+.249 
+
+.230 
+
+.373 
+
+.224 
+
+F 
+
+36.20** 
+
+3.20** 
+
+2.05** 
+
+38.80** 
+
+32.79** 
+
+3.23** 
+
+1 .05 
+
+N 
+
+589 
+
+589 
+
+589 
+
+589 
+
+589 
+
+295 
+
+294 
+
+K  (No. 
+
+Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+14 
+
+25 
+
+1 
+
+1 
+
+14 
+
+14 
+
+Z 
+
+.36 
+
+1.98* 
+
+28 
+
+
+Table  16  (cont'd) 
+
+
+I  Correia t ions  for  Half 
+Correlations  for  Total  Sample  iSamples  (ODD  Half  and 
+
+lEVEN  Half)  Using  Wts. 
+
+
+1 
+
+Using  Wts 
+
+.  Estimated lEstimated  from: 
+
+ASVAB  I 
+
+in  Column 
+
+(7)  &  (8): 
+
+1 
+
+Subtest  1 
+
+Unweighted 
+
+Weighted 
+
+Weighted 
+
+ODD  Half 
+
+EVEN  Half 
+
+1  ODD  Half  EVEN  Half 
+
+(1)  1 
+
+(2) 
+
+(3) 
+
+(A) 
+
+(5) 
+
+(6) 
+
+1  (?)  (8) 
+
+MC  r 
+
+.299c 
+
+.  340c 
+
+.  36 1 c 
+
+.317 
+
+.318 
+
+.351  .372 
+
+F 
+
+57.63** 
+
+5.36** 
+
+3.52** 
+
+65.58** 
+
+66.04** 
+
+2.81**  3.20** 
+
+N 
+
+589 
+
+589 
+
+589 
+
+589 
+
+589 
+
+295  294 
+
+K  (No.  Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+14 
+
+24 
+
+1 
+
+1 
+
+14  14 
+
+Z 
+
+.02 
+
+.29 
+
+El  r 
+
+.  24  5C 
+
+.  2  9 1 c 
+
+.  323c 
+
+.271 
+
+.259 
+
+.326  .311 
+
+F 
+
+37.74** 
+
+4.47** 
+
+3.02** 
+
+46.84** 
+
+42.50** 
+
+2.81**  2.53** 
+
+N 
+
+593 
+
+593 
+
+593 
+
+593 
+
+593 
+
+297  296 
+
+K  (No.  Wgts 
+
+. 
+
+Est . ) 
+
+1 
+
+12 
+
+22 
+
+1 
+
+1 
+
+12  12 
+
+Z 
+
+.22 
+
+.20 
+
+PC  r 
+
+.  183c 
+
+.215° 
+
+.233c 
+
+.165 
+
+.196 
+
+.206  .309 
+
+F 
+
+9.29** 
+
+1.81* 
+
+1.49 
+
+7.50** 
+
+10.71** 
+
+.80  1.92 
+
+N 
+
+270 
+
+270 
+
+270 
+
+270 
+
+270 
+
+135  135 
+
+K  (No.  Wgts 
+
+. 
+
+Est .  ) 
+
+1 
+
+7 
+
+10 
+
+1 
+
+1 
+
+7  7 
+
+Z 
+
+.37 
+
+.90 
+
+CS  r 
+
+.042c 
+
+.  178c 
+
+.  21 9C 
+
+-.095 
+
+.159 
+
+-.164  .298 
+
+F 
+
+.48 
+
+1.09 
+
+.87 
+
+2.50 
+
+7.11** 
+
+.45  1.57 
+
+N 
+
+276 
+
+276 
+
+276 
+
+276 
+
+276 
+
+138  138 
+
+K  (No.  Wgts 
+
+. 
+
+Est . ) 
+
+1 
+
+8 
+
+15 
+
+1 
+
+1 
+
+8  8 
+
+Z 
+
+2 
+
+.98** 
+
+3.88** 
+
+AS  r 
+
+.  2  2  5  c 
+
+.  300c 
+
+.  360c 
+
+.270 
+
+.272 
+
+.332  .324 
+
+F 
+
+14.61** 
+
+3.79** 
+
+2.58* 
+
+21.55** 
+
+21  .89** 
+
+2.30*  2.18* 
+
+N 
+
+276 
+
+276 
+
+276 
+
+276 
+
+276 
+
+138  138 
+
+K  (No.  Wgts 
+
+Est . ) 
+
+1 
+
+7 
+
+15 
+
+1 
+
+1 
+
+7  7 
+
+Z 
+
+.03 
+
+.07 
+
+VE  r 
+
+.235c 
+
+.275° 
+
+.290c 
+
+.271 
+
+.258 
+
+.378  .191 
+
+F 
+
+15.96** 
+
+2.72** 
+
+1.59 
+
+21.64** 
+
+19.47** 
+
+2.69**  .61 
+
+N 
+
+275 
+
+275 
+
+275 
+
+275 
+
+275 
+
+138  137 
+
+K  (No.  Wgts 
+
+Est.) 
+
+1 
+
+8 
+
+15 
+
+1 
+
+1 
+
+8  8 
+
+Z 
+
+.16 
+
+1 .68 
+
+29 
+
+
+Table  16  (cont'd) 
+
+
+I  Correlations  for  Half 
+Correlations  for  Total  Sample  (Samples  (ODD  Half  and 
+
+lEVEN  Half)  Using  Wts. 
+
+
+1 
+
+Using  Wts 
+
+.  Estimated 
+
+(Estimated  from: 
+
+ASVAB  1 
+
+in  Column 
+
+(7)  &  (B):l 
+
+1 
+
+Subtest  1 
+
+Unweighted 
+
+Weighted 
+
+Weighted 
+
+ODD  Half 
+
+EVEN  Half  j 
+
+ODD  Half  EVEN  Half 
+
+(1)  1 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6)  1 
+
+(7)  (8) 
+
+Cl  r 
+
+•  351c 
+
+•  400c 
+
+.408c 
+
+.387 
+
+.383 
+
+.474  .368 
+
+F 
+
+43.00** 
+
+7.12** 
+
+4.91** 
+
+53.90** 
+
+52.60** 
+
+5.25**  2.84** 
+
+N 
+
+308 
+
+308 
+
+308 
+
+308 
+
+308 
+
+154  154 
+
+K  (No.  Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+8 
+
+12 
+
+1 
+
+1 
+
+8  8 
+
+Z 
+
+.06 
+
+1.12 
+
+AD  r 
+
+-.101c 
+
+- . 145c 
+
+-. 162c 
+
+-.135 
+
+-.107 
+
+-.215  -.123 
+
+F 
+
+3.21 
+
+1.10 
+
+.67 
+
+5.77** 
+
+3.60 
+
+1.21  .38 
+
+N 
+
+313 
+
+313 
+
+313 
+
+313 
+
+313 
+
+157  156 
+
+K  (No.  Wgts 
+
+. 
+
+Est . ) 
+
+1 
+
+6 
+
+12 
+
+1 
+
+1 
+
+6  6 
+
+Z 
+
+.36 
+
+.83 
+
+SP  r 
+
+.  156c 
+
+.  1 9  7  c 
+
+•  226c 
+
+.157 
+
+.151 
+
+.277  .235 
+
+F 
+
+7.71** 
+
+1.75 
+
+1.23 
+
+7.81** 
+
+7.21** 
+
+1.76  1.23 
+
+N 
+
+311 
+
+311 
+
+311 
+
+311 
+
+311 
+
+156  155 
+
+K  (No.  Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+7 
+
+13 
+
+1 
+
+1 
+
+7  7 
+
+Z 
+
+.07 
+
+.39 
+
+SI  r 
+
+,332c 
+
+•  353c 
+
+.  37  3C 
+
+.341 
+
+.331 
+
+.373  .361 
+
+F 
+
+37.78** 
+
+5.30** 
+
+3.14** 
+
+40.13** 
+
+37.53** 
+
+2.93**  2.70** 
+
+N 
+
+307 
+
+307 
+
+307 
+
+307 
+
+307 
+
+154  153 
+
+K  (No.  Wgts 
+
+. 
+
+Est.) 
+
+1 
+
+8 
+
+15 
+
+I 
+
+1 
+
+8  8 
+
+Z 
+
+.14 
+
+.12 
+
+A1  r 
+
+•  268c 
+
+.314c 
+
+•  335c 
+
+.298 
+
+.289 
+
+.324  .349 
+
+F 
+
+23.60** 
+
+4.67** 
+
+2.64** 
+
+29.72** 
+
+27.80** 
+
+2.45*  2.87** 
+
+N 
+
+307 
+
+307 
+
+307 
+
+307 
+
+307 
+
+154  153 
+
+K  (No.  Wgts 
+
+Est .) 
+
+1 
+
+7 
+
+14 
+
+1 
+
+1 
+
+7  7 
+
+Z 
+
+.11 
+
+.25 
+
+30 
+
+
+Table  16  (cont'd) 
+
+
+- r 
+
+i 
+
+i 
+
+i 
+
+ASVAB  1 
+
+Subtest  1 
+
+(1)  1 
+
+Unweighted 
+
+(2) 
+
+Correlations  for  Total  Sample 
+
+Using  Wt 6 .  Estimated 
+in  Column  (7)  &  (8): 
+
+Weighted  Weighted  ODD  Half  EVEN  Half 
+(3)  (4)  (5)  (6) 
+
+(Correlations  for  Half 
+
+1  Samples  (ODD  Half  and 
+lEVEN  Half)  Using  Wts. 
+(Estimated  from: 
+
+1 
+
+1  ODD  Half  EVEN  Half 
+
+1  (7)  (8) 
+
+CM  r 
+
+•  049c 
+
+.  121c 
+
+.  173c 
+
+-.085  .087 
+
+.154  .178 
+
+F 
+
+.77 
+
+.58 
+
+.67 
+
+2.32  2.43 
+
+.46  .62 
+
+N 
+
+321 
+
+321 
+
+321 
+
+321  321 
+
+161  160 
+
+K  (No.  Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+8 
+
+14 
+
+1  1 
+
+8  8 
+
+Z 
+
+2.17* 
+
+.21 
+
+CA  r 
+
+-.043c 
+
+- . 104c 
+
+-. 124c 
+
+-.074  .086 
+
+-.124  .150 
+
+F 
+
+.59 
+
+.43 
+
+.40 
+
+1.76  2.38 
+
+.30  .43 
+
+N 
+
+321 
+
+321 
+
+321 
+
+321  321 
+
+161  160 
+
+K  (No.  Wgts 
+
+* 
+
+Est . ) 
+
+1 
+
+8 
+
+12 
+
+1  1 
+
+8  8 
+
+Z 
+
+2.02* 
+
+2.43* 
+
+CE  r 
+
+-.011c 
+
+- .040c 
+
+-.158c 
+
+-.015  .014 
+
+-.114  .117 
+
+F 
+
+.04 
+
+.07 
+
+.60 
+
+.07  .06 
+
+.29  .30 
+
+N 
+
+321 
+
+321 
+
+321 
+
+321  321 
+
+161  160 
+
+K  (No.  Wgts 
+
+• 
+
+Est . ) 
+
+1 
+
+7 
+
+13 
+
+1  1 
+
+7  7 
+
+Z 
+
+.37 
+
+2.05* 
+
+CC  r 
+
+.100c 
+
+.238h 
+
+•  295h 
+
+.224  .226 
+
+.242  .262 
+
+F 
+
+3.22 
+
+2.68* 
+
+2.25** 
+
+16.85**  17.17** 
+
+1.36  1.60 
+
+N 
+
+321 
+
+321 
+
+321 
+
+321  321 
+
+161  160 
+
+K  (No.  Wgts 
+
+Est . ) 
+
+1 
+
+7 
+
+13 
+
+1  1 
+
+7  7 
+
+Z 
+
+.03 
+
+.19 
+
+Note :  See  footnotes  on  Table  15. 
+
+a~^See  specific  notes  for  Table  15.  *See  specific  note  c,  h  for  Table  15 
+*j>  <.05.  **j>  <.01.  All  teste  are  two-tailed. 
+
+
+31 
+
+
+Using  several  categorization  criteria,  the  performance  curves  of  these 
+achievement  groups  with  repeated  training  were  plotted.  While  different 
+criteria  did  lead  to  absolute  differences  in  performance  curves,  inspection  of 
+those  curves  for  most  criteria  generally  indicated  that  "low"  achievers  take 
+about  three  to  four  training  sessions  to  attain  a  performance  level  attained  by 
+"high"  achievers  following  one  such  session.  With  this  background,  our 
+research  effort  here  asked  the  question  whether  "low"  and  "high"  achievers 
+could  be  differentiated  with  ASVAB  Scaled  Scores  or  Subtests. 
+
+As  in  previous  analyses  reported  above,  the  intent  in  these  analyses  was 
+not  only  to  compute  the  mathematical  correlations  of  ASVAB  scores  of  the  sample 
+with  CVI  performance,  but  also  to  provide  evidence  for  the  validity  of  the 
+reported  relationships.  Again,  as  before,  separate  analyses  were  performed  for 
+ASVAB  data  collected  with  test  forms  5-7,  8-14  and  5-14.  In  each  case,  these 
+data  were  sorted  first  by  social  security  number  and  then  by  identification 
+performance  score.  For  these  analyses,  "low"  achievers  were  defined  as 
+soldiers  scoring  in  the  lower  third  of  all  soldiers  for  whom  both  ASVAB  and 
+performance  data  were  available.  It  is  generally  understood  that  In  the 
+research  community  a  "high”  category  is  viewed  as  the  upper  portion  of  a 
+distribution.  The  term  "high”  in  this  effort  was  used  to  define  the  top  two 
+thirds  simply  as  a  way  of  providing  a  contrasting  label  (to  "low")  to  indicate 
+that  the  analyses  are  concerned  with  dichotomous  groups.  In  each  case  a  random 
+half  of  soldiers  falling  in  the  "low"  achiever  and  "high"  achiever  group  were 
+combined  to  form  constrained  random  sample  halves.  With  each  set  of  test 
+forms,  one  of  these  halves  was  used  as  a  "calibration"  sample — to  develop  the 
+discriminant  model — once  with  the  ASVAB  Scaled  Scores  and  again  for  ASVAB 
+Subtests.  These  discriminant  models  were  then  used  to  classify  the  other 
+random  half.  Finally  the  best  discriminant  model  for  the  entire  sample  was 
+developed  for  each  case.^  Tables  17,  18  and  19  summarize  the  classification  of 
+soldiers  for  each  analysis,  the  "HIT"  race  and  the  F^  test  to  address  the 
+validity  of  the  discriminant  model  developed  for  one  random  half  (calibration 
+sample)  in  being  able  to  categorize  the  test  data  from  the  other  random  half. 
+
+A  HIT  is  defined  as  the  case  where  the  discriminant  model  assigns  a  soldier  to 
+the  same  category  to  which  his  identification  performance  led  him  to  be 
+classified.  First  to  be  noted  from  these  tables  is  the  fact  that  the 
+discriminant  models  developed  on  the  "calibration"  sample  were  about  equally 
+valid  for  classifying  the  test  half  of  the  data.  While  the  models  were  valid, 
+their  accuracy  in  correct  classification  (HITS)  ranged  from  61%  to  80%  when 
+random  halves  of  the  data  are  considered.  Considering  only  the  results  for  the 
+entire  sample,  the  "HIT"  rate  ranged  from  68%  to  77%. 
+
+One  way  in  which  discriminant  analyses  could  prove  useful  to  the  Army  is 
+in  the  area  of  MOS  assignment.  Once  an  individual  has  completed  the  ASVAB 
+prior  to  service  entry,  his  classification  as  a  "Low"  achiever  in  vehicle 
+identification  could  serve  as  a  basis  for  counseling  the  individual  into  an  MOS 
+where  R&I  is  not  especially  important.  Alternately,  the  results  of  the 
+discriminant  analysis  might  be  used  by  the  Army  as  one  criterion  which 
+determines  a  soldier's  eligibility  to  be  assigned  an  MOS  where  vehicle 
+identification  ability  is  especially  important.  Further,  with  the  many  unit 
+
+^Analyses  were  performed  using  PROC  DISCRIM  in  SAS  with  the  PRIORS  variable 
+defined  as  Low  ■  1/3,  High  *  2/3  and  with  a  test  to  determine  whether  a  linear 
+or  quadratic  discriminant  function  was  most  useful. 
+
+
+32 
+
+
+decide  on  who  should  or  should  not  receive  (repeated)  R&l  training.  In  order 
+to  provide  the  Army  with  this  capability,  the  weights  used  in  the  ASVAB 
+discriminant  model  must  be  provided  (See  Appendix  B) .  In  examining  the 
+results  summarized  in  Tables  17-19,  it  appears  that  the  discriminant  models 
+involving  ASVAB  Scaled  Scores  for  test  forms  5-7  and  8-14  provide  the  highest 
+expected  accuracy  for  classifying  soldiers — in  each  case  a  quadratic 
+discriminant  function  proved  best.  For  soldiers  who  took  one  of  test  forms 
+5-7,  the  expected  classification  accuracy  ("HIT"  rate)  is  75%;  for  those  who 
+took  one  of  forms  8-14,  the  "HIT"  rate  is  77%.  These  functions  and  a  brief 
+description  of  their  use  is  found  in  Appendix  B. 
+
+
+33 
+
+
+m 
+
+•V  ft 
+
+
+o 
+
+9  -4 
+
+n  p 
+P  V 
+a  c 
+
+U.  3 
+
+
+r  u 
+ft  a 
+H  ft 
+
+w  a 
+
+
+ft  u 
+
+o  u 
+
+U  VI 
+V>  -4 
+
+
+9  V 
+
+u  c 
+
+l/>  -4 
+
+
+<  ft 
+
+> 
+
+V)  >■* 
+
+<  x> 
+
+
+«1  ft 
+—»  p 
+
+•  If 
+
+•  o 
+
+
+o  o  o  -9  ~ 
+
+©  ©  O  »  — 
+
+o  *  x  •  •  I  a 
+
+O  -»  O  n  o  »  so  o 
+
+©  O  —  O  •  -< 
+
+•—  —  p  mu 
+
+m  5  Z 
+
+I  O  S 
+
+
+fv  »**  cs  as  , 
+
+
+o 
+
+I 
+
+o 
+
+© 
+
+5' 
+
+> 
+
+a. 
+
+
+t-4  U3 
+OC  >  iA 
+own. 
+
+■“«  -4  © 
+OC  X  o 
+ft,  U  OC 
+
+3  <  © 
+
+
+h  r» 
+
+
+o  <s  o 
+
+o  —  o  « 
+
+-■4  --  ft 
+
+
+«  •  o  •  • 
+
+I  *4  «  N  <0  V 
+CS  **4  CX{ 
+
+
+r-*.  r-.»s 
+
+-4  -9  00  X 
+
+©  •  O  • 
+
+n  n  — •  m 
+
+
+9  O 
+
+H 
+
+©  P 
+
+
+E  u 
+
+o  a 
+
+
+3 
+
+
+1  U) 
+
+
+a 
+
+H 
+
+e 
+
+
+5 
+
+
+e  >  cn 
+O  uj  ^ 
+
+OC  X  o 
+
+ajU  « 
+
+3  <  © 
+
+
+ac 
+
+o 
+
+
+2 
+
+so 
+
+i3 
+
+© 
+
+
+OJ  P  ft  o 
+
+00  © 
+
+
+s 
+
+
+© 
+
+M 
+
+X 
+
+
+.  O  *9  ©  m  ©  * 
+
+O  O  —  O  ft 
+
+4-4  4-4  -4  U 
+
+
+tC  »r\  /\ 
+
+SO  O  OJ 
+
+
+n  h  o  n  00  v  h 
+is  in  e^o 
+
+
+•  *9 
+IS 
+
+N  I 
+
+
+M  MONO  4-1 
+
+
+a 
+
+H 
+
+O 
+
+
+►4  LkJ 
+
+0C  >  W 
+O  U  ft 
+
+►4  *-4  © 
+
+OC  X  o 
+ft  U  ft 
+
+3  <  © 
+
+
+O  O  O  '■O 
+
+00  O 
+
+«s  •  — •  •  m  •  a 
+
+00  O  *•»  O  is  O 
+
+©  O  -•  O  1 
+
+
+*-«  OO  ^ 
+
+%n  is  —# 
+
+
+XT'  -4  IS  V  00 
+
+-4  — .  Cftjo 
+
+
+©IS  v— ' 
+
+«  K  U-l 
+
+
+60  3 
+
+©an 
+
+3  3  e 
+
+
+oc  >  in 
+O  U  ft 
+
+•-I  H  © 
+
+oc  x  o 
+
+ft  u  ft 
+
+3  <  o 
+
+
+K  w 
+
+gas 
+
+U  I  v 
+
+
+E  g 
+
+
+IS  Q  ISIS  w 
+
+1^  O  ^  n  K  ft| 
+
+
+*9 
+
+I 
+
+ao 
+
+m 
+
+E 
+
+0 
+
+
+.-4  h  a 
+
+
+a 
+
+H 
+
+O 
+
+
+3 
+
+
+o  *s 
+
+o  CO 
+
+a . 
+
+Si 
+
+
+•2  g 
+
+
+os  «c 
+
+n 
+
+r-  •  «A  •  1 
+
+h  ov  n  co  1 
+
+
+**  -* 
+
+4  «  >0  “K 
+«c  •  srv  •  | 
+
+l->  o  4-4  1 
+
+
+© 
+
+w 
+
+
+sg 
+
+
+X  o 
+©  oc 
+
+<  © 
+
+
+H 
+
+o 
+
+
+IS  ©  IS 
+
+•  *C  •  vO  • 
+
+1  rsi  -»  «  «  « 
+
+
+©an 
+
+£  3  g 
+
+
+N  la] 
+
+oc  5  w 
+
+O  W  P- 
+
+M  H  3 
+
+0C  X  O 
+
+a.  ©  oc 
+
+3  <  © 
+
+
+as 
+
+o  5 
+
+
+L  ft 
+ft  9 
+)  > 
+0  P 
+
+—4  «4- 
+
+o 
+
+ft in 
+
+JC 
+
+
+<0  ft 
+
+o 
+
+£  u 
+I-  « 
+
+
+C  fl 
+
+o  ft 
+
+
+C  oc 
+OO 
+u  oc 
+
+IS  a. 
+
+w 
+
+
+p  © 
+c  *-< 
+s/  X 
+
+•X  9 
+
+9 
+
+» 
+
+t<  TJ 
+
+*  S» 
+
+
+^4  ft 
+
+0  »- 
+
+ft 
+ft*  > 
+ft 
+
+■tj  m  • 
+ft»  T5  1 
+0  i-  _ 
+
+41  £ 
+
+a  *-* 
+
+•• 
+
+
+3 
+
+0  *J 
+0 
+
+i4 
+
+Tl  ft 
+ft 
+
+
+ft*  X 
+ft  w 
+Q 
+
+
+ft 
+
+•ft  ft  • 
+
+•  1 
+
+ft  O 
+
+*4  x  ■ 
+
+ft  «-» 
+
+3 
+
+as 
+
+
+oJ5 
+
+ftt  •  oc 
+
+
+Ei 
+
+
+©  ft  oc 
+
+<*ft  ft. 
+
+
+I 
+
+X  -H 
+
+
+ft  kl 
+
+X  « 
+
+*•>  a 
+
+►x  X 
+2  £ 
+2  4 
+
+ft  ft 
+
+c  m 
+
+
+.  U’1 
+4-x  0 
+
+X  ft 
+
+s  - 
+
+UJ  ft 
+
+
+OX  IS  ^ 
+
+
+W  K  is 
+
+
+a  «44  lfc4  W 
+
+
+ft  w 
+
+«  ia 
+
+U  IS 
+
+
+^  ft 
+
+u^l-4  Cl 
+u  ft. 
+
+
+ft  IS 
+9*  sO 
+ft  es 
+
+W  ~4 
+
+
+ft  ft  W 
+ft  U  ft 
+X  *4  M 
+u  IN  3 
+
+U  o  3 
+
+0  M  O' 
+
+U.  -4 
+
+ft  ft 
+
+
+ft  O  *4 
+
+u  3  O 
+
+ft  ft  *4  4 
+
+X 
+
+ft  C  -U  -r* 
+
+«4  M  4)  If 
+
+ft  I-  W 
+►x  -H  ft 
+
+•h  •  a  a 
+
+•  •  v 
+
+O  3  ft  ft 
+ft  O  p  o 
+ft  D 
+C  O  ft  ft 
+O  ft  ft  ^ 
+—  «  I  p 
+p  0  I  ft 
+
+u  a  ft  > 
+
+C  O  ft  o 
+3  X  U  ft 
+«*-  —• 
+
+«  p  a 
+
+U  P  P  -4 
+
+C  ft  ft  x 
+
+«  »  a  u 
+
+a  -< 
+
+S  ft  ft  > 
+
+a  ft  u 
+
+■M  U  0  TJ 
+P  -*4  ft  ft 
+U  p  *H  — 
+ft  p  P  0 
+Si  I  It  0 
+
+n  e  >  o. 
+o 
+
+u  ft  o  ft 
+ft  u 
+
+ft  C  O  00 
+C  ft  -*  c 
+
+•4  -44  X  -4 
+
+•-*  p  p  ft 
+
+ft  r  a 
+ft  >  5 
+
+o  -0 
+c  u  ^  ft 
+o  ftp 
+
+C  3  3 
+t>  -<  u  a 
+
+55  »  S 
+523  u 
+
+0  ft 
+
+ft  ft  p 
+
+P  X  ft 
+
+-4  p  00  3 
+
+
+»  ftP 
+
+ft  U  O  U 
+
+00  ft  p  c 
+c  a  sp  3 
+
+«4  S44 
+
+V  B  • 
+
+C  p  p  P 
+■M  ft  -4  c 
+*-  P  0  ft 
+ft  ft  C 
+•o  3  II  4 
+ft  P  B 
+
+3  2  •  p 
+
+ft  in  p  o 
+p  ft  n 
+
+►x  4^ 
+ft  jD  T3  TJ 
+X  P 
+P  tl  0  P 
+ft  ft  ft 
+
+«p  a  « 
+o  P  00  o 
+o  c  -4 
+
+ft  *4  «4  J 
+
+B  P  N 
+o  ft  -4 
+
+«  a  p  • 
+o  a 
+
+P  ft  60  o 
+0  -*4  ft  -« 
+IP  ft  p  p 
+►x  ft  O 
+P  -4  u  C 
+ft  ft  o 
+x  a  c  «p 
+
+p  ft  -4 
+
+p 
+p  o 
+ft  ft  c  g 
+
+P  o  ft  o 
+O  B  -4 
+
+a  p  ft  s 
+
+ft  >  -4 
+
+ft  <p  o  p 
+
+44  P  ft  o 
+
+
+35 
+
+
+o  o  o 
+
+O  O  O  1 
+
+•J  ITI  •  rs  •  N  • 
+
+<  o>o»o»ot 
+
+S—  o  o  «n  5  • 
+
+«•«  •-«  «-<  *j 
+
+H  -« 
+
+
+si  a 
+
+—  «i  4 
+
+O  HO 
+
+€0  0  w 
+
+NO  *  B 
+
+
+geo  •  r-*  •  m  .  V,  4  -H  » 
+
+n  sr  •»  eo  mo  cu  u  u  o  «ni 
+
+-J  —  fM  4  U  *4 
+
+
+m  t>*rN4 
+
+\o  >o  n  n  K 
+
+r«  •  O  •  • 
+
+—  CO  *■>  r*» 
+
+
+'  O  O'  O  I 
+ONO  ■ 
+
+
+<9  n  n  W 
+
+CO  O'  o 
+
+■  •  to  •  .  • 
+
+I  N  lA  ffi  V  n 
+
+<N  -*  CVjOi 
+
+
+s0  V, 
+
+-nOKU,| 
+
+
+•O  O'  o  -<  f* 
+<1  >  4  •  CD  1 
+n  oo  -  n  4  n 
+
+
+EC  i 
+
+O  »  H 
+
+£  3  £ 
+
+
+8  8 
+
+»-*  ■  O  ♦  —* 
+
+*c  o  ao  o  <»  i 
+
+-•  o  o  «N  ( 
+
+
+“  2  S 
+
+«  1 
+
+W  IT)  0 
+
+
+—  a  *-» 
+
+o  Co 
+
+mo  o  o 
+
+
+r>-  4  B 
+
+*0  tl  -r* 
+
+u  u 
+
+•  o  o 
+
+O  91 
+
+me*  i/i  •** 
+
+m  K  Q 
+
+
+CM  O  >0  O  00  O 
+
+r>  O  -»  o  -O  o 
+
+
+a  «n  ’  m  •  *0  • 
+
+O  -4  m  r*  m  ^  «» 
+
+_)  *-«  -o  **  «n 
+
+
+mrN  w, 
+
+H  ta.| 
+
+
+4  i  b 
+
+o  n 
+
+</>  4  tl 
+
+o  c 
+
+m  vt  -h 
+
+<  -j 
+
+
+to  d 
+
+O  5  H 
+
+s  s  e 
+
+
+SB 
+
+U  »  H 
+
+s  s  e 
+
+
+•  O  -O  -H 
+*■*  4)  C- 
+
+4  |m  U 
+
+£■  •  =  3 
+
+4  ■  O 
+
+0  3  0  0 
+4  O  *-  O 
+t>  0 
+a  a  9>  4 
+O  t»  4 
+«H  00  |  o 
+u  0  I  4 
+o  B  4  > 
+
+
+-«  91  tl  > 
+
+Boo 
+
+-*  O  C  T> 
+o  ««  4  tl 
+
+o  c-  ^  — « 
+*  o  U  o 
+—  440 
+c  B  >  a 
+
+
+ti  c  a  *o 
+o  4  —  c 
+w*  -**  x  •*« 
+^  O  4 
+
+4  -H  3 
+4  >  S 
+0  TJ 
+O  O  ~4  tl 
+O  4  U 
+0  3  3 
+
+TJ  -*  TJ  CL 
+
+ti  .c  -  B 
+
+4  4J  >  6 
+
+D  tl 
+
+4  t (•<-«»■ 
+
+
+r  u  v-  9i 
+
+ti  4  w  a 
+
+b-  X  3  O 
+
+*J  «•< 
+
+•  B 
+4-000 
+K  «  b  C 
+C  C  «-  3 
+
+■O  B  •> 
+
+C  C  u 
+
+*<  1/  -  c 
+
+*■>  3  4 
+t>  4  C 
+4  T  €  i 
+4  **  B 
+
+—<  LO  -« 
+X>  <  w  U 
+4  M  b  O 
+
+«  tl  4 
+
+
+O  b  Ml  D 
+
+0  O 
+
+*  b.  -  J 
+Bon 
+0  ti  ^ 
+tab  • 
+
+o  a 
+
+b  •  M  O 
+O  tl  ■** 
+>  p  w 
+
+
+■0  -*  tJ  0 
+«J  4  C  4 
+wove 
+O  B  — 
+
+e  u  ti  b 
+
+
+Discussion 
+
+
+Individual  Correlation  Relationships 
+
+In  the  analyses  reported  here,  the  intent  was  to  explore  in  several  ways 
+the  relationship  between  the  criterion  variable  (vehicle  identification 
+performance)  and  predictor  variables  (ASVAB  Scaled  and  Subtest  scores).  Concern 
+was  focused  not  only  upon  the  magnitude  of  the  relationship  but  also  upon  the 
+validity  of  findings  reported.  Within  chance  expectations,  the  obtained 
+relationships  were  concluded  as  valid — whether  ASVAB  Scaled  Score  or  Subtests 
+were  used  with  forms  5-7  or  8-14.  For  the  correlations  between  criterion  and 
+individual  predictors,  values  obtained  indicated  that,  depending  on  which 
+predictor  is  used,  between  1%  and  13%  of  the  variability  between  criterion  and 
+predictors  Is  in  common.  Obviously  there  is  a  great  deal  of  criterion 
+variability  which  must  be  accounted  for  by  other  factors.  For  ASVAB  Scaled 
+Scores,  the  range  of  obtained  correlations  is  .212  (for  CL  Composite)  to  .336 
+(for  GM  Composite);  for  ASVAB  Subtests  this  range  is  .156  (for  SP  Subtest)  to 
+.358  (for  GI  Subtest).  Other  research  (Maier  &  Grafton,  1981,  and  Weltin  and 
+Popelka,  1983)  using  final  course  grades  and  the  CL  ASVAB  Composite  and  related 
+Subtests  with  homogeneous  Army  samples  generally  report  substantially  higher 
+correlations  (.50-. 78)  than  those  obtained  in  the  present  research.  It  is 
+generally  recognized  that  the  greater  the  similarity  of  content  between 
+criterion  and  predictor  measures,  the  larger  the  observed  relationship  will  be. 
+Even  without  detailed  criteria  analysis,  it  is  not  difficult  to  conclude  that 
+items  in  the  final  course  exam  for  clerical  training  courses  are  probably  more 
+similar  to  ASVAB  Subtest  items  which  define  the  CL  Composite  than  the  processes 
+which  are  involved  in  the  complex  visual  perceptual  discrimination  task  used  in 
+this  research.  It  is  well  known  that  when  the  range  of  scores  being  used  in 
+computing  a  correlation  is  narrow,  the  magnitude  of  the  correlation  is 
+attenuated.  Attributing  differences  in  the  magnitude  of  the  correlations 
+presented  here  compared  to  other  studies  (utilizing  specific  MOS  Army  samples) 
+as  possibly  due  to  a  restricted  range  of  scores  on  the  predictor  variables  is 
+not  probable.  Since  other  studies  reported  generally  used  soldiers  in  a  single 
+MOS,  it  is  more  likely  that  there  would  be  a  restriction  of  range  of  predictor 
+scores  for  soldiers  in  those  samples  than  in  the  heterogeneous  set  of  MOSs 
+which  comprised  the  sample  for  the  current  work.  Consistent  with  this 
+judgement,  it  is  further  relevant  to  state  the  rather  obvious  fact  that  the 
+utility  of  the  ASVAB  (as  currently  designed)  as  a  predictor  will  vary  for 
+different  criterion  skills  which  define  competency  in  different  MOSs.  The 
+question  asked  should  not  be  "Is  the  ASVAB  a  valid  predictor  of  Army 
+performance"?  but  rather,  "For  what  Army  performance  is  the  ASVAB  a  valid 
+predictor?"  Beyond  this  point  it  is  appropriate  to  conduct  additional  research 
+aimed  at  identifying  new  ASVAB  Composites  which  relate  to  other  Army  skills. 
+Such  research  probably  would  naturally  involve;  1)  Trying  different  Subtest 
+combinations;  2)  developing  Subtest  item-criterion  correlations  as  a  basis  for 
+using  specific  items  from  different  Subtests  to  develop  new  Composites;  and  3) 
+the  development  of  new  Subtests  which  Include  items  which  would  appear  to 
+relate  better — have  greater  "face  validity" — to  the  criterion  for  which  a 
+predictor  is  desired. 
+
+
+Multiple  Correlation  Relationships 
+
+
+When  the  stepwise  regression  procedure  was  used  as  a  basis  for  selecting 
+"optimum"  multiple  correlation  relationships  as  opposed  to  an  a  priori  model, 
+the  most  general  finding  was  that  adding  ASVAB  predictors  into  linear 
+combinations  generally  does  not  result  in  significant  improvements  in 
+relationship  between  criterion  and  predictors  over  use  of  Individual 
+predictors.  When  one  examines  the  relatively  high  correlation  between 
+predictors  (See  Appendix  A)  and  notes  the  relatively  low  correlations  between 
+individual  ASVAB  predictors  and  the  criterion,  this  finding  is  not  surprising. 
+It  is  generally  recognized  in  the  test  and  evaluation  community  that  these  are 
+the  conditions  which  tend  to  make  use  of  the  multiple  correlation  approach  less 
+profitable. 
+
+Beginning  with  an  a  priori  model,  Horne's  (1986)  work  includes  use  of  a 
+multiple  correlation  approach  (instrumental  variable  regression)  to  explore  the 
+relationship  between  written  and  hands-on  tests  used  by  Army  training  schools 
+for  different  MOS  samples  for  several  systems  and  the  predictors  selected  for 
+the  model.  While  the  focus  of  the  current  research  effort  has  not  been  on 
+examining  the  role  of  demographic/background  variables,  in  order  to  provide 
+some  basis  for  comparing  the  present  results  with  Horne's,  a  similar  type  of 
+analysis*®  was  used  with  the  data  in  the  CVI  Master  Data  Base.  It  is  important 
+to  note  that  results  of  the  analysis  presented  here  using  Horne's  (1986)  model 
+speak  only  to  the  comparability  of  conclusions  reached  by  Horne  when  another 
+performance  variable  is  used.  There  is  no  intent  to  imply  that  the  conclusions 
+reached  from  this  analysis  in  the  present  research  (or  Horne's)  are  valid.  A 
+model's  validity  necessarily  depends  on  the  underlying  assumptions  on  which  the 
+model  is  based.  Embodied  in  those  assumptions  are  the  variables  used,  how  the 
+categories  of  those  variables  are  defined  and  the  mathematical  relationships 
+used  to  relate  those  variables.  For  example,  it  is  not  clear  but  that  had 
+Horne's  model  included  more  than  binary  categories  for  the  education,  training 
+and  race  variables,  the  conclusions  reached  might  well  have  been  different — for 
+his  data  as  well  as  that  used  in  the  present  work.  Variables  In  the  Horne  model 
+and  for  CVI  data  are  shown  below  in  Table  20.  From  review  of  this  table  it  is 
+noted  that  except  for  the  performance  and  training  variables,  the  variables 
+used  in  developing  the  multiple  regression  relationships  are  identical.  Use  of 
+a  different  performance  (criterion)  variable  tests  the  generalizability  of 
+Horne's  findings  to  a  different  set  of  competency  skills.  For  the  training 
+variable  it  was  reasoned  that  when  a  soldier  is  assigned  to  a  duty  MOS  which  is 
+the  same  as  his  assigned  MOS,  he  is  developing  his  skills  in  that  MOS.  It  is 
+Army  policy  to  test  soldiers  in  their  assigned  MOS  regardless,  and  not  in  their 
+duty  assignment.  Significance  tests  for  predictor  coefficients  of  the  Horne 
+(1986)  model  with  the  vehicle  identification  performance  criterion  variable  is 
+shown  in  Table  21  below. 
+
+
+15 
+
+16 
+
+
+McNemar,  Q.  Psychological  Statistics  John  Wiley  and  Sons,  Inc.  1962,  p.  187. 
+
+
+Since  time  constraints  precluded  acquisition  of  the  software  used 
+by  Horne,  the  least  squares  estimator  approach  found  in  PROC  RSQUARE  of 
+SAS  was  used. 
+
+
+38 
+
+
+Table  20 
+
+
+Criterion  and  Predictor  Variables  Used  by  Horne  and  Matched  in  Present  Research 
+
+
+Horne  (1986) 
+
+Current  Research 
+
+Criterion 
+
+Training  Data  for 
+
+Vehicle  Identification 
+
+Variables 
+
+Performance 
+
+11  groups  (4  systems) 
+
+Data 
+
+Predictor 
+
+Trainability 
+
+AFQT  scores 
+
+AFQT  scores 
+
+Variables 
+
+Education 
+
+High  School  diploma 
+
+High  School  diploma 
+
+status 
+
+status 
+
+Experience 
+
+Rank 
+
+Rank 
+
+Training 
+
+Received  training  in  MOS 
+
+Similarity  of  duty 
+
+tested  in  SQT 
+
+and  assigned  MOS 
+
+Race 
+
+White  vs  non-white 
+
+White  vs  non-white 
+
+Table  21 
+
+Significance  Tests  for  Regression  Coefficients  Obtained 
+Using  Horne's  (1986)  Predictor  Variables  (n  *  517) 
+
+in  Current 
+
+Research 
+
+Coefficient 
+
+B  Value 
+
+Standard  Error 
+
+F 
+
+P 
+
+Intercept 
+
+2.659 
+
+AFQT  (17/21) 
+
+.092 
+
+.016 
+
+34.72 
+
+.0001 
+
+Diploma  Status  (1/21) 
+
+.679 
+
+.918 
+
+<1 
+
+.460 
+
+Rank  (13/21) 
+
+1.230 
+
+.292 
+
+17.77 
+
+.0001 
+
+MOS  Training  (0/16) 
+
+-1.621 
+
+1.069 
+
+2.30 
+
+.130 
+
+Race  (5/21) 
+
+-  .640 
+
+.790 
+
+<1 
+
+.418 
+
+R«  .359 
+
+Note:  Numbers  in  parentheses  are  the  number  of  cases  in  Horne's  (1986) 
+analyses  where  the  variable  provided  a  significant  contribution  to  prediction 
+of  the  criterion  variable. 
+
+
+Results  presented  in  Table  21  for  the  CV1  data  are  generally  consistent 
+with  findings  for  Horne's  (1986)  analyses.  Specifically,  AFQT  and  rank  are 
+consistent  performance  predictors.  Consistent  with  results  of  the  present 
+analysis  and  as  was  frequently  found  by  Horne  (1986),  differences  based  on 
+diploma  status,  MOS  training  and  race  were  not  significant  performance 
+predictors.  It  is  interesting  to  note  that  the  resultant  multiple  correlation 
+
+
+39 
+
+
+obtained  (See  Table  21)  with  entry  of  background/demographic  variables  results 
+in  no  appreciable  predictive  improvement  over  that  obtained  by  the  best  ASVAB 
+Scaled  Scores  or  Subtest  alone. 
+
+Differential  Weighting  Correlations 
+
+As  noted  from  review  of  Tables  15  and  16,  there  were  increases  in  the 
+absolute  value  of  Pearson-type  correlations  when  different  predictor  values 
+receive  their  own  weight.  Since  more  of  these  differences  were  statistically 
+significant  than  might  be  expected  by  chance,  it  is  reasonable  to  conclude  that 
+in  some  cases  differential  weighting  will  be  effective  in  demonstrating  an 
+increase  in  the  relationship  between  performance  and  aptitude  variables. 
+
+Further  research  to  document  the  efficacy  of  the  differential  weighting 
+procedure  is  warranted. 
+
+In  order  to  address  the  validity  of  the  differentially  weighted 
+correlations,  two  procedures  were  used.  First,  differentially  weighted 
+correlations  were  obtained  for  random  halves  of  the  data  for  each  ASVAB 
+predictor.  These  correlations  speak  to  the  replicability  of  findings  across 
+independent  samples.  A  second  procedure  involved  using  the  weights  estimated 
+for  each  half  to  compute  a  correlation  for  the  entire  sample.  As  noted,  for 
+the  Composites,  no  significant  differences  occurred;  however,  several  were 
+significantly  different  for  ASVAB  Subtests — more  than  might  be  expected  by 
+chance.  It  might  be  concluded  that  differentially  weighted  correlations  are 
+valid  for  Composites  which  are  scaled  scores  but  not  Subtests  which  are 
+percentages.  It  is  not  clear  whether  these  conflicting  findings  can  be 
+attributed  to  differences  in  the  type  of  variable  used.  Of  the  seven  cases 
+where  differential  weighting  correlations  for  random  halves  do  differ 
+significantly,  neither  of  the  correlations  for  (or  based  on)  random  halves  have 
+a  magnitude  which  is  significantly  greater  than  zero  for  five  of  these  cases. 
+
+It  might  be  concluded  that  it  is  unreasonable  to  test  for  significant 
+differences  among  two  values  which  are  in  themselves  not  significant.  For  the 
+remaining  35  comparisons,  two  show  a  significant  difference.  With  alpha  set  at 
+.05,  approximately  two  such  differences  could  be  expected  by  chance. 
+
+Discriminant  Analyses 
+
+Perhaps  the  most  important  finding  of  this  research  effort  is  the  fact 
+that  soldiers  can  be  assigned  a  priori  to  low  and  high  vehicle  identification 
+achievement  groups  with  about  75%  accuracy  using  a  quadratic  discriminant 
+function  involving  only  ASVAB  Scaled  Scores.  Were  background  and  demographic 
+variables  also  introduced  into  the  discriminant  analysis,  additional 
+achievement  classification  improvement  might  result.  Again,  the  inclusion  of 
+demographic  and  background  factors  were  generally  beyond  the  scope  of  the 
+present  research  effort.  Discriminant  functions  might  be  best  suited  for  use 
+in  guiding  new  soldiers  into  MOSs  where  combat  vehicle  identification  is  or  is 
+not  an  especially  critical  skill. 
+
+
+40 
+
+
+Conclusions 
+
+
+Correlations  based  on  equally  weighted  scores  for  individual  ASVAB  Scaled 
+Scores  and  Subtests  are  in  the  high  .20s  and  low  .30s. 
+
+When  ASVAB  scores  for  individual  Scaled  Scores  and  Subtests  are 
+differentially  weighted,  modest  increases  (of  about  .05)  in  the  absolute  value 
+of  the  correlations  may  be  obtained. 
+
+Multiple  correlations  involving  more  than  one  ASVAB  Scaled  Score  or 
+Subtest  are  comparable  to  correlations  obtained  by  the  differential  weighting 
+of  scores  for  individual  ASVAB  Scaled  Scores  and  Subtests. 
+
+Soldiers  who  will  score  "high"  or  "low"  in  vehicle  identification 
+performance  can  be  identified  in  advance  about  75%  of  the  time  by  using 
+quadratic  discriminant  functions  involving  ASVAB  Scaled  Scores. 
+
+Supplementary  analyses  involving  use  of  random  sample  halves  generally 
+confirm  the  validity  of  relationships  reported. 
+
+
+41 
+
+
+References 
+
+
+Guilford,  J.P.  Psychometric  Methods.  McGraw-Hill,  Inc.,  New  York,  1954. 
+
+Herzberg,  P.A.  The  parameters  of  cross-validation.  Psychometrlka  Monograph 
+Supplement ,  1969,  No.  16. 
+
+Heuckeroth,  O.H.,  Smith,  N.D.,  Shope,  G.L.  (in  press)  Target  acquisition  and 
+analyses  training  system:  Retention  and  the  effects  of  retraining.  Fort 
+Hood,  TX,  U.S.  Army  Research  Institute  for  the  Behavioral  and  Social 
+Sciences . 
+
+Horne,  D.K.  The  impact  of  soldier  quality  on  performance  in  the  army  (ARI 
+
+Technical  Report  708).  Alexandria,  VA.  U.S.  Army  Research  Institute  for 
+the  Behavioral  and  Social  Sciences,  April,  1986. 
+
+Maier,  M.H.  &  Grafton,  F.C.  Aptitude  composites  for  ASVAB  8,  9  and  10 
+
+(Research  Report  1308).  Alexandria,  VA.  U.S.  Army  Research  Institute  for 
+the  Behavioral  and  Social  Sciences,  May,  1981. 
+
+McNemar,  Q.  Psychological  Statistics,  John  Wiley  and  Sons,  New  York,  1966. 
+
+Myers,  J.L.  Fundamentals  of  Experimental  Design.  Allyn  &  Bacon,  Boston, 
+
+1967. 
+
+Nicholson,  N.  R.,  Smith,  N.D.  &  Heuckeroth,  O.H.  (in  press)  Target  acquisition  and 
+analyses  training  system:  Comparison  of  two  training  media  using  the 
+basic  combat  vehicle  identification  (CVI)  training  program.  Fort  Hood, 
+
+TX.  U.S.  Army  Research  Institute  for  the  Behavioral  and  Social  Sciences. 
+
+SAS  Users  Guide:  Statistics,  Version  5,  SAS  Institute,  Inc.  Cary,  NC. 
+
+Shope,  G.L.,  Smith,  N.D.,  Heuckeroth,  O.H.  &  Bolin,  S.F.  (in  press)  Target 
+acquisition  and  analysis  training  system:  Verbal  cue  recognition, 
+training  readiness  nd  GT  score  as  correlates  of  performance  with  the 
+basic  combat  vehicle  identification  (CVI)  training  program.  Fort  Hood, 
+
+TX .  U.S.  Army  Research  Institute  for  the  Behavioral  and  Social  Sciences. 
+
+Shope,  G.L. ,  Smith,  N.D.,  Heuckeroth,  O.H.,  Warnick,  W.L.,  and  Essig,  S.S. 
+
+(1984)  Evaluation  of  an  advanced  combat  vehicle  identification  (CVI) 
+training  program  (masking):  A  new  approach  to  target  acquisition 
+training .  (Research  Report  1368)  Fort  Hood,  TX.  U.S.  Army  Research 
+Institute  for  the  Behavioral  and  Social  Sciences.  (AD  A148  911) 
+
+Smith,  N.D.,  Heuckeroth,  O.H.,  Warnick,  W.L.  and  Essig,  S.S.  (1980)  Evaluation 
+of  a  new  approach  to  target  acquisition  training:  The  combat  vehicle 
+identification  (CVI)  training  program.  (Research  Report  1304)  Fort  Hood,  TX. 
+U.S.  Army  Research  Institute  for  the  Behavioral  and  Social  Sciences. 
+
+(AD  Alll  732) 
+
+
+Smith,  N.D.,  Heuckeroth,  O.H.,  Shope,  G.L. ,  Warnick,  W.L.,  and  Essig,  S.S.  (in 
+press)  Target  acquisition  and  analyses  training  system:  Effects  of 
+motion  on  performance  on  the  combat  vehicle  identification  (CVI)  training 
+program.  Fort  Hood,  TX.  U.S.  Army  Research  Institute  for  the  Behavioral 
+and  Social  Sciences. 
+
+Smith,  N.D.,  Heuckeroth,  O.H.,  Warnick,  W.L.,  and  Essig,  S.S.  (in  press) 
+
+Target  acquisition  and  analysis  training  system;  Effects  on  combat 
+vehicle  identification  (CVI)  performance  of  number  of  vehicles  trained, 
+training  frequency  and  soldier  trainabillty .  Fort  Hood,  TX.  U.S.  Army 
+Research  Institute  for  the  Behavioral  and  Social  Sciences. 
+
+Smith,  N.D.,  Shope,  G.L.,  Heuckeroth,  O.H.,  Warnick,  W.L.,  and  Essig,  S.S. 
+
+(1983)  Target  acquisition  and  analysis  training  system;  Comparison  of 
+image  quality  of  three  presentation  media.  (Technical  Report  622)  Fort 
+Hood,  TX.  U.S.  Army  Research  Institute  for  the  Behavioral  and  Social 
+Sciences.  (AD  A169  194) 
+
+Smith,  N.D.,  Shope,  G.L.,  Heuckeroth,  O.H.,  Warnick,  W.L.,  and  Essig,  S.S. 
+
+(1983)  Target  acquisition  and  analysis  training  system:  An  evaluation  of 
+the  basic  thermal  (IR)  combat  vehicle  identification  (TCVI)  training 
+program.  (Research  Report  1378)  Fort  Hood,  TX.  U.S.  Army  Research 
+Institute  for  the  Behavioral  and  Social  Sciences.  (AD  A192  488) 
+
+Weltin,  M.M.  and  Popelka,  B.A.  (1983)  Evaluation  of  the  ASVAB  8/9/10  clerical 
+composite  for  predicting  training  school  performance.  (Technical  Report 
+594).  Alexandria,  VA.  U.S.  Army  Research  Institute  for  the  Behavioral 
+and  Social  Sciences.  (AD  A143  235) 
+
+
+44 
+
+
+Correlational  Matrix  of  ASVAB  Scaled  Scores  for  Test  Forms  5-14 
+
+
+Appendix  A 
+
+
+ASVAB  Intercorrelational  Matrices 
+O 
+
+
+H 
+
+C/5 
+
+
+O 
+
+C/5 
+
+
+►J 
+
+M 
+
+
+H 
+
+U 
+
+
+o  o 
+
+O  O  N 
+O  O  r-» 
+O  O  r-~ 
+
+
+_5 
+
+o 
+
+
+o  o 
+o  o  o 
+o  c  cn 
+O  O  r- 
+
+
+00 
+
+ON  ^ 
+
+h  o  n 
+
+in  O 
+vD  O  v£> 
+
+
+00 
+
+
+z 
+
+o 
+
+
+< 
+
+Efa 
+
+
+o 
+
+u 
+
+
+o  o 
+
+O  O  O' 
+O  O  CM 
+O  O  ex 
+
+
+O 
+
+o 
+
+r—4 
+
+Os 
+
+ph 
+
+o 
+
+o 
+
+m 
+
+O 
+
+00 
+
+o 
+
+SO 
+
+o 
+
+o 
+
+co 
+
+m 
+
+o 
+
+CM 
+
+o 
+
+o 
+
+o 
+
+sO 
+
+o 
+
+sO 
+
+o 
+
+vO 
+
+• 
+
+• 
+
+• 
+
+• 
+
+9 
+
+• 
+
+m 
+
+m 
+
+pH 
+
+o 
+
+© 
+
+OS 
+
+pH 
+
+o s 
+
+pH 
+
+o 
+
+H 
+
+o 
+
+O  NO 
+
+pH 
+
+o 
+
+co 
+
+»n 
+
+© 
+
+00 
+
+00 
+
+o 
+
+00 
+
+o 
+
+o  m 
+
+O' 
+
+o 
+
+co 
+
+oo 
+
+o 
+
+CM 
+
+CM 
+
+o 
+
+o 
+
+O 
+
+00 
+
+o 
+
+p"* 
+
+in 
+
+o 
+
+rs. 
+
+m 
+
+o 
+
+NO 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+H 
+
+'■3“ 
+
+m 
+
+-o 
+
+o 
+
+o 
+
+O 
+
+O 
+
+sO 
+
+H 
+
+o 
+
+ON 
+
+pH 
+
+o 
+
+o 
+
+ON 
+
+CM 
+
+O  O' 
+
+o 
+
+o 
+
+ON 
+
+CM 
+
+o 
+
+NO 
+
+CM 
+
+o 
+
+CO 
+
+o 
+
+o 
+
+CM 
+
+r*. 
+
+O  CM 
+
+o 
+
+o 
+
+CM 
+
+m 
+
+o 
+
+CM 
+
+CO 
+
+o 
+
+o 
+
+o 
+
+r* 
+
+O  CM 
+
+00 
+
+o 
+
+r* 
+
+o 
+
+o 
+
+NO 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+o 
+
+CM 
+
+co 
+
+H 
+
+O 
+
+CM 
+
+H 
+
+CM 
+
+sO 
+
+H 
+
+•O 
+
+pH 
+
+CM 
+
+o 
+
+o 
+
+sO 
+
+•O 
+
+O  CM 
+
+m 
+
+o 
+
+sO 
+
+sO 
+
+o 
+
+00 
+
+Os 
+
+o 
+
+CO 
+
+o 
+
+o 
+
+CM 
+
+CO 
+
+O  CM 
+
+w 
+
+o 
+
+CM 
+
+o 
+
+CM 
+
+rn 
+
+o 
+
+pH 
+
+oo 
+
+o 
+
+00 
+
+©  r- 
+
+00 
+
+o 
+
+sO 
+
+o 
+
+o- 
+
+m 
+
+o 
+
+NO 
+
+00 
+
+CO 
+
+CM 
+
+H 
+
+o 
+
+o 
+
+Os 
+
+pH 
+
+ON 
+
+H 
+
+UO  pH 
+
+cn 
+
+pH 
+
+O 
+
+pH 
+
+oo 
+
+pH 
+
+© 
+
+o 
+
+o 
+
+so 
+
+O' 
+
+o 
+
+<r 
+
+00 
+
+o 
+
+•o 
+
+CM  O  sO 
+
+o 
+
+o 
+
+in 
+
+Os 
+
+o 
+
+00 
+
+o 
+
+u. 
+
+o 
+
+o 
+
+CM 
+
+SO 
+
+o 
+
+CM 
+
+*“4 
+
+o 
+
+CM 
+
+Os  o  CM 
+
+© 
+
+o 
+
+CM 
+
+pH 
+
+o 
+
+CM 
+
+sr 
+
+o 
+
+< 
+
+o 
+
+o 
+
+p^ 
+
+o 
+
+p^ 
+
+00 
+
+o 
+
+P^ 
+
+so  O 
+
+00 
+
+o 
+
+00 
+
+o 
+
+oo 
+
+o 
+
+m 
+
+h  &-|*l 
+cr 
+
+u. 
+
+< 
+
+
+0-1*1 
+
+
+o 
+
+u 
+
+
+e-l*l 
+
+
+< 
+
+u. 
+
+
+0-1*1 
+
+
+*1*1 
+
+
+£ 
+
+O 
+
+
+0-1*1 
+
+
+nJ 
+
+u 
+
+
+0-|Z| 
+
+
+H 
+
+o 
+
+
+0-1*1 
+
+
+J 
+
+U5 
+
+
+A- 1 
+
+
+82939  .82613  .84176  .87035  .92353  .66194  .71342  1.0000 
+0001  .0001  .0001  .0001  .0001  .0001  .0001  .0000 
+724  726  729  729  729  726  613  729 
+
+
+Table  A-l  (cont'd) 
+
+
+P** 
+
+
+© 
+
+o 
+
+pH 
+
+H 
+
+o 
+
+o 
+
+ro 
+
+nO 
+
+o 
+
+ro 
+
+C/3 
+
+o 
+
+o 
+
+co 
+
+on 
+
+© 
+
+co 
+
+o 
+
+o 
+
+sO 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+pH 
+
+00 
+
+00 
+
+o 
+
+o 
+
+os 
+
+*3- 
+
+ph 
+
+u 
+
+o 
+
+o 
+
+pH 
+
+© 
+
+o 
+
+o 
+
+^H 
+
+o 
+
+pH 
+
+C/3 
+
+o 
+
+o 
+
+ro 
+
+ON 
+
+o 
+
+co 
+
+ro 
+
+o 
+
+ro 
+
+o 
+
+o 
+
+r>> 
+
+o 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+pH 
+
+oo 
+
+p- d 
+
+H 
+
+m 
+
+pH 
+
+CM 
+
+CO 
+
+pH 
+
+pJ 
+
+on 
+
+O 
+
+00 
+
+O 
+
+o 
+
+ON 
+
+<T 
+
+o 
+
+ON 
+
+w 
+
+on 
+
+o 
+
+cm 
+
+sD 
+
+o 
+
+CM 
+
+<T 
+
+o 
+
+CM 
+
+• 
+
+o 
+
+• 
+
+00 
+
+• 
+
+o 
+
+• 
+
+• 
+
+o 
+
+• 
+
+r*^ 
+
+CM 
+
+NO 
+
+00 
+
+CM 
+
+p  ^ 
+
+o 
+
+rH 
+
+m 
+
+pH 
+
+H 
+
+CO 
+
+o 
+
+<r 
+
+o 
+
+O 
+
+NO 
+
+CM 
+
+o 
+
+ON 
+
+• 
+
+O 
+
+nO 
+
+o 
+
+pH 
+
+On 
+
+o 
+
+pH 
+
+m 
+
+o 
+
+pH 
+
+W 
+
+nO 
+
+o 
+
+NO 
+
+o 
+
+NO 
+
+m 
+
+o 
+
+SO 
+
+c 
+
+• 
+
+• 
+
+* 
+
+• 
+
+• 
+
+• 
+
+o 
+
+tH 
+
+■u 
+
+cC 
+
+pH 
+
+m 
+
+o 
+
+*3“ 
+
+0> 
+
+r—4 
+
+r—t 
+
+ON 
+
+pH 
+
+CO 
+
+pH 
+
+W» 
+
+1 
+
+o 
+
+00 
+
+pH 
+
+o 
+
+00 
+
+CM 
+
+o 
+
+O 
+
+u 
+
+© 
+
+-3- 
+
+o 
+
+CM 
+
+o 
+
+o 
+
+CM 
+
+m 
+
+o 
+
+CO 
+
+o 
+
+00 
+
+o 
+
+r^. 
+
+o 
+
+f-* 
+
+NO 
+
+o 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+a) 
+
+u 
+
+c« 
+
+CM 
+
+O' 
+
+m 
+
+CO 
+
+in 
+
+pH 
+
+pH 
+
+<— 1 
+
+0) 
+
+r 
+
+CO 
+
+o 
+
+O 
+
+o 
+
+o 
+
+CO 
+
+o 
+
+co 
+
+B 
+
+'O 
+
+<t 
+
+o 
+
+cO 
+
+CO 
+
+o 
+
+co 
+
+O 
+
+o 
+
+CO 
+
+CO 
+
+00 
+
+o 
+
+n. 
+
+00 
+
+o 
+
+00 
+
+o 
+
+r>. 
+
+c 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+OJ 
+
+»H 
+
+o 
+
+CJ 
+
+m 
+
+vO 
+
+CO 
+
+C/3 
+
+njd 
+
+pH 
+
+00 
+
+rH 
+
+NO 
+
+r*^ 
+
+o 
+
+eH 
+
+sO 
+
+o 
+
+co 
+
+o 
+
+o 
+
+<u 
+
+2 
+
+r^» 
+
+o 
+
+CO 
+
+sO 
+
+o 
+
+CO 
+
+o 
+
+CO 
+
+pH 
+
+p^ 
+
+o 
+
+T*+ 
+
+o 
+
+00 
+
+© 
+
+r>. 
+
+«J 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+O 
+
+C/3 
+
+0) 
+
+-C 
+
+n* 
+
+ON 
+
+NO 
+
+4-1 
+
+O 
+
+^H 
+
+CO 
+
+pH 
+
+CO 
+
+< 
+
+CO 
+
+o 
+
+00 
+
+r>. 
+
+o 
+
+O' 
+
+CO 
+
+o 
+
+O' 
+
+» 
+
+ON 
+
+o 
+
+CM 
+
+m 
+
+o 
+
+CM 
+
+CM 
+
+o 
+
+CM 
+
+CO 
+
+n* 
+
+o 
+
+r** 
+
+00 
+
+o 
+
+rn. 
+
+00 
+
+o 
+
+• 
+
+• 
+
+■ 
+
+• 
+
+• 
+
+• 
+
+0) 
+
+c 
+
+•H 
+
+pH 
+
+ON 
+
+CO 
+
+CO 
+
+0> 
+
+CO 
+
+r—i 
+
+On 
+
+o 
+
+pH 
+
+B 
+
+o 
+
+m 
+
+o 
+
+o 
+
+o 
+
+SO 
+
+CO 
+
+o 
+
+on 
+
+C3 
+
+u 
+
+^h 
+
+o 
+
+CM 
+
+oo 
+
+o 
+
+CM 
+
+CO 
+
+o 
+
+CM 
+
+CO 
+
+00 
+
+o 
+
+o 
+
+Pv 
+
+r-. 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+a) 
+
+pC 
+
+u 
+
+c 
+
+H 
+
+CO 
+
+H 
+
+co 
+
+o 
+
+O' 
+
+CM 
+
+ON 
+
+H 
+
+00 
+
+pH 
+
+fcM 
+
+© 
+
+in 
+
+CM 
+
+o 
+
+m 
+
+ON 
+
+o 
+
+O 
+
+0 
+
+< 
+
+ON 
+
+o 
+
+CM 
+
+m 
+
+o 
+
+CM 
+
+ON 
+
+© 
+
+CM 
+
+V 
+
+00 
+
+o 
+
+00 
+
+o 
+
+so 
+
+o 
+
+Pn. 
+
+a 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+pH 
+
+c« 
+
+> 
+
+p 
+
+N 
+
+a, 
+
+|2| 
+
+Oulzl 
+
+eH 
+
+u 
+
+H 
+
+u* 
+
+< 
+
+oo 
+
+CO 
+
+o 
+
+Cfl 
+
+A-2 
+
+
+Correlational  Matrix  of  ASVAB  Subtest  (Percent  Correct)  Scores  for  Test  Forms  5-14 
+
+
+U3 
+
+
+o 
+
+x 
+
+
+O  O  00 
+o  o 
+o  ©  r>. 
+o  o 
+•  • 
+
+-<  o 
+
+
+to 
+
+< 
+
+
+to 
+
+u 
+
+
+o 
+
+z 
+
+
+o  o 
+
+O  O  00 
+
+o  o  -a- 
+
+©  O 
+
+•  • 
+
+—  o 
+
+
+O  O  vO 
+
+O  3  CM  tD 
+
+u  o  o  to  o  m 
+
+a-  o  o  c">  f— *  o 
+
+•  •  •  • 
+
+—I  O  O  O 
+
+
+3 
+
+
+o  o  p 
+
+O  O  00  tN  O  'S’ 
+
+O  O  -3-  o  tn 
+
+O  O  r-»  vD  O  <3 
+
+•  •  •  4 
+
+rH  O  O  O 
+
+
+CN  O  CO 
+O  o  CO 
+^  O 
+•  • 
+
+o  o 
+
+
+o 
+
+o 
+
+H 
+
+H 
+
+pH 
+
+o 
+
+o 
+
+oo 
+
+H 
+
+o 
+
+CN 
+
+nO 
+
+o 
+
+CN 
+
+© 
+
+o 
+
+06 
+
+o 
+
+o 
+
+m 
+
+o 
+
+co 
+
+O 
+
+o 
+
+IT) 
+
+On 
+
+o 
+
+co 
+
+< 
+
+o 
+
+o 
+
+m 
+
+o 
+
+r-x 
+
+m 
+
+o 
+
+co 
+
+co 
+
+© 
+
+o*. 
+
+4 
+
+• 
+
+• 
+
+4 
+
+• 
+
+4 
+
+• 
+
+• 
+
+H 
+
+o 
+
+o 
+
+© 
+
+o 
+
+© 
+
+© 
+
+o 
+
+o 
+
+© 
+
+pH 
+
+pH 
+
+o 
+
+© 
+
+On 
+
+ON 
+
+© 
+
+<N 
+
+O 
+
+o 
+
+rx 
+
+rx 
+
+© 
+
+o 
+
+V O 
+
+CO 
+
+© 
+
+© 
+
+CO 
+
+4D 
+
+o 
+
+co 
+
+rx 
+
+o 
+
+co 
+
+Ox 
+
+o 
+
+m 
+
+rx 
+
+© 
+
+co 
+
+'O 
+
+o 
+
+© 
+
+m 
+
+o 
+
+r-x 
+
+rx. 
+
+© 
+
+rx 
+
+m 
+
+o 
+
+co 
+
+co 
+
+© 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+■ 
+
+• 
+
+pH 
+
+© 
+
+o 
+
+o 
+
+© 
+
+o 
+
+o 
+
+o 
+
+© 
+
+o 
+
+© 
+
+© 
+
+o 
+
+© 
+
+o 
+
+© 
+
+o 
+
+NO 
+
+o 
+
+o 
+
+co 
+
+• 
+
+4 
+
+pH 
+
+o 
+
+o 
+
+o 
+
+30 
+
+o 
+
+o 
+
+04 
+
+O’ 
+
+o 
+
+© 
+
+o 
+
+vO 
+
+NO 
+
+o 
+
+vO 
+
+o 
+
+© 
+
+co 
+
+^H 
+
+o 
+
+co 
+
+• 
+
+« 
+
+• 
+
+. 
+
+pH 
+
+o 
+
+© 
+
+o 
+
+pH 
+
+co 
+
+vO 
+
+o 
+
+o 
+
+o 
+
+co 
+
+o 
+
+m 
+
+o 
+
+vD 
+
+m 
+
+o 
+
+to 
+
+NO 
+
+© 
+
+c-> 
+
+pH 
+
+o 
+
+<3 
+
+• 
+
+• 
+
+• 
+
+• 
+
+© 
+
+o 
+
+o 
+
+o 
+
+ON 
+
+pH 
+
+o 
+
+o 
+
+co 
+
+pH 
+
+o 
+
+o 
+
+m 
+
+o 
+
+m 
+
+C 
+
+© 
+
+m 
+
+CN 
+
+© 
+
+co 
+
+o 
+
+o 
+
+co 
+
+• 
+
+O 
+
+• 
+
+o 
+
+• 
+
+o 
+
+• 
+
+o 
+
+pH 
+
+pH 
+
+rx 
+
+© 
+
+o 
+
+^H 
+
+o 
+
+o 
+
+O 
+
+© 
+
+vO 
+
+o 
+
+VO 
+
+co 
+
+o 
+
+co 
+
+m 
+
+o 
+
+co 
+
+• 
+
+• 
+
+• 
+
+• 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+pH 
+
+pH 
+
+o 
+
+vO 
+
+pH 
+
+o 
+
+NO 
+
+in 
+
+o 
+
+m 
+
+o 
+
+© 
+
+m 
+
+^H 
+
+o 
+
+co 
+
+co 
+
+© 
+
+co 
+
+• 
+
+• 
+
+• 
+
+• 
+
+© 
+
+© 
+
+© 
+
+o 
+
+pH 
+
+pH 
+
+co 
+
+o 
+
+o 
+
+pH 
+
+© 
+
+o 
+
+rx 
+
+o 
+
+NO 
+
+o 
+
+© 
+
+NO 
+
+cn 
+
+© 
+
+co 
+
+NO 
+
+© 
+
+co 
+
+• 
+
+• 
+
+• 
+
+• 
+
+© 
+
+© 
+
+© 
+
+© 
+
+o 
+
+o 
+
+pH 
+
+o 
+
+o 
+
+SO 
+
+CO 
+
+o 
+
+m 
+
+o 
+
+© 
+
+CO 
+
+On 
+
+o 
+
+cn 
+
+o 
+
+© 
+
+rx 
+
+O 
+
+© 
+
+rx 
+
+• 
+
+• 
+
+• 
+
+• 
+
+pH 
+
+o 
+
+o 
+
+o 
+
+pH 
+
+pH 
+
+o 
+
+00 
+
+© 
+
+ON 
+
+pH 
+
+O 
+
+NO 
+
+pH 
+
+o 
+
+m 
+
+00 
+
+o 
+
+<o 
+
+CN 
+
+o 
+
+co 
+
+m 
+
+© 
+
+• 
+
+• 
+
+• 
+
+• 
+
+© 
+
+o 
+
+o 
+
+o 
+
+pH 
+
+CM 
+
+eg 
+
+o 
+
+ON 
+
+CN 
+
+© 
+
+o 
+
+pH 
+
+o 
+
+m 
+
+ON 
+
+© 
+
+vO 
+
+CN 
+
+© 
+
+CO 
+
+pH 
+
+o 
+
+CO 
+
+• 
+
+• 
+
+• 
+
+• 
+
+o 
+
+© 
+
+o 
+
+o 
+
+pH 
+
+pH 
+
+o 
+
+m 
+
+CN 
+
+pH 
+
+o 
+
+m 
+
+00 
+
+o 
+
+co 
+
+pH 
+
+o 
+
+CO 
+
+CO 
+
+© 
+
+rx 
+
+CO 
+
+o 
+
+rx 
+
+• 
+
+o 
+
+• 
+
+o 
+
+• 
+
+o 
+
+• 
+
+o 
+
+pH 
+
+pH 
+
+CO 
+
+o 
+
+<r 
+
+rx 
+
+O 
+
+NO 
+
+o 
+
+m 
+
+00 
+
+© 
+
+m 
+
+o 
+
+co 
+
+© 
+
+co 
+
+• 
+
+• 
+
+• 
+
+• 
+
+o 
+
+o 
+
+o 
+
+© 
+
+pH 
+
+^4 
+
+NO 
+
+o 
+
+00 
+
+o 
+
+NO 
+
+© 
+
+co 
+
+O' 
+
+© 
+
+CO 
+
+© 
+
+rx 
+
+m 
+
+o 
+
+rx 
+
+• 
+
+• 
+
+• 
+
+4 
+
+o 
+
+o 
+
+© 
+
+o 
+
+pH 
+
+pH 
+
+ON 
+
+o 
+
+On 
+
+rx 
+
+© 
+
+o 
+
+oo 
+
+o 
+
+CN 
+
+m 
+
+o 
+
+CO 
+
+NO 
+
+o 
+
+rx. 
+
+in 
+
+© 
+
+rx 
+
+• 
+
+4 
+
+4 
+
+4 
+
+o 
+
+o 
+
+o 
+
+© 
+
+pH 
+
+pH 
+
+CN 
+
+© 
+
+m 
+
+NO 
+
+© 
+
+vO 
+
+O 
+
+© 
+
+co 
+
+CO 
+
+© 
+
+CO 
+
+m 
+
+© 
+
+fx 
+
+NO 
+
+o 
+
+Ox 
+
+4 
+
+4 
+
+4 
+
+4 
+
+© 
+
+O 
+
+© 
+
+© 
+
+(0  0m|Z| 
+
+1/5 
+
+o 
+
+
+os 
+
+< 
+
+
+o,|z| 
+
+
+u 
+
+a- 
+
+
+&-  2 
+
+
+O 
+
+z 
+
+
+ft-  85  I 
+
+
+to 
+
+CJ 
+
+
+ft-|Z 
+
+
+to 
+
+< 
+
+
+0-2 
+
+
+a-|z|  ft-|z|  ol,  |z  | 
+
+Ui  L>  P 
+
+x  x  w 
+
+
+A-3 
+
+
+0.662  0.476  0.610  0.458  0.280  0.191  0.650  0.451  0.636  1.0000 
+
+0.0001  0.0001  0.0001  0.0001  0.0001  0.0003  0.0001  0.0001  0.0001  0.0000 
+
+737  731  739  354  740  360  360  735  735  748 
+
+
+Table  A-2  (cont'd) 
+
+
+r-  ©  © 
+
+CO  OsO 
+
+m  o  po 
+
+
+in  o  O 
+in  o  v© 
+mom 
+
+
+m  o  on 
+M  o  m 
+
+O  n 
+
+
+o  o 
+
+00  O  v£> 
+
+m  o  m 
+
+
+vO  O  O 
+O  O  NO 
+<r  o  m 
+
+
+O  O 
+
+m  o  no 
+mom 
+
+
+CM  O 
+oo  o  m 
+r-  o  m 
+
+
+moo 
+in  o  no 
+on  o  m 
+
+
+00  OvO 
+cm  ©  in 
+in  o  m 
+
+
+on 
+
+m  m  o 
+so  o  vO 
+
+r-  o  m 
+
+
+m  m 
+O 
+
+<f  O  m 
+
+NO  O 
+
+
+m  m 
+
+NO  O  f*- 
+
+o  m 
+m  o 
+
+
+in  o  m 
+O  r- 
+^  O  m 
+
+
+NO 
+
+-o  cm  r- 
+
+O  <j-  n* 
+mom 
+
+
+oo 
+
+O  N  N 
+
+m  no  Is*. 
+O  in  m 
+
+
+NO 
+
+m  on  m 
+
+N  H  N 
+
+mom 
+
+
+CM  O  NO 
+
+m  o  e'¬ 
+en  o  m 
+
+
+O  o  m 
+m  o  r*- 
+O  m 
+
+
+oo  o  m 
+no  o  r- 
+mom 
+
+
+ON  O  m 
+
+m  o  oo 
+o  m 
+
+
+O  o  no 
+m  o  r- 
+no  o  m 
+
+
+O  O  n- 
+
+O  O 
+<r  O  m 
+
+
+^  O  m 
+nO  O  00 
+
+r-.  o  m 
+
+
+m  o  no 
+in  o  n- 
+no  o  m 
+
+
+CO  O  N 
+O  O  n- 
+<r  o  m 
+
+
+O  O  m 
+O  O  00 
+mom 
+
+
+m 
+
+m  m  so 
+cm  m  r-» 
+mom 
+
+
+h- 
+
+NON  N 
+O  O  h- 
+
+o  on  m 
+
+
+CM 
+
+00  O  rn 
+00  O  00 
+m  O  m 
+
+
+CM 
+
+00  oo  no 
+
+N  00  N 
+
+o  m  m 
+
+
+NO 
+nO  On 
+iD  N 
+
+O  m  m 
+
+
+m  m 
+no  cm  oo 
+in  o  m 
+m  o 
+
+
+NO  NO 
+CO  N  N 
+
+m  cm  m 
+
+O 
+
+
+00 
+
+r-  r-* 
+
+m  r-  r- 
+
+O  m 
+
+
+CO  O  ^ 
+
+m  o  n* 
+
+mom 
+
+
+m 
+
+m  m  no 
+no  ©  e'¬ 
+en  ©  m 
+
+
+nO 
+
+in  cm  m 
+in  © 
+m  ©  m 
+
+
+oo  O  © 
+00  ©  oo 
+
+CM  o  m 
+
+
+O  O  © 
+oo  ©  oo 
+cm  ©  m 
+
+
+m  on  cm 
+
+ON  NO  00 
+
+©  ©  m 
+
+
+in 
+
+CM  m  CM 
+NO  ©  00 
+m  ©  m 
+
+
+m 
+
+cm  ©  CM 
+oo  ©  oo 
+m  ©  cn 
+
+
+m  O  no 
+h-  O  r- 
+no  o  m 
+
+
+O'  ©  m 
+On  O  I*— 
+<r  o  m 
+
+
+o  ©  no 
+m  ©  r- 
+no  ©  m 
+
+
+NO  N  N 
+r-  n* 
+©mm 
+
+
+© 
+
+n  x^  m 
+
+00  ON  N 
+
+©  ©  m 
+
+
+MT 
+
+oo  oo  m 
+
+CM  00  N 
+
+©  in  m 
+
+
+on 
+
+m  N  t'- 
+rn  (M  N 
+
+m  ©  m 
+
+
+m  ©  m 
+m  ©  n* 
+
+m  ©  m 
+
+
+m  ©  m 
+<r  O 
+cm  ©  m 
+
+
+in  ©  © 
+m  ©  oo 
+in  ©  m 
+
+
+m  ©  nO 
+On  ©  r- 
+-o  o  m 
+
+
+©  O  ON 
+
+no  O  r- 
+no  O  m 
+
+
+m  ©  © 
+
+m  ©  oo 
+m  ©  m 
+
+
+^  ©  NO 
+r-.  © 
+
+-*  ©  m 
+
+
+Sf  ©  on 
+-5-  O  r^ 
+no  o  m 
+
+
+oo 
+
+©  m  © 
+m  m  oo 
+m  ©  m 
+
+
+O' 
+
+f>-  00  nO 
+©  m  r^. 
+m  ©  m 
+
+
+On 
+
+ON  m  ON 
+
+m  ©  r- 
+m  ©  m 
+
+
+r-»  O  © 
+On  ©  00 
+m  ©  m 
+
+
+ON  NO 
+
+©  m  e- 
+
+mom 
+
+
+00 
+
+m  ©  On 
+©  r-. 
+m  ©  m 
+
+
+00 
+
+m  cm  © 
+NO  cm  oo 
+©  cm  m 
+
+
+CM 
+
+^  CM  NO 
+00  O  N 
+©mm 
+
+
+m 
+
+NO  ON 
+m  CM  S 
+
+m  ©  m 
+
+
+0.295  0.175  0.244  0.136  0.117  0.1653  0.364 
+
+0.0001  0.0007  0.0001  -  0.0079  -  -  0.0230  0.0013  0.0001 
+
+379  376  380  382  377  376  381 
+
+
+Table  A-2  (cont'd) 
+
+
+I 
+
+m 
+
+
+0) 
+
+s 
+
+
+o 
+
+o 
+
+4J  3 
+
+J- 
+
+o 
+
+O  NO 
+
+» 
+
+to 
+
+o 
+
+o  00 
+
+a)  co 
+
+a 
+
+o 
+
+o  CO 
+
+H  41 
+
+• 
+
+• 
+
+CO 
+
+to 
+
+H 
+
+© 
+
+C  <0 
+
+<0 
+
+•H  O 
+
+T3 
+
+>JU 
+
+0t 
+
+o 
+
+o 
+
+-Hj  4J 
+
+*T3 
+
+© 
+
+o 
+
+NO 
+
+CM 
+
+O  NO 
+
+c  F 
+
+■H 
+
+o 
+
+o 
+
+oo 
+
+rs. 
+
+o  00 
+
+o  he 
+
+> 
+
+o 
+
+o 
+
+CO 
+
+m 
+
+o  co 
+
+o 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+oo 
+
+u 
+
+l-J 
+
+o 
+
+o 
+
+o 
+
+c 
+
+•H  • 
+
+a 
+
+©  o 
+
+O  O  S> 
+O  O  00 
+O  O  fO 
+
+
+O  O 
+O  O  v£> 
+
+o  o  oo 
+
+OOfO 
+
+
+o  o 
+in  o  oo 
+N  o 
+
+
+o  o 
+o  o  s> 
+
+O  O  00 
+o  o  co 
+
+
+on  o  <r 
+m  o  oo 
+CO  o  to 
+
+
+^  O  ^ 
+vO  o  oo 
+non 
+
+
+o  o 
+
+O  O  VO 
+
+o  o  oo 
+
+©  ©  CO 
+
+
+co  o  no 
+H  o  00 
+no  o  n 
+
+
+oo 
+
+On  »-< 
+
+m  ©  oo 
+^  o  n 
+
+
+m 
+
+o 
+
+N  O  00 
+pH  o  m 
+
+
+On  O  NO 
+VOO  00 
+Noon 
+
+
+CO  o  o 
+
+CM  O  CO 
+
+son 
+
+
+00  NO 
+
+n  o  oo 
+^  o  n 
+
+
+CO 
+
+ON  ^  ^ 
+CM  ^-4  00 
+
+h  o  n 
+
+
+m  O  nO 
+CM  O  CO 
+n  o  n 
+
+
+On  o  NO 
+^  o  00 
+n  o  n 
+
+
+<r  o  >3“ 
+<t  o  co 
+non 
+
+
+O  ^ 
+On  O  oo 
+non 
+
+
+0t  0) 
+
+T~*  u 
+
+si  at 
+
+.  co  3 
+
+.  H 
+
+TJ 
+
+»  C 
+
+*H  CO 
+
+£  • 
+
+4J  |  0) 
+
+C 
+
+C  5S  O 
+
+■H  .O  -H 
+
+
+o 
+
+o 
+
+rH 
+
+*— 4 
+
+>» 
+
+m 
+
+co 
+
+in 
+
+at 
+
+to 
+
+CD 
+
+nm 
+
+o 
+
+o 
+
+NO 
+
+CO 
+
+o 
+
+r*% 
+
+o 
+
+O  m 
+
+CM 
+
+CM 
+
+r-* 
+
+o 
+
+H 
+
+vO 
+
+'0- 
+
+NO 
+
+co 
+
+JZ 
+
+at 
+
+nm 
+
+4J 
+
+•H 
+
+m 
+
+o 
+
+o 
+
+oo 
+
+o 
+
+00 
+
+O  f* 
+
+NO 
+
+r'* 
+
+o 
+
+CO 
+
+r^. 
+
+oo 
+
+ON 
+
+pn. 
+
+On 
+
+nO 
+
+u 
+
+4J 
+
+O 
+
+at 
+
+C 
+
+< 
+
+o 
+
+o 
+
+CO 
+
+CM 
+
+o 
+
+co 
+
+CM 
+
+o  m 
+
+O 
+
+mH 
+
+co 
+
+• 
+
+ON 
+
+co 
+
+O 
+
+o 
+
+co 
+
+O 
+
+o 
+
+co 
+
+s 
+
+CO 
+
+CD 
+
+oo  m 
+
+• 
+
+• 
+
+• 
+
+• 
+
+m 
+
+• 
+
+• 
+
+• 
+
+o 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+to 
+
+V 
+
+•H 
+
+N-/ 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+1 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+ta 
+
+in 
+
+at 
+
+•H 
+
+s 
+
+±J 
+
+CO 
+
+at 
+
+Ui 
+
+at 
+
+c 
+
+4-1 
+
+o 
+
+at 
+
+c 
+
+at 
+
+s> 
+
+s 
+
+to 
+
+«H 
+
+0) 
+
+4-1 
+
+3 
+
+o 
+
+o 
+
+CM 
+
+ON 
+
+NO 
+
+NO 
+
+n 
+
+co 
+
+00 
+
+3 
+
+•H 
+
+c 
+
+CO 
+
+4J 
+
+o 
+
+o 
+
+NO 
+
+H 
+
+ON 
+
+in 
+
+Mf 
+
+00 
+
+CM 
+
+oo 
+
+\D 
+
+o 
+
+00 
+
+r^. 
+
+00 
+
+vO 
+
+r* 
+
+00 
+
+r^. 
+
+CO 
+
+at 
+
+4J 
+
+Si 
+
+•H 
+
+NU 
+
+o 
+
+o 
+
+00 
+
+00 
+
+H 
+
+rv 
+
+vO 
+
+H 
+
+CO 
+
+co 
+
+cs 
+
+CM 
+
+m 
+
+'O' 
+
+m 
+
+r-. 
+
+r^. 
+
+CM 
+
+o 
+
+r>* 
+
+at 
+
+■H 
+
+CO 
+
+0 
+
+o 
+
+o 
+
+CO 
+
+o 
+
+co 
+
+o 
+
+CM 
+
+co 
+
+O 
+
+m  co 
+
+o 
+
+NO 
+
+co 
+
+o 
+
+'O’ 
+
+CO 
+
+co 
+
+co 
+
+O 
+
+NO 
+
+co 
+
+8 
+
+s 
+
+to 
+
+U 
+
+at 
+
+CO 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+to 
+
+to 
+
+CO 
+
+u 
+
+o 
+
+© 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+© 
+
+o 
+
+© 
+
+o 
+
+© 
+
+o 
+
+a 
+
+to 
+
+c 
+
+0 
+
+a 
+
+at  -o 
+a.  -a 
+
+CO 
+
+•H 
+
+o  o 
+
+O  O  NO 
+
+O  O  oo 
+oon 
+
+
+NO 
+
+m  rs  n 
+
+O  H  N 
+
+O  on  n 
+
+
+00  O  MT 
+O  O  fN. 
+
+cm  o  n 
+
+
+no  o  no 
+o 
+
+non 
+
+
+o  NO 
+O  O 
+
+no  on 
+
+
+M  fc|Z| 
+< 
+
+
+<■ 
+
+00  f*  tO 
+OlflN 
+
+oon 
+
+
+m 
+
+o\  in  vo 
+O  n  p» 
+mom 
+
+
+n  n  * 
+©  «»  f- 
+•  m  to 
+©  • 
+
+
+a>  o  'O 
+o  r- 
+mom 
+
+
+u  »  m  e 
+o  <u  *H 
+c  4-i  a»  *j 
+
+J0  4->  !S 
+O  D  O  4-1 
+
+-a  to  z  to 
+
+
+f 
+
+
+Appendix  B 
+
+Assignment  of  Individuals  to  Low  and  High  Vehicle 
+Identification  Achiever  Classes 
+
+Predictions  of  Low  vs  High  Vehicle  Identification  Achievers 
+
+As  noted  in  the  text,  when  an  individual  has  completed  his  ASVAB  test,  a 
+recruiter  might  find  it  useful  to  use  these  results  as  a  basis  for  counseling  a 
+potential  soldier  into  an  MOS  which  does/does  not  require  heavy  emphasis  on 
+vehicle  identification.  Alternately  a  trainer  may  wish  to  use  ASVAB  scores  as  a 
+basis  for  deciding  who  should  receive  repeated  R&I  training  and  who  might  best 
+be  assigned  to  perform  some  other  unit  function.  The  first  thing  a  trainer  must 
+do  is  to  determine  whether  the  ASVAB  scores  available  for  a  soldier  were  obtained 
+with  any  of  test  forms  5-7  or  8-14.  Since  test  forms  5-7  of  the  ASVAB  are  no 
+longer  used,  a  recruiter  does  not  have  this  decision.  In  order  to  provide  a 
+basis  for  predicting  apriori  whether  an  individual  is  a  high  or  low  vehicle 
+identification  achiever,  two  discriminant  function  values  must  be  computed — one 
+assuming  the  ASVAB  scores  are  for  a  LOW  achiever  and  another  assuming  the  ASVAB 
+scores  are  for  a  HIGH  achiever.  These  discriminant  functions  are  computed 
+"generalized  square  distances."  The  decision  rule  is  to  categorize 
+the  individual  to  the  "achiever  class"  for  the  discriminant  function  which  has 
+the  largest  value. 
+
+For  soldiers  who  have  taken  one  of  the  ASVAB  form  5-7  the  discriminant 
+functions  to  be  computed  follow: 
+
+ASVAB  Test  Form  5-7 
+
+
+Assumed  LOW 
+
+(.0400)  (AFQT2)  +  (.0179)  (CO2)  +  (.0943)  (FA2)  +  (.0327)  (MM2) 
++(.0780)  (GM2)  +  (.0250)  (CL2)  +  (.0195)  (GT2)  +  (.0505)  (EL2)  + 
+(.1330)  (SC2)  +  (.0688)  (ST2)  +  (.0280)  (OF2)  +  (.0016)  (AFQT)  (CO)  + 
+(.0079)  (AFQT)  (FA)  -  (.0041)  (AFQT)  (MM)  +  (.0438)  (AFQT)  (GM)  - 
+(.0062)  (AFQT)  (CL)  -  (.0116)  (AFQT)  (GT)  -  (.0030)  (AFQT)  (EL)  - 
+(.1203)  (AFQT)  (SC)  -  (.0227)  (AFQT)  (ST)  -  (.0128)  (AFQT)  (OF)  + 
+
+
+(.0059) 
+
+(CO) 
+
+(FA) 
+
+- 
+
+(.0182) 
+
+(CO) 
+
+(MM) 
+
++ 
+
+(.0089) 
+
+(CO) 
+
+(GM) 
+
+- 
+
+(.0138) 
+
+(CO) 
+
+(CL) 
+
++ 
+
+(.0106) 
+
+(CO) 
+
+(GT) 
+
+- 
+
+(.0086) 
+
+(CO) 
+
+(EL) 
+
+- 
+
+(  .0182) 
+
+(CO) 
+
+(SC) 
+
+- 
+
+(.0043) 
+
+(CO) 
+
+(ST) 
+
++ 
+
+(.0047) 
+
+(CO) 
+
+(OF) 
+
+- 
+
+(.0068) 
+
+(FA) 
+
+(MM) 
+
++ 
+
+(.0918) 
+
+(FA) 
+
+(GM) 
+
++ 
+
+(.0016) 
+
+(FA) 
+
+(CL) 
+
+- 
+
+(.0006) 
+
+(FA) 
+
+(GT) 
+
+- 
+
+(.0617) 
+
+(FA) 
+
+(EL) 
+
+- 
+
+(.0472) 
+
+(FA) 
+
+(SC) 
+
+- 
+
+(.1314) 
+
+(FA) 
+
+(ST) 
+
+- 
+
+(.0720) 
+
+(FA) 
+
+(OF) 
+
+- 
+
+(.0124) 
+
+(MM) 
+
+(GM) 
+
++ 
+
+(.0205) 
+
+(MM) 
+
+(CL) 
+
+- 
+
+(.0018) 
+
+(MM) 
+
+(GT) 
+
+- 
+
+(.0413) 
+
+(MM) 
+
+(EL) 
+
++ 
+
+(.0229) 
+
+(MM) 
+
+(SC) 
+
+- 
+
+(.0057) 
+
+(MM) 
+
+(ST) 
+
+- 
+
+(.0157) 
+
+(MM) 
+
+(OF) 
+
++ 
+
+(.0250) 
+
+(GM) 
+
+(CL) 
+
+- 
+
+(.0104) 
+
+(GM) 
+
+(GT) 
+
+- 
+
+(.0467) 
+
+(GM) 
+
+(EL) 
+
+- 
+
+(.1275) 
+
+(GM) 
+
+(SC) 
+
+- 
+
+(.1023) 
+
+(GM) 
+
+(ST) 
+
+- 
+
+(.0677) 
+
+(GM) 
+
+(OF) 
+
+- 
+
+(.0170) 
+
+(CL) 
+
+(GT) 
+
+- 
+
+(.0073) 
+
+(CL) 
+
+(EL) 
+
+- 
+
+(.0095) 
+
+(CL) 
+
+(SC) 
+
+- 
+
+(.0187) 
+
+(CL) 
+
+(ST) 
+
+- 
+
+(.0217) 
+
+(CL) 
+
+(OF) 
+
++ 
+
+(.0019) 
+
+(GT) 
+
+(EL) 
+
++ 
+
+(.0020) 
+
+(GT) 
+
+(SC) 
+
+- 
+
+(.0046) 
+
+(GT) 
+
+(ST) 
+
++ 
+
+(.0032) 
+
+(GT) 
+
+(OF) 
+
+- 
+
+(.0032) 
+
+(EL) 
+
+(SC) 
+
++ 
+
+(.0477) 
+
+(EL) 
+
+(ST) 
+
++ 
+
+(.0314) 
+
+(EL) 
+
+(OF) 
+
++ 
+
+( .0660) 
+
+(SC) 
+
+(ST) 
+
++ 
+
+(.0444) 
+
+(SC) 
+
+(OF) 
+
++ 
+
+(.0677) 
+
+(ST) 
+
+(OF) 
+
++ 
+
+(8.7478) 
+
+(AFQT)  - 
+
+(. 
+
+4097)  (CO)  + 
+
+(2.8322)  (FA)  - 
+
+■  (.5833)  i 
+
+(MM) 
+
+(6.3069)  (GM)  -  (.4691)  (CL)  -  (1.9422)  (GT)  -  (1.0976)  (EL)  - 
+(13.3668)  (SC)  -  (4.0498)  (ST)  -  (2.3674)  (OF)  +  585.9960 
+
+
+B-l 
+
+
+ASVAB  Test  Form  5-7 
+
+
+Assumed  HIGH 
+
+(.0525)  (AFQT2)  +  (.0126)  (CO2)  +  (.1371)  (FA2)  +  (.0424)  (MM2) 
++(.0798)  (GMZ )  +  (.0266)  (CL2)  +  (.0154)  (GT2)  +  (.0877)  (EL2)  + 
+(.1508)  (SC2)  +  (.0921)  (ST2)  +  (.0410)  (OF2)  +  (.0159)  (AFQT)  (CO) 
+(.0177)  (AFQT)  (FA)  -  (.0047)  (AFQT)  (MM)  +  (.0200)  (AFQT)  (GM)  - 
+(.0262)  (AFQT)  (CL)  +  (.0067)  (AFQT)  (GT)  +  (.0211)  (AFQT)  (EL)  - 
+(.1517)  (AFQT)  (SC)  -  (.0141)  (AFQT)  (ST)  +  (.0045)  (AFQT)  (OF)  - 
+(.0073)  (CO)  (FA)  -  (.0031)  (CO)  (MM)  -  (.0016)  (CO)  (GM)  - 
+
+(.0047)  (CO)  (CL)  +  (.0049)  (CO)  (GT)  -  (.0013)  (CO)  (EL)  - 
+
+(.0308)  (CO)  (SC)  -  (.0022)  (CO)  (ST)  +  (.0037)  (CO)  (OF)  + 
+
+(.0598)  (FA)  (MM)  +  (.1395)  (FA)  (GM)  +  (.0360)  (FA)  (CL)  - 
+
+(.0069)  (FA)  (GT)  -  (.1542)  (FA)  (EL)  -  (.0316)  (FA)  (SC)  - 
+
+(.1894)  (FA)  (ST)  -  (.1256)  (FA)  (OF)  +  (.0138)  (MM)  (GM)  + 
+
+(.0246)  (MM)  (CL)  -  (.0021)  (MM)  (GT)  -  (.0829)  (MM)  (EL)  + 
+
+(.0015)  (MM)  (SC)  -  (.0476)  (MM)  (ST)  -  (.0494)  (MM)  (OF)  + 
+
+(.0237)  (GM)  (CL)  +  (.0071)  (GM)  (GT)  -  (.0947)  (GM)  (EL)  - 
+
+(.0906)  (GM)  (SC)  -  (.1313)  (GM)  (ST)  -  (.0775)  (GM)  (OF)  - 
+
+(.0124)  (CL)  (GT)  -  (.0363)  (CL)  (EL)  +  (.0110)  (CL)  (SC)  - 
+
+(.0298)  (CL)  (ST)  -  (.0291)  (CL)  (OF)  +  (.0052)  (GT)  (EL)  - 
+
+(.0218)  (GT)  (SC)  -  (.0139)  (GT)  (ST)  +  (.0022)  (GT)  (OF)  - 
+
+(.0106)  (EL)  (SC)  +  (.1112)  (EL)  (ST)  +  (.0815)  (EL)  (OF)  + 
+
+(.0657)  (SC)  (ST)  +  (.0258)  (SC)  (OF)  +  (.0975)  (ST)  (OF)  + 
+
+(9.3018)  (AFQT)  +  (.8890)  (CO)  +  (1.1949)  (FA)  +  (.0204)  (MM)  + 
+(4.0008)  (GM)  -  (2.2720)  (CL)  +  (.0919)  (GT)  -  (.0675)  (EL)  - 
+(13.9631)  (SC)  -  (3.4030)  (ST)  -  (1.1435)  (OF)  +  536.1770 
+
+
+B-2 
+
+
+For  individuals  who  have  completed  one  of  the  ASVAB  8-14  forms,  the 
+following  discriminant  functions  should  be  used.  Again,  the  Individual  Is 
+assigned  to  the  "achiever  class"  for  the  discriminant  function  which  has  the 
+largest  value. 
+
+
+ASVAB  Test  Form  8-14 
+
+Assumed  LOW 
+
+(.0761)  (AFQT2)  +  (.2030)  (CO2)  +  (.1924)  (FA2)  +  (.3418)  (MM2) 
++(.4027)  (GM2)  +  (.2435)  (CL2)  +  (.0335)  (GT2)  +  (.6519)  (EL  )  + 
+(.5402)  (SC2)  +  (.2276)  (ST2)  +  (.7577)  (OF2)  +  (.0279)  (AFQT)  (CO)  + 
+(.0312)  (AFQT)  (FA)  +  (.1593)  (AFQT)  (MM)  +  (.1597)  (AFQT)  (GM)  - 
+(.0441)  (AFQT)  (CL)  -  (.0370)  (AFQT)  (GT)  -  (.3303)  (AFQT)  (EL)  - 
+(.0210)  (AFQT)  (SC)  +  (.1090)  (AFQT)  (ST)  -  (.3176)  (AFQT)  (OF)  - 
+(.3114)  (CO)  (FA)  -  (.0840)  (CO)  (MM)  -  (.0376)  (CO)  (GM)  + 
+
+(.2206)  (CO)  (CL)  -  (.0555)  (CO)  (GT)  +  (.0700)  (CO)  (EL)  - 
+
+(.2901)  (CO)  (SC)  +  (.0580)  (CO)  (ST)  -  (.0291)  (CO)  (OF)  + 
+
+(.0503)  (FA)  (MM)  +  (.2782)  (FA)  (GM)  -  (.1339)  (FA)  (CL)  + 
+
+(.0498)  (FA)  (GT)  -  (.3336)  (FA)  (EL)  +  (.0937)  (FA)  (SC)  - 
+
+(.1043)  (FA)  (ST)  -  (.0330)  (FA)  (OF)  -  (.0642)  (MM)  (GM)  - 
+
+(.2036)  (MM)  (CL)  +  (.0411)  (MM)  (GT)  -  (.4623)  (MM)  (EL)  + 
+
+(.2807)  (MM)  (SC)  +  (.4151)  (MM)  (ST)  -  (.9092)  (MM)  (OF)  + 
+
+(.2534)  (GM)  (CL)  +  (.0171)  (GM)  (GT)  -  (.7794)  (GM)  (EL)  - 
+
+(.5383)  (GM)  (SC)  -  (.1854)  (GM)  (ST)  -  (.0355)  (GM)  (OF)  + 
+
+(.0050)  (CL)  (GT)  -  (.0379)  (CL)  (EL)  -  (.6691)  (CL)  (SC)  - 
+
+(.1783)  (CL)  (ST)  +  (.3404)  (CL)  (OF)  -  (.0431)  (GT)  (EL)  + 
+
+(.0035)  (GT)  (SC)  -  (.0160)  (GT)  (ST)  -  (.0042)  (GT)  (OF)  + 
+
+(.2684)  (EL)  (SC)  -  (.2370)  (EL)  (ST)  +  (.8263)  (EL)  (OF)  + 
+
+(.2867)  (SC)  (ST)  -  (.4641)  (SC)  (OF)  -  (.6761)  (ST)  (OF)  + 
+
+(19.1408)  (AFQT)  +  (3.9090)  (CO)  +  (4.4964)  (FA)  +  (17.4429)  (MM)  + 
+(21.0879)  (GM)  -  (6.2952)  (CL)  -  (4.8128)  (GT)  -  (4}. 8742)  (EL)  - 
+(4.1360)  (SC)  +  (13.1540)  (ST)  -  (37.9618)  (OF)  +  1339.19 
+
+
+B-3 
+
+
+ASVAB  Test  Form  8-14 
+
+
+* 
+
+
+> 
+
+
+Assumed  HIGH 
+
+(.0584)  (AFQT2)  +  (.2056)  (CO2)  +  (.2650)  (FA2)  +  (.5228)  (MM2) 
++(1.2044)  (GM2)  +  (.6583)  (CL2)  +  (.0445)  (GT2)  +  (.8082)  (EL2)  + 
+(1.7892)  (SC2)  +  (.4769)  (ST2)  +  (1.1882)  (OF2)  +  (.0596)  (AFQT)  (CO)  + 
+
+(.0063)  (AFQT)  (FA)  +  (.0736)  (AFQT)  (MM)  +  (.1541)  (AFQT)  (GM)  + 
+
+(.0091)  (AFQT)  (CL)  -  (.0302)  (AFQT)  (GT)  -  (.2397)  (AFQT)  (EL)  - 
+
+(.0691)  (AFQT)  (SC)  +  (.0376)  (AFQT)  (ST)  -  (.2048)  (AFQT)  (OF)  - 
+
+(.2858)  (CO)  (FA)  -  (.0805)  (CO)  (MM)  +  (.0984)  (CO)  (GM)  + 
+
+(.2887)  (CO)  (CL)  -  (.0513)  (CO)  (GT)  -  (.0386)  (CO)  (EL)  - 
+
+(.4031)  (CO)  (SC)  +  (.0167)  (CO)  (ST)  -  (.0395)  (CO)  (OF)  - 
+
+(.2981)  (FA)  (MM)  +  (.7081)  (FA)  (GM)  +  (.1760)  (FA)  (CL)  + 
+
+(.0779)  (FA)  (GT)  -  (.5406)  (FA)  (EL)  -  (.4527)  (FA)  (SC)  - 
+
+(.4091)  (FA)  (ST)  +  (.4540)  (FA)  (OF)  -  (1.0390)  (MM)  (GM)  - 
+
+(.7800)  (MM)  (CL)  +  (.0195)  (MM)  (GT)  +  (.2953)  (MM)  (EL)  + 
+
+(1.3612)  (MM)  (SC)  +  (.8239)  (MM)  (ST)  -  (1.4440)  (MM)  (OF)  + 
+
+(1.4261)  (GM)  (CL)  +  (.1246)  (GM)  (GT)  -  (1.6860)  (GM)  (EL)  - 
+(2.5406)  (GM)  (SC)  -  (1.1826)  (GM)  (ST)  +  (1.3742)  (GM)  (OF)  + 
+
+(.0629)  (CL)  (GT)  -  (.7581)  (CL)  (EL)  -  (2.1225)  (CL)  (SC)  - 
+
+(.8662)  (CL)  (ST)  +  (1.2459)  (CL)  (OF)  -  (.1384)  (GT)  (EL)  - 
+
+(.1018)  (GT)  (SC)  -  (.0618)  (GT)  (ST)  +  (.0292)  (GT)  (OF)  + 
+
+(1.4312)  (EL)  (SC)  +  (.4901)  (EL)  (ST)  -  (.2213)  (EL)  (OF)  + 
+
+(1.5206)  (SC)  (ST)  -  (2.1298)  (SC)  (OF)  -  (1.3286)  (ST)  (OF)  + 
+
+(14.8507)  (AFQT)  +  (5.336)  (CO)  +  (3.7366)  (FA)  +  (6.0965)  (MM)  + 
+(22.8707)  (GM)  -  (.1554)  (CL)  -  (3.7599)  (GT)  -  (33.1835)  (EL)  - 
+(9.6594)  (SC)  +  (3.1167)  (ST)  -  (22.3377)  (OF)  +  1084. 3100 
+
+
+In  each  case  the  category  into  which  the  model  places  the  individual  is  for  the 
+equation  yielding  the  highest  value.  In  using  these  discriminant  functions  for 
+categorization  it  probably  will  be  desirable  to  have  the  equations  programmed 
+onto  a  floppy  disk  for  use  with  a  desk  top  computer.  Input  would  involve 
+simply  entering  the  eleven  ASVAB  Scaled  Scores,  perhaps  as  directed  by  a  menu. 
+
+
+B-4 
+
+
+Appendix  C 
+
+
+Acronym 
+
+AA 
+
+AD 
+
+AFQT 
+
+AI 
+
+AR 
+
+ARI 
+
+AS 
+
+ASVAB 
+
+CA 
+
+CAC 
+
+CC 
+
+CE 
+
+CL 
+
+CM 
+
+CO 
+
+CONUS 
+
+cs 
+
+CVI 
+
+El 
+
+EL 
+
+FA 
+
+GI 
+
+GM 
+
+GS 
+
+GT 
+
+HQ 
+
+MANPRINT 
+
+MC 
+
+MK 
+
+MM 
+
+MOS 
+
+MPRL 
+
+NO 
+
+OF 
+
+PC 
+
+R&I 
+
+SAS 
+
+SC 
+
+SI 
+
+SOUTHCOM 
+
+SP 
+
+ST 
+
+TAATS 
+
+USAEUR 
+
+VE 
+
+WK 
+
+
+List  of  Acronyms 
+Definition 
+
+
+Aptitude  Area  Composite  (of  ASVAB) 
+
+Attention-to-Detail  Subtest 
+
+Armed  Forces  Qualification  Test 
+
+Automotive  Information  Subtest 
+
+Arithmetic  Reasoning  Subtest 
+
+Army  Research  Institute 
+
+Auto/Shop  Information  Subtest 
+
+Armed  Services  Vocational  Aptitude  Battery 
+
+Classification  Attentiveness  Inventory  Scale 
+
+Combined  Arms  Center 
+
+Classification  Outdoors  Inventory  Scale 
+Classification  Electronics  Ineventory  Scale 
+Clerical  Composite  (of  ASVAB) 
+
+Classification  Mechanical  Inventory  Scale 
+Combat  Composite  (of  ASVAB) 
+
+Continental  United  States 
+Coding  Speed  Subtest 
+Combat  Vehicle  Identification 
+Electronics  Information  Subtest 
+Electronics  Composite  (of  ASVAB) 
+
+Field  Artillery  Composite  (of  ASVAB) 
+
+General  Information  Subtest 
+
+General  Maintenance  Composite  (of  ASVAB) 
+
+General  Science  Subtest 
+
+General  Technical  Composite  (of  ASVAB) 
+
+Headquarters 
+
+Manpower  and  Personnel  Integration 
+Mechanical  Comprehension  Subtest 
+Mathematical  Knowledge  Subtest 
+Motor  Maintenance  Composite  (of  ASVAB) 
+
+Military  Occupational  Specialty 
+Manpower  Personnel  Research  Laboratory 
+Numerical  Operations  Subtest 
+Operators/Foods  Composite  (of  ASVAB) 
+
+Paragraph  Comprehension  Subtest 
+Recognition  and  Identification 
+Statistical  Analysis  Software 
+
+Surveillence/Communications  Composite  (of  ASVAB) 
+
+Shop  Information  Subtest 
+
+U.S.  Army  South 
+
+Space  Perception  Subtest 
+
+Skilled  Technical  Composite  (of  ASVAB) 
+
+Target  Acquisition  and  Analysis  Training  System 
+
+U.S.  Army  in  Europe 
+
+Verbal  Subtest 
+
+Word  Knowledge  Subtest 
+
+
+C-l 
+
+

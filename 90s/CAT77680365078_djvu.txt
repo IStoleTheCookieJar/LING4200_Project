@@ -1,0 +1,4389 @@
+Historic,  Archive  Document 
+
+Do  not  assume  content  reflects  current 
+scientific  knowledge,  policies,  or  practices. 
+
+
+( 
+
+
+Fire 
+
+Weather 
+
+
+United  States  Department  of  Agriculture 
+Forest  Service 
+
+
+Fire  Management  Notes  is  published  by  the  Forest  Service  of  the  U.S.  Department  of  Agriculture,  Washington,  DC. 
+The  Secretary  of  Agriculture  has  determined  that  the  publication  of  this  periodical  is  necessary  in  the  transaction  of 
+the  public  business  required  by  law  of  this  Department. 
+
+Subscriptions  ($8.50  per  year  domestic,  $10.65  per  year  foreign)  may  be  obtained  from  New  Orders,  Superintendent 
+of  Documents,  P.O.  Box  371954,  Pittsburgh,  PA  15250-7954.  A  subscription  order  form  is  available  on  the  back  cover. 
+
+
+Dan  Glickman,  Secretary 
+U.S.  Department  of  Agriculture 
+
+
+April  J.  Baily 
+General  Manager 
+
+
+Michael  P.  Dombeck,  Chief 
+Forest  Service 
+
+
+Donna  M.  Paananen 
+Editor 
+
+
+Mary  Jo  Lavin,  Ph.D.,  Director 
+Fire  and  Aviation  Management 
+
+The  United  States  Department  of  Agriculture  (USDA)  prohibits  discrimination  in  its  programs  on  the  basis  of  race, 
+color,  national  origin,  sex,  religion,  age,  disability,  political  beliefs,  and  marital  or  familial  status.  (Not  all  prohibited 
+bases  apply  to  all  programs.)  Persons  with  disabilities  who  require  alternative  means  for  communication  of  program 
+information  (braille,  large  print,  audiotape,  etc.)  should  contact  the  USDA  Office  of  Communications  at  (202)  720-2791. 
+
+To  file  a  complaint,  write  the  Secretary  of  Agriculture,  U.S.  Department  of  Agriculture,  Washington,  DC  20250,  or  call 
+(800)  245-6340  (voice)  or  (202)  720-1127  (TDD).  USDA  is  an  equal  employment  opportunity  employer. 
+
+Disclaimer:  The  use  of  trade,  firm,  or  corporation  names  in  this  publication  is  for  the  information  and  convenience 
+of  the  reader.  Such  use  does  not  constitute  an  official  endorsement  of  any  product  or  service  by  the  U.S.  Department 
+of  Agriculture.  Individual  authors  are  responsible  for  the  technical  accuracy  of  the  material  presented  in 
+Fire  Management  Notes. 
+
+
+Management  notes 
+
+
+Contents 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+Lightning  strikes  such  as  this  one  in 
+Alabama  ignite  about  10,000 
+wildland  fires  in  the  United  States 
+each  year.  Lightning  detection  and 
+other  aspects  of  fire  weather 
+important  to  the  fire  community 
+are  discussed  in  this  issue. 
+
+Photo:  Courtesy  of  Johnny  Autery, 
+Dixons  Mills,  AL,  ©1997. 
+
+
+Lightning  Detection  and  Data  Use 
+
+in  the  United  States .  4 
+
+Brenda  L.  Graham,  Ronald  L.  Holle,  Raul  Lopez 
+
+Tracking  Thunderbolts:  Technology  at  Work . .  11 
+
+Phil  Sielaff 
+
+Current  Status  of  the  Wildland  Fire 
+
+Assessment  System  (WFAS) .  14 
+
+Robert  E.  Burgan,  Patricia  L.  Andrews,  Larry  S.  Bradshaw, 
+
+Carolyn  H.  Chase,  Roberta  A.  Hartford,  and  Don  J.  Latham 
+
+WFAS  Requires  a  Variety  of  Weather  Information .  18 
+
+Robert  E.  Burgan,  Larry  S.  Bradshaw 
+
+High  Resolution  Fire  Weather  Models .  22 
+
+Brands  M.  Eujioka 
+
+Making  Sense  of  Fire  Weather .  26 
+
+Brian  E.  Potter 
+
+SODAR  and  Decisionmaking  During  the  Fork  Fire  .  28 
+
+Bred  Svetz  and  Alexander  N.  Barnett 
+
+
+Short  Features 
+
+
+Safety  from  a  Lightning  Strike .  10 
+
+Brenda  L.  Graham,  Ronald  L.  Holle,  and  Raul  E.  Lopez 
+
+Guidelines  for  Contributors .  31 
+
+
+Lightning  Detection  and 
+Data  Use  in  the  United  States 
+
+Brenda  L.  Graham,  Ronald  L.  Holle,  and  Raul  E.  Lopez 
+
+
+Each  year,  lightning  ignites 
+about  10,000  wildland  fires  in 
+the  United  States  (DeCoursey 
+et  al.  1983).  Wildland  fire  manag¬ 
+ers  in  the  11  Western  States  and 
+Alaska  have  routinely  used  near- 
+real-time  lightning  detection  net¬ 
+work  data  to  determine  likely  areas 
+for  new  ignitions.  Few  of  them, 
+however,  have  had  training  in  the 
+sensor  technology,  location  accu¬ 
+racy,  and  detection  efficiency  of 
+these  lightning  detection  net¬ 
+works.  The  intent  of  this  article  is 
+to  provide  background  in  these 
+areas  so  fire  managers  can  make 
+full  use  of  this  technology. 
+
+Lightning  Itself 
+
+There  are  two  types  of  lightning: 
+
+•  Cloud-to-Ground  (CG)  flashes 
+and 
+
+•  Cloud  discharges. 
+
+The  following  brief  description  is 
+limited  to  CG  lightning  since  it  is 
+the  type  that  initiates  wildland 
+fires. 
+
+A  CG  lightning  flash  (commonly 
+called  a  “strike”  in  the  wildland  fire 
+community)  is  composed  of  a  se¬ 
+ries  of  events  that  occur  very 
+quickly.  These  events  are  roughly 
+as  follows: 
+
+
+Brenda  Graham  is  a  fire  weather  meteo¬ 
+rologist  for  the  U.S.  Department  of 
+Commerce,  National  Oceanographic  and 
+Atmospheric  Administration  (NOAA), 
+National  Weather  Sendee,  Medford ,  OR; 
+Ronald  Holle  and  Raul  Lopez  are  research 
+meteorologists  for  NOAA’s  National  Severe 
+Storms  Laboratory,  Norman,  OK. 
+
+
+Present  lightning  detection  networks  provide  fire 
+managers  in  the  United  States  with  information 
+about  potential  lightning-caused  wildfires. 
+Lightning  location  information  can  also  be  used 
+for  other  purposes  such  as  planning  for 
+prescribed  natural  fire. 
+
+
+1)  A  thunderstorm  cloud  (cumu¬ 
+lonimbus)  becomes  predomi¬ 
+nately  positively  charged  at  the 
+top  and  negatively  charged  in 
+the  lower  part  (Uman  1969). 
+
+2)  A  typical  CG  lightning  flash  be¬ 
+gins  as  a  “step  leader”  that 
+“jumps”  about  150  feet  (50  m)  at 
+a  time  toward  the  ground  from 
+the  negatively  charged  region  at 
+the  bottom  of  the  cloud  (fig.  1). 
+
+3)  The  step  leader  travels  very 
+quickly  and  takes  about  20  mil¬ 
+liseconds  to  travel  about  2  miles 
+(3  km)  (Uman  1969). 
+
+
+4)  As  the  negatively  charged  step 
+leader  approaches  the  ground, 
+positively  charged  “streamers” 
+respond  by  traveling  skyward  to¬ 
+ward  the  step  leader.  Streamers 
+typically  move  up  from  the  tall¬ 
+est  well-grounded  object  like  a 
+tree  or  building  (fig.  1). 
+
+5)  WTien  the  step  leader  and  a 
+streamer  meet  about  150  to  300 
+feet  (50  to  100  m)  above  ground, 
+they  form  an  electrical  channel 
+that  is  about  as  wide  as  your 
+thumb. 
+
+
+Cloud  base 
+
+
+irtsi 
+
+
+At  1 50-300  feet 
+(50-100  m) 
+
+
+Negatively  charged  step 
+leader  path-average 
+“jumps”  are  150  feet  (50  m) 
+
+
+4 
+
+
+above  the 
+ground,  the 
+step  leader 
+and  streamer 
+will  meet  to 
+form  an 
+electrical 
+channel. 
+
+
+1 
+
+
++  +  +  +  + 
++  + 
+
+
+Positively  charged 
+streamer  reaching  skyward 
+to  meet  step  leader 
+
+
+Ground 
+
+
+Figure  1 — A  step  leader  jumps  toward  the  ground  and  a  streamer  reaches  from 
+the  tree  to  meet  it. 
+
+
+Fire  Management  Notes 
+
+
+Figure  3 — Three  cloud-to-ground  (CG)  lightning  flashes  over  Norman,  OK,  photographed 
+in  about  1  second  by  moving  the  camera  from  left  to  right.  Photo:  W.  David  Rust,  Norman, 
+
+
+6)  A  series  of  electrical  current 
+surges  called  return  strokes  fol¬ 
+lows.  Two  to  four  return  strokes, 
+which  have  the  net  effect  of  low¬ 
+ering  negative  charge  to  the 
+ground,  comprise  a  typical  light¬ 
+ning  flash  (Uman  1969).  This  is 
+the  origin  of  the  term  “negative 
+lightning,”  which  is  the  most 
+common  type  of  CG  lightning. 
+“Positive  lightning”  occurs  when 
+a  positive  charge  is  lowered  to 
+the  ground  (about  5  to  10  per¬ 
+cent  of  CG  flashes  are  positive). 
+Figure  2  shows  a  common  form 
+of  damage  when  lightning  strikes 
+a  tree. 
+
+Figure  3  shows  three  CG  flashes 
+photographed  in  about  1  second  by 
+moving  the  camera  from  left  to 
+right.  The  first  return  strokes  of 
+the  two  main  flashes  are  to  the  left; 
+they  have  several  branches.  The  left 
+flash  has  seven  return  strokes  with 
+a  single-stroke  flash  just  to  its 
+right.  The  flash  on  the  right  has  six 
+return  strokes. 
+
+
+Figure  2 — Damage  to  tree  that  was  struck 
+by  lightning  in  New  Bern,  NC.  Photo: 
+Kevin  Kelleher,  National  Severe  Storms 
+Laboratory,  Norman,  OK,  ©1995. 
+
+
+OK,  ©1985. 
+
+Lightning  is  tremendously  ener¬ 
+getic.  The  typical  CG  lightning 
+flash  carries  a  peak  current  of 
+30,000  amperes.  In  comparison, 
+most  household  circuits  in  the 
+United  States  carry  15  amperes, 
+and  a  100-watt  light  bulb  uses 
+about  1  amp  (Uman  1971).  In  a 
+fraction  of  a  second,  the  air  imme¬ 
+diately  around  the  lightning  chan¬ 
+nel  is  super-heated  to  15,000  to 
+60,000  °F  (8,000  to  33,000  °C), 
+which  is  much  hotter  than  the 
+sun’s  surface  (Uman  1969).  This 
+rapid  heating  creates  the  shock 
+wave  we  hear  as  thunder. 
+
+Most  CG  lightning  flashes  in  wild¬ 
+land  areas  do  not  create  new  fires 
+because  the  fuels  are  not  exposed 
+to  high  temperatures  long  enough 
+for  combustion  to  begin.  However, 
+when  wildland  fuels  become  very 
+dry  due  to  some  environmental 
+condition  such  as  prolonged 
+drought,  the  likelihood  of  ignition 
+increases. 
+
+Technologies  Used  in 
+Lightning  Detectors 
+
+CG  lightning  flashes  produce 
+uniquely  shaped  electromagnetic 
+
+
+waves  that  can  travel  great  dis¬ 
+tances.  Lightning  detection  net¬ 
+works  are  designed  to  use  this 
+information. 
+
+Lightning  detection  sensors  in  the 
+United  States  use  “direction-find¬ 
+ing”  (DF)  or  “time-of-arrival” 
+
+(TOA)  technologies.  The  perfor¬ 
+mance  of  a  lightning  detection  net¬ 
+work  is  affected  by  the  character  of 
+its  sensor  technology. 
+
+DF  Technology.  Based  on  tradi¬ 
+tional  radio  direction-finding  tech¬ 
+niques,  DF  technology  sensors 
+have  two  loop-shaped  antennas 
+perpendicular  to  each  other.  A 
+lightning  flash’s  magnetic  field  in¬ 
+duces  signals  in  both  loops  that  are 
+determined  by  factors  such  as  the 
+flash’s  current  flow  and  the  orien¬ 
+tation  of  the  lightning  channel  to 
+the  antennas.  When  the  radio  sig¬ 
+nal  produced  by  a  lightning  flash 
+arrives  at  the  antenna,  onsite  soft¬ 
+ware  immediately  compares  the 
+ratio  of  signals  in  the  loops  to 
+identify  the  flash’s  azimuth.  All  azi¬ 
+muths  from  all  sensors  are  sent  to 
+
+Continued  on  page  6 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+5 
+
+
+Figure  4 — Flash  location  by  triangulation  from  two  direct  ion- finding  (DF)  antennas. 
+
+
+Figure  5 — Probable  flash  location  from  two  pairs  of  time-of-arrival  (TOA)  receivers. 
+
+
+a  central  processor  that  uses  azi¬ 
+muths  from  two  or  more  sensor 
+sites  (triangulation)  to  identify  the 
+probable  area  of  flash  location  (fig. 
+4)  (Holle  and  Lopez  1993). 
+
+TOA  Technology.  TOA  technology 
+involves  an  evaluation  of  when  the 
+electric  pulse  generated  by  a  re¬ 
+turn  stroke  arrives  at  multiple  re¬ 
+ceivers.  To  determine  location,  the 
+electric  pulse  arrival  time  at  each 
+receiver  site  is  sent  to  a  central 
+analyzer  that  computes  the  differ¬ 
+ence  in  arrival  times  between  pairs 
+of  receivers.  A  plot  of  all  the  points 
+between  a  pair  of  receivers  where 
+that  time  difference  is  possible  de¬ 
+fines  a  hyperbola  (fig.  5).  Compari¬ 
+sons  between  four  to  six  sensors 
+provide  the  optimum  location  of 
+the  flash.  Figure  5  shows  a  prob¬ 
+able  flash  location  defined  by  the 
+intersection  of  the  hyperbolas  from 
+two  receiver  pairs.  These  receivers 
+must  be  synchronized  to  the  same 
+dependable  time  source  for  this 
+system  to  work  (Holle  and  Lopez 
+1993). 
+
+Waveform  Discrimination.  The 
+
+electromagnetic  waves  sent  out  by 
+lightning  flashes  have  particular 
+forms  that  sensors  can  resolve  (fig. 
+6).  The  sensors  perform  onsite 
+comparisons  of  detected  flash 
+waveforms  with  a  statistically  de¬ 
+termined  lightning  waveform  ob¬ 
+tained  from  previous  studies  of  CG 
+flashes.  If  the  comparison  is  a  close 
+match,  the  data  are  accepted  and 
+sent  to  the  network  processor.  This 
+waveform  discrimination  helps 
+keep  spurious  noise  and  cloud 
+flash  signals  from  being  reported. 
+
+Figure  6a  shows  some  of  the  key 
+features  of  CG  lightning  flashes: 
+
+•  The  (step)  leader  pulse  prior  to 
+discharge, 
+
+•  Shape  of  rise-time  portion  of  the 
+wave,  and 
+
+
+•  Width  between  peak  amplitude 
+and  when  the  signal  drops  to  an 
+established  threshold. 
+
+Figure  6b  shows  some  signals  from 
+negative  CG  discharges.  Note  these 
+waves  have  the  same  features  as 
+the  one  in  6a,  only  they  are  in¬ 
+verted  because  they  are  from  nega¬ 
+tive  flashes.  Figure  6c  shows  cloud 
+discharges,  and  they  lack  the  same 
+defining  features. 
+
+
+Networks  in  the 
+United  States 
+
+The  BLM  Network.  From  1976 
+through  1996,  fire  managers  in  the 
+11  Western  States  and  Alaska  re¬ 
+ceived  CG  lightning  data  from  the 
+U.S.  Department  of  the  Interior’s 
+Bureau  of  Land  Management 
+(BLM)  networks.  These  networks 
+used  DF  technology.  CG  lightning 
+data  were  distributed  to  wildland 
+fire  managers  in  near  real  time  via 
+
+
+6 
+
+
+Fire  Management  Notes 
+
+
+the  BLM  IAMS  computer  network. 
+Beginning  in  1997,  the  CG  flash 
+data  in  the  48  contiguous  States 
+will  come  from  the  National  Light¬ 
+ning  Detection  Network  (NLDN), 
+but  the  Alaska  network  will  remain 
+the  same  for  at  least  several  more 
+years.  This  change  in  data  source 
+will  be  transparent  to  fire  manag¬ 
+ers  in  the  11  Western  States  be¬ 
+cause  data  distribution  will 
+continue  through  the  existing 
+IAMS  system. 
+
+The  NLDN.  The  current  NLDN  was 
+established  a  few  years  ago  in  the 
+48  contiguous  States;  a  private  cor¬ 
+
+
+Figure  6 — a.  Characteristic  features  of 
+cloud-to-ground  (CG)  waveform, 
+b.  negative  CG  flashes,  c.  cloud  flashes. 
+(Information  provided  courtesy  of  Global 
+Atmospherics,  Inc.,  Tucson,  AZ.) 
+
+
+poration  (Global  Atmospherics, 
+
+Inc.  (GAI),  of  Tucson,  AZ*)  oper¬ 
+ates  and  maintains  this  network. 
+GAI’s  recently  updated  NLDN  uses 
+both  DF  and  TOA  technologies. 
+
+The  network  is  composed  of  a  mix¬ 
+ture  of  sensors,  some  sites  with 
+TOA  only  and  some  with  DF  and 
+TOA  together.  The  sensors  with 
+combined  DF  and  TOA  technology 
+are  called  IMPACT  (Improved  Per¬ 
+formance  from  Combined  Technol¬ 
+ogy).  TOA  sensors  are  basically  a 
+
+*The  use  of  corporation  names  and/or  their  products  is 
+for  the  information  and  convenience  of  the  reader  and 
+should  not  be  misconstrued  as  an  official  endorsement 
+by  the  U.S.  Department  of  Agriculture  or  the  Forest 
+Service. 
+
+
+short  whip  antenna,  and  figure  7 
+shows  an  IMPACT  sensor  (note  the 
+loop  antennas).  Figure  8  shows  the 
+NLDN  sensor  network  as  of  May 
+1996  with  the  type  of  sensor  tech¬ 
+nology  at  each  site. 
+
+The  sensors  using  only  TOA  tech¬ 
+nology  have  limited  CG  flash  wave¬ 
+form  discrimination  and  report 
+only  the  flash-arrival  time.  IMPACT 
+sites  use  more  detailed  waveform 
+discrimination  and  report  both  azi¬ 
+muth  and  arrival-time  data.  These 
+data  are  sent  to  a  single  central 
+
+Continued  on  page  8 
+
+
+Figure  7 — IMPACT  lightning  sensor  used  in  National  Lightning  Detection  Network 
+(NLDN).  Photo:  Ken  Matesich,  1995  (courtesy  of  Global  Atmospherics,  Inc.,  Tucson,  AZ). 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+processor  that  resolves  all  the  in¬ 
+formation  into  individual  CG 
+flashes  and  locations.  GAI  gathers, 
+processes,  and  archives  all  the 
+data. 
+
+Network  Performance 
+
+DF  sensors  are  subject  to  errors 
+caused  by  topography  and  human- 
+made  structures  near  the  site.  Lo¬ 
+cal  terrain  and  buildings  can 
+reflect,  absorb,  and  reradiate  sig¬ 
+nals.  However,  once  each  site’s  er¬ 
+rors  are  documented,  they  are 
+corrected  during  data  processing 
+to  minimize  potential  inaccura¬ 
+cies. 
+
+Network  detection  efficiency  (per¬ 
+centage  of  actual  CG  flashes  re¬ 
+ported)  is  a  function  of  sensor 
+layout  and  where  the  CG  flashes 
+occur  relative  to  the  sensors.  In 
+some  cases,  CG  flashes  remain  un¬ 
+reported  because  their  signals  are 
+too  weak  to  be  received  by  enough 
+sensors  for  calculating  a  location. 
+
+A  CG  signal  that  passes  the  wave¬ 
+form  compatibility  test  can  still  be 
+discarded  if  it  does  not  achieve  a 
+minimum  signal  strength  thresh¬ 
+old  value.  In  some  cases,  the  wave¬ 
+form  itself  may  be  rejected  because 
+
+
+it  does  not  fall  within  the  statisti¬ 
+cal  CG  flash  profile. 
+
+Location  accuracy  of  networks  also 
+depends  on  sensor  layout  and 
+where  the  CG  flashes  occur  relative 
+to  the  sensors.  Location  accuracy 
+with  networks  based  on  DF-only 
+sensors  (like  the  BLM  networks) 
+has  been  shown  to  vary  from  about 
+.25  to  2.5  miles  (0.4  to  4  km).  GAI’s 
+upgraded  NLDN  has  a  location  ac¬ 
+curacy  of  .3  mile  (0.5  km)  due  to 
+its  combined  use  of  DF  and  TOA 
+technologies  that  allows  the  net¬ 
+work  to  determine  flash  location 
+more  accurately. 
+
+The  BLM  network  detection  effi¬ 
+ciency  has  been  around  60  to  70 
+percent  and  possibly  as  low  as  40 
+percent  in  some  areas.  Networks 
+with  configurations  like  GAI’s  have 
+a  higher  network  detection  effi¬ 
+ciency  on  the  order  of  70  to  90  per¬ 
+cent  (Holle  and  Lopez  1993).  Fire 
+managers  in  the  11  Western  States 
+will  probably  notice  about  40  per¬ 
+cent  more  flashes  reported  by  the 
+NLDN  compared  to  the  BLM  net¬ 
+work  due  to  improvements  in  net¬ 
+work  performance.  Reported 
+flashes  could  be  even  greater  for 
+some  areas. 
+
+
+Which  Flashes 
+Cause  Fires? 
+
+About  30  percent  of  all  lightning 
+flashes  are  cloud-to-ground 
+(Krider  1994),  and  it  would  be 
+ideal  to  know  which  are  most 
+likely  to  ignite  a  fire.  Some  CG 
+lightning  flashes  have  a  long  pe¬ 
+riod  of  continuing  current  (fig.  9), 
+meaning  that  the  current  is  slow 
+to  decay  after  reaching  a  peak.  The 
+“blur”  between  some  successive 
+strokes  shown  in  figure  3  is  due  to 
+continuing  current.  There  is  some 
+evidence  that  long  continuing  cur¬ 
+rent  (LCC)  flashes  are  more  likely 
+to  start  fires  than  other  CG  flashes 
+(Fuquay  1980).  An  LCC  flash 
+would  expose  fuels  to  heat  longer, 
+thus  increasing  the  chance  of  igni¬ 
+tion  compared  to  an  equal  non- 
+LCC  flash.  A  limited  set  of  data 
+from  experiments  suggests  that 
+positive  flashes  are  quite  likely  to 
+have  LCC,  while  a  lower  percent¬ 
+age  of  negative  flashes  have  LCC 
+(table  1).  No  lightning  detection 
+network  in  use  today  makes  any 
+distinction  of  current  flow  dura¬ 
+tion  in  CG  flashes.  GAI  is  conduct¬ 
+ing  research  in  this  area,  however, 
+and  expects  to  add  this  capability 
+to  its  network  in  the  future. 
+
+Lightning  Data  Use  by 
+Wildland  Fire  Managers 
+
+While  the  most  common  use  of 
+lightning  detection  network  data 
+by  wildland  fire  managers  involves 
+near  real-time  data  applied  to  op¬ 
+erations,  historical  data  are  also 
+being  studied.  For  example,  the 
+Fishlake  National  Forest  in  central 
+Utah  is  using  historical  lightning 
+data  to  evaluate  the  correlation  be¬ 
+tween  lightning  and  ignition  oc¬ 
+currences  over  a  given  area.  The 
+patterns  that  emerge  from  the 
+analysis  may  be  valuable  input  for 
+deciding  which  areas  of  the  forest 
+would  be  good  candidates  for  pre¬ 
+scribed  natural  fire  (Chappell,  per- 
+
+
+Figure  8 — NLDN  sensor  types  and  locations  in  the  Continental  United  States. 
+
+
+8 
+
+
+Fire  Management  Notes 
+
+
+Figure  9 — Typical  current  waveform  for  a  positive  cloud-to-ground  flash. 
+Adapted  from  Uman  (1987). 
+
+
+Table  1 — Some  characteristics  of  negative  and  positive  CG  lightning  flashes 
+(Anderson,  adapted  from  Uman  1987). 
+
+
+Characteristic 
+
+Negative 
+
+Positive 
+
+Percent  of  occurrence 
+
+90 
+
+10 
+
+Average  peak  current  (kA) 
+
+30 
+
+35 
+
+Average  number  of  strokes  per  flash 
+
+3-4 
+
+1 
+
+Percent  with  long  period  of 
+continuing  current  (LCC) 
+
+20-40 
+
+50-100 
+
+sonal  communication).  When  us¬ 
+ing  historical  data  to  develop  a 
+lightning  climatology  (pattern)  for 
+an  area,  it  is  important  to  use  the 
+longest  record  possible.  Lightning 
+climatology  studies  have  already 
+been  completed  for  several  West¬ 
+ern  States  (Lopez  and  Holle  1986, 
+Watson  et  al.  1994,  Fosdick  and 
+Watson  1995). 
+
+Conclusions 
+
+CG  lightning  detection  network 
+data  were  available  solely  to  wild¬ 
+land  fire  managers  in  the  Western 
+
+
+United  States  and  Alaska  until 
+recently.  Now  that  the  NLDN  is  in 
+place,  CG  lightning  data  are  avail¬ 
+able  in  all  wildland  areas  of  the  48 
+contiguous  States.  The  combina¬ 
+tion  of  DF  and  TOA  technology  in 
+the  NLDN  has  improved  detection 
+efficiency  and  location  accuracy. 
+While  some  CG  lightning  flashes  in 
+your  area  may  not  be  reported  by  a 
+network,  this  situation  should  not 
+have  a  significant  impact  on  the 
+value  of  the  data.  Since  most  thun¬ 
+derstorms  produce  several  CG 
+lightning  flashes  per  minute, 
+
+
+present  network  detection  efficien¬ 
+cies  are  very  adequate  for  most 
+wildland  fire  applications. 
+
+Literature  Cited 
+
+Anderson,  K.  Year  unknown.  Frequently 
+asked  questions  (FAQ)  about  lightning. 
+Canadian  Forest  Service,  Edmonton, 
+Alberta.  Taken  from  the  following 
+Internet  location  (web  page):  http:// 
+www.nofc.forestry.ca/~kanderso 
+
+Chappell.  Unpublished  communique  avail¬ 
+able  at  the  office  of  the  first  author,  Na¬ 
+tional  Weather  Service,  4003  Cirrus 
+Drive,  Medford,  OR  97504. 
+
+DeCoursey,  D.G.;  Chameides,  W.L.; 
+McQuigg,  J.;  Frere,  M.H.;  Nicks,  A.D. 
+1983.  Thunderstorms  in  agriculture  and 
+in  forest  management.  In:  Kessler,  E., 
+ed.  The  thunderstorm  in  human  affairs. 
+Norman,  OK:  University  of  Oklahoma 
+Press,  67-87. 
+
+Fosdick,  E.K.;  Watson,  A.I.  1995.  Cloud-to- 
+ground  lightning  patterns  in  New 
+Mexico  during  the  summer.  National 
+Weather  Digest.  19(4):  17-24. 
+
+Fuquay,  D.M.  1980.  Lightning  that  ignites 
+forest  fires.  In:  Proceedings,  6th  Confer¬ 
+ence  on  Fire  and  Forest  Meteorology, 
+April  22-24,  Seattle,  WA.  Washington, 
+DC:  Society  of  American  Foresters:  109- 
+112. 
+
+Holle,  R.L.;  Lopez,  R.E.  1993.  Overview  of 
+real-time  lightning  detection  systems 
+and  their  meteorological  uses.  NOAA 
+Technical  Memorandum  ERL  NSSL- 
+102.  Norman,  OK:  National  Severe 
+Storms  Laboratory.  68  p. 
+
+Krider,  E.P.  1994.  Physics  of  lightning  to¬ 
+day.  Revue  generale  de  l’Electricite. 
+
+6:  6  p. 
+
+Lopez,  R.E.,  and  Holle,  R.L.  1986.  Diurnal 
+and  spatial  variability  of  lightning  activ¬ 
+ity  in  northeastern  Colorado  and  central 
+Florida  during  the  summer.  Monthly 
+Weather  Review.  114(7):  1288-1312. 
+
+Uman,  M.A.  1971.  All  about  lightning. 
+Mineola,  NY:  Dover.  167  p. 
+
+Uman,  M.A.  1969.  Lightning.  Mineola,  NY: 
+Dover.  298  p. 
+
+Uman,  M.A.  1987.  The  lightning  discharge. 
+Orlando,  FL:  Academic  Press,  Inc.  377  p. 
+
+Watson,  A.I.;  Lopez,  R.E.:  Holle,  R.E.  1994. 
+Diurnal  cloud-to-ground  lightning  pat¬ 
+terns  in  Arizona  during  the  Southwest 
+Monsoon.  Monthly  Weather  Review. 
+122(8):  1716-1725.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+9 
+
+
+Safety  from  a 
+
+Brenda  L.  Graham, 
+
+Ronald  L.  Holle,  and 
+Raul  E.  Lopez 
+
+Everyone  who  works  outdoors 
+should  be  aware  of  the  inherent 
+threat  of  being  struck  by  light¬ 
+ning.  On  average,  at  least  80 
+people  are  killed  by  lightning 
+and  about  five  times  as  many  are 
+injured  each  year.  These  acci¬ 
+dents  may  occur  due  to  people’s 
+ignorance  of  how  dangerous 
+lightning  is,  their  inability  to 
+recognize  the  potential  threat 
+from  lightning,  or  their  lack  of 
+knowledge  about  lightning  safety 
+rules.  By  heeding  the  following 
+advice,  you  can  reduce  the 
+chance  of  death  or  injury  when 
+lightning  is  nearby. 
+
+Before  Storms 
+Develop 
+
+•  Be  constantly  aware  of  how 
+long  it  will  take  to  reach  safe 
+shelter  if  a  thunderstorm 
+occurs. 
+
+•  Observe  when  new  thunder¬ 
+storms  start  to  develop. 
+
+•  Post  a  lookout  to  observe  and 
+communicate  the  lightning 
+threat. 
+
+When  Thunderstorms 
+Develop 
+
+Estimate  your  distance  to  light¬ 
+ning  using  the  flash-to-bang 
+
+
+Lightning  Strike 
+
+method:  Start  counting  seconds 
+(one-thousand-one,  one-thousand- 
+two,  etc.)  from  the  time  you  see 
+the  flash  until  you  hear  the  thun¬ 
+der.  Estimate  that  lightning  is  1 
+mile  (1.6  km)  away  for  each  5  sec¬ 
+onds  counted.  If  lightning  is  occur¬ 
+ring  closer  than  5  miles  (8  km)  (or 
+25  seconds  away),  go  to  a  safe  shel¬ 
+ter  immediately,  if  possible.  Once 
+lightning  is  within  5  miles,  the 
+next  flash  may  occur  where  you 
+are,  so  plan  to  reach  safe  shelter 
+before  lightning  occurs  that  close. 
+
+Lightning  Nearby 
+
+When  outside  and  far  from  vehicles 
+or  buildings,  seek  a  thick  grove  of 
+small  trees  surrounded  by  tall 
+trees.  Stay  away  from  individual 
+trees. 
+
+•  Don’t  stand  in  an  open  area 
+more  than  100  yards  (91  m) 
+across. 
+
+•  Don’t  be  the  highest  object,  such 
+as  on  a  ridge,  rock  outcropping, 
+or  roof. 
+
+•  Don’t  be  in  the  water  or  in  a 
+boat. 
+
+•  Don’t  be  near  or  in  contact  with 
+anything  taller  than  its  sur¬ 
+roundings  that  may  be  prone  to 
+being  hit  by  lightning. 
+
+•  Don’t  be  near  or  in  contact  with 
+large  metallic  objects  such  as  an¬ 
+tennas  or  metal  fences. 
+
+
+The  best  option  is  to  go  inside  a 
+public  building  or  a  residence. 
+Metal-topped  buildings  with 
+stone  or  other  nonconducting 
+walls  are  not  safe.  Don’t  touch 
+anything  connected  to  the  power 
+and  phone  lines  or  plumbing 
+pipes.  The  second  best  option  is 
+to  go  inside  a  vehicle  with  a  solid 
+metal  top,  but  don’t  touch  the 
+sides  of  the  vehicle. 
+
+Last  Minute 
+
+If  you  are  caught  outside  with 
+lightning  nearby  or  your  hair 
+stands  on  end  and  none  of  the 
+above  options  are  available: 
+
+•  Crouch  on  the  balls  of  your 
+feet  with  your  head  down,  and 
+grasp  your  knees  with  your 
+hands.  This  crouching  position 
+minimizes  your  contact  with 
+the  ground,  which  can  be 
+quite  conductive,  especially  if 
+wet. 
+
+•  Don’t  lie  flat  on  the  ground  or 
+touch  the  ground  with  your 
+hands. 
+
+•  If  in  a  group,  spread  out  so 
+that  fewer  people  are  likely  to 
+become  victims. 
+
+When  Lightning 
+Strikes 
+
+Apply  CPR  to  anyone  rendered 
+unconscious  by  lightning.  ■ 
+
+
+10 
+
+
+Fire  Management  Notes 
+
+
+Tracking  Thunderbolts: 
+Technology  at  Work 
+
+Phil  Sielaff 
+
+
+The  technology  involved  in  the 
+Automated  Lightning  Detec¬ 
+tion  System  (ALDS)  has  been 
+evolving  for  over  20  years.  The  sys¬ 
+tem  currently  can  provide  informa¬ 
+tion  on  lightning  “ground  strike” 
+activity  to  land  managers  and  fire 
+officials  in  real  time.  As  a  result  of 
+these  two  decades  of  experimenta¬ 
+tion,  others  around  the  world  are 
+able  to  use  the  ALDS  to  help  them 
+anticipate  natural  wildfire  occur¬ 
+rence. 
+
+Background  for 
+
+Technology 
+
+Development 
+
+In  the  early  1970’s,  fire  managers 
+regularly  asked  for  less  expensive 
+and  safer  ways  of  detecting  light¬ 
+ning  ground  strike  activity  com¬ 
+pared  with  the  standard  practice  of 
+flying  aircraft  behind  storms  to  vi¬ 
+sually  track  lightning.  The  USDI’s 
+Bureau  of  Land  Management  (BLM) 
+responded  by  developing  a  pilot 
+remote  system  to  track  lightning 
+strikes  in  Alaska.  Since  then,  the 
+BLM  has  extended  the  lightning 
+detection  network  to  the  Western 
+United  States.  (See  fig.  1  for  loca¬ 
+tions  of  the  BLM’s  lightning  detec¬ 
+tion  stations  in  the  West.) 
+
+Working  with  the  University  of  Ari¬ 
+zona,  Tucson,  AZ,  the  BLM’s  Office 
+of  Scientific  Systems  Development 
+in  Denver,  CO — jointly  with  the  Di¬ 
+vision  of  Communications  Manage- 
+
+
+Phil  Sielaff  is  the  leader  of  the  Remote 
+Sensing  Support  Group  for  the  United 
+States  Department  of  the  Interior,  Bureau 
+of  Land  Management,  National  Inter¬ 
+agency  Fire  Center,  Boise,  ID. 
+
+
+For  over  20  years,  the 
+Automated  Lightning 
+Detection  System  (ALDS) 
+has  been  evolving;  as 
+new  technology  is 
+developed,  the  system 
+will  continue  to  improve 
+in  the  future. 
+
+
+ment  at  what  was  then  called  the 
+Boise  Interagency  Fire  Center — 
+developed  the  prototype  of  ALDS. 
+The  initial  operations  in  Alaska 
+demonstrated  that  ALDS — when 
+used  in  conjunction  with  National 
+Weather  Service  (NWS)  weather 
+radar — could  achieve  significant 
+savings  in  isolating  “active”  cells. 
+(An  “active  cell”  is  one  that  is  pro¬ 
+ducing  lightning  ground  strike 
+
+
+activity.)  As  increased  experience 
+and  detection  efficiencies  were  at¬ 
+tained  in  Alaska,  the  NWS  began  to 
+use  the  ALDS  to  supplement 
+weather  radar  to  detect  thunder¬ 
+storm  activity  at  long  distances 
+(outside  of  weather  radar  range). 
+
+Because  of  their  satisfactory  expe¬ 
+riences  in  Alaska,  the  BLM  decided 
+in  the  late  1970's  to  place  instru¬ 
+ments  in  the  Western  United 
+States  and  establish  the  first  opera¬ 
+tional  ALDS  network. 
+
+The  BLM  next  worked  with  a  new 
+commercial  firm — Lightning 
+Location  and  Protection  Inc. 
+
+(LLP)’ — to  place  and  operate  the 
+ALDS,  supplying  coverage  over 
+roughly  95  percent  of  the  States 
+located  west  of  the  Rocky  Moun¬ 
+tains. 
+
+Continued  on  page  1  2 
+
+
+Figure  1 — Map  of  the  Western  United  States  showing  locations  of  Bureau  of  Land 
+Management  (BLM)  lightning  detection  stations  in  1996. 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+As  we  operated  the  early  system, 
+many  other  interested  “observers” 
+began  to  see  what  this  network 
+could  do  operationally  in  real  time. 
+Thus  the  NWS,  Federal  Aviation  Ad¬ 
+ministration,  Department  of  De¬ 
+fense,  Department  of  Energy,  and 
+many  private  firms  began  to  moni¬ 
+tor  our  efforts. 
+
+Network  Products 
+
+Having  the  right  information  in  a 
+form  that  local  managers  can 
+readily  use  for  real-time  fire  man¬ 
+agement  was  the  BLM’s  primary 
+goal  in  developing  ALDS.  For  ex¬ 
+ample,  figure  2  illustrates  lightning 
+strikes  for  2  hours  on  May  14,  1996, 
+over  the  Western  United  States.  The 
+local  fire  management  staffs  in 
+these  “active”  areas  have  the  capa¬ 
+bilities  at  their  respective  locations 
+to  zoom  in  on  this  activity.  As  the 
+local  user  begins  to  actively  use  the 
+ALDS  information,  additional  fire 
+management  information  is  added 
+to  the  ALDS  plots  to  provide  a  com¬ 
+posite  of  the  “big  picture”  at  the 
+user’s  particular  location.  Because 
+it  is  clear  in  figure  2  that  there  is  a 
+great  deal  of  thunderstorm  activity 
+near  the  Oregon  and  Idaho  border, 
+local  fire  managers  would  actively 
+process  all  available  data  to  imple¬ 
+ment  action  plans  (e.g.,  move  to  an 
+elevated  planning  level,  pre-posi¬ 
+tion  pumper  crews,  dispatch  recon¬ 
+naissance  crews). 
+
+Figure  3  shows  how  the  BLM’s 
+lightning  detection  system  can 
+“zoom  in”  to  track  319  strikes  in 
+Idaho  and  Oregon  during  7-1/2 
+hours  on  May  14.  Note  that  positive 
+lightning  strikes  are  shown  with 
+red  zigzags  and  negative  strikes 
+with  black  dashes. 
+
+
+*The  use  of  corporation  names  and/or  their  products  is 
+for  the  information  and  convenience  of  the  reader  and 
+should  not  be  misconstrued  as  an  official  endorsement 
+by  the  U.S.  Department  of  Agriculture,  the  Forest 
+Service,  or  USDI  Bureau  of  Land  Management. 
+
+
+Figure  2 — Locations  of 234  lightning  strikes  in  the  Western  States  for  2  hours  on 
+May  14,  1996. 
+
+
+Figure  3 — Positive  (red  zigzags)  and  negative  (black  dashes)  lightning  strikes  in  Idaho 
+arid  Oregon  from  12:30  to  8:00  p.m.  on  May  14,  1996. 
+
+
+These  types  of  graphics  are  pro¬ 
+duced  in  real  time  at  each  local 
+BLM  user  site  that  has  lightning 
+ground  strike  activity.  The  process 
+begins  when  direction  finders 
+(DF’s)  (electronic  sensors)  detect 
+lightning  ground  strikes.  Every 
+lightning  flash  generates  a  distinct 
+signal  that  travels  outward  uni¬ 
+formly  at  nearly  the  speed  of  light. 
+(The  movement  of  this  signal  is 
+similar  to  the  radiation  of  circles 
+around  a  pebble  after  it  is  dropped 
+
+
+in  still  water.)  Each  distinct  signal 
+is  picked  up  by  the  DF’s,  which 
+have  specially  designed  antennas 
+and  electronics  to  measure  the  di¬ 
+rection  to  the  ground  strike.  The 
+DF’s  determine  the  direction  and 
+transmit  that  and  other  informa¬ 
+tion  such  as  strike  polarity  and  sig¬ 
+nal  strength  to  a  Position  Analyzer 
+(PA).  The  Position  Analyzer  (a 
+computer-like  device)  performs 
+numerous  mathematical  calcula¬ 
+tions  to  process  incoming  DF  data, 
+
+
+2 
+
+
+Fire  Management  Notes 
+
+
+triangulates  the  vectors,  validates 
+the  information,  and  then  pin¬ 
+points  the  exact  location  (latitude 
+and  longitude  coordinates)  of  each 
+lightning  ground  strike.  The  final 
+processed  PA  information  is  auto¬ 
+matically  sent  to  any  authorized 
+field  user  who  wishes  to  access  it. 
+
+Figure  4  illustrates  more  closely 
+the  319  lightning  strikes  also 
+shown  in  figure  3  and  shows 
+boundaries  of  counties. 
+
+Results  of 
+Monitoring  Efforts 
+
+As  a  result  of  observing  the  light¬ 
+ning  locating  system  and  the  prod¬ 
+ucts  derived  from  the  system,  LLP 
+and  other  lightning  detection  com¬ 
+panies  began  to  market  and  sell 
+their  systems  to  other  government 
+and  nongovernment  users.  These 
+local  networks  proliferated  during 
+the  early  and  mid-1980s.  The  Elec¬ 
+trical  Power  Research  Institute,  in 
+conjunction  with  the  State  Univer¬ 
+sity  of  New  York  at  Albany,  began 
+to  consolidate  all  of  these  indepen¬ 
+dent  detection  networks  into  a  “na¬ 
+tional”  system  to  supply  coverage 
+throughout  the  conterminous 
+United  States.  As  a  result  of  these 
+and  other  efforts,  for  the  first  time 
+at  the  beginning  of  1990,  lightning 
+data  on  a  quasi-national  basis  were 
+available  from  the  private  sector. 
+
+Looking  to  the 
+Private  Sector 
+
+Because  of  recurring  costs  associ¬ 
+ated  with  operating  a  large  ALDS 
+network  and  the  prospect  of  having 
+to  replace  older  ALDS  equipment, 
+the  BLM  began  looking  to  the  pri¬ 
+vate  sector  as  a  possible  alternate 
+source  for  lightning  data.  In  1995, 
+the  NWS,  working  through  the  Of¬ 
+fice  of  the  Federal  Coordinator  for 
+Meteorology,  took  the  lead  to  con¬ 
+solidate  all  Federal  users  interested 
+in  procuring  lightning  data.  As  a 
+
+
+Figure  4 — Map  of  southwest  Idaho  showing  county  boundaries  and  locations  of  319 
+lightning  strikes  on  May  14,  1996. 
+
+
+result,  a  contract  was  awarded  to 
+Global  Atmospherics,  Inc.  (GAI)  of 
+Tucson,  AZ,  to  supply  national 
+lightning  detection  information  for 
+the  conterminous  United  States 
+and  some  maritime  areas.  The  ser¬ 
+vices  provided  under  this  5-year 
+contract  will  provide  increased  ca¬ 
+pabilities  for  the  BLM  and  many 
+other  Federal  users.  Because  Alaska 
+has  its  own  unique  requirements, 
+GAI  cannot  supply  lightning  data 
+for  that  State  at  this  time.  There¬ 
+fore,  the  BLM  will  continue  to 
+operate  its  own  ALDS  in  Alaska. 
+
+Currently,  the  BLM  is  receiving  Na¬ 
+tional  Lightning  Detection  Net¬ 
+work  (NLDN)  data  at  our  National 
+Interagency  Fire  Center  in  Boise, 
+ID.  We  use  the  existing  Initial  At¬ 
+tack  Management  System/Auto¬ 
+matic  Lightning  Detection  System 
+(IAMS/ALDS)  telecommunications 
+network  to  distribute  NLDN  data  to 
+the  BLM  real-time  user  community 
+(up  to  70  file  server  locations).  Ne¬ 
+gotiations  are  currently  underway 
+with  other  USDI  fire  management 
+staffs  to  see  how  they  will  attain 
+data  under  this  new  contract  ar¬ 
+rangement.  Under  current  contract 
+provisions,  the  BLM  cannot  and 
+
+
+will  not  redistribute  lightning  data 
+to  other  Federal  or  State  users. 
+
+The  only  exception  to  this  provi¬ 
+sion  is  if  Federal  or  State  fire  of¬ 
+fices  are  collocated  with  the  BLM. 
+Those  cooperators  may  continue  to 
+use  the  data  at  the  particular  field 
+office  but  cannot  redistribute  or 
+broadcast  the  information  beyond 
+that  point.  (This  provision  can  be 
+modified  if  the  collocated  Federal 
+or  State  fire  office  attains  rights 
+from  GAI  to  distribute  the  data  to 
+its  user  community.) 
+
+The  BLM’s  lightning  detection  ef¬ 
+forts  will  continue  to  evolve  as 
+improvements  in  technology  are 
+found  and  implemented.  Com¬ 
+pared  to  our  standard  fire  manage¬ 
+ment  practices  of  just  20  years  ago, 
+the  efforts  have  been  well  worth 
+the  investment  in  time,  energy, 
+and  money. 
+
+For  more  information  about  ALDS 
+or  NLDN  data,  please  contact  Phil 
+Sielaff,  USDI,  Bureau  of  Land  Man¬ 
+agement,  3833  South  Development 
+Ave.,  Boise,  ID  83705-5354, 
+telephone  208-387-5363, 
+fax  208-387-5397, 
+e-mail:  psielaff@nifc.blm.gov  ■ 
+
+
+I 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+3 
+
+
+Current  Status  of  the  Wildland 
+Fire  Assessment  System  (WFAS) 
+
+Robert  E.  Burgan,  Patricia  L.  Andrews,  Larry  S.  Bradshaw, 
+Carolyn  H.  Chase,  Roberta  A.  Hartford,  and  Don  J.  Latham 
+
+
+The  Fire  Behavior  Research 
+Work  Unit  (RWU)  of  the  Inter¬ 
+mountain  Research  Station  has 
+been  developing  the  Wildland  Fire 
+Assessment  System  (WFAS)  since 
+1994.  The  WFAS  will  eventually 
+combine  the  functionality  of  the 
+current  fire-danger  rating  system 
+(Deeming  et  al.  1977)  and  the  fire 
+behavior  system  (Andrews  1986). 
+The  new  system  will  assess  fire  po¬ 
+tential  across  spatial  scales  ranging 
+from  national  to  site  specific  and 
+time  scales  ranging  from  near-real¬ 
+time  to  5-day  forecasts.  The  out¬ 
+puts  will  be  useful  for  fire 
+management  tasks  ranging  from 
+strategic  planning  to  current  fire 
+situation  analyses  (Burgan  and 
+Bradshaw  1997). 
+
+Traditionally,  the  terms  “fire  dan¬ 
+ger”  and  “fire  behavior”  have  de¬ 
+scribed  assessments  of  fire 
+potential  on  different  time  and 
+space  scales.  Fire  danger  has  been 
+evaluated  routinely,  at  least  once  a 
+day,  for  broad  areas.  Fire  behavior 
+assessments,  however,  are  made  as 
+needed  for  specific  sites.  Both  use 
+weather  that  has  been  forecasted 
+or  measured,  but  fire  danger — 
+because  of  its  routine  and  regular 
+computation — requires  regularly 
+formatted  and  routinely  available 
+data  for  automated  processing. 
+
+
+Robert  Burgan  is  a  research  forester,  Pat 
+Andrews  is  a  research  physical  scientist, 
+Larry  Bradshaw  is  a  meteorologist, 
+Carolyn  Chase  is  a  mathematician, 
+Roberta  Hartford  is  a  forester,  and  Don 
+Latham  is  a  research  meteorologist  for  the 
+USDA  Forest  Service,  Intermountain 
+Research  Station,  Fire  Behavior  Research 
+Work  Unit,  Missoula,  MT. 
+
+
+The  Wildland  Fire 
+Assessment  System 
+(WFAS)  will  use  the 
+best  methodology 
+available  to  provide  fire 
+potential  assessments 
+for  the  21  st  century. 
+
+Fire  behavior  must  have  weather 
+inputs  matched  as  closely  as  pos¬ 
+sible  to  the  fire  site. 
+
+Fire  danger  ratings  have  tradition¬ 
+ally  been  relative  values  or  dimen¬ 
+sionless  indexes,  whereas  fire 
+behavior  assessments  are  specific, 
+physical  descriptions  of  expected 
+fire  characteristics  such  as  rate  of 
+spread,  flame  length,  and  fire  inten¬ 
+sity. 
+
+As  we  have  been  developing  WFAS, 
+our  goal  has  been  to  remove  the 
+“seams”  that  exist  between  the 
+current  systems  (Rothermel  and 
+Andrews  1987).  For  instance,  our 
+new  “seamless  system”  will  move 
+easily  from  evaluating  fire  danger 
+over  a  broad  area  to  assessing  fire 
+behavior  at  a  specific  location. 
+
+As  we  develop  WFAS,  we  will  con¬ 
+tinue  to  resolve  incompatibilities 
+such  as  different  sets  of  fuel  models 
+and  equation  differences.  The 
+WFAS  framework  will  address  the 
+issue  of  weak  linkages  among  cur¬ 
+rent  systems — fire  behavior,  fire 
+danger,  fire  planning,  fire  effects, 
+and  smoke  management — and  help 
+resolve  the  confusion  that  exists  on 
+
+
+proper  application  of  current  frag¬ 
+mented  systems. 
+
+The  fire  behavior  component  of  the 
+WFAS  will  be  based  on  the  FARSITE 
+Fire  Area  Simulator  (Finney  1995) 
+and  will  not  be  discussed  here.  In¬ 
+stead,  we  are  focusing  in  this  article 
+on  broad  area  fire  assessment  of  the 
+nature  typically  associated  with  fire 
+danger  rating. 
+
+Development  and 
+Implementation  Plan 
+
+We  are  using  a  three-phase  strategy 
+to  develop  the  WFAS  and  have 
+defined  the  products  and  processes 
+that  will  become  available  to  clients 
+once  each  stage  is  finished.  This  ap¬ 
+proach  provides  a  natural  transition 
+from  the  existing  piecemeal  sys¬ 
+tems  to  a  new  integrated  system. 
+This  development  and  implementa¬ 
+tion  plan  is,  of  course,  dynamic. 
+Based  on  user  feedback  and  on  the 
+availability  of  new  technology  and 
+research  products,  we  expect  the 
+WFAS  to  change  during  develop¬ 
+ment  stages.  The  three  phases  and 
+the  planned  schedule  are  as  follows: 
+
+•  Phase  1 — 1995  to  1996:  Spatial 
+display  of  weather  and  current 
+National  Fire-Danger  Rating 
+System  (NFDRS)  values. 
+
+•  Phase  2 — 1996  to  1997:  Improve¬ 
+ments  to  NFDRS  calculations. 
+
+•  Phase  3 — 1998:  Major  fuel  and 
+fire  modeling  updates  and 
+gridded  weather  models. 
+
+Phase  1.  In  the  completed  phase  1, 
+we  enhanced  the  current  fire-dan¬ 
+ger  rating  system  with  spatial  dis- 
+
+
+14 
+
+
+Fire  Management  Notes 
+
+
+plays.  Fire  danger  and  weather  data 
+are  obtained  from  the  Weather  In¬ 
+formation  Management  System 
+(WIMS)  and  processed  to  produce 
+graphical  displays  based  on  current 
+NFDRS  values.  Phase  1  gives  users 
+the  opportunity  to  view  spatial  dis¬ 
+plays  and  provides  us  with  feedback 
+for  developing  future  products  in 
+subsequent  phases. 
+
+Phase  2.  During  phase  2,  improve¬ 
+ments  to  NFDRS  calculations  will 
+be  implemented,  but  that  system 
+will  not  be  completely  redesigned. 
+Because  it  is  so  important  to  com¬ 
+pare  the  current  fire  danger  with 
+historical  values,  there  will  be  a  na¬ 
+tional  reanalysis  of  historical  data 
+using  the  Fire  Information  Re¬ 
+trieval  and  Evaluation  System 
+(FIRES)  (Andrews  and  Bradshaw  in 
+preparation)  to  calibrate  the  in¬ 
+dexes.  The  main  products  devel¬ 
+oped  during  phase  2  will  include 
+new  dead  fuel  moisture  models  and 
+new  live  fuel  moisture  models 
+driven  by  Normalized  Difference 
+Vegetation  Index  (NDVI)  data  re¬ 
+ceived  via  satellite  (Burgan  and 
+Hartford  1993).  Once  phase  2  is  fin¬ 
+ished,  WFAS  will  use  the  National 
+Weather  Service  (NWS)  as  a  pri¬ 
+mary  source  of  weather  data.  Inclu¬ 
+sion  of  observations  from  the  fire 
+weather  network  will  be  optional 
+for  broad-scale  assessment. 
+
+Phase  3.  During  phase  3,  we  will 
+use  a  gridded  weather  model  to  cal¬ 
+culate  fire  potential  over  space  and 
+time.  In  lieu  of  wind  observations 
+or  wind  models,  WFAS  will  use 
+wind  forecasts  and  estimated  wind 
+values.  We  will  implement  new  fire 
+spread,  fire  intensity,  large  fuel 
+burnout,  and  crown  fire  models  in 
+the  new  system.  In  addition,  we  will 
+use  a  national  fuel  map  in  the  cal¬ 
+culations.  Eventually,  WFAS  dis¬ 
+plays  will  allow  dynamic  zooming 
+to  allow  fire  behavior  assessments 
+that  are  site  specific. 
+
+
+Current  Status 
+
+As  part  of  the  phased  development 
+and  implementation,  we  made  pro¬ 
+totypes  of  several  products  and  beta 
+tested  them  during  the  summer  of 
+1995;  they  are  now  routinely  avail¬ 
+able.  Broad-area  weather  and  fire 
+danger  maps  are  produced  from  the 
+fire-weather-station  network  as  part 
+of  phase  1.  As  a  preliminary  test  of 
+phase  2  and  3  concepts,  high-reso¬ 
+lution  fire  danger  maps  are  being 
+produced  using  weather  data  from 
+the  Oklahoma  Weather  Mesonet. 
+Satellite-based  .6  mile-  (1  km-) 
+resolution  fuel  and  greenness  data 
+are  also  used. 
+
+Broad  Area  Maps:  National  Map 
+Prototypes.  WIMS  is  queried  for 
+each  day’s  fire  weather  observations 
+and  NFDRS  components  for  the 
+primary  fuel  model  for  every  re¬ 
+porting  station.  Project  scientists 
+have  been  creating  national  maps 
+on  a  workstation  in  the  Fire  Behav¬ 
+ior  RWU  in  Missoula,  MT.  The  maps 
+are  based  on  a  6  mile  (10  km)  cell 
+size  using  a  weighted  inverse  dis¬ 
+tance-squared  interpolation  scheme 
+between  fire-weather-station  loca¬ 
+tions.  The  entire  process  is  to  be 
+
+
+transferred  to  the  National  Inter¬ 
+agency  Fire  Center  (NIFC)  in 
+Boise,  ID,  for  the  1997  fire  season. 
+
+Colored  maps  are  produced  depict¬ 
+ing  fire  weather  observations  of 
+temperature,  relative  humidity,  24- 
+hour  precipitation  totals,  and 
+windspeed.  Maps  of  fire  danger 
+components  include  the  1,000- 
+hour  timelag  fuel  moisture, 
+Keetch-Byram  Drought  Index 
+(Keetch  and  Byram  1968),  and  ad¬ 
+jective  class  (fig.  1).  In  most  cases, 
+we  use  a  five-color  scheme  (green 
+through  yellow  to  red). 
+
+In  addition  to  collecting  the  fire- 
+weather-network  observations, 
+each  morning  computers  auto¬ 
+matically  collect  data  from  all  the 
+North  America  radiosonde  stations 
+and  compute  a  Lower  Atmosphere 
+Stability  Index  (Haines  1988). 
+These  data  are  used  to  create  na¬ 
+tional  and  North  American  Haines 
+Index  maps  (fig.  2). 
+
+Twenty-four-hour  lightning  strike 
+data  are  obtained  from  Global 
+Atmospherics,  Inc.,*  a  private 
+
+Continued  on  page  1  6 
+
+
+(Inv.  Di3t.t2  Interp.  Reporting  Stns  Marked  w/5quare) 
+
+wfas  map  ftocucts  fire  behavior  research  missoua,  mt 
+
+
+Figure  1 — Example  of  a  WFAS  product — a  national  fire  danger  map;  squares  indicate  reporting 
+stations.  The  Weather  Information  Management  System  (WIMS)  provides  the  observed  fire 
+danger  classifications  that  are  taken  directly  from  levels  defined  for  each  station. 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+5 
+
+
+company,  and  overlaid  on  either  a 
+lightning  ignition  probability  map 
+or  a  fire  danger  class  map.  The 
+lightning  ignition  probability  is  cal¬ 
+culated  as  a  function  of  the  100- 
+hour  timelag  fuel  moisture  and/or 
+duff  depth  (Latham  and  Schlieter 
+1991). 
+
+A  four-panel  vegetation  greenness 
+map  derived  from  data  obtained  by 
+satellites  portrays  visual  and  rela¬ 
+tive  greenness  (Burgan  and  Hart¬ 
+ford  1993)  as  well  as  departure 
+from  average  greenness  (Burgan  et 
+al.  1996)  and  experimental  live 
+shrub  moisture  (fig.  3).  These  maps 
+have  a  .6  mile  (1  km)  spatial  resolu¬ 
+tion  and  are  updated  weekly. 
+
+The  broad  area  maps  are  distrib¬ 
+uted  as  Graphics  Interchange  For¬ 
+mat  (GIF)  files  over  three  networks. 
+They  are  uploaded  to  the  WFAS  di¬ 
+rectory  in  WIMS,  mailed  as  a  Data 
+General  dumpfile  to  the  NIFC  in 
+Boise,  ID,  and  the  Northern 
+Rockies  Coordinating  Center  in 
+Missoula,  MT,  and  posted  on  the 
+USDA  Forest  Service’s  Internet 
+Home  Page  (www.fs.fed.us/land/ 
+wfas/welcome.html). 
+
+As  a  result  of  our  current  experi¬ 
+ence  with  the  maps,  we  make  the 
+following  evaluation: 
+
+•  Station  Density  and  NWS 
+Weather  Streams.  The  higher 
+station  density  in  the  Western 
+United  States  facilitates  reason¬ 
+able  broad  area  maps  of  fire  dan¬ 
+ger  and  fire  weather  elements. 
+The  lower  station  density  in  the 
+Central  and  Eastern  States  leads 
+to  obviously  bogus  interpolated 
+fields.  This  highlights  the  need  to 
+use  NWS  data  in  the  broad  area 
+component  of  WFAS. 
+
+•  Keetch-Byram  Drought  Index 
+(KBDI).  Only  about  10  percent 
+
+The  use  of  corporation  names  and/or  their  products  is 
+for  the  information  and  convenience  of  the  reader  and 
+should  not  be  misconstrued  as  an  official  endorsement  by 
+the  U.S.  Department  of  Agriculture  or  the  Forest  Service. 
+
+
+North  American  Haines  Index:  Mar  15-12Z 
+
+
+C I nv .  DiBt.fZ  Infcarp.:  Riaportfng  Stria  Marked  w/Squara} 
+
+
+WFAS  Map-  Products 
+
+
+Fire  Behavior  Research 
+
+
+. . %i 
+
+in 
+
+2 )  Very  Low  i 
+
+u 
+
+3)  Very  Law  1 
+
+□ 
+
+4)  Law 
+
+□ 
+
+5)  Moderate  ! 
+
+□ 
+
+6)  High 
+
+i 
+
+1 — 
+
+7)  Water 
+
+Figure  2 — Another  WFAS  product — a  map  of  North  America  using  the  Haines  Lower 
+Atmospheric  Stability  Index  (LASI)  (Haines  1988).  Weather  data  are  obtained  from  all 
+radiosonde  stathms. 
+
+
+of  the  reporting  stations  have  cor¬ 
+rectly  cataloged  annual  precipita¬ 
+tion  values,  a  requirement  for 
+correct  computation  of  the  KBDI. 
+The  station  density  for  the  KBDI 
+map  is  generally  very  low,  there¬ 
+fore  the  map  is  quite  unreliable 
+on  a  national  basis.  This  situation 
+could  be  resolved  if  fire  managers 
+would  enter  the  average  annual 
+precipitation  into  their  WIMS 
+weather  station  catalogs. 
+
+•  Coloring  the  Maps.  The  daily  fire 
+danger  adjective  classes  are  taken 
+directly  from  the  WIMS  computa¬ 
+tion  for  each  station,  based  on  the 
+fire  danger  index  defined  by  the 
+station,  number  of  staffing 
+classes,  and  staffing  level  values 
+cataloged  for  each  station’s  prior¬ 
+ity-one  fuel  model.  About  90  per¬ 
+cent  of  the  stations  cataloged  in 
+
+
+WIMS  use  the  burning  index  (BI), 
+and  the  rest  use  the  energy  re¬ 
+lease  component  (ERG)  to  set 
+their  adjective  class.  Groupings 
+for  the  five  classifications  on  the 
+weather  maps  were  based  on  our 
+perception  of  reasonable  thresh¬ 
+olds.  Experience  has  made  it 
+clear  that  we  imparted  a  western 
+(arid)  bias.  “Critical”  relative  hu¬ 
+midities  in  the  Eastern  States  and 
+Upper  Midwest,  for  example,  were 
+not  reflected  correctly  in  the 
+color  code.  More  analysis  (using 
+FIRES)  is  required  to  delineate 
+regional  threshold  values  for  fire 
+weather  elements. 
+
+High  Resolution  Maps:  The  Okla¬ 
+homa  Prototype.  The  high  resolu¬ 
+tion  NFDRS  style  fire  danger  map  is 
+represented  by  the  Oklahoma  fire 
+
+
+Fire  Management  Notes 
+
+
+ffefegfl  y  oUAL  kjf\C.CJNNC.33  I IYI Ml\— 
+
+
+/l4l8i 
+
+S  I  OCX 
+
+
+^UVE  SI^B~M0tSTlMEJ^/^9^^|| 
+
+
+DEPARTURE  FROM  AVERAGE  1+-MAR-96jg£ 
+
+'•■  .  y  rA — .. -  ,  -Jfc.V  -S'^JOrnk:  .  :'■ ■•>>.  .', 
+
+
+Ci  51  C«  , 
+A  ei-7C* 
+/i-** 
+
+o  j  si  oat 
+0)  S1-KXK 
+
+
+-7« 
+
+
+91-KBK 
+
+TVol#r 
+
+
+* 
+
+
+Figure  3 — Satellite  data  is  used  to  produce  this  WFAS  product — a  four-panel  map  that  portrays  visual  and  relative  greenness  (Burgan 
+and  Hartford  1993)  as  well  as  departures  from  average  greenness  and  experimental  live  shrub  moisture.  Vegetative  greenness  maps, 
+which  are  updated  weekly,  have  a  .6  mile  (1  km)  spatial  resolution. 
+
+
+danger  system.  This  system  is  de¬ 
+scribed  by  Crawford  (1993)  and 
+Carlson  et  al.  (1996).  Also  consult 
+Burgan  and  Bradshaw  (1997)  in 
+this  issue  of  Fire  Management 
+Notes. 
+
+Literature  Cited 
+
+Andrews,  Patricia  L.  1986.  BEHAVE:  Fire  be¬ 
+havior  prediction  and  fuel  modeling  sys¬ 
+tem — BURN  subsystem,  part  1.  Gen.  Tech. 
+Rep.  INT-194.  Ogden,  UT:  U.S.  Department 
+of  Agriculture,  Forest  Service,  Intermoun¬ 
+tain  Research  Station.  130  p. 
+
+Andrews,  Patricia  L.;  Bradshaw,  Larry  S.  In 
+preparation.  FIRES:  Fire  Information  Re¬ 
+trieval  and  Evaluation  System — a  program 
+for  fire  danger  rating  analysis.  Gen.  Tech. 
+Rep.  INT.  Ogden,  UT:  U.S.  Department  of 
+Agriculture,  Forest  Service,  Intermountain 
+Research  Station. 
+
+Burgan,  Robert  E.:  Bradshaw,  Larry  S.  1997. 
+WFAS  requires  a  variety  of  weather  infor¬ 
+mation.  Fire  Management  Notes.  57(2): 
+18-21. 
+
+Burgan,  Robert  E.;  Hartford,  Roberta  A.  1993. 
+Monitoring  vegetation  greenness  with  sat¬ 
+
+
+ellite  data.  Gen.  Tech.  Rep.  INT-297.  Ogden, 
+UT:  U.S.  Department  of  Agriculture,  Forest 
+Service,  Intermountain  Research  Station. 
+13  p. 
+
+Burgan,  Robert  E.:  Hartford,  Roberta  A., 
+Eidenshink,  Jeffery  C.  1996.  Using  NDVI  to 
+assess  departure  from  average  greenness 
+and  its  relation  to  fire  business.  Gen.  Tech. 
+Rep.  INT-GTR-333.  Ogden,  UT:  U.S.  Depart¬ 
+ment  of  Agriculture,  Forest  Service,  Inter¬ 
+mountain  Research  Station.  8  p. 
+
+Carlson,  J.D.;  Burgan,  Robert  E.;  Engle,  David 
+M.  1996.  Using  the  Oklahoma  Mesonet  in 
+developing  near-real-time,  next-generation 
+fire  danger  rating  system.  In:  Proceedings 
+of  the  22nd  Conference  on  Agricultural  and 
+Forest  Meteorology  with  Symposium  on 
+Fire  and  Forest  Meteorology:  1996  Jan.  28- 
+Feb.  2;  Atlanta,  GA.  Boston,  MA:  American 
+Meteorological  Society:  249-252. 
+
+Crawford,  Ken,  ed.  1993.  The  Oklahoma 
+Mesonet.  Norman,  OK:  Oklahoma  State 
+University  and  the  University  of  Oklahoma. 
+57(11):  1453-1463. 
+
+Deeming,  J.E.,  Burgan,  R.E.,  and  Cohen,  J.D. 
+1977.  The  National  Fire-Danger  Rating  Sys¬ 
+tem — 1978.  Gen.  Tech.  Rep.  INT-39.  Ogden, 
+UT:  U.S.  Department  of  Agriculture,  Forest 
+Service,  Intermountain  Research  Station. 
+
+63  p. 
+
+
+Finney,  Mark  A.  1995.  A  fire  area  simulator 
+for  fire  managers.  In:  The  Biswell  Sympo¬ 
+sium:  Fire  issues  and  solutions  in  urban 
+interface  and  wildland  ecosystems:  1994; 
+Feb.  15-17:  Walnut  Creek,  CA.  Gen.  Tech. 
+Rep.  PSW-158.  Berkeley,  CA:  U.S.  Depart¬ 
+ment  of  Agriculture,  Forest  Service,  Pa¬ 
+cific  Southwest  Forest  and  Range 
+Experiment  Station. 
+
+Haines,  D.A.  1988.  A  Lower  Atmosphere  Se¬ 
+verity  Index  for  wildland  fire.  National 
+Weather  Digest.  13(2):  23-27. 
+
+Keetch,  John  J.:  Byram,  George  M.  1968.  A 
+drought  index  for  forest  fire  control.  Res. 
+Pap.  SE-38.  Asheville,  NC:  U.S.  Depart¬ 
+ment  of  Agriculture,  Forest  Service, 
+Southeastern  Forest  Experiment  Station. 
+32  p. 
+
+Latham,  Don  J.:  Schlieter,  Joyce  A.  1991.  Ig¬ 
+nition  probabilities  of  wildland  fuels  based 
+on  simulated  lightning  discharges.  Res. 
+Pap.  INT-411.  Ogden,  UT:  U.S.  Department 
+of  Agriculture,  Forest  Service,  Intermoun¬ 
+tain  Research  Station.  16  p. 
+
+Rothermel,  Richard  C.;  Andrews,  Patricia  L. 
+1987.  Fire  behavior  system  for  the  full 
+range  of  fire  management  needs.  Paper 
+presented  at  the  Symposium  on  Wildland 
+Fire  2000,  April  27-30,  1987.  South  Lake 
+Tahoe,  CA.  145-151.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+WFAS  Requires  a  Variety 
+of  Weather  Information* 
+
+Robert  E.  Burgan  and  Larry  S.  Bradshaw 
+
+
+As  the  Fire  Behavior  Research 
+Work  Unit  (RWU)  of  the  Inter¬ 
+mountain  Research  Station 
+has  been  developing  the  Wildland 
+Fire  Assessment  System  (WFAS) 
+(see  Burgan  et  al.  1997  in  this  is¬ 
+sue  of  Fire  Management  Notes),  it 
+has  been  abundantly  clear  that 
+weather  inputs  are  the  most  diffi¬ 
+cult  challenge  in  the  system’s 
+development.  In  this  article,  there¬ 
+fore,  we  discuss  required  weather 
+inputs  to  the  WFAS  in  terms  of 
+weather  parameters  and  temporal 
+and  spatial  resolution.  We  also 
+describe  briefly  a  system  that  pro¬ 
+duces  fire  danger  maps  four  times 
+daily  at  a  .6  mile  (1  km)  resolution 
+for  the  State  of  Oklahoma  and 
+present  it  as  an  early  step  in  the 
+development  of  the  WFAS. 
+
+WFAS  Definitions 
+and  Attributes 
+
+Fire  potential  in  WFAS  is  used  in  a 
+generic  sense  to  refer  to  assess¬ 
+ments  (at  whatever  time  and  spa¬ 
+tial  scale)  that  fit  the  context  of  the 
+following  discussion.  Fire  danger 
+and  fire  behavior  are  terms  used  to 
+describe  assessments  of  fire  poten¬ 
+tial  on  different  time  and  space 
+scales.  Fire  danger  is  evaluated 
+
+
+Robert  Burgan  is  a  research  forester  and 
+Larry  Bradshaw  is  a  meteorologist  for  the 
+USDA  Forest  Service,  Intermountain 
+Research  Station,  Fire  Behavior  Research 
+Work  Unit,  Missoula,  MT. 
+
+
+'"This  article  appeared,  in  part,  as  "Weather  Needs  for 
+the  Wildland  Fire  Assessment  System"  in  Proceedings 
+of  the  22nd  Conference  on  Agriculture  and  Forest 
+Meteorology  with  Symposium  on  Fire  and  Forest 
+Meteorology,  published  in  1996  in  Boston,  MA,  by  the 
+American  Meteorological  Society,  pages  325-328. 
+
+
+“The  single  largest 
+challenge  to  building 
+and  operating  the 
+Wildland  Fire 
+Assessment  System 
+(WFAS)  is  collecting, 
+processing,  and 
+archiving  weather 
+data.” 
+
+
+routinely — at  least  once  a  day — for 
+broad  areas.  Fire  behavior  assess¬ 
+ments,  however,  are  made  for  spe¬ 
+cific  sites  as  needed. 
+
+With  the  attributes  already  in  place 
+as  well  as  those  planned  for  the 
+WFAS,  the  system  will: 
+
+•  Require  minimal  data  from  user, 
+
+•  Emphasize  map  and  graphical 
+outputs, 
+
+•  Provide  multilevel  resolution  in¬ 
+puts  and  outputs, 
+
+•  Reflect  diurnal  weather  varia¬ 
+tions, 
+
+•  Provide  “hooks”  to  related  mod¬ 
+els  (e.g.,  smoke  dispersion  and 
+fire  effects), 
+
+•  Be  oriented  toward  workstations 
+and  PC’s, 
+
+•  Simulate  fire  characteristics, 
+
+•  Be  operable  in  the  field, 
+
+•  Relate  current  to  historical  con¬ 
+ditions, 
+
+•  Forecast  fire  potential  and  prob¬ 
+abilities  on  national  to  local 
+scales,  and 
+
+•  Display  inputs,  outputs,  and  in¬ 
+termediate  products. 
+
+
+Weather  Data 
+
+The  WFAS  is  being  designed  to 
+provide  maximum  information  to 
+the  user  with  minimum  interfer¬ 
+ence  to  daily  work  schedules  in 
+field  offices.  We  expect  that  the  Na¬ 
+tional  Weather  System’s  (NWS) 
+weather  stations  will  provide  a 
+stable  “minimum  set”  of  weather 
+stations  for  broad  scale  (national) 
+fire  potential  assessment,  but  the 
+WFAS  will  also  use  weather  data 
+collected  by  various  agencies  (e.g., 
+USDA  Forest  Service,  USDI  Bureau 
+of  Land  Management  and  National 
+Park  Service,  States)  as  much  as 
+possible  and  include  local  area  re¬ 
+finement  of  fire  assessments.  For 
+broad  scale  assessments,  we  hope 
+to  make  use  of  new  technology 
+available  from  the  NWS  modern¬ 
+ization  project — technology  that  is 
+not  likely  to  be  available  from 
+agency-operated  units.  Thus  two 
+major  challenges  for  national  level 
+fire  danger  assessment  are  1)  how 
+to  make  the  best  use  of  new  NWS 
+products  and  2)  how  best  to  use 
+varying  agency  data  as  a  supple¬ 
+ment  to  NWS  data. 
+
+As  the  area  of  interest  focuses  from 
+national  to  site  specific,  we  expect 
+that  Remote  Automated  Weather 
+Stations’  (RAWS)  data  or  other 
+agency-collected  weather  data  will 
+be  used  to  assess  specific  fire 
+events. 
+
+Capability  for 
+Regular  Updates 
+
+Fire  danger  has  traditionally  fo¬ 
+cused  on  the  “worst  case”  scenario 
+
+
+18 
+
+
+Fire  Management  Notes 
+
+
+by  using  1  or  2  p.m.  (local  time) 
+weather  observations.  Automated 
+weather  observations  and  satellite 
+data  provide  an  opportunity  to  as¬ 
+sess  fire  danger  throughout  a  day. 
+Improved  temporal  resolution  of 
+weather  data  would  provide  fire 
+managers  with  more  timely  infor¬ 
+mation  about  fire  potential,  per¬ 
+haps  alerting  them  to  problems 
+such  as  severe  conditions  develop¬ 
+ing  late  in  the  day  or  poor  mois¬ 
+ture  recovery  at  night. 
+
+Fire  behavior  updates  could  make 
+use  of  weather  data  updates  every  4 
+to  6  hours,  but  spot  weather  fore¬ 
+casts  generated  “on-demand”  for  a 
+fire  area  will  still  be  required.  Fire 
+researchers  are  working  with  the 
+NWS  to  conduct  weather  modeling 
+tests  to  determine  both  if  gridded 
+data  can  be  refined  enough  to  be 
+useful  for  areas  as  small  as  fire 
+sites  and  how  fire  weather  forecast¬ 
+ers  will  interface  with  WFAS. 
+
+Archiving  Data 
+
+Traditional  fire  danger  systems 
+have  long  had  some  capability  to 
+relate  current  fire  potential  condi¬ 
+tions  to  historical  conditions.  Dis¬ 
+playing  historical  data  infers  that 
+major  decisions  will  have  to  be 
+made  concerning  what  weather 
+data  to  archive  and  how  to  both 
+archive  and  make  that  data  avail¬ 
+able  to  users.  It  does  not  seem  pru¬ 
+dent  to  rely  on  the  NWS  to  archive 
+weather  data  for  the  WFAS  because 
+1 )  it  would  likely  have  to  be  pur¬ 
+chased  from  them,  2)  it  would  not 
+be  “on  line,”  3)  it  probably  would 
+have  to  be  reformatted  before  it 
+was  usable,  and  4)  it  would  not  be 
+under  the  control  of  WFAS  manag¬ 
+ers.  Therefore,  a  procedure  must 
+be  devised  to  enable  WFAS  to 
+“grab”  data  to  archive  for  later 
+computing  of  current  fire  danger. 
+
+
+Forecasting  Fire 
+Potential 
+
+Although  fire  potential  estimates 
+will  be  updated  during  the  day,  fire 
+weather  forecasts  must  be  made 
+available  for  as  far  in  the  future  as 
+they  can  be  reasonably  relied  upon. 
+This  is  expected  to  be  a  maximum 
+of  3  to  5  days.  Some  measure  of 
+forecast  reliability  will  be  neces¬ 
+sary.  The  specific  measure  and 
+means  of  producing  and  displaying 
+it  will  have  to  be  discussed  with 
+the  NWS. 
+
+National  scale  products  will  have 
+to  rely  upon  nationally  available 
+weather  products.  We  do  not  ex¬ 
+pect  that  personal  interpretation 
+by  fire  weather  forecasters  will  oc¬ 
+cur  at  this  scale.  As  the  forecast 
+area  decreases  and  one  begins  to 
+look  at  site-  and  time-specific  situ¬ 
+ations,  it  is  less  likely  a  weather 
+station  will  exist  within  the  area  of 
+interest.  If  the  forecast  area  is 
+small  enough,  there  will  not  be  any 
+weather  observations  taken  within 
+it  unless  special  provisions  are 
+made.  Therefore  forecast  weather 
+parameters  for  fire  behavior  pre¬ 
+dictions  will  most  likely  have  to 
+come  from  spot  forecasts. 
+
+Data  Displays 
+
+Although  it  is  natural  to  focus  on 
+the  final  fire  potential  outputs,  it  is 
+likely  fire  managers  will  want  to 
+see  some  of  the  raw  inputs  and  in¬ 
+termediate  products  as  well.  For 
+example,  the  NWS  should  provide 
+satellite  images  and  graphical 
+products  showing  weather  condi¬ 
+tions  such  as  cloudiness,  the  loca¬ 
+tion  of  fronts,  temperature  maps, 
+and  wind  graphics.  Fire  managers 
+will  also  want  to  view  such  graph¬ 
+ics  as  fuel  moisture  or  drought 
+maps,  fire  potential  maps,  and 
+lightning  location  maps  generated 
+by  WFAS.  Discussions  with  the 
+NWS  and  fire  managers  will  help 
+
+
+determine  which  inputs  and  out¬ 
+puts  the  WFAS  will  display. 
+
+Weather  Summary 
+
+The  single  largest  challenge  to 
+building  and  operating  the  WFAS  is 
+collecting,  processing,  and 
+archiving  weather  data.  The  follow¬ 
+ing  describes  our  current  assess¬ 
+ment  of  weather  needs,  subject  to 
+review  and  change  as  development 
+continues.  Required  weather  pa¬ 
+rameters  for  broad  area  fire  poten¬ 
+tial  assessments  are  1)  temper¬ 
+ature,  relative  humidity,  solar  ra¬ 
+diation,  precipitation  amount  and 
+possibly  duration,  windspeed,  and 
+wind  direction — all  near  ground 
+level,  2)  moisture,  temperature, 
+and  stability  of  the  lower  atmo¬ 
+sphere,  and  3)  cloudiness,  lightning 
+activity,  and  location  of  weather 
+fronts.  With  the  possible  exception 
+of  windspeed  and  wind  direction, 
+these  inputs  should  be  obtained 
+four  times  per  day  to  help  track  di¬ 
+urnal  fire  danger  changes  and  pro¬ 
+vide  input  to  fuel  moisture  models. 
+These  data  should  be  available  on  at 
+least  a  19-mile  (30-km)  grid  for  the 
+Continental  United  States,  with  a  6- 
+mile  (10-km)  grid  being  much  pre¬ 
+ferred.  These  weather  parameters 
+must  apply  to  the  near-surface  zone 
+within  which  fires  burn  and  be  ad¬ 
+justed  for  slope,  elevation,  and  as¬ 
+pect.  We  hope  that  the  NWS  will  be 
+able  to  make  these  adjustments. 
+
+Windspeed  and  wind  direction  are 
+very  difficult  to  project  realistically 
+to  a  high  resolution  over  large  geo¬ 
+graphic  areas,  but  it  would  be  very 
+helpful  to  obtain  this  information 
+in  a  relatively  broad  spatial  and 
+temporal  context  at  the  least.  These 
+two  inputs  need  to  be  defined  quite 
+specifically  for  fire  behavior  appli¬ 
+cations  to  be  site  and  time  specific. 
+Depending  on  the  capabilities  of 
+mesoscale  wind  models,  it  may  be 
+
+Continued  on  page  20 
+
+
+I 
+
+
+Volume  57  •  No.  2  #  1997 
+
+
+9 
+
+
+necessary  to  rely  on  forecaster  or 
+user  inputs  of  windspeed  and  wind 
+direction  for  local  areas. 
+
+For  the  time  of  highest  fire  danger, 
+which  varies  regionally,  24-hour 
+forecast  data  of  fire  danger  should 
+be  provided  at  least  once  daily,  and 
+3-  to  5-day  forecasts  should  also  be 
+updated  daily  for  the  Continental 
+United  States.  All  weather  data 
+should  be  adjusted  for  the  effects 
+of  mountainous  terrain  and/or  ma¬ 
+rine  influences. 
+
+Outputs 
+
+Low  Resolution  Outputs.  WFAS 
+products  that  are  user  accessible 
+will  come  in  the  form  of: 
+
+•  Primary  maps ,  the  lowest  reso¬ 
+lution  information  displays.  The 
+maps  will  provide  the  most  pro¬ 
+cessed  “overview”  data.  A  user 
+should  be  able  to  click  a  button 
+and  view  one  of  these  maps.  Ex¬ 
+amples  include  lightning  occur¬ 
+rence  and  energy  release 
+component  maps. 
+
+•  Intermediate  product  maps  that 
+display  underlying  information 
+are  being  considered.  Examples 
+of  such  maps  are  a  cloudiness 
+map,  Haines  Lower  Atmospheric 
+Stability  Index  (Haines  1988), 
+windspeed,  wind  direction, 
+weather  fronts,  and  vegetation 
+greenness. 
+
+•  Non-map  graphics  that  display 
+information  relating  to  the  con¬ 
+ditions  of  specific  points  or  ar¬ 
+eas,  such  as  weather  station 
+locations,  ranger  districts,  or  na¬ 
+tional  forests.  Examples  are  the 
+fire  characteristics  chart  and 
+seasonal  fire  potential  graphs. 
+
+•  Alphanumerics,  which  are  the 
+actual  numbers  that  underlie  the 
+various  map  and  graphic  outputs 
+(e.g.,  energy  release  component, 
+burning  index,  greenness)  at  any 
+location  for  any  of  the  primary 
+or  intermediate  maps. 
+
+
+High  Resolution  Outputs.  High 
+resolution  outputs  require  site- 
+and  time-specific  assessments  of 
+fire  behavior  characteristics  such 
+as  flame  length,  spread  rate,  and 
+fire  intensity.  Such  assessments 
+would  benefit  greatly  from  6- 
+hourly  updates  of  forecast  weather 
+conditions  at  spatial  scales  of  .6 
+mile  to  33  yards  (1  km  to  30  m). 
+Fuels  and  terrain  data  should  be 
+presented  in  a  similar  spatial  scale. 
+Because  it  is  unlikely  that  gridded 
+weather  data  can  be  obtained  at 
+these  scales,  provisions  will  have  to 
+be  made  for  direct  weather  inputs 
+by  fire  weather  forecasters  and 
+temporary  RAWS.  The  fuel, 
+weather,  and  terrain  data  will  be 
+processed  in  a  fire  simulation  sys¬ 
+tem  to  model  fire  behavior  and  lo¬ 
+cation  of  problem  fires  over  the 
+next  24  hours.  Planned  outputs  in¬ 
+clude  maps  of  projected  fire  loca¬ 
+tion  and  intensity,  plotted  either 
+planimetrically  or  over  terrain. 
+
+Calculating  Fire 
+Danger  Maps  for 
+Oklahoma 
+
+The  primary  inputs  to  a  math¬ 
+ematical  model  for  calculating  fire 
+danger  are  fuels,  weather,  and 
+topography.  See  figure  1  for  a  .6 
+mile-  (1  km-)  resolution  fire  fuels 
+map  for  Oklahoma.  Because  Okla¬ 
+homa  is  relatively  flat,  elevation 
+data  are  not  used  for  their  fire  dan¬ 
+ger  calculations.  However,  eleva¬ 
+tion  data  are  available  for  the 
+conterminous  United  States  at  a  .6 
+mile  (1  km)  resolution.  A  high 
+resolution  weather  network  is  rare, 
+but  the  University  of  Oklahoma 
+(Crawford  1993)  is  operating  one 
+for  Oklahoma.  Our  RWU  is  cooper¬ 
+ating  with  the  university  to  use 
+weather  observations  from  their 
+mesonet  to  calculate  fire  danger 
+for  the  State.  One  weather  station 
+in  each  county  has  been  selected  to 
+represent  the  weather  for  that 
+
+
+county.  Figure  1  combines  weather 
+stations  and  fuel  models  for  that 
+State.  Because  the  topography  in 
+Oklahoma  is  flat,  the  entire  State 
+can  be  included  in  a  single  class  (0 
+to  20  percent  slope). 
+
+The  process  of  calculating  fire  dan¬ 
+ger  maps  is  done  on  a  pixel-by¬ 
+pixel  basis.  First,  weather  data 
+from  the  mesonet  stations  are  used 
+to  calculate  all  the  dead  fuel  mois¬ 
+tures  (1,  10,  100,  and  1,000  hour) 
+associated  with  each  weather  sta¬ 
+tion.  The  dead  moistures  calcu¬ 
+lated  from  composites  for  a 
+weather  station  are  assigned  to  all 
+pixels  within  the  county  in  which 
+the  weather  station  is  located. 
+These  moistures  are  saved  in  a 
+separate  data  file. 
+
+Live  herbaceous  and  shrub  mois¬ 
+tures  are  calculated  for  each  pixel 
+as  a  function  of  the  relative  green¬ 
+ness  index,  which  is  derived  from 
+the  Normalized  Difference  Vegeta¬ 
+tion  Index,  which  is  in  turn  calcu¬ 
+lated  from  weekly  composites  of 
+Advanced  Very  High  Resolution 
+Radiometer  Data  (Burgan  and 
+Hartford  1993).  For  the  fire  danger 
+calculations  in  figure  2,  three  in¬ 
+put  map  layers  are  referenced:  1)  a 
+map  that  identifies  the  county  each 
+pixel  is  in,  2)  a  Relative  Greenness 
+map  for  calculating  live  fuel  mois¬ 
+tures,  and  3)  a  fuel  model  map 
+consisting  of  a  fuel  model  number 
+for  each  pixel.  For  each  pixel,  the 
+county  map  layer  is  used  to  deter¬ 
+mine  the  weather  station  repre¬ 
+senting  that  pixel  (to  access  dead 
+fuel  moistures);  the  fuels  map 
+layer  is  used  to  identify  the  fuel 
+model  for  that  pixel;  and  the  Rela¬ 
+tive  Greenness  map  layer  is  used  to 
+calculate  live  fuel  moistures  by 
+pixel.  The  rest  of  the  calculations 
+proceed  as  in  the  current  fire-dan¬ 
+ger  rating  system.  However,  rather 
+than  the  outputs  being  a  table  of 
+
+
+20 
+
+
+Fire  Management  Notes 
+
+
+Fuel  Models  and  Mesonet  Stations 
+
+
+Fuel  Model 
+□  Water 
+
+
+□  Model  A 
+
+□  Mode  1  L 
+
+□  Model  P 
+
+□  Model  R 
+
+□  Model  T 
+
+
+Figure  1 — NFDRS  fire  fuels  map  and  partial  Oklahoma  Mesonet  weather  station  network. 
+Crosses  indicate  each  county 's  weather  station. 
+
+
+Fire  Potential  Map  Calculation 
+
+
+County  map 
+(Wx) 
+
+Relative 
+
+Greenness  map 
+
+Fuel 
+
+model  map 
+
+>r 
+
+>  r 
+
+>  r 
+
+Dead  fuel 
+moisture 
+
+Live  fuel 
+moisture 
+
+Pixel  fuel 
+model 
+
+>  r 
+
+- w 
+
+Fire  potential 
+
+calculation 
+
+- 
+
+>  r 
+
+i 
+
+Spread 
+
+component 
+
+Energy  release 
+component 
+
+Burning  index 
+
+Figure  2 — Flowchart  showing  how  weather,  greenness,  and  fuel  model  maps  are  used  to 
+calculate  Fire  potential,  which  is  displayed  as  spread  component,  energy  release  compo¬ 
+nent,  and  burning  index  maps. 
+
+
+Figure  3 — Fire  potential  (danger)  map  for  Oklahoma  using  the  spread  component. 
+Note  the  even  gradation  of  Fire  danger  across  county  boundaries. 
+
+
+fire  danger  indexes  printed  on  pa¬ 
+per  for  individual  weather  stations, 
+they  are  multicolored  maps  of  fire 
+danger  (spread  component)  at  .6 
+mile  (1  km)  resolution  for  the  State 
+(fig.  3).  An  interesting  aspect  of  the 
+final  fire  danger  map  is  that  it 
+shows  even  gradation  of  fire  danger 
+across  county  boundaries,  in  spite 
+of  the  fact  that  all  the  pixels  in  each 
+county  have  the  same  dead  fuel 
+moisture  values.  This  occurs  be¬ 
+cause  of  the  .6  mile  (1  km)  spatial 
+variability  of  the  fuel  model  map 
+and  the  live  herbaceous  and  shrub 
+moisture  maps.  Such  maps  can  be 
+produced  at  hourly  intervals. 
+
+While  this  process  works  for  Okla¬ 
+homa,  extending  the  process  to 
+mountainous  terrain  will  require 
+additional  research.  Methods  are 
+required  to  adjust  the  weather  in¬ 
+puts  for  the  effects  of  slope,  eleva¬ 
+tion,  and  aspect. 
+
+The  Oklahoma  effort  shows  that 
+calculation  of  .6  mile-  (1  km-)  reso¬ 
+lution  fire  danger  maps  is  feasible, 
+even  without  weather  data  at  that 
+resolution.  The  next  step  is  to  use 
+NWS  gridded  data  to  produce  a 
+similar  map  for  the  conterminous 
+United  States. 
+
+Literature  Cited 
+
+Burgan,  Robert  E.;  Hartford,  Roberta  A. 
+1993.  Monitoring  vegetation  greenness 
+with  satellite  data.  Gen.  Tech.  Rep.  INT- 
+297.  Ogden,  UT:  U.S.  Department  of  Ag¬ 
+riculture,  Forest  Service,  Intermountain 
+Research  Station.  13  p. 
+
+Burgan,  Robert  E.;  Andrews,  Patricia  L.; 
+Bradshaw,  Larry  S.;  Chase,  Carolyn  H.; 
+Hartford,  Roberta  A.;  Latham,  Don  J. 
+1997.  Current  Status  of  the  Wildland 
+Fire  Assessment  System  (WFAS).  Fire 
+Management  Notes  57(2):  14-17. 
+Crawford,  Ken,  ed.  1993.  The  Oklahoma 
+Mesonet.  Norman,  OK:  Oklahoma  State 
+University  and  the  University  of  Okla¬ 
+homa.  57(11):  1453-1463. 
+
+Haines,  D.A.  1988.  A  Lower  Atmosphere  Se¬ 
+verity  Index  for  wildland  fire.  National 
+Weather  Digest.  13(2):  23-27.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+21 
+
+
+High  Resolution  Fire 
+Weather  Models 
+
+Francis  M.  Fujioka 
+
+
+The  next  generation  fire  danger 
+and  fire  behavior  system  envi¬ 
+sioned  by  the  Forest  Service 
+(see  Burgan  et  al.  1997  and  Burgan 
+and  Bradshaw  1997  in  this  issue  of 
+Fire  Management  Notes)  will  as¬ 
+sess  fire  potential  across  a  broad 
+spectrum  of  space  and  time.  At  the 
+incident  level,  fire  behavior  models 
+will  require  detailed  descriptions  of 
+the  spatial  and  temporal  variations 
+of  weather  in  the  area  of  the  fire. 
+Burgan  and  Bradshaw  (1997)  sug¬ 
+gest  that  high  resolution  fire  be¬ 
+havior  simulations  “. . .  would 
+benefit  greatly  from  6-hourly  up¬ 
+dates  of  forecast  weather  condi¬ 
+tions  at  spatial  scales  of  .6  mile  to 
+33  yards  (1  km  to  30  meters).”  By 
+spatial  scale,  they  imply  the  dis¬ 
+tance  between  the  points  of  a  rec¬ 
+tangular  grid  on  which  weather, 
+fuel,  and  terrain  conditions  are 
+available  for  fire  behavior  simula¬ 
+tions.  They  write:  “. .  it  is  unlikely 
+that  gridded  weather  data  can  be 
+obtained  at  these  scales,”  but  this 
+paper  is  cautiously  optimistic  that 
+we  are  closer  than  expected  to  high 
+resolution  fire  weather  models. 
+
+What  Is  a  Fire 
+Weather  Model? 
+
+For  the  purposes  of  this  article,  a 
+fire  weather  model  is  a  scientific, 
+computerized  method  of  describ¬ 
+ing  spatial  and  temporal  variations 
+of  weather.  The  primary  weather 
+variables  of  interest  for  fire  behav¬ 
+ior  modeling  are  the  near-surface 
+
+
+Francis  Fujioka  is  the  project  leader  for 
+Fire  Meteorology  Research,  USDA  Forest 
+Service.  Pacific  Southwest  Station,  Forest 
+Fire  Laboratory,  Riverside,  CA. 
+
+
+“A  computerized  fire 
+weather  model  coupled 
+with  a  synoptic  model  is 
+a  powerful  means  of 
+describing  the  weather 
+part  of  the  fire 
+environment.” 
+
+values  of  wind  direction,  wind- 
+speed,  relative  humidity,  tem¬ 
+perature,  solar  radiation,  and  pre¬ 
+cipitation  amount.  All  of  these  can 
+be  simulated  in  a  fire  weather 
+model,  some  more  accurately  than 
+others.  In  meteorology,  a  fire 
+weather  model  is  described  as  me¬ 
+soscale,  in  reference  to  the  par¬ 
+ticular  spatial  scale  of  the  atmo¬ 
+spheric  process  it  simulates  (for 
+example,  see  Orlanski  1975). 
+Mesoscale  models  are  typically 
+used  to  simulate  convective  sys¬ 
+tems  (e.g.,  storm  events)  and  local 
+circulations  (e.g.,  sea  breeze,  winds 
+over  complex  terrain).  They  may  be 
+driven  by  synoptic  scale  weather 
+models  that  describe  large  atmo¬ 
+spheric  circulations  up  to  the  plan¬ 
+etary  scale.  Synoptic  scale  models 
+provide  the  national  weather  maps 
+seen  in  newspapers  and  on  televi¬ 
+sion.  Mesoscale  modeling  applica¬ 
+tions  are  not  so  routine,  but  they 
+have  recently  included  the  analysis 
+of  fire  weather. 
+
+The  Need  for  a  Fire 
+Weather  Model 
+
+A  fire  weather  model  is  needed  to 
+provide  a  scientific,  comprehensive 
+spatial  and  temporal  description  of 
+
+
+the  near-surface  atmospheric  con¬ 
+ditions  that  influence  the  fire  envi¬ 
+ronment.  The  model  output  should 
+be  in  a  coordinate  system 
+coregistered  with  the  fuels  and  ter¬ 
+rain  data  so  that  fire  behavior  cal¬ 
+culations  can  be  obtained  over  the 
+area  of  interest.  A  mesoscale  model 
+based  on  the  physics  of  atmo¬ 
+spheric  processes  ensures  that  the 
+spatial  distribution  and  transfor¬ 
+mation  of  fire  weather  variables  are 
+generated  methodically  and  consis¬ 
+tently.  The  model  should  also  in¬ 
+corporate  large-scale  effects  of 
+synoptic  systems  that  are  present, 
+because  generally,  weather  condi¬ 
+tions  on  a  local  scale  are  driven  by 
+large-scale  weather.  A  computer¬ 
+ized  fire  weather  model  coupled 
+with  a  synoptic  model  is  a  powerful 
+means  of  describing  the  weather 
+part  of  the  fire  environment. 
+
+Recently,  three  research  groups 
+conducted  independent  fire 
+weather  modeling  experiments 
+that  portend  the  future  of  fire 
+weather  analysis  and  forecasting. 
+The  first  compared  a  fire  weather 
+model  with  corresponding  data 
+from  a  high  density  weather  sta¬ 
+tion  network.  The  second  experi¬ 
+ment  simulated  weather  on  Storm 
+King  Mountain  during  the  tragic 
+1994  fire.  The  third  experiment 
+coupled  a  weather  model  and  a  fire 
+behavior  model  so  that  the  fire 
+influenced  the  weather  and  vice 
+versa. 
+
+The  Maui  Vortex 
+
+Wildfires  in  Hawaii  are  smaller  on 
+average  than  those  in  the  other 
+
+
+22 
+
+
+Fire  Management  Notes 
+
+
+Figure  1 — Map  showing  the  high  resolution  grid  used  in  the  Maui  fire  weather 
+simulations  (Ueyoshi  et  al.  1995).  The  grid  points  located  at  the  origins  of  the  wind 
+vectors  are  1.2  miles  (2  km)  apart. 
+
+
+Western  States  but  are  of  no  less 
+concern  to  local  fire  managers. 
+
+Fire  weather  conditions  in  Hawaii 
+are  unique  compared  to  weather  in 
+the  other  States.  On  the  island  of 
+Maui,  a  local  circulation  feature 
+called  the  Maui  vortex,  or  Maui 
+eddy,  can  change  the  wind  direc¬ 
+tion  by  180  degrees  within  a  few 
+miles,  significantly  affecting  the 
+behavior  of  potential  fires.  The  vor¬ 
+tex  is  also  known  to  trap  ash  and 
+smoke  issuing  from  pre-harvest 
+burning  of  sugar  cane  in  the  cen¬ 
+tral  valley  of  Maui  (Schroeder 
+1993),  thus  degrading  air  quality. 
+
+We  used  a  mesoscale  model  devel¬ 
+oped  over  a  period  of  years  at  Colo¬ 
+rado  State  University  to  simulate 
+the  weather  conditions  over  Maui 
+in  July  1988  (Ueyoshi  et  al.  1995). 
+Called  RAMS  (Regional  Atmo¬ 
+spheric  Modeling  System),  the 
+model  incorporates  the  physical 
+laws  governing  atmospheric  pro¬ 
+cesses.  In  this  study,  we  calcu¬ 
+lated — at  10-second  intervals — 
+winds,  temperature,  and  relative 
+humidity  at  points  spaced  1.2 
+miles  (2  km)  apart  in  a  rectangular 
+grid  measuring  67  miles  by  55 
+miles  (112  km  by  92  km)  (fig.  1). 
+The  short  time  step  is  necessary  to 
+preserve  the  numerical  stability  of 
+computerized  methods  used  to 
+solve  the  model’s  underlying  equa¬ 
+tions.  Vertical  variations  are  also 
+captured  at  23  levels  of  a  terrain¬ 
+following  coordinate  system.  The 
+model  can  thus  simulate  impor¬ 
+tant  fire  weather  effects  such  as 
+inversions,  precipitation,  and 
+momentum  transfer  between 
+layers  of  the  atmosphere.  Model 
+simulations,  however,  should  be 
+checked  against  the  real  world 
+conditions  they  represent  when¬ 
+ever  possible.  We  compared  our 
+simulations  with  weather  data 
+from  remote  automatic  weather 
+stations  deployed  by  a  sugar  plan¬ 
+tation  in  the  central  valley  of  Maui. 
+
+
+The  plantation  uses  weather  infor¬ 
+mation  to  determine  when  the 
+sugar  cane  can  be  burned  without 
+significant  air  quality  deterioration 
+in  sensitive  areas.  In  July  1988,  the 
+weather  stations  lay  in  that  part  of 
+the  vortex  where  average  wind- 
+speeds  apparently  were  greatest. 
+
+We  found  that  the  mesoscale 
+model  frequently  overestimated 
+windspeed  by  as  much  as  7  mi/h  (3 
+m/sec).  The  model  errors  were 
+larger  at  night  and  early  morning 
+than  they  were  during  the  day.  The 
+model  did  not  reproduce  the  diur¬ 
+nal  range  in  windspeed  that  actu¬ 
+ally  occurred,  but  it  seemed  to  be 
+in  phase  with  the  observed 
+windspeed  oscillation,  except  near 
+the  center  of  the  vortex.  There,  the 
+peak  in  the  average  observed 
+windspeed  lagged  behind  the  aver¬ 
+age  model  windspeed  by  approxi¬ 
+mately  4  hours.  Consequently,  the 
+model  underestimated  the  average 
+windspeed  during  most  of  the  af¬ 
+ternoon  hours.  In  all  cases,  the 
+model  wind  direction  was  in  fairly 
+good  agreement  with  the  observed 
+wind  direction. 
+
+
+An  intriguing  feature  of  the  fire 
+weather  simulations  was  the  be¬ 
+havior  of  temperature  and  relative 
+humidity  in  the  lee  of  the  ridge 
+line  extending  northward  from  the 
+summit  of  Mt.  Haleakala,  the  large 
+shield  volcano  that  dominates 
+Maui’s  topography.  The  mesoscale 
+model  showed  that,  as  the  trade 
+winds  descended  from  the  ridge 
+and  turned  south  from  their  west¬ 
+ward  trek,  the  layer  of  air  immedi¬ 
+ately  above  the  surface  layer 
+became  warm  and  dry,  apparently 
+due  to  the  spreading  and  sinking  of 
+air  as  the  flow  accelerated  south¬ 
+ward  on  the  western  side  of  the 
+vortex.  The  combination  of  warm¬ 
+ing,  drying,  and  accelerating  air 
+flow  can  invigorate  a  fire  in  this 
+area,  if  this  layer  descends  to  the 
+level  of  the  fuels. 
+
+The  mesoscale  model  simulations 
+provided  details  that  we  have  not 
+seen  before,  but  the  spacing  hori¬ 
+zontally  (1.2  miles  or  2  km)  and 
+vertically  (260  feet  or  80  m  in  the 
+lowest  layer)  is  probably  still  too 
+coarse.  The  Maui  model  also  needs 
+
+Continued  on  page  24 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+23 
+
+
+a  better  specification  of  the  surface 
+roughness,  vegetation,  and  soil 
+types. 
+
+Storm  King  Mountain 
+Simulation 
+
+Fire  weather  models  can  be  used  to 
+study  historic  fires.  Scientists  at 
+the  Los  Alamos  National  Labora¬ 
+tory  applied  the  RAMS  mesoscale 
+model  to  simulate  weather  condi¬ 
+tions  that  occurred  on  Storm  King 
+Mountain  on  the  afternoon  of  July 
+6,  1994.  They  used  a  grid  with 
+points  spaced  165  feet  (50  m)  apart 
+in  preparation  for  a  subsequent  fire 
+behavior  simulation  (fig.  2).  At  this 
+grid  resolution,  the  model’s  com¬ 
+puting  requirements  are  excessive 
+for  all  but  the  most  powerful  ma¬ 
+chines.  At  the  initial  stages  of  the 
+Los  Alamos  simulations,  1  hour  of 
+simulated  weather  required  35 
+hours  of  computing  time  on  a  rela¬ 
+tively  high-speed  Unix  workstation. 
+Since  then,  a  version  of  the  model 
+code  has  been  developed  for  paral¬ 
+lel  processors — computers  with 
+multiple  processing  units,  each 
+working  on  a  portion  of  the  model 
+calculations.  This  has  brought  the 
+computing  time  for  a  1-hour  simu¬ 
+lation  down  from  35  hours  to  1.5 
+hours  and  is  likely  to  shrink  the  ra¬ 
+tio  even  further  (Bossert  1996). 
+
+The  improvement  in  computing 
+performance  brings  this  mesoscale 
+modeling  code  into  the  range  of 
+feasibility  for  fire  weather  predic¬ 
+tion. 
+
+The  Interaction 
+Between  Weather 
+and  Fire 
+
+A  significant  recent  development 
+in  fire  modeling  is  the  coupled  at¬ 
+mosphere-fire  model,  which  simu¬ 
+lates  the  feedback  between  the 
+atmosphere  and  fire.  This  research 
+is  necessary  to  understand  such 
+conditions  as  blowup  fires.  Scien¬ 
+tists  at  the  National  Center  for  At¬ 
+
+
+SOUTH  CANYON  FIRE  REGION 
+
+
+Storm  King  Mtn. 
+
+
+Figure  2 — Simulated  wind  field  in  the  South  Canyon  Fire  area  on  the  afternoon  of 
+July  6,  1994  (from  Bossert  1996).  Distance  between  the  bases  of  adjacent  vectors  is 
+165  feet  (50  m).  Vector  lerigth  is  proportional  to  windspeed. 
+
+
+mospheric  Research  have  coupled 
+a  mesoscale  weather  model  and  a 
+simple  fire  behavior  model  for  a 
+dry  eucalyptus  forest  (Clark  et  al. 
+1996).  This  project  started  only  re¬ 
+cently,  but  some  interesting  results 
+have  already  been  obtained.  The  re¬ 
+searchers  have,  for  example,  iden¬ 
+tified  a  mechanism  that  produces 
+parabolic  fire  fronts.  In  simula¬ 
+tions  of  an  initially  straight  fire 
+front  subjected  to  a  certain  range 
+of  light  winds,  the  center  of  the 
+front  accelerates  preferentially,  be¬ 
+cause  the  convection  column  in¬ 
+duced  by  the  fire  tilts  ahead  of  the 
+front  and  draws  more  air  from  the 
+middle  of  the  fire  line  than  from 
+the  ends;  hence  the  windspeed  and 
+fire  spread  are  faster  across  the 
+center.  As  a  result,  the  fire  line 
+takes  on  the  shape  of  a  parabola. 
+Under  certain  conditions  that  are 
+still  not  fully  understood,  the  ac¬ 
+celerations  of  the  fire  front  are 
+rapid  and  highly  localized;  the  sci¬ 
+entists  call  this  event  “dynamic  fin¬ 
+gering.”  The  simulation  in  figure  3 
+
+
+shows  an  example  of  two  fingers 
+developing  along  an  initially 
+straight  fire  line  and  the  attendant 
+wind  pattern  at  a  height  of  363  feet 
+(110  m).  In  this  case,  the  wind 
+ahead  of  the  fire  is  drawn  between 
+the  fingers,  where  it  opposes  the 
+direction  of  the  propagating  fire.  A 
+critical  measure  of  atmosphere-fire 
+interaction  is  the  ratio  of  the  ki¬ 
+netic  energy  of  the  air  flow  over 
+the  fire  to  the  buoyant  energy  of 
+the  heat  of  the  fire.  When  this  ratio 
+is  small,  conditions  are  enhanced 
+for  a  blowup  fire.  In  this  case, 
+winds  are  relatively  light  over  the 
+fire,  while  the  fire  itself  is  ener¬ 
+getic.  A  somewhat  counterintuitive 
+finding  is  that  strong  winds  (high 
+kinetic  energy  to  buoyant  energy 
+ratio)  stabilize  the  fire  front  dy¬ 
+namics,  even  as  they  increase  the 
+spread  rate.  Apparently,  when 
+windspeeds  exceed  a  critical  value, 
+the  convective  column  is  displaced 
+too  far  from  the  fire  front  to  pro¬ 
+duce  any  significant  interaction 
+with  the  fire. 
+
+
+Fire  Management  Notes 
+
+
+FIRE8E  W  (m  s'1)  Z=1  10.  m 
+Time  =  1 2.0  min 
+
+
+0.4  0.6  0.8 
+
+X  (km) 
+
+
+Figure  3 — Simulation  from  the  coupled  atmosphere-fire  model  of  Clark  et  al.  (1996).  The 
+fire  starts  along  a  straight  line  at  the  left  and  develops  two  dynamic  fingers  along  the  0.4 
+km  (0.24  mi)  and  1.3  km  (0. 78  mi)  marks  of  the  y-axis.  The  gray  scale  at  the  right 
+indicates  vertical  velocity  of  air  flow. 
+
+
+At  this  stage,  the  coupled  model  is 
+less  predictive  than  it  is  indicative 
+of  the  complex  interactions  that 
+play  out  between  a  fire  and  the  at¬ 
+mosphere.  It  promises  significant 
+insight  into  the  processes  creating 
+
+
+blowups  and  spotting.  All  of  the 
+models  described  above,  complex 
+as  they  are,  nevertheless  are  sim¬ 
+plifications  of  reality.  At  best, 
+model  simulations  can  be  expected 
+to  resemble  the  real  world  only  ap¬ 
+
+
+proximately.  Fire  scientists  must 
+describe  model  uncertainties  as  de¬ 
+finitively  as  possible,  and  fire  prac¬ 
+titioners  must  understand  the 
+limitations  of  models.  We  cannot 
+have  one  without  the  other,  if  we 
+are  to  apply  fire  weather  and  fire 
+behavior  modeling  successfully  in 
+fire  management. 
+
+Literature  Cited 
+
+Bossert,  James  E.  1996.  Unpublished  com¬ 
+munication  on  file  at  the  office  of  the 
+author,  USDA  Forest  Service,  Forest 
+Fire  Laboratory,  4955  Canyon  Crest 
+Drive,  Riverside,  CA  92507-6099. 
+Burgan,  Robert  E.;  Bradshaw,  Larry  S. 
+
+1997.  WFAS  requires  a  variety  of 
+weather  information.  Fire  Management 
+Notes.  57(2):  18-21. 
+
+Burgan,  Robert  E.;  Andrews,  Patricia  L.; 
+Bradshaw,  Larry  S.;  Chase,  Carolyn  H.; 
+Hartford,  Roberta  A.;  Latham,  Don  J. 
+1997.  Current  Status  of  the  Wildland 
+Fire  Assessment  System  (WFAS).  Fire 
+Management  Notes  57(2):  14-17. 
+
+Clark,  Terry  L.:  Jenkins,  Mary  Ann;  Coen, 
+Janice  L.;  Packham.  David  R.  1996.  A 
+coupled  atmosphere-fire  model:  Convec¬ 
+tive  feedback  on  fire-line  dynamics. 
+Journal  of  Applied  Meteorology.  35:  875- 
+901. 
+
+Orlanski,  Isidoro.  1975.  A  rational  subdivi¬ 
+sion  of  scales  for  atmospheric  processes. 
+Bulletin  of  the  American  Meteorological 
+Society.  56(5):  527-530. 
+
+Schroeder,  T.  1993.  Climate  controls.  In: 
+Sanderson,  M.,  ed.  Prevailing  trade 
+winds:  Weather  and  climate  in  Hawaii. 
+Honolulu,  HI:  University  of  Hawaii 
+Press:  12-36. 
+
+Ueyoshi,  Kyozo;  Roads,  John  O.;  Fujioka, 
+Francis  M.;  Stevens,  Duane  E.  1995  (ac¬ 
+cepted).  Numerical  simulation  of  the 
+Maui  Vortex  in  the  trade  winds.  Journal 
+of  the  Meteorological  Society  of  Japan. 
+
+26  p.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+25 
+
+
+Making  Sense  of  Fire  Weather 
+
+Brian  E.  Potter 
+
+
+district  ranger  checks  the  lo¬ 
+cal  weather  conditions  and 
+notes  high  windspeeds.  In  an¬ 
+other  district,  the  ranger  sees  low 
+relative  humidity  is  predicted  for 
+her  area.  A  third  ranger  looks  at 
+the  nearest  upper-air  report  and 
+finds  strong  wind  shear  and  an  un¬ 
+stable  temperature  profile.  Which 
+ranger  or  rangers  should  consider 
+their  observations  as  indicative  of 
+high  weather-related  fire  risk? 
+
+The  general  public  and  fire  manag¬ 
+ers  alike  commonly  consider  a  va¬ 
+riety  of  weather-related  variables  to 
+be  indicators  of  fire  risk.  These 
+include  surface  air  temperature, 
+windspeed,  and  humidity.  Fire 
+managers  and  foresters  may  hear 
+or  believe  that  wind  shear  and  sta¬ 
+bility  also  contribute  to  fire  risk. 
+While  researchers  repeatedly  note 
+that  various  conditions  precede  or 
+accompany  large  wildland  fires, 
+they  have  not  examined  whether 
+these  same  conditions  are  equally 
+common  on  days  when  no  fires 
+occur  or  when  only  small  or  con¬ 
+trollable  fires  occur.  When  fire 
+managers  know  which  weather- 
+related  variables  discriminate 
+typical  weather  conditions  from 
+weather  associated  with  large  fires, 
+they  can  prepare  for  the  possibility 
+of  a  large  wildland  fire  developing. 
+
+Methods  Used 
+
+I  analyzed  data  for  339  large  wild¬ 
+land  fires  that  occurred  in  the  Con¬ 
+tinental  United  States  from  1971 
+through  1984.  Each  fire  burned 
+
+
+Brian  Potter  is  a  research  meteorologist 
+for  the  USDA  Forest  Service,  North 
+Central  Forest  Experiment  Station,  East 
+Lansing,  MI. 
+
+
+When  fire  managers 
+know  which  weather- 
+related  variables 
+discriminate  “large-fire” 
+weather  from  typical 
+weather  conditions, 
+they  can  prepare  for 
+the  possibility  of  a  large 
+wildland  fire  developing. 
+
+
+1,000  acres  (400  ha)  or  more.  I  as¬ 
+sociated  each  fire  with  the  nearest 
+upper-air  weather  station  and  clas¬ 
+sified  it  according  to  its  season 
+(spring,  summer,  autumn,  or  win¬ 
+ter).  I  dropped  any  station  and  sea¬ 
+son  with  fewer  than  five  associated 
+fires  from  the  analysis.  Figure  1 
+shows  the  number  of  fires  for  each 
+station  that  remained. 
+
+For  each  fire  day,  I  used  statistical 
+analysis  of  variance,  a  technique 
+
+
+that  indicates  whether  or  not  the 
+fire  and  typical  values  are  signifi¬ 
+cantly  different,  to  compare  the 
+following  six  measurements  with 
+“typical”  values  for  the  same  sta¬ 
+tion  and  season: 
+
+•  Surface  air  temperature, 
+
+•  Relative  humidity, 
+
+•  Dewpoint  depression, 
+
+•  Stability, 
+
+•  Windspeed,  and 
+
+•  Wind  shear. 
+
+Note  that  dewpoint  depression  is 
+the  difference  between  actual  air 
+temperature  and  dewpoint  tem¬ 
+perature.  It  is  not  the  same  as 
+wetbulb  depression,  which  appears 
+on  the  psychrometric  charts  in 
+many  belt  weather  kits.  Dewpoint 
+depression  is  always  greater  than 
+wetbulb  depression. 
+
+Also  note  both  the  size  of  the  wild¬ 
+land  fires  considered  here  and  the 
+location  of  the  weather  observa- 
+
+
+Figure  1 — Locations  of  stations  used  for  this  study  and  the  number  of  Fires  over 
+1,000  acres  (400  ha)  associated  with  each  station.  Three-letter  codes  are  weather 
+station  identifiers. 
+
+
+26 
+
+
+Fire  Management  Notes 
+
+
+tions.  The  fires  are  all  large  fires — 
+the  more  numerous  small  fires  may 
+show  stronger  or  weaker  correla¬ 
+tions  with  some  of  the  weather  vari¬ 
+ables.  The  observations  indicate  the 
+weather  conditions  on  a  horizontal 
+scale  of  about  62  miles  (100  km).  A 
+fire,  once  started,  begins  to  alter 
+some  of  these  conditions  (such  as 
+wind),  and  onsite  measurements  of 
+any  weather  variable  may  differ 
+from  measurements  taken  several 
+miles  away  from  the  fire. 
+
+Results  Found 
+
+The  results  of  my  analyses  show 
+that  surface  temperature  and 
+dewpoint  depression  are  substan¬ 
+tially  higher  on  fire  days  than  they 
+are  on  a  typical  day  for  a  given  loca¬ 
+tion  and  season.  Relative  humidity 
+is  considerably  lower  on  fire  days. 
+Windspeed,  wind  shear,  and  stability 
+did  not  show  any  significant  differ¬ 
+ences  between  fire  and  nonfire  days. 
+In  other  words,  it  is  the  more 
+straightforward  and  commonly 
+known  atmospheric  properties — 
+high  temperatures  and  low  air 
+moisture  contents — that  most  sig¬ 
+nificantly  contribute  to  weather-re¬ 
+lated  fire  risk.  Thus,  the  answer  to 
+the  question  in  the  first  paragraph 
+is  clear:  The  second  ranger,  who  saw 
+the  forecast  of  low  relative  humid¬ 
+ity,  should  be  particularly  alert  to 
+the  possibility  that  the  weather  will 
+contribute  to  the  development  of  a 
+large  wildland  fire. 
+
+In  examining  the  six  weather  vari¬ 
+ables  at  individual  stations,  I  found 
+that  neither  fire-day  stability  nor 
+fire-day  wind  shear  showed  any  sig¬ 
+nificant  difference  from  typical  val¬ 
+ues  at  any  of  the  20  stations  tested. 
+Windspeed  proved  significant  at  just 
+two  of  the  stations,  relative  humid¬ 
+ity  at  four,  surface  temperature  at 
+seven,  and  dewpoint  depression  at 
+ten  (or  half)  of  the  stations.  The  sta¬ 
+tions  where  surface  temperature 
+
+
+Table  1 — Dewpoint  Depression  Table  (in  both  Fahrenheit  and  Celsius),  which  can  be 
+photocopied,  laminated,  and  kept  in  belt  weather  kits.  At  any  altitude,  users  can  quickly 
+convert  relative  humidity  and  temperature  to  dewpoint  depression  by  consulting  the 
+applicable  version  of  the  Dewpoint  Depression  Table. 
+
+
+Dewpoint  Depression  Table  (Fahrenheit) 
+
+
+Temperature 
+
+
+Relative 
+
+
+Humidity  (%) 
+
+
+(°F) 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+110 
+
+69 
+
+50 
+
+38 
+
+30 
+
+23 
+
+17 
+
+12 
+
+8 
+
+105 
+
+68 
+
+49 
+
+38 
+
+29 
+
+22 
+
+17 
+
+12 
+
+7 
+
+100 
+
+66 
+
+48 
+
+37 
+
+29 
+
+22 
+
+16 
+
+12 
+
+7 
+
+95 
+
+65 
+
+47 
+
+36 
+
+28 
+
+22 
+
+16 
+
+11 
+
+7 
+
+90 
+
+64 
+
+46 
+
+36 
+
+28 
+
+21 
+
+16 
+
+11 
+
+7 
+
+85 
+
+63 
+
+46 
+
+35 
+
+27 
+
+21 
+
+15 
+
+11 
+
+7 
+
+80 
+
+61 
+
+45 
+
+34 
+
+26 
+
+20 
+
+15 
+
+11 
+
+7 
+
+75 
+
+60 
+
+44 
+
+34 
+
+26 
+
+20 
+
+15 
+
+10 
+
+7 
+
+70 
+
+59 
+
+43 
+
+33 
+
+25 
+
+19 
+
+15 
+
+10 
+
+6 
+
+65 
+
+58 
+
+42 
+
+32 
+
+25 
+
+19 
+
+14 
+
+10 
+
+6 
+
+60 
+
+57 
+
+41 
+
+31 
+
+24 
+
+19 
+
+14 
+
+10 
+
+6 
+
+Dewpoint  Depression  Table  (Celsius) 
+
+
+Temperature 
+
+
+Relative  Humidity  (%) 
+
+
+(°C) 
+
+10 
+
+20 
+
+30 
+
+40 
+
+50 
+
+60 
+
+70 
+
+80 
+
+44 
+
+38 
+
+28 
+
+21 
+
+17 
+
+13 
+
+10 
+
+7 
+
+4 
+
+40 
+
+37 
+
+27 
+
+21 
+
+16 
+
+12 
+
+9 
+
+7 
+
+4 
+
+36 
+
+36 
+
+26 
+
+20 
+
+16 
+
+12 
+
+9 
+
+6 
+
+4 
+
+32 
+
+35 
+
+26 
+
+20 
+
+15 
+
+12 
+
+9 
+
+6 
+
+4 
+
+28 
+
+34 
+
+25 
+
+19 
+
+15 
+
+11 
+
+8 
+
+6 
+
+4 
+
+24 
+
+33 
+
+24 
+
+19 
+
+14 
+
+11 
+
+8 
+
+6 
+
+4 
+
+20 
+
+32 
+
+24 
+
+18 
+
+14 
+
+11 
+
+8 
+
+6 
+
+4 
+
+16 
+
+32 
+
+23 
+
+18 
+
+14 
+
+10 
+
+8 
+
+5 
+
+3 
+
+12 
+
+31 
+
+22 
+
+17 
+
+13 
+
+10 
+
+8 
+
+5 
+
+3 
+
+8 
+
+30 
+
+22 
+
+16 
+
+13 
+
+10 
+
+7 
+
+5 
+
+3 
+
+4 
+
+29 
+
+21 
+
+16 
+
+12 
+
+9 
+
+7 
+
+5 
+
+3 
+
+was  significant  were  all  west  of  the 
+Mississippi  River. 
+
+While  they  are  not  a  substitute  for 
+first-hand  experience,  these  find¬ 
+ings  can  be  helpful  to  fire  manag¬ 
+ers  and  district  rangers.  They 
+suggest  that  the  conditions  that  re¬ 
+ally  matter  are  those  at  the  sur¬ 
+face — stability  and  wind  shear  may 
+not  be  very  good  fire-weather  indi¬ 
+cators.  Regardless  of  what  part  of 
+the  country  you  are  in,  dewpoint 
+depression  is  a  robust  indicator  of 
+the  weather-related  fire  risk.  Rela¬ 
+tive  humidity,  which  also  measures 
+the  moisture  in  the  air,  is  almost  as 
+good  and  more  readily  available  in 
+
+
+weather  reports.  As  experienced 
+fire  managers  know,  even  without 
+any  measurements  or  weather  re¬ 
+ports,  they  can  use  their  own 
+“senses”  to  get  a  good  idea  what 
+the  temperature,  humidity,  and 
+windspeed  are. 
+
+With  weather  measurements,  how¬ 
+ever,  fire  managers  can  use  the  ap¬ 
+plicable  Table  1  to  quickly  convert 
+relative  humidity  and  temperature 
+to  dewpoint  depression.  This 
+Dewpoint  Depression  Table  (shown 
+both  in  Fahrenheit  and  Celsius) 
+can  be  photocopied,  laminated, 
+and  kept  in  belt  weather  kits  for 
+use  at  any  altitude.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+27 
+
+
+SODAR  aimd  Decisionmaking 
+During  the  Fork  Fire 
+
+
+Fred  Svetz  and  Alexander  N.  Barnett 
+
+
+On  the  Fork  Fire,  a  SODAR  unit  assisted  personnel 
+with  forecasting  and  decisionmaking.  During  a 
+weather-driven  firestorm  that  consumed  40,000 
+acres  (16,200  ha)  in  6  hours,  there  were  no 
+burnovers,  no  equipment  loses,  and  no  injuries 
+attributed  to  fire  behavior. 
+
+
+Figure  1. — The  8-foot-  (2.4-m-)  tall,  foam-  and  lead-lined  wooden  enclosures  that 
+surround  SODAR 's  antennas  and  drivers  mounted  on  the  trailer  that  transports  them  to 
+the  field.  The  enclosures  dampen  SODAR 's  sound  pulses  and  reduce  the  impact  of 
+background  noises  to  increase  the  sensitivity  of  its  measurements.  Photo:  Ken  Underwood, 
+AeroVironment  Inc.,  Monrovia,  CA,  1996. 
+
+
+What  does  an  Incident  Meteo¬ 
+rologist  (IMET)  do  when 
+anticipating  a  frontal  pas¬ 
+sage  likely  to  create  strong  winds 
+and  erratic  fire  behavior  during  a 
+wildland  fire?  At  the  Fork  Fire  on 
+the  Mendocino  National  Forest  in 
+August  1996,  the  IMET  requested 
+an  acoustic  wind  profiler  or  SODAR 
+(SOund  Detection  And  Ranging) 
+unit.  He  felt  that  a  SODAR’s  capa¬ 
+bility  to  measure  low-level  winds 
+continuously  would  help  him  moni¬ 
+tor  expected  environmental  changes 
+and  improve  his  forecasts. 
+
+What  Is  SODAR? 
+
+The  SODAR  is  a  remote-sensing  in¬ 
+strument  that  uses  sound  to  mea¬ 
+sure  windspeed,  wind  direction,  and 
+atmospheric  stability  up  to  2,000  to 
+3,200  feet  (750  to  1,050  m)  above 
+the  ground  at  100  feet  (30  m)  inter¬ 
+vals.  It  can  provide  averaged  wind 
+data  every  5  minutes,  every  hour,  or 
+at  other  intervals  in  between. 
+
+While  other  sizes  of  wind  profilers 
+with  varying  operating  or  output 
+frequencies  are  available,  the 
+SODAR  unit  used  on  the  Fork  Fire 
+was  an  AeroVironment  Inc.  Model 
+2000  (AV2000),*  consisting  of 
+
+•  Three  parabolic  dish  antennas 
+and  acoustic  drivers  mounted  on 
+a  30-foot  (10  m)  trailer  (fig.  1). 
+
+
+Fred  Svetz  is  a  fire  weather  forecaster  and 
+incident  meteorologist  for  the  National 
+Weather  Service,  Redding,  CA,  and  Alex 
+Barnett  is  a  certified  consulting  meteo¬ 
+rologist  and  senior  project  manager, 
+AeroVironment  Environmental  Services 
+Inc.,  Monrovia,  CA. 
+
+
+•  A  controller  unit  that  houses 
+control  electronics,  a  power  am¬ 
+plifier,  and  a  power  supply  as¬ 
+sembly. 
+
+•  A  486  IBM-compatible  computer 
+to  run  the  interface  software  that 
+logs  and  processes  data  and  pro¬ 
+vides  the  user  with  both  tables 
+and  graphs  of  wind  and  atmo¬ 
+spheric  data  (fig.  2). 
+
+
+*The  use  of  corporation  names  and/or  their  products  is 
+for  the  information  and  convenience  of  the  reader  and 
+should  not  be  misconstrued  as  an  official  endorsement 
+by  the  U.S.  Department  of  Agriculture  or  the  Forest 
+Service. 
+
+
+SODAR  Set  Up 
+
+The  SODAR  unit  was  deployed  in 
+the  extreme  northwestern  corner 
+of  the  fire  zone,  just  below  the 
+ridge  defined  in  figure  3.  The  site 
+was  3,200  feet  (1,050  m)  above  sea 
+level  in  a  picnic  area  on  a  hillside 
+overlooking  the  fire  zone.  This  site 
+was  selected  because 
+
+•  Background  noise  levels  were 
+low  (below  50  decibels). 
+
+•  There  were  no  physical  obstruc¬ 
+tions  in  the  SODAR  beam  paths. 
+
+•  The  elevation  was  adequate  to 
+ensure  that  beam  coverage 
+
+
+28 
+
+
+Fire  Management  Notes 
+
+
+Figure  2. — Data  displayed  by  a  SODAR  unit’s  computer.  This  graphic  shows  wind 
+direction  and  windspeed  profiles  as  displayed  on  the  SODAR  computer  screen.  Each 
+vertical  column  of  wind  barbs  represents  10-minute  averages  of  the  windspeed  and  wind 
+direction  versus  height.  Windspeed  is  indicated  by  the  wind  barb  feathers.  Wind  direction 
+is  indicated  by  the  orientation  of  the  wind  barbs.  The  colors  of  the  wind  barbs  are  an 
+indication  of  atmospheric  stability.  Photo:  Ken  Underwood ,  AeroVironment  Inc., 
+Monrovia,  CA,  1994. 
+
+
+would  be  representative  of  the 
+low-level  wind  flow  pattern 
+above  the  fire. 
+
+•  It  was  upwind  of  the  fire  zone  to 
+help  safeguard  the  operator  and 
+to  detect  changes  before  they 
+reached  the  fire  zone,  thus  mini¬ 
+mizing  burnovers. 
+
+•  It  contained  a  road  adequate  for 
+maneuvering  a  30  foot  (9  m) 
+trailer. 
+
+SODAR  in  Operation 
+
+Because  the  IMET  wanted  the 
+SODAR  to  collect  data  for  24  to  48 
+hours  prior  to  the  arrival  of  the 
+weather  front,  SODAR  began  its 
+measurements  at  0900  Rd.t.  on 
+August  16.  Deploying  the  SODAR 
+unit  well  before  the  arrival  of  the 
+front  meant  that  the  IMET  could 
+easily  compare  baseline  weather 
+conditions  with  changes  brought 
+about  by  the  frontal  passage. 
+
+
+operator  called  the  IMET  and  read 
+him  the  windspeed  and  wind-direc¬ 
+tion  data  in  miles  per  hour  and  de¬ 
+grees  for  the  10-minute  interval 
+occurring  just  previous  to  tele¬ 
+phoning.  The  IMET  transcribed  the 
+
+
+verbal  windspeed  and  wind-direc¬ 
+tion  information  onto  data  transfer 
+forms  to  interpret  and  use  later.  As 
+a  backup,  the  SODAR  operator  also 
+had  a  command  radio,  but  he  used 
+it  only  when  the  SODAR  noted 
+changes  in  wind  patterns  or  trends 
+between  the  hourly  cellular  con¬ 
+tacts  or  when  cellular  communica¬ 
+tions  in  the  remote  location  were 
+not  available.  It  should  be  noted 
+that  future  technological  improve¬ 
+ments  could  include  the  use  of  ra¬ 
+dio  or  satellite  phone  communi¬ 
+cations  to  allow  the  SODAR’s 
+computer  to  be  located  where  the 
+IMET  and  Fire  Behavior  Analysts 
+(FBA’s)  are  preparing  their 
+forecasts. 
+
+The  IMET  used  the  data  to  develop 
+a  “blueprint”  of  wind  patterns  and 
+stable  layer  development  and  dissi¬ 
+pation  occurring  during  a  normal 
+daily  cycle  in  the  fire  zone.  The 
+IMET  found  that  weather  observa¬ 
+tions  from  the  fire  crew  showed  ex¬ 
+cellent  agreement  with  the  SODAR 
+data.  This  confidence  in  the 
+
+Continued  on  page  30 
+
+
+The  SODAR  operator  and  the  IMET 
+
+communicated  primarily  by  cellu-  Figure  3. — Map  showing  the  location  of  the  SODAR  unit  during  the  Fork  Fire  on  the 
+
+lar  phone.  Each  hour,  the  SODAR  Mendocino  National  Forest  in  California  on  August  18, 1996. 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+29 
+
+
+SODAR  prompted  the  IMET  to  use 
+the  observations  in  the  preparation 
+of  twice-daily  weather  forecasts 
+and  encouraged  the  FBA’s  to  use 
+the  data  in  their  forecasts  as  well. 
+
+SODAR’s  Success 
+
+When  the  Incident  Command  (IC) 
+staff  determined  that  weather  and 
+fire  behavior  forecasts  continued 
+to  correlate  well  with  actual  condi¬ 
+tions  in  the  fire  zone,  their  confi¬ 
+dence  in  the  IMET’s  ability 
+increased.  On  August  18,  the  day 
+the  front  was  expected,  the  IMET’s 
+forecast  was:  Morning  winds  south 
+to  west,  4  to  8  mph  (6  to  12  kph) 
+with  gusts  to  14  mph  (23  kph), 
+changing  in  the  afternoon  to  west 
+to  northwest  winds,  10  to  20  mph 
+(16  to  32  kph)  with  gusts  to  30 
+mph  (48  kph).  The  confidence  of 
+the  IC  staff  in  the  weather  and  fire 
+behavior  forecasts  weighed  heavily 
+in  their  deciding  not  to  assign 
+
+
+Each  SODAR  antenna  consists  of  a 
+parabolic  dish  that  faces  upward  with  an 
+acoustic  driver  mounted  above  each  dish 
+pointing  downward.  By  emitting  a  sound 
+pulse  at  a  known  frequency  and  monitor¬ 
+ing  the  Doppler  shift  of  the  return  echoes, 
+the  instrument  calculates  the  windspeed 
+and  wind  direction  at  various  altitudes. 
+Photo:  Jeff  Bradley,  AeroVironment  Inc., 
+Monrovia,  CA,  1996. 
+
+■U| 
+
+
+30 
+
+
+A  view  of  the  SODAR  model  being  used  3,200  feet  (1,050  m)  above  sea  level  in  a  picnic 
+area  on  a  hillside  overlooking  the  Fork  Fire  in  August  1996.  Photo:  Alex  Barnett, 
+AeroVironment  Environmental  Sendees  Inc.,  Monrovia,  CA,  1996. 
+
+
+crews  in  the  expected  path  of  the 
+fire.  They  held  back  all  fire  crews 
+and  equipment,  except  for  a  lim¬ 
+ited  number  of  crews  assigned  to 
+hold  the  flanks  and  bulldozer  op¬ 
+erators  constructing  fire  breaks  to 
+save  endangered  communities. 
+
+One  hour  before  the  weather 
+front's  arrival,  the  SODAR  detected 
+increasing  windspeeds  at  the  level 
+of  the  ridge  tops  (approximately 
+1,000  feet  (330  m)  above  the  aver¬ 
+age  elevation  of  the  fire).  This 
+1-hour  warning  gave  the  IC  staff 
+time  to  move  remaining  fire  crews 
+and  equipment  out  of  danger  from 
+the  expected  runs.  Within  the  next 
+6  hours,  an  explosively  developing 
+firestorm  consumed  40,000  acres 
+(16,200  ha).  Yet  during  this  period, 
+there  were  no  burnovers,  no  equip¬ 
+ment  losses,  and  no  injuries  attrib¬ 
+uted  to  fire  behavior. 
+
+Results  of  SODAR  Use 
+
+The  SODAR  unit  proved  to  be  a 
+valuable  tool  for  characterizing 
+wind  and  stability  patterns  that  in¬ 
+
+
+fluenced  fire  behavior  on  the  Fork 
+Fire.  It  provided  the  IMET  with  a 
+rare  opportunity  to  gather  quanti¬ 
+tative  low-level  wind  data  on  a  near 
+real-time  basis.  The  consistency 
+and  reliability  of  these  data  from 
+an  area  immediately  adjacent  to 
+the  wildfire  (compared  to  occa¬ 
+sional  surface  observations  from 
+spotters  in  the  field)  made  it  pos¬ 
+sible  to  verify  wind  forecasts  for 
+the  fire  area,  which  in  turn  in¬ 
+creased  the  IMET’s  confidence  in 
+the  accuracy  of  his  forecasts  and 
+prevented  misanalysis  of  the  low- 
+level  wind  field. 
+
+The  IC  staff  also  gained  confidence 
+in  the  forecasts.  As  a  result,  they 
+placed  greater  emphasis  on  them 
+when  planning  their  fire  suppres¬ 
+sion  strategies.  SODAR  data  helped 
+to  provide  them  with  an  objective 
+basis  for  their  decisionmaking  con¬ 
+cerning  the  expected  erratic  fire 
+behavior  during  the  frontal  pas¬ 
+sage  and  helped  to  give  an  addi¬ 
+tional  margin  to  ensure  firefighter 
+safety. 
+
+
+Fire  Management  Notes 
+
+
+The  Future 
+
+We  hope  that  the  success  of  the 
+SODAR  at  the  Fork  Fire  will  open 
+discussions  among  IC  staffs  na¬ 
+tionwide  concerning  how  this 
+technology  can  regularly  be  incor¬ 
+porated  into  wildland  fire  suppres¬ 
+sion  strategies.  When  erratic  fire 
+behavior  is  occurring  or  expected, 
+a  SODAR  can  be  a  resource  to  as¬ 
+sist  the  IMET  with  forecasting  and 
+IC  staffs  with  their  decision¬ 
+making.  When  erratic  fire  behavior 
+is  not  expected,  a  SODAR  can  be 
+
+
+Guidelines  for 
+
+Editorial  Policy 
+
+Fire  Management  Notes  (FMN)  is  an  inter¬ 
+national  quarterly  magazine  for  the  wild¬ 
+land  fire  community.  FMN  welcomes 
+unsolicited  manuscripts  from  readers  on 
+any  subject  related  to  fire  management. 
+(See  the  subject  index  of  the  first  issue  of 
+each  volume  for  a  list  of  topics  covered  in 
+the  past.) 
+
+Because  space  is  a  consideration,  long 
+manuscripts  are  subject  to  publication  de¬ 
+lay  and  editorial  cutting;  FMN  does  print 
+short  pieces  of  interest  to  readers. 
+
+Submission  Guidelines 
+
+Authors  are  asked  to  type  or  word-process 
+their  articles  on  white  paper  (double¬ 
+spaced)  on  one  side.  Try  to  keep  titles  con¬ 
+cise  and  descriptive;  subheadings  and 
+bulleted  material  are  useful  and  help  read¬ 
+ability.  As  a  general  rule  of  clear  writing, 
+use  the  active  voice  (e.g.,  Fire  managers 
+know  . . .  not,  It  is  known  .  . .). 
+
+Submit  articles  to  either  the  general  man¬ 
+ager  or  the  editor.  Complete  details  to 
+reach  them  follow: 
+
+USDA  Forest  Service 
+
+Attn:  April  J.  Baily,  F&AM  Staff 
+
+P.O.  Box  96090; 
+
+Washington,  DC  20090-6090. 
+
+Telephone  202-205-0891,  fax  202-205-1272 
+
+e-mail:/s=a.baily/oul=w01c@mhs- 
+
+fswa.attmail.com 
+
+Data  General  (DG):  wOlc. 
+
+
+considered  for  temporary  (24  to  48 
+hour)  deployments  to  characterize 
+daily  wind  and  stability  patterns  in 
+the  fire  area  both  during  wildland 
+fires  and  prescribed  burns. 
+
+We  anticipate  that  the  incorpora¬ 
+tion  of  radio-  or  satellite-data 
+transfer  technology  and  the  use  of 
+existing  single-antenna  SODAR 
+units  will  improve  the  rapid  de¬ 
+ployment  and  portability  of  the 
+units  to  and  in  the  field.  This  will 
+make  SODAR  more  effective  in 
+
+
+Contributors 
+
+Donna  Paananen,  Editor 
+Fire  Management  Notes 
+USDA  Forest  Service — NCFES 
+1407  South  Harrison  Rd. — Rm.  220 
+East  Lansing,  MI  48823-5290. 
+
+Telephone  517-355-7740,  fax  517-355-5121 
+e-mail:  paanane2@pilot.msu.edu 
+DG:  S23L03a 
+
+Include  with  the  paper  copy  the  complete 
+name(s)  and  address(es)  of  authors  as  well 
+as  telephone  and  fax  numbers  and  e-mail 
+information.  If  the  same  or  a  similar  ar¬ 
+ticle  is  being  submitted  elsewhere,  include 
+that  information  also. 
+
+Disks  should  be  submitted  with  the  paper 
+copy.  FMN  prefers  WordPerfect  5.1  or  an 
+ASCII  text  file  on  3-1/2  inch,  IBM/Dos- 
+compatible  disks.  Please  label  the  disk 
+carefully  with  system  being  used  and  name 
+of  file.  When  possible,  submit  illustrations 
+on  disk  as  well  and  include  instructions  for 
+use  on  the  label. 
+
+Consult  recent  issues  for  placement  of  the 
+author’s  name,  title,  agency  affiliation,  and 
+location  as  well  as  style  for  paragraph 
+headings  and  references.  FMN  uses  the 
+spelling,  capitalization,  hyphenation,  and 
+other  styles  as  recommended  by  the  U.S. 
+Government  Printing  Office  “Style 
+Manual.”  Inhouse  editing  can  be  expedited 
+if  authors  have  their  article  reviewed  by 
+peers  and  by  someone  with  editing  skills. 
+Please  list  the  editor  and/or  reviewer/s 
+when  submitting  articles. 
+
+
+providing  wind  and  stability  data  in 
+the  future. 
+
+For  more  information  about  how 
+SODAR  units  measure  windspeed, 
+wind  direction,  and  atmospheric 
+stability  and  their  possible  future 
+uses  during  other  wildland  fires  or 
+during  prescribed  fires,  readers 
+should  contact  Alex  Barnett;  tele¬ 
+phone  818-357-9983, 
+fax  818-359-9628,  or  e-mail 
+barnett@aerovironment.com  ■ 
+
+
+Authors  are  asked  to  use  the  English  unit 
+system  of  weight  and  measure,  with 
+equivalent  values  in  the  metric  system. 
+
+Tables  should  be  typed,  with  titles  and  col¬ 
+umn  headings  capitalized,  as  shown  in  re¬ 
+cent  issues;  tables  should  be  under¬ 
+standable  without  reading  the  text.  Include 
+tables  at  the  end  of  the  manuscript. 
+
+Figures,  illustrations,  slides  (original 
+transparency  preferable),  and  clear  photo¬ 
+graphs  (preferably  glossy  prints)  are  often 
+essential  to  the  understanding  of  articles. 
+On  the  back,  please  label  carefully  (Figure 
+1,  Figure  2;  photograph  A,  B,  C,  etc.);  in¬ 
+clude  your  complete  name  and  address  if 
+you  wish  your  material  returned,  and  indi¬ 
+cate  the  "top.”  Clear,  thorough  captions 
+(see  recent  issues)  should  be  labeled  to 
+correspond  with  these  designations.  In¬ 
+clude  the  name  of  the  photographer  and 
+year  when  photo  was  taken. 
+
+All  photos  and  illustrations  require  a  writ¬ 
+ten  release,  whether  taken  or  drawn  by 
+government  or  nongovernment  photogra¬ 
+phers  and  designers.  Authors  not  in  the 
+Federal  government  sign  a  release  ac¬ 
+knowledging  that  they  are  aware  that  their 
+work  will  be  in  the  public  domain  and  on 
+the  World  Wide  Web.  The  photo,  illustra¬ 
+tion,  and  author  release  forms  are  available 
+from  General  Manager  April  Baily.  ■ 
+
+
+Volume  57  •  No.  2  •  1997 
+
+
+31 
+
+
+Superintendent  of  Documents  Subscription  Order  Form 
+
+
+Order  Processing  Code: 
+
+*5614 
+
+
+□  YES,  enter  my  subscription(s)  as  follows: 
+
+
+Charge  your  order. 
+
+It’s  easy! 
+
+To  fax  your  orders  (202)  51 2-2250 
+To  phone  your  orders  (202)  51 2-1 800 
+
+
+subscription(s)  to  Fire  Management  Notes  (FMN)  for $ 8.50  each  per  year  ($  10.65  foreign). 
+
+
+The  total  cost  of  my  order  is 1 _ .  Price  includes  regular  shipping  and  handling  and  is  subject  to  change. 
+
+International  customers  please  add  25%. 
+
+
+Company  or  personal  name  (Please  type  or  print) 
+
+
+Additional  address/attention  line 
+
+
+Street  address 
+
+
+City,  State,  Zip  code 
+
+
+Daytime  phone  including  area  code 
+
+
+Purchase  order  number  (optional) 
+
+
+For  privacy  protection,  check  the  box  below: 
+
+□  Do  not  make  my  name  available  to  other  mailers 
+Check  method  of  payment: 
+
+□  Check  payable  to  Superintendent  of  Documents 
+
+□  GPO  Deposit  Account  f~  j  |  |  |  j  |  |  —  Q 
+
+□  VISA  □  MasterCard 
+
+
+Thank  you  for 
+
+(expiration  date)  your  order! 
+
+Authorizing  signature  4/95 
+
+
+Mail  To:  Superintendent  of  Documents 
+
+P.O.  Box  371954,  Pittsburgh,  PA  15250-7954 
+
+

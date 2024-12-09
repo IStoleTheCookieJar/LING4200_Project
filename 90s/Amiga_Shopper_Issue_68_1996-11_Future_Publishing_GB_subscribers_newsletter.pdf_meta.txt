@@ -1,0 +1,17 @@
+ETag: "d02cea22d3a969ec0329c9ecf0b98ec8"
+accept: */*
+authorization: LOW gcChNG1gwFjVzXbq:REDACTED_BY_IA_S3
+connection: close
+content-length: 1755651
+expect: 100-continue
+host: s3.us.archive.org
+user-agent: curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+x-amz-auto-make-bucket: 1
+x-archive-meta-date: 1996-11
+x-archive-meta-description: Amiga Shopper - Issue 68 (1996-11)(Future Publishing)(GB)[subscribers newsletter]
+x-archive-meta-language: eng
+x-archive-meta-mediatype: texts
+x-archive-meta-title: Amiga Shopper - Issue 68 (1996-11)(Future Publishing)(GB)[subscribers newsletter]
+x-archive-meta-year: 1996-11
+x-archive-meta01-collection: amigashopper
+x-upload-date: 2013-05-26T20:55:56.000Z

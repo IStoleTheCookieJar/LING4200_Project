@@ -1,0 +1,857 @@
+Historic, Archive Document 
+
+
+Do not assume content reflects current 
+scientific Knowledge, policies, or practices. 
+
+
+
+
+
+\ 
+
+
+aSB/63 
+.A1L15N38 
+
+
+LudWVJI 
+
+
+
+
+
+N B-TP¢-~9 2 
+
+
+
+
+
+United States 
+Department of 
+Agriculture 
+
+
+me AE 
+
+
+National Agricultural Library 
+
+
+
+
+
+~~ TECHNOLOGY 
+| TRANSFER Bacillus Thuringiensis 
+EVALUATION OF THREE 
+
+
+_ APPLICATION RATES OF BACILLUS 
+
+
+THURINGIENSIS: EFFICACY AND 
+DEPOSIT ANALYSIS 
+
+
+Karl Mierzejewski 
+
+
+- Richard Reardon 
+
+
+; : ‘ > - 
+Winfred McLane ash ASmcurTaRE 
+Le Normand Dubois . one LIBRARY 
+Timothy Roland | APR i) 994 | 
+William Yendol | ne 
+Amy Onken ; 
+
+
+
+
+
+
+
+
+
+
+
+
+MAR 2 8 1994 
+
+
+__ Appalachian Integrated Pest Management 
+
+
+USDA Forest Service Northeastern Area AEA 
+
+
+Forest Health Protection 
+
+
+Nia POR = 8 
+
+
+The policy of the United States Department of Agriculture Forest 
+Service prohibits discrimination on the basis of race, color, national 
+origin, age, religion, sex, or disability. Persons believing they have 
+
+
+been discriminated against in any Forest Service related activity 
+should write to: Chief, Forest Service, USDA, Washington, DC 20250. 
+
+
+
+
+
+EVALUATION OF THREE APPLICATION RATES OF 
+
+
+BACILLUS THURINGIENSIS: EFFICACY AND DE- 
+POSIT ANALYSIS 
+
+
+
+
+
+Karl Mierzejewski', Richard Reardon2, Winfred McLane’, 
+Normand Dubois‘, Timothy Roland, William Yendol', Amy 
+Onken? 
+
+
+Foreword 
+
+
+
+
+
+
+
+
+This report is published as a part of the USDA Forest Service 
+program to improve aerial application of insecticides to 
+eastern broadleaved forests. The program is supported 
+through the efforts of the Northeast Forest Aerial Application 
+Technology Group (NEFAAT). This group is composed of 
+members from the USDA: Forest Service, Northeastern Area 
+State and Private Forestry, and Northeastern Forest Experi- 
+ment Station; Animal and Plant Health Inspection Service 
+(APHIS), Gypsy Moth Methods Development Laboratory, 
+and Aircraft and Equipment Operations; Agricultural Re- 
+search Service; and the Department of Entomology, Pennsy)}- 
+vania State University. The Group conducts field and labora- 
+tory studies to solve common problems associated with the 
+application of microbial and chemical insecticides. The 
+Group also provides technical assistance in conducting 
+training sessions to improve the quality of operational aerial 
+application programs. 
+
+
+
+
+
+"Pesticide Research Laboratory, Dept. of Entomology, Pennsylvania State University, 
+University Park, PA 16802. 
+
+“USDA Forest Service, Forest Health Protection, Morgantown, WV 26505. 
+
+°USDA,. APHIS, PPQ, Otis ANG Base, MA 02542. 
+
+‘USDA, Forest Service - Northeast Forest Experiment Station, Hamden, CT 06514. 
+5USDA, APHIS, PPQ, Aircraft and Equipment Operations, Mission, TX 78539. 
+
+
+Introduction 
+
+
+Commercial preparations of Bacillus thuringiensis Berliner 
+var. kurstaki (Bt) are aerially applied as part of the Federal/ 
+State/County Cooperative Suppression Program to approxi- 
+mately 0.2 million Ha (0.5 million acres) per year in the 
+eastern United States to suppress potentially defoliating 
+populations of the gypsy moth. In the mid 1980's, most 
+cooperators standardized operational use of various formula- 
+tions to one application of Bt at a dose of 20 to 40 Billion 
+International Units (BIU)/Ha (8 to 16 BIU/A) and diluted 
+with water at an application rate of 9.35 liters/Ha (1 gal/A). 
+Nevertheless, there was developing interest in using undi- 
+luted formulations of Bt in an effort to maximize deposit on 
+the foliage, extend the area of treatment per aircraft load, and 
+minimize costs associated with mixing equipment and sup- 
+port personnel. 
+
+
+
+
+
+The objectives of this study were to determine the effect of 
+one dose of Bt applied at three different application rates on: 
+(1) preventing defoliation, (2) reducing populations, and (3) 
+maximizing deposit on foliage. 
+
+
+Material and Methods 
+
+
+Plot Selection. The study area was located near Martinsburg, 
+WV. It was composed of a mixed oak stand and infested 
+with a building gypsy moth population. Egg mass densities 
+were between 1480 and 4940 egg masses/Ha (600 and 2000 
+egg masses/A). Twenty-four plots, 20 Ha (50 acre) each, 
+were established for treatments and untreated controls. Each 
+treatment and control were replicated six times. A random- 
+ized complete block design was used, with egg mass density 
+as the blocking factor. 
+
+
+Formulation and Dose. The Dipel 8AF® (Abbott Laborato- 
+ries, North Chicago, IL) formulation of Bt was applied at 50 
+BIU/Ha (20 BIU/A) using three different application rates: 
+undiluted at 2.9 L/Ha (40 fl oz/A), diluted with water at 
+9.35 L/Ha (1 gal/A), and at 18.7 L/Ha (2 gal/A). Brilliant 
+Sulfaflavine (BSF) (Organic Dyestuffs, East Providence, RI) 
+was used as the tracer for deposit assessment. Bond sticker 
+(Loveland Industries, Greeley, CO) was added to the formu- 
+lations at a 2% (v/v) concentration. 
+
+
+Application Methods. In an effort to minimize variation 
+caused by differing meteorological conditions at the time of 
+application, the three application rates were applied simulta- 
+neously with three Cessna C-188 AgTrucks, supplied by 
+USDA, Animal and Plant Health Inspection Service, Aircraft 
+and Equipment Operations, Mission, TX. Also, two nozzling 
+Systems were used in an effort to generate similar droplet 
+spectra for the three application rates. The application pa- 
+rameters for each aircraft are listed in Table 1. Applications 
+were made at 15 m (50 ft) above the canopy at a speed of 185 
+km/Hr (115 mph) for two aircraft equipped with flat fans 
+and at 193 km/Ha (120 mph) for the aircraft equipped with 
+micronairs using a 23 m (75 ft) swath width. All of the 
+treatments were a single application of Bt with a total of 
+three days required to complete all treatments. 
+
+
+Population Estimation. Gypsy moth egg mass density was 
+estimated using the Fixed and Variable Radius Plot method 
+(Wilson and Fontaine 1978). Twenty sampling subplot prism 
+points were located within the center 4 Ha (10 A) of each 
+plot. Egg masses were counted on live overstory trees se- 
+lected using a 20 basal area factor wedge prism and within a 
+fixed 2.6 m (8.3 ft) radius circle at each prism point. Popula- 
+tion changes were estimated by counting all egg masses on 
+the ground, debris, and understory trees within the circle in 
+
+
+January 1988, and again in November 1988. N ew egg masses 
+were distinguished from old ones by feel and by color differ- 
+ence. 
+
+
+Egg Mass Quality Determination. Ten randomly selected 
+egg masses were collected from each plot in March and 
+returned to the laboratory where they were held individually 
+at 27°C and 55% RH for at least three weeks to determine 
+percent hatch and viability. 
+
+
+Defoliation Estimation. The 20 subplot prism points used in 
+estimating egg mass populations were also used for estimat- 
+ing defoliation. Defoliation on all host trees was estimated 
+visually in 10% increments seven weeks after Bt application 
+within the visible canopy in the immediate area of each 
+prism point. The estimates of all points were averaged to 
+obtain a single value for each plot. 
+
+
+Leaf Collection and Tracer Analysis. Two plots of each of 
+the three application rates were sampled for deposit analysis, 
+one replicate plot on each of the two days of spraying. Trees 
+were Selected randomly from 15 of the 20 subplot prism 
+points on the first day of sampling and 12 subplot prism 
+points on the second day. Tree climbers were used to re- 
+move two branches each from the upper and lower canopy. 
+Fifteen leaves were then selected from each branch, making a 
+total of 30 leaves for each level. Five of these leaves were 
+photographed under long wave UV light (ca 420 nm) using 
+Fujichrome ISO 100 slide film. The remaining 25 leaves were 
+kept at 4°C, their surface areas measured, and analyzed 
+through volumetric tracer washoff techniques to measure 
+mass recovery. The fluorescent tracer was recovered from 
+each leaf by shaking for 25 minutes with 75 ml water. Tracer 
+concentrations were measured fluorometrically in the eluants 
+using a Turner 112 Fluorometer (Sequoia-Turner Corpora- 
+tion, Mountain View, CA). 
+
+
+Image analysis. An Optomax V image analyzer (ITI, 
+Burlington, MA) fitted to a microscope was used to measure 
+the sizes of the photographed droplet stains (Yendol et al 
+1990, Bryant & Yendol 1991). The spread factor which en- 
+ables the image analyzer to convert stain diameters to drop- 
+let diameters was determined by measuring the sizes of a 
+range of monosized droplets sprayed on adjacent 50% ex- 
+panded leaves and petri dishes containing silicone oil, in 
+which droplets maintain their spherical shape. 
+
+
+Image analysis results were expressed in terms of: (1) nl/cm?, 
+which represents the volume of deposit (both volatile and 
+non-volatile components) per cm? area of leaf; (2) number of 
+drops/cm’, droplet density which represents the total num- 
+ber of droplets of all sizes impinging on a cm? area of leaf: (3) 
+Dyos5, volume median diameter, which represents the drop 
+diameter with 50% of the volume above and below that 
+value, and (4) (Dy..-D,9,)/Dy9;) droplet spectrum span, a 
+non-dimensional index based on the range of droplet sizes 
+between the 10 and 90 percentiles divided by the 50 percen- 
+tile. 
+
+
+Volumetric tracer washoff. Although the image analytical 
+
+
+technique does make accurate estimates of the volume of 
+deposit recovered from a spray, it does not measure the mass 
+of non-volatile material in the deposit. Therefore, in an effort 
+to estimate the active ingredient we assumed that the non- 
+volatile tracer was partitioned in a fixed proportion to the 
+non-volatile active ingredient. The volumetric technique 
+enabled the estimation of active ingredient to be made irre- 
+spective of the volume applied. The results of tracer concen- 
+tration recovered from the foliage were transformed to 
+international units (IU) of activity based on the known con- 
+centrations of tracer in samples taken from the nozzles of 
+each aircraft upon return to the airport. 
+
+
+Statistical procedures. Egg mass data were transformed to 
+
+
+square roots (Vx) for all analyses (Steel and Torrie 1980). 
+Treatment effects were analyzed by analysis of variance 
+(AOV) and differences between treatment trends were ana- 
+lyzed by Tukey’s w-procedure (Steel and Torrie 1960). The 
+trend represented the magnitude of change in egg mass 
+density and was expressed as the ratio of the post/pre- 
+treatment density for each plot. Percentage control (i.e. 
+reduction in egg masses/Ha) was calculated by the following 
+modification of Abbotts’ formula (1925): percent control = 
+100(1-T/C) where T and C are the treatment and control 
+trends. 
+
+
+The parameters of volume per unit area, and droplet density 
+were transformed to log base 10 (Yendol et al 1990, Bryant 
+and Yendol 1991) for all analyses. Treatment effects for log 
+(volume/area), log (droplet density), D,., and droplet span 
+were analyzed by AOV, using a split plot design. A pairwise 
+t-test comparison was used to test differences between indi- 
+vidual treatments. The differences in mean mass deposit 
+among treatments were determined by AOV, using a split 
+plot design, with sub-plots representing the level of leaves 
+within the canopy. The least significant difference (LSD) 
+separation procedure was used to test differences between 
+treatments. Significance for all analyses was reported at P < 
+0.05 level. 
+
+
+Results 
+
+
+
+
+
+Population Reduction. Mean pre-treatment egg mass densi- 
+ties (Table 2) were significantly different for treatments and 
+blocks, both at P < 0.01 as indicated by AOV, using a ran- 
+domized complete block design. A significant (F=37.9; 
+df=5,23; P<0.01) portion of the variation was removed by 
+blocking on pre-treatment egg mass density although the 
+mean egg mass density in the 9.35 L/Ha and 18.7 L/Ha plots 
+
+
+6 
+
+
+remained different from the control plots. The mean + SD 
+percent egg hatch among treatments was 86.9% (+ 10.0) 
+(range of 60.8% to 95.4%) indicating a healthy population. 
+There was no significant difference in percent egg hatch 
+from egg masses collected from either treatment or control 
+blocks. The population remained healthy throughout the 
+season and increased an average four-fold in the untreated 
+control plots (Table 2). 
+
+
+Differences among egg mass density trends were significant 
+(P < 0.01) between treatments and controls but not between 
+treatments. The populations in the treated plots fluctuated 
+from reductions to increases and the trend averaged a one 
+and one-half fold increase. Only 4 of 6 of the undiluted 
+treatment plots, 2 of 6 of the 9.35 L/Ha plots and 0 of 6 of the 
+18.7 L/Ha plots experienced population reductions. The 
+mean percent uncorrected population reduction for the four 
+undiluted plots was 47% and for the two 9.35 L/Ha plots 
+was 21%. The mean percent control among treatments were 
+not significantly different (Table 2). 
+
+
+Defoliation. Defoliation in blocks treated at all three appli- 
+cation rates was significantly less than that observed in the 
+control, but not significantly different from each other 
+(Table 2). 
+
+
+Deposit Analysis. The deposits intercepted by the forest 
+canopy were analyzed by image analysis to measure droplet 
+parameters and through tracer washoff to measure mass 
+recovery. 
+
+
+Image analysis 
+
+
+Volume/area. The various measured droplet 
+spectrum data for the different treatments are shown in 
+Table 3. For clarity, the mean volume and mean drops per 
+
+
+unit area are presented as log transformed and 
+untransformed data. A significant difference (P=0.03) in 
+spray volume per cm‘ of foliage was detected between the 
+18.7 L(T2) and undiluted treatments (TU). The difference 
+between the 9.35 L(T1) and undiluted treatments was not 
+considered significant (P=0.08). Slightly more deposit was 
+recovered in the upper than in the lower level of the canopy, 
+3.00 and 2.34 nl/cm7’, respectively. 
+
+
+Droplet density. There was no significant differ- 
+ence in drop density (drops/cm’) between treatments; how- 
+ever, differences (P=0.06) were detected at the canopy level 
+with 3.2 drops/cm? at the upper level of the canopy com- 
+pared with 2.69 drops/cm/ at the lower level. 
+
+
+Droplet size. There was a significant difference 
+(P=0.01) in D,,, between the 9.35 L and undiluted and 
+between the 18.7 L/Ha and undiluted treatments. There 
+were no significant canopy level effects. 
+
+
+Droplet spectrum span. A significant treatment 
+effect (P=0.02) was found in the mean droplet spectrum span 
+_ between the 9.35 L/Ha and undiluted treatment, but the 
+difference between the 18.7 L and undiluted was not consid- 
+ered significant at P=0.08. These data indicate that the undi- 
+luted treatment had a slightly wider droplet spectrum than 
+the diluted treatments. There were no significant differences 
+detected between different canopy levels among treatments. 
+
+
+Volumetric tracer washoff. There was no significant 
+
+
+difference in the mass of active ingredient reaching the forest 
+canopy among the 3 treatments nor between the upper and 
+lower canopy levels, 54.1 IU/cm? and 46.4 IU/cm? respec- 
+tively (Table 4). 
+
+
+The uniformity of distribution of Bt Spray in the forest 
+canopy produced by the three application rates was assessed 
+by comparing the standard deviations of the mean log IU/ 
+cm’ values calculated among averages for levels between 
+trees. The undiluted treatment produced the lowest stan- 
+dard deviation, indicating that the variance of samples from 
+the mean differed least with this treatment (Table 4). The 
+9.35 L/Ha treatment was the least uniformily distributed as 
+measured by the standard deviation. 
+
+
+Discussion 
+
+ae See ereN “Brine EAT ah ona ol Si rhe! 404 oS pists wre 
+As expected, the three application rates of Bt provided sig- 
+nificant foliage protection. However, the corrected average 
+population reduction pooled for all treatments was insuffi- 
+cient and residual population density was unacceptably 
+high. There were no detectable differences among the treat- 
+ments based on mean population trends but out of the total 
+six plots where the population reduction trends showed a 
+decrease in population, four were from the undiluted and 
+two were from the 9.35 L/Ha treatments, none were from the 
+18.7 L/Ha treatment. Undiluted application with the 
+Micronair AU5000 atomizers generated smaller drops than 
+those produced by flat fan nozzles used for the diluted 
+applications. The undiluted treatment also produced the 
+most homogenous deposit distribution. The volumes recov- 
+ered per cm’ of foliage for the two diluted applications did 
+not differ significantly from each other but were higher 
+(P=0.08) than that recovered from the undiluted treatment. 
+Nevertheless, there was little difference in the IU’s of Bt 
+delivered to the trees among the three application rates. 
+
+
+Both volumetric and image analysis data showed that 
+slightly more material was deposited on the upper level of 
+the forest canopy than in the lower level when estimates 
+
+
+were made based on drop density rather than drop size, 
+which did not vary between the upper and lower canopy for 
+any of the treatments. 
+
+
+In these trials there seems to be only a slight difference 
+between the quality of the deposition obtained with the three 
+application rates. Any difference in biological effects be- 
+tween the treatments would therefore likely be due to active 
+ingredient concentration within the drops, and a slightly 
+better distribution obtained with the undiluted treatment. A 
+better droplet distribution would increase the chances of a 
+larva ingesting Bt while feeding. It is not known if a more 
+concentrated drop density deposit increases Bt efficacy. 
+However, larvae feeding at random on foliage covered with 
+concentrated Bt drops would be more likely to ingest a toxic 
+dose with a small number of leaf bites than on a widely 
+dispersed dilute deposit. 
+
+
+The results indicate that when Bt is applied at 50 BIU/Ha 
+against an increasing gypsy moth population, different 
+volumetric application rates do not appear to influence the 
+foliage protection effectiveness of the Bt. Therefore, it is 
+more cost effective to apply at the undiluted rate than at the 
+9.35 L/Ha or 18.7 L/Ha application rates as 3 and 6 times the 
+area can be treated per load, respectively. 
+
+
+Further evaluation of undiluted and diluted application rates 
+at higher doses are warranted in an effort to maximize popu- 
+lation reduction. These evaluations need to include an as- 
+sessment of foliage deposit as well as efficacy. Additionally, 
+formulation characteristics (e.g. viscosity, specific gravity) 
+and droplet characteristics (e.g. D,,,,) will need to be stan- 
+dardized among treatments in an effort to isolate the most 
+effective dose and volumetric application rate. 
+
+
+10 
+
+
+
+
+
+Acknowledgements 
+
+
+Funding for this study and publication was provided by the 
+Forest Service, Northeastern Area State and Private Forestry, 
+Appalachian Integrated Pest Management Project. 
+
+
+References Cited 
+
+
+Abbott, W.S. 1925. A method of computing the effectiveness 
+of an insecticide. J. Econ. Entomol 18:265-267. 
+
+
+Bartlett, M.S. 1947. The use of transformations. Biometrics 
+3:39-52. 
+
+
+Bryant, J.E. 1989. An evaluation of the aerial application 
+ofBacillus thuringiensis in hardwood forestry: Deposi- 
+tion characteristics and factors affecting efficacy. Ph.D. 
+Thesis, Pennsylvania State University. 180 pp. 
+
+
+
+
+
+Bryant, J.E. and W.G. Yendol. 1991. Deposition characteris- 
+tic of aerially applied Bacillus thuringiensis to a hard- 
+wood forest using hydraulic nozzles. J. Econ. Entomol. 
+84:542-551. 
+
+
+Steel, R.G. and J.H. Torrie. 1980. Principles and procedures 
+of statistics. McGraw-Hill, NY. 
+
+
+Wilson, R.W. and G.A. Fontaine. 1978. Gypsy Moth Egg 
+Mass Sampling with Fixed- and Variable-Radius Plots. 
+USDA Agriculture Handbook No. 523. 
+
+
+Yendol, W.G.,J.E. Bryant and M.L. McManus. 1990. Pen- 
+etration of oak canopies by a commercial preparation of 
+Bacillus thuringiensis applied by air. J. Econ. Entomol. 
+83:797. 
+
+
+
+
+
+11 
+
+
+Table 1. Summary of application parameters for each 
+aircraft, Martinsburg, WV, 1988. 
+
+
+Application Rate (L/Ha) 
+Oey a3 18.7 
+
+
+atomizer/nozzle Micronair Spraying System Spraying System 
+model/tip AU-5000 004 8008 
+
+angle* 35° 45° 
+pressure (KPa)? 207 276 
+
+flow rate (L/min) 22-7) 138.2 
+
+
+
+
+
+*The 8004 spray tips were directed 90° straight down and 
+the 8008 directed 45° forward. The AU-5000 blade angle 
+was Set at 35°. 
+
+30 psi=207 KPa; 40 psi = 276 KPa. 
+
+
+12 
+
+
+
+
+
+
+
+
+
+
+
+Table 2. Egg mass density (pre and post-treatment) and 
+defoliation estimates for plots treated with Bacillus thuring- 
+iensis, Martinsburg, WV, 1988. 
+
+
+
+
+
+
+
+Treatment Egg mass Percent Percent 
+(per Ha) (per Ha) Trend  Control* Defoliation 
+re (post/pre) 
+
+
+
+
+
+
+dose volume pre post 
+(BIU) (liter) x+SEM*’ ;+SE x +SEM x +SEM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee 2.9 1292 (175) 1275 (356) 1.32 (.541) O/mem/ 2) (1.9) 
+BoD) 1142 (216) 1725 (259) 1.92 (.526) 53 6.4 (.74) 
+18.7 1107 (134) 1877 (336) 1.70 (.248) 58 9.8 (2.2) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Control 1443 (153) 5519 (872) 4.05 (.734) — 48.9 (8.2) 
+
+
+4Percent control = 100 (1-T/C) where T and C are the 
+treatment and control trends. 
+b’Mean and standard error of the mean. 
+
+
+13 
+
+
+Table 3. Summary of the measured droplet spectrum data 
+for the 9.35 liter (T1), 18.7 liter/Ha (T2), and undiluted 
+(TU) treatments, Martinsburg, WV, 1988. 
+
+
+
+
+
+
+
+
+
+
+Treatment Statistic Volume/* Drops/* Volume/® Drops’ D 
+cm? cm? cm? cm? 
+
+
+Span 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T1 
+
+
+
+
+
+Mean 0.730 0.399 5.37 rods | 0.501 
+Std 0.212 0.063 8.8 0.020 
+Vy Mean 0.641 0.507 4.37 3.21 171.1" 0 ¥ 
+
+Std 0.148 0.044 6.2 0.014 
+TU Mean _ - 0.101 0.500 0.79 3.16 100.0 0.658 
+Std 0.140 0.013 
+
+
+
+
+
+‘Volume per unit area and droplet density are presented 
+as log transformed data. 
+> Refers to untransformed means. 
+
+
+14 
+
+
+Table 4. Summary of mass spray deposit of Bt impacting 
+on sample leaves for three application rates, Martinsburg, 
+WV, 1988. 
+
+
+TU?/cm? 
+
+
+Treatment? Log Transformed Untransformed 
+x +SD X 
+
+
+1.734 + 0.419 55.20 
+1.688 + 0.349 48.71 
+167.9 0.20107, 47.70 
+
+
+
+
+
+4IU denotes International Units which is a measure of Bt 
+
+
+potency. 
+>Treatments included 9.35 L/Ha (T1), 18.7 L/Ha (T2), and 
+Undiluted (TU). 
+
+
+15 
+
+
+Pesticide Precautionary Statement 
+
+
+This publication reports the aerial application of 
+insecticides. It does not contain recommendations 
+for insecticide use, nor does it imply that the uses 
+discussed here have been registered. All uses of 
+insecticides must be registered by appropriate State 
+and/or Federal agencies before they can be recom- 
+mended. 
+
+
+Caution: Insecticides may be injurious to humans, 
+domestic animals, desirable plants, and fish or other 
+wildlife if they are not handled or applied properly. 
+Use all insecticides selectively and carefully. Follow 
+recommended practices for the disposal of surplus 
+insecticides and insecticide containers. 
+
+
+The use of trade, firm, or corporation names in this 
+publication is for the benefit of the reader. Such use 
+does not constitute an endorsement or approval of 
+any service or product by the U.S. Department of 
+Agriculture to the exclusion of others that may be 
+suitable. 
+
+
+
+
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+1022446549 
+
+
+
+
+
+NATIONAL AGRICULTURAL LIBRARY 
+
+
+102244 
+
+
+—1V HOS Ts 
+
+
+
+
+

@@ -1,0 +1,47 @@
+australian! = ACUStralian Bureau of Statistics 
+
+
+Statistics 
+
+
+1364.0.15.001 - Treasury Model of the Australian Economy -- TSP 
+Version, Mar 2010 
+
+
+Previous ISSUE Released at 11:30 AM (CANBERRA TIME) 14/07/2010 
+
+
+Summary 
+
+
+About this Release 
+
+
+The Treasury Macro-Economic (TRYM) model of the Australian economy has been 
+developed and is used within the Commonwealth Treasury of Australia. The TRYM model 
+was designed to assist in policy analysis and forecasting at the macro-economic level. The 
+result is a model that is ideal for understanding the workings of the Australian economy and 
+for economic research and analysis. The database is separately available as part of the 
+Modellers' Database (cat. no. 1364.0.15.003). The TSP version of TRYM allows users to 
+access individual equations and comes with a user guide for using TRYM in TSP. Users will 
+need a copy of TSP Version 5.0 to run this version of the Model. 
+
+
+User should note that the TRYM model is presently undergoing a major redevelopment. The 
+aim is to improve the model structurally and to update the operating environment of TRYM 
+from TSP to EViews 7. Due to the change, the TSP release of TRYM will be discontinued 
+with the roll-out of the EViews-based model. This is scheduled to occur in early 2011. 
+
+
+To subscribe to the TRYM model, please phone the Database Manager (02) 6252 7037. 
+
+
+© Commonwealth of Australia 
+
+
+All data and other material produced by the Australian Bureau of Statistics (ABS) constitutes Commonwealth copyright administered by the ABS. 
+The ABS reserves the right to set out the terms and conditions for the use of such material. Unless otherwise noted, all material on this website - 
+except the ABS logo, the Commonwealth Coat of Arms, and any material protected by a trade mark - is licensed under a Creative Commons 
+Attribution 2.5 Australia licence 
+
+

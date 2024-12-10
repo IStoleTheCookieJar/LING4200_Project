@@ -1,0 +1,729 @@
+Indonesian Journal of Electrical Engineering and Computer Science 
+Vol. 10, No. 2, May 2018, pp. 436~445 
+ISSN: 2502-4752, DOI: 10.1159 1/itjeecs.v10.12.pp436-445 O 436 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for 
+Hybrid Sources 
+
+
+V.Vasudevan’, K.Balaji 
+Department of Electrical and Electronics Engineering 
+St. Peters Institute of Higher Education and Research, Avadi, Chennai 600054, India 
+
+
+Article Info ABSTRACT 
+
+Article history: Distributed energy source based electricity generation is an essential factor 
+for the economic growth and development of a country. The photovoltaic, 
+
+Received Nov 18, 2017 fuel cell and battery based power generation offer a high voltage gain. The 
+
+Revised Jan 23, 2018 DC-DC CUK converter based on both buck and boost mode of operation is 
+
+Accepted Feb 14, 2018 proposed for high gain dc link voltage. The hybrid CUK —KY Converter 
+
+
+based multilevel inverter is designed and implemented. Here, the main 
+advantages of hybrid boost mode operation of Cuk converter, step up 
+Keywords: configuration is used which will result in improve conversion voltage ratio 
+and better damping of oscillations. The DC-DC converter voltage has 
+
+Fuel cell 1 h ki 1 h 
+Maxi P Bene regu ated by the maximum power point trac ng and PI contro based method 
+ci aca ae is used. The cascaded multilevel inverter in hybrid renewable energy 
+
+
+Tracking (MPPT) production integrating with switched capacitor method is designed. The 
+Multi Level Inverter (MLI) proposed converter is designed and implemented in MATLAB/SIMULINK 
+Photo Voltaic (PV) environment. 
+
+
+pune achoauenominyN Copyright © 2018 Institute of Advanced Engineering and Science. 
+
+
+All rights reserved. 
+
+
+Corresponding Author: 
+
+
+V.Vasudevan, 
+
+Department of Electrical and Electronics Engineering, 
+St. Peters Institute of Higher Education and Research, 
+Avadi, Chennai 600054, India 
+
+Email: vasudevan1| phd @ gmail.com 
+
+
+1, INTRODUCTION 
+
+The renewable energy based power generation generates less voltage it will be increased by the dc- 
+dc converter. The multilevel inverter has used in industrial application for high power conversion such as 
+reactive power compensator, FACTS devices, traction drives. In photovoltaic power generation the boost 
+DC—DC converters are widely used. In semiconductor devices the soft switching characteristics is attained 
+and also reduce the switching losses by the Cuk converter based on discontinuous capacitor voltage mode. 
+The Cuk converter switches are on and off by zero voltage and current switching [1]. The step up converter is 
+used in the switched mode power supply device. The Cuk converter based power generation has not use the 
+inductor filter at the output side and transferring the quality power by using the control methods. The Cuk 
+converter having a continuous current at both input and output sides and used for performance analysis. 
+Interleaved Cuk converter is used to reduce the input current ripple and also to improve transient 
+performances. The advantages of Cuk converter having better efficiency attributable to cancellation of source 
+current ripple, reduction of ripple content in both output voltage and current, and improvement of transient 
+performance [2-4]. The step up converter generate large output voltage ripples and slow transient response 
+due to the pulsating output capacitor current and the right-half plane zero in transfer function from duty 
+ratio to output voltage. The KY converter has less output voltage ripples and fast transient response 
+compared with the boost converter. The integrated KY converter has designed with power components 
+including energy transferring capacitor, inductor, and filter capacitor are evaluated [5]. The KY converter has 
+
+
+Journal homepage: http://iaescore.com/journals/index.php/ijeecs 
+
+
+Indonesian J Elec Eng & Comp Sci ISSN: 2502-4752 O 437 
+
+
+integration of synchronous rectified boost converter and coupled inductor. This converter has analyzed the 
+relationship of output voltage and load current. 
+
+The KY converter has high voltage gain by the integration of two converters such as boost and 
+inductor coupled. The leakage inductance of the coupled inductor is used to attain the zero voltage switching 
+(ZVS) and the current stress on the charge pump capacitors and the decreasing rate of the diode current can 
+be limited due to the use of the coupled inductor and output current is non-pulsating [6]. The KY converter 
+based multilevel modular inverter has decrease the voltage and current stress of switching device and 
+increase the efficiency of the converter based system. The output voltage of the Cuk based multilevel inverter 
+has increases the high gain by the turn’s ratio and duty cycle. The output of the KY converter has both buck 
+as well as boost converter [7]. The H bridge inverter has used to reduce the power switches, losses, voltage 
+stress and converter cost. The multilevel inverter has reduces the harmonics and improve the performance of 
+the converter system. The photovoltaic energy based inverter system has effective and efficient power 
+electronic device interface with source. The inverter has operated in both symmetrical and asymmetrical 
+mode [9-11]. 
+
+
+2. SYSTEM DESCRIPTION 
+
+The multilevel inverter has to decrease the voltage stress and harmonic distortion. The multilevel 
+inverter has used more number of switches as compared to conventional two level inverters [8]. The 
+multilevel inverter based hybrid converter such as Cuk and KY. The controller of KY Converter utilizes the 
+maximum power point tracking control method for generating high power from the photovoltaic source [12]. 
+The fuel cell based Cuk converter produce the voltage by the PI control methodology. The block diagram of 
+proposed system is shown in Figure 1. 
+
+
+Fuel Cell CUK 
+Converter 
+= ——E— Multilevel 
+PI Control 
+
+
+Photovoltaic KY 
+Converter +ve 
+Carrier Phase 
+
+
+shifted SVPWM 
+MPPT 
+-ve 
+
+
+Figure 1. Block diagram of Proposed Method 
+
+
+
+
+
+
+
+
+
+
+
+
+Load 
+
+
+Inverter 
+
+
+
+
+
+V 
+
+
+AdHALLV d 
+
+
+
+
+
+The renewable energy such as solar and fuel cell generate the dc voltage having less magnitude. The 
+voltage is improved by the Cuk and KY converter is cascaded and the dc link output is fed into the multilevel 
+inverter will generate comparatively less total harmonic distortion and improved the efficiency of the inverter 
+fed renewable energy system [13-14]. The dc link voltage is compared with reference voltage and is fed into 
+the PI control based pulse width modulation will regulate the output of the Cuk based fuel cell. The KY 
+converter utilizes the maximum power point tracking for improving the voltage gain as well as regulates the 
+voltage. 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for Hybrid Sources (V. Vasudevan) 
+
+
+438 O ISSN: 2502-4752 
+
+
+3. DYNAMIC MODELING OF PROPOSED METHOD 
+3.1. Solar Power Generation 
+
+The solar based renewable energy produces the power from radiation. The semiconductor material 
+used to convert the sunlight radiation into electricity. The photovoltaic system has an important for 
+distributed power generation. PV system consists of number of solar cells these are connected in series for 
+generating electrical power with high potential. The photons of light fall on the semiconductor material and 
+the electrons flow in the material [17]. The proposed solar power generation has nonlinear power can change 
+with the environmental condition, less maintenance and cost effective. The voltage produced from the PV 
+cell depends on the semiconductor used and also varying temperature, insolation etc. The PN junction 
+absorbs the radiation and forms the electron hole pair [15]. Thus the light energy is converted to electrical 
+energy. The single diode PV module is shown in Figure 2. 
+
+
+Va 
+Rs 
+D1 / 
+IL g Rsh 
+Figure 2. Photovoltaic Cell 
+In PV the current source indicate the light generate the current. 
+qV 
+Idiode =10| —1+ eK! (1) 
+
+
+Where Io=saturation current, 
+V=applied voltage, 
+K=Boltzmann constant, 
+T=Temperature 
+
+Q=electron charge 
+
+
+3.2. Fuel Cell 
+
+The fuel cell based renewable energy generation has several types. The proposed proton exchange 
+membrane based fuel cell generates a .071 voltage. The fuel cells are electrically connected in series forming 
+a stack which provides a large power at high voltage and current levels. The PEM based fuel has three 
+components such as cathode, anode and solid polymer electrolyte membrane. The advantages of fuel cell 
+have low temperature, high power density, fast response and zero emission. The chemical reactions occurring 
+at the anode and cathode electrode of a PEM fuel cell is given as, 
+
+
+. 2H, 4H +4e7 
+Anode Reaction: 2 (2) 
+O07 +4H* +e” >2H90 (3) 
+2H7 + O72 > 2H70 + electriciy + heat (4) 
+
+
+CathodeReaction: 
+TotalCellReaction: 
+
+
+Indonesian J Elec Eng & Comp Sci, Vol. 10, No. 2, May 2018 : 436 — 445 
+
+
+Indonesian J Elec Eng & Comp Sci ISSN: 2502-4752 O 439 
+
+
+Bos Heat “/ Cathode 
+
+
+Hydrogen 
+Fuel 
+H2 In 
+OO 
+
+
+Anode 
+Plate 
+
+
+
+
+
+Figure 3. Schematic Diagram of PEMFC 
+
+
+The schematic diagram of proton exchange membrane based on fuel cell Figure 4 shows the 
+equivalent circuit diagram of fuel cell. The voltage of the fuel cell is given below in equation. 
+
+
+V ool — E nermo a Y aes a Vine — oon (5) 
+
+
+C 
+
+
+
+
+
+
+
+
+| = 
+
+
+Ract — 
+Vic CFuel cell voltage) 
+
+
+cdc 
+Rconc — 
+
+
+; 
+
+
+Figure 4. Equivalent Circuit of Fuel cell 
+
+
+
+
+
+Enerst 
+
+
+3.3. Cuk Converter 
+
+The Cuk converter is similar as buck boost converter but the output of the converter is negative in 
+magnitude. The Cuk converter work in continuous conduction mode. The switch Sw is on, the diode will be 
+reverse biased, the current across the inductance is increased and power is transferred to the load. 
+
+
+/ 2 
+Hf 
+
+
+C1 
+
+
+ie A | Swi -T 7 
+> RL 
+S 
+
+
+L1 
+
+
+
+
+
+—DC source 
+
+
+Figure 5. Circuit Diagram of Cuk Converter 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for Hybrid Sources (V. Vasudevan) 
+
+
+440 Oj ISSN: 2502-4752 
+
+
+The switch swl in the Cuk converter is turned off, the diode function as forward biased and the 
+capacitor is now charging. The output voltage of the Cuk converter is given as 
+
+
+- Vin D 
+
+
+Vo = 
+I-—D (6) 
+
+
+The Cuk converter has achieved the stable operation and use the inductor and capacitor for reducing 
+the ripple at the output. The converter reduces the switching losses and conduction losses using the MOSFET 
+switches. In Cuk converter the low range of passive elements is used for leading the current regulation. The 
+inductor used as the filter for decreasing the harmonic ripple. In capacitor is used for transferring the energy. 
+The high value of inductance is used and the current flowing through the converter circuit is constant. The 
+high value of capacitance is used to maintain the voltage of converter output. 
+
+
+3.4. KY Converter 
+
+The KY converter operates in positive current mode. The current flowing through the magnetizing 
+inductor and the output current of the inductor L3 is always positive. The dead time between two switches 
+are neglected. The switch S1 is turned off and Sw2 is turned on. The inductance L3 and L1 are magnetized 
+simultaneously. The C2 is charged and L2 is demagnetized [16]. The voltage across the load is given in 
+equation. Figure 6 shows the circuit diagram of KY converter. 
+
+
+V2 = Vo2 —Vo (7) 
+
+
+
+
+
+—DC source 
+
+
+Figure 6. Circuit Diagram of KY Converter 
+
+
+The Swl is turned on and Sw2 is turned off. The voltage across L2 is given in equation 
+
+
+Vri2 =Ve1 +Ve2 —Vo (8) 
+
+
+3.5. Multilevel Inverter 
+
+The multilevel inverter is used to reduce the harmonics and increase the performance of renewable 
+energy system. The cascaded H bridge multilevel inverter is used the single dc source with switched 
+capacitor for attaining high efficiency. The cascaded multilevel inverter generate multilevel with less power 
+supply. This inverter reduces the power switches and function as unidirectional characteristics. The single dc 
+source is used to increase the level and also decrease the total harmonic distortion [18]. 
+
+The single source can charge the capacitor Cl and C3 by using the charging switch Swl and Sw?2. 
+The charging circuit contains the power switches and capacitor. The level shifted sinusoidal pulse width 
+modulation has better output voltage compared to the phase shifted sinusoidal pulse width modulation. 
+
+
+Indonesian J Elec Eng & Comp Sci, Vol. 10, No. 2, May 2018 : 436 — 445 
+
+
+Indonesian J Elec Eng & Comp Sci ISSN: 2502-4752 O 441 
+
+
+G | S11 rm | S13 
+
+
+
+
+
+Figure 7. Circuit Diagram of Proposed Multilevel Inverter 
+
+
+4. PROPOSED CONTROL METHODOLOGY 
+
+The fuel cell based Cuk converter utilizes the PI controller for boost the voltage and photovoltaic 
+based KY converter regulates the voltage by the maximum power point tracking. The carrier phase shifted 
+pulse width modulation is used in the multilevel inverter has three H bridge inverter share equal power. The 
+switch (S11, $12), (S13, S14), (S21, $22), (S23, $24), (S31, S32), (S33, S34) are operated in complementary 
+manner. The capacitors are charging by switches Swl, Sw2. The switch Swl can be obtained by the switch 
+S13 and S21 by the AND gate and Sw2 is obtained by S23 and S31 can be AND gate circuit. The carrier 
+based phase shifted sinusoidal pulse width modulation is shown in Figure 8. 
+
+
+
+
+
+Figure 8. Proposed Carrier Based Phase Shifted Pulse Width Modulation 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for Hybrid Sources (V. Vasudevan) 
+
+
+442 O ISSN: 2502-4752 
+
+
+5. RESULTS AND DISCUSSION 
+
+The proposed hybrid renewable energy based multilevel inverter configuration is implemented and 
+results are verified in MATLAB/SIMULINK. The performance of Cuk KY based inverter circuit is analyzed. 
+The improved dual input Cuk —KY converter reduces the conduction losses, lower rating of devices required, 
+the voltage and current stresses are less. Thus, the simulation results also gives the performance analysis such 
+as higher efficiency, required smaller size of energy storage elements and lower rating of switching devices. 
+The Simulink model of proposed hybrid system is shown below in Figure 9. The Simulink parameters are 
+specified is given in Table 1. The PV output voltage waveform is shown in Figure 10. The PV output current 
+waveform is shown in Figure 11. The DC link voltage waveform of Cuk- KY converter is shown in Figure 
+12. The multilevel inverter output voltage waveform is shown in Figure 13. The total harmonic distortion 1s 
+shown in Figure 14. 
+
+
+Table. 1 Simulation Parameters Specification 
+
+
+
+
+
+
+
+
+
+
+
+S.NO | PARAMETERS VALUE 
+1 Solar Voltage 30V 
+2 Fuel Cell Voltage 30V 
+3 Switching Frequency 50Hz 
+4 Battery Capacity 55Ah 
+5 Output Voltage 65V 
+6 Filter Capacitance 90e-65 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A STT UL —a-[ reel S05 Ley 
+
+
+7 “al 
+
+
+i 
+
+
+02 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a a ae - 
+
+
+Boooo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 9. Simulink Model of Overall Proposed Circuit Configuration 
+
+
+PV voltage 
+mn 
+
+
+0 0.5 1 1.5 2 2.5 c 
+Time (Sec) 
+
+
+Figure 10. PV Output Voltage Waveform 
+
+
+Indonesian J Elec Eng & Comp Sci, Vol. 10, No. 2, May 2018 : 436 — 445 
+
+
+Indonesian J Elec Eng & Comp Sci ISSN: 2502-4752 
+
+26 
+
+25.5 
+x 
+
+3 25 
+3 
+if 
+
+245 
+
+24 
+
+0 0.5 1 Ee 2 25 J 
+Time (Sec) 
+
+
+Voltage (Vv) 
+
+
+200 
+
+
+100 
+
+
+= 
+
+
+-100 
+
+
+-70 0 
+
+
+DC Link Voltage (") 
+
+
+0.9 
+
+
+Figure 11. PV Output Current Waveform 
+
+
+a0 
+60 
+4t) 
+0) 
+0 
+0 0.5 ] 1.4 2 25 d 
+Time (Sec) 
+Figure 12. DC Link Voltage Waveform of Cuk-KY Converter 
+q 1.1 12 1.3 14 
+Time (Sec) 
+
+
+Figure 13. Multilevel Inverter Voltage Waveform 
+
+
+443 
+
+
+1.5 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for Hybrid Sources (V. Vasudevan) 
+
+
+444 O ISSN: 2502-4752 
+
+
+FFT anahsis 
+
+
+Fundamental (50Hz) = 1.737 , THD= 13.71% 
+
+
+Mag (% of Fundamental) 
+
+
+
+
+
+0 100 «200 300 400 500 600 700 s00 900 1000 
+Frequency (Hz) 
+
+
+
+
+
+Figure 14. Total Harmonic Distortion of Proposed Hybrid Sources Based Multilevel Inverter 
+
+
+6. CONCLUSION 
+
+The hybrid renewable energy such as photovoltaic and fuel cell power generation are implemented 
+and analyzed for high gain with less harmonic distortion. The Maximum power point tracking method 1s 
+designed in the photovoltaic based KY converter is integrated with the fuel cell based on the CUK converter. 
+The PI control method is used in the fuel cell for improving the performance. The multilevel inverter for 
+reduced the harmonics by integrating CUK KY converter. The proposed multilevel inverter fed hybrid 
+converter for increasing the performance of drive system. The maximum power point tracking control 
+method is design for generating the gate pulse for voltage regulation. The photovoltaic and fuel cell are used 
+to attain the high voltage gain by using the MPPT and PI control method. The dc link voltage is regulated by 
+the hybrid renewable energy based on various control method. The performance of distributed energy sources 
+has implemented in MATLAB/SIMULINK environment. 
+
+
+REFERENCES 
+
+[1] Poorali B, et al., “Soft-switching DC—DC Cuk converter operating in discontinuous-capacitor-voltage mode,” JET 
+Power Electronics.vol. 10, pp. 1679-1686, 2013. 
+
+[2] Joseph K. D, et al., "Interleaved cuk converter with improved transient performance and reduced current ripple," 
+Journal of Engineering-Joe (2017). 
+
+[3] Sun, et al., "An improved maximum power point tracking algorithm with CUK converter for PV systems," The 
+Journal of Engineering vol. 1, 2017. 
+
+[4] |Ananthapadmanabha, et al., "Electric Vehicle Battery Charger with Improved Power Quality Cuk-Derived PFC 
+Converter," Journal of Green Engineering vol. 7, pp. 255-284, 2017. 
+
+[5] Li, Dan, et al., "Analysis and Implementation of High-Performance Integrated KY Converter." JEEE Transactions 
+on Power Electronics, 2017. 
+
+[6] Hwu, et al., "A KY Converter Integrated with a SR Boost Converter and a Coupled Inductor." JOURNAL OF 
+POWER ELECTRONICS, vol. 17(3), pp. 621-631, 2017. 
+
+[7] Aswin P, et al., "A High Efficiency Step-Up DC-DC Converter Combining KY and Multilevel Modular Converter 
+with Low Switching Voltage and Current Stress." Imperial Journal of Interdisciplinary Research, vol. 3(4), 2017. 
+
+[8] Gautam, et al., "Reliability improvement of transistor clamped H-bridge-based cascaded multilevel inverter," JET 
+Power Electronics, 2017. 
+
+[9] Karasani, et al., "A three-phase hybrid cascaded modular multilevel inverter for renewable energy environment." 
+IEEE Transactions on Power Electronics vol. 32, pp. 1070-1087, 2017. 
+
+[10] Gupta, et al., "Multilevel inverter topologies with reduced device count: A review." [EEE Transactions on Power 
+Electronics vol. 31, pp. 135-151, 2013. 
+
+[11] Karimi, et al., "A developed single-phase cascaded multilevel inverter with reduced number of circuit devices." 
+International Journal of Ambient Energy, vol. 1, 2017. 
+
+[12] Harish, D, et al., "Three Phase Modular Multilevel PV Inverter with Distributed MPPT for Grid-Connected 
+Applications." IJSEAT, vol. 5, pp. 118-124, 2017. 
+
+
+Indonesian J Elec Eng & Comp Sci, Vol. 10, No. 2, May 2018 : 436 — 445 
+
+
+Indonesian J Elec Eng & Comp Sci ISSN: 2502-4752 O 445 
+
+
+[13] 
+[14] 
+[15] 
+[16] 
+[17] 
+
+
+[18] 
+
+
+SAHOO §, et al., “Phase Shifted Carrier Based Synchronized Sinusoidal PWM Techniques for Cascaded H-Bridge 
+Multilevel Inverters,” JEEE Transactions on Power Electronics, 2017. 
+
+McGrath B, et al., “Optimized Phase Disposition (PD) Modulation of a Modular Multilevel Converter,” JEEE 
+Transactions on Industry Applications, 2017. 
+
+Tezer, T, et al., “Evaluation of approaches used for optimization of stand-alone hybrid renewable energy systems,” 
+Renewable and Sustainable Energy Reviews, vol. 73, pp. 840-853, 2017. 
+
+Priya.A, et al., “Performance Development of A BLDC Motor Driven Water Pump Using KY Converter,” 
+Indonesian Journal of Electrical Engineering and Computer Science, vol. 9, pp. 602-605, 2018. 
+
+Rahnamaei. A, et al., “A Novel Grid Connected Photovoltaic System,” Bulletin of Electrical Engineering and 
+Informatics, vol. 5, pp. 133-143, 2017. 
+
+Goh, et al., “Predictive Direct Power Control (PDPC) of Grid-connected Dual-active Bridge Multilevel Inverter 
+(DABMI),” International Journal of Power Electronics and Drive Systems (IJPEDS), vol. 8, 2017. 
+
+
+Performance of Cuk-KY Converter Fed Multilevel Inverter for Hybrid Sources (V. Vasudevan) 
+
+

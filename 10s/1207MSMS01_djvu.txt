@@ -1,0 +1,381 @@
+Measuring Intelligence by Raven Standard Progressive Matrices 
+Test: A PCA Approach 
+
+
+Dr. Shaista Ismat! 
+Dr. Junaid Saghir? 
+
+
+Abstract 
+
+
+There are many ways to measure the intelligence, especially when it comes to measuring through 
+multidimensional scaling. This study examines the nonverbal abilities of the individuals using 
+Raven Standard Progressive Matrices (RSPM) test. RSPM is a nonverbal culture fair test that 
+identifies nonverbal reasoning abilities. It has 60 visually presented geometric-parallel-like 
+problems based on five sets, having 12 items in each set. The tool was administered collectively 
+(group-class) to a representative sample of 267 adolescents (both boys and girls) studying at 
+higher education institutions in Pakistan. The sample was drawn from two public sector 
+universities. The data was analyzed through descriptive statistics and principle component 
+analysis (PCA) to extract nonverbal abilities. The results indicate that 25% participants have 
+secured 60% or less tests scores, 50% participants have secured 73% or less tests scores, and 
+25% participants secured more than 81% tests scores. It is also found that participants have 
+very sound intellectual capacity and nonverbal reasoning abilities which is generally identified 
+as fluid intelligence and it is correlated with measures of abstract reasoning, puzzle solving, 
+problem solving, learning and pattern recognition. Principle component analysis has revealed 
+the grouping of the individuals and the common factor that affects the performance of the 
+participants. 
+
+
+Keywords: Fluid intelligence, intelligence measure, RSPM 
+1. Introduction 
+
+
+Intelligence is an underlying concept and a latent variable, therefore, cannot be measured directly. 
+However, literature suggests that it can be measured by a variety of tests available which are 
+applied at different levels to capture the individual scores and are used as an indirect measure 
+of intelligence. It is also evident that the assessment of intelligence requires good measurement 
+instruments considering purpose, level of participants, IQ scores and maturity of respondents. 
+Intelligence tests as described by Demirtasli (2002) are psychometric instruments, consisting 
+of standardized questions and tools for assessing the potential of an individual in a given domain 
+or for a particular ability. These are designed specially to measure complex mental abilities of 
+young and adults; and the designing of these tools requires deeper understanding of metal 
+capabilities of respondents based on age, educational background, language, and culture. A 
+careful analysis is needed to extract the findings, controlling diverse threats to reliability, and 
+ensuring internal and external validity of the tool. In practice, there are lots of suitable measurement 
+instruments are available on the basis of verbal scales like: information, digit span, vocabulary, 
+comprehension, similarities; and non verbal scales like: picture completion, picture arrangement, 
+block design, object assembly, digit symbol etc. (Wechsler 1981). 
+
+
+In this study intelligence is measured on the basis of nonverbal scale developed by Raven’s 
+Standard Progressive Matrices (RSPM) test items by using statistical procedure principle 
+component analysis. RSPM test is a nonverbal culture fair test that was developed by Raven 
+
+
+1Dr. Shaista Ismat is Professor at FUUAST, Karachi, ismat_shaista@yahoo.com 
+Dr. Junaid Saghir Siddiqui is Professor at Karachi University, jssdr123@yahoo.com 
+
+
+JISR - MSSE Volume 10 Number 2 July 2012 | 01 
+
+
+in 1939. RSPM test measures the ability to extract and understand information from a complex 
+situation (Raven, Raven, & Court 1998), and is widely used as a test of nonverbal reasoning 
+ability. This ability is generally identified as fluid intelligence (e.g., Caroll 1993; Jensen 1998; 
+McGrew & Flanagan 1998). Fluid intelligence exhibits the psychobiological capacity of the 
+individual to acquire knowledge whereas reasoning processes are an important part of this ability. 
+Fluid intelligence generally correlates with measures of abstract reasoning; puzzle solving, 
+problem solving, learning and pattern recognition. This test is also used as a general intelligence 
+test in the world (Demirtasli 2002). It is a standardized intelligence test that consists of visually 
+presented parallel geometric problems in which both sections A and B contain 12 matrices with 
+a dimension of 2x2, while the sections C, D, and E contain 12 matrices with a dimension of 
+3x3. Section A involves simply filling in the missing part of an image; later sections require 
+more abstract reasoning. The correct missing entry must be selected from a set of six possible 
+answers from the 2x2 matrices, or a set of eight possible answers in case of 3x3 matrices. 
+Standard progressive matrix (SPM), therefore, assesses the ability to make new insights and 
+information out of already perceived or existing knowledge, which is a necessary ability to 
+extract meanings out of a state of confusion or during solving multifarious puzzles. 
+
+
+Principle component analysis (PCA) a statistical technique, developed by Pearson and Hotelling, 
+is concerned with explaining the variance-covariance structure of a set of ‘p’ variables through 
+a few ‘k’ linear combinations known as principle components of these variables. Its general 
+objectives are data reduction and interpretations. There is almost as much information in the k 
+principle components as there is in the original p variables. The k principle components can 
+replace initial p variables and the original data set (Johnson & Wichern 2006). 
+
+
+2. Literature Review 
+
+
+Raven’s progressive matrices were initially developed with an intention to capture genetics and 
+environmental determinants related to measuring intelligence of a person (Raven 2000). The 
+basic purpose of development of these matrices was to help in conducting and interpreting these 
+tests among the participants of different ages and culture. Raven (2000) argued that there are 
+two main components of general cognitive ability, known as ‘g’; first is eductive ability which 
+is directly related to the capability of drawing meanings from the confusion and handling complex 
+schemas; while the second is reproductive ability which is concerned with absorption, recall 
+and reproduction of general information. There are several versions of Raven tests available 
+which are applied in myriad situations; and work is widely accepted by various researchers like 
+Styles and Anbdrich (1997), Deary (1995) and Stough (1996). Various studies conducted by 
+using Raven tests show that the tests are consistent over different cultures and ages; however, 
+not consistent over time (Raven 2000). 
+
+
+Over last few decades, there has been a debate regarding the true measurement of SPM. The 
+debate revolves around whether the SPM is a true measure of ‘g’ or it also measures some 
+aspects of visualization or spatial ability. Jenson (1998, p. 541) argued that “total variance of 
+Raven scores in fact comprises virtually nothing besides ‘g’ and random measurement error.” 
+It was further endorsed (Raven, Raven & Court 2000, p. 34) as “the progressive matrices have 
+been described as one of the purest and best measure of g or general intellectual functioning.” 
+But it is not universally accepted that these tests are a pure measure and not accounting for 
+spatial and other abilities related to visualization. Van der Ven and Ellis (2000) concluded this 
+debate as “[the] SPM contains two significant factors which they identified as (1) Gestalt 
+continuation present in early time for which the correct solution must be found according to 
+some Gestalt continuation rule..., and (2) analogical reasoning, present in later items” (Lynn, 
+Allik & Irwing 2004, p. 412). 
+
+
+02 | July 2012 Volume 10 Number 2 JISR-MSSE 
+
+
+Gabriel and Vernon have also contested that the SPM is largely a pure measure of general 
+cognitive ability ‘g’ but also contains a small spatial ability factor (Demirtasli 2002). Gustaffson 
+(1984, 1988) contended that the SPM has a reasoning factor and another factor that he labeled 
+as cognition of figural relations. Van der Ven and Ellis (2000) concluded that the RSPM have 
+Gestalt continuation. Gestalt continuation is a visual perception law that says human brain try 
+to organize information and make meaningful order from what we see. Gestalt psychologists 
+assume that brain does not prefer sudden changes in the movement of a line. In other words, 
+the brain seeks a smooth continuation of a line as much as possible. Demirtasli (2002) was 
+investigated the order of item's difficulty indexes of RSPM according to classic test theory and 
+Rasch model; this study showed that difficulty estimation of RSPM's items were ranked from 
+the easiest to the hardest. Lynn and Irwing (2004) completed a meta-analysis investigating sex 
+differences on the progressive matrices. Lovett, Forbus and Usher (2010) introduced a structure- 
+mapping model of RSPM as more advanced model, consisting of four most complex sections 
+of the test. Earlier (Lovett, Forbus, & Usher 2007), described the same model by only using two 
+sections of the SPM test. 
+
+
+Rushton, Skuy and Fridjhon (2002) have used RSPM to highlight Jensen Effects among 
+engineering students in South Africa based on African, Indian and White races. Their claim was 
+that a bimodal distribution exists in African population which in fact is not distinguishable in 
+Whites. There was a significant difference in terms of g, general factor of intelligence among 
+African, Indian and White students, although there was no difference among those students in 
+terms of gender and races. Earlier studies (e.g. Jensen 1980; Osborne 1980 & Rushton 1998) 
+also tested the Jensen Effect and proved that there is a difference among the races like black- 
+white, in terms of general intelligence by using SPM. 
+
+
+There are many versions of SPM, like colored and advanced versions etc. Using a particular test 
+to a certain type of participants is essentially required before validating the results obtained from 
+these tests. Raven (2000) posited that “it is important to note that the SPM was, from the start, 
+known to have both certain strengths and limitations. Its strengths were that it could be used 
+with the respondents of all ages from early childhood to old age and was such a length that it 
+could reasonably be administered in homes, schools, and workplaces (where time is necessarily 
+limited) as well as in laboratories ... it had limited discrimination at the upper and lower levels. 
+This was overcome by developing Advanced Progressive Matrices (APM) and Coloured 
+Progressive Matrices (CPM) tests for use among the more and less able, respectively” (p. 4). 
+
+
+3. Research Methodology 
+
+
+The SPM (1338) test was administered collectively (group-class) in Karachi to a representative 
+sample of 268 adolescents, including boys and girls both through gallop survey. The ages of 
+participants ranged from 17 to 25 years, belonging to graduate and postgraduate levels. The 
+sample was drawn from two public sector universities in Karachi having multiple departments. 
+Data was collected over a period of three months. The test was administered in different 
+departments like: Statistics, Physics, Mathematics, Business Administration, Computer Science, 
+Microbiology and Chemistry, without any time limitations so that this could allow the researchers 
+to asses intellectual capacity without the interruption of speed in completing the task. The test 
+scores of 60 items have been analyzed using the MINITAB for descriptive statistics and for 
+principle component. 
+
+
+JISR - MSSE Volume 10 Number 2 July 2012 | 03 
+
+
+Table1l: Descriptive Statistics for RSPM Test Scores 
+
+
+Test items Mean Median Skewness Kurtosis 
+
+
+10.97 -3.28112 14.30137 
+9.843 -1.58759 2.631928 
+8.172 -1.04384 1.036164 
+8.507 -1.19733 1.345288 
+4.679 0.34004 -0.71309 
+Total Score 41.877 -1.17649 1.68752 
+
+
+The above-mentioned table presents the descriptive analysis of all test sets (A to E) and total 
+score, showing mean, median, upper and lower quartiles, skewness and dispersion. 
+
+
+Furthermore, analysis is conducted by using PCA to extract the factors from the data and it is 
+found that there are five significant factors that are contributing towards the most of variance 
+in the data. The Eigen values analysis of these components is given in the following table. 
+
+
+Table 2: Eigen Analysis of the Correlation Matrix for SPM Test Scores 
+
+
+Variable PG1 PC2 PC3 
+
+0.379 0.787 0.412 
+0.470 0.237 -0.437 
+0.476 -0.235 -0.334 
+0.482 -0.202 -0.18 
+0.42 -0.478 0.703 
+Variance 2.7873 0.7614 0.5885 
+Proportion 0.557 0.152 0.118 
+% Of total | 55.7 70.9 82.7 
+
+
+4. Discussion 
+
+
+Table | exhibits the information about the descriptive statistics, therefore, mean of the test scores 
+is =10.97 and the standard deviation of the test score is s=1.76 in the 12 items of set A, since 
+mean is very high, showing this task is very easy to respondent, but each progressively harder 
+than the last, because the mean scores of the students in set E are showing very low. Demirtasli 
+(1995), Lovett, Forbus, & Usher (2007) also investigated RSPM's items were ranked from the 
+easiest to the hardest according to classic test theory and Rasch model. The entire RPM test 
+which has 60 items, the median of total scores is 44 showing that 50% student secured less than 
+73% it seems that intellectual capacity is very sound, first quartile Ql = 36.25 showing 25% 
+student secured 60% tests scores, third quartile Q3= 49 showing 25% student secure more than 
+81% tests scores. Over all result shows 75% student of Karachi University as well as Federal 
+Urdu University as having very sound intellectual capacity and nonverbal reasoning abilities, 
+which generally identifies fluid intelligence and it correlates with measures of abstract reasoning, 
+puzzle solving, problem solving, learning and pattern recognition, Cattell (1971). According to 
+Gestalt continuation theory, students which have very strong visual perception their brain seeks 
+as much as possible a smooth continuation of a line, indicating that these students are suitable 
+for professions like interior designing, graphic designing and music. When graphic designers 
+are laying out advertisements, posters, or even business cards, they lay out the information and 
+graphics in such a way that readers follow the lines of the layout. When professional musicians 
+
+
+04 | July 2012 Volume 10 Number 2 JISR-MSSE 
+
+
+organize their musical expressions without breaking the rhythm, they too, conform to the law 
+of continuation (Behrens 1984; Mullet & Sano 1995; Moore & Fitz 1993). It also exhibits that, 
+items in section A have very large kurtosis >3, implicitly that the test results being highly 
+concentrated around the mean, and the variations within the test results of 268 student are low, 
+showing most of the student secure same test scores. The nonverbal abilities of the student for 
+item A are strong. But items B,C and D give kurtosis < 3, indicating that the distribution of 
+scores have a large spread, that shows a platykurtic distribution. While a low kurtosis distribution 
+has a more rounded peak and shorter thinner tails. 
+
+
+Table 2 Exhibits the first PC which is denoted by U1 where: 
+
+
+U1 = 0.379A +0.470B +0.476C +0.482D +0.420E 
+
+
+First PC may be interpreted as contribution of general intelligence on the score of the test RSPM. 
+55.7% marks are due to general intelligence. The ability to learn, understanding of complex 
+instructions and success in problem solving 1.e. “cognitive ability” as described by Eysenck 
+(1982, p. 8) has 55.7% effect on the scores. 
+
+
+The second PC which is denoted by U2 that contributes 15.2% 
+
+U2 = 0.787A+ 0.237B-0.235 C- 0.202D -0.478E 
+
+In U2 the signs of the coefficients for set A and set B are different from the set C, D and 
+E. This indicates the difference between easy sets (A, B) and relatively difficult sets (C, D, E). 
+The third PC which denote by U3: 
+
+U3 = 0.412A-0.437B-.334C-.180D-0.703E 
+
+
+U3 contributes 11.8%, which refers to a contrast between easy and difficult and medium type 
+of sets, because the sign of coefficient correspond set A+ ve while the remaining have -ve sign. 
+
+
+5. Conclusion 
+
+
+The findings prove that above-mentioned results are in consonance with other studies conducted 
+earlier in different cultures and among various races. This test is also applicable to the students 
+at higher education level in Pakistan. However, these are required to be applied cautiously and 
+must be checked though distribution analysis for representing the unimodal or bimodal distribution. 
+Findings further reveal that two factors, general intelligent and students choice in selecting the 
+particular matrices, may affect the studies and results. It is recommended further to use this test 
+to check the results on the basis of gender and disciplines in which the students are enrolled. 
+This test may also be used for employment after certain changes to test cognition of the employees 
+and match with the existing ones, especially in creative departments or fields. 
+
+
+JISR - MSSE Volume 10 Number 2 July 2012 | 05 
+
+
+References 
+
+Behrens, R 1984, Design in the Visual Arts, Prentice-Hall, Inc, New Jersey. 
+
+Carroll, JB 1993, Human Cognitive Abilities, Cambridge University Press, Cambridge. 
+
+Cattell, RB 1971, Abilities: Their Structure, Growth, and Action, Houghton Mifflin, Boston. 
+Demirtasli, NJ 2002, “A study of Raven Standard Progressive Matrices test’s items measures 
+under classic and item response models: an empirical comparison”, Journal of Faculty of 
+
+
+Educational Sciences, vol. 3, issue 1-2. 
+
+
+Gabriel, KR 1954, “The simplex structure of the progressive matrices test”, British Journal of 
+Statistical Psychology, vol. 7, issue 1, pp. 9-14. 
+
+
+Gustaffson, J 1984, “A unifying factor model for the structure of intellectual abilities”, Intelligence, 
+vol. 8, issue 3, pp. 179-203. 
+
+
+Gustaffson, J 1988, “Hierarchical models of individual differences in cognitive abilities”, in R 
+J Sternberg (ed.), Advances in the Psychology of Human Intelligence, Laurence Erlbaum, New 
+Jersey, pp. 35-72. 
+
+
+Hotelling, H 1933, “Analysis of a complex of statistical variables into principal components”, 
+Journal of Educational Psychology, vol. 24, no. 6, 417-441. 
+
+
+Johnson, AR & Wichern, WD 2006, Applied Multivariate Statistical Analysis, Prentice Hall, 
+New Jersey. 
+
+
+Jollifee, I 1986, Principle Component Analysis, Springer, New York. 
+
+
+Lovett, A, Forbus, K, & Usher, J 2010, “A structure-mapping-model of Raven’s Progressive 
+matrices”, Proceedings of CogSci-10. 
+
+
+Lynn, R, Allik, J & Irwing, P 2004, “Sex differences on three factors identified in Raven’s 
+Standard Progressive Matrices”, Intelligence, vol. 32, pp. 411-424. 
+
+
+McGrew, KS, & Flanagan, D 1998, The Intelligence Test Desk Reference, Allyn and Bacon, 
+Boston. 
+
+
+Moore, P & Fitz, C 1993, “Gestalt theory and instructional design”, Journal of Technical Writing 
+and Communication, vol. 23, no. 2, pp. 137-157. 
+
+
+Mullet, K & Sano, D 1995, Designing Visual Interfaces: Communication- oriented Techniques, 
+Prentice Hall, New Jersey. 
+
+
+Raven, J 1939, Progressive Matrices: A Perceptual Test of Intelligence, HK Lewis, London. 
+
+
+Raven, J, Raven, JC, & Court, JH 2003, Manual for Raven's Progressive Matrices and Vocabulary 
+Scales, Harcourt Assessment, San Antonio. 
+
+
+06 | July 2012 Volume 10 Number 2 JISR-MSSE 
+
+
+Spearman, C, & Wynn-Jones, L 1951, Human Ability, Macmillan, London. 
+
+
+Van der Ven, AHGS, & Ellis, JL 2000, “A Rasch analysis of Raven’s standard progressive 
+matrices”, Personality and Individual Differences, vol. 29, issue 1, pp. 45-64. 
+
+
+Vernon, PE 1950, The structure of Human Abilities, John Wiley & Sons, Inc., New York. 
+
+
+Wechsler, D 1981, WAIS-R manual (Wechsler Adult Intelligence scale- revised) Tge Psychological 
+Corporation. 
+
+
+JISR - MSSE Volume 10 Number 2 July 2012 | 07 
+
+

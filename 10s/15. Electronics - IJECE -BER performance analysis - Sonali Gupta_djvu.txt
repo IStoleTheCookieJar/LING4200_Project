@@ -1,0 +1,533 @@
+International  Journal  of  Electronics  and 
+Communication  Engineering  (UECE) 
+ISSN  2278-9901 
+
+Vol.  2,  Issue  3,  July  2013, 111-116 
+© IASET 
+
+
+International  Academy  of  Science, 
+Engineering  and  Technology 
+
+
+IASET 
+
+
+( 'omitft  i  nj"  Hew  jrt  hers;  NurCuriiiH.  Innovatiuns 
+
+
+BER  PERFORMANCE  ANALYSIS  OF  OFDM  IN  COGNITIVE  RADIO  NETWORK  IN 
+
+RAYLEIGH  FADING  CHANNEL 
+
+SONALI  GUPTA  &  ARUN  KUMAR 
+
+
+Orthogonal  frequency  division  multiplexing  (OFDM)  now  a  day  is  becoming  a  popular  modulation  technique  for 
+cognitive  radio  networks  (CRN).  It  is  only  because  it  can  provide  large  data  rates  and  is  sufficiently  robust  in  the  face  of 
+radio  channel  impairments.  Digital  modulation  techniques  provide  efficient  evolution  for  our  wireless  mobile 
+communications  by  increasing  the  capacity,  speed  and  quality  of  a  wireless  networks.  In  this  paper,  we  concentrate  on 
+digital  modulation  schemes,  such  as  QPSK  and  BPSK  over  an  Rayleigh  fading  channel  to  analyze  the  performance  of  an 
+OFDM  system  in  terms  of  bit  error  rate  (BER).  Inter  carrier  interference  (ICI)  is  the  major  drawback  of  OFDM.  We  have 
+chosen  pulse  shaping  schemes,  improved  sine  power  pulses  and  raised  cosine  filter  for  ICI  cancelation.  All  simulation 
+work  is  done  using  MATLAB  and  results  shows  improvement  in  BER  when  ICI  cancelation  schemes  are  applied. 
+
+KEYWORDS:  Binary  Phase  Shift  Keying  (BPSK),  Cognitive  Radio  Network  (CRN),  Inter  Carrier  Interference  (ICI), 
+OFDM,  Rayleigh  Fading,  Quadrature  Phase  Shift  Keying  (QPSK) 
+
+
+Wireless  technology  is  embedded  in  our  daily  routine  life.  These  devices  use  a  finite  amount  of  radio  spectrum. 
+As  the  number  of  devices  increase,  they  compete  for  bandwidth  and  they  have  to  face  bandwidth  scarcity  problem. 
+Moreover,  traditional  fixed  spectrum  allocation  policy  can  no  longer  meet  the  needs  and  services  of  the  wireless  users. 
+According  to  Federal  Communications  Commission  (FCC),  temporal  and  geographical  variations  in  the  utilization  of  the 
+assigned  spectrum  range  from  15%  to  85%  in  current  spectrum  allocation  policies  [1]. 
+
+To  combat  this  problem  J  Motila  first  time  proposes  the  concept  of  Cognitive  Radio  Network  (CRN).  Cognitive 
+radio  technology  has  opened  new  doors  to  emerging  applications.  This  technology  can  serve  as  a  facilitator  of 
+communications  for  other  devices  which  may  operate  in  different  band  and/or  have  incompatible  wireless  interfaces. 
+Similarly,  this  technology  can  also  be  used  to  provide  opportunistic  access  to  large  parts  of  the  underutilized  spectrum  in 
+cellular  networks.  In  his  paper  J.  Motila  Define  Cognitive  Radio  as 
+
+"The  point  in  which  wireless  personal  digital  assistants  and  the  related  networks  are  sufficiently  computationally 
+intelligent  about  radio  resources  and  related  computer  to  computer  communications  to  detect  user  communication  needs 
+as  a  function  of  use  context,  and  to  provide  radio  resources  and  wireless  services  most  appropriate  to  those  needs"  [2]. 
+
+As  wireless  applications  are  becoming  more  sophisticated  and  are  widely  used,  the  demand  for  high  data-rate 
+communications  will  increase  substantially.  Therefore,  in  addition  of  being  frequency  agile,  a  communication  system 
+should  be  able  to  achieve  high  data-rates  for  transmission.  The  Multicarrier  modulation  (MCM)  approach  can  support  huge 
+data-rates  by  dividing  the  stream  into  several  parallel  bit  streams,  each  with  a  lower  bit  rate,  and  modulating  these  sub- 
+streams  with  different  subcarriers  [3], 
+
+
+Electronics  &  Communication,  IFTM  University,  Moradabad,  Uttar  Pradesh,  India 
+
+
+ABSTRACT 
+
+
+INTRODUCTION 
+
+
+112 
+
+
+Sonali  Gupta  &  Arun  Kumar 
+
+
+In  this  paper  we  will  study  orthogonal  frequency  division  multiplexing  (OFDM),  which  is  a  multicarrier 
+modulation  scheme.  CRN  uses  OFDM  for  data  transmission  at  lower  bit  rate  (BER).  In  this  paper  we  will  study  BER 
+analysis  of  OFDM  system  in  cognitive  radio  network.  Several  schemes  are  also  proposed  so  that  BER  can  be  improved  and 
+inter  carrier  interference  (ICI)  can  be  minimized. 
+
+ORTHOGONAL  FREQUENCY  DIVISION  MULTIPLEXING  (OFDM) 
+
+OFDM  is  a  multi-carrier  transmission  technique  that  divides  the  available  spectrum  into  subcarriers,  with  each 
+subcarrier  containing  a  low  rate  data  stream.  The  subcarriers  have  appropriate  spacing  and  pass  band  filter  shape  to  satisfy 
+orthogonality.  As  compared  to  classical  parallel  data  system,  frequency  division  multiplexing  (FDM),  where  a  guard  band 
+is  necessary  between  the  subcarriers  which  results  in  an  inefficient  usage  of  spectrum. 
+
+
+Transmitter 
+
+
+i/p 
+
+ ► 
+
+ ► 
+
+ *■ 
+
+ » 
+
+data 
+
+S/P 
+
+IFFT 
+
+CP 
+inserter 
+
+ *■ 
+
+ > 
+
+Channel 
+
+
+CP 
+remover 
+
+
+Receiver 
+Figure  1:  ODFM  System  Block 
+
+The  schematic  diagram  of  the  OFDM  system  is  depicted  in  Figure  1.  Each  OFDM  symbol  can  be  generated  as 
+follows  [4].  The  bit  stream  is  split  into  parallel  data  streams  using  the  serial -to-  parallel  (S/P)  converter.  Afterwards,  the 
+parallel  streams  are  passed  into  an  inverse  fast  Fourier  transformation  (IFFT)  to  generate  a  time  sequence  of  the  streams. 
+Subsequently,  the  OFDM  symbol  time  sequences  are  extended  by  adding  a  cyclic  extension  called  the  cyclic  prefix  (CP). 
+The  CP  is  a  copy  of  the  last  part  of  the  symbol  that  is  added  in  the  beginning  of  the  sequences  and  should  be  larger  than  the 
+network  delay  spread  in  order  to  mitigate  the  inter-symbol  interference  (ISI)  generated  by  the  arrival  of  different  OFDM 
+symbols  with  different  delay.  The  resulting  digital  signal  is  converted  into  an  analogue  one  and  transmitted  through  the 
+channel. 
+
+At  the  receiver  side,  the  signal  is  reconverted  again  into  digital  one  and  the  fast  Fourier  transformation  (FFT)  is 
+performed  on  the  received  streams  after  removing  the  CP.  Finally,  the  parallel  streams  are  gathered  into  single  stream  as 
+the  original  transmitted  one.  The  OFDM  baseband  equivalent  is  formed  by  taking  the  inverse  discrete  Fourier  transform 
+(IDFT)  to  a  set  of  complex  input  symbols  {Xk}  and  adding  a  cyclic  prefix  [5].  This  can  be  written  mathematically  as 
+
+x&O  =  SftEiEzWt"  -  lT)e^-*-aw  (1) 
+
+Where  {k}  is  the  set  of  data  subcarrier  indices  and  is  a  subset  of  the  set  {0,  1,  ■  ■  ■  ,N  -  1},  N  is  the  IDFT  size,  C 
+is  the  length  of  the  cyclic  prefix  in  number  of  samples,  and  T  =  C  +  N  is  the  length  of  the  OFDM  symbol  in  number  of 
+
+
+o/p 
+data 
+
+
+P/S 
+
+4  
+
+FFT 
+
+4  
+
+<  
+
+<  
+
+<  
+
+■4  
+
+BER  Performance  Analysis  of  OFDM  in  Cognitive  Radio  Network  in  Rayleigh  Fading  Channel 
+
+
+113 
+
+
+samples.  1  denotes  the  1th  OFDM  symbol  while  gT  (n)  is  a  rectangular  pulse  shape  that  can  be  expressed  as  any  two 
+subcarriers  in  OFDM  are  orthogonal  in  the  time  interval  T. 
+
+«  =  <U  r-i 
+
+otherwise 
+
+
+OFDM  SIGNAL  TO  NOISE  RATIO  (SNR)  ANALYSIS  IN  RAYLEIGH  FADING  CHANNEL 
+
+The  SNR  is  defined  as  the  ratio  of  the  desired  signal  power  to  the  noise  power  [6].  The  SNR  indicates  reliability 
+of  transmission  link  between  the  transmitter  and  receiver,  and  is  accepted  as  a  standard  measure  of  signal  quality.  The 
+mean  SNR  can  be  given  by  the  ratio  of  the  mean  signal  power  and  mean  noise  power  as  follows  [7]: 
+
+where  £(•)  denotes  an  expectation  operator  and  ^denotes  the  SNR  at  Fth  subchannel.  Suppose  we  consider  a 
+frequency  non-selective  slow  fading  channel,  i.e.  flat  channel  response,  where  the  channel  magnitude  response  E(\Hi\2)  is 
+flat  over  the  spectrum  band.  The  deactivation  of  subcarriers  due  to  incumbent  users  will  result  in  a  non-zero  ISO.  This 
+would  also  filter  out  a  portion  of  the  channel  magnitude  response,  which  results  in  an  increase  in  the  magnitude  of 
+E(\Hi\2).  Then,  the  SNR  gain  is  given  by: 
+
+=-10tofflo(l  -  a)  (4) 
+Where  jY^  =  Noise  power  spectral  density 
+B  =  Bandwidth 
+
+ff  =  Incumbent  Spectral  occupancy  (ISP) 
+
+In  case  of  frequency  selective  multipath  channel,  the  channel  magnitude  response  E(\Hi\2)  is  not  flat  over  the 
+spectrum.  Thus,  deactivating  a  portion  of  the  spectrum  would  also  flatten  a  portion  of  the  channel  magnitude  response, 
+which  results  in  a  random  increase  in  the  magnitude  of  E(\Hi\2). 
+
+PULSE  SHAPING  APPROACH  IN  OFDM 
+
+In  spite  of  various  advantages  OFDM  suffer  from  one  major  drawback  Inter  Carrier  Interference  (ICI)  [8].  When 
+ICI  is  increased  than  orthogonality  in  OFDM  transmission  can  no  longer  be  maintained.  Various  researchers  are  working  to 
+minimize  the  effect  of  ICI  in  OFDM  transmission.  We  are  going  to  discuss  two  pulse  shaping  approach  in  OFDM  so  that 
+ICI  can  be  minimized. 
+
+Improved  Sine  Power  Pulse  (ISP) 
+
+The  purpose  of  pulse  shaping  is  to  reduce  the  main  lobe  as  well  as  side  lobe,  as  the  side  lobes  contain  the  ICI 
+power  and  the  main  lobe  contains  peak  power.  The  improved  sine  power  pulse  (ISP)  is  inspired  from  the  conventional  SP 
+pulse  shape  [9].  The  conventional  sine  pulse  is  defined  below. 
+
+PSp(f)  =  sincm  (fT)  (5) 
+
+
+114 
+
+
+Sonali  Gupta  &  Arun  Kumar 
+
+
+The  Fourier  transform  of  the  continuous  time  Improved  Sine  power  pulse  (ISP)  is  described  by  modifying  SP  as 
+
+follows. 
+
+PISP(f)  =  exp{ -a(fT)2}sincm  (fT)  (6) 
+
+Where  'a'  is  a  design  parameter  to  adjust  the  amplitude  and  m  is  the  degree  of  the  sine  function.  It  is  observed  that 
+the  magnitude  spectral  of  side  lobe  is  maximum  for  rectangular  pulse  and  minimum  for  ISP  pulse  shapes. 
+
+Raised  Cosine  Filter 
+
+The  raised-cosine  filter  is,  a  good  candidate  to  be  used  for  OFDM  sidelobe  suppression  due  to  its  ability  to 
+minimize  inter  carrier  interference  (ICI)  as  well  as  its  relatively  straightforward  implementation  based  on  mathematically 
+tractable  expressions.  The  ideal  raised-cosine  filter  impulse  response  is  defined  as  [6]: 
+
+/t\  COEl,— j 
+
+h(t)  =  sine  \~ J      4pafs  (7) 
+1  T* 
+
+Where  T  is  the  reciprocal  of  the  symbol  rate. 
+
+The  frequency  response  of  an  ideal  raised-cosine  filter  consists  of  unity  gain  at  low  frequencies,  a  raised-cosine 
+function  in  the  middle  frequencies,  and  really  total  attenuation  at  high  frequencies.  The  width  of  the  middle  frequencies  is 
+defined  by  the  roll  off  factor  P,  where  0  <  P  <  1.  The  term  P  is  a  measure  of  the  excess  bandwidth  (BW)  of  the  filter,  i.e., 
+the  BW  occupied  beyond  the  Nyquist  BW  of  1/2T.  Mathematically,  the  frequency  response  of  a  raised-cosine  filter  can  be 
+written  as  [11] 
+
+
+H(f) 
+
+
+T 
+
+
+2T 
+
+i+Hrli"-^)]'^*"1^ 
+
+
+27"         '  2T 
+
+^0  otherwise 
+
+
+Using  the  Fourier  transform  pair  h(t)<—F  —>H(f),  we  can  modulate  H(f)  to  the  center  frequency  fc  by  multiplying 
+h(t)  by  a  factor  of  elnfct.  Therefore,  the  new  raised-cosine  filter  impulse  response  becomes 
+
+1  (9) 
+
+SIMULATION  RESULTS 
+
+In  this  paper,  we  have  evaluated  the  BER  performance  of  an  OFDM  system  with  two  digital  modulation  schemes, 
+namely  BPSK  (Binary  Phase  Shift  Keying)  and  QPSK  (Quadrature  Phase  Shift  Keying)  [10],  over  a  Rayleigh  fading 
+channel.  OFDM  is  a  powerful  modulation  technique  to  achieve  high  data  rate  and  is  able  to  eliminate  inter  symbol 
+interference  (ISI).  It  is  computationally  efficient  due  to  its  use  of  FFT  techniques  for  implementing  modulation  and 
+demodulation  functions.  The  simulation  parameters  used  for  the  model  are  as  given  below. 
+
+Simulation  work  is  done  using  MATLAB.  Simulated  and  theoretical  SNR  Verses  BER  curves  for  BPSK  and 
+QPSK  modulation  schemes  are  shown  in  figure  2  and  3.  BER  performance  of  QPSK  is  better  than  BPSK.  It  is  clear  from 
+the  report  of  federal  communication  commission  that  using  QPSK  data  can  be  transmitted  at  twice  of  data  rate  as  compared 
+
+
+BER  Performance  Analysis  of  OFDM  in  Cognitive  Radio  Network  in  Rayleigh  Fading  Channel 
+
+
+115 
+
+
+to  BPSK  modulation.  The  greatest  penalty  that  is  paid  for  using  QPSK  is  that  QPSK  transmitters  and  receivers  are  very 
+much  complicated  and  costly  in  comparison  to  BPSK. 
+
+We  have  chosen  BPSK  modulation  scheme  when  pulse  shaping  scheme  for  ICI  cancelation  are  applied.  The  pulse 
+shaping  technique  is  applied  to  OFDM  system  with  a  fixed  normalized  frequency  offset  value  AfT  =  0.25.  Pulse  shapes  RC 
+with  roll  off  rate  fi=  0.5  and  ISP  with  different  design  parameters  (m=2,  a=0.5,  1)  are  considered  in  this  simulation.  From 
+
+figure  4  it  is  clear  that  BER  can  be  improved  when  using  raised  cosine  filter  for  ICI  reduction.  Further  improvement  in 
+BER  can  be  achieved  when  using  ISP.  Hence  with  the  proposed  pulse  shaping  approach  drawback  of  OFDM  system,  i.e. 
+ICI  are  reduced.  So  performance  enhancement  of  the  OFDM  system  is  observed. 
+
+
+Table  1 
+
+
+Parameter 
+
+Specification 
+
+IFFT  size 
+
+64 
+
+No  of  carrier  in  OFDM  symbol 
+
+52 
+
+Channel 
+
+Rayleigh 
+
+Frequency  Offset  value 
+
+0.25 
+
+Modulation 
+
+BPSK/  QPSK 
+
+Otoibtbi  oYEEF:  fjrvjPCI  HvFDM 
+10  p  ,  ,  ,  ,  , — 
+
+
+1 1 1 
+1 1 1 
+
+1 1 1 
+1 1 1 
+.Li  L 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+JJ  L 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+.U  L 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+JJ  L 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+1 1 1 
+
+— * —  TVijrttfcal  : 
+
+.  i  i  i  i  
+
+._  i  i  i  i  
+
+""GL.           i                   i                   i  i 
+
+■  _  ^r£r_~  i  i  i  i  
+
+-  .                                                 1                            1  1 
+
+E  =  =  =        =  _ ?t- c  :  :  ::  :c  :  :  ::  :c  ::  ::  : 
+
+■  r  - ~  - 1  1  
+
+i             i          ^tJl..  1 
+
+z  z  z  z  z  3 
+
+■  1  1  1  :.7:  
+
+.  i  i  i  _T:*f  _  -  "t:- 
+
+i             i             i             i  ^t-t 
+
+i             i             i  i 
+
+■  1  1  1  1  
+
+i             i             i  i 
+■             i             i  i 
+
+0  5  10  15  20  25  30  35 
+
+Figure  2:  Simulated  and  Theoretical  Bit  Error  Rate  of  QPSK  in  OFDM  in  Rayleigh  Fading  Channel 
+
+
+BftenrjrpirjualJrv  ciue  tor  BPSK  isligO 
+
+FDM 
+
+f::::i::::3::::?:::::r::::r::::3 
+
+srrnfttsrt  \ 
+-e-  tfcforntal  - 
+
+.  i  i  i  i  i  , 
+
+j             7             i             i              i  i 
+i             i             i              i  i 
+
+i 
+i 
+
+LLL 
+
+1                        1        "^m-           1                         1  1 
+
+1 
+
+ 1  
+
+1  1  1  1 
+
+1  1  1  1 
+-i-i  I-I 
+1  1  1  1 
+
+1  1  1  1 
+1  1  1  1 
+J  J  LI 
+1  1  1  1 
+
+1  1  1  1 
+1  1  1  1 
+
+J  J  L\ 
+
+1 1 1 1 
+
+i  i  i  i 
+i  i  i  i 
+i  i  i  i 
+
+ 1  
+
+;  =  =  =  =  2  =  =  =  =  a  =  =  =  =  =i=  =  =  =  =  E  =  =         =  =  =  : 
+
+ 1  
+
+:::::  i  :::::::::  d:  :::  :c  ::  :  z  C-z  z-~  z  □ 
+
+1  1  1  1 
+1  1  1  1 
+1  1  1  1 
+
+■  JU 
+1  1 1 1 
+1  1 1 1 
+1  1 1 1 
+
+1  III! 
+
+i         i         i         i  i 
+
+.  i  i  i  i  i  i 
+
+::::: i ::::::::: ji ::: :c ::::::::: ] 
+
+iii            ii  ii 
+■           i           i            i           i            i  i 
+
+I  I  I  I  I  I  I  I  
+
+0         5         10        15         3D        25         30        35  40 
+CNF 
+
+
+Figure  3:  Simulated  and  Theoretical  Bit  Error  Rate  of  BPSK  in  OFDM  in  Rayleigh  Fading  Channel 
+
+
+116 
+
+
+Sonali  Gupta  &  Arun  Kumar 
+
+
+I  i  i  i  i  i  i  I 
+
+J  G  1D  1t  30  25  3d  a 
+
+
+Figure  4:  BER  Performance  of  BPSK-OFDM  System  for  without  and  with  Pulse  Shaping  AfT=  0.25 
+REFERENCES 
+
+1.  Federal  Communications  Commission,  "Spectrum  policy  task  force  report,"  ET  Docket  No.  02-135,  2002. 
+
+2.  Mitola  J.,  Maguire  G.:  „Cognitive  radio:  making  software  radios  more  personal",  IEEE  Pers.  Communications, 
+1999,6,  (4),  pp.  13-18. 
+
+3.  J.  A.  C.  Bingham,  "Multicarrier  modulation  for  data  transmission:  an  idea  whose  time  has  come,"  IEEE  Commun. 
+Mag.,  vol.  28,  pp.  5-14,  May  1990. 
+
+4.  R.  Rajbanshi,  "OFDM-based  cognitive  radio  for  DSA  networks",  Ph.D.  Thesis,  University  of  Kansas,  Lawrence, 
+Kan,  USA,  2007. 
+
+5.  S.  B.  Weinstein  and  P.  M.  Ebert,  "Data  transmission  by  frequency  division  multiplexing  using  the  discretefourier 
+transform,"  IEEE  Trans.  Commun.  Technol.,  vol.  19,  pp.  628  -  634,  Oct  1971. 
+
+6.  J.  G.  Proakis,  Digital  Communications.  New  York,  NY:  McGraw  Hill,  2001. 
+
+7.  T.  S.  Rappaport,  Wireless  Communications:  Principles  and  Practice.  Upper  Saddle  River,  NJ,  USA:  Prentice 
+Hall,  1996. 
+
+8.  X.  CAI  and  G.  B.  Giannakis,  "Low-complexity  ICI  suppression  for  OFDM  over  time-  and  frequency  selective 
+Rayleigh  fading  channels,"  in  Proc.  Asilomar  Conf.  Signals,  Systems  and  Computers,  Nov.  2002. 
+
+9.  H.  M.  Mourad,  "Reducing  ICI  in  OFDM  Systems  using  a  Proposed  Pulse  Shape,"  Wireless  Person. 
+Communication,  Vol.  40,  pp.  41^18,  2006. 
+
+10.  V.  Kumbasar  and  O.  Kucur,  "ICI  Reduction  in  OFDM  Systems  by  using  Improved  Sine  Power  Pulse,"  Digital 
+Signal  Processing,  Vol.17,  Issue  6,  pp.  997-1006,  Nov.  2007. 
+
+11.  Sami  H.  O.  Salih,  Mamoun  M.  A.  Suliman,  "Implementation  of  Adaptive  Modulation  and  Coding  Techniques 
+using  Matlab,"  53rd  International  Symposium  ELMAR-201 1,  14-16  September  201 1,  Zadar,  Croatia. 
+
+

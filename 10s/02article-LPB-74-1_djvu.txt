@@ -1,0 +1,836 @@
+VERSITA 
+
+DOI:  10.2478/frp-2013-0002 
+
+
+Forest  Research  Papers 
+
+March  2013,  Vol.  74(1):  13-16. 
+
+
+ORIGINAL  RESEARCH  ARTICLE 
+
+
+Electrophysiological  characteristics  of  undergrowth  shrubs 
+in  the  forest-steppe  zone  of  western  Ukraine 
+
+
+Taras  V.  Bondarenkou 
+
+Ukrainian  National  Forestry  University 
+79057  Lviv,  103  Gen.  Chuprynka  str. 
+
+El  Tel.  +38  0322352269;  e-mail:  bondarenko.lw@gmail.com 
+
+Abstract.  The  article  reviews  the  electrophysiological  characteristics  of  pre-cambial  phloem  material  in  undergrowth 
+shrubs.  The  electrophysiological  properties  of  hazel  ( Coiylus  avellana  L.),  elder  ( Sambucus  nigra  L.)  and  other  un- 
+dergrowth shrubs  are  compared,  as  well  as  how  these  characteristics  change  depending  on  stand  density  indices. 
+Differences  in  electrophysiological  characteristics  reveal  the  crucial  role  of  light  for  the  growth,  development,  and 
+persistence  of  undergrowth  shrubs.  I suggest  that  a quantitative  assessment  of  electrophysiological  characteristics 
+should  be  undertaken  when  managing  forest  stands  for  the  creation  of  desirable  undergrowth. 
+
+Key  words:  electrophysiological  characteristics,  dielectric  parameters,  understorey,  impedance,  polarization  capacity, 
+shrubs,  stand  density. 
+
+
+1.  Introduction 
+
+An  understorey  is  an  important  element  of  the  forest 
+ecosystem  (Morozov  1926;  Ivanitsky  1939;  Vysockyj 
+1983;  Gil  2010).  While  biological  characteristics  of  un- 
+dergrowth shrubs  have  been  a subject  of  the  accurate 
+research,  their  electrophysiological  characteristics  such 
+as  bioelectrical  potential  (impedance  and  polarization 
+capacity)  have  been  less  studied.  In  environmental  re- 
+search such  characteristics  are  commonly  used  regard- 
+ing trees  (Mac  Dougall  1988;  Krynic’kyj  1992;  Zaika 
+2004;  Lavnyj,  Krynic’kyj  2011)  as  integral  indices  of 
+the  intensity  and  specific  character  of  day’s,  seasonal 
+and  ontogenetic  physiological  and  biochemical  proc- 
+esses. These  characteristics  are  also  used  to  characterize 
+general  plants’  condition. 
+
+The  pre-cambial  group  of  tree  and  shrub  tissues  con- 
+sists of  cambium,  phloem,  and  sapwood.  These  tissues 
+are  characterized  by  high  physiological  activity.  They 
+are  susceptible  to  plants’  condition  changes  and  are 
+easily  detected  by  measurement  instrument’s  sensors. 
+
+
+Their  electrical  characteristics  differ  significantly  from 
+the  characteristics  of  other  tissues.  The  obtained  results 
+of  Mac  Dougall’s  (1988),  Krynicki’s  (1992),  Zaika’s 
+(2004),  and  Lavnyja  and  Krynicki’s  (2011)  research 
+have  indicated  that  impedance  and  polarization  capacity 
+correlate  either  moderately  or  closely  with  intensity  of 
+the  tree  growth  in  various  growth  stages  of  the  stand, 
+with  the  phytomass  growth,  plants’  location,  and  with 
+the  extent  of  tree  damages  caused  by  insects.  Impedance 
+of  pre-cambial  tissues  of  trees  in  the  predominant  layer 
+is  lower  than  that  of  trees  in  other  layers.  Moreover, 
+there  is  a distinct  relation  between  polarization  capac- 
+ity, growth,  and  biomass  of  the  assimilation  apparatus. 
+Electrophysiological  characteristics  of  the  understorey 
+have  not  been  studied  yet,  either  in  the  forest-steppe 
+zone  of  western  Ukraine  or  in  the  rest  of  the  natural  zone 
+of  the  region.  The  aim  of  this  study  was  to  compare  the 
+electrophysiological  characteristics  (impedance  and  po- 
+larization capacity)  of  shrub  tissues  in  the  understorey 
+of  the  Carpinetum  betuli  in  the  forest-steppe  zone  of 
+western  Ukraine. 
+
+
+Received  3 July  2012,  accepted  after  revision  17  October  2012 
+© 2013,  Forest  Research  Institute 
+
+
+14 
+
+
+T.V.  Bondarenko  / Forest  Research  Papers,  2013,  Vol.  74  (1);  13-16. 
+
+
+2.  Research  subject 
+
+Research  was  conducted  in  Tarnopol  region,  in  the 
+“Medobory”  reservoir  (Wiknianskie  forest  district)  and 
+in  Tarnopolskie  forest  inspectorate  (Mykulyneckie  for- 
+est district).  This  is  a composition  of  the  “Medobory” 
+reservoir  (Wiknianskie  forest  district),  where  the  hazel 
+understorey  was  found:  lODb  (10  Oak)  and  admixture 
+of  species  such  as  hornbeam,  lime,  and  northern  red 
+oak.  Stand  density  index  was  0.7,  and  age  60  years. 
+Research  of  the  black  elder  understorey  was  conduct- 
+ed in  Wiknianskie  forestry  district,  quarter  18,  Gostra 
+Mountain,  in  the  middle  age  Carpinetum  betuli  3Db7Gb 
+(3  Oak  7 Hardwood).  Studies  of  electrophysiologi- 
+cal  characteristics  of  shrub  species  were  conducted  in 
+two  places  in  Wiknianskie  forest  district:  1)  in  the  first 
+age  class  thicket  after  early  cleaning,  2)  in  full-grown 
+broad-leaved  stand.  There  were  12  shrub  species  in  the 
+greenwood  without  a forest  canopy:  common  hazel 
+( Corylus  avellana  L.),  European  spindle  (Euonymus 
+europaea  L.)  and  Euonymus  verrucosus  Scorp.,  black 
+elder  ( Sambucus  nigra  L.),  common  dogwood  ( Cornus 
+sanguinea  L.),  alder  buckthorn  (Frangula  alnus  Mill.), 
+common  buckthorn  ( Rhamnus  cathartica  L.),  black- 
+
+
+thorn ( Prunus  spinosa  L.),  dog  rose  ( Rosa  canina  L.), 
+water  elder  ( Viburnum  opulus  L.),  Spiraea  L.,  and  com- 
+mon hawthorn  ( Crataegus  monogyna  Jacq.). 
+
+The  broad-leaved  stand,  where  a number  of  shrub 
+species  were  found  under  the  forest  canopy  (common 
+hazel,  common  spindle,  Euonymus  verrucosus  Scorp., 
+black  elder,  common  dogwood,  and  common  haw- 
+thorn), was  characterized  as  the  Carpinetum  betuli  in 
+the  fresh  deciduous  site  type  of  the  locally  variable 
+species  composition:  English  oak  - 20-30%,  European 
+ash  - 10-20%,  Norway  maple  - 10-20%,  hornbeam  - 
+30-60%.  The  stand  was  the  first  age  class  - ‘growing- 
+full-grown’.  There  was  0.7-0. 8 hedge  of  the  stand. 
+
+3.  Methodology 
+
+Dielectric  parameters  of  pre-cambial  plant  tissues 
+(impedance  and  polarization  capacity)  were  measured  by 
+the  measuring  instrument  RLC-F4320.  Measurements 
+were  conducted  at  frequency  1 kHz.  Electrodes  were 
+placed  into  the  plants’  phloems  at  height  0.20  m at  the 
+land  level.  Distance  between  the  electrodes  was  2 cm 
+(Krynicki  1992). 
+
+
+Table  1.  Dielectric  parameters  of  undergrowth  shrubs  in  stands  with  different  stand  density  index 
+
+
+Stand  density  index 
+
+Impedance 
+
+Polarization  capacity 
+
+M±m, 
+
+kDm 
+
+% 
+
+v,% 
+
+M±m,  nF 
+
+% 
+
+tf 
+
+V,% 
+
+Hazel,  Mykulyneckie  forest,  compartment  20,4  (9.07.2010) 
+
+stand  edge  - control) 
+
+22,9±1,7 
+
+100,0 
+
+0,00 
+
+48,2 
+
+1,49±0,12 
+
+100,0 
+
+0,00 
+
+51,6 
+
+0,4 
+
+20,6±1,3 
+
+90,0 
+
+1,07 
+
+39,2 
+
+2,08±0,13 
+
+139,6 
+
+3,33 
+
+37,9 
+
+0,8 
+
+41,2±4,6 
+
+179,9 
+
+3,73 
+
+45,7 
+
+1,16±0,18 
+
+77,9 
+
+1,53 
+
+64,2 
+
+Elder,  Wiknianskie  forest,  compartment  29,9  (8.07.2010) 
+
+stand  edge  - control) 
+
+5,6±0,2 
+
+100,0 
+
+0,00 
+
+11,1 
+
+3,59±0,13 
+
+100,0 
+
+0,00 
+
+13,0 
+
+0,5 
+
+1 1 ,6±0,9 
+
+207,1 
+
+6,51 
+
+40,2 
+
+2,39±0,28 
+
+42,7 
+
+9,33 
+
+59,9 
+
+0,6 
+
+11,1±0,6 
+
+198,2 
+
+8,70 
+
+27,9 
+
+1,87±0,12 
+
+66,6 
+
+3,89 
+
+32,0 
+
+0,7 
+
+13,8±1,0 
+
+246,4 
+
+8,04 
+
+28,8 
+
+1,65±0,10 
+
+46,0 
+
+11,83 
+
+25,2 
+
+0,8 
+
+16,3±1,6 
+
+291,1 
+
+6,64 
+
+31,5 
+
+1,50±0,11 
+
+41,8 
+
+12,27 
+
+22,7 
+
+0,9 
+
+17,8±0,7 
+
+317,9 
+
+16,76 
+
+19,8 
+
+1,44±0,05 
+
+40,1 
+
+15,44 
+
+15,3 
+
+M - mean  value 
+m - mean  value  error 
+tf-  TF  value 
+
+V—  Coefficient  of  variation 
+Confidence  interval  at  a=0,05  is  2,00-2,20 
+
+
+T.V.  Bondarenko  / Forest  Research  Papers,  2013,  Vol.  74  (1);  13-16. 
+
+
+15 
+
+
+In  regard  to  the  most  common  species  in  the  re- 
+gion - common  hazel  ( Corylus  avellana  L.)  and  black 
+elder  ( Sambucus  nigra  L.)  - their  persistence  was  de- 
+fined depending  on  the  hedge.  There  were  20  repetitions 
+on  average.  Student’s  t-test  was  used  for  the  statistical 
+analysis. 
+
+4.  Results  and  discussion 
+
+Research  results  of  dielectric  parameters  of  the 
+common  hazel  and  black  elder,  depending  on  a hedge 
+of  the  stand,  are  presented  in  table  1 . Measurement  re- 
+sults (tab.l)  indicate  that  dielectric  parameters  of  the 
+common  hazel  and  black  elder  change  significantly 
+depending  on  hedges.  In  regard  to  common  hazel. 
+
+
+impedance  parameters  fluctuate  within  the  scope  of 
+22.9-41.2  k£2m,  and  polarization  capacity  within 
+1.16-2.08  nF.  There  is  considerably  lower  impedance 
+(circa  10%)  observed  and  significantly  higher  polariza- 
+tion capacity  (circa  39,6%)  in  the  stand  of  0.4  hedge  than 
+in  the  control  environment  (the  stand  edge).  Growing 
+conditions  and  hazel’s  persistence  get  worse  in  conjunc- 
+tion with  the  higher  hedge.  When  there  is  0.8  hedge,  im- 
+pedance indicator  of  the  hazel  goes  up  to  79.9%,  and  po- 
+larization capacity  indicator  is  reduced  to  22.1%.  When 
+a hedge  is  small,  the  growing  conditions  are  the  best  for 
+common  hazel.  A variability  coefficient  of  impedance 
+is  lowest  when  there  is  0.4  hedge  (39.2%).  Though,  it  is 
+higher  both  in  the  stand  edge  (48.2%)  and  when  there 
+is  0.8  hedge  (45.7%).  A variability  coefficient  of  polari- 
+zation capacity  changes  from  37.9%  to  64.2%. 
+
+
+Table  2.  Dielectric  parameters  of  undergrowth  shrubs  in  forest  with  stand  density  index  0,7-0, 8 (in  denominator) 
+and  in  the  open-space  (in  numerator),  in  forest  district  Wilknianskie,  compartment  18,  Gostra  Mountain;  27.06.2011) 
+
+
+Stand  density  index 
+
+Impedance 
+
+Polarization  capacity 
+
+M±m, 
+
+kfim 
+
+% 
+
+k 
+
+V,% 
+
+M±m,  nF 
+
+% 
+
+v,% 
+
+Corylus  avellana  L. 
+
+34,4±1,0 
+
+48,0±6,6 
+
+100,0 
+
+139,5 
+
+0,00 
+
+2,04 
+
+14,9 
+
+36,5 
+
+1,05±0,06 
+
+0,56±0,08 
+
+100,0 
+
+53,3 
+
+0,00 
+
+4,90 
+
+27,0 
+
+38,2 
+
+Euonymus  europaea  L. 
+
+8,5±0,4 
+
+100,0 
+
+0,00 
+
+24,4 
+
+3,14±0,24 
+
+100,0 
+
+0,00 
+
+38,9 
+
+35,6±4,0 
+
+418,8 
+
+6,74 
+
+33,8 
+
+1,26±0,16 
+
+40,1 
+
+6,52 
+
+38,8 
+
+Euonymus  verrucosus  Scop. 
+
+23,4±1,5 
+
+100,0 
+
+0,00 
+
+31,0 
+
+1,55±0,12 
+
+100,0 
+
+0,00 
+
+38,8 
+
+36,5±2,6 
+
+156,0 
+
+4,36 
+
+35,9 
+
+0,69±0,06 
+
+44,5 
+
+6,41 
+
+41,9 
+
+Sambucus  nigra  L. 
+
+9,6±1,1 
+
+100,0 
+
+0,00 
+
+19,3 
+
+2,55±0,26 
+
+100,0 
+
+0,00 
+
+17,4 
+
+31,5±4,6 
+
+328,1 
+
+4,63 
+
+25,5 
+
+1,25±0,09 
+
+49,0 
+
+4,72 
+
+12,0 
+
+Cornus  sanguinea  L. 
+
+13,4±1,1 
+
+100,0 
+
+0,00 
+
+42,5 
+
+2,51±0,13 
+
+100,0 
+
+0,00 
+
+25,5 
+
+26,5±1,4 
+
+197,8 
+
+7,36 
+
+22,2 
+
+0,67±0,05 
+
+26,7 
+
+13,21 
+
+28,2 
+
+Frangula  alnus  Mill. 
+
+19,1±2,4 
+
+100,0 
+
+0,00 
+
+28,0 
+
+1,36±0,25 
+
+100,0 
+
+0,00 
+
+41,4 
+
+28,8±2,9 
+
+150,8 
+
+2,58 
+
+20,1 
+
+0,95±0,27 
+
+69,9 
+
+1,11 
+
+56,8 
+
+Rhamnus  cathartica  L. 
+
+11,1±1,9 
+
+42,7 
+
+3,37±0,65 
+
+47,2 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Prunus  spinosa  L. 
+
+17,1±0,9 
+
+- 
+
+- 
+
+23,6 
+
+2,46±0,16 
+
+- 
+
+- 
+
+29,1 
+
+Rosa  canina  L. 
+
+19,4±1,4 
+
+34,8 
+
+1,69±0,12 
+
+34,6 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Viburnum  opulus  L. 
+
+12,7±1,4 
+
+- 
+
+- 
+
+24,3 
+
+2,50±0,28 
+
+- 
+
+- 
+
+25,5 
+
+Crataegus  monogyna  Jack. 
+
+22,6±2,0 
+
+36,1 
+
+1,20±0,14 
+
+45,6 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Spirea  sp. 
+
+51,1±1,7 
+
+16,4 
+
+0,54±0,03 
+
+25,0 
+
+- 
+
+- 
+
+- 
+
+- 
+
+For  symbols  see  Table  1 
+
+Confidence  interval  at  a=0,05  is  2,00-2,18 
+
+
+16 
+
+
+T.V.  Bondarenko  / Forest  Research  Papers,  2013,  Vol.  74  (1);  13-16. 
+
+
+Dielectric  parameters  of  the  black  elder  were  stud- 
+ied in  the  stand  edge  (control)  and  when  there  was 
+0.5-0. 9 hedge  (tab.l).  An  increase  of  impedance  and 
+a reduction  of  polarization  capacity  of  elder  tissues  are 
+observed  as  the  hedge  increases.  Therefore,  impedance 
+of  the  black  elder  in  the  stand  edge  is  5.6  kflm,  and  under 
+the  forest  canopy  of  the  various  hedges  it  is  2. 0-3. 2 fold 
+higher.  Polarization  capacity  indices  of  the  black  elder 
+under  the  forest  canopy  are  significantly  lower  - circa 
+33.4-59.9%  - than  in  the  control. 
+
+The  most  favorable  growing  conditions  for  black 
+elder  are  in  the  stand  edge.  Under  the  forest  canopy, 
+elder’s  condition  get  worse  as  the  hedge  increases. 
+
+Dielectric  parameters  variability  coefficients  of  the 
+black  elder  in  the  control  and  in  researched  alternatives 
+vary  between  11.1  and  59.9%.  The  lowest  coefficients 
+are  in  the  control  and  in  the  stand  of  0.9  hedge. 
+
+In  order  to  determine  the  influence  of  phytocenosis 
+coefficients  on  undergrowth  species  and  their  persist- 
+ence, research  on  dielectric  parameters  in  the  open- 
+space  and  under  the  forest  canopy  of  0.7-0. 8 hedge  was 
+conducted.  The  results  are  presented  in  table  2. 
+
+The  results  presented  in  table  2 show  that  impedance 
+parameters  of  shrubs  in  the  open-space  and  under  the 
+forest  canopy  differ  statistically  significantly.  The  low- 
+est values  of  impedance  and  high  values  of  polarization 
+capacity  are  observed  regarding  all  shrub  species  in  the 
+open-space.  Impedance  indices  of  hazel  growing  under 
+the  forest  canopy  are  39.5%  higher,  Euonymus  verru- 
+cosus Scop.  - 56%  higher,  alder  buckthorn  - 50.8%, 
+European  spindle  - 4 fold  higher,  black  elder  - over 
+3 fold  higher,  and  common  dogwood  - almost  twice  fold 
+higher.  Polarization  capacity  indices  of  hazel  growing 
+under  the  forest  canopy  were  26.7-69.9%  lower  than  in 
+the  control  (the  open-space).  The  obtained  results  indi- 
+cate lower  intensity  of  shrub  metabolic  processes  under 
+the  forest  canopy  of  0.7-0  hedge  than  in  the  open-space. 
+The  results  show  that  shrub  impedance  varies  between 
+11.1  and  51.1  kOm  in  the  open-space,  and  polarization 
+capacity  between  0.54  and  3.37%  (tab.  2).  Variability 
+of  shrub  dielectric  parameters  varies  between  14.9  and 
+47.2%  in  the  open-space. 
+
+
+5.  Conclusion 
+
+In  the  open-space  we  observed  differences  in  the 
+shrub  growth  conditioned  genetically  which  indicates 
+influence  on  electrophysiological  characteristics  pre- 
+sented in  the  article.  European  spindle,  black  elder,  and 
+common  buckthorn  are  characterized  by  low  impedance 
+and  high  polarization  capacity.  Spiraea  and  common 
+hazel  are  characterized  by  high  impedance  and  low  po- 
+larization capacity.  High  variability  of  impedance  pa- 
+rameters and  polarization  capacity  is  characteristic  for 
+common  buckthorn,  common  dogwood,  and  common 
+hawthorn.  Spiraea  and  common  hazel  are  character- 
+ized by  low  variability  of  impedance  and  polarization 
+capacity.  The  observed  differences  in  electrophysiologi- 
+cal characteristics  reveal  the  crucial  role  of  light  for  the 
+growth,  development,  and  persistence  of  undergrowth 
+shrubs.  I suggest  that  a quantitative  assessment  of  the 
+electrophysiological  characteristics  should  be  undertak- 
+en when  managing  forest  stands  cultivation  and  while 
+creating  shrub  layer. 
+
+References 
+
+Gil  W.  2010.  Krzewy  w gospodarce  lesnej  / krzewy  polskich 
+lasow.  Warszawa,  Panstwowe  Wydawnictwo  Rolnicze 
+i Lesne.  ISBN  9788309990260. 
+
+Ivanyckyj  R„  Zaika  V.,  Krynyc’kyj  G.  2009.  Do  pytannia 
+pryrodnogo  lisovidnovlennia  i fomiuvannia  nasadzen 
+na  pokynutyh  staroomyh  zemlah  Pivniczno-Zahidnogo 
+Podillia.  Naukovyj  visnykNLTU  Ukrainy,  19.15:  285-291. 
+Ivanyckyj  B.  1939.  Lisy  i lisove  gospodarstvo  na  Ukraini. 
+
+Praci  ukrains’kogo  naukovogo  instytutu,  t.l.  Varshava. 
+Krynyc’kyj  G.  1992.  Pro  metodyku  vykorystanniaelektrofizio- 
+logicznyh  pokaznykiv  dla  vyznaczennia  zyttezdatnosti 
+derevnyh  roslyn.  Lisove  gospodarstwo,  Usova,  paperova 
+i derevoobrobna promyslovist,  23:  3-10. 
+
+Lavnyj  V.,  Krynyc’kyj  G.  2011.  Elektrofiziologiczni  poka- 
+znyky  pidrostu  derevnyh  porid.  Naukovyj  visnyk  NLTU 
+Ukrainy,  21.17:  86-90. 
+
+Morozov  G.  1926.  Uczenie  o lese.  Leningrad,  Gosudarstvennoe 
+izd-vo. 
+
+Mac  Dougall  R.,  Maclen  D.,  Thomson  R.  1988.  The  use  of 
+electrical  capacitance  to  detennine  growth  and  vigor 
+of  spruce  and  fir  trees  and  stands  in  New  Brunswick. 
+Canadian  Journal  of  Forest  Research,  5:  587-594. 
+Vysockij  G.  1983.  Zaszczitnoe  lesorazvedenie.  Kiev,  Naukova 
+durnka. 
+
+

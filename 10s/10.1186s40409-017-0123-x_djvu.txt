@@ -1,0 +1,1707 @@
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including 
+Tropical  Diseases  (201 7)  23:34 
+DOI  1 0.1 1 86/S40409-01 7-01 23-x 
+
+
+Journal  of  Venomous  Animals  and 
+Toxins  including  Tropical  Diseases 
+
+
+RESEARCH  Open  Access 
+
+
+Mathematical  modelling  of  vector-borne 
+diseases  and  insecticide  resistance  evolution 
+
+Maria  Laura  Gabriel  Kuniyoshi*  ©  and  Fernando  Luiz  Pio  dos  Santos 
+
+
+Abstract 
+
+Background:  Vector-borne  diseases  are  important  public  health  issues  and,  consequently,  in  silico  models  that 
+simulate  them  can  be  useful.  The  susceptible-infected-recovered  (SIR)  model  simulates  the  population  dynamics  of  an 
+epidemic  and  can  be  easily  adapted  to  vector-borne  diseases,  whereas  the  Hardy-Weinberg  model  simulates  allele 
+frequencies  and  can  be  used  to  study  insecticide  resistance  evolution.  The  aim  of  the  present  study  is  to  develop  a 
+coupled  system  that  unifies  both  models,  therefore  enabling  the  analysis  of  the  effects  of  vector  population  genetics 
+on  the  population  dynamics  of  an  epidemic. 
+
+Methods:  Our  model  consists  of  an  ordinary  differential  equation  system.  We  considered  the  populations  of 
+susceptible,  infected  and  recovered  humans,  as  well  as  susceptible  and  infected  vectors.  Concerning  these  vectors, 
+we  considered  a  pair  of  alleles,  with  complete  dominance  interaction  that  determined  the  rate  of  mortality  induced 
+by  insecticides.  Thus,  we  were  able  to  separate  the  vectors  according  to  the  genotype.  We  performed  three  numerical 
+simulations  of  the  model.  In  simulation  one,  both  alleles  conferred  the  same  mortality  rate  values,  therefore  there  was 
+no  resistant  strain.  In  simulations  two  and  three,  the  recessive  and  dominant  alleles,  respectively,  conferred  a  lower 
+mortality. 
+
+Results:  Our  numerical  results  show  that  the  genetic  composition  of  the  vector  population  affects  the  dynamics  of 
+human  diseases.  We  found  that  the  absolute  number  of  vectors  and  the  proportion  of  infected  vectors  are  smaller 
+when  there  is  no  resistant  strain,  whilst  the  ratio  of  infected  people  is  larger  in  the  presence  of  insecticide-resistant 
+vectors.  The  dynamics  observed  for  infected  humans  in  all  simulations  has  a  very  similar  shape  to  real  epidemiological 
+data. 
+
+Conclusion:  The  population  genetics  of  vectors  can  affect  epidemiological  dynamics,  and  the  presence  of 
+insecticide-resistant  strains  can  increase  the  number  of  infected  people.  Based  on  the  present  results,  the  model  is  a 
+basis  for  development  of  other  models  and  for  investigating  population  dynamics. 
+
+Keywords:  Epidemiology,  Population  genetics, Tropical  diseases,  Insecticides,  Theoretical  modelling,  Numerical 
+simulation,  ODE  system 
+
+
+Background 
+
+Vector-borne  diseases  represent  one  sixth  of  the  sick¬ 
+nesses  suffered  by  the  global  population,  and  more  than 
+50%  of  the  world  is  at  risk  of  coming  down  with  them 
+[1].  One  of  the  most  common  vector-borne  diseases  is 
+dengue  fever,  as  2.5  billion  people  from  more  than  100 
+countries  are  infected  with  this  illness  [2].  Dengue  is  a 
+
+
+“Correspondence:  marialgk@aluno.ibb.unesp.br 
+
+Department  of  Biostatistics,  Institute  of  Biosciences  of  Botucatu,  Sao  Paulo 
+State  University  (UNESP  -  Universidade  Estadual  Paulista),  Street  Prof.  Dr.  Irina 
+Delanova  Gemtchujnicov,  no  number,  Rubiao  Junior,  zip  code  1 8618-693,  PO 
+box  5 1 0,  Botucatu,  SP,  Brazil 
+
+
+febrile  infectious  disease  caused  by  a  virus  of  the  fam¬ 
+ily  Flaviridae ,  which  has  four  distinct  serotypes:  DENI, 
+DEN2,  and  DEN3  DEN4.  The  transmission  mechanism 
+is  through  bites  of  female  mosquitos  from  the  genus 
+Aedes ,  especially  of  the  species  Aedes  aegypti  [3,  4].  Rapid 
+and  unorganized  urban  growth,  which  is  related  to  a 
+country’s  development  and  rural  flight,  contributes  to 
+mosquito  proliferation  and,  consequently  to  the  epidemic 
+of  this  urban  disease.  A  serious  characteristic  is  that  Aedes 
+aegypti  can  also  transmit  the  zika  and  chikungunya  virus. 
+The  triple  epidemic  dengue-zika-chikungunya  coexists  in 
+many  endemic  areas  [5].  Despite  all  efforts,  developing 
+
+
+O©  The  Author(s).  201 7  Open  Access  This  article  is  distributed  under  the  terms  of  the  Creative  Commons  Attribution  4.0 
+BioMed  Central  International  License  (http://creativecommons.Org/licenses/by/4.0/),  which  permits  unrestricted  use,  distribution,  and 
+
+reproduction  in  any  medium,  provided  you  give  appropriate  credit  to  the  original  author(s)  and  the  source,  provide  a  link  to  the 
+Creative  Commons  license,  and  indicate  if  changes  were  made.  The  Creative  Commons  Public  Domain  Dedication  waiver 
+(http://creativecommons.Org/publicdomain/zero/1 .0/)  applies  to  the  data  made  available  in  this  article,  unless  otherwise  stated. 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  2  of  14 
+
+
+new  tools  and  improving  the  existing  strategies  is  very 
+important,  necessary  and  still  far  from  ideal 
+
+Therefore,  it  is  relevant  to  create  models  to  simulate  the 
+phenomenology  of  epidemic  diseases  and  to  understand 
+the  respective  dynamics.  This  kind  of  in  silico  research, 
+performed  entirely  on  computer,  is  supposed  to  be  very 
+advantageous.  As  mathematical  modelling  and  numeri¬ 
+cal  simulation  involve  no  laboratorial  experiments,  they 
+imply  economy  of  time  and  resources,  and  can  even  sub¬ 
+stitute  pilot  experiments  [6] .  Furthermore,  as  they  involve 
+no  live  models,  there  are  no  bioethical  restraints,  so  their 
+association  with  in  vivo  and  in  vitro  experiments  can 
+reduce  the  number  of  animals  that  would  undergo  stress¬ 
+ful  and  harmful  situations  [6] . 
+
+The  susceptible-infected-recovered  (SIR)  model  was 
+firstly  proposed  by  Kermack  and  McKendrick  [7],  and 
+since  then  many  studies  based  on  their  idea  have  been 
+developed.  This  model  enables  scientists  to  simulate  the 
+dynamics  of  a  population  under  an  epidemic  of  an  infec¬ 
+tious  disease  over  time.  Three  classes  of  individuals  are 
+considered  (Fig.  1):  susceptible,  those  who  are  at  risk  of 
+contracting  the  disease;  infected,  those  people  who  have 
+the  pathogen  in  their  organism  and  are  able  to  transmit 
+it;  and  recovered,  those  who  have  been  cured  and  are 
+immune  to  the  illness  [7].  The  original  SIR  model  focuses 
+only  on  host-to-host  transmission  [7].  However,  there  is  a 
+useful  class  of  SIR  models  to  study  vector-borne  diseases 
+[8].  For  instance,  Bailey  [9]  described  the  susceptible- 
+infected-recovered/susceptible-infected  (SIRSI)  model,  in 
+which  the  host  population  is  divided  into  susceptible, 
+infected  and  recovered,  and  the  vector  population  into 
+susceptible  and  infected. 
+
+Another  important  field  of  research  related  to  vector- 
+borne  diseases  is  population  genetics,  specifically  stud¬ 
+ies  regarding  the  selection  of  insecticide-resistant  vector 
+strains  [10].  Population  genetics  is  the  branch  of  biology 
+that  investigates  frequencies  of  alleles  and  genotypes  in 
+populations  [11].  Resistant  strains  of  vectors  are  those  that 
+resist  and  survive  the  effects  of  insecticides,  and  usually 
+have  their  origin  in  genetic  causes  [12].  Positive  selec¬ 
+tion  of  particular  phenotypes,  such  as  insecticide  resis¬ 
+tance,  occur  because  they  confer  a  long-term  survival  or 
+reproduction  rate  (i.e.,  a  greater  fitness  to  the  environ¬ 
+ment),  and  therefore  individuals  that  express  them  have 
+
+
+Fig.  i  Classical  SIR  model  scheme.  The  susceptible  population 
+becomes  infected,  which,  in  turn,  becomes  recovered.  S  =  susceptible; 
+/  =  infected;  R  =  recovered 
+
+
+more  chance  of  transmitting  their  genes  to  the  next  gen¬ 
+eration.  Subsequently,  the  frequency  of  the  allele  which 
+determines  resistance  increases  over  time,  and  so  does 
+the  proportion  of  individuals  that  portray  this  gene  [13]. 
+This  situation  is  an  example  of  the  natural  selection,  pro¬ 
+posed  by  Darwin  [14].  The  importance  of  understanding 
+the  genetics  of  vector  insecticide  resistance  is  emphasized 
+in  the  Global  Plan  for  Insecticide  Resistance  Manage¬ 
+ment  from  the  World  Health  Organization,  in  which  the 
+relevance  of  theoretical  modelling  is  also  highlighted  [12]. 
+
+In  population  genetics,  another  important  concept  is 
+the  Hardy- Weinberg  equilibrium.  Its  conditions  are  the 
+absence  of  evolutionary  factors,  including  the  natural 
+selection.  To  make  it  possible,  all  the  allelomorphs  and 
+genotypes  must  confer  the  same  fitness,  so  that  the  allele 
+frequencies  remain  constant  over  time  [15].  In  addition, 
+the  pattern  of  inheritance  must  be  Mendelian;  the  propor¬ 
+tion  of  males  and  females  must  be  equal;  and  the  popula¬ 
+tion  must  be  panmictic  and  large  [16].  Considering  only 
+two  alleles,  the  Hardy- Weinberg  equilibrium  is  achieved 
+when  the  proportions  of  the  genotypes  remain  constant 
+and  are  represented  by  the  following  equation  [1]: 
+
+p2  +  2pq  +  q2  =  l  (1) 
+
+Where  p  and  q  are  the  frequencies  of  the  dominant  and 
+the  recessive  allele,  respectively,  and p+q  =  l.p2,  2 pq  and 
+q2  are  the  proportions  of  pure  dominants,  heterozygotes 
+and  pure  recessives,  and  also  sum  1. 
+
+Considering  all  this  information,  it  is  important  to  high¬ 
+light  that  studying  the  alleles  which  confer  resistance  to 
+the  vectors  might  influence  various  aspects  of  control 
+strategies,  such  as  the  usage  of  insecticides  [17].  For  exam¬ 
+ple,  in  Zambia,  this  kind  of  research  determined  that 
+pyrethroids  should  not  be  used  anymore  in  insecticide 
+rotation  strategies  for  Anopheles  sp.  control  [18].  Another 
+example  is  the  work  of  Luz  et  al.  [19],  in  which  mathe¬ 
+matical  simulations  were  used  to  determine  the  efficiency 
+of  insecticide  control  against  A.  aegypti  and  to  study  the 
+evolution  of  insecticide  resistance.  In  the  model  of  Luz 
+et  al.  [19],  it  is  considered  that  the  insecticide  resistance 
+is  linked  to  one  locus  with  two  alleles,  so  that  A.  aegypti 
+is  divided  into  three  groups  according  to  the  genotype. 
+The  incorporation  of  population  genetics  into  math¬ 
+ematical  models  can  be  useful  for  investigation  of 
+other  aspects  as  well.  For  example,  Schechtman  and 
+Souza  [20]  developed  a  deterministic  mathematical  model 
+based  on  A.  aegypti  that  considers  both  the  con¬ 
+cept  of  Hardy- Weinberg  equilibrium  and  an  insecti¬ 
+cide  resistance  gene  with  Mendelian  inheritance  pattern. 
+In  the  research  of  Schechtman  and  Souza  [20],  compu¬ 
+tational  simulations  were  performed  to  investigate  per¬ 
+sistence  of  vector  insecticide  resistance  and  reversion  to 
+insecticide  susceptibility.  Both  models  might  be  valuable 
+tools  for  public  health  organizations  that  are  responsible 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  3  of  14 
+
+
+for  control  of  vector-borne  diseases.  However,  few  stud¬ 
+ies  have  investigated  mathematical  models  that  couple  SIR 
+models  and  population  genetics. 
+
+In  this  study,  we  propose  a  mathematical  model  of 
+ordinary  differential  equations  that  represents  a  vector- 
+borne  disease  epidemic  and  connects  the  main  ideas  of 
+SIR  mathematical  models  and  population  genetics.  Our 
+model  is  based  on  arboviral  diseases,  specially  chikun- 
+gunya,  dengue  and  yellow  fever.  Using  this  approach,  we 
+considered  the  possibility  of  splitting  the  vector  popula¬ 
+tion  according  to  the  genotype  into  three  groups,  each 
+of  them  with  different  characteristics,  represented  by  dis¬ 
+tinct  values  of  biological  parameters.  In  our  case,  we 
+consider  different  mortality  values.  Therefore,  it  is  possi¬ 
+ble  to  simulate  the  variation  of  the  genetic  composition 
+of  vector  population  over  time.  There  are  two  primary 
+aims  of  this  study:  1.  To  investigate  whether  the  dom¬ 
+inance  of  an  insecticide  resistance  gene  influences  the 
+epidemics  dynamics  2.  To  create  a  model  that  inte¬ 
+grates  epidemiology  and  population  genetics,  from  which 
+more  sophisticated  models  and  new  approaches  can  be 
+developed. 
+
+Methods 
+
+We  took  into  account  infectious  diseases  that  affect 
+humans  and  are  transmitted  by  an  insect  vector,  specially 
+arboviral  diseases,  such  as  yellow  fever  and  chikungunya. 
+
+General  assumptions 
+
+First  of  all,  in  order  to  better  understand  our  model, 
+the  assumptions  we  made  for  its  development  should  be 
+mentioned: 
+
+•  Assumption  1:  The  breeding  in  the  populations  is 
+random,  i.e.,  all  the  individuals  have  the  same  chance 
+of  reproduction  and  they  mate  with  any  other 
+individual  in  the  population  with  the  same 
+probability; 
+
+•  Assumption  2:  The  disease  is  transmitted  only 
+horizontally.  Vertical  transmission  occurs  in  real 
+situations,  but  we  disregarded  it  in  order  to  present  a 
+clearer  model; 
+
+•  Assumption  3:  There  are  no  evolutionary  factors 
+except  for  the  biological  selection  (we  disregard 
+genetic  drift  and  mutation,  for  instance),  because  of 
+the  same  reason  presented  in  the  previous 
+assumption; 
+
+•  Assumption  4:  The  lifetime  span  of  the  vectors  is  not 
+long  enough  for  the  recovery  of  an  infected  insect; 
+
+•  Assumption  5:  There  are  no  immigrants  or 
+emigrants  in  the  populations  considered,  since 
+considering  human  mobility  would  imply  additional 
+features,  such  as  separation  of  population  into  patches 
+[21],  which  is  not  the  focus  of  this  investigation. 
+
+
+Development  of  the  model 
+Human  populations 
+
+In  our  model,  we  considered  both  the  populations  of 
+humans  and  vectors.  The  humans  were  divided  into  sus¬ 
+ceptible,  infected  and  recovered  (Fig.  2).  New  human 
+individuals  are  introduced  into  the  susceptible  population 
+according  to  expression  c  •  Nh,  in  which  c  is  the  birth  rate 
+and  Nh  is  the  total  human  population.  Susceptible  humans 
+are  infected  when  they  are  bitten  by  an  infected  vec¬ 
+tor,  which  happens  at  a  probability  /3h.  Infected  humans 
+recover  at  a  rate  y,  and  the  human  mortality  rate  is  /x/z, 
+which  does  not  vary  with  the  compartment  considered. 
+
+
+Population  genetics 
+
+We  take  into  account  a  pair  of  alleles  in  the  vector 
+population.  These  alleles  determine  the  presence  or  not 
+of  insecticide  resistance,  and,  consequently,  the  value 
+of  the  animals  mortality  rate.  They  hold  an  interaction  of 
+complete  dominance.  We  represented  the  recessive  allelo¬ 
+morph  by  a  and  the  dominant  one  by  A.  We  calculated  the 
+frequency  of  each  allele  by  [22]: 
+
+
+f(a)  =  q  = 
+
+
+f{A)  =  p  = 
+
+
+2A laa  +  Nau 
+2  Nt 
+
+2A Iaa  +  Nao, 
+
+2 Nt 
+
+
+(2) 
+
+(3) 
+
+
+where  Naa,  Nacu  A Iaa  and  Nt  are  the  populations  of  reces¬ 
+sive  homozygotes,  heterozygotes,  dominant  homozygotes, 
+and  the  total  population,  respectively. 
+
+Considering  the  frequencies  of  the  alleles,  the  probabil¬ 
+ity  of  there  being  a  gamete  portraying  allele  A  is  p  and 
+allele  a  is  q.  Therefore,  the  probability  of  the  formation 
+
+
+Fig.  2  Scheme  of  the  SIRSI  model  considering  genetics  aspects  of  the 
+vector.  44,  Aa  and  aa  mean  dominant  homozygotes,  heterozygotes 
+and  recessive  homozygotes,  respectively,  for  the  Susceptible  (S) 
+and  Infected  (/)  mosquito  populations.  5/,,  lh  and  Rh  are  the  susceptible, 
+infected  and  susceptible  compartments  for  humans.  Vectors  become 
+infected  when  they  interact  with  an  infected  host;  and  susceptible 
+humans  become  infected  when  they  are  bitten  by  an  infected  vector 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  4  of  14 
+
+
+of  each  genotype  during  fertilization  is  given  in  Table  1 
+below. 
+
+Consequently,  the  proportion  of  the  genotypes  aa ,  Aa 
+and  AA  in  the  next  generation  in  time  t  +  1  can  be  calcu¬ 
+lated  by  p2,  2 pq  and  q 2 ,  in  this  order.  Considering  that  6 
+is  the  vector  birth  rate  and  that  the  total  population  in  the 
+next  generation  is  equal  to  Nt  •  0,  we  have  the  following 
+equations: 
+
+
+Kf  =  fcA +Ntaa 
+
+(4) 
+
+=  2P^NT  +Ka 
+
+(5) 
+
+A 
+
+II 
+
+to 
+
+QS 
+
++ 
+
+& 
+
+(6) 
+
+Where  Nj  =  N‘aa  +  N‘Aa  + 
+
+in  time  t  and  Nj  = 
+
+N®a  +  N^a  +  NAA.  As  we  consider  that  there  are  no  verti¬ 
+cal  transmission,  all  new  individuals  are  introduced  in  the 
+susceptible  compartment  therefore: 
+
+
+a  + 
+
+II 
+
+to 
+
+Sb 
+
+& 
+
+(7) 
+
+$Aa  =  2P«mT 
+
+(8) 
+
+■S'aa1  =P10NtT 
+
+(9) 
+
+Vector  populations 
+
+As  we  considered  a  pair  of  alleles  for  the  vector 
+population,  we  could  separate  the  vector  population 
+into  recessive  homozygotes,  heterozygotes  and  dominant 
+homozygotes.  Each  of  these  compartments  were  subdi¬ 
+vided  into  susceptible  and  infected  (Fig.  2).  New  indi¬ 
+viduals  are  introduced  into  the  populations  through  the 
+susceptible  compartment,  according  to  what  is  described 
+in  the  previous  item.  Susceptible  insects  become  infected 
+when  they  bite  infected  humans,  with  a  probability  pv. 
+This  way,  pv  represents  the  proportion  of  vectors  that 
+effectively  gets  infected.  This  parameter  is  particularly 
+useful  because  field  studies  demonstrate  that  only  a  small 
+percentage  of  vectors  gets  infected  with  the  pathogen  [23] . 
+
+The  mortality  rate  has  two  components:  the  natural 
+mortality  rate  (pn),  whose  value  is  equal  for  all  vector 
+groups  considered  here;  and  the  insecticide-induced  mor¬ 
+tality  rate  (/x/),  whose  value  was  smaller  for  the  resistant 
+strain  and  greater  for  the  wild  type.  Eq.  10  shows  the  com¬ 
+ponents  of  the  total  mortality  rate.  We  considered  paa , 
+PAa  and  paa  as  the  total  mortality  rates  for  recessive 
+homozygotes,  heterozygotes  and  dominant  homozygotes, 
+
+
+respectively.  As  allele  A  is  dominant  over  a  and  we  con¬ 
+sider  a  complete  dominance  interaction,  pAa  and  paa  will 
+always  have  the  same  value. 
+
+PT  =  I^N  +  l^I  (10) 
+
+This  way,  according  to  our  system,  the  increase  in 
+susceptible  vector  populations  is  dependent  of  allele  fre¬ 
+quencies  and  total  vector  population,  and  limited  by  a 
+carrying  capacity  ( I< ).  The  decrease  of  susceptible  vector 
+population  is  proportional  to  its  own  size  and  the  per¬ 
+centage  of  vectors  that  become  infected.  On  the  other 
+hand,  the  increase  in  infected  vector  populations  is  depen¬ 
+dent  on  the  proportion  of  infected  humans  an<l  on 
+the  number  of  susceptible  vectors  with  the  correspon¬ 
+dent  genotype  («SV).  In  contrast,  the  decrease  of  infected 
+vector  populations  is  proportional  only  to  its  own  size, 
+independently  of  other  populations. 
+
+The  system  of  ordinary  differential  equations 
+
+Our  model  was  based  on  the  one  proposed  by  Santos  [21]. 
+The  variables  and  parameters  are  summarized  in  Tables  2, 
+3  and  4.  Our  mathematical  model  can  be  represented  by 
+the  following  system  of  ordinary  differential  equations: 
+
+I  =cNh-(e$+Hh)sh 
+
+It  =  ^Nh^h  —  (y  +  Hh)Ih 
+
+—  Yh  i^h-^h 
+
+~dt  =  Ci2°N^  (l  —  ~  (  Njf  +  ^aa)  ^aa 
+
+'  Tp;  =  ~  i^aa^aa  (11) 
+
+~W  =  2 pqONv  (l  —  if)  —  ^ Aa )  ^Aa 
+
+"eft  —  ^Aa  —  i^Aa^Aa 
+
+Sif  =P28Nv  (l  -  -  (^  +  maa)  Saa 
+
+.7#  =  §^-/Waa 
+
+Computational  simulations 
+
+The  simulations  were  made  using  the  software  MatLab  . 
+We  ran  the  discrete  form  of  system  11,  which  was  obtained 
+through  the  Euler  method  (Additional  file  1).  The  time, 
+which  was  measured  in  days,  varied  from  0  to  100,  and 
+At  was  equal  to  0.1.  The  parameter  values  were  obtained 
+from  Santos  [21]  and  are  shown  in  Tables  2  and  4.  The 
+initial  values  of  the  variables  are  shown  in  Table  3.  We 
+assume  the  initial  vector  population  is  the  double  of  the 
+
+
+Table  1  Probability  of  formation  of  genotypes  in  the  next  generation 
+
+
+Probability  of  a  gamete  portraying  A  =  p 
+
+Probability  of  a  gamete  portraying  a  =  q 
+
+Probability  of  a  gamete  portraying 
+
+A=p 
+
+Probability  of  the  formation  of  genotype 
+
+AA=  p  •  p 
+
+Probability  of  the  formation  of  genotype 
+Aa  =  p  •  q 
+
+Probability  of  a  gamete  portraying 
+a  =  q 
+
+Probability  of  the  formation  of  genotype 
+
+Aa  =  p  ■  q 
+
+Probability  of  the  formation  of  genotype 
+aa  =  q  ■  q 
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  5  of  14 
+
+
+Table  2  Biological  parameter  values  and  meanings 
+
+
+Parameter 
+
+Meaning 
+
+Value 
+
+Parameter 
+
+Meaning 
+
+Value 
+
+C 
+
+Human  birth  rate 
+
+0.457-  10“4 
+
+P'00 
+
+Recessive  homozygote  vector 
+mortality  rate 
+
+Table4 
+
+Ph 
+
+Human  mortality  rate 
+
+0.457-  1CT4 
+
+pAa 
+
+Heterozygote  vector  mortality 
+rate 
+
+Table  4 
+
+Ph 
+
+Probability  of  vector-human 
+transmission 
+
+0.4 
+
+PAA 
+
+Dominant  homozygote  vector 
+mortality  rate 
+
+Table  4 
+
+y 
+
+Human  recovery  rate 
+
+0.121 
+
+Pv 
+
+Probability  of  human-vector 
+transmission 
+
+0.4 
+
+e 
+
+Vector  oviposition  rate 
+
+6.353 
+
+K 
+
+Carrying  capacity 
+
+2-  105 
+
+Values  obtained  in  Santos  [21] 
+
+
+human  population,  according  to  the  work  of  Menach 
+et  al  [24] .  The  algorithm  of  the  simulation  can  be  found 
+in  Additional  file  2. 
+
+According  to  these  values,  the  initial  values  of  p  and  q 
+would  be  0.375  and  0.625,  respectively. 
+
+A  total  of  three  main  simulations  were  made,  each  one 
+with  different  insecticide  resistance  situations.  In  the  first 
+one,  we  considered  that  both  alleles  (< a  and  A)  conferred 
+a  mortality  rate  of  0.25day_1.  In  this  case,  we  intended 
+to  simulate  the  Hardy- Weinberg  equilibrium  conditions, 
+in  which  all  the  individuals  of  a  population  have  the 
+same  chance  of  surviving  and  reproducing,  regardless 
+of  its  genotype.  This  situation  would  also  represent  the 
+absence  of  an  insecticide-resistant  strain,  i.e.,  a  popu¬ 
+lation  totally  susceptible  to  insecticides.  In  the  other 
+two  simulations,  we  aimed  to  simulate  the  presence  of 
+an  insecticide-resistant  strain  and  the  natural  selection, 
+
+
+which  is  characterized  by  differential  reproduction  and 
+survival  of  organism.  For  this  reason,  in  the  second  sim¬ 
+ulation,  the  recessive  allele  attributed  a  smaller  mortality 
+value,  while  the  dominant  allelomorph  conferred  a  higher 
+rate.  Finally,  the  last  simulation  was  similar,  but  then  the 
+dominant  allele  conferred  a  greater  fitness.  The  values  of 
+the  mortality  rates  can  be  seen  in  Table  4. 
+
+We  also  did  four  other  minor  simulations.  One  of  them 
+was  similar  to  simulation  1,  but  the  time  ranged  from 
+t  =  0  to  t  =  500.  The  other  three  simulations  were  analo¬ 
+gous  to  the  three  main  simulations,  except  by  the  fact  that 
+the  initial  values  of  variables  were  ten  times  smaller  than 
+the  values  shown  in  Table  3,  and  At  =  0.01.  These  simu¬ 
+lations  with  smaller  populations  are  referred  as  Is,  2s  and 
+3s.  Is,  2s  and  3s  have,  respectively,  no  insecticide-resistant 
+gene,  recessive  insecticide  resistance  gene  and  dominant 
+insecticide  resistance  gene. 
+
+
+Table  3  Variable  values  and  meanings 
+
+
+Variable 
+
+Meaning 
+
+Initial  value 
+
+Variable 
+
+Meaning 
+
+Initial  value 
+
+sh 
+
+Human  susceptible  popu¬ 
+lation 
+
+9-  103 
+
+R>aa 
+
+Recessive  homozygote  vector  sus¬ 
+ceptible  population 
+
+4.75  •  103 
+
+fh 
+
+Human  infected  popula¬ 
+tion 
+
+2-  102 
+
+loa 
+
+Recessive  homozygote  vector 
+infected  population 
+
+4.75  •  103 
+
+Rh 
+
+Human  recovered  popula¬ 
+tion 
+
+3-  102 
+
+Naa 
+
+Recessive  homozygote  vector  total 
+population 
+
+9.5-  103 
+
+Nh 
+
+Human  total  population 
+
+9.5  •  103 
+
+Saa 
+
+Dominant  homozygote  vector  sus¬ 
+ceptible  population 
+
+2.375  •  103 
+
+R>Aa 
+
+Heterozygote  vector  sus¬ 
+ceptible  population 
+
+2.375  •  103 
+
+Iaa 
+
+Dominant  homozygote  vector 
+infected  population 
+
+2.375  •  103 
+
+Iao 
+
+Heterozygote  vector 
+
+infected  population 
+
+2.375  •  103 
+
+Naa 
+
+Dominant  homozygote  vector  total 
+population 
+
+4.75  •  103 
+
+Nao 
+
+Heterozygote  vector  total 
+population 
+
+4.75  •  103 
+
+Nv 
+
+Vector  total  population 
+
+1.9-  104 
+
+Iv 
+
+Infected  vector  population 
+
+3-  104 
+
+faa 
+
+Frequency  of  recessive  homozy¬ 
+gotes 
+
+Naa 
+
+Nv 
+
+t Aa 
+
+Frequency  of 
+
+heterozygotes 
+
+Nta 
+
+Nv 
+
+fAA 
+
+Frequency  of  dominant  homozy¬ 
+gotes 
+
+Naa 
+
+Nv 
+
+Q 
+
+Frequency  of  recessive 
+allele 
+
+Eq.2 
+
+P 
+
+Frequency  of  dominant  allele 
+
+Eq.3 
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  6  of  14 
+
+
+Table  4  Values  of  mortality  rates  for  the  three  simulations 
+
+
+Allele 
+
+Genotypes  in  which  the 
+allele  expresses 
+
+Mortality  rate  (day  ]) 
+
+Simulation  1 
+
+Simulation  2 
+
+Simulation  3 
+
+Recessive  {a) 
+
+aa 
+
+0.25 
+
+0.01 
+
+0.25 
+
+Dominant  (A) 
+
+Aa,  AA 
+
+0.25 
+
+0.25 
+
+0.01 
+
+In  the  outputs  of  all  simulations,  genotypes  AA  and  Aa 
+were  represented  together  as  A_,  since  they  express  the 
+same  phenotype. 
+
+Results 
+
+Simulation  1 
+
+Figures  3  and  4  show  the  graphs  obtained  from  simulation 
+1,  in  which  we  aim  to  represent  the  Hardy- Weinberg  equi¬ 
+librium  conditions,  and  a  population  without  resistant 
+strains.  In  Fig.  3a,  the  human  populations  are  represented. 
+The  number  of  susceptible  humans  decreases  until  it 
+reaches  the  value  zero,  while  the  population  of  recovered 
+
+
+humans  increases  almost  linearly.  On  the  other  hand,  the 
+population  of  infected  humans  raised  to  a  peak  at  time  28 
+and  then  diminished.  In  relation  to  the  vectors  (Fig.  3b,  c 
+and  d),  their  populations  exhibited  both  periods  of  growth 
+and  decline.  The  proportion  of  A_  vectors  were  always 
+greater  than  the  proportion  of  recessive  homozygotes, 
+except  in  the  initial  time,  when  their  values  were  the  same. 
+
+The  frequencies  of  the  dominant  ( p  =  0.375)  and  the 
+recessive  allele  ( q  =  0.625)  remained  constant  during  the 
+whole  time  considered,  as  expected  for  the  absence  of  evo¬ 
+lution  factors.  According  to  Fig.  4b,  the  genotype  frequen¬ 
+cies  varied  very  fast  at  the  beginning  of  the  simulation,  and 
+
+
+Fig.  3  Results  of  simulation  1 .  a  Susceptible  {blue),  infected  {green)  and  recovered  humans  {red),  b  Infected  aa  {blue)  and  A_  {green)  vectors, 
+c  Susceptible  aa  {blue)  and  A_  {green)  vectors,  d  Susceptible  {blue),  infected  {green)  and  total  {red)  populations  of  vectors  disregarding  the  genetic 
+separation,  c  =  0.457  •  1 0“4,  ph  =  0.457  •  1 0“4,  ph  =  0.4,  y  =  0.1 21 , 6  =  6.353,  pv  =  0.4,  K  =  2  •  1 05,  fiQQ  =  fiAa  =  / iM  =  0.25,  Sh  =  9  •  1 03, 
+lh  =  2  •  1 02,  Rh  =  3  •  1 02,  Nh  =  9.5  •  1 03,  =  2.375  •  1 03,  lAa  =  2.375  •  1 03,  NAa  =  4.75  •  1 03,  Saa  =  4.75  •  1 03,  laa  =  4.75  •  1 03,  Naa  =  9.5  •  1 03, 
+
+Saa  =  2.375  •  103,  Im  =  2.375  •  1 03,  Nm  =  4.75  •  1 03,  lv  =  3  •  104,  Nv  =  1.9  •  10 4.Xaxis  represents  time  (days)  and  Y axis  represents  number  of 
+individuals.  Image  produced  with  MatLab@ 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  7  of  14 
+
+
+Fig.  4  Results  of  simulation  1  (continued),  a  Allele  frequencies  of  a  {green)  and  A  {blue),  b  Genotype  frequencies  of  aa  {blue),Aa  {red)  and  AA  {green). 
+c  =  0.457-  10 ~A,iih  =  0.457-  10-4,  ft,  =  0.4,  y  =  0.121 ,9  =  6.353, ft,  =  0.4, K=  2-  10 5,iiaa  =  l^Aa  =  Maa  =  0.25, Sh  =  9  •  1 03,  lh  =  2  ■  1 02, 
+
+Rh  =  3  ■  ]02,  Nh  =  9.5  •  1 03, S/\fl  =  2.375  •  1 03,  lAa  =  2.375  •  1 03,  NAa  =  4.75  •  1 03,  Saa  =  4.75  •  1 03,  laa  =  4.75  •  1 03,  Naa  =  9.5  •  1 03, Saa  =  2.375  •  1 03, 
+Iaa  =  2.375  •  ]03,Naa  =4.75  •  ]03,lv  =  3  •  104,  Nv  =  1.9  •  1 04. Xaxis  represents  time  (days)  and  Y axis  represents  freqquency.lmage  produced  with 
+MatLab@ 
+
+
+then  they  started  to  increase  or  decrease  very  slowly.  The 
+Hardy -Weinberg  equilibrium  would  be  achieved  when: 
+
+f(aa)  =  q2  =  0.390625 
+f(Aa)  =  2pq  =  0.468750 
+f(AA)  =p2  =  0.140625 
+
+According  to  another  simulation  with  the  same  condi¬ 
+tions,  but  in  a  longer  time  frame,  the  Hardy- Weinberg 
+equilibrium  is  achieved  at  t  =  488.  Note  that  f(aa)  + 
+f(Aa)  +f(AA)  =  1. 
+
+Simulation  2 
+
+The  results  of  simulation  2,  in  which  the  recessive  allele 
+conferred  a  greater  fitness,  are  shown  in  Figs.  5  and  6. 
+The  recessive  homozygotes  represent  the  resistant  strain, 
+which  is  positively  selected. 
+
+Regarding  the  humans  (Fig.  5a),  the  susceptible  popu¬ 
+lation  decreased  during  the  whole  time  considered,  until 
+the  zero  value.  The  infected  population  increased  until 
+time  27  of  the  simulation  and  then  reduced  up  to  the 
+end  of  simulation.  Finally,  the  recovered  population  had 
+an  approximately  linear  growth.  This  human  dynamics  is 
+approximately  similar  to  simulation  1,  although  the  val¬ 
+ues  vary  lightly.  On  the  other  hand,  the  vector  population 
+showed  different  dynamics  (Fig.  5b  and  c).  The  dynam¬ 
+ics  of  the  susceptible  vectors  (Fig.  5c)  can  be  split  into 
+two  moments.  In  the  first  one,  the  populations  increased 
+quickly  and  the  proportion  of  A_  individuals  was  greater 
+than  that  of  aa  individuals.  At  a  second  moment,  the 
+number  of  A_  and  aa  susceptible  vectors  decreased  and 
+the  proportion  of  pure  recessives  overcame  the  propor¬ 
+tion  of  the  other  genotypes.  The  number  of  pure  recessive 
+infected  vectors  all  increased  over  the  time,  while  the 
+quantity  of  infected  individuals  that  carry  the  dominant 
+allele  had  periods  of  growth  and  decline. 
+
+
+The  recessive  allele  tended  to  fixation  while  the  fre¬ 
+quency  of  the  dominant  one  decreased  over  time  (Fig.  6a). 
+According  to  another  simulation  with  the  same  condi¬ 
+tions,  but  a  bigger  time,  fixation  occurs  when  t  =  722. 
+Despite  the  beginning  of  the  simulation,  the  frequency 
+of  the  genotype  aa  increased,  while  the  frequency  of  the 
+others  decreased. 
+
+Simulation  3 
+
+The  graphs  in  Figs.  7  and  8  show  the  results  of  the 
+third  simulation,  in  which  the  dominant  allele  conferred 
+insecticide  resistance  a  smaller  mortality  value), 
+
+therefore  the  resistant  strain  consists  of  AA  and  Aa  indi¬ 
+viduals.  Regarding  the  human  population  (Fig.  7a),  the 
+number  of  susceptible  individuals  decrease  until  reach¬ 
+ing  the  value  zero,  while  the  quantity  of  recovered  grew 
+during  the  whole  time  considered.  On  the  other  hand, 
+the  infected  population  increased  to  a  maximal  at  day 
+27  and  then  started  to  go  down.  Concerning  the  vec¬ 
+tors,  the  dominant  homozygotes  and  heterozygotes  were 
+more  numerous  than  the  recessive  homozygotes  through¬ 
+out  the  whole  simulation  (Fig.  7b  and  c),  except  for  the 
+initial  time.  As  for  the  infected  compartment  (Fig.  7b), 
+the  A_  compartment  increased,  while  the  group  of  pure 
+recessives  barely  varied  over  the  whole  time  considered. 
+The  susceptible  vectors  (Fig.  7)  had  an  initial  period 
+of  growth  followed  by  a  period  of  decrease,  and  the 
+A_  susceptible  vectors  were  more  numerous  than  the 
+aa  ones.  The  population  of  susceptible  vectors  grew 
+until  day  11,  when  it  started  to  decrease  (Fig.  7d), 
+and  then  was  eventually  overcome  by  the  infected 
+population. 
+
+Finally,  regarding  the  allelic  frequencies,  the  dominant 
+allele  tended  to  fixation,  while  the  recessive  tended  to  zero 
+(Fig.  8a).  In  an  attempt  to  find  when  the  allele  A  would 
+fix  in  the  population,  we  did  a  similar  computational 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  8  of  14 
+
+
+Fig.  5  Results  of  simulation  2.  a  Susceptible  {blue),  infected  {green)  and  recovered  humans  {red),  b  Infected  aa  {blue)  and  A_  {green)  vectors,  c 
+Susceptible  aa  {blue)  and  A_  {green)  vectors,  d  Susceptible  {blue),  infected  {green)  and  total  {red)  populations  of  vectors  disregarding  the  genetic 
+separation,  c  =  0.457  •  1 0"4,  ph  =  0.457  •  1 0"4,  ft,  =  0.4,  y  =  0.1 21 , 0  =  6.353,  ft,  =  0.4,  K  =  2  •  1 05,  /jLaa  =  0.01 ,  /jlAo  =  iiAA  =  0.25,  Sh  =  9  •  1 03, 
+lh=  2  •  10 2,Rh  =  3  •  10 2,Nh  =  9.5  •  10 3,S/fl  =  2.375  •  10 3,lAa  =  2.375  •  10 3,NAa  =4.75  •  103,Saa  =4.75  •  103,/aa  =  4.75  •  10 3,Naa  =  9.5  •  103, 
+
+Saa  =  2.375  •  1 03,  Im  =  2.375  •  1 03,  Nm  =  4.75  •  1 03,  lv  =  3  •  1 04,  Nv  =  1.9  •  104.  Xaxis  represents  time  (days)  and  Y axis  represents  number  of 
+individuals.lmage  produced  with  MatLab@ 
+
+
+simulation  over  time  varying  from  0  to  100000,  but  even 
+in  these  conditions  the  fixation  was  not  yet  reached. 
+Figure  8b  shows  that  the  frequencies  of  heterozygotes  and 
+pure  dominants,  which  had  a  bigger  fitness,  increased; 
+while  the  frequency  of  pure  recessive,  that  had  a  smaller 
+fitness,  decreased. 
+
+
+Simulations  with  bigger  time  interval  and  smaller 
+population 
+
+Figure  9  shows  the  results  for  the  simulation  in  interval 
+0  <  t  <  500.  Unlike  the  preceding  simulations,  it  enables 
+us  to  see  that  the  infected  human  population  almost 
+reaches  the  value  zero,  when  all  the  human  compartments 
+
+
+Fig.  6  Results  of  simulation  2  (continued),  a  Allele  frequencies  of  a  {green)  and  A  {blue),  b  Genotype  frequencies  of  aa  {blue),Aa  {red)  and  AA  {green). 
+c  =  0.457-  ICT4,/^  =  0.457-10 “4,  ft,  =  0.4,  y  =  0.121 ,6  =  6.353,  ft  =  0.4,  K  =  2  •  1 05,  pLoa  =0.01 ,  HAa  =  pAA  =0.25  ,Sh  =  9  •  103,  lh  =  2  •  102, 
+Rh  =  3-]02,Nh  =  9.5  •  1 03,  Sag  =  2.375  •  1 03,  lAa  =  2.375  •  1 03,  Na0  =  4.75  •  1 03,  Saa  =  4.75  •  1 03,  laa  =  4.75  •  1 03,  Naa  =  9.5  •  1 03,  Saa  =  2.375  •  1 03, 
+lAA  =  2.375  •  ]03,Naa  =  4.75  •  1 03,  lv  =  3  •  1 04,  Nv  =  1.9  •  10 A. Xaxis  represents  time  (days)  and  Y axis  represents  freqquency.  Image  produced  with 
+MatLab@ 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  9  of  14 
+
+
+a  b 
+
+
+Fig.  7  Results  of  simulation  3.  a  Susceptible  {blue),  infected  {green)  and  recovered  humans  {red),  b  Infected  aa  {blue)  and  A_  {green)  vectors, 
+c  Susceptible  aa  {blue)  and  A_  {green)  vectors,  d  Susceptible  {blue),  infected  {green)  and  total  {red)  populations  of  vectors  disregarding  the  genetic 
+separation,  c  =  0.457  •  =  0.457-  ]0~4,ph  =0.4,)/  =0.1 21,  y  =  6.353,  pv  =  0.4,  K  =  2  •  1 05,  naa  =  0.25,  nAa  =  haa  =0.01,5,,  =  9-  103, 
+
+lh  =  2  ■  1 02,  Rh  =  3  ■  1 02,  Nh  =  9.5  •  1 03,  SAa  =  2.375  •  1 03,  lAa  =  2.375  •  1 03,  NAa  =  4.75  ■  1 03,  Saa  =  4.75  ■  1 03,  laa  =  4.75  •  1 03,  Naa  =  9.5  •  1 03, 
+
+Sm  =  2.375  •  1 03,  Iaa  =  2.375  •  1 03,  Naa  =  4.75  •  1 03,  lv  =  3  ■  1 04,  Nv  =  1 .9  •  1 04.  X axis  represents  time  (days)  and  Y axis  represents  number  of 
+individuals.  Image  produced  with  MatLab* 
+
+
+practically  arrive  at  a  stable  value  (i.e.,  reaching  the 
+equilibrium). 
+
+On  the  other  hand,  Fig.  10  shows  the  dynamics  of 
+humans  populations  of  Is,  2s,  and  3s.  The  results  show  a 
+slight  difference  between  them.  In  the  presence  of  an  allele 
+
+
+that  confers  resistance,  the  number  of  infected  people  is 
+bigger  and  the  number  of  susceptible,  smaller.  Conversely, 
+when  there  are  no  resistant  strains,  the  number  of  infected 
+humans  is  smaller  and  the  susceptible  compartment  is 
+bigger. 
+
+
+Fig.  8  Results  of  simulation  3  (continued),  a  Allele  frequencies  of  a  {green)  and  A  {blue),  b  Genotype  frequencies  of  aa  {blue),Aa  {red)  and  AA  {green). 
+c  =  0.457-  10~4,iih  =  0.457  •  10-4,  f)h  =  0.4,  y  =  0.121 ,6  =  6.353,  A,  =  0.4,  K  =  2  ■  105,  pLoa  =  0.25 , /iAa  =  /iM  =  0.01  ,Sh  =  9  •  1 03,  lh  =  2  •  1 02, 
+Rh  =  3  •  1 02,  Nh  =  9.5  •  1 03,  Saq  =  2.375  •  1 03,  lAo  =  2.375  •  1 03,  NAa  =  4.75  •  1 03,  Saa  =  4.75  •  1 03,  laa  =  4.75  •  1 03,  Naa  =  9.5  •  1 03, =  2.375  •  1 03, 
+Iaa  =  2.375  •  ]03,Naa  =4.75  •  103,/^  =  3  •  104,  Nv  =  1.9  •  ]04.Xaxis  represents  time  (days)  and  Y axis  represents  freqquency.  Image  produced  with 
+MatLab@ 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  10  of  14 
+
+
+Discussion 
+
+In  this  study,  we  propose  a  SIR  model  that  considers  the 
+population  genetics  of  vector  insecticide  resistance.  We 
+did  three  computational  simulations:  in  one  of  them,  all 
+vectors  of  the  population  had  the  same  insectide-induced 
+mortality,  so  that  there  was  no  selection  and  no  resistant 
+strain.  In  the  second,  the  recessive  homozygotes  vec¬ 
+tors  were  resistant  to  an  insecticide,  and  therefore  they 
+had  a  smaller  mortality  rate  and  a  bigger  fitness.  In  the 
+third,  those  who  carried  the  dominant  allele  had  insecti¬ 
+cide  resistance.  Therefore,  they  had  more  probability  of 
+
+
+passing  their  genes  to  the  next  generation.  Our  model 
+is  based  on  the  biology  of  several  vector-borne  diseases 
+such  as  dengue  fever,  yellow  fever  and  chikungunya.  All 
+of  them  are  caused  by  viruses  of  the  genus  Flavivirus  and 
+are  transmitted  by  Aedes  spp.,  especially  Aedes  aegypti 
+[25-27]. 
+
+These  tropical  neglected  diseases  are  extremely  impor¬ 
+tant  nowadays:  in  Brazil,  until  the  21st  epidemiological 
+week  of  2016,  almost  1.3  million  people  came  down  with 
+dengue  and  122762  probable  cases  of  chikungunya  were 
+registered  [28];  in  one  year,  60000  people  died  because 
+of  yellow  fever  in  Sub-Saharian  Africa  [29].  However,  the 
+present  model  must  be  interpreted  with  caution  because 
+it  disregards  important  factors,  such  as  seasonal  varia¬ 
+tion  of  temperature  [19],  different  life  stages  of  the  vector 
+[19,  20],  spatial  distribution  of  populations  [21]  and  the 
+existence  of  various  strains  of  a  pathogen  [30].  Therefore, 
+it  is  important  to  bear  in  mind  that  the  computational 
+simulations  may  fail  in  accurately  representing  all  aspects 
+of  a  real  epidemics.  Notwithstanding  these  restrictions, 
+our  model  is  important  for  understanding  the  influence 
+of  insecticide  resistance  genetics  on  dynamics  of  an  epi¬ 
+demics,  without  influence  of  other  factors.  In  addition,  it 
+may  serve  as  a  basis  for  the  development  of  more  complex 
+and  realistic  approaches. 
+
+In  our  model,  we  considered  a  pair  of  allelomorphs 
+with  complete  dominance  interaction  and  Mendelian 
+inheritance,  which  affected  the  mortality  rate  of  the 
+vector.  Using  this  approach,  we  intended  to  simulate 
+a  genetic-induced  insecticide  resistance.  Several  similar 
+real  cases  are  described  in  the  literature.  According  to 
+Saavedra-Rodriguez  et  al.  [31],  an  isoleucine  replace¬ 
+ment  in  codon  1016  of  voltage-gated  sodium  channel 
+
+
+a 
+
+
+85  87  89  91  93  95  97  99  101 
+
+Fig.  10  Smaller  initial  values.  Simulations  with  the  same  conditions  as  the  1st,  2nd  and  3rd  simulations,  but  with  initial  values  of  variables  ten  times 
+smaller  than  shown  in  Table  2.  a  complete  charts  of  the  simulation.  The  dashed  square  marks  the  region  represented  by  the  figure  on  the  right, 
+b  zoom  on  the  left  figure.  Dashed  lines  =  susceptible  humans;  continuous  lines  =  infected  humans;  blue  lines  =  conditions  similar  to  the  first 
+simulation;  yellow  lines  =  conditions  similar  to  the  second  simulation;  green  lines  =  conditions  similar  to  the  third  simulation.  Graphics  produced  on 
+Microsoft  Excef  with  data  obtained  on  MatLab*  simulations.  Xaxis  represents  time  (days)  and  Yaxis  represents  number  of  individuals 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  11  of  14 
+
+
+transmembrane  protein  gene  of  Aedes  aegypti  is  linked 
+to  knockdown  resistance  to  pyrethroids,  which  is  a  very 
+common  type  of  insecticide.  The  allele  that  contains 
+this  mutation  is  recessive  and  increased  in  frequency 
+when  under  insecticide  selection  [31].  Another  interest¬ 
+ing  example  is  found  in  the  study  by  Bonin  et  al.  [32],  who 
+researched  some  alleles  in  Aedes  aegypti  related  to  resis¬ 
+tance  to  the  bioinsecticide  Bacillus  thuringiensis  israe- 
+lensis.  These  allelomorphs  have  dominant  characteristics. 
+However,  the  genes  considered  in  that  study  [32]  are  poli- 
+genes,  i.e.,  they  determine  a  quantitative  character,  which 
+is  different  from  our  mathematical  model,  which  con¬ 
+siders  that  insecticide  resistance  is  qualitative.  There  are 
+many  different  mutations  of  this  kind  in  several  mosquito 
+populations  around  the  world  [33]. 
+
+Analyzing  Figs.  3d,  5d  and  7d,  it  is  clear  that  the  total 
+vector  population  is  smaller  in  the  first  simulation  than  in 
+the  others.  This  can  be  easily  explained  by  the  fact  that 
+more  individuals  are  removed  there,  since  the  mean  mor¬ 
+tality  rate  is  bigger  because  all  vectors  have  a  mortality 
+value  of  0.25day-1.  In  contrast,  in  the  other  two  simu¬ 
+lations,  there  is  a  portion  of  the  population  with  jiT  = 
+0.01  day-1,  and  therefore  the  mean  mortality  is  smaller 
+and  the  total  number  of  vectors  is  bigger. 
+
+Another  interesting  observation  to  make  about  Figs.  3d, 
+5d  and  7d  is  that  when  there  is  an  insecticide-resistant 
+strain,  the  proportion  of  vectors  infected  with  the 
+pathogen  is  bigger.  In  addition,  this  proportion  is  even 
+bigger  when  the  resistance  is  caused  by  a  dominant  allele 
+instead  of  a  recessive  one.  This  can  be  easily  seen  in 
+Fig.  11.  One  possible  explanation  for  this  phenomenon  is 
+that  when  there  is  a  resistant  strain,  the  mean  mortality 
+rate  is  smaller,  as  stated  above  in  this  section.  Therefore, 
+less  susceptible  vectors  die,  and  this  compartment  become 
+more  numerous. 
+
+According  to  the  expression  •  Sv  of  system  11, 
+the  bigger  the  number  of  susceptible  vectors,  the  more 
+
+
+they  become  infected  and  the  bigger  the  compartment 
+of  infected  vectors.  The  larger  proportion  of  infected 
+vectors  in  the  presence  of  resistance  was  also  observed 
+in  laboratory  experiments  in  vivo.  For  instance,  Labout 
+et  al.  [34]  studied  three  strains  of  Anopheles  gambiae ,  the 
+malaria  vector:  all  of  them  had  the  same  genetic  back¬ 
+ground,  despite  the  fact  that  one  group  was  susceptible 
+to  insecticides,  another  had  a  mutation  that  conferred 
+resistance  to  organophosphates  and  carbamates;  and  the 
+third  had  a  knockdown  mutation  that  determined  resis¬ 
+tance  to  pyrethroids  and  DDT.  The  mosquitoes  were  fed 
+on  blood  with  Plasmodium  falciparum ;  the  protozoan  that 
+causes  malaria,  and  then  the  prevalence  of  P.  falciparum 
+infection  in  the  vectors  strains  was  measured.  They  found 
+that  the  prevalence  was  higher  in  insecticide  resistant 
+strains  than  in  the  susceptible  one.  Alout  et  al.  [34]  explain 
+this  phenomenon  through  a  molecular  mechanism,  while 
+our  present  paper  justify  it  through  population  dynamics. 
+Probably,  during  an  epidemic,  both  mechanisms  influence 
+the  proportion  of  infected  vectors. 
+
+When  the  outputs  of  the  three  simulations  are  com¬ 
+pared,  a  slight  difference  between  the  human  population 
+dynamics  can  be  observed.  This  difference  is  more  visible 
+when  there  are  less  individuals  (Fig.  10).  It  can  be  noted 
+that  the  number  of  infected  people  is  greater  in  pres¬ 
+ence  of  resistant  vectors,  and  smaller  in  their  absence.  The 
+inverse  is  valid  for  susceptible  humans.  This  might  hap¬ 
+pen  because  of  the  larger  proportion  of  infected  vectors 
+in  simulations  2s  and  3s  and  smaller  in  simulation  Is,  in 
+conformity  to  the  statements  of  the  previous  paragraph. 
+The  more  vectors  are  infected,  the  faster  humans  become 
+infected.  The  bigger  is  the  compartment  of  infected  peo¬ 
+ple,  the  smaller  is  the  compartment  of  susceptible  people. 
+
+Although  we  diminished  the  populations  in  the  sim¬ 
+ulation  in  Fig.  10  and  it  had  interesting  results,  in  real 
+situations  the  natural  selection  becomes  less  relevant  in 
+small  populations,  in  which  the  genetic  drift  is  the  most 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  12  of  14 
+
+
+actable  evolution  factor  [15].  For  this  reason,  we  con¬ 
+sidered  greater  variable  values  in  the  other  simulations, 
+even  though  the  effect  in  humans  was  more  subtle.  One 
+can  argue  that  the  differences  between  the  simulations  of 
+Fig.  10  are  a  bias  due  to  the  small  size  of  populations. 
+As  a  matter  of  fact,  in  vivo  and  in  vitro  approaches  that 
+involve  small  samples  usually  face  this  issue.  However, 
+our  in  silico  study  used  only  non-stochastic  mathemati¬ 
+cal  tools,  so  that  the  results  are  always  exact  or  depends 
+only  on  the  variables  and  parameters  considered.  In  order 
+to  confirm  this,  the  computational  simulations  were  per¬ 
+formed  several  times,  and  all  of  them  presented  the  same 
+results.  Therefore,  the  differences  in  human  populations 
+did  not  occur  because  of  the  small  population  size,  but 
+because  of  the  genetics  of  the  vector  insecticide  resistance. 
+
+Taken  together,  the  results  of  simulations  1,  2,  3,  Is, 
+2s  and  3s  suggest  that  the  genetics  of  insecticide  resis¬ 
+tance  have  stronger  effect  on  the  vector  population  than 
+in  the  human  population.  This  result  may  be  explained 
+by  the  fact  that  the  insecticide  resistance  gene  have  direct 
+effect  on  the  vectors  populations,  but  only  indirectly  influ¬ 
+ences  the  human  populations.  As  a  matter  of  fact,  the 
+insecticide  resistance  have  direct  effect  on  vector  mor¬ 
+tality  rate,  which  influences  the  size  of  susceptible  and 
+infected  vector  populations.  In  turn,  changes  in  vector 
+infected  population  causes  changes  in  human  susceptible 
+and  infected  populations,  that  are  also  restrained  by  /?/* 
+and  Nh-  Indeed,  in  simulations  2,  3,  2s  and  3s,  the  differ¬ 
+ences  in  genotype  frequencies  among  the  simulations  can 
+be  noticed  in  the  first  days  of  simulation  (Figs.  6b,  8b), 
+the  differences  in  size  of  vector  infected  populations  can 
+be  seen  from  day  20  on  (Fig.  11),  while  the  differences  in 
+size  of  human  infected  populations  only  can  be  noticed 
+from  day  80  on  (Fig.  10b).  Overall,  this  information  show 
+that  the  genetics  of  the  vectors  affects  the  epidemiological 
+dynamics  of  a  vector-borne  disease  as  to  several  important 
+aspects.  Therefore,  the  present  model  could  be  an  impor¬ 
+tant  start  point  for  investigating  population  dynamics  in 
+epidemics. 
+
+Another  relevant  observation  is  that,  in  all  simulations 
+of  our  model,  the  populations  of  susceptible  humans 
+always  decreased  and  reached  zero,  and  never  went  up. 
+This  happens  because  of  the  combination  of  two  factors: 
+(1)  the  value  of  the  human  birth  rate  is  equal  to  the  value 
+of  the  human  mortality  rate,  and  (2)  the  immunity  of 
+
+
+the  recovered  was  lifelong,  so  they  would  never  become 
+susceptible  again.  This  situation  could  be  reversed  by  con¬ 
+sidering  different  values  of  c  and  /x/*,  but  it  was  decided  to 
+use  the  same  values  for  both  parameters  in  order  to  main¬ 
+tain  constant  the  size  of  total  human  population  during 
+all  the  time  of  simulation.  It  was  decided  to  consider  life¬ 
+long  immunity  because  this  characteristic  is  observed  for 
+important  vector-borne  diseases  such  as  chikungunya  [35] 
+and  for  each  dengue  serotype  [36]. 
+
+It  is  interesting  to  note  that  the  curve  obtained  for 
+infected  humans  in  all  three  computational  simulations 
+has  a  very  similar  shape  to  many  line  graphs  made  with 
+real  epidemiological  data.  For  example,  we  can  cite  the 
+Brazilian  dengue  epidemics  in  the  years  of  2013,  2014, 
+and  2015,  whose  line  graphs  for  the  number  of  infected 
+people  over  time  can  be  found  in  the  epidemiological 
+bulletins  of  the  Brazilian  Secretary  of  Health  Vigilance 
+[28] .  In  all  of  them,  during  the  rainy  season,  the  number 
+of  infected  people  increases  until  it  reaches  a  peak,  and 
+then  it  starts  to  decrease,  similar  to  the  outputs  obtained 
+here.  The  same  trend  is  observed  in  the  number  of  yellow 
+fever  suspect  cases  in  Angola,  from  December,  2015  to 
+March,  2016  [2]. 
+
+Regarding  the  allele  frequencies,  in  all  simulations,  the 
+initial  p  and  q  were  0.375  and  0.625,  respectively.  How¬ 
+ever,  these  variables  changed  very  differentially  according 
+to  the  simulation.  As  stated  in  the  results  of  simulation 
+1,  in  the  first  simulation,  the  frequencies  did  not  change 
+because  of  the  lack  of  evolutionary  factors.  Comparing 
+simulations  2  and  3,  we  can  infer  that  the  resistance 
+allele  fixes  faster  when  this  allele  is  recessive  than  when 
+it  is  dominant:  the  time  it  takes  to  reach  the  frequency 
+100%  is  longer  when  A  confers  resistance;  and  the  vari¬ 
+ation  of  frequency  between  0  <  t  <  100  is  smaller 
+in  the  third  simulation  (Table  5).  According  to  Freeman 
+and  Herron  [15],  this  happens  because,  when  a  domi¬ 
+nant  allele  is  positively  selected,  the  recessive  allele  that 
+confer  a  smaller  fitness  is  maintained  through  the  het¬ 
+erozygotes,  that  “hide”  the  recessive  alleles,  since  they 
+carry  them  but  express  the  phenotype  of  bigger  fitness. 
+When  the  recessive  allelomorph  is  positively  selected,  the 
+situation  is  different:  the  heterozygotes  have  a  smaller 
+fitness  despite  the  fact  they  carry  the  two  forms  of  the 
+gene,  and  therefore  they  tend  to  be  eliminated  from  the 
+population. 
+
+
+Table  5  Initial  and  final  allele  frequencies  in  the  simulation 
+
+
+Simulation 
+
+P 
+
+Q 
+
+Initial 
+
+Final 
+
+Initial-final 
+
+Initial 
+
+Final 
+
+Initial-final 
+
+15f 
+
+0.375 
+
+0.375 
+
+0 
+
+0.625 
+
+0.625 
+
+0 
+
+2  nd 
+
+0.375 
+
+0.081 
+
+0.294 
+
+0.625 
+
+0.919 
+
+0.294 
+
+3rd 
+
+0.375 
+
+0.599 
+
+0.224 
+
+0.625 
+
+0.401 
+
+0.224 
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (2017)  23:34 
+
+
+Page  13  of  14 
+
+
+The  frequencies  of  the  genotypes  in  simulations  2  and 
+3,  at  the  beginning  of  the  time  considered,  have  similar 
+dynamics  to  the  first  simulation.  After  this  initial  period, 
+they  start  to  vary  according  to  the  selective  pressure. 
+
+Conclusion 
+
+In  conclusion,  the  model  presented  in  this  work  exhib¬ 
+ited  results  in  conformation  with  the  literature,  and  the 
+numerical  results  show  that  the  genetics  of  the  vectors 
+do  influence  human  population  dynamics.  The  compu¬ 
+tational  simulations  have  shown  that  the  presence  of  an 
+insecticide  resistance  gene  is  related  to  a  bigger  number  of 
+infected  humans  and  vectors.  The  numerical  investigation 
+has  also  shown  that  this  aspect  depends  on  the  inheritance 
+pattern  of  the  gene,  since  a  dominant  insecticide  resis¬ 
+tance  gene  implies  in  an  even  greater  number  of  infected 
+people  and  vectors. 
+
+This  study  does  not  consider  factors  such  as  differ¬ 
+ent  life  stages  of  vectors  and  the  possibility  of  diverse 
+serotypes  of  a  pathogen.  Notwithstanding  these  restric¬ 
+tions,  our  model  could  be  a  basis  for  the  development  of 
+more  sophisticated  epidemiological  models  that  consid¬ 
+ers  insecticide  resistance  genetics.  These,  in  turn,  could 
+be  used  for  monitoring  diseases  such  as  yellow  fever  and 
+predicting  trends  of  epidemics.  This  way,  the  present 
+investigation  open  new  perspectives  for  further  studies. 
+For  example,  our  model  could  be  a  starting  point  to  cal¬ 
+culate  the  optimum  control  in  which  insecticides  are  used 
+in  a  manner  that  minimizes  the  evolution  of  resistance  in 
+vector  population. 
+
+
+Additional  files 
+
+
+Additional  file  1:  The  Discretized  form  of  the  model  obtained  through 
+the  Euler  method  that  was  used  for  the  numerical  simulations.  (PDF  95  kb) 
+
+Additional  file  2:  Algorithim  used  for  the  numerical  simulations  of  the 
+mathematical  models  that  indicates  the  steps  necessary  to  obtain  the 
+results.  (PDF  69  kb) 
+
+
+Abbreviations 
+
+K:  Carrying  capacity;/!:  Dominant  allele;  paa-  Dominant  homozygote  vector 
+mortality  rate;  Saa:  Dominant  homozygote  vector  susceptible  population;  lM: 
+Dominant  homozygote  vector  infected  population;  Naa’  Dominant 
+homozygote  vector  total  population;  p:  Frequency  of  the  dominant  allele  in 
+the  population;  q:  Frequency  of  the  recessive  allele  in  the  population;  Aa: 
+Heterozygote;  c:  Human  birth  rate;  ph-  human  mortality  rate;  y:  Human 
+recovery  rate;  paq'  Heterozygote  vector  mortality  rate;  Human  susceptible 
+population;  //,:  Human  infected  population;  R^:  Human  recovered  population; 
+Nh:  Human  total  population;  Saq '■  Heterozygote  vector  susceptible  population; 
+Iao :  Heterozygote  vector  infected  population;  NAa-  Heterozygote  vector  total 
+population;  lv:  Infected  vector  population;  aa:  Pure  recessive;  AA:  Pure 
+dominant;  A_:  Pure  dominants  and  heterozygotes;  fa:  probability  of 
+vector-human  transmission;  fa:  Probability  of  human-vector  transmission;  a: 
+Recessive  allele;  paa'  Recessive  homozygote  vector  mortality  rate;  5aa’ 
+Recessive  homozygote  vector  susceptible  population;  laa:  Recessive 
+homozygote  vector  infected  population;  Naa:  Recessive  homozygote  vector 
+total  population;  SIR:  Susceptible-Infected-Recovered;  Nv:  Vector  total 
+population;  9:  Vector  oviposition  rate 
+
+
+Acknowledgements 
+
+We  would  like  to  thank  Luiz  Kiyoshi  Nishida  for  the  technical  support  and  Jane 
+Godwin  Coury  for  the  writing  assistance. 
+
+Funding 
+
+The  authors  received  financial  support  from  Programa  de  Internacionalizagao 
+de  Pesquisa  da  UNESP  da  Pro-reitoria  de  Pesquisa  e  Pro-reitoria  de 
+Pos-Graduagao  (PROINTER-PROPe/PROPG)  with  process  number  201 6/1 361 . 
+
+Availability  of  data  and  materials 
+
+The  programations  used  for  the  numerical  simulations  can  be  found  on  the 
+website  Zenodo,  on  the  webpage  http://doi.org/10.5281/zenodo.212519 
+(DOI:  1 0.5281 /zenodo.21 2519).  Other  datasets  that  support  the  conclusions  of 
+this  article  are  included  within  the  manuscript  and  the  Additional  files  1  and  2. 
+
+Authors'  contributions 
+
+MLGK  participated  in  the  development  of  the  mathematical  model,  execution 
+and  design  of  the  numerical  simulations,  analysis  of  the  results  and 
+preparation  of  the  manuscript.  FLPS  participated  in  the  design  of  the 
+numerical  simulations,  analysis  of  the  results  and  preparation  of  the 
+manuscript.  All  authors  read  and  approved  the  final  manuscript. 
+
+Competing  interests 
+
+The  authors  declare  that  they  have  no  competing  interests. 
+
+Consent  for  publication 
+
+Not  applicable. 
+
+Ethics  approval  and  consent  to  participate 
+
+Not  applicable. 
+
+Publisher's  Note 
+
+Springer  Nature  remains  neutral  with  regard  to  jurisdictional  claims  in 
+published  maps  and  institutional  affiliations. 
+
+Received:  21  December  201 6  Accepted:  13  June  2017 
+Published  online:  06  July  2017 
+
+References 
+
+1.  World  health  organization,  (ed).  A  global  brief  on  vector-borne  diseases, 
+1st  ed.  Geneve:  WHO  Press;  2014.  Available  from:  http://apps.who.int/iris/ 
+handle/10665/111008. 
+
+2.  World  health  organization,  (ed).  Vector  Borne  Diseases;  2016.  Available 
+from:  http://www.who.int/mediacentre/factsheets/fs387/en/.  Accessed 
+14  November  2016. 
+
+3.  McBride  WJH,  Bielefeldt-Ohmann  H.  Dengue  viral  infections;  pathogenesis 
+and  epidemiology.  Microb  Infect.  2000;2:1 041  -50.  Available  from:  http:// 
+www.sciencedirect.com/science/article/pii/S1 28645790001 2582. 
+
+4.  Halstead  SB.  Dengue.  Lancet.  2007;370:1 644-52.  Available  from:  http:// 
+www.thelancet.com/journals/lancet/article/PIIS01 40-6736(07)61 687-0/ 
+abstract. 
+
+5.  GublerDJ,  Clark  GG.  Dengue/dengue  hemorrhagic  fever:  the  emergence 
+of  a  global  health  problem.  Emerg  Infect  Dis.  1995;1:55-7.  Available  from: 
+http://wwwnc.cdc.gOv/eid/article/1/2/95-0204_article. 
+
+6.  Vedani  A,  Smiesko  M.  In  Silico  Toxicology  in  Drug  Discovery  —  Concepts 
+Based  on  Three-dimensional  Models.  Altern  Lab  Anim.  2009;37:477-96. 
+
+7.  Kermack  WO,  McKendrick  AG.  A  contribution  to  the  mathematical  theory 
+of  epidemics.  Proc  Math  Phys  Eng  Sci.  1 927;1 15:700-21.  Available  from: 
+httpV/rspa.royalsocietypublishing.org/content/l  1 5/772/700. 
+
+8.  Andraud  M,  Hens  N,  Marais  C,  Beutels  P.  Dynamic  epidemiological 
+models  for  dengue  transmission:  a  systematic  review  of  structural 
+approaches.  Plos  One.  201 2;7:e49085.  Available  from:  http://journals.plos. 
+org/plosone/article?id=1 0.1 371/journal.pone.0049085. 
+
+9.  Bailey  NTJ.  The  mathematical  theory  of  infectious  diseases  and  its 
+applications,  2nd  ed.  London:  Griffin;  1 975. 
+
+1 0.  Hemingway  J,  Field  L,  Vontas  J.  An  Overview  of  Insecticide  Resistance. 
+Science.  2002;298:96-7.  Available  from:  http://science.sciencemag.org/ 
+content/298/5591/96. 
+
+11.  Griffiths  AJF,  Miller  JH,  Suzuki  DT,  Lewontin  RC,  Gelbart  WM. 
+Introduction  to  genetic  analysis,  9th  ed.  New  York:  Freeman;  2008. 
+
+
+Gabriel  Kuniyoshi  and  Pio  dos  Santos  Journal  of  Venomous  Animals  and  Toxins  including  Tropical  Diseases  (201 7)  23:34 
+
+
+Page  14  of  14 
+
+
+1 2.  World  health  organization,  (ed).  Global  plan  for  insecticide  resistance 
+management  in  malaria  vectors,  1  st  ed.  Geneve:  WHO  Press;  2012. 
+Available  from:  http://www.who.int/malaria/publications/atoz/gpirm/en/. 
+
+1 3.  Liu  N.  Insecticide  Resistance  in  Mosquitoes:  Impact,  Mechanisms,  and 
+Research  Directions.  Ann  R  Entom.  201 5;60:537-59.  Available  from  http:// 
+www.annualreviews.org/doi/abs/10.1 146/annurev-ento-01 0814-020828. 
+
+14.  Darwin  CR.  On  the  origin  of  species  by  means  of  natural  selection,  or  the 
+preservation  of  favoured  races  in  the  struggle  for  life,  1  st  ed.  London: 
+Murray;  1 859.  Available  from:  http://darwin-online.org.uk/content/ 
+frameset?itemlD=F373&viewtype=text&pageseq=1. 
+
+1 5.  Freeman  S,  Herron  JC.  Evolutionary  analysis,  4th  ed.  London:  Pearson; 
+2007. 
+
+1 6.  Hardy  GH.  Mendelian  proportions  in  a  mixed  population.  Science.  1 908;28: 
+49-50.  Available  from:  http://science.sciencemag.org/content/28/706/49. 
+
+1 7.  Gourbiere  S,  Dorn  P,  Tripet  F,  Dumonteil  E.  Genetics  and  evolution  of 
+triatomines:  from  phylogeny  to  vector  control.  Heredity.  201 1  ;1 08: 
+
+1 90-202.  Available  from:  http://www.nature.com/hdy/journal/v108/n3/ 
+full/hdy201 171a.html. 
+
+1 8.  Chanda  E,  Thomsen  EK,  Musapa  M,  Kamuliwo  M,  Brogdon  WG,  Norris  DE, 
+et  al.  An  operational  framework  for  insecticide  resistance  management 
+planning.  Emerg  Infect  Dis.  201 6;22:773-9.  Available  from:  http://wwwnc. 
+cdc.gov/eid/article/22/5/15-0984_article. 
+
+19.  Luz  PM,  CodecoCT,  MedLockJ,  Struchiner CJ,  Valle  D,  Galvani  AP. 
+Impact  of  insecticide  interventions  on  the  abundance  and  resistance 
+profile  of  Aedes  aegypti.  Epidemiol  Infect.  2009;1 37:1 203-1 5.  Available 
+from:  https://www.ncbi.nlm.nih.gOv/pubmed/1 91 34235. 
+
+20.  Schechtman  H,  Souza  OM.  Costly  Inheritance  and  the  Persistence  of 
+Insecticide  Resistance  in  Aedes  aegypti  Populations.  Plos  ONE.  201 5;7: 
+450.  Available  from:  http://parasitesandvectors.biomedcentral.com/ 
+articles/1 0.1 1 86/1 756-3305-7-450. 
+
+21 .  Santos  FLP.  Patches  approach  to  investigate  the  population  dynamics  in 
+dengue;  201 7.  p  30-14.  Available  from:  http://dx.doi.org/10.5540/tema. 
+2017.018.01.0003. 
+
+22.  Hastings  A.  Population  Biology:  concepts  and  models,  1  st  ed.  New  York: 
+Springer;  1997. 
+
+23.  Chouin-CarneiroT,Vega-Rua  A,Vazeille  M,Yebakima  A,Girod  R,Goindin  D, 
+et  al.  Differential  Susceptibilities  of  Aedes  aegypti  and  Aedes  albopictus 
+from  the  Americas  to  Zika  Virus.  Plos  One.  2016.  Available  from:  http:// 
+journals.plos.org/plosntds/a  rticle?id=1 0.1 371  /journal,  pntd.0004543. 
+
+24.  Menach  A,  McKenzie  FE,  FlahaultA,  Smith  DL.  The  unexpected 
+importance  of  mosquito  oviposition  behaviour  for  malaria: 
+non-productive  larval  habitats  can  be  sources  for  malaria  transmission. 
+Malar  J.  2005;4:23.  Available  from:  http://malariajournal.biomedcentral. 
+com/articles/1 0.1 1 86/1 475-2875-4-23. 
+
+25.  Dias  LBA,  Almeida  SCL,  HaesTM,  Mota  LM,  Roriz-Filho  JS.  Dengue: 
+transmissao,  aspectos  clinicos,  diagnostico  e  tratamento.  Medicina 
+(Ribeirao  Preto).  2010;43:143-52.  Available  from:  http://revista.fmrp.usp. 
+br/2010/vol43n2/Simp6_Dengue.pdf. 
+
+26.  Nishino  K,  Yactayo  S,  Garcia  E,  Aramburu  GJ,  Manuel  E,  Costa  A,  etal. 
+Yellow  fever  urban  outbreak  in  Angola  and  the  risk  of  extension:  World 
+Health  Organization;  2016.  Available  from  http://www.who.int/wer/2016/ 
+wer91 14.pdf?ua=1. 
+
+27.  PialouxG,  Gauzere  BA,  Jaureguiberry  S,  Strobel  M.  Chikungunya,  an 
+epidemic  arbovirosis.  Lancet  Infect  Dis.  2007;7:31 9-27.  Available  from: 
+http://www.thelancet.com/journals/laninf/article/PIIS1473- 
+3099(07)701 07- X/fulltext. 
+
+28.  Monitoramento  dos  casos  de  dengue,  febre  de  chikungunya  e  febre  pelo 
+virus  Zika  ate  a  Semana  Epidemiolo.  Brasilia:  Secretary  of  Health  Vigilance; 
+2016.  Available  from  http://portalsaude.saude.gov.br/images/pdf/2016/ 
+junho/30/201 6-021.  pdf. 
+
+29.  Chan  M.  Yellow  fever:  the  resurgence  of  a  forgotten  disease;  2016. 
+Available  from:  http://www.who.int/entity/mediacentre/commentaries/ 
+yel low- fever/en.  Accessed:  lOJun  2016. 
+
+30.  Garcia  AG,  Ferreira  CP,  Consoli  FL,  Godoy  WAC.  Predicting  evolution  of 
+insect  resistance  to  transgenic  crops  in  within-field  refuge  configurations, 
+based  on  larval  movement.  Ecological  Complexity.  2016;28:94-103. 
+Available  from:  http://www.sciencedirect.com/science/article/pii/ 
+
+SI  476945X1 6300563. 
+
+31.  Saavedra-Rodriguez  K,  Urdaneta-Marquez  L,  Rajatileka  S,  Moulton  M, 
+Flores  AE,  Fernandez-Salas  I,  et  al.  A  mutation  in  the  voltage-gated 
+sodium  channel  gene  associated  with  pyrethroid  resistance  in  Latin 
+
+
+American  Aedes  aegypti.  Insect  Mol  Biol.  2007;1 6:785-98.  Available  from: 
+http://onlinelibrary.wiley.eom/doi/10.1 1 1 1/j.1365-2583.2007.00774.x/full. 
+
+32.  Bonin  A,  Paris  M,  Frerot  H,  Bianco  E,  Tetreau  G,  Despres  L.  The  genetic 
+architecture  of  a  complex  trait:  Resistance  to  multiple  toxins  produced  by 
+Bacillus  thuringiensis  israelensis  in  the  dengue  and  yellow  fever  vector,  the 
+mosquito  Aedes  aegypti.  Infect  Genet  Evol.  201 5;35:204— 1 3.  Available  from: 
+http://www.sciencedirect.com/science/article/pii/S1 5671 3481 5003214. 
+
+33.  Silva  APB,  Santos  JMM,  Martins  AJ.  Mutations  in  the  voltage-gated 
+sodium  channel  gene  of  anophelines  and  their  association  with  resistance 
+to  pyrethroids  -  a  review.  Parasit  Vectors.  2014.  Available  from:  http:// 
+journals.plos.org/plosone/article?id=1 0.1 371/joumal.pone.OI  23961. 
+
+34.  Alout  H,  Ndam  NT,  Sandeu  MM,  Djegbe  I,  Chandre  F,  Dabire  RK,  et  al. 
+Insecticide  Resistance  Alleles  Affect  Vector  Competence  of  Anopheles 
+gambiaes.s  for  Plasmodium  falciparum  Field  Isolates.  Plos  One.  201 3;8: 
+e63849.  Available  from:  http://journals.plos.org/plosone/article?id=1 0. 
+
+1 371/journal.pone.0063849. 
+
+35.  Nitatpattana  N,  Kanjanopas  K,  Yoksan  S,  Satimai  W,  Vongba  N, 
+Langdatsuwan  S,  et  al.  Long-term  persistence  of  Chikungunya  virus 
+neutralizing  antibodies  in  human  populations  of  North  Eastern  Thailand. 
+Virol  J.  201 4;1 1 .  Available  from:  https://virologyj.biomedcentral.com/ 
+articles/1 0.1 1 86/1 743-422X- 11-183. 
+
+36.  Normmile  D.  New  dengue  virus  throws  a  spanner  in  disease  control 
+efforts.  Science.  201 3;342:41 5.  Available  from:  http://science.sciencemag. 
+org/content/342/61 57/41 5. 
+
+
+Submit  your  next  manuscript  to  BioMed  Central 
+and  we  will  help  you  at  every  step: 
+
+•  We  accept  pre-submission  inquiries 
+
+•  Our  selector  tool  helps  you  to  find  the  most  relevant  journal 
+
+•  We  provide  round  the  clock  customer  support 
+
+•  Convenient  online  submission 
+
+•  Thorough  peer  review 
+
+•  Inclusion  in  PubMed  and  all  major  indexing  services 
+
+•  Maximum  visibility  for  your  research 
+
+Submit  your  manuscript  at  ^  s 
+
+www.biomedcentral.com/submit  \_)  BioMed  Central 
+
+

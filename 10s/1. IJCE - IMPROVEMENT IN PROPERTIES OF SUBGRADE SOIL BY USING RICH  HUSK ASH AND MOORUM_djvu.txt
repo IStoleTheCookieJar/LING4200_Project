@@ -1,0 +1,1426 @@
+International  Journal  of  Civil 
+Engineering  (UCE) 
+
+ISSN(P):  2278-9987;  ISSN(E):  2278-9995 
+Vol.  5,  Issue  4,  Jun  - Jul  2016;  1-8 
+© IASET 
+
+
+IASET 
+
+
+International  Academy  of  Science, 
+Engineering  and  Technology 
+
+Connecting  Researchers;  Nurturing  Innovations 
+
+
+IMPROVEMENT  IN  PROPERTIES  OF  SUBGRADE  SOIL  BY  USING 
+RICH  HUSK  ASH  AND  MOORUM 
+BALWANT  RAMTEKE1  & A.  K.  SAXSENA2 
+
+’M.Tech.  Student,  Department  of  Civil  Engineering,  LNCT  Engineering  College  Bhopal,  MP,  India 
+2 Associate  Professor  & Head,  Department  of  Civil  Engineering,  LNCT  Engineering  College  Bhopal,  MP,  India 
+
+
+ABSTRACT 
+
+The  technology  of  road  construction  is  subjected  to  changes  to  cope  up  with  changing  vehicular  pattern, 
+construction  materials  and  sub-grade  conditions.  Rice  Husk  is  a waste  material  produced  in  rice  industry.  Rice  Husk  can  be 
+used  in  various  geotechnical  constructions  like  embankments,  soil  stabilization,  and  sub  grades  etc.  Soil  stabilization  has 
+become  a major  issue  in  construction  engineering  and  the  researches  regarding  the  effectiveness  of  using  industrial  wastes 
+are  rapidly  increasing.  The  present  experimental  work  briefly  describes  the  suitability  of  the  locally  available  Rice  Husk 
+Ash  (RHA)  to  be  used  in  the  local  construction  industry  in  a way  to  minimize  the  amount  of  waste  to  be  disposed  to  the 
+environment  causing  environmental  pollution.  The  common  soil  stabilization  techniques  are  becoming  costly  day  by  day 
+due  to  the  rise  of  cost  of  the  stabilizing  agents  like,  cement,  lime,  etc.  The  cost  of  stabilization  may  be  minimized  by 
+replacing  a good  proportion  of  stabilizing  agent  using  RHA. 
+
+KEYWORDS:  Black  Cotton  Soil,  Moorum,  Rise  Husk  Ash  &Stabilization 
+
+INTRODUCTION 
+
+The  design  of  the  pavement  layers  laid  over  the  subgrade  soil  starts  off  with  the  determination  of  subgrade 
+strength  and  the  traffic  volume  which  is  to  be  carried.  The  design  of  pavement  is  very  much  dependent  on  the  subgrade 
+strength  of  soil.  Design  criteria  mainly  needs  thickness  of  layers.  Weaker  subgrade  needs  thicker  layers  whereas  stronger 
+subgrade  needs  thinner  pavement  layers.  The  Indian  Road  Congress  (IRC)  provides  the  exact  procedures  for  the  pavement 
+layers  design  which  is  based  upon  the  subgrade  strength.  The  strength  of  a subgrade  soil  is  normally  expressed  in  terms  of 
+the  California  Bearing  Ratio  (CBR).  According  to  their  study  the  poor  subgrade  soil  having  soaked  CBR  value  less  than 
+2%  is  to  be  replaced  by  good  quality  subgrade  materials  or  to  be  replaced  by  good  quality  subgrade  material  or  to  be 
+stabilized  by  any  of  the  means[l].  In  his  experimental  work  he  used  RBI  Grade  81  as  an  additive  to  improve  the  properties 
+of  subgrade  soil,  since  RBI  Grade  8 1 is  a costlier  additive  which  will  increase  the  construction  cost  of  the  road  he  also  used 
+locally  available  moorum  which  may  reduce  the  construction  cost  upto  certain  extent[7]. 
+
+MATERIALS  AND  PROPERTIES 
+
+Black  Cotton  Soil 
+
+The  soil  sample  is  collected  from  Navegao,  District  Gadchiroli  in  Maharashtra  state,  India.  Soil  Sample  is 
+collected  1 meter  below  the  original  depth  then  collected  into  bag  and  send  into  the  laboratory  for  examination. 
+
+
+www.iaset.us 
+
+
+editor  @iaset. us 
+
+
+2 
+
+
+Balwant  Ramteke  & A.  K.  Saxsena 
+
+
+Rice  Husk  Ash 
+
+For  the  present  work,  the  RHA  was  obtained  from  the  open  clay  brick  kill  at  Pardi,  District  Gadchiroli, 
+Maharashtra. 
+
+Moorum 
+
+The  weathered  rock  fragments  which  are  gravelly  and  non-plastic  in  nature  are  locally  called  as  Moorum.  The 
+granular  moorum  is  collected  from  Bhagwanpur,  District  Gadchiroli,  Maharashtra. 
+
+METHODOLOGY 
+
+The  technique  of  stabilizing  the  soil  with  locally  available  moorum  is  being  carried  since  long  time.  Mixing  Rice 
+Husk  Ash,  Moorum  and  pulverized  black  cotton  soil  with  the  optimum  moisture  content  and  compacting  the  mix  to  attain 
+required  density.  The  material  obtained  by  mixing  soil,  Rice  Husk  Ash  and  Moorum  is  known  as  stabilized  soil.  Many 
+researchers  have  worked  extensively  on  the  utilization  of  Agricultural  waste  product  RHA  in  road  construction  techniques 
+and  found  that  10%  RHA  mixed  with  the  natural  soil  gives  optimum  result.  Hence  for  the  present  study,  fixed  10%  RHA 
+was  added  to  the  natural  soil  sample.  Similarly  increasing  proportion  of  moorum  as  stabilizer  also  improves  the  properties 
+of  soil. 
+
+
+Sample  No.  1:  Natural  soil  + 10%  RHA  + 20%  Moorum 
+
+Sample  No.  2:  Natural  soil  + 10%  RHA  + 30%  Moorum 
+
+RESULTS  AND  DISCUSSIONS 
+
+PROPERTIES  OF  SOIL  + 10%  RHA+  20%  MOORUM 
+
+Liquid  Limit  of  Soil 
+
+
+Table  1:  Liquid  Limit  of  Soil  + 10%  RHA+  20%  Moorum 
+
+
+Sr.  No. 
+
+Particulars 
+
+Trial- 1 
+
+Trial-  2 
+
+Trial-3 
+
+Trial-  4 
+
+Trial-  5 
+
+1 
+
+No.  of  Blows 
+
+35 
+
+29 
+
+26 
+
+20 
+
+15 
+
+2 
+
+Container  No. 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+3 
+
+Wt  of  container  + Wet  Soil 
+
+40.005 
+
+45.515 
+
+47.785 
+
+48.720 
+
+52.345 
+
+4 
+
+Wt  of  container  + Dry  Soil 
+
+34.865 
+
+37.115 
+
+38.795 
+
+38.825 
+
+40.080 
+
+5 
+
+Loss  of  Moisture 
+
+8.325 
+
+9.720 
+
+10.225 
+
+10.995 
+
+12.465 
+
+6 
+
+Wt  of  container  in  gm 
+
+15.470 
+
+15.270 
+
+15.990 
+
+15.730 
+
+15.560 
+
+7 
+
+Wt  of  Dry  Soil 
+
+19.395 
+
+21.845 
+
+22.805 
+
+23.095 
+
+24.520 
+
+8 
+
+Moisture  Content  % 
+
+42.923 
+
+44.495 
+
+44.837 
+
+47.608 
+
+50.836 
+
+Liquid  limit  = 45.6% 
+
+
+a 
+
+
+S'! 
+
+
+LIQUID  LIMIT  TEST 
+
+
+NO.  OF  BLOWS  (log)  10 
+
+
+Figure  1:  % of  Moisture  vs.  No.  of  Blows 
+
+
+Impact  Factor  (JCC):  3.2318 
+
+
+NAAS  Rating:  2.06 
+
+
+Improvement  in  Properties  of  Subgrade  Soil  by  Using  Rich  Husk  Ash  and  Moorum 
+
+
+3 
+
+
+Plastic  Limit  of  Soil 
+
+
+Table  2:  Plastic  Limit  of  Soil  + 10%  RHA+  20%  Moorum 
+
+
+Sr.  No. 
+
+Particulars 
+
+Trial- 1 
+
+Trial-  2 
+
+Trial-  3 
+
+1 
+
+Container  No 
+
+14 
+
+15 
+
+16 
+
+2 
+
+Wt  of  container  + Wet  Soil 
+
+23.370 
+
+24.825 
+
+26.965 
+
+3 
+
+Wt  of  container  + Dry  Soil 
+
+20.810 
+
+22.605 
+
+24.380 
+
+4 
+
+Loss  of  Moisture 
+
+2.560 
+
+2.220 
+
+2.585 
+
+5 
+
+Wt  of  container  in  gm 
+
+11.970 
+
+15.200 
+
+15.510 
+
+6 
+
+Wt  of  Dry  Soil 
+
+8.840 
+
+7.405 
+
+8.870 
+
+7 
+
+Moisture  Content  % 
+Average  plastic  limit  % 
+
+28.959 
+
+29.980 
+
+29.143 
+
+29.36 
+
+Plastic  Limit  = 29.36  % 
+
+
+Plasticity  Index  = Liquid  Limit  - Plastic  Limit 
+Plasticity  Index  = 45.60  - 29.36 
+
+
+= 16.24  % 
+
+
+Compaction  Test 
+
+
+Table  3:  Compaction  Test  of  Soil  + 10%  RHA+  20%  Moorum 
+
+
+Sr. 
+
+No. 
+
+Weight  of 
+Mould 
++ 
+
+Compacted 
+Soil  W2 
+(gms) 
+
+Weight 
+of  Wet 
+Soil 
+W2- 
+W1 
+(gms) 
+
+Wet 
+
+Density 
+
+(gms/cm3) 
+
+Moisture  Content  Determination 
+
+Wt  of 
+Container 
++ 
+
+Wet  Soil 
+
+(gms) 
+
+Wt  of 
+Contain 
+er 
++ 
+
+Wt  of 
+Dry  Soil 
+(gms) 
+
+Weight 
+
+of 
+
+Water 
+
+(Ww) 
+
+(gms) 
+
+Weight 
+
+of 
+
+Dry 
+
+Soil 
+
+(Ws) 
+
+(gms) 
+
+Moisture 
+
+Content 
+
+(%)  (W) 
+
+Dry 
+
+Density 
+
+(gm/ 
+
+cm3) 
+
+1 
+
+6562 
+
+1870 
+
+1.87 
+
+1336 
+
+1228 
+
+108 
+
+892 
+
+12.11 
+
+1.67 
+
+2 
+
+6592 
+
+1900 
+
+1.90 
+
+1338 
+
+1229 
+
+109 
+
+891 
+
+12.23 
+
+1.69 
+
+3 
+
+6696 
+
+2004 
+
+2.00 
+
+1358 
+
+1232 
+
+126 
+
+874 
+
+14.42 
+
+1.75 
+
+4 
+
+6702 
+
+2010 
+
+2.01 
+
+1326 
+
+1194 
+
+132 
+
+868 
+
+15.21 
+
+1.74 
+
+5 
+
+6680 
+
+1988 
+
+1.99 
+
+1342 
+
+1206 
+
+136 
+
+864 
+
+15.74 
+
+1.72 
+
+6 
+
+6638 
+
+1946 
+
+1.95 
+
+1352 
+
+1202 
+
+150 
+
+850 
+
+17.65 
+
+1.65 
+
+Compaction  Test  Curve 
+
+1.76 
+
+S' 
+
+£ 
+
+, ♦ 
+
+>■ 
+
+♦ 
+
+c 
+
+/ 
+
+♦ 
+
+\ 
+
+>• 
+
+/ 
+
+12.11  12.23  14.42 
+
+Moistu 
+
+15.21  15.74  17.65 
+
+re  Content(%) 
+
+Figure  2:  Dry  Density  vs.  Moisture  Contain 
+
+
+M.  D.  D = 1.75  O.  M.  C = 14.42  % 
+
+
+www.iaset.us 
+
+
+editor  @iaset. us 
+
+
+4 
+
+
+Balwant  Ramteke  & A.  K.  Saxsena 
+
+
+C.B.R.  Test  of  Soil 
+
+
+Table  4:  C.B.R.  Test  of  Soil  + 10%  RHA+  20%  Moorum 
+
+
+Penetration 
+
+(mm) 
+
+Load  (Kg) 
+
+Trial-  I 
+
+Trial-  II 
+
+Trial-  III 
+
+0.0 
+
+0 
+
+0 
+
+0 
+
+0.5 
+
+45.8 
+
+39.2 
+
+32.7 
+
+1.0 
+
+65.4 
+
+52.3 
+
+39.2 
+
+1.5 
+
+71.9 
+
+65.4 
+
+52.3 
+
+2.0 
+
+78.5 
+
+78.5 
+
+65.4 
+
+2.5 
+
+85.0 
+
+85.0 
+
+78.5 
+
+3.0 
+
+98.1 
+
+98.1 
+
+91.6 
+
+4.0 
+
+111.2 
+
+111.2 
+
+104.6 
+
+5.0 
+
+117.7 
+
+117.7 
+
+117.7 
+
+7.5 
+
+143.9 
+
+137.3 
+
+137.3 
+
+10.0 
+
+163.5 
+
+157.0 
+
+163.5 
+
+12.5 
+
+170.0 
+
+170.0 
+
+176.6 
+
+LOAD  PENETRATION  CURVE 
+
+200 
+180 
+160 
+140 
+120 
+100 
+80 
+60 
+40 
+20 
+0 
+
+ooooooooooooooo 
+dr-irsrn^LOor^odo'ioT-irSfO'T 
+
+T— I T— I tH  tH  tH 
+
+Penetration  (mm) 
+
+Figure  3:  Load  vs.  Penetration 
+
+Average  C.B.R.  at  2.5mm  = 6.05  % 
+
+Average  C.B.R.  at  5.0mm  = 5.73  % 
+
+PROPERTIES  OF  SOIL  + 10%  RHA+  30%  MOORUM 
+
+Liquid  Limit  of  Soil 
+
+
+O 
+
+1 
+
+
+Table  5:  Liquid  Limit  of  Soil  + 10%  RHA+  30%  Moorum 
+
+
+Sr.  No. 
+
+Particulars 
+
+Trial- 1 
+
+Trial-  2 
+
+Trial-3 
+
+Trial-  4 
+
+Trial-  5 
+
+1 
+
+No.  of  Blows 
+
+34 
+
+27 
+
+23 
+
+19 
+
+14 
+
+2 
+
+Container  No. 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+3 
+
+Wt  of  container  + Wet  Soil 
+
+32.845 
+
+33.140 
+
+33.400 
+
+34.035 
+
+35.345 
+
+4 
+
+Wt  of  container  + Dry  Soil 
+
+28.395 
+
+28.415 
+
+28.750 
+
+28.925 
+
+29.595 
+
+5 
+
+Loss  of  Moisture 
+
+4.450 
+
+4.725 
+
+4.650 
+
+5.110 
+
+5.750 
+
+6 
+
+Wt  of  container  in  gm 
+
+15.470 
+
+15.270 
+
+15.990 
+
+15.730 
+
+15.560 
+
+7 
+
+Wt  of  Dry  Soil 
+
+12.925 
+
+13.145 
+
+12.760 
+
+13.195 
+
+14.035 
+
+8 
+
+Moisture  Content  % 
+
+34.429 
+
+35.945 
+
+36.442 
+
+38.727 
+
+40.969 
+
+Impact  Factor  (JCC):  3.2318 
+
+
+NAAS  Rating:  2.06 
+
+
+Improvement  in  Properties  of  Subgrade  Soil  by  Using  Rich  Husk  Ash  and  Moorum 
+
+
+5 
+
+
+LIQUID  LIMIT  TEST 
+
+
+Figure  4:  % of  Moisture  vs.  No.  of  Blows 
+Liquid  Limit  = 36.60  % 
+
+
+Plastic  Limit  of  Soil 
+
+
+Table  6:  Plastic  Limit  of  Soil  + 10%  RHA+  30%  Moorum 
+
+
+Sr.  No. 
+
+Particulars 
+
+Trial- 1 
+
+Trial-  2 
+
+Trial-  3 
+
+1 
+
+Container  No 
+
+14 
+
+15 
+
+16 
+
+2 
+
+Wt  of  container  + Wet  Soil 
+
+26.155 
+
+27.910 
+
+28.200 
+
+3 
+
+Wt  of  container  + Dry  Soil 
+
+23.670 
+
+25.715 
+
+25.995 
+
+4 
+
+Loss  of  Moisture 
+
+2.485 
+
+2.195 
+
+2.205 
+
+5 
+
+Wt  of  container  in  gm 
+
+11.970 
+
+15.200 
+
+15.510 
+
+6 
+
+Wt  of  Dry  Soil 
+
+11.700 
+
+10.515 
+
+10.485 
+
+7 
+
+Moisture  Content  % 
+Average  plastic  limit  % 
+
+21.239 
+
+20.875 
+
+21.030 
+
+21.05 
+
+Plastic  Limit  = 21.05  % 
+
+
+Plasticity  Index  = Liquid  Limit  - Plastic  Limit 
+Plasticity  Index  = 36.60  - 21.05 
+= 15.55  % 
+
+
+Compaction  Test  of  Soil 
+
+
+Table  7:  Compaction  Test  of  Soil  + 10%  RHA+  30%  Moorum 
+
+
+Sr. 
+
+No. 
+
+Weight  of 
+Mould 
++ 
+
+Compacted 
+
+Soil 
+
+W2  (gms) 
+
+Weight 
+
+of 
+
+Wet 
+
+Soil 
+
+W2 
+
+W1 
+
+( gms) 
+
+Wet 
+
+Density 
+
+(gms/ 
+
+cm3) 
+
+Moisture  Content  Determination 
+
+Wt  of 
+Container 
++ 
+
+Wet  Soil 
+(gms) 
+
+Wt  of 
+Container 
++ 
+
+Wt  of  Dry 
+Soil  (gms) 
+
+Weight 
+
+of 
+
+Water 
+
+(Ww) 
+
+(gms) 
+
+Weight 
+
+of 
+
+Dry 
+
+Soil 
+
+(Ws) 
+
+( gms) 
+
+Moisture 
+
+Content 
+
+(%) 
+
+(W) 
+
+Dry 
+
+Density 
+
+(gm 
+
+/cm3) 
+
+1 
+
+6525 
+
+1833 
+
+1.83 
+
+1336 
+
+1236 
+
+100 
+
+900 
+
+11.11 
+
+1.650 
+
+2 
+
+6555 
+
+1863 
+
+1.86 
+
+1338 
+
+1235 
+
+103 
+
+897 
+
+11.48 
+
+1.671 
+
+3 
+
+6632 
+
+1940 
+
+1.94 
+
+1326 
+
+1219 
+
+107 
+
+893 
+
+11.98 
+
+1.732 
+
+4 
+
+6699 
+
+2007 
+
+2.01 
+
+1340 
+
+1228 
+
+112 
+
+888 
+
+12.61 
+
+1.782 
+
+5 
+
+6586 
+
+1894 
+
+1.89 
+
+1350 
+
+1236 
+
+114 
+
+886 
+
+12.87 
+
+1.678 
+
+6 
+
+6520 
+
+1828 
+
+1.83 
+
+1352 
+
+1232 
+
+120 
+
+880 
+
+13.64 
+
+1.609 
+
+www.iaset.us 
+
+
+editor  @iaset. us 
+
+
+6 
+
+
+Balwant  Ramteke  & A.  K.  Saxsena 
+
+
+M.  D.  D = 1.78  O.  M.  C = 12.60  % 
+
+
+C.B.R.  Test  of  Soil 
+
+
+Table  8:  C.B.R.  Test  of  Soil  + 10%  RHA+  30%  Moorum 
+
+
+Penetration 
+
+(mm) 
+
+Load  (Kg) 
+
+Trial-  I 
+
+Trial-  II 
+
+Trial-  III 
+
+0.0 
+
+0 
+
+0 
+
+0 
+
+0.5 
+
+39.2 
+
+52.3 
+
+52.3 
+
+1.0 
+
+58.9 
+
+58.9 
+
+58.9 
+
+1.5 
+
+78.5 
+
+71.9 
+
+71.9 
+
+2.0 
+
+85.0 
+
+85.0 
+
+85.0 
+
+2.5 
+
+98.1 
+
+98.1 
+
+98.1 
+
+3.0 
+
+111.2 
+
+111.2 
+
+111.2 
+
+4.0 
+
+124.3 
+
+124.3 
+
+124.3 
+
+5.0 
+
+137.3 
+
+130.8 
+
+130.8 
+
+7.5 
+
+143.9 
+
+143.9 
+
+143.9 
+
+10.0 
+
+150.4 
+
+150.4 
+
+150.4 
+
+12.5 
+
+157.0 
+
+157.0 
+
+163.5 
+
+Average  C.B.R.  at  2.5mm  = 7.16% 
+Average  C.B.R.  at  5.0mm  = 6.47  % 
+
+
+Impact  Factor  (JCC):  3.2318 
+
+
+NAAS  Rating:  2.06 
+
+
+Improvement  in  Properties  of  Subgrade  Soil  by  Using  Rich  Husk  Ash  and  Moorum 
+
+
+7 
+
+
+CONCLUSIONS 
+
+Based  on  the  investigation,  following  conclusions  are  drawn: 
+
+• Addition  of  stabilizer  (RHA  and  Moorum)  in  the  BC  soil  improves  the  Engineering  properties  of  the 
+soil. 
+
+• Addition  of  RHA  lowers  down  the  Maximum  Dry  Density  of  B.C.  Soil  owing  to  lesser  specific 
+gravity. 
+
+• Addition  of  RHA  improves  the  CBR  value  of  Natural  B.C.  Soil. 
+
+REFERENCES 
+
+1.  Anil  Kumar  Singhai,  Sudhanshu  Shekhar  Singh,  “Laboratory  study  on  soil  stabilization  using  fly  ash  and  rice 
+husk  ash”.  International  Journal  of  Research  in  Engineering  and  Technology(IJRET)eISSN:23 19-1 163  I p ISSN: 
+2321-7308.  Volume:  03  Issue:  11  Nov-2014. 
+
+2.  Dr.  Robert  M.  Brooks,  “Soil  stabilization  with  fly  ash  and  rice  husk  ash”.  International  Journal  of  Research  and 
+Reviews  in  Applied  Sciences  ISSN:  2076-734X,  EISSN:  2076-7366  Volume  1,  Issue  3(December  2009). 
+
+3.  Sabyasachi  Biswas  Arghadeep  Biswas,  Amar  Dighade  “Utilization  of  rice  husk  with  lime  in  subgrade  soil  for  a 
+rural  road”,  International  Conference  on  Emerging  Frontiers  in  Technology  for  Rural  Area  (EFITRA)  2012. 
+
+4.  B.  Suneel  Kumar,  T.V.  Preethi,  “Behavior  of  Clayey  Soil  Stabilized  with  Rice  Husk  Ash  & Lime”,  International 
+Journal  of  Engineering  Trends  and  Technology  (IJETT)  - Volume  1 1 Number  1 - May  2014. 
+
+5.  Mohammed  Y.  Fattah,  Falah  H.  Rahil,  Kawther  Y.  H.  Al-Soudany,  “Improvement  of  Clayey  Soil  Characteristics 
+Using  Rice  Husk  Ash”,  Journal  of  Civil  Engineering  and  Urbanism.  Volume  3,  Issue  1:  12-18  (2013). 7.  B.M. 
+Patil,  K.  A.  Patil,  “Improvement  in  Properties  of  Subgrade  Soil  by  Using  Moorum  and  RBI  Grade  81”, 
+International  Journal  of  Scientific  & Engineering  Research,  Volume  4,  Issue  5,  May  2013. 
+
+6.  Akshaya  Kumar  Sabat,  Radhikesh  P.  Nanda,  “Effect  of  marble  dust  on  strength  and  durability  of  Rice  husk  ash 
+stabilised  expansive  soil”  International  journal  of  civil  and  structural  engineering.  Volume  1,  No  4,  2011. 
+
+7.  Agbede,  I.  O,  and  Joel,  M,  “Effect  of  rice  husk  ash  (RHA)  on  the  properties  of  Ibaji  burnt  clay  bricks”  American 
+journal  of  scientific  and  industrial  research.  ISSN:  2153-649X  doi:  10. 525  l/ajsir.201 1.2.4.674.677 
+
+8.  Koteswara  Rao.  D Pranav  P.R.T,  Venkatesh  Ganja,  “A  laboratory  study  on  the  efficacy  of  rice  husk  ash  and 
+potassium  chloride  for  the  stabilization  of  expansive  soil”  International  Journal  of  Engineering  Science  and 
+Technology  (IJEST)  ISSN:  0975-5462  Vol.  4 No.  01  January  2012. 
+
+
+www.iaset.us 
+
+
+editor  @iaset. us 
+
+

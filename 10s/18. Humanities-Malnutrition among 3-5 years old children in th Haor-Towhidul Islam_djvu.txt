@@ -1,0 +1,247 @@
+IMPACT:  International  Journal  of  Research  in 
+Humanities,  Arts  and  Literature  (IMPACT:  LJRHAL) 
+ISSN(E):  2321-8878;  ISSN(P):  2347-4564 
+Vol.  2,  Issue  7,  Jul  2014, 167-172 
+©  Impact  Journals 
+
+MALNUTRITION  AMONG  3-5  YEARS  OLD  CHILDREN  IN  THE  HAOR  BASIN  OF 
+BANGLADESH:  A  CROSS-SECTIONAL  STUDY 
+
+MD.  TOWHIDUL  ISLAM1  &  FARAH  SYEDA  HASIN2 
+
+'Development  Researcher  at  Caritas,  Dhaka,  Bangladesh 
+2Doctor  and  Lecturer,  Sirajul  Islam  Medical  College,  Dhaka,  Bangladesh 
+
+ABSTRACT 
+
+The  main  aim  of  this  article  is  to  identify  factors  contributing  to  malnutrition  among  3  to  5  years  old  children 
+living  in  Haor"  Basin  of  Bangladesh.  Two  thousand  and  four  hundred  ninety  eight  (2498)  children  aged  between 
+3  to  5  years  were  chosen  randomly  from  forty  primary  schools'3  in  Kishoreganjc  district  according  to  the  cross-sectional 
+design.  The  nutritional  status  of  the  children  was  assessed  using  a  weight-for-age  z-scored  based  on  the  World  Health 
+Organization  2007  cut-off  points.  The  overall  prevalence  rate  of  underweight  children  was  18.2%.  There  was  no  significant 
+difference  in  the  prevalence  rate  between  males  and  females  (p=0.787).  However,  the  percentage  of  underweight  children 
+was  slightly  higher  among  females  (18.9%)  compare  to  males  (17.6%).  There  was  association  between  parents'  education 
+level  or  employment  status  and  childhood  malnutrition  (p=0.003).  Malnutrition  is  significantly  associated  with  living  in 
+unsafe  environment,  and  at  least  lacking  access  to  proper  health  facilities. 
+
+KEYWORDS:  Children,  Unhygienic  Living  Environment,  Underweight,  Haor  Basin,  Bangladesh 
+INTRODUCTION 
+
+Socio-demographic  factors  such  age,  sex,  family  size  and  number  of  children  may  indirectly  contribute  to  a 
+child's  nutritional  status  and  affect  child  health.  The  complex  etiology  of  childhood  malnutrition  is  a  multifactorial  process 
+and  related  to  many  socioeconomic  and  socio-demographic  factors. 
+
+The  primary  determinants  of  malnutrition  were  unsatisfactory  food  intake,  severe  and  repeated  infections, 
+and  affects  of  helminthes,  or  combination  of  the  three.  The  nutritional  status  of  children  may  also  be  affected  by 
+socio-economic  and  demographic  factors  such  as  paternal  and  maternal  occupation  and  education,  marital  status, 
+family  income,  nutritional  knowledge  of  mothers,  location  of  house  (urban  or  rural,  flood  prone  or  dry  land),  gender  and 
+water  supply  or  unsafe  water. 
+
+The  sex  of  children  is  an  important  influential  factor  in  determining  nutritional  status.  Some  small  scale  studies  on 
+gender  differences  in  anthropometric  status  found  female  children  in  Bangladesh  to  be  at  disadvantage.  Some  have  found 
+no  gender  differences  and  a  few  have  revealed  male  children  to  be  more  often  stunted  or  underweight. 
+
+
+a  Haor  is  a  bowl  shaped  area.  It  covers  seven  districts  of  Bangladesh.  Kishoreganj  is  one  of  the  Haor  surrounded  areas  in 
+Bangladesh 
+
+b  A  primary  school  is  a  place  where  students  aged  from  1  to  10  years  can  learn  primary  education 
+
+c  The  Kishoreganj  district  is  near  to  Dhaka  (capital  city  of  Bangladesh)  and  also  one  of  the  haor  areas  which  is  considered 
+most  vulnerable  in  terms  of  lacked  behind  of  basic  facilities  like  health,  education,  clean  water,  medical  treatment 
+d  z-score  of  <-2  is  considered  to  be  malnourished 
+
+
+7 
+
+n 
+
+Tpact 
+
+ournais 
+
+Impact  Factor(JCC):  1.3648  -  This  article  can  be  downloaded  from  www.impactjournals.us 
+
+
+168 
+
+
+Md.  Towhidul  Islam  &  Farah  Syeda  Hasin 
+
+
+The  family-size  and  number  of  children  living  in  the  same  house  are  important  factors  for  nutritional  status  of  the 
+children,  which  reflects  the  quality  of  care  given  to  those  children.  A  study  done  to  assess  the  nutritional  status  of  children 
+aged  6  to  59  months  in  a  city  of  Zambia,  in  2005  showed  that  43%  of  undernourished  children  were  associated  with 
+extended  families  (five  to  seven  members)  while  36%  were  associated  with  nuclear  families  (two  to  four  members). 
+
+One  important  factor  relating  to  childhood  nutrition  is  the  members'  education.  Many  studies  have  demonstrated 
+that  improvements  in  secondary  school  enrollment  rates  among  females  are  estimated  to  be  responsible  for  43%  of  the  total 
+15.5%  decline  in  the  childhood  underweight  rate  in  developing  countries  during  the  period  1970-1995.  The  father's 
+education  also  emerged  as  an  important  factor  that  was  significantly  associated  with  underweight  status  among  under-five 
+children.  Analysis  showed  that  children  whose  fathers  had  got  scope  to  achieve  higher  education  had  lower  levels  of 
+weight  deficiency  than  those  with  non-literate  fathers.  Usually,  in  Bangladeshi  society  male  members  especially  father  is 
+the  main  bread  earner  and  decision  maker  in  a  family;  so  their  higher  education  plays  an  important  role  in  ensuring  better 
+nutritional  status  of  children. 
+
+Geographical  location  also  plays  an  significant  role  in  child's  nutritional  status  especially  in  haor  basin  every  year 
+flash  flood  destroy  the  crops  which  in  turn  increase  the  vulnerability  of  the  families  mainly  children  who  are  the  main 
+victim  of  scarcity  of  food.  The  70%  respondents  said  that  flash  fold  affects  severally  to  their  food  intake  and  often  forced 
+them  to  take  one  meal  a  day.  The  poor  food  intake  is  main  cause  behind  malnutrition  among  children  as  the  general 
+perception  of  the  respondents  of  the  study  area.  Nutritional  status  is  the  status  of  a  complex  interaction  between  the  foods 
+we  eat,  our  overall  health  and  the  environment  in  which  we  live,  food,  health  and  caring  are  the  three  in 
+"pillars  of  well-being  ranking". 
+
+Basic  services,  such  as  electricity  and  water  supply,  have  been  disrupted,  and  a  rise  in  food  prices  has  affected 
+food  security  at  the  household  level.  Further,  forced  people  to  live  with  acute  poverty.  This  will,  in  turn,  cause  malnutrition 
+among  family  members,  especially  male  and  female  children. 
+
+METHODOLOGY  OF  THE  STUDY 
+
+A  cross-sectional  survey  design  was  used;  the  sample  size  was  2498  aged  between  3  and  5  years  selected 
+randomly  from  4  different  primary  schools  in  Kishoreganj  district  in  July,  201 1.  A  list  of  50  primary  schools  was  collected 
+from  district  education  department  office  and  then  forty  schools  were  selected  from  different  areas  of  the  district, 
+representing  both  high  and  low  socio-economic  classes.  Subsequently,  a  complete  list  of  students'  names  in  each  of  the 
+selected  primary  schools  was  obtained,  and  62  children  from  each  school  were  then  identified  by  employing  simple 
+random  sampling  method. 
+
+Sample  size  calculation  was  done  by  using  following  formula: 
+
+a  —  
+
+Where: 
+
+Z  =  Z  value  (e.g.  1.96  for  95%  confidence  level) 
+
+p  =  percentage  picking  a  choice,  expressed  as  decimal  (.5  used  for  sample  size  needed) 
+|  Index  Copernicus  Value:  3.0  -  Articles  can  be  sent  to  editor@impactjournals.us  | 
+
+
+Malnutrition  among  3-5  Years  Old  Children  in  the  Haor  Basin  of  Bangladesh:  A  Cross-Sectional  Study 
+
+
+169 
+
+
+c  =  confidence  interval,  expressed  as  decimal  (e.g.,  .04  =  +4) 
+Thus,  the  minimum  sample  -size  calculated  was  2498. 
+
+Malnutrition  in  the  study  was  assessed  by  under-weight  status  or  low  weight-for-age  z  score  as  an  indicator  of 
+childhood  maturation.  Underweight  is  2  z-score  below  the  international  reference  for  weight-for-age.  The  z-scores  were 
+calculated  for  a  child's  weight-for-age  z-score  as  an  indicator  of  childhood  malnutrition.  Underweight  is  2  z-score  below 
+the  international  reference  for  weight-for-age. 
+
+Parents'  educational  level  is  defined  in  this  study  as  either  low  (ranging  from  non-literacy  to  primary  education 
+only)  or  high  (secondary  school,  generally  the  final  stage  of  compulsory  education,  and/  or  university  degree). 
+
+RESULTS 
+
+The  prevalence  of  malnutrition  in  this  study  was  18.25.  The  mean  age  of  children  was  4.83.  The  family  size  is 
+4.56  and  according  to  Bangladesh  Bureau  of  Statistics  (BBS,  2011).  The  minimum  number  of  children  in  a  family  ranged 
+between  1-3  and  maximum  6-8. 
+
+More  than  90%  of  the  respondents'  parents  were  still  married.  The  most  common  level  of  education  in  mothers 
+was  at  high  level  with  30%,  with  70%  educated  to  a  low  level.  Among  fathers,  11.4%  were  educated  to  a  high  level, 
+with  88.6%  educated  to  a  low  level.  The  highest  rate  of  malnourishment  in  children  was  found  in  the  low-education  group, 
+it  was  17.4%.  Almost  96%  of  the  fathers  were  working  and  only  4%  not  working.  Among  the  mothers,  55%  were  working 
+and  45%  were  not  working.  The  largest  percent  age  of  malnourishment  was  among  the  children  of  working  mothers 
+(19.4%). 
+
+There  was  no  significant  difference  (p=0.787)  between  males  and  females  regarding  malnutrition,  though  the  level 
+of  underweight  was  higher  in  females  (18.9%)  than  in  males  (17.6%).  Marital  status  (p=0. 113),  mother's  education 
+(p=  0.007),  father's  education  (p=0.023)  showed  significant  association  with  children's  nutritional  status.  There  was  a 
+relationship  between  insecure  living  environment  and  child's  nutritional  status  where  there  was  a  significant  relationship 
+between  families  with  a  member  evicted  from  land  as  a  result  of  soil  erosion  in  last  one  year  with  p=0.017  and  prevalence 
+odds  ratio  (POR)  of  2.4,  which  means  that  families  in  which  lost  land  due  to  flash  or  lost  crops  and  fall  in  poverty  had 
+2.4  times  greater  chance  of  having  malnourished  children.  The  relationship  between  living  in  a  flood  prone  area 
+i.e.,  in  Haor  basin  and  child's  nutritional  status  was  also  significant  with  a  p  value  of  0.003  and  prevalence  odds 
+ratio  of  2.3  while  a  family  moving  from  their  house  because  of  land  lose  was  not  significantly  associated  with  child's 
+malnutrition  status. 
+
+DISCUSSIONS  AND  CONCLUSIONS 
+
+No  significant  difference  in  the  prevalence  of  malnutrition  between  male  and  female  respondents  (p=0.787)  were 
+found.  However,  the  level  of  underweight  was  higher  among  females  (18.9%)  than  among  males  (17.6%).  The  findings  of 
+this  study  are  supported  by  other  studies  done  in  India,  Pakistan.  However,  according  to  another  study  conducted  in  the 
+same  area  i.e.,  Haor  basin  ensured  that  there  is  no  difference  in  weight-for-age  or  weight-for-height  between  boys  and  girls 
+in  the  Haor  area.  Also  revealed  a  truth  that  girls  are  more  vulnerable  or  have  a  greater  possibility  of  reaching  potential 
+linear  growth.  This  could  suggest  that  girls  of  Bangladesh  are  biologically  stronger  at  an  early  age.  However,  there  was 
+significant  relationship  between  lacks  of  proper  medical  facilities  in  rural  areas  of  Haor  basin  with  child's  nutritional  heath. 
+|  Impact  Factor(JCC):  1.3648  -  This  article  can  be  downloaded  from  www.ii  unals.us  | 
+
+
+170 
+
+
+Md.  Towhidul  Islam  &  Farah  Syeda  Hasin 
+
+
+In  this  study,  the  most  common  level  of  education  among  both  mothers  and  fathers  was  low 
+(70.0%  and  88.6%  respectively).  The  low  educational  level  ranged  from  non-literacy  to  primary  education  while  the 
+highly-educated  group  attended  secondary  schools  and  universities.  The  prevalence  of  underweight  was  higher  among 
+children  of  low-educated  fathers  (22.7%)  and  low  educated  mothers  (24.0%)  compared  to  those  of  more  highly  educated 
+parents.  The  association  between  parents'  educational  level  and  childhood  malnutrition,  however,  was  significant 
+(p=0.007  for  the  mother's  education  and  p=0.023  for  the  father's  education).  The  unstable  natural  calamity  in  Haor  basin  in 
+the  last  four  to  five  years  affects  family  and  child  health.  If  we  looking  ten  years  back  we  will  find  all  most  all  villages  in 
+Haor  basin  remain  outside  of  natural  calamity.  Flash  flood  and  recurrent  flood  were  not  a  regular  phenomenon. 
+So,  all  respondents  termed  the  change  behavior  of  climate  as  change  in  climate. 
+
+In  this  study,  the  higher  percentage  of  families  (45%)  that  had  involved  in  seasonal  migration  from  their  living 
+place  because  of  erosion  of  cultivable  land  and  years  after  years  the  situation  became  worst  at  the  Haor  basin. 
+This  could  have  affected  children's  health  as  they  stayed  in  other's  house  or  relatives'  houses  where  food  intake  may  not 
+have  been  satisfactory.  Of  the  respondents'  parents,  38%  said  that  their  living  area  was  not  secure  while  23%  of  families 
+had  one  member  killed  in  the  flash  flood  or  storm  surge,  leaving  either  father  or  mother  with  the  sole  responsibility  for 
+providing  food  and  supplies  to  the  family. 
+
+The  association  between  insecure  living  areas,  a  family  goes  in  vulnerable  position  and  childhood  malnutrition 
+was  significant.  This  result  is  supported  by  other  studies.  Various  researches  proved  that  people/families  living  in  Haor 
+during  and  after  the  flood  are  more  malnourished  and  higher  mortality  rates  than  the  high  land  area.  Major  improvements 
+in  nutritional  status  and  a  decline  in  mortality  were  found  among  children  of  those  residential  areas  which  are  flood  free. 
+Stunting  and  low  weight-for-age  were  significantly  higher  among  children  from  families  with  low  socio-economic  status 
+and  migrants.  Comparison  of  these  data  with  an  earlier  nutritional  survey  in  the  area  showed  that  the  nutritional  status  of 
+children  in  Haor  basin  had  worsened  because  of  successive  land  erosion  and  lower  food  supply  during  monsoon  period. 
+
+ACKNOWLEDGEMENTS 
+
+The  article  is  final  product  of  a  survey  conducted  by  a  NGO  in  their  working  area.  The  Executive  Director  of  the 
+concerned  NGO  has  given  his  permission  to  publish  the  result  without  which  it  would  not  have  been  possible. 
+We  acknowledged  our  deepest  love  to  him  for  his  assistance  and  concern  to  us. 
+
+REFERENCES 
+
+1.  Alam,  N.,  Henry,  F.  J.,  &  Rahaman,  M.  M.  Reporting  errors  in  one-week  diarrhoea  recall  surveys:  Experience 
+from  a  prospective  study  in  ruralBangladeshl989.  International  Journal  of  Epidemiology.  1989;  18(3),  697-700. 
+
+2.  Bajracharya,  D.  (2003).  Myanmar  experiences  in  sanitation  and  hygiene  promotion:  lessons  learned  and  future 
+directions.  International  Journal  of  Environmental  Health  Research.2000;  13(1):  141-152. 
+
+3.  Barreto,  M.  L.,  Genser,  B.,  Strina,  A.,  Teixeira,  M.  G,  Assis,  A.  M.,  Rego,  R.  F.,  et  al.  Effect  of  city-wide 
+sanitation  programme  on  reduction  in  rate  of  childhood  diarrhoea  in  northeast  Brazil:  assessment  by  two  cohort 
+studies.  Lancet.  2007;  370(9599),  1622-1628. 
+
+
+Index  Copernicus  Value:  3.0  -  Articles  can  be  sent  to  editor@impactjournals.us 
+
+
+Malnutrition  among  3-5  Years  Old  Children  in  the  Haor  Basin  of  Bangladesh:  A  Cross-Sectional  Study 
+
+
+171 
+
+
+4.  Hasan,  K.  Z.,  Patwary,  M.  Y.,  Huttly,  S.  R.,  Rahaman,  M.  M.,  et  al.  Reduction  in  diarrhoeal  diseases  in  children  in 
+rural  Bangladesh  by  environmental  and  behavioral  modifications.  Transactions  of  the  Royal  Society  of  Tropical 
+Medicine  and  Hygiene.  1990;  84(3),  300-301. 
+
+5.  M.  N.  H.  Khanl,  M.  Y.  Mia2  and  M.  R.  Hossain  (2012)  Impacts  of  Flood  on  Crop  Production  in  Haor  Areas  of 
+Two  Upazillas  in  Kishoregonj,  J.  Environ.  Sci.  &  Natural  Resources.  2012;  5(1):  193  -  198. 
+
+6.  http://en.wikipedia.org/wiki/Haor 
+
+7.  http://en.wikipedia.org/wiki/Education  in  Bangladesh 
+
+8.  http://ibtra.com/pdf/journal/v2_nl_article4.pdf 
+
+
+Impact  Factor(JCC):  1.3648  -  This  article  can  be  downloaded  from  www.impactjournals.us 
+
+

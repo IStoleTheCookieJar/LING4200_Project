@@ -1,0 +1,2207 @@
+Evaluation  of  Indicators  of  Environmental 
+Sensitivity  with  Respect  to  Bats  and  their 
+Native  Habitats  near  Albeni  Falls  Dam  and  Lake 
+
+Pend  Oreille,  Idaho 
+
+Prepared  for: 
+
+U.S.  Army  Corps  of  Engineers 
+Agreement  Number:  W912Hz-16-2-0023 
+
+Prepared  by: 
+
+Daniel  A.  Bachen,  Alexis  McEwan,  Braden  Burkholder 
+
+
+Montana  Natural  Heritage  Program 
+Natural  Resource  Information  System 
+Montana  State  Library 
+January,  2018 
+
+
+MONTANA 
+
+M  Natural  Heritage 
+Program 
+
+
+Evaluation  of  Indicators  of  Environmental  Sensitivity 
+with  Respect  to  Bats  and  their  Native  Habitats  near 
+Albeni  Falls  Dam  and  Lake  Pend  Oreille,  Idaho 
+
+
+Prepared  for: 
+
+U.S.  Army  Corps  of  Engineers 
+
+Agreement  Number: 
+W912HZ-16-2-0023 
+
+
+Prepared  by: 
+
+Daniel  A.  Bachen,  Alexis  McEwan,  Braden  Burkholder 
+
+
+O  N  T  A  N  A 
+
+
+,tate 
+rary 
+
+
+Natural  Heritage 
+Program 
+
+
+The  University  of 
+
+Montana 
+
+
+©  2017  Montana  Natural  Heritage  Program 
+
+P.O.  Box  201800  •  1515  East  Sixth  Avenue  •  Helena,  MT  59620-1800  •  406-444-3290 
+
+
+I 
+
+
+This  document  should  be  cited  as  follows: 
+
+
+Bachen,  D.A.,  A.L  McEwan,  B.  Burkholder.  2018.  Evaluation  of  Indicators  of  Environmental 
+Sensitivity  with  Respect  to  Bats  and  their  Native  Habitats  near  Albeni  Falls  Dam  and  Lake  Pend 
+Oreille,  Idaho.  Montana  Natural  Heritage  Program,  Helena,  Montana.  18  p.  plus  appendices. 
+
+
+ii 
+
+
+Executive  Summary 
+
+
+Persistence  of  populations  of  bats  may  be 
+threatened  by  loss  of  roosting  sites, 
+elimination  of  insect  prey,  collision  or 
+drowning  hazards  at  sites  where  they 
+forage,  drink,  and  mate,  and  a  lack  of 
+baseline  information  on  distribution  and 
+habitat  use  that  are  available  to  resource 
+managers.  However,  in  recent  years, 
+concerns  have  shifted  focus  to  White-Nose 
+Syndrome  (WNS)  and  wind  turbine 
+development.  WNS  resulting  from  the  cold 
+adapted  fungus  Pseudogymnoascus 
+destructans  has  killed  an  estimated  5.7  to 
+6.7  million  bats  in  eastern  North  America 
+since  2006 
+
+Given  the  recent  detection  of  WNS  in 
+Washington,  establishing  baseline 
+information  for  species  in  areas  of  the 
+Pacific  Northwest  where  WNS  is  not  yet 
+present  is  critical  for  conservation  and 
+management  of  these  species.  Acoustic 
+detectors  are  powerful  tools  for 
+establishing  species  presence  and  habitat 
+use.  Without  acoustic  monitoring  surveys  in 
+this  region,  the  U.S.  Army  Corps  of 
+Engineers  (ACOE)  will  lack  information 
+needed  to  mitigate  potential  impacts  to 
+bats  from  WNS  and  make  informed 
+management  decisions. 
+
+To  address  these  information  needs,  we 
+deployed  acoustic  detector/recorders  on 
+ACOE  managed  lands  in  proximity  to  Albine 
+Falls  Dam  located  on  the  Pend  Oreille  River. 
+Our  goals  were  to  determine  which  species 
+are  present  in  this  area,  provide  baseline 
+data  that  can  be  used  for  WNS  surveillance, 
+and  to  assess  the  impacts  of  this  disease 
+and  other  natural  or  anthropogenic  threats 
+to  bat  populations  in  this  area,  and  provide 
+management  recommendations  for 
+
+
+conservation  of  the  species  found  within 
+ACOE  managed  lands. 
+
+At  or  upstream  of  the  Albeni  Falls  Dam  on 
+the  Pend  Oreille  River,  we  selected  13  sites 
+on  lands  managed  by  the  U.S.  Army  Corps 
+of  Engineers  to  conduct  this  project.  Three 
+detector/recorder  units  were  rotated 
+between  these  sites  throughout  the  active 
+season  beginning  in  April  and  ending  in 
+September.  Each  site  was  surveyed 
+between  two  and  three  times  as  time  and 
+logistic  considerations  allowed  (Table  1).  In 
+total  26  surveys  were  conducted  across  all 
+sites.  However,  due  to  technical  issues, 
+detectors  did  not  collect  any  information 
+during  three  of  these  surveys.  A  single 
+detector  was  deployed  over  the  winter  of 
+2016-2017  in  proximity  to  Albeni  Falls  Dam 
+
+Between  September  2016  and  September 
+2017,  a  total  of  21,811  bat  call  sequences 
+were  recorded  with  a  9.9  percent  auto¬ 
+identification  to  species  by  Sonobat  4.2.1 
+software.  Overall  rates  of  auto¬ 
+identification  were  lower  than  detectors 
+placed  across  Montana,  Idaho,  and  North 
+and  South  Dakota  which  average  of  23.7 
+percent.  Across  all  sites,  average  nightly 
+passes  by  bats  increased  through  July  and 
+decreased  into  September.  Recorded 
+activity  during  the  winter  was  low,  which  is 
+similar  to  patterns  observed  at  sites  across 
+Idaho,  Montana,  and  the  Dakotas. 
+
+Of  the  21,811  recorded  call  sequences,  we 
+hand  reviewed  2,320  with  the  goal  of 
+determining  species  presence  by  site  and 
+recording  period.  Between  April  and 
+September,  10  species  were  identified 
+within  the  study  area:  Hoary  Bat  [Lasiurus 
+cinereus),  Big  Brown  Bat  (Eptiscus  Fuscus), 
+Silver-haired  Bat  (Lasionycteris 
+
+
+noctivagans),  Townsend's  Big-eared  Bat 
+(Corynorhinus  townsendii),  California  Myotis 
+(Myotis  californicus),  Western  Small-footed 
+Myotis  (Myotis  ciliolabrum),  Long-eared 
+Myotis  (Myotis  evotis),  Fringed  Myotis 
+(Myotis  thysanodes),  Little  Brown  Myotis 
+(Myotis  iucifugus),  Yuma  Myotis  (Myotis 
+yumanensis).  Only  four  species  commonly 
+found  in  Idaho  were  not  confirmed  within 
+the  study  area:  Spotted  Bat  (Euderma 
+macuiatum),  Pallid  Bat  (Antrozous  paiiidus), 
+Long-legged  Myotis  (Myotis  voians),  and 
+Canyon  Bat  (Parastreiius  Hesperus). 
+
+Spotted,  Pallid,  and  Canyon  bats  are 
+unlikely  to  be  present  because  they  require 
+specialized  habitat  not  found  in  the  area. 
+Conversely,  Long-legged  Myotis  may  occur 
+within  the  area,  but  are  difficult  to  have 
+definitive  confirmation  via  acoustic 
+methods. 
+
+Of  the  10  species  detected  at  sites  within 
+the  project  area,  three  have  been  shown  to 
+develop  WNS  when  exposed  to  Pd.  These 
+species  are  the  Big  Brown  Bat,  Little  Brown 
+Myotis,  and  Yuma  Myotis.  Additionally,  the 
+Silver-haired  Bat  and  Townsend's  Big-eared 
+Bat  have  been  shown  to  carry  Pd,  but  not 
+exhibit  symptoms  of  WNS.  The  remaining 
+Myotis  species:  California,  Long-eared, 
+Western  Small-footed,  and  Fringed  have 
+not  been  shown  to  carry  Pd  or  develop 
+WNS.  Rather  than  indicating  immunity  to 
+Pd,  the  lack  of  detections  of  individuals  with 
+this  disease  is  likely  a  result  of  their  western 
+distribution  that  has  not  overlap  with 
+affected  areas.  As  many  other  Myotis 
+species  are  impacted  by  WNS,  it  is  probably 
+best  to  consider  these  species  as 
+susceptible  until  proven  otherwise. 
+
+Future  surveys  should  seek  to  determine  if 
+the  species  found  during  this  work  are  still 
+
+
+present  within  the  study  area.  Although  the 
+short-term  deployments  make  the  activity 
+data  difficult  to  use  as  a  baseline,  average 
+bat  passes  per  night  may  be  an  adequate 
+metric  for  future  monitoring  if  the  disease 
+has  a  significant  negative  impact.  If  sites 
+that  reduce  the  likelihood  of  vandalism  can 
+be  found,  we  recommend  that  future 
+acoustic  monitoring  include  long-term 
+stations  capable  of  gathering  robust  activity 
+data  across  both  the  active  and  hibernation 
+seasons.  As  both  the  Townsend's  Big-eared 
+Bat  and  Long-legged  Myotis  are  difficult  to 
+detect  with  acoustic  methods,  targeted  mist 
+net  surveys  of  creeks  and  ponds  off  of  the 
+river  or  lake  and  flight  corridors  within 
+forested  areas  should  be  considered  as  well 
+as  age  and  sex  data  on  all  species.  Finally, 
+projects  focusing  on  identifying  active 
+season  roosts  within  both  natural  and 
+artificial  structures,  hibernacula,  and 
+monitoring  known  roosts  to  provide 
+additional  baseline  data  to  inform 
+management  decisions. 
+
+Management  of  roost  features  used  by  bats 
+within  ACOE  managed  lands  near  Albeni 
+Falls  Dam  is  likely  to  have  the  biggest 
+impact  on  local  populations.  Roosts  occur  in 
+a  variety  of  natural  and  anthropogenic 
+features  including  crevices  and  cracks  in 
+rock  outcrops,  caves,  and  both  live  and 
+dead  trees,  and  buildings,  bridges,  and 
+mines.  Based  on  the  species  we  determined 
+to  be  present  within  the  study  area, 
+literature  documenting  roost  preferences, 
+and  life  history  of  these  species,  we 
+recommend  the  following  actions  for 
+species  conservation  within  the  study  area: 
+
+
+1.  Maintain  potential  roost  trees 
+including  large  diameter  trees,  snags 
+and  partially  dead  trees  that  provide 
+cavities  or  loose  bark  for  animals  to 
+roost  in  unless  they  pose  a  hazard  to 
+people  in  the  immediate  area.  If 
+removal  is  necessary,  wait  until  the 
+late  fall  or  winter  to  remove  trees 
+suspected  or  known  to  support 
+roosting  bats. 
+
+2.  Before  modification  of  any  buildings 
+or  bridges,  conduct  surveys  to 
+establish  whether  the  structures  are 
+used  as  roosts.  These  surveys  could 
+include  searching  for  guano  deposits 
+and  urine  staining  on  the  interior  or 
+exterior  of  structures,  and 
+examining  crevices  and  sheltered 
+areas  for  roosting  bats.  If  feasible 
+conduct  exit  counts  at  dusk  at 
+
+
+potential  exit  points  from  the 
+structure.  If  bats  are  found  and 
+exclusion  is  desired,  follow  best 
+practices  for  exclusion  and  place 
+alternative  roost  structures  (bat 
+boxes)  in  the  local  area  to 
+compensate  for  the  loss  of  roosting 
+habitat. 
+
+3.  Surveys  to  determine  bat  use  of 
+other  potential  roosts  including  but 
+not  limited  to  rock  outcrops,  caves, 
+and  mines  should  be  conducted 
+prior  to  any  modification. 
+
+4.  Avoid  disturbance  of  known 
+maternity  roosts  between  May  and 
+July  and  known  hibernaculum 
+between  October  and  April. 
+
+
+V 
+
+
+Acknowledgements 
+
+
+We  extend  considerable  thanks  and  appreciation  to  Betsy  Hull  and  other  U.S.  Army  Corps  of  Engineers 
+staff  for  placement  and  maintenance  of  acoustic  detectors.  Bryce  Maxell  for  providing  feedback  on 
+project  design  and  implementation.  Scott  Blum  and  other  Montana  Natural  Heritage  Program  Staff  for 
+formatting  the  data  and  appending  it  to  the  Montana  Natural  Heritage  Program's  central  animal 
+observation  database.  We  thank  the  U.S.  Army  Corps  of  Engineers  for  providing  funding  and  guidance 
+for  this  project. 
+
+
+This  project  was  supported  by  an  agreement  between  the  U.S.  Army  Corps  of  Engineers  and  the 
+Montana  Natural  Heritage  Program,  a  cooperative  program  of  the  Montana  State  Library  and  the 
+University  of  Montana  (W912Hz-16-2-0023) 
+
+
+VI 
+
+
+Table  of  Contents 
+
+
+Background . 1 
+
+Study  Area . 2 
+
+Methods . 3 
+
+Bat  Detector  Deployment . 3 
+
+Data  Management  and  Call  Analyses . 5 
+
+Results . 6 
+
+Total  Volume  of  Bat  Passes  and  Auto-Identification  Rates . 6 
+
+General  Patterns  of  Bat  Activity . 6 
+
+Species  Detections  and  Distributions . 9 
+
+Species  Activity  Trends . 12 
+
+Conservation  and  Management . 13 
+
+Conservation  Status  of  Detected  Species . 13 
+
+Implications  for  White-Nosed  Syndrome  Monitoring . 13 
+
+Conservation  of  Roosts  and  Other  Landscape  Features  Important  for  Bats . 14 
+
+Literature  Cited . 16 
+
+Tables 
+
+Table  1.  Survey  location  and  deployment  status . 3 
+
+Table  2.  Species  detections  by  site  and  month . 12 
+
+Figures 
+
+Figure  1  Study  area  overview . 2 
+
+Figure  2  Average  number  of  calls  recorded  across  the  study  area  by  month . 6 
+
+Figure  3  Total  bat  passes  for  all  species  recorded  across  long-term  acoustic  network . 7 
+
+Figure  4  Average  number  of  call  sequences  for  all  species  per  night  by  site . 8 
+
+Appendices 
+
+Appendix  1  Average  Nightly  Bat  Passes  by  Site  and  Month . 1-1 
+
+Appendix  2  Species  Detections  Across  Acoustic  Monitoring  Sites . 2-1 
+
+vii 
+
+
+Background 
+
+Persistence  of  populations  of  bats  may  be 
+threatened  by  loss  of  roosting  sites, 
+elimination  of  insect  prey,  collision  or 
+drowning  hazards  at  sites  where  they 
+forage,  drink,  and  mate,  and  a  lack  of 
+baseline  information  on  distribution  and 
+habitat  use  that  are  available  to  resource 
+managers.  However,  in  recent  years, 
+concerns  have  shifted  focus  to  White-Nose 
+Syndrome  (WNS)  (Blehert  et  al.  2011)  and 
+wind  turbine  development  (Kunz  et  al. 
+
+2007,  Arnett  et  al.  2008).  Dramatic 
+increases  in  mortality  posed  by  these 
+threats  are  especially  significant  to  bat 
+populations  because  bats  are  long-lived  and 
+have  only  1  or  2  young  per  year  (Barclay 
+and  Harder  2003). 
+
+WNS  resulting  from  the  cold  adapted 
+fungus  Pseudogymnoascus  destructans  has 
+killed  an  estimated  5.7  to  6.7  million  bats  in 
+eastern  North  America  since  2006  (Lorch  et 
+al.  2011,  USFWS  News  Release  January  17, 
+2012).  As  a  result,  the  extinction  of  Little 
+Brown  Myotis  (Myotis  lucifugus)  is 
+predicted  in  that  region  by  2026  (Frick  et  al. 
+2010).  Additionally,  M.  lucifugus,  Northern 
+Myotis  (M.  septentrionalis),  and  Tri-colored 
+Bat  (Peri myotis  subfiavus)  have  all  been 
+recommended  for  emergency  listing  under 
+Schedule  1  of  Canada's  Species  at  Risk  Act 
+(COSEWIC  February  3,  2012).  In  the  United 
+States  M.  septentrionalis  has  been  listed  as 
+threatened  under  the  United  States 
+Endangered  Species  Act  (ESA)  (U.S.  Fish  and 
+Wildlife  Service  2016),  and  M.  lucifugus  has 
+been  petitioned  for  emergency  listing  under 
+the  ESA  (Kunz  et  al.  2010).  Prior  to  2016, 
+the  pathogen  was  only  documented  east  of 
+
+
+the  Rockies  and  as  far  west  as  Nebraska. 
+However,  in  March  of  2016  a  bat  showing 
+symptoms  of  WNS  was  found  in 
+Washington,  representing  the  first  time  the 
+pathogen  has  been  documented  in  the 
+Pacific  Northwest  (USFWS  News  Release 
+March  31,  2016).  P.  destructans  has 
+progressed  westward  to  at  least  Nebraska 
+and  it  is  unknown  how  widespread  the 
+fungus  is  in  Washington  State.  At  least 
+three  bat  species  susceptible  to  WNS  are 
+found  in  Northern  Idaho:  Big  Brown  Bat 
+[Eptesicus  fuscus),  Yuma  Myotis  (M. 
+yumanensis)  and  Little  Brown  Myotis  are 
+(Blehert  et  al.  2011,  Washington 
+Department  of  Fish  and  Wildlife  Press 
+Release  May  2017). 
+
+Given  the  recent  detection  of  WNS  in 
+Washington,  establishing  baseline 
+information  for  species  in  areas  of  the 
+Pacific  Northwest  where  WNS  is  not  yet 
+present  is  critical  for  conservation  and 
+management  of  these  species.  Acoustic 
+detectors  are  powerful  tools  for 
+establishing  species  presence  and  habitat 
+use  (Britzke  et  al.  2013).  Without  acoustic 
+monitoring  surveys  in  this  region,  the  U.S. 
+Army  Corps  of  Engineers  (ACOE)  will  lack 
+information  needed  to  mitigate  potential 
+impacts  to  bats  from  WNS  and  make 
+informed  management  decisions. 
+
+To  address  these  information  needs,  we 
+deployed  acoustic  detector/recorders  on 
+ACOE  managed  lands  in  proximity  to  Albine 
+Falls  Dam  located  on  the  Pend  Oreille  River. 
+Our  goals  were  to  determine  which  species 
+are  present  in  this  area,  provide  baseline 
+data  that  can  be  used  for  WNS  surveillance. 
+
+
+1 
+
+
+and  to  assess  the  impacts  of  this  disease 
+and  other  natural  or  anthropogenic  threats 
+to  bat  populations  in  this  area,  and  provide 
+
+
+management  recommendations  for 
+conservation  of  the  species  found  within 
+ACOE  managed  lands. 
+
+
+Study  Area 
+
+
+At  or  upstream  of  the  Albeni  Falls  Dam  on 
+the  Lake  Pend  Oreille,  we  selected  13  sites 
+on  lands  managed  by  the  U.S.  Army  Corps 
+of  Engineers  to  conduct  this  project.  The 
+landscape  surrounding  the  river  is 
+predominately  conifer  forest  with  sparse 
+wetlands,  and  fields.  Areas  of  willows  (Salix 
+
+
+spp.)  or  alder  (Alnus  spp.)  occur  at  the 
+interface  between  the  river  and  uplands. 
+Elevations  across  the  study  area  range  from 
+620  and  630  m  above  sea  level.  Relatively 
+mild  summer  temperatures  and  cool  wet 
+winters  characterize  the  climate  of  the  local 
+area  (Arguez  et  al.  2012). 
+
+
+Ponder  PointOden  Bay  pack  Ri>ier  Delta 
+
+
+Hornby  Creek 
+
+
+Springy  Point 
+
+
+/  Morton  Slough  ^ 
+'^jest  River  Recreation  Arete/  ,.  ■  . 
+
+Albeni  Cove  Prielmixer  WMA_^.--'"^ 
+
+\  fJoodoo  Creek  1 
+
+
+Albeni  Falls  D< 
+
+
+Figure  1  Location  and  name  of  sites  surveyed  during  the  winter  of  2016-2017  (Albeni  Falls  Dam)  and  Summer  2017  (all  other 
+sites).  Sites  were  established  along  the  interface  between  the  river/reservoir  and  adjacent  riparian  or  upland  areas. 
+
+
+2 
+
+
+Methods 
+
+
+Bat  Detector  Deployment 
+
+Three  detector/recorder  units  were  rotated 
+between  12  sites  throughout  the  active 
+season  beginning  in  April  and  ending  in 
+September.  Each  site  was  surveyed 
+between  two  and  three  times  as  time  and 
+logistic  considerations  allowed  (Table  1).  In 
+
+
+total  26  surveys  were  conducted  across  all 
+sites.  However,  due  to  technical  issues, 
+detectors  did  not  collect  any  information 
+during  three  of  these  surveys.  A  single 
+detector  was  deployed  over  the  winter  of 
+2016-2017  in  proximity  to  Albeni  Falls  Dam 
+
+
+Table  1.  Information  for  each  survey  describing  the  site  name,  coordinates  (WGS  84)  of  each  site,  detector  type,  and 
+deployment  dates  for  the  27  acoustic  surveys.  Location  names  with  asterisks  denote  surveys  where  bat  passes  were  not 
+recorded  due  to  technical  issues. 
+
+
+Location 
+
+Latitude 
+
+Longitude 
+
+Detector  Type 
+
+Date 
+
+Deployed 
+
+Date 
+
+Retrieved 
+
+Albeni  Falls  Dam 
+
+48.180011 
+
+-117.000969 
+
+SM2Bat+ 
+
+2016-09-22 
+
+2017-04-13 
+
+Albeni  Cove 
+
+48.17485 
+
+-116.998033 
+
+SM2Bat+ 
+
+2017-05-18 
+
+2017-06-12 
+
+Albeni  Cove 
+
+48.17485 
+
+-116.998033 
+
+SM2Bat+ 
+
+2017-08-02 
+
+2017-08-16 
+
+Hoodoo  Creek 
+
+48.155017 
+
+-116.75495 
+
+SM2Bat 
+
+2017-05-18 
+
+2017-06-12 
+
+Hoodoo  Creek 
+
+48.155017 
+
+-116.75495 
+
+SM2Bat 
+
+2017-08-02 
+
+2017-08-16 
+
+Hornby  Creek* 
+
+48.25015 
+
+-116.632467 
+
+SM2Bat+ 
+
+2017-05-02 
+
+2017-08-02 
+
+Hornby  Creek 
+
+48.25015 
+
+-116.632467 
+
+SM2Bat+ 
+
+2017-07-15 
+
+2017-09-02 
+
+Morton  Slough 
+
+48.201717 
+
+-116.690283 
+
+SM2Bat 
+
+2017-06-12 
+
+2017-07-01 
+
+Morton  Slough 
+
+48.201717 
+
+-116.690283 
+
+SM2Bat 
+
+2017-08-16 
+
+2017-09-02 
+
+Morton  Slough 
+River  Access 
+
+48.1813 
+
+-116.711967 
+
+SM2Bat+ 
+
+2017-04-13 
+
+2017-05-02 
+
+Morton  Slough 
+River  Access 
+
+48.1813 
+
+-116.711967 
+
+SM2Bat 
+
+2017-07-01 
+
+2017-07-15 
+
+Priest  River 
+
+Recreation  Area 
+
+48.178967 
+
+-116.89235 
+
+SM2Bat+ 
+
+2017-05-02 
+
+2017-05-18 
+
+Priest  River 
+
+Recreation  Area 
+
+48.178967 
+
+-116.89235 
+
+SM2Bat+ 
+
+2017-07-15 
+
+2017-08-02 
+
+Priest  River 
+
+Recreation  Area 
+
+48.178967 
+
+-116.89235 
+
+SM2Bat+ 
+
+2017-09-05 
+
+2017-09-28 
+
+Oden  Bay* 
+
+48.3038 
+
+-116.426983 
+
+SM2Bat+ 
+
+2017-05-18 
+
+2017-06-12 
+
+Oden  Bay 
+
+48.3038 
+
+-116.426983 
+
+SM2Bat+ 
+
+2017-08-02 
+
+2017-08-16 
+
+Pack  River  Delta 
+
+48.301467 
+
+-116.4003 
+
+SM2Bat+ 
+
+2017-06-12 
+
+2017-07-01 
+
+Pack  River  Delta 
+
+48.301467 
+
+-116.4003 
+
+SM2Bat+ 
+
+2017-08-16 
+
+2017-09-02 
+
+Ponder  Point* 
+
+48.30405 
+
+-116.527267 
+
+SM2Bat+ 
+
+2017-04-13 
+
+2017-05-02 
+
+Ponder  Point 
+
+48.30405 
+
+-116.527267 
+
+SM2Bat+ 
+
+2017-07-01 
+
+2017-07-15 
+
+Priest  River 
+
+WMA* 
+
+48.1714 
+
+-116.871833 
+
+SM2Bat 
+
+2017-04-13 
+
+2017-05-02 
+
+3 
+
+
+Location 
+
+Latitude 
+
+Longitude 
+
+Detector  Type 
+
+Date 
+
+Deployed 
+
+Date 
+
+Retrieved 
+
+Priest  River  WMA 
+
+48.1714 
+
+-116.871833 
+
+SM2Bat+ 
+
+2017-07-01 
+
+2017-07-15 
+
+Priest  River  WMA 
+
+48.1714 
+
+-116.871833 
+
+SM2Bat 
+
+2017-09-05 
+
+2017-09-28 
+
+Riley  Creek 
+
+48.1591 
+
+-116.773417 
+
+SM2Bat+ 
+
+2017-06-13 
+
+2017-06-30 
+
+Riley  Creek 
+
+48.1591 
+
+-116.773417 
+
+SM2Bat+ 
+
+2017-08-16 
+
+2017-09-05 
+
+Springy  Point 
+
+48.238283 
+
+-116.58425 
+
+SM2Bat 
+
+2017-05-02 
+
+2017-05-18 
+
+Springy  Point 
+
+48.238283 
+
+-116.58425 
+
+SM2Bat 
+
+2017-07-15 
+
+2017-08-02 
+
+Each  SM2Bat  or  SM2  Bat+  ultrasonic 
+detector/recorder  (Wildlife  Acoustics, 
+Maynard,  MA,  USA)  was  deployed, 
+monitored,  and  maintained  with  the 
+equipment,  supplies,  settings,  and  protocols 
+listed  in  Montana's  Bat  and  White-Nose 
+Syndrome  Surveillance  Plan  and  Protocols 
+2012-  2016  (Maxell  2015).  Due  to  concerns 
+of  vandalism,  we  chose  to  reduce  the  visual 
+profile  of  our  detector/recorder  stations  by 
+using  internal  D-cell  batteries  as  a  power 
+source  rather  than  our  standard  long-term 
+detector  power  supply  which  uses  a  12-volt 
+car  battery  and  solar  panel.  Use  of  internal 
+batteries  restricted  operating  time  for 
+detectors  to  less  than  a  week  per 
+deployment.  The  only  exception  was  the 
+station  placed  at  the  dam  site,  which  was 
+set  up  following  our  standard  long-term 
+protocol  (Maxell  2015).  This  station  was 
+secured  behind  a  high  fence,  reducing  the 
+likelihood  that  it  would  be  vandalized  and 
+therefore  was  suitable  for  long-term 
+deployment. 
+
+A  variety  of  factors  influence  the  detection 
+and  recorded  quality  of  a  bat  echolocation 
+call.  These  include  sensitivity  of  the 
+individual  microphone,  temperature, 
+humidity,  wind  speed,  and  frequency, 
+amplitude,  distance,  and  directionality  of 
+echolocation  calls  emitted  by  bats  (Parsons 
+
+
+and  Szewczak  2009,  Agranat  2014).  The 
+energy  of  sounds  spreading  in  all  directions 
+diminishes  by  one  fourth  for  every  doubling 
+of  distance  because  the  surface  area  of  a 
+sphere  is  related  to  the  square  of  its  radius. 
+Furthermore,  higher  frequency  sounds  are 
+diminished  over  shorter  distances  because 
+of  atmospheric  absorption  (Parsons  and 
+Szewczak  2009,  Agranat  2014).  Testing  of 
+the  SMX-US  microphone  used  in  this  study 
+indicates  that  bats  emitting  frequencies  in 
+the  range  of  20  kHz  should  be  detected  at 
+distances  of  24  to  33  meters  from  the 
+microphone  while  those  emitting 
+frequencies  in  the  range  of  40  kHz  should 
+be  detected  at  distances  of  18  to  22  meters 
+(Agranat  2014).  These  distances  are  the 
+radii  of  the  relevant  spheres  of  detection 
+around  microphones  when  they  are  at  full 
+sensitivity.  However,  we  know  that 
+sensitivity  varied  over  time  by  an  unknown 
+magnitude  as  a  result  of  precipitation  and 
+freezing  events,  some  of  which 
+permanently  reduced  the  sensitivity  of 
+microphones. 
+
+
+4 
+
+
+Data  Management  and  Call  Analyses 
+
+Acoustic  file  recordings,  in  both  original 
+WAC  and  processed  WAV  formats,  are 
+stored  in  the  Montana  Bat  Call  Library. 
+These  are  housed  on  a  series  of  15-20 
+Terabyte  Drobo  5D  and  5N  storage  arrays  at 
+the  Montana  State  Library  as  well  as  a 
+secondary  offsite  location  to  protect  against 
+catastrophic  loss.  Acoustic  analysis  results 
+and  temperature  files  were  all  processed 
+and  combined  within  SQL  database  tables  in 
+accordance  with  the  general  work  flow 
+pattern  for  data  management  and  analysis 
+outlined  in  the  text  and  in  Appendices  8-10 
+of  Maxell  (2015).  Bat  call  sequences  were 
+analyzed  with  the  goal  of  definitively 
+identifying  individual  species  presence  by 
+site  and  survey  period  in  accordance  with 
+the  Echolocation  Call  Characteristics  of 
+Montana  Bats  and  Montana  Bat  Call 
+Identification  materials  in  Appendices  6  and 
+7  of  Montana's  Bat  and  White-Nose 
+Syndrome  Surveillance  Plan  and  Protocols 
+2012-  2016  (Maxell  2015). 
+
+
+5 
+
+
+Results 
+
+
+Total  Volume  of  Bat  Passes  and  Auto- 
+Identification  Rates 
+
+Between  September  2016  and  September 
+2017,  a  total  of  21,811  bat  call  sequences 
+were  recorded  with  a  9.9  percent  auto¬ 
+identification  to  species  by  Sonobat  4.2.1 
+software.  Overall  rates  of  auto¬ 
+identification  were  lower  than  at  other 
+detectors  placed  across  Montana,  Idaho, 
+and  North  and  South  Dakota  which  average 
+of  23.7  percent  (Montana  Natural  Heritage 
+Program  Acoustic  Survey  Data  2017).  This 
+discrepancy  could  be  due  to  placement  of 
+detectors  in  proximity  to  forest  edges, 
+which  were  unavoidable  within  the  study 
+area,  or  some  other  unknown  factor. 
+
+General  Patterns  of  Bat  Activity 
+
+Although  our  short-term  deployments  are 
+not  suitable  for  use  in  a  robust  assessment 
+and  comparison  of  activity  levels,  we  can 
+make  general  comparisons  across  and 
+between  sites.  However,  as  detectors  only 
+record  for  short  periods  (days),  recorded 
+activity  could  be  influenced  by 
+environmental  variables  that  affect  bat 
+activity  such  as  precipitation,  wind,  and 
+moon  phase,  and  confound  assessment  of 
+bat  activity  at  the  site.  Across  all  sites, 
+average  nightly  passes  by  bats  increased 
+through  July  and  decreased  into  September 
+(Figure  2).  Recorded  activity  during  the 
+winter  was  low,  which  is  similar  to  patterns 
+observed  at  sites  across  Idaho,  Montana, 
+and  the  Dakotas  (Figure  3). 
+
+
+Figure  2  The  average  number  of  calls  recorded  across  the 
+study  area  by  month.  The  number  of  recording  nights 
+within  each  month  is  shown  adjacent  to  each  point. 
+
+The  relative  number  of  bat  passes  recorded 
+during  the  late  summer  and  early  fall  across 
+the  study  area  differed  from  the  regional 
+network  trend.  The  Albeni  Falls  area  had 
+significantly  lower  amount  of  calls  recorded 
+in  August  relative  to  June  and  July.  This  is 
+atypical  to  other  sites  across  the  region. 
+
+This  trend  may  be  related  to  spatial  bias 
+introduced  through  the  use  of  short-term 
+deployments  and  uneven  sampling  of  sites 
+over  time.  If  these  data  show  an  actual 
+biological  trend,  it  may  indicate  local 
+migration  or  change  in  habitat  use  by  bats 
+exploiting  resources  elsewhere  in  the 
+surrounding  area.  In  the  Northern  Rocky 
+Mountains,  young  of  all  species  are  initially 
+captured  in  late  July,  as  juveniles  become 
+flighted  (Bachen  et  al.  2016).  Reduced 
+activity  coinciding  with  volant  young  may 
+indicate  that  females  and  pups  leaving  their 
+maternity  colonies  and  migrating  away 
+from  the  river  or  lake  for  some  unknown 
+
+
+6 
+
+
+reason.  To  assess  the  validity  of  this  trend, 
+long-term  acoustic  and  mist  net  surveys  are 
+required. 
+
+Given  the  study  design  considerations,  sites 
+in  the  central  region  of  the  study  area 
+appear  to  have  consistently  higher  average 
+
+
+nightly  activity  of  all  species  (Figure  5).  As 
+all  sites  were  not  sampled  at  the  same  time, 
+these  results  should  be  viewed  with 
+caution.  However,  all  high  activity  sites 
+were  clustered  in  the  center  of  the  study 
+area,  which  supports  a  biological  base  for 
+this  trend. 
+
+
+Weekly  Bat  Pass  Summary  -  Regionwide 
+
+Winter 
+
+
+Figure  3  The  total  number  of  bat  passes  for  all  species  recorded  each  week  across  a  network  of  76  detectors  deployed  in 
+Montana,  Idaho,  North  Dakota,  and  South  Dakota.  All  stations  were  deployed  for  over  two  years.  This  aggregated  year-round 
+data  provides  insight  into  variation  in  activity  levels  across  the  year. 
+
+
+7 
+
+
+WASHING 
+
+
+Albeni  Cove 
+
+
+Average  Calls/Night 
+Maximum  Active  Season 
+
+
+19-93 
+93-181 
+181  -424 
+424  -  623 
+
+
+Figure  4  The  average  number  of  call  sequences  for  all  species  per  night  at  each  site  recorded  during  the  active  season  2017.  Morton  Slough  sites,  Hornby  Creek,  and  Springy 
+point  all  have  relatively  high  levels  of  activity  compared  to  surrounding  stations. 
+
+
+8 
+
+
+Species  Detections  and  Distributions 
+
+Of  the  21,811  recorded  call  sequences,  we 
+hand  reviewed  2,320  with  the  goal  of 
+determining  species  presence  by  site  and 
+survey  period.  Between  April  and 
+September,  10  species  were  identified 
+within  the  study  area.  Only  four  species 
+commonly  found  in  Idaho  were  not 
+confirmed  within  the  study  area:  Spotted 
+Bat  (Euderma  maculatum),  Pallid  Bat 
+(Antrozous  pallidus),  Long-legged  Myotis 
+(Myotis  volans),  and  Canyon  Bat 
+(Parastrellus  Hesperus).  Spotted,  Pallid,  and 
+Canyon  bats  are  unlikely  to  be  present 
+because  they  require  specialized  habitat  not 
+found  in  the  area.  Conversely,  Long-legged 
+Myotis  may  occur  within  the  area,  but  are 
+difficult  to  have  definitive  confirmation  via 
+acoustic  methods  (Maxell  2015). 
+
+Although  we  list  the  presence  of  each 
+species  within  the  area  by  site,  given  the 
+limited  ability  of  short-term  detector 
+deployments,  lackof  detection  should  not 
+be  interpreted  as  species  absence.  Some 
+species  are  more  easily  identified  or 
+produce  distinctive  call  sequences  more 
+frequently  than  others  (e.g.  Hoary  Bat 
+[Lasiurus  cinereus)  versus  Long-legged 
+Myotis,  Maxell  2015).  Therefore,  the 
+number  of  sites  where  detection  of  a 
+species  occurred  may  be  resultant  of 
+sampling  and  survey  methods  rather  than 
+true  presence.  Given  the  similarity  and 
+geographic  connectivity  of  sites  along  the 
+river/reservoir,  it  is  plausible  that  any 
+species  detected  at  one  site  may  also  be 
+found  at  others.  Consequently,  the  best 
+interpretation  of  these  data  are  that  all 
+confirmed  species  are  present  within  the 
+study  area. 
+
+
+Hoary  Bats  were  hand-confirmed  at  five 
+sites:  Hoodoo  Creek,  Morton  River 
+Recreation  Area,  Morton  River  Slough, 
+Priest  River  Wildlife  Management  Area 
+(WMA)  and  Springy  Point.  The  first 
+detection  occurred  in  June  and  the  species 
+was  confirmed  as  present  through 
+September.  These  detection  dates  are 
+consistent  with  data  collected  at  long-term 
+stations  in  western  Montana.  Hoary  bats 
+are  known  to  migrate  to  climates  that  are 
+more  favorable  in  the  winter  (Shump  and 
+Shump  1982).  Based  on  these  data,  similar 
+behavior  occurs  within  the  study  area.  This 
+species  primarily  roosts  on  the  branches 
+and  foliage  of  trees,  (Shump  and  Shump 
+1982),  and  roosting  habitat  is  found  across 
+the  study  area. 
+
+Big  Brown  Bats  were  confirmed  at  a  single 
+site,  the  Priest  River  Recreation  Area.  This 
+species  is  likely  more  common  across  the 
+area  than  this  single  detection  would 
+suggest.  The  calls  of  Big  Brown  Bats  are 
+often  similar  to  Silver-haired  Bats,  which 
+makes  definitive  confirmation  of  species 
+presence  using  acoustic  methods  difficult. 
+Call  sequences  automatically  identified  by 
+Sonobat  Software  as  Big  Brown  Bats  were 
+present  at  two  additional  sites,  Albeni  Cove 
+and  Hoodoo  Creek,  and  may  be  present  at 
+these  additional  locations.  Given  the 
+species  propensity  for  roosting  in  buildings 
+as  well  as  bridges  and  natural  features 
+(reviewed  in  Maxell  2015  Appendix  5), 
+suitable  habitat  exists  across  much  of  the 
+study  area,  but  targeted  mist  net  or  roost 
+surveys  may  be  needed  to  document  this 
+species  at  additional  sites  within  the  area. 
+
+The  presence  of  Silver-haired  Bats  was 
+confirmed  at  five  sites:  Morton  Slough, 
+
+
+9 
+
+
+Priest  River  Recreation  Area,  Priest  River 
+WMA,  Riley  Creek,  and  Springy  Point.  This 
+species  was  first  detected  in  May  and  was 
+present  each  month  through  September.  In 
+northern  areas  overwintering  strategies  are 
+poorly  understood  for  this  species,  but  it  is 
+possible  that  it  may  remain  in  the  vicinity  of 
+the  study  area  year  round.  In  Montana 
+echolocation  calls  have  been  recorded 
+throughout  the  winter  during  periods  of 
+relatively  warm  temperatures  (Montana 
+Natural  Heritage  Program  Acoustic  Data 
+2017),  suggesting  the  species  remains  in  the 
+region  through  the  winter.  Data  to  assess 
+whether  the  species  pursues  a  similar 
+strategy  in  this  area  of  Idaho  are  lacking. 
+Deployment  of  long-term  acoustic 
+monitoring  stations  could  help  determine  if 
+Silver-haired  Bats  remain  in  the  area  year 
+round. 
+
+A  single  call  sequence  from  a  Townsend's 
+Big-eared  Bat  (Corynorhinus  townsendii) 
+was  recorded  at  the  Morton  River  Access 
+Site  in  July  of  2017.  Due  to  its  low  call 
+intensity  and  habit  of  foraging  in  or  near 
+vegetation,  detectors  infrequently  record 
+this  species,  even  in  areas  where  it  is 
+present  (Maxell  2015).  Townsend's  Big- 
+eared  Bats  have  been  previously 
+documented  infrequently  in  similar  habitat 
+in  adjacent  areas  of  Montana  (MTNHP  Point 
+Observation  Database),  but  without  target 
+roost  surveys,  it  is  difficult  to  determine 
+how  widespread  or  abundant  the  species  is 
+within  the  area.  The  species  may  use  caves, 
+rock  crevices,  and  mines  as  both  active 
+season  and  winter  roosts,  and  buildings 
+during  the  active  season  as  well  (reviewed 
+in  Maxell  2015  Appendix  5). 
+
+
+The  presence  of  California  Myotis  (Myotis 
+californicus)  was  confirmed  at  six  sites: 
+Morton  River  Recreation  Area,  Morton 
+River  Slough,  Pack  River  Delta,  Priest  River 
+Recreation  Area,  Priest  River  WMA,  and 
+Springy  Point.  The  species  was  present 
+across  the  active  season,  beginning  in  May 
+and  last  recorded  in  September.  Cracks  and 
+crevices  in  rock  outcrops  as  well  as  caves 
+and  mines  are  thought  to  be  used  as 
+hibernacula  within  this  region  (as  reviewed 
+in  Maxell  2015).  If  suitable  hibernacula  are 
+present  within  the  study  area,  California 
+Myotis  may  remain  in  the  area  year-round. 
+To  confirm  year-round  presence, 
+deployment  of  long-term  acoustic  detector 
+stations  or  roost  surveys  are  necessary. 
+
+Western  Small-footed  Myotis  (Myotis 
+ciliolabrum)  was  only  confirmed  at  the 
+Albeni  Cove  site  in  August.  This  species  is 
+commonly  found  roosting  in  rock  crevices, 
+in  tree  cracks,  or  buildings  (Hoffman  et  al. 
+1969,  Hendrix  et  al.  2000).  As  rock  outcrops 
+are  less  common  within  the  study  area,  the 
+species  may  have  limited  presence  due  to  a 
+lack  of  suitable  roosting  habitat. 
+
+Long-eared  Myotis  (Myotis  evotis)  were 
+confirmed  at  four  sites:  Morton  River 
+Recreation  Area,  Morton  Slough,  Riley 
+Creek,  and  Springy  Point.  The  species  was 
+first  detected  in  May  and  every  subsequent 
+month  through  August.  Long-eared  Myotis 
+use  of  a  variety  of  roost  structures 
+throughout  the  active  season  including  live 
+trees,  snags  and  stumps,  buildings,  and 
+bridges.  It  has  been  found  in  caves  and 
+mines,  but  may  also  use  rock  outcrops 
+(Manning  and  Jones  1989,  reviewed  in 
+Maxell  2015  Appendix  5).  If  suitable 
+hibernacula  are  found  within  or  in  proximity 
+
+
+10 
+
+
+to  the  study  area,  the  species  may  be 
+present  throughout  the  year.  To  confirm 
+year-round  presence,  deployment  of  long¬ 
+term  acoustic  detector  stations  or  roost 
+surveys  are  required. 
+
+Fringed  Myotis  (Myotis  thysanodes)  were 
+confirmed  at  both  the  Albeni  Cover  and 
+Morton  Slough  sites.  Both  detections 
+occurred  in  August  of  2017.  The  species  is 
+infrequently  detected  with  acoustic 
+detectors  or  using  mist  nets  (supported  by 
+the  MTNHP  Point  Observation  Database), 
+consequently  the  few  detections  within  the 
+study  area  are  not  surprising.  To-date  little 
+is  known  about  overwintering  habits  of  this 
+species  in  the  inland  northwest.  In  similar 
+habitat  near  Flathead  Lake  in  northwest 
+Montana,  a  single  individual  was  found 
+hibernating  in  a  cave  (D.  Bachen,  personal 
+observation).  Within  the  project  area  it  is 
+unknown  whether  the  species  remains  in 
+the  region  year-round  or  that  some 
+individuals  remain  and  others  migrate  to 
+more  favorable  locations  to  overwinter. 
+
+Little  Brown  Myotis  was  definitively 
+identified  at  all  sites,  and  between 
+September  2016  and  September  2017. 
+These  data  indicate  the  species  is 
+widespread  during  the  active  season  and 
+hibernates  in  or  within  proximity  to  the 
+study  area. 
+
+Yuma  Myotis  was  confirmed  present  at 
+seven  sites  during  the  active  season:  Albeni 
+
+
+Cove,  Hoodoo  Creek,  Morton  River  Access 
+Site,  Morton  River  Slough,  Priest  River 
+WMA,  Riley  Creek,  and  Springy  Point.  Active 
+season  detections  occurred  in  May  through 
+September.  At  the  Albeni  Dam  site  the 
+species  was  detected  during  the 
+hibernation  season.  Yuma  Myotis  use  a 
+diversity  of  roost  features  in  the  active 
+season  including  trees,  snags,  rock 
+outcrops,  buildings,  and  bridges. 
+Overwintering  sites  are  not  well  described, 
+but  hibernation  in  rock  outcrops  may  occur 
+(reviewed  in  Maxell  2015  Appendix  5). 
+
+Long-legged  Myotis  (Myotis  volans)  was 
+automatically  identified  by  Sonobat  to  be 
+present  at  six  sites.  This  species  is  incredibly 
+difficult  to  identify  using  acoustic  methods, 
+as  almost  all  calls  are  indistinguishable  from 
+other  40  kHz  Myotis  species  (Maxell  2015a). 
+After  hand  review,  no  call  sequence  could 
+be  attributed  to  Long-legged  Myotis.  Given 
+that  the  habitat  is  similar  to  locations  where 
+we  have  captured  this  species  during  mist 
+net  surveys  in  western  Montana  (supported 
+by  the  MTNHP  Point  Observation 
+Database),  we  believe  it  is  possible  the 
+species  is  present.  To  confirm  that  it  is 
+present  targeted  mist  netting  should  be 
+conducted  during  the  active  season  as  the 
+species  is  easily  captured  and  identified  in¬ 
+hand. 
+
+
+11 
+
+
+Table  2.  Species  detected  at  each  site  with  the  numeric  month  when  detection(s)  were  confirmed.  Note  that  due  to  uneven 
+sampling,  months  without  detections  may  reflect  a  lack  of  survey  effort  rather  than  true  absence. 
+
+
+Site 
+
+Hoary 
+
+Bat 
+
+Big 
+
+Brown 
+
+Bat 
+
+Silver- 
+
+haired 
+
+Bat 
+
+Townsend's 
+
+Big-eared 
+
+Bat 
+
+California 
+
+Myotis 
+
+Western 
+
+Small¬ 
+
+footed 
+
+Myotis 
+
+Long¬ 
+
+eared 
+
+Myotis 
+
+Fringed 
+
+Myotis 
+
+Little 
+
+Brown 
+
+Myotis 
+
+Yuma 
+
+Myotis 
+
+Albeni 
+
+Falls  Dam 
+
+9 
+
+9, 10 
+
+Albeni 
+
+Cove 
+
+8 
+
+8 
+
+8 
+
+8 
+
+Hoodoo 
+
+Creek 
+
+8 
+
+8 
+
+8 
+
+Hornby 
+
+Creek 
+
+7 
+
+Morton 
+
+Slough 
+
+6,  8 
+
+6,  8 
+
+6,  8 
+
+6,  8 
+
+8 
+
+6,  8 
+
+6,  8 
+
+Morton 
+
+Slough 
+
+River 
+
+Access 
+
+7 
+
+7 
+
+7 
+
+7 
+
+7 
+
+7 
+
+Oden  Bay 
+
+7 
+
+Pack  River 
+
+Delta 
+
+6,  8 
+
+6,  8 
+
+Ponder 
+
+Point 
+
+7 
+
+Priest 
+
+River 
+
+Recreation 
+
+Area 
+
+7 
+
+5,7 
+
+9 
+
+7 
+
+Priest 
+
+River 
+
+WMA 
+
+9 
+
+9 
+
+9 
+
+7,9 
+
+9 
+
+Riley 
+
+Creek 
+
+6 
+
+6 
+
+8 
+
+8 
+
+Springy 
+
+Point 
+
+7 
+
+5 
+
+5,  7 
+
+5 
+
+5,  7 
+
+5 
+
+Species  Activity  Trends 
+
+Using  the  call  attributes  returned  by 
+Sonobat  as  indices  of  activity  across  all 
+sites,  the  most  active  species  were  in  the 
+genus  Myotis.  Due  to  the  relatively  low 
+auto-identification  rates  and  hand 
+confirmation  of  species  for  these  sites  we 
+have  chosen  to  report  these  activity  indices 
+by  call  class  rather  than  species.  Within  the 
+
+
+active  season  40-50  kHz  bats,  including  all 
+Myotis  species  had  the  highest  total 
+number  of  bat  passes  across  the  study  area 
+(13,479).  Larger  bats  such  as  Hoary,  Big 
+Brown,  Silver-haired,  and  Townsend's  Big- 
+eared  Bats  echolocate  in  the  20-30  kHz 
+range,  and  across  the  study  area  only  826 
+calls  were  recorded  within  this  group. 
+
+
+12 
+
+
+The  long-term  station  placed  at  Albine  Falls 
+Dam  over  the  winter  of  2016-2017  recorded 
+relatively  few  call  sequences  (153),  and  all 
+were  in  the  40-50  kHz  range.  Only  two 
+species  were  identified  at  this  location. 
+
+Little  Brown  Bat  and  Yuma  Myotis. 
+Unfortunately,  much  ambient  ultrasonic 
+
+
+noise  was  present  at  the  site,  presumably 
+from  the  nearby  dam  and  associated 
+infrastructure.  This  triggered  the 
+detector/recorder  and  resulted  in  the 
+internal  memory  cards  being  filled  by  late 
+December  restricting  the  recording  period 
+to  approximately  two  months. 
+
+
+Conservation  and  Management 
+
+
+Conservation  Status  of  Detected  Species 
+
+The  Silver-haired  Bat,  Hoary  Bat, 
+Townsend's  Big-eared  Bat,  and  Little  Brown 
+Myotis  are  listed  as  Idaho  Species  of 
+Greatest  Conservation  Need  (SGCN)  under 
+the  Idaho  Comprehensive  Wildlife 
+Conservation  Strategy  (Idaho  Department 
+of  Fish  and  Game  2005).  The  remaining 
+species  detected  within  the  project  area  are 
+not  included  on  this  list,  but  have  a  state 
+rank  of  S3.  This  designation  indicates  that 
+these  species  are  potentially  at  risk  of 
+extirpation  due  to  declining  numbers  or 
+threats  to  persistence.  Townsend's  Big- 
+eared  Bat  and  Fringed  Myotis  are  listed  as 
+sensitive  by  the  US  Forest  Service  within 
+Region  1.  No  species  found  within  the  study 
+area  is  currently  listed  as  federally 
+threatened  or  endangered. 
+
+Implications  for  White-Nosed  Syndrome 
+Monitoring 
+
+To-date,  the  presence  of 
+Pseudogymnoascus  destructans  (Pd)  and 
+associated  White-Nose  Syndrome  (WNS) 
+have  not  been  detected  in  Idaho  (White- 
+nose  syndrome  occurrence  map  -  by  year 
+2017).  However,  detections  of  Pd  and  WNS 
+within  approximately  400  km  of  the  project 
+site  in  King  County,  Washington  (Lorch  et  al. 
+2016)  have  increased  the  urgency  for 
+establishing  baseline  metrics  to  assess 
+
+
+future  impacts  on  resident  bats.  Of  the  10 
+species  detected  at  sites  within  the  project 
+area,  three  have  been  shown  to  develop 
+WNS  when  exposed  to  Pd.  These  species 
+are  the  Big  Brown  Bat,  Little  Brown  Myotis, 
+and  Yuma  Myotis.  Additionally,  the  Silver- 
+haired  Bat  and  Townsend's  Big-eared  Bat 
+have  been  shown  to  carry  Pd,  but  not 
+exhibit  symptoms  of  WNS 
+(https://www.whitenosesyndrome.org/abo 
+ut/bats-affected-wns).  The  remaining 
+Myotis  species:  California,  Long-eared, 
+Western  Small-footed,  and  Fringed  have 
+not  been  shown  to  carry  Pd  or  develop 
+WNS.  Rather  than  indicating  immunity  to 
+Pd,  the  lack  of  detections  of  individuals  with 
+this  disease  is  likely  a  result  of  their  western 
+distribution  that  has  not  overlap  with 
+affected  areas.  As  many  other  Myotis 
+species  are  impacted  by  WNS,  it  is  probably 
+best  to  consider  these  species  as 
+susceptible  until  proven  otherwise. 
+
+Our  presence  data  and  average  activity 
+levels  may  serve  as  a  baseline  for  future 
+monitoring  efforts  to  document  the  impacts 
+of  Pd  when  it  eventually  reaches  western 
+Idaho.  Establishment  of  baselines  before 
+the  disease  invades  this  area  are  important 
+to  allow  assessment  of  the  impacts  on  bats 
+within  this  region.  Without  pre-WNS 
+baselines,  assessment  of  the  impacts  of  the 
+
+
+13 
+
+
+disease  on  the  abundance  and  distribution 
+of  susceptible  species  is  not  possible. 
+
+Future  surveys  should  seek  to  determine  if 
+the  species  found  during  this  work  are  still 
+present  within  the  study  area.  Although  the 
+short-term  deployments  make  the  activity 
+data  difficult  to  use  as  a  baseline  due  to  low 
+numbers  of  nights  surveyed,  average  bat 
+passes  per  night  may  be  an  adequate  metric 
+for  future  monitoring  if  the  disease  has  a 
+significant  negative  impact.  If  sites  that 
+reduce  the  likelihood  of  vandalism  can  be 
+found,  we  recommend  that  future  acoustic 
+monitoring  include  long-term  stations 
+capable  of  gathering  robust  activity  data 
+across  both  the  active  and  hibernation 
+seasons.  As  both  the  California  Big-eared 
+Bat  and  Long-legged  Myotis  are  difficult  to 
+detect  with  acoustic  methods,  targeted  mist 
+net  surveys  of  creeks  and  ponds  off  of  the 
+river  or  lake  and  flight  corridors  within 
+forested  areas  should  be  considered  as  well 
+as  age  and  sex  data  on  all  species.  Finally, 
+projects  focusing  on  identifying  active 
+season  roosts  within  both  natural  and 
+artificial  structures,  hibernacula,  and 
+monitoring  known  roosts  to  provide 
+additional  baseline  data  to  inform 
+management  decisions. 
+
+Conservation  of  Roosts  and  Other 
+Landscape  Features  Important  for  Bats 
+
+Conservation  and  management  of  roost 
+features  used  by  bats  within  ACOE  managed 
+lands  near  Albeni  Falls  Dam  is  likely  to  have 
+the  biggest  impact  on  local  populations. 
+Roosts  occur  in  a  variety  of  natural  and 
+anthropogenic  features  including  crevices 
+and  cracks  in  rock  outcrops,  caves,  and  both 
+live  and  dead  trees,  and  buildings,  bridges, 
+and  mines.  Based  on  the  species  we 
+
+
+determined  to  be  present  within  the  study 
+area,  literature  documenting  roost 
+preferences  (see  Maxell  2015  for  a 
+comprehensive  review  of  known  roost 
+types  by  species),  and  life  history  of  these 
+species,  we  recommend  the  following 
+actions  for  species  conservation  within  the 
+study  area: 
+
+1.  Maintain  potential  roost  trees 
+including  large  diameter  trees,  snags 
+and  partially  dead  trees  that  provide 
+cavities  or  loose  bark  for  animals  to 
+roost  in  unless  they  pose  a  hazard  to 
+people  in  the  immediate  area.  If 
+removal  is  necessary,  wait  until  the 
+late  fall  or  winter  to  remove  trees 
+suspected  or  known  to  support 
+roosting  bats. 
+
+2.  Before  modification  of  any  buildings 
+or  bridges,  conduct  surveys  to 
+establish  whether  the  structures  are 
+used  as  roosts.  These  surveys  could 
+include  searching  for  guano  deposits 
+and  urine  staining  on  the  interior  or 
+exterior  of  structures,  and 
+examining  crevices  and  sheltered 
+areas  for  roosting  bats.  If  feasible 
+conduct  exit  counts  at  dusk  at 
+potential  exit  points  from  the 
+structure.  If  bats  are  found  and 
+exclusion  is  desired,  follow  best 
+practices  for  exclusion  (e.g. 
+http://www.batcon.0rg/resources/f 
+
+or-specific-issues/bats-in- 
+buildings/excluding-a-colony)  and 
+place  alternative  roost  structures 
+(bat  boxes)  in  the  local  area  to 
+compensate  for  the  loss  of  roosting 
+habitat. 
+
+
+14 
+
+
+3.  Surveys  to  determine  bat  use  of 
+other  potential  roosts  including  but 
+not  limited  to  rock  outcrops,  caves, 
+and  mines  should  be  conducted 
+prior  to  any  modification. 
+
+4.  Avoid  disturbance  of  known 
+maternity  roosts  between  May  and 
+July  and  known  hibernaculum 
+between  October  and  April. 
+
+
+15 
+
+
+Literature 
+
+Agranat,  I.  2014.  Detecting  bats  with 
+
+ultrasonic  microphones:  understanding 
+the  effects  of  microphone  variance  and 
+placement  on  detection 
+rates.  Unpublished  white 
+paper.  Wildlife  Acoustics,  Maynard, 
+
+MA.  14  p. 
+
+
+Arguez,  A.,  I.  Durre,  S.  Applequist,  R.S.  Vose, 
+M.F.  Squires,  X.  Yin,  R.R.  Heim  Jr,  T.W. 
+Owen.  2012.  NOAA's  1981-2010  US 
+Climate  normals:  an  overview.  Bulletin 
+of  the  American  Meteorological  Society 
+93:  1687-1697. 
+
+Arnett,  E.B.,  W.K.  Brown,  W.P.  Erickson,  J.K. 
+Fiedler,  B.L.  Hamilton,  T.H.  Henry,  A. 
+Jain,  G.D.  Johnson,  J.  Kerns,  R.R. 
+
+Koford,  C.P.  Nicholson,  T.J.  O'Connell, 
+M.D.  Piorkowski,  and  R.D.  Tankersley, 
+Jr.  2008.  Patterns  of  bat  fatalities  at 
+wind  energy  facilities  in  North  America. 
+Journal  of  Wildlife  Management  72(1): 
+61-78. 
+
+Bachen,  D.A.,  B.A.  Maxell,  E.  Whittle.  2017. 
+Measurements,  Body  Condition,  and 
+Reproductive  Status  of  Bats  Captured 
+in  Montana,  northern  Idaho,  and 
+western  South  Dakota.  Montana 
+Natural  Heritage  Program  Report.  13  p. 
+
+Idaho  Department  of  Fish  and  Game.  2005. 
+Idaho  Comprehensive  Wildlife 
+Conservation  Strategy.  Idaho 
+Conservation  Data  Center,  Idaho 
+Department  of  Fish  and  Game,  Boise, 
+
+ID. 
+
+Barclay,  R.M.  and  L.D.  Harder.  2003.  Life 
+histories  of  bats:  life  in  the  slow  lane. 
+
+
+Cited 
+
+Pp.  209-256  In:  T.H.  Kunz  and  M.B. 
+Fenton  (eds.)  Bat  Ecology.  Chicago: 
+University  of  Chicago  Press.  779  p. 
+
+Blehert,  D.S.,  J.M.  Lorch,  A.E.  Ballmann, 
+
+P.M.  Cryan,  and  C.U.  Meteyer.  2011. 
+Bat  White-Nose  syndrome  in  North 
+America.  Microbe  6(6):  267-273. 
+
+Britzke,  E.R.,  E.H.  Gillam,  and  K.L.  Murray. 
+2013.  Current  state  of  understanding 
+of  ultrasonic  detectors  for  the  study  of 
+bat  ecology.  Acta  Theriologica  58:109- 
+117. 
+
+[COSEWIC]  Committee  on  the  Status  of 
+Endangered  Wildlife  in  Canada. 
+February  3,  2012.  Emergency 
+assessment  concludes  that  three  bat 
+species  are  endangered  in  Canada. 
+COSEWIC  Press  Release  accessed  on 
+the  internet  at: 
+
+http://www.cosewic.gc.ca/eng/sct7/Ba 
+
+t  Emergency  Assessment  Press  Relea 
+
+se  e.cfm 
+
+Frick,  W.F.,  J.F.  Pollock,  A.C.  Hicks,  K.E. 
+Langwig,  D.S.  Reynolds,  G.G.  Turner, 
+C.M.  Butchkoski,  and  T.H.  Kunz.  2010. 
+An  emerging  disease  causes  regional 
+population  collapse  of  a  common 
+North  American  bat  species.  Science 
+329:  679-682. 
+
+Hendricks,  P.,  D.L.  Center,  and  S.  Martinez. 
+2000.  Bats  of  Azure  Cave  and  the  Little 
+Rocky  Mountains,  Montana.  The 
+Canadian  Field  Naturalist  114:89-97. 
+
+
+16 
+
+
+Hoffman,  R.S.,  D.L.  Pattie,  and  J.F.  Bell. 
+
+1969.  The  distribution  of  some 
+mammals  in  Montana.  II.  Bats.  Journal 
+of  Mammalogy  50(4):737-741. 
+
+Kunz,  T.H.,  E.B.  Arnett,  W.P.  Erickson,  A.R. 
+Hoar,  G.D.  Johnson,  R.P.  Larkin,  M.D. 
+Strickland,  R.W.  Thresher,  and  M.D. 
+Tuttle.  2007.  Ecological  impacts  of 
+wind  energy  development  on  bats: 
+questions,  research  needs,  and 
+hypotheses.  Frontiers  in  Ecology  and 
+the  Environment  5(6):315-324. 
+
+Kunz,  T.H.,  J.D.  Reichard,  Friends  of 
+
+Blackwater  Canyon,  Wildlife  Advocacy 
+Project,  Bat  Conservation  International, 
+Center  for  Biological  Diversity,  and 
+Myer  Glitzenstein  and  Crystal. 
+December  16,  2010.  Status  review  of 
+the  Little  Brown  Myotis  {Myotis 
+lucifugus)  and  determination  that 
+immediate  listing  under  the 
+Endangered  Species  Act  is  scientifically 
+and  legally  warranted. 
+http://www.bu.ed  u/cecb/fi  les/2010/12 
+/Final-Status-Review,  pdf 
+
+Lorch,  J.M.,  C.U.  Meteyer,  M.J.  Behr,  J.G. 
+Boyles,  P.M.  Cryan,  A.C.  Hicks,  A.E. 
+Ballmann,  J.T.H.  Coleman,  D.N.  Redell, 
+D.M.  Reeder,  and  D.S.  Blehert.  2011. 
+Experimental  infection  of  bats  with 
+Geomyces  destructans  causes  white- 
+nose  syndrome.  Nature  480:  376-378. 
+
+Lorch,  J.M.,  J.M.  Palmer,  D.L.  Lindner,  A.E. 
+Ballmann,  K.G.  George,  K.  Griffin,  S. 
+Knowles.  2016.  First  detection  of  bat 
+white-nose  syndrome  in  western  North 
+America.  mSphere  1(4):00148-16. 
+
+
+Manning,  R.W.  and  J.K.  Jones,  Jr.  1989. 
+Myotis  evotis.  Mammalian  Species 
+Account  329:1-5. 
+
+Maxell,  B.A.  Coordinator.  2015.  Montana 
+Bat  and  White-Nose  Syndrome 
+Surveillance  Plan  and  Protocols  2011- 
+2016.  Montana  Natural  Heritage 
+Program.  Helena,  MT  205  p. 
+
+Parsons,  S.  and  J.M.  Szewczak.  2009. 
+
+Detecting,  recording,  and  analyzing  the 
+vocalizations  of  bats.  Pp.  91-111  In: 
+Kunz,  T.H.  and  S.  Parsons.  Ecological 
+and  behavioral  methods  for  the  study 
+of  bats.  2nd  edition.  Johns  Hopkins 
+University  Press.  Baltimore,  MD. 
+
+Shump,  K.A.  Jr.  and  A.U.  Shump.  1982. 
+Lasiurus  cinereus.  Mammalian  Species 
+Account  185:1-5. 
+
+U.S.  Fish  and  Wildlife  Service.  2012.  North 
+American  bat  death  toll  exceeds  5.5 
+million  from  white-nose  syndrome. 
+News  Release. 
+
+U.S.  Fish  and  Wildlife  Service.  2016. 
+
+Endangered  and  Threatened  Wildlife 
+and  Plants;  4(d)  Rule  for  the  Northern 
+Long-Eared  Bat.  Federal  Register  81(9): 
+1900-1922. 
+
+Washington  Department  of  Fish  and 
+
+Wildlife.  2017.  White-nose  Syndrome 
+Update. 
+
+https://wdfw.wa.gov/conservation/he 
+
+alth/wns/.  Accessed  December  18*^ 
+2017. 
+
+
+17 
+
+
+White-nose  syndrome  occurrence  map  -  by 
+year  (2017).  Data  Last  Updated 
+10/12/2017.  Available  at 
+https://www.whitenosesyndrome.org/ 
+
+resources/map 
+
+
+18 
+
+
+Appendix  1 
+
+Average  Nightly  Bat  Passes  by  Site  and  Month 
+
+
+ONIHSVM 
+
+
+1-2 
+
+
+Average  CaMs/Night 
+July 
+
+•  1-19 
+
+•  19-93 
+
+•  931-181 
+
+%  181-424 
+
+^  424-623 
+
+August 
+O  1-19 
+O  19-93 
+O  931-181 
+O  181-424 
+Q  424-623 
+
+
+'  Sa.^,  €  <5psxiSUi»8ifclap  Ssii,  HSTiS,  DeL&nnSf  h\aptrf:finthi 
+
+f  ^  U93r{»ifm/ilirii)y.Copyr)|liil^2S13£3/d»)>OLibM 
+
+
+1-3 
+
+
+Appendix  2 
+
+Species  Detections  Across  Acoustic  Monitoring  Sites 
+
+
+Hoary  Bat 
+
+
+Not  Detected 
+
+
+Detected 
+
+
+2-2 
+
+
+Not  Detected 
+
+
+Detcted 
+
+
+°\eM,  IrJMrils,  IDidlMis,  y  @  ^put&UbSi&lap  ssiittdiiiOsrs,  &n,  j-ISTiS,  DaLsr/ns,  i>l£ipmyli>^3,  @ 
+
+qpauSiifaailiVki^  sainiMkcuMs,  ^isl  iibts  @13  ussr  seirrirniinBy,  Sspyr^rii:®  SO'I  S  B37U,  l-sussd,  03a^y3 
+
+
+Big  Brown  Bat 
+
+
+2-3 
+
+
+Not  Detected 
+
+
+Detected 
+
+
+^  4  lD*slL'sm'i]^  lft*l5)l^y{ittalla,  •©  es/UrtbiU&fs^  Ss/l,  J-ISTIS,  DaUr/ws,  iyl«jpmyJ/)iDa,  # 
+
+^  i-  ^  ^si/iiSiiiii3^Vl£i{p)  •ssviiMlsujiiaii&g  a/tsi  Ma  B\B  iisBf  2Di  3  03£»£yd 
+
+
+Silver-haired  Bat 
+
+
+!2^ 
+
+
+2-4 
+
+
+2-5 
+
+
+^OVOI 
+
+
+California  Myotis 
+
+
+O  Not  Detected 
+#  Detected 
+
+
+■  •  •  ■  Kj  '•■  fjt: 
+
+-  j  *  '  Ba^wcw  ^  - 1 
+
+1 4  "^^1  trBriEg  IDidLsmia,  lialai^j/taila,  ©  OjJ3i0!f=eL'/Jab  ssi jttrtBiBors,  Bs/I,  j-ISFiS,  DaLsmis,  iflapmyMa 
+j. ,  £^aniSiifaailiVla@  sainiMfcciiMs,  aiisl  iibts  @13  usar  seiMrnjinBy,  Gop^r^rttS  SO'I  S  SBFti,  l-susad,  0aa^ya 
+
+
+2-6 
+
+
+WASH'NGT.ON 
+
+
+2-7 
+
+
+^OVOI 
+
+
+5!^  ^  4  lD*slL'sm'i]^  lft*l5)l^y{ittalla,  •©  es/UrtbiU&fs^  Ss/l,  J-ISTIS,  DaUr/ws,  iyl«jpmyJ/)iDa,  # 
+
+^  i .  <5p)aniS4JaaJiVlasi  sainiMfetuSste,  sutal  te  ©13  sissf  otiwirniinHy,  eopyrfe|;ii:@  2S'1 3  HSriJ,  t-suiisd,  ©saSys 
+
+
+Long-eared  Myotis 
+
+
+O  Not  Detected 
+#  Detected 
+
+
+2-8 
+
+
+2-9 
+
+
+Little  Brown  Myotis 
+
+
+O  Not  Detected 
+#  Detected 
+
+
+2-10 
+
+
+NOTON 
+
+
+2-11 
+
+

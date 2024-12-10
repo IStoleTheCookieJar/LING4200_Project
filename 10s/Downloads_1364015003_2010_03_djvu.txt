@@ -1,0 +1,76 @@
+1364.0.15.003 - Modellers' Database, Mar 2010 
+ARCHIVED ISSUE Released at 11:30 AM (CANBERRA TIME) 14/07/2010 
+Help for : as] Excel File @ Zip File. 
+
+
+Time Series Spreadsheets 
+
+
+Table 01:NIF Private Consumption - Seasonally Adjusted 
+
+Table 02:NIF Demand and Expenditure - Seasonally Adjusted ($million) 
+
+TABLE 03:NIF Private Gross Fixed Capital Formation - Seasonally Adjusted ($ million) 
+Table 04:NIF Depreciation and Deductions - Original ($ million) 
+
+Table 05:NIF Interest Payments - Seasonally Adjusted ($ million) 
+
+Table 06:NIF Product Aggregates - Seasonally Adjusted ($ million) 
+
+TABLE 07:NIF Stocks of Physical and Financial Assets - Seasonally Adjusted ( $ million) 
+Table 08:NIF Increases in Stocks - Seasonally Adjusted ($ million) 
+
+Table 09:NIF Imports and Exports of Goods and Services - Seasonally Adjusted ($ million) 
+TABLE 10:NIF Labour Market - Seasonally Adjusted (‘000) 
+
+TABLE 11:NIF Implicit Price Deflators - Seasonally Adjusted 
+
+TABLE 12:NIF Tax Rates - Original (%) 
+
+TABLE 13:NIF Taxes & Transfers - Seaonally Adjusted ($ million) 
+
+TABLE 14:NIF Incomes - Seasonally Adjusted ($ million) 
+
+TABLE 15:NIF Budget Sector - Seasonally Adjusted ($ million) 
+
+TABLE 16:NIF Increase in Stocks - Seasonally Adjusted ($ million) 
+
+TABLE 17:NIF Miscellaneous - Seasonally Adjusted 
+
+TABLE 18:TRYM Financial Flows - Seasonally Adjusted ($ million) 
+
+TABLE 19:TRYM Private Consumption - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 20:TRYM Demand - Seasonally Adjusted (Chain Volume Measure) 
+
+
+TABLE 21:TRYM Financial Sector - Seasonally Adjusted (Percent) 
+
+TABLE 22:TRYM Output & Expenditure - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 23:TRYM Investment - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 24:TRYM Capital Stock - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 25:TRYM Imports - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 26:TRYM Labour Market & Demography - Seasonally Adjusted ('000) 
+TABLE 27:TRYM Prices - Seasonally Adjusted (Chain Volume Index) 
+
+TABLE 28:TRYM Dummy Variables & Time Trends (Number) 
+
+TABLE 29:TRYM Rates (Percent) 
+
+TABLE 30:TRYM Stock Building - Seasonally Adjusted (Chain Volume Measure) 
+TABLE 31:TRYM Financial Stocks - Original ($ million) 
+
+TABLE 32:TRYM World - Seasonally Adjusted (Index) 
+
+TABLE 33:TRYM Exports - Seasonally Adjusted (Chain Volume Measures) 
+TABLE 34:TRYM Ratios (Ratio) 
+
+TABLE 35:TRYM Income - Seasonally Adjusted ($ million) 
+
+TABLE 36:TRYM Miscellaneous - Seasonally Adjusted (Ratio) 
+
+TABLE 37:TRYM Exogenous Trends in Behavioural Equations 
+
+
+This page last updated 19 October 2010 
+
+

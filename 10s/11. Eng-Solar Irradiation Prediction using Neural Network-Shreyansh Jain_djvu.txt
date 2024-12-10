@@ -1,0 +1,338 @@
+r 
+
+T 
+
+m  r 
+
+j  act; 
+
+ournais 
+
+IMPACT:  International  Journal  of  Research  in 
+Engineering  &  Technology  (IMPACT:  IJRET) 
+ISSN(E):  2321-8843;  ISSN(P):  2347-4599 
+Vol.  2,  Issue  7,  Jul  2014,  81-84 
+©  Impact  Journals 
+
+
+SOLAR  IRRADIATION  PREDICTION  USING  NEURAL  NETWORK 
+
+AKHIL  SAOKAR1,  SHREYANSH  JAIN2  &  ARUNA  GAWADE3 
+
+UU.G.  Student,  Department  of  Computer,  DJSCOE,  Vile-Parle  (W),  Mumbai,  Maharashtra,  India 
+3Assistant  Professor,  Department  of  Computer,  DJSCOE,  Vile-Parle  (W),  Mumbai,  Maharashtra,  India 
+
+ABSTRACT 
+
+In  recent  years,  introduction  of  a  renewable  energy  source  such  as  solar  energy  is  expected  due  to  the  expected 
+depletion  of  other  conventional  energy  sources.  Solar  energy  is  one  of  the  most  promising  renewable  energy  sources. 
+In  order  to  integrate  this  type  of  source  into  an  existing  power  distribution  system,  system  planners  need  an  accurate  model 
+that  predicts  the  availability  of  the  generating  capacity.  In  order  to  predict  this  to  a  successful  extent,  an  artificial  neural 
+network  is  applied.  This  paper  shows  the  results  of  our  earlier  proposed  neural  network  model  used  for  prediction  of 
+solar  irradiation,  as  well  as  compares  outputs  from  various  neural  network  models  based  on  supervised  learning  rules  and 
+Error  Back  Propagation  Training  Algorithm.  The  irradiation  and  other  training  data  of  one  year 
+(December  2012  to  November  2013)  have  been  obtained  from  Tata  Power  Company's  Mulshi  Solar  Power  Plant. 
+
+KEYWORDS:  Artificial  Intelligence,  Solar  Energy,  Solar  Irradiance,  Neural  Network,  Prediction,  EBPTA, 
+Feed  Forward 
+
+INTRODUCTION 
+
+The  world  is  facing  the  threat  of  depleting  fossil  fuel  resources  which  could  cause  a  major  setback  to  the  world. 
+Researches  show  that  the  fossil  fuels  will  get  depleted  completely  in  the  coming  years.  The  existing  system  for  power 
+generation  uses  non-renewable  resources  as  a  major  source  which  shall  soon  be  depleted.  Renewable  resources  are  also 
+being  used  for  power  generation  but  they  aren't  being  used  to  their  full  extent.  Artificial  Neural  Networks  (ANNs)  have 
+been  used  widely  in  real  world  applications,  including  stock  market  prediction,  flood  or  disaster  prediction, 
+medical  diagnostic  system,  etc.  With  the  advent  of  the  need  for  efficient  reusable  energy,  ANNs  have  now  also  been 
+implemented  in  Solar  Energy  Prediction  or  Solar  Irradiance  Prediction  nowadays. 
+
+ANNs  are  appropriate  tools  for  solving  real  problems  in  the  cases  where  classical  methods  are  insufficient. 
+Artificial  Neural  Networks  (ANNs)  is  an  efficient  information  processing  system  which  resembles  in  characteristics  with  a 
+biological  neural  network.  ANNs  can  easily  adapt  to  changing  situations  and  timely  variations.  The  ANN  model  that  had 
+been  proposed  in  [1],  to  estimate  solar  irradiation  in  Tata  Power  Company's  Solar  Power  Plant  at  Mulshi  is  based  on 
+several  input  parameters.  This  study  utilizes  the  commonly  available  parameter  of  sunshine  hours,  irradiation  intensity, 
+geographical  locations  of  the  power  plant,  etc.  to  develop  an  easy  to  use  ANN  model,  using  data  covering  a  period  of 
+one  year. 
+
+DIFFERENT  MODELS 
+
+We  have  tested  multiple  Feedforward  neural  networks  in  MATLAB  and  the  one  with  best  performance  is  selected 
+for  prediction.  These  models  vary  in  the  number  of  hidden  layers  and  also  the  number  of  neurons  in  the  hidden  layer. 
+
+
+[ 
+
+
+Impact  Factor(JCC):  1.5548  -  This  article  can  be  downloaded  from  www.impactjournals.us 
+
+
+82 
+
+
+Akhil  Saokar,  Shreyansh  Jain  &  Aruna  Gawade 
+
+
+The  different  models  implemented  in  MATLAB  are  as  described  below: 
+
+
+Table  1:  Different  Neural  Network  Architectures 
+
+
+Model 
+
+No.  of  Input 
+
+No.  of  Hidden 
+
+Neurons  in  Each 
+
+No.  of  Output 
+
+XT** 
+
+INO. 
+
+Parameters 
+
+Layers 
+
+Hidden  Layer 
+
+Neurons 
+
+1 
+
+8 
+
+2 
+
+2 
+
+8 
+
+4 
+
+3 
+
+8 
+
+6 
+
+4 
+
+8 
+
+8 
+
+5 
+
+8 
+
+10 
+
+6 
+
+8 
+
+2 
+
+2,10 
+
+7 
+
+8 
+
+2 
+
+4,10 
+
+8 
+
+8 
+
+2 
+
+6,10 
+
+9 
+
+8 
+
+2 
+
+8,10 
+
+10 
+
+8 
+
+2 
+
+10,10 
+
+The  results  of  different  neural  network  architectures  suggest  that  the  performance  lies  between  0.004  -  0.006  and 
+model  no.  4,  with  1  hidden  layer  and  8  neurons  in  that  hidden  layer,  gives  the  best  validation  performance  of  0.0040182  at 
+epoch  55. 
+
+IMPLEMENTED  MODEL 
+
+A  Feed  Forward  neural  network  which  has  an  input  layer  of  8  neurons,  1  hidden  layer  with  8  neurons  and  an 
+output  layer  with  single  neuron  has  been  used  for  prediction  of  solar  irradiation.  The  error  back  propagation  training 
+algorithm  has  been  used  for  training  the  network. 
+
+The  input  parameters  to  the  network  are: 
+
+•  Geographical  Position 
+
+The  geographical  position  of  the  solar  power  plant  plays  an  important  role  in  determining  the  solar  irradiance 
+since  it  is  more  towards  the  equator  than  the  poles.  Hence,  a  mix  of  latitude  and  longitude  of  the  plant  will  be  used  in  the 
+model. 
+
+•  Weather  Conditions 
+
+The  cloud  cover  and  temperature  of  the  surrounding  area  of  the  plant  will  be  an  essential  input.  As  surrounding 
+temperature  increases,  general  solar  irradiance  values  increase.  On  the  same  hand,  the  cloud  cover  determines  if  the 
+sun  rays  will  be  falling  on  the  PV  panels  or  not. 
+
+•  Previous  Day  Solar  Irradiance 
+
+The  solar  irradiance  value  on  the  same  time  on  the  previous  day  would  be  considered  as  an  input  to  get  a  trade-off 
+between  hourly/daily  short  term  forecasting. 
+
+•  15  Minutes  before  Solar  Irradiance 
+
+A  15  minute  earlier  solar  irradiance  value  is  useful  in  the  case  of  short  term  predicting  of  the  same. 
+
+•  30  Minutes  before  Solar  Irradiance 
+
+A  30  minute  earlier  solar  irradiance  value  is  useful  in  the  case  of  short  term  predicting  of  the  same. 
+
+
+Index  Copernicus  Value:  3.0  -  Articles  can  be  sent  to  editor  @impactjournals.us 
+
+
+Solar  Irradiation  Prediction  Using  Neural  Network 
+
+
+83 
+
+
+•  45  Minutes  before  Solar  Irradiance 
+
+A  45  minute  earlier  solar  irradiance  value  is  useful  in  the  case  of  short  term  predicting  of  the  same. 
+
+•  1  Hour  before  Solar  Irradiance 
+
+Solar  irradiance  value  of  the  hour  before  is  useful  in  the  case  of  short  term  predicting  of  the  same. 
+
+•  Mean  Sunshine  Duration 
+
+Sunshine  duration  or  sunshine  hours  is  a  climatological  indicator,  measuring  duration  of  sunshine  in  given  period 
+(usually,  a  day  or  a  year)  for  a  given  location  on  Earth.  It  is  a  general    indicator  of  cloudiness  of  a  location. 
+
+For  training  the  network,  EBPTA  algorithm  is  implemented  and  tested  for  a  number  of  epochs  and  results  are 
+compared  for  the  same.  Initially  the  algorithm  is  implemented  for  150  epochs  and  the  network  is  tested  and  mean  square 
+error  is  calculated.  Then  it  is  implemented  for  another  500  epochs  and  this  is  continued  till  the  mean  square  error  becomes 
+less  than  1%.  After  training  the  network,  the  final  weights  are  used  for  prediction.  The  network  now  predicts  the  irradiation 
+values  for  a  given  time  period.  These  values  can  then  be  compared  with  the  original  values  obtained. 
+
+
+Geographical 
+Position 
+
+
+Mean  Sunshine 
+Duration 
+
+
+Weight  Updation 
+
+
+Desired 
+Output 
+
+
+Irradiation 
+45  mins  before 
+
+
+Irradiation 
+60  mins  before 
+
+
+INPUT  LAYER 
+
+
+HIDDEN  LAYER         OUTPUT  LAYER 
+
+
+Figure  1:  ANN  Architecture  for  Solar  Irradiation  Prediction 
+
+
+RESULTS 
+
+
+Best  Validation  Performance  is  0.0040182  at  epoch  49 
+
+
+Figure  2:  Performance  Measure  for  Implemented  Model 
+Impact  Factor(JCC):  1.5548  -  This  article  can  be  downloaded  from  www.impactjournals.us 
+
+
+84 
+
+
+Akhil  Saokar,  Shreyansh  Jain  &  Aruna  Gawade 
+
+
+Training:  R=0 .97253 
+
+
+Validation:  R=0. 97735 
+
+
+Test:  R=0. 97336 
+
+
+0.4  0.6 
+
+Target 
+
+
+All:  R=0 .97341 
+
+
+O  O  ,Q    ^O,  CP 
+
+
+0.4  0,6 
+
+Target 
+
+
+Figure  3:  Regression  Plot  for  Implemented  Model 
+
+
+CONCLUSIONS 
+
+
+The  ANN  model  as  discussed  above  has  considered  a  number  of  input  parameters  after  studying  the  previous 
+work  in  same  domain.  The  number  of  neurons  in  the  model  has  been  finalized  after  testing  a  number  of  networks  with 
+different  number  of  neurons.  The  EBPTA  algorithm  is  used  for  training  the  network  and  the  training  is  continued 
+till  minimum  mean  square  error  becomes  1%.  The  network  may  need  retraining  in  future  and  EBPTA  will  be  used  for  the 
+same. 
+
+In  future  models,  there  is  a  scope  for  including  more  input  parameters  if  possible  with  different  network 
+architecture.  Also  things  like  condition  based  cleaning  and  automating  the  cleaning  processes  for  solar  panels  can  be 
+implemented  to  further  optimize  the  solar  energy  generation  from  the  solar  plants.  Further,  prediction  of  electricity  from 
+wind  energy  can  be  implemented  in  future  using  neural  networks. 
+
+REFERENCES 
+
+1.    Akhil  Saokar,  Shreyansh  Jain,  Aruna  Gawade,  Dr.  Gopakumaran  T.  Thampi,  "Neural  Network  Applications  in 
+Solar  Irradiance  Prediction",  in  IJCSE,  Volume  2,  Issue  5,  Issue  Date  Nov-30  2013,  Pg.  No.  81-88. 
+
+
+Index  Copernicus  Value:  3.0  -  Articles  can  be  sent  to  editor @impactjournals.us 
+
+

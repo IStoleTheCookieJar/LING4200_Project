@@ -1,0 +1,618 @@
+International  Journal  of  Applied 
+and  Natural  Sciences  (UANS) 
+
+ISSN(P):  2319-4014;  ISSN(E):  2319-4022 
+Vol.  4,  Issue  5,  Aug  - Sep  2015,  91-96 
+© IASET 
+
+
+Connecting  Researchers;  Nurturing  Innovations 
+
+
+International  Academy  of  Science, 
+Engineering  and  Technology 
+
+
+SYNTHETIC  WOOD  ELABORATION  FROM  DEPOLYMERIZE  LIGNIN  BY  UV 
+IRRADIATION,  EXTRACTED  FROM  LOW  RANK  COAL 
+
+ANDREA  CATALINA  RODRIGUEZ  MURCIA,  HAROLD  ANDRES  SALAMANCA  ORTIZ  & JESUS  ALVARO 
+
+JIMENEZ  MONTOYA 
+
+Universidad  Distrital  Francisco  Jose  de  Caldas,  Bogota,  Colombia 
+
+
+This  research  purpose  is  to  determine  ideal  conditions  for  lignin  depolymerization  so  its  reactivity  may  be 
+
+
+properties.  Process  was  made  in  three  stages.  First  stage  consisted  in  lignin  extraction  by  Sosa  Method  and  its  subsequent 
+characterization  by  IR,  UV,  elemental  analysis  and  solubility.  Second  stage  consisted  in  lignin  depolymerization  by  UV 
+irradiation  and  later  a hydroxymethylation  with  formaldehyde  was  made.  Third  stage  was  the  wood  product  elaboration 
+with  modified  lignin  and  melamine-formaldehyde  using  rice  husk  as  natural  fiber.  In  second  stage,  optimum 
+depolymerization  time  by  UV  irradiation  was  found,  it  was  12  h.  With  hydroxymethylation  process,  in  depolymerized 
+lignin  oxygen  level  was  increased  to  32. 1 % so  more  reactive  sites  that  became  methylene  bridges  between  lignin  and  resin 
+were  generated.  Polymerization  reaction  submitted  to  autoclave  (121°C  and  15  psi)  developed  a synthetic  wood  product 
+with  better  mechanical  properties. 
+
+KEYWORDS:  Depolymerization,  Lignin,  Low  Rank  Coal,  Synthetic  Wood 
+
+INTRODUCTION 
+
+Due  to  indiscriminate  use  forests  logging  is  necessary  to  propose  alternatives  so  it  can  be  reduced.  Gaitan  et  al. 
+(2006)  posed  the  possibility  to  manufacture  synthetic  wood  starting  with  reaction  between  phenol-formaldehyde  resin  and 
+extracted  lignin  from  coal  peat  using  sawdust  and  paper  as  natural  fiber.  They  found  that  Sosa  extraction  method  yielded 
+best  efficiency  for  lignin  production  than  Fukushina  and  sulfate  methods. 
+
+Lignin  reactivity  in  natural  condition  is  too  low.  El  Mansouri  (2006)  found  that  its  hydroxymethylation  with 
+formaldehyde  increased  its  reactivity.  This  procedure  joined  with  lignin  depolymerization  with  UV,  potentiated  its 
+reactivity  as  posed  by  Gordilllo  and  Vega  (2010).  Besides,  they  found  that  the  best  resin  to  couple  with  lignin  was 
+melamine-formaldehyde. 
+
+This  research  aims  to  find  the  optimal  exposure  time  with  UV  irradiation  to  generate  a more  reactive  lignin,  as 
+well  as  improve  the  reaction  conditions  in  the  elaboration  of  the  final  product. 
+
+MATERIALS  AND  METHODS 
+
+First  Stage 
+
+Coal  characterization,  lignin  extraction  and  its  characterization  were  made  in  first  stage. 
+
+Three  coal  samples  were  analyzed.  They  came  from  Paipa  - Boyaca  and  were  found  50  m deep.  They  were 
+crushed  and  grinded  to  106  pm.  After,  they  were  characterized  by  next  analysis  according  to  ASTM  D 3172 
+
+
+ABSTRACT 
+
+
+increased  and  later  to  develop  a process  with  this  lignin  to  get  an  industrial  synthetic  wood  with  good  mechanical 
+
+
+www.iaset.us 
+
+
+editor  @iaset.us 
+
+
+92 
+
+
+Andrea  Catalina  Rodriguez  Murcia,  Harold  Andres  Salamanca  Ortiz  & Jesus  Alvaro  Jimenez  Montoya 
+
+
+(%  moisture-ASTM  D 3173,  % ash-ASTM  D 3174,  % volatile  matter-  ASTM  D 3175),  elemental  analysis 
+(%  C,  H,  N,  S,  O)  with  the  FLASH  2000  Series  CHNSO  Automatic  Elemental  Analyzer  of  Thermo-scientific  and  calorific 
+power  determination  by  IKA  C 2000  Basic  calorimeter. 
+
+Humic  acids  were  extracted  by  Nagoya  Method  (Kuwatsuka,  1992)  from  236.22  g of  low  rank  coal.  For  lignin 
+extraction,  202.54  g of  low  rank  coal  free  of  humic  acids  were  used.  It  was  made  by  Coal  Sosa  Standardized  Method 
+(Jimenez,  J.  et  al.,  2012).  Obtained  solution  was  purified  adding  H2SO4  98%  drop  by  drop  until  gas  production  finished.  It 
+was  necessary  to  let  it  rest  by  12  hours.  Lignin  was  separated  by  filtration  with  Whatman  qualitative  filter  paper. 
+
+Lignin  and  standard  sample  (Kraft  Lignin  distributed  by  Sigma-Aldrich)  were  characterized  by  elemental  analysis 
+(%C,  H,  N,  S,  O)  with  the  FLASH  2000  Series  CHNSO  Automatic  Elemental  Analyzer  of  Thermo-scientific,  by  UV 
+spectroscopy  with  UV-VISIBLE  Perkin  Elmer  35  Digital  with  rank  between  200-400nm  equipment  using  a concentration 
+of  0,016  mg/mL,  by  IR  spectroscopy  with  IR  spectrophotometer  with  Shimadzu  IR  Affinity  -1  Fourier  Transformed  and 
+finally  by  solubility  (1  mg:  6 ml)  using  these  solvents:  NaOH  15%,  H20,  HC1  0.1  N,  HC1  32%,  Acetone,  Isopropanol, 
+Butanol,  Allyl  alcohol.  Ethanol,  Methanol,  Ethyl  acetate.  Butyl  acetate,  THF  and  Glycerin. 
+
+Second  Stage 
+
+Second  stage  was  the  lignin  depolymerization  by  UV  irradiation,  and  its  hydroxymethylation  with  formaldehyde. 
+
+1 g of  extracted  lignin  was  deposited  in  each  of  5 Petri  Dish.  Every  dish  was  irradiated  by  UV  for  10,  12,  14,  16  and  18  h 
+respectively,  using  a 15  W TUV15  Germicidal  Philips  lamp  with  ozone  filter.  Depolymerized  samples  were  immediately 
+hydroximethylated  with  formaldehyde  using  El  Mansouri  Method  (2006),  changing  agitation  to  10  h.  Product  was  then 
+dried  to  50  °C  until  a solid  lignin  was  obtained.  By  elemental  analysis  (%  C,  H,  N,  S,  O)  was  determined  which  sample 
+coupled  more  oxygen  amount.  Later,  depolymerization  by  12h  irradiation  and  hydroxymethylation  was  repeated  with  5 g 
+of  extracted  lignin.  Results  were  demonstrated  by  IR  spectroscopy. 
+
+Third  Stage 
+
+Third  stage  was  the  elaboration  of  synthetic  wood. 
+
+3 g of  depolymerized  and  hydroximethylated  lignin  was  mixed  with  3g  of  sawdust  and  6 g of  melamine.  Lately, 
+mixture  was  heated  to  120  °C  and  7 ml  of  formaldehyde  37  % were  added  with  constant  stirring  until  a viscous  paste  was 
+obtained.  Paste  was  deposited  inside  of  2 mold  and  each  one  was  compressed.  The  first  one  was  dried  for  24  h and  80  °C. 
+The  second  was  autoclaved  to  15  psi  and  121  °C  for  3.5  h. 
+
+RESULTS  AND  ANALYSIS 
+
+First  Stage 
+
+3 coal  samples  were  characterized  in  order  to  know  which  one  was  a low  rank  coal.  Table  1 shows  results.  Sample 
+3 was  chosen  because  it  had  higher  percentage  of  H,  O,  volatile  matter  and  lower  percentage  of  C and  combustion  heat. 
+
+
+Impact  Factor  (JCC):  2.9459 
+
+
+NAAS  Rating:  2.74 
+
+
+Synthetic  Wood  Elaboration  from  Depolymerize  Lignin  by  UV  Irradiation,  Extracted  from  Low  Rank  Coal 
+
+
+93 
+
+
+Table  1:  Characterization  of  the  3 coal  samples 
+
+
+Analysis 
+
+Sample  1 
+
+Sample  2 
+
+Sample  3 
+
+%C 
+
+65.50 
+
+66.22 
+
+62.38 
+
+%H 
+
+4.59 
+
+4.40 
+
+6.54 
+
+%N 
+
+0.95 
+
+0.98 
+
+0.40 
+
+%S 
+
+0.80 
+
+0.73 
+
+0.83 
+
+%o 
+
+12.93 
+
+12.18 
+
+17.15 
+
+% Moisture 
+
+7.88 
+
+6.59 
+
+7.90 
+
+% Ashes 
+
+9.55 
+
+8.91 
+
+4.52 
+
+% Volatile  matter 
+
+53.36 
+
+51.13 
+
+74.38 
+
+Combustion  heat  (J/g) 
+
+27,012 
+
+27,327 
+
+26,665 
+
+In  order  to  get  free  impurity  lignin  extract,  humic  acids  extraction  must  be  done  before.  Since  the  lowest  rank  coal 
+is  sample  3,  236.22  g were  taken  to  extract  HA.  HA  extraction  is  made  by  their  solubility  in  weak  alkaline  solution.  Coal 
+residue  containing  lignocellulosic  extract  is  obtained  on  this  way.  A 14.26%  of  Humic  Acids  was  obtained. 
+
+Lignin  extraction  is  made  by  its  solubility  in  strong  basic  medium.  This  process  was  made  in  high  pressure 
+(autoclave)  in  order  to  facilitate  the  dissolution.  A lignocellulosic  liqueur  was  obtained  and  purified  by  acid  hydrolysis  with 
+H2S04.  An  oxidation  of  oxygen  bridges  between  lignin  and  carbohydrates  happens. 
+
+
+H2S04(i)  + Lig-0-Carbohydrate(s)  — > S02(g)  + Lig-OH,sl  + HO-Carbohydrate(ac)  (1) 
+
+Carbohydrates  joined  to  lignin  are  cellulose,  hemicelluloses  and  starch.  By  acid  hydrolysis  they  become  sugars 
+and  they  can  be  separated  easily  by  solubility  in  water.  Acid  medium  in  solution  helps  lignin  precipitation.  The  extracted 
+lignin  obtained  was  28.02  % free  of  impurity. 
+
+Respect  to  characterization  of  extracted  lignin  and  Standard  Kraft  lignin,  in  UV  analysis  peaks  were  found  on  227 
+and  226  nm  for  standard.  In  IR  analysis,  results  are  shown  on  Table  2. 
+
+
+Table  2:  Comparison  between  the  IR  Spectrums  of  Extracted  Lignin  and  Standard  Kraft  Lignin 
+
+
+Assignment 
+
+Extracted  Lignin 
+(cnT1) 
+
+Standard  Kraft 
+Lignin  (cm1) 
+
+-OH  intermolecularly  associate  stretch  in  polymers 
+
+3464 
+
+3448 
+
+CH2  asymmetric  stretching. 
+0-CH3  stretch 
+(guaiacyl;  syringyl) 
+
+2930 
+
+2940 
+
+CH2  symmetric  stretching 
+O-CH3  stretch 
+(guaiacyl;  syringyl) 
+
+2850 
+
+2845 
+
+C=0  stretch 
+
+2380 
+
+2385 
+
+Aromatic  fingerprint  vibrations 
+
+2000-1750 
+
+2000-1750 
+
+C=0  stretch  - cyclohexanones. 
+0=C-C=C  stretch  - arylketones 
+
+1700-1730 
+
+1690 
+
+0=C-C=C  stretch  - 1,2  and  1,4  quinones 
+
+1680 
+
+1660 
+
+Ar-C=C  stretch 
+
+1625 
+
+1597 
+
+C=C  aromatic  ring. 
+CH2-Ar  stretch 
+
+1500-1400 
+
+1500-1400 
+
+Ar-O-C  asymmetric  stretching, 
+(guaiacyl;  syringyl;  4-hydroxiphenyl). 
+
+1246 
+
+1265 
+
+C-O  stretch  - phenol 
+(guaiacyl) 
+
+1200 
+
+1219 
+
+C-O  asymmetric  stretching  - ether. 
+
+1120 
+
+1138 
+
+www.iaset.us 
+
+
+editor  @iaset.us 
+
+
+94 
+
+
+Andrea  Catalina  Rodriguez  Murcia,  Harold  Andres  Salamanca  Ortiz  & Jesus  Alvaro  Jimenez  Montoya 
+
+
+Ar-H  in-plane  rocking  vibration 
+
+Ar-O-C  symmetric  stretch 
+(guaiacyl;  syringyl;  4-hydroxiphenyl). 
+
+1045 
+
+1043 
+
+Ar-H  out  of  plane  rocking  vibration 
+
+883-900 
+
+865-850 
+
+In  a solubility  analysis  for  the  two  different  samples,  similar  results  were  found  in  different  solvents.  These  results 
+show  how  similar  functional  groups  are  in  every  sample.  It  was  found  that  Standard  Kraft  lignin  sample  was  more  polar 
+due  to  incorporation  of  SO3  coming  from  Na2S  that  was  used  as  solvent  in  extraction  process. 
+
+Finally,  elemental  analysis  proved  that  both  samples  had  similar  composition.  On  Table  3,  results  show  that  % of 
+S and  O from  standard  lignin  are  greater  than  % of  S and  O from  experimental  sample  proving  former  hypothesis. 
+
+Table  3:  Elemental  Characterization  for  Extracted  Lignin  and  Standard  Kraft  Lignin 
+
+
+Analysis 
+
+Extracted  Lignin 
+
+Standard  Kraft  Lignin 
+
+%C 
+
+57.34 
+
+46.47 
+
+%H 
+
+4.90 
+
+4.62 
+
+%N 
+
+1.13 
+
+0.06 
+
+%S 
+
+1.95 
+
+3.27 
+
+%o 
+
+29.27 
+
+32.70 
+
+Second  Stage 
+
+For  synthetic  wood  elaboration,  extracted  lignin  must  be  coupled  with  synthetic  resin  and  a natural  fiber.  Since 
+extracted  lignin  is  not  very  reactive,  it  is  necessary  to  modified  it  structurally.  In  order  to  get  it,  its  tridimensional  structure 
+must  be  fragmented  so  is  possible  to  get  more  interaction  points  between  lignin  and  synthetic  resin.  On  this  stage,  process 
+is  made  by  UV  irradiation. 
+
+Lignin  depolymerization  obtained  by  UV  irradiation,  generate  on  its  structure  free  radicals  due  to  homolytic 
+rupture  among  their  phenylpropanoids  unions.  Lignin  irradiation  time  is  proportional  to  produced  fragments.  The  key  is  to 
+find  the  exposition  right  time  to  produce  lignin  with  enough  depolymerization  degree  in  order  to  increase  its  reactivity. 
+Gordillo  and  Vega  (2010)  analyzed  the  reactivity  increase  with  different  exposition  time  to  15  watts  UV  beam 
+(6,  12,  24,  36,  48  and  60  hours).  Right  time  was  found  at  12  hours.  10,  12,  14,  16  and  18  hours  were  worked  in  this  project. 
+
+Generation  of  high  reactivity  points  due  to  lignin  fragmentation  let  lignin  to  get  more  functional  groups  on  its 
+molecular  structure  so  it  becomes  more  reactive,  then,  when  lignin  reacts  with  synthetic  resin  more  union  points  can  be 
+generated  and  a better  coupling  and  compaction  process  can  be  made.  One  of  lignin  structural  modifications  that  let  to 
+increase  its  reactivity  is  the  hydroxymethylation  with  formaldehyde  (El  Mansouri,  2006).  Marton  et  al.  (1963)  have  found 
+that  for  this  modification  the  presumable  reaction  is  the  Lederer-Manasse’s,  where  hydroxymethyl  groups  are  introduced 
+on  active  position  of  aromatic  ring.  These  groups  help  polymerization  reactions  due  to  methylenic  bridges  formation 
+between  lignin  and  synthetic  resin.  By  means  of  this  reaction,  oxygen  is  bonded  with  high  reactivity  points  generated  by 
+depolymerization.  It  lets  quantify  the  oxygen  increment  in  lignin  by  elemental  analysis.  Mixture  that  shows  more  coupled 
+oxygen  will  be  the  one  with  optimal  UV  irradiation  time.  Hydroxymethylation  reaction  must  be  performed  immediately 
+after  depolymerization  with  UV  since  lignin  fragments  react  spontaneously.  It  decreases  the  amount  of  generated  reactive 
+sites  as  the  amount  of  hydroxymethyl  groups  that  could  be  incorporated  generating  a less  reactive  lignin.  Lignin  sample 
+that  had  more  oxygen  coupling  was  the  exposed  by  12  hours  to  UV  beam  (table  4).  It  was  noted  that  oxygen  increase 
+relation  with  to  unmodified  lignin  (table  3)  was  32.1  %. 
+
+
+Impact  Factor  (JCC):  2.9459 
+
+
+NAAS  Rating:  2.74 
+
+
+Synthetic  Wood  Elaboration  from  Depolymerize  Lignin  by  UV  Irradiation,  Extracted  from  Low  Rank  Coal 
+
+
+95 
+
+
+Table  4:  Elemental  Analysis  of  Lignin  Samples  with  Different  Exposure  Times  to  UV  Radiation 
+
+
+Analysis 
+
+lOh 
+
+12h 
+
+14h 
+
+16h 
+
+18h 
+
+%C 
+
+20.89 
+
+23.60 
+
+34.02 
+
+16.89 
+
+23.87 
+
+%H 
+
+3.60 
+
+3.83 
+
+3.83 
+
+4.63 
+
+3.64 
+
+%N 
+
+0.30 
+
+0.35 
+
+0.37 
+
+0.26 
+
+0.36 
+
+%S 
+
+0.07 
+
+0.00 
+
+0.17 
+
+0.00 
+
+0.00 
+
+%o 
+
+54.06 
+
+61.37 
+
+45.31 
+
+54.26 
+
+41.21 
+
+Increase  of  characteristic  bands  of  OH  groups  on  depolymerized  lignin  by  12  hours  with  UV  was  proved  by  IR 
+
+analysis. 
+
+Third  Stage 
+
+Gordillo  and  Vega  (2010)  found  that  melamine-formaldehyde  presented  better  mechanical  properties.  It  due  to 
+melamine  has  three  amine  groups  that  are  easily  condensable.  That  is  the  reason  because  this  project  was  worked  with  this 
+resin  so  it  was  possible  to  coupled  with  modified  lignin. 
+
+Modified  lignin  hydroxymethyl  groups  are  condensed  with  melamine  amine  groups  releasing  water  and  creating 
+methylenic  bridges  that  give  compaction  to  final  product.  On  this  reaction  rice  husk  works  as  junction  agent  due  to  possess 
+a great  amount  of  siloxanes  that  improve  interaction  between  lignin  and  resin  improving  mechanical  properties  of  final 
+product. 
+
+
+Final  products  are  shown  on  figure  1.  Obtained  product  by  autoclave  process  (figure,  lb)  shows  a better 
+mechanical  resistance,  better  cohesion,  great  impermeability,  less  fragility  and  better  organoleptic  properties. 
+
+
+Figure  1:  Final  Products,  Generated  after  Modified  Lignin,  a.  Generated  Product  by  Drying  to  80  °C  for  24  Hours. 
+
+b.  Generated  Product  by  Autoclave  for  3.5  Hours 
+
+CONCLUSIONS 
+
+Extracted  and  purified  lignin  shared  structural  features  with  Kraft  Lignin  standard  sample  except  for  SO3  groups. 
+
+Optimal  depolymerization  time  for  lignin  irradiation  was  12  hours.  With  this  sample,  we  obtained  an  increase  of  reactivity 
+of  32.1%  after  hydroxymethylation. 
+
+Autoclaving  process  in  the  polymerization  reaction  generated  an  improvement  in  the  mechanical  properties  of  the 
+wood  product  as  well  as  reducing  the  reaction  time. 
+
+ACKNOWLEDGEMENTS 
+
+The  Universidad  Distrital  Francisco  lose  de  Caldas  for  financial  support  and  the  coal  research  group  by  providing 
+tools  and  laboratories. 
+
+
+www.iaset.us 
+
+
+editor  @iaset.us 
+
+
+96 
+
+
+Andrea  Catalina  Rodriguez  Murcia,  Harold  Andres  Salamanca  Ortiz  & Jesus  Alvaro  Jimenez  Montoya 
+
+
+REFERENCES 
+
+1.  Arenas,  M.,  Soliveri  de  Carranza,  J.,  and  Arias,  M.  (2001).  Purificacion  y caracterizacion  de  la  lacasa  producida 
+por  Streptomyces  cyaneus  CECT3335  en  cultivo  sumergido.  XVIII  Congreso  de  la  Sociedad  Espaiiola  de 
+Microbiologia. 
+
+2.  Bourbonnais,  R.,  and  Paice,  M.  (1992).  Demethylation  and  delignification  of  kraft  pulp  by  Trametes  versicolor 
+laccase  in  the  presence  of  2,2’-azinobis-(3-ethylbenzthiazoline-6-sulphonate).  Applied  Microbiology  and 
+Biotechnology.  36.  823  - 827. 
+
+3.  Castillo,  D.  (2004).  Aislamiento  de  hongos  degradadores  de  colorantes  empleados  en  la  industria  textil.  Tlaxcala, 
+Mexico:  Instituto  Politecnico  Nacional. 
+
+4.  El  Mansouri,  N.  (2006).  Despolimerizacion  de  lignina  para  su  aprovechamiento  en  adhesivos  para  producir 
+tableros  de  particulas.  Tarragona:  Universitat  Rovira  i Virgili. 
+
+5.  Gaitan,  S.,  Ruge,  L.  and  Mahecha,  C.  (2006).  Estudio  preliminar  para  la  extraccion  de  lignina  a partir  del  carbon 
+leonarditico  y su  posterior  empleo  en  la  generacion  de  un  producto  maderable.  Bogota  D.C:  Universidad  Distrital 
+Francisco  Jose  de  Caldas. 
+
+6.  Gonzalez,  K.,  Arevalo,  M.,  and  Falcon,  M.  (2007).  Estudio  comparativo  de  la  accion  de  mediadores  redox  de 
+lacasa  en  la  transformacion  de  ligninas.  X Reunion  de  la  Red  Temdtica  Biodegradacion  de  Lignina  y 
+Hemicelulosa.  2. 
+
+7.  Gordillo,  B.,  and  Vega,  M.  (2010).  Despolimerizacion  e hidroximetilacion  de  la  lignina  extraida  a partir  de  turba 
+y el  aprovechamiento  del  producto  como  aglomerante  en  la  produccion  de  madera  sintetica.  Bogota  D.C: 
+Universidad  Distrital  Francisco  Jose  de  Caldas. 
+
+8.  Jimenez,  J.,  Gordillo,  B.,  and  Vega,  M.  (2012).  Modificacion  estructural  de  la  lignina  extraida  a partir  de  carbones 
+de  bajo  rango  para  la  obtencion  de  madera  sintetica.  Revista  Tecnura,  75(28),  68-82. 
+
+9.  Kuwatsuka  S,  Watanabe  A,  Itoh  K,  Arai  S (1992)  Comparison  of  two  methods  of  preparation  of  humic  and  fulvic 
+acids,  IHSS  method  and  NAGOYA  method.  Soil  Science  and  Plant  Nutrition  38,  23-30. 
+
+10.  Marton,  J.,  and  Alder,  E.  (1963).  Oxidative  demethylation  of  lignin.  U.S.  Patent.  3,  071,  570. 
+
+11.  Redin,  A.  (2010).  Efecto  de  la  induccion  con  extractos  acuosos  de  paja  de  trigo  sobre  la  produccion  de  enzimas 
+lignoliticas  en  Pleurotus  ostreatus.  Navarra,  Espana:  Universidad  Publica  de  Navarra.  Escuela  Tecnica  Superior 
+de  Ingenieros  Agronomos. 
+
+
+Impact  Factor  (JCC):  2.9459 
+
+
+NAAS  Rating:  2.74 
+
+

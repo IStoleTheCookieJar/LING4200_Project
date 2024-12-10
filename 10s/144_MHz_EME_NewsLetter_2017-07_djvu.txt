@@ -1,0 +1,295 @@
+The 144 MHz EME NewsLetter 
+
+
+©DF2ZC 
+
+
+...since 2003 
+
+
+www.df2zc.de 
+
+
+Issue 7/2017 16 July 2017 
+
+
+PA2CHR travelling Southern Italy 
+
+
+Chris PA2CHR is well known as an avid DXer, having been QRV from quite a number of rare squares 
+and DXCC entities such as Palestine, Monaco, Albania, Vatican State to name but a view. In recent 
+years he took joy in bringing rare squares on the air: In 2016 for instance he was QRV from much 
+wanted squares in EA6 land, both on meteor scatter and EME. All this was and is done with a — for 
+EME - comparably modest setup: IC 7100, powerful SSPA amp and a 26 ele xpol antenna. 
+
+
+18/PA2CHR in JM87AX: a portable QTH at last! 
+
+
+Past May and June Chris 
+
+travelled to Southern Italy. 
+
+There is quite a number of 
+
+- rare squares which many 
+
+yo stations are looking forward 
+“oe to work on EME. 
+
+
+The project started off in 
+JN81 after a long travel by car 
+from the Netherlands to 
+Southern Italy. When 
+preparing for the trip to that 
+square some weeks ago, Chris 
+had selected four possible 
+locations. One was in the 
+North part, near the coast 
+and three more in the South, 
+in the mountain area. When 
+he arrived at the first one it 
+looked very good: easy access 
+and a good take-off. From 250 
+to 120 degrees azimuth free 
+take off and _ in_ other 
+directions a maximum of 4 to 
+5 degrees. 
+
+
+Left: The QTH in JN81AW 
+
+
+Happy with this one, Chris went to a nearby camping place to stay for the night and relax on the 
+following day. Thursday, the third day after arrival, was meant to be the first day of operation. So 
+he got up early and went to build up the station. Unfortunately the road was closed then because 
+of maintenance. Big trucks were unloading concrete, so no possibility to pass. 
+
+
+Chris had to make a decision: travel about 300 km further South (5 hours of drive) to one of the 
+three other locations or going back to the camping place where he had noticed a reasonable good 
+place on the highest part of it. The best option was the camping place. With some luck he got 
+permission to park on the highest point and operation could start within a few hours. The maximum 
+current at this camping site was 6 Aso PA2CHR had to ask for two outlets, one only for the amp. But 
+when testing the transceiver there was no output on the Bird meter. Chris tried some time with 
+changing cables and connectors, but without result. Fortunately he had brought a second 
+transceiver planned for 50 Mhz operation. It was easy to switch to this one for 144 MHz also, but he 
+had to make a PTT connection for the PA (as on 6 m he works without PA). This all required time: 
+soldering a PTT cable, re-routing the other cables, checking data from the laptop, etc. 
+
+
+In such a situation the worst mistake you can make is working in a hurry and then destroying 
+
+
+essential parts of which you have no spares. Eventually Chris succeeded and everything was finally 
+working o.k. Around 1500 UTC he made the first QSOs on 2 m. 
+
+
+The 144 MHz EME NewsLetter by DF2ZC Issue 7/2017, Page 2 of 6 
+
+
+Being on a camping site quite close to fellow campers ham life is not always easy. When Chris started 
+assembling his 6 m antenna there were some complaints that the antenna was too big and also 
+above neigbouring areas so he better canceled this and stayed on 2 m. Moreover at one time there 
+was a power blackout in the camping site which Chris easily could have rectified but the 
+management insisted on calling a professional company. So hours of inactivity passed. At least wx 
+was fine with about 30°C. Anyway, 2 m was very successful and until May 22"! 102 stations were 
+worked via EME from JN81. 
+
+
+Then Chris travelled further south to reach JM87 square. That one is mainly a wet square with only 
+little parts of Italian mainland. It is very much wanted also within meteor scatter reach as it is 
+blocked to North by high mountains. And it is particularly hard to find a good location - as Chris had 
+expected. When planning in Google maps and street view as well as with altitude maps he had 
+decided four possible locations to set up the station. When arriving in JM87 all of those where not 
+good. Also the QTH used by DH7FB in June 2004 and DF2ZC in October 2005 was not good: there 
+was no road anymore, rain and mud had destroyed it completely. 
+
+
+Luckily Chris had contacted Frank IZ8DWF some weeks before his departure. With his help they 
+found a reasonable good location ‘in his backyard’ about 100 m asl. A good location for EME, but 
+meteor scatter to the North was still difficult. During the ARI EME contest on May 27" and 238 
+I8/PA2CHR completed 136 QSOs. Then he packed everything back into the car and continued to 
+JM79 square. 
+
+
+Monday May 29* the late afternoon Chris arrived in JM79XN and started to build up the 2 m 
+antenna. When he started meteor scatter activity the next morning it took only some ten minutes 
+and a forester together with a local policeman arrived. They had a look at everything and told him 
+it was no problem to operate radio but it was absolutely not allowed to use a generator because of 
+the danger of wild fires. It did not help much they saw his six plastic jerry cans with spare petrol. 
+
+
+Hence, Chris had to leave this 
+location. A nearby camping place, 
+which was planned as ‘spare QTH’ 
+was closed, so it was rather hard 
+operating from JM79 at all. He 
+continued driving along the 
+coastline and eventually found a 
+small parking place for campers. It 
+was not ready yet, no ‘sanitary- 
+things’ but good enough to stay a 
+few days. The owner permitted to 
+park the car and put up the 2 m 
+antenna. 103 QSOs were made via 
+EME from there, sometimes with 
+very strong signals because of ‘sea- 
+gain’ during moon-set. 
+
+
+View to Chris’ car shack. 
+
+
+The final location of this trip was in JM89FG, on a hill in a winter sport area about 1900 m asl. It had 
+a very nice view around and yet again a local amateur, IZ8JHD, had advised Chris to use this location. 
+
+
+The 144 MHz EME NewsLetter by DF2ZC Issue 7/2017, Page 3 of 6 
+
+
+He also dropped by bringing wine and water! The EME conditions during these days were very 
+strange, however. This was maybe due to high MUF over Europe. Lots of EME signals rapidly 
+changed from horizontal to vertical and back. Also the degradation was on the rise now. 78 stations 
+were worked via EME though. The most remarkable experience these days however were two very 
+nice Es openings; one to France and Spain and the other one to Russia. 
+
+
+Indonesia QRV via Moon! 
+
+
+The 144 MHz EME NewsLetter by DF2ZC 
+
+
+All in all Chris is very happy having worked 
+419 stations via EME in total. The only 
+disappointment were the just nine stations 
+from USA in the log. This came as a surprise. 
+Presumably “square-hunting’ is not very 
+popular in the States. 
+
+
+Now Chris is busy with preparations for the 
+upcoming big trip to Swaziland in October.... 
+
+
+Left: The last location of Chris’ Giro d’Italia 2017: 
+JM79XN straight at the beach. (Photos © PA2CHR) 
+
+
+Bint YC2MDU_ has _ just 
+started to work moon 
+bounce. He is QRV from 
+OI53KD, running about 100 
+W out to 4 x 13 ele yagis 
+(see left OYC2MDU). So far 
+he has completed with 
+nearly 20 stations. 
+Currently he is busy trying 
+to upgrade the station with 
+a sspa anda Ina. If you have 
+a spare Ina please contact 
+him direct or DF2ZC for 
+relaying. 
+
+
+Issue 7/2017, Page 4 of 6 
+
+
+Upcoming DXpeditions 
+
+
+LB6GG/P QRV From KQS5OIG 
+
+Hans will soon run portable EME on 144 MHz from KQ50 square. He has nearly completed 
+assembling the station and plans for July 21° for his first activities. Hans will stay up in the North 
+until November this year and he will be QRV when work schedule and moon conds permit. Rig is 
+about 450 W into 2 x 2.4 wl DK7ZB. On the rx-side he uses a LNA with 0.5 dB nf. More info is on his 
+
+
+dedicated website https://lb6gg.wordpress.com/ 
+
+
+Gene KB7Q Making Another Rare Grid Available: DN56 
+
+On July 26" Gene will be QRV from DN56CK near Harlowton, Montana. He will start this one day 
+activity around 16Z and will stay the full moon pass — depending on activity and conds, of course. 
+Gene will CQ on his usual frequency 144.138 MHz +/- QRM and KB7Q is always tx 1°. Gear is 2 x 9 
+ele yagis, 800 watts, K3 w/ internal xverter, excellent pre-amp, 2 kW generator. Updates are on 
+Gene’s blog http://kb7qgrid.blogspot.de 
+
+
+More nice DXpeditions later this year and in 2018 
+
+A lot of interesting DXpeditions to rare DXCCs and/or squares are in the pipe already: RI1F (KR80) in 
+September, CN2R (IM63), T8EM (PJ77) and 3DAOMB (KG53) in October, DX7EME (PJ19) and V31EME 
+(EK57) in November, 3Y0Z (JD15) in January and T46 (EL93) in April — plus maybe some surprise 
+activities. More news when we get closer to the dates. 
+
+
+Time Table 
+
+
+7 August 2017 August issue of the 144 MHz EME NewsLetter ready for 
+
+
+download at http://www.df2zc.de 
+Main story: VC2EME activity from zone 2. 
+
+
+The 144 MHz EME NewsLetter by DF2ZC Issue 7/2017, Page 5 of 6 
+
+
+Moon Conditions 
+
+
+128208 1929 
+Legend 
+Tuy 2007 HAM 
+Weekend 
+‘8 Sun near Moon 
+« [vise 
+@ [yjocr 
+j © fie 
+/ @ [iy |Deciinaton 
+Year Month 
+a 87 | 
+/ Display 
+ff |Data Points 
+\ / 
+\ J 
+\ ge 
+. ff 
+“a al 
+- \ 
+\ 
+\ 
+an 
+ee \ 
+1 2 
+6B ao 
+133268 1935" 405012km 2583°K 
+Legend 
+August 2017 Tear ? 
+Weekend 
+© Sun near Moon 
+o Wit 
+ [yjocr 
+° WV Range 
+@ [i |Decination 
+Year Month 
+m7 2s 
+Display 
+
+
+[Poste Poines 
+
+
+Moon Graph August 2017 
+(Courtesy of David GM4JJJ (www.gm4ijjj.co.uk/MoonSked/moonsked.htm) 
+
+
+The 144 MHz EME NewsLetter by DF2ZC Issue 7/2017, Page 6 of 6 
+
+

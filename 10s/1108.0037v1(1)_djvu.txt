@@ -1,0 +1,279 @@
+Analysis  of  The  Theory  of  Abstraction 
+
+
+Subhajit  Ganguly,  email:  gangulysubhajit@indiatimes.com 
+
+
+Abstract: 
+
+In  this  paper,  a  few  more  implications  of  the  laws  of  physical  transactions  as  per  the  Theory  of 
+Abstraction  are  dealt  with.  Analysis  of  those  implications  suggests  the  existence  of  'hidden'  mass  and 
+'hidden'  energy  in  a  given  physical  transaction.  Trajectory  -examination  of  such  possible  transport  is 
+carried  out.  Relativistic  cyclist  phenomena  are  also  dealt  with  in  this  paper. 
+
+
+Introduction: 
+
+A  particle  in  an  isolated  box  will  tend  to  move  in  all  possible  directions.  A  bias  towards  any  given 
+direction  indicates  an  imbalance  of  support  towards  its  movement  in  that  given  direction  and  resistance 
+against  it.  Considering  the  movement  of  an  energy  quantum  in  a  particular  direction,  this  difference 
+between  the  concerned  support  and  the  concerned  resistance  must  be  al  least  the  same  of  the  given 
+energy  quantum,  in  accordance  to  the  Theory  of  Abstraction.  For  a  given  quantum-state  (hv), 
+
+S~R  =  hv  ...  (1) 
+
+Where,  S  and  R  represent  the  support  and  resistance  respectively. 
+
+This  means  that  at  least  one  half  of  a  total  energy-quantum  gives  it  its  direction  while  the  other  part 
+gives  it  its  magnitude.  The  direction  part  remains  'hidden'  while  only  the  magnitude  part  shows  up  as 
+the  value  of  the  given  quantum  state.  Considering  the  direction  part  however  may  reduce  quantum- 
+transport  to  classical  transport  as  we  shall  see  here. 
+
+Let  us  consider  a  photon  revolving  around  a  given  body  of  mass  (M)  and  within  a  radius  (R).  Let  mn  be 
+the  instantaneous  mass  of  the  given  photon.  Then,  according  to  the  classical  theory  of  gravitation,  the 
+force  of  gravity  on  the  total  photon  (magnitude  +  direction  parts)  due  to  the  given  body  equals 
+
+GM(mn  +  mn)    ,      2GMmn 
+
+
+R2  <l-e-      R2      ■ 
+
+In  order  that  the  photon  does  not  move  away  from  the  body,  the  difference  between  support  and 
+resistance  in  that  given  direction  must  be  zero.  Thus,  in  order  to  bind  the  photon  within  a  radius  R,  only 
+its  direction-part  needs  to  be  bound. 
+
+
+2 
+
+Now  the  outward  force  experienced  by  the  direction-part  of  the  photon  equals  — — ;  vaccum  being  the 
+medium  considered. 
+
+For  light  to  be  bound  within  the  radius  R, 
+
+n„c2      2GMm„ 
+
+<  0 
+
+
+mnc2      2GMmn 
+
+
+R  R< 
+
+
+Choosing  the  equality  sign, 
+
+
+For  the  energy-quantum  to  exist, 
+
+
+Therefore, 
+
+
+/  ,      2GM\ 
+
+
+mn*0 
+
+
+,      2GM 
+
+M       c2 
+i.e.—  =  —  *  1027  kg /m  ...(2) 
+
+R      2G  y/  y  J 
+
+Thus,  if  mass  is  concentrated  within  a  radius  R  such  that  —  «  1027 kg /m,  then  the  body  is  a  black-hole, 
+in  accordance  with  the  Theory  of  Abstraction.  This  result  is  validated  by  existing  data. 
+
+In  this  treatment,  considering  the  direction-part  of  a  given  energy-quantum,  classical  transport  merges 
+with  quantum-transport  quite  perfectly.  Support  towards  the  given  direction  of  transport  of  a  given 
+energy-quantum  comprises  the  direction-part  of  it  while  a  given  resistance  may  act  upon  the  total 
+energy-quantum  i.e.,  the  direction-part  and  the  magnitude-part  combined. 
+
+
+Chaos-Analysis  of  Quantum-Transport: 
+
+For  a  given  transport  of  energy-quantum,  between  an  initial  and  a  final  point,  let  the  trajectory  of  the 
+initial  point  x0  =  x(o)  be  denoted  by: 
+
+x(t)  =  f\x0) 
+
+Expanding  ft(x0  +  Sx0)  to  linear  order,  the  evolution  of  the  distance  to  a  neighbouring  trajectory 
+Xj(t)  +  8xi(t)  is  given  by  the  Jacobian  matrix/: 
+
+
+8Xi(t)  =  ^/(Xo);,-  Sxoj, 
+
+
+7  =  1 
+
+6xt(t) 
+
+
+''^»=itr       -(3) 
+
+
+A  trajectory  of  an  energy-quantum  as  moving  on  a  flat  surface  is  specified  by  two  position  coordinates 
+and  the  direction  of  motion.  The  Jacobian  matrix  describes  the  deformation  of  an  infinitesimal 
+neighbourhood  of  x(t)along  the  transport.  Its  eigenvectors  and  eigenvalues  give  the  directions  and  the 
+corresponding  rates  of  expansion  or  contraction.  The  trajectories  that  start  out  in  an  infinitesimal 
+neighbourhood  separate  along  the  unstable  directions  (those  whose  eigenvalues  are  greater  than  unity 
+in  magnitude),  approach  each  other  along  the  stable  directions  (those  whose  eigenvalues  are  less  than 
+unity  in  magnitude),  and  maintain  their  distance  along  the  marginal  directions  (those  whose  eigenvalues 
+equal  unity  in  magnitude). 
+
+Holding  the  hyperbolicity  assumption  (i.e.,  for  large  n  the  prefactors  at,  reflecting  the  overall  size  of  the 
+system,  are  overwhelmed  by  the  exponential  growth  of  the  unstable  eigenvalues  Ait  and  may  thus  be 
+
+neglected),  to  be  justified,  we  may  replace  the  magnitude  of  the  area  of  the  ith  strip  \Bt  |  by  - — -  and 
+
+Mil 
+
+
+consider  the  sum, 
+
+n 
+[n  =  l|X|; 
+
+
+i 
+
+
+where  the  sum  goes  over  all  periodic  points  of  period  n.  We  now  define  a  generating  function  for  sums 
+over  all  periodic  orbits  of  all  lengths: 
+
+
+\z  =  V  \n  zn  ...  (4) 
+
+
+n=l 
+
+For  large  n,  the  nth  level  sum  tends  to  the  limit  \n  -*  e~ny,  so  the  escape  rate  y  is  determined  by  the 
+smallest  z  =  eY  for  which  equation  (4)  diverges: 
+
+oo 
+
+ZZ6~  Y 
+(-"")"  =  13^=7        -P) 
+
+71  =  1 
+
+Making  an  analogy  to  the  Riemann  zeta-function,  for  periodic  orbit  cycles, 
+
+
+r*  =  -*|£>(i-tp): 
+
+
+V 
+
+\{z)  is  a  logarithmic  derivative  of  the  infinite  product 
+
+1        r-r,  ,  znv 
+
+p 
+
+This  represents  the  dynamical  zeta  function  for  the  escape  rate  of  the  trajectories  of  quantum-transport. 
+The  fraction  of  initial  x  whose  trajectories  remain  within  B  at  time  t  may  decay  exponentially 
+
+f  dxdy  S\y  —  ft(x)] 
+ax 
+
+Js 
+
+The  integral  over  x  starts  a  trajectory  at  every  x  e  B.  The  integral  over  y  tests  if  this  trajectory  still  falls 
+within  limits  of  B  at  time  t. 
+
+
+The  Kernel  of  this  integral  is  the  evolution  operator  for  a  d-dimensional  transport, 
+
+£t(y,x)  =  «5[y -/'(*)]  ...(6) 
+
+Expressing  the  finite  time  Kernel  Ll  in  terms  of  A,  the  generator  of  infinite  time  translations, 
+
+Ll  =  etA  ...(7) 
+
+This  is  very  much  similar  to  the  way  quantum  evolution  is  generated  by  the  Hamiltonian. 
+
+
+Relativity  of  Cyclists  and  Symmetry  Analysis: 
+
+The  component  of  the  dynamics  along  the  continuous  symmetry  directions  of  the  trajectory  behavior  or 
+'drift'  may  be  induced  by  the  symmetries  themselves.  In  presence  of  a  continuous  symmetry,  an  orbit 
+explores  the  manifold  swept  by  combined  actions  of  the  dynamics  and  the  symmetry  induced  drifts.  A 
+group  member  can  be  parameterized  by  angle  9,  with  the  group  multiplication  law  g(9')  g(9)  = 
+g{9'  +  9)  and  its  action  on  smooth  periodic  functions  u{9  +  2YI)  =  u(9)  generated  by, 
+
+The  differential  operator  T  is  reminiscent  of  the  generator  of  spatial  translations.  The  constant  velocity 
+field  v{x)  =  v  =  C.T  acts  on  Xj  by  replacing  it  by  the  velocity  vector  Cj. 
+
+Let,  G  be  a  group  and  gB  -*  B  a  group  action  on  the  state  space  B.  The  [d  x  d]  matrices  g  acting  on 
+vectors  in  the  d-dimensional  state  space  B  from  a  linear  representation  of  the  group  G.  If  the  action  of 
+every  element  g  of  a  group  G  commutes  with  the  flow, 
+
+g  v{x)  =  v(gx),gft(x)  =  f(gx) 
+
+G  is  a  symmetry  of  the  dynamics  and  is  invariant  under  G  or  G-equivalent.  For  any  x  e  B,  the  group  orbit 
+Bx  of  x  is  the  set  of  all  group  actions 
+
+Bx  =  [gx\geG]  ...  (8) 
+
+The  time  evolution  and  the  continuous  symmetries  can  be  considered  on  the  same  Lie  group  footing.  An 
+element  of  a  compact  Lie  group  continuously  connected  to  identity  can  be  written  as, 
+
+g(0)  =  eeT,  e.T  =  Yj0Ja,a  =  1,2,3 N; 
+
+where  9.  T  is  a  Lie  element  and  9a  are  the  parameters  of  the  transformation. 
+
+Any  representation  of  a  compact  Lie  group  G  is  fully  reducible,  and  invariant  tensors  constructed  by 
+contractions  of  Ta  are  useful  for  identifying  irreducible  representations.  The  simplest  such  invariant  is, 
+
+TT.T  =  Yc(2a)  || W 
+
+
+equilibria  satisfy  ft(x)  —  x  =  0  and  relative  equilibria  satisfy  ft(x)  —  g(t)x  =  0  for  any  t.  A  relative 
+periodic  orbit  is  periodic  in  its  mean  velocity,Cp  =  6p/Tp  comoving  frame,  but  in  the  stationary  frame  its 
+trajectory  is  quasiperiodic.  A  relative  periodic  orbit  may  be  pre-periodic  if  it  is  equivariant  under  a 
+discrete  symmetry.  Translational  symmetry  allows  for  relative  equilibria  characterized  by  a  fixed  profile 
+Eulerian  velocity  \iTW  (x)  moving  with  constant  velocity  C,i.e., 
+
+fj.  (x,  t)  =  \iTW  (x  -  Ct)  ...(9) 
+
+A  relative  periodic  solution  is  a  solution  that  recurs  at  time  Tp  with  exactly  the  same  disposition  of  the 
+Eulerian  velocity  fields  over  the  entire  cell,  but  shifted  by  a  2-dimensional  (streamwise  -  spanwise) 
+translational  gp.  By  discrete  symmetries,  these  solutions  come  in  counter-travelling  pairs 
+
+Uq(x  —  Ct),  — Uq(— X  +  Ct). 
+
+The  Hilbert  basis  may  be  written  as: 
+
+ut  =  x\  +  x\,u2  =  y\  +  yi,u3  =  xty2  -  x2yt,u4  =  x1y1  +  x2y2,u5  =  z 
+
+This  is  invariant  under  the  special  orthogonal  graph  SO(2);i.e.,  a  group  of  length-preserving  rotations  in  a 
+plane.  The  polynomials  are  linearly  independent,  but  related  through  one  syzygy, 
+
+uxu2  —  ul  —  u|  =  0  ...  (10) 
+
+yielding  a  4-dimensional  B/  SO(2)  reduced  state-space. 
+
+The  dynamical  equations  following  from  chain  rule  are, 
+
+
+u^—xj  ...(11). 
+
+
+Conclusion: 
+
+From  the  Theory  of  Abstraction,  we  arrive  at  'hidden'  direction  part  of  an  energy-quantum.  Quantum 
+dynamics  is  seen  to  merge  with  classical  dynamics  if  this  hidden  direction-part  of  the  quantum-states 
+are  taken  into  consideration,  as  validated  by  practical  analysis  and  data.  Moreover,  this  hidden  part  of 
+an  actual  energy-quantum  may  explain  the  dark-energy  problem.  As  a  support  towards  transport 
+comprises  the  direction-part  only,  and  as  the  resistance  against  motion  is  offered  against  the  whole  of 
+an  energy-quantum  (direction-part  +  magnitude-part),  this  hidden  energy  may  very  well  affect  a 
+gravitational  field.  On  the  other  hand,  if  matter  is  considered  to  be  condensed  energy,  and  as  such 
+condensed  energy  quanta  in  some  form  of  orientation  in  space  time,  there  ought  to  be  some  self-same 
+hidden  mass  as  the  magnitude-parts  of  the  constituent  energy  quanta,  thereby  indicating  a  hidden  dark- 
+matter.  Thus  the  anomaly  of  the  existence  of  dark-matter  and  dark-energy  being  hidden  from  us  may  be 
+reconciled  with  in  accordance  with  the  Theory  of  Abstraction. 
+
+

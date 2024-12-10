@@ -1,0 +1,1216 @@
+Measures of financial stability — a review 
+
+
+Blaise Gadanecz and Kaushik Jayaram' 
+
+
+Introduction 
+
+
+Unlike price stability, financial stability is not easy to define or measure given the 
+interdependence and the complex interactions of different elements of the financial system 
+among themselves and with the real economy. This is further complicated by the time and 
+cross-border dimensions of such interactions. However, over the past two decades, 
+researchers from central banks and elsewhere have attempted to capture conditions of 
+financial stability through various indicators of financial system vulnerabilities. Indeed, many 
+central banks through their financial stability reports (FSRs) attempt to assess the risks to 
+financial stability by focusing on a small number of key indicators. Moreover, there are 
+ongoing efforts to develop a single aggregate measure that could indicate the degree of 
+financial fragility or stress. Composite quantitative measures of financial system stability that 
+could signal these conditions are intuitively attractive as they could enable policy makers and 
+financial system participants to: (a) better monitor the degree of financial stability of the 
+system, (b) anticipate the sources and causes of financial stress to the system and 
+(c) communicate more effectively the impact of such conditions. 
+
+
+The approach to the development of these measures of financial system stability has 
+changed over the years as the locus of concern moved from micro-prudential to macro- 
+prudential dimensions of financial stability. From the analysis of early warning indicators to 
+monitor the state of the banking system, particularly the risk of default of individual 
+institutions, the focus has shifted to a broader system-wide assessment of risks to the 
+financial markets, institutions and infrastructure. More recently, the analytical focus has 
+further concentrated on the dynamics of behaviour, the potential build-up of unstable 
+conditions as well as the so called transmission mechanisms of shocks. A key issue 
+underlying these analytical developments is the need to bridge the data gaps in several 
+areas. Clearly this is an ongoing debate and a work in progress. 
+
+
+This paper is a modest contribution to review the work done towards developing quantitative 
+measures of financial stability and their use in published FSRs. The paper is structured as 
+follows. In Section I, we look at definitions of financial stability and what they mean for 
+identifying key variables, which we discuss in Section II. In Section Ill, we review how these 
+individual variables might be combined into composite indicators for the purposes of 
+monitoring key sectors of the economy and assigning critical values. In Section IV, we 
+provide a comparative view of the main variables and indicators used in selected FSRs. In 
+Section V we discuss recent attempts to construct a single aggregate measure of financial 
+stability. The final section concludes. 
+
+
+I Definition and identification of key financial system vulnerabilities 
+
+
+Financial stability is difficult to define and even more difficult to measure. Strictly speaking, a 
+financial system can be characterised as stable in the absence of excessive volatility, stress 
+
+
+
+
+
+Monetary and Economic Department, Bank for International Settlements. The views expressed in this paper 
+are those of the authors and do not necessarily reflect those of the BIS. 
+
+
+IFC Bulletin No 31 365 
+
+
+or crises. This narrow definition is relatively simple to formulate, but fails to capture the 
+positive contribution of a well-functioning financial system to overall economic performance. 
+Indeed, broader definitions of financial stability encompass the smooth functioning of a 
+complex nexus of relationships among financial markets, infrastructures and institutions 
+operating within the given legal, fiscal and accounting frameworks. Such definitions are more 
+abstract but are more inclusive of the macro-economic dimension of financial stability and 
+interactions between the financial and real sectors. From this perspective, financial stability 
+can be defined as “a condition in which the financial system — comprising financial 
+intermediaries, markets and market infrastructure — is capable of withstanding shocks and 
+the unravelling of financial imbalances, thereby mitigating the likelihood of disruptions in the 
+financial intermediation process which are severe enough to significantly impair the allocation 
+of savings to profitable investment opportunities” (ECB (2007)). 
+
+
+Given the imprecise nature of the broader view of financial system stability, most analysts 
+concentrate on the risks and vulnerabilities of the financial system as these are relatively 
+easy to understand and quantify. However, there are difficulties arising from the narrow 
+definition too, insofar as a crisis is difficult to define. Different countries have been hit by 
+different types of crises (banking crises, currency crises, debt crises, equity crises) over time 
+and there are several ways of defining a crisis of each type, from purely binary indicators 
+(failure of a bank, suspension of debt payments by a sovereign creditor) to other more 
+quantifiable variables (eg number of insolvencies, magnitude of banking losses, GDP loss, 
+magnitude of exchange rate fluctuation, decline of stock market index). Also important is the 
+time horizon over which to measure a crisis. For instance Frankel and Rose (1996) define a 
+currency crisis as a nominal depreciation of at least 25% that exceeds the previous year’s 
+change by a margin of at least 10 percentage points. Patel and Sarkar (1998) identify equity- 
+market crises using an a hybrid volatility loss measure in a window of 1 to 2 years. The 
+interpretation of, as well as the benchmarks for, financial stability measures depend on the 
+definition of crises. Nevertheless, several attempts have been made in the literature to try to 
+identify and predict crises. 
+
+
+ll Key financial stability segments and variables 
+
+
+Policymakers and academic researchers have focused on a number of quantitative 
+measures in order to assess financial stability. The set of Financial Soundness Indicators 
+developed by the IMF (IMF (2006)) are examples of such indicators, as are the monitoring 
+variables used in Hawkins and Klau (2000), Nelson and Perli (2005) and Gray et al (2007) 
+which focus on market pressures, external vulnerability and banking system vulnerability. 
+
+
+Table 1 summarises the measures commonly used in the literature, their frequency, what 
+they measure, as well as their signalling properties. The focus is on six main sectors. 
+
+
+Firstly, the real sector is described by GDP growth, the fiscal position of the government and 
+inflation. GDP growth reflects the ability of the economy to create wealth and its risk of 
+overheating. The fiscal position of the government mirrors its ability to find financing for its 
+expenses above its revenue (and the associated vulnerability of the country to the 
+unavailability of financing). Inflation may indicate structural problems in the economy, and 
+public dissatisfaction with it may in turn lead to political instability. 
+
+
+Secondly, the corporate sector’s riskiness can be assessed by its leverage and expense 
+ratios, its net foreign exchange exposure to equity and the number of applications for 
+protection against creditors. 
+
+
+Thirdly, the household sector's health can be gauged through its net assets (assets minus 
+liabilities) and net disposable income (earnings minus consumption minus debt service and 
+principal payments). Net assets and net disposable earnings can measure households’ 
+ability to weather (unexpected) downturns. 
+
+
+366 IFC Bulletin No 31 
+
+
+Le ON UnAIINg Ol 
+
+
+LOE 
+
+
+
+
+
+Table 1 
+
+
+Commonly used variables 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sectors Measure Frequency What do they measure Signalling properties 
+Real Economy GDP growth QorA Indicative of the strength of the macro- Negative, or low positive values would indicate a 
+economy, GDP is a key measure slowdown; excessively high values may show 
+especially used in conjunction with unsustainable growth 
+measures such as credit expansion, 
+fiscal deficit. 
+
+Fiscal position of government | A, QorM Ability of government to find financing, High deficit values relative to GDP can mean unsustainable 
+vulnerability of sovereign debtor to government indebtedness and vulnerability of the 
+unavailability of financing sovereign debtor 
+
+Inflation MorA Rate of increase of various price indices High levels of inflation would signal structural weakness in 
+
+the economy and increased levels of indebtedness, 
+potentially leading to a tightening of monetary conditions. 
+Conversely, low levels of inflation could potentially increase 
+the risk appetite in the financial markets. 
+
+Corporate sector Total debt to equity QorA Corporations’ leverage Excessively high levels may signal difficulties in meeting 
+debt obligations 
+
+Earnings to interest and QorA Corporations’ ability to meet payment Excessively low levels of liquidity may signal inability to 
+
+principal expenses obligations relying on internal resources meet debt obligations 
+
+Net foreign exchange QorA Currency mismatch High levels of this ratio may signal difficulties in the 
+
+exposure to equity corporate sector arising from adverse currency moves 
+
+Corporate defaults QorA Insolvencies in the corporate sector High values can signal future problems in the banking 
+
+sector, if insufficiently provisioned 
+Household sector | Household assets (financial, | A, QorM 
+
+real estate’) Assets and debt can be used to compute 
+net household assets 
+
+Household debt A, QorM Net household assets and 
+
+Household income (labour A, QorM eaeay apes ice to 
+
+income, savings income) . . " my 
+Income, consumption and debt service weather (unexpected) 
+
+Household consumption A, QorM payments can be combined to compute economic downturns 
+
+Household debt service and | A,QorM nel disneeAblaincene 
+
+
+
+
+
+principal payments 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+89€ 
+
+
+Le ON UnelINg Oal 
+
+
+
+
+
+Table 1 (cont) 
+Commonly used variables 
+
+
+
+
+
+
+
+
+
+
+
+Sectors Measure Frequency What do they measure Signalling properties 
+External sector (Real) exchange rates D Over-/undervaluation of a currency Over- or undervaluation of currency can trigger a crisis 
+(capital outflows, massive inflows or loss of export 
+competitiveness) 
+Foreign exchange reserves D Ability of country to resist external shocks | Reserves below short-term foreign debt, or below three 
+months’ worth of exports can signal problems 
+Current account/capital flows | A, QorM Trade position of country Significant trade deficits require large capital inflows in 
+order to be financed; this raises sustainability issues about 
+such inflows 
+Maturity/currency A, QorM Disparity in the currency/maturity Maturity and currency mismatches can expose the 
+mismatches composition of assets and liabilities economy to adverse shocks in case of adverse currency 
+movements or sudden reversals of capital inflows 
+Financial sector Monetary aggregates Transactions, saving, credit Excessive growth can signal inflationary pressures 
+(Real) interest rates D Cost of credit, ability to attract deposits Real interest rates above a threshold likely to exceed the 
+sustainability of debt. trend rate of economic growth, making debt/GDP ratios 
+explosive; negative real rates may mean banks will struggle 
+to attract deposits 
+Growth in bank credit M 
+Bank leverage ratios, QorA Very rapid loan growth has often accompanied declining 
+NPLs QorA loan standards/greater risk. Excessively high loan losses, 
+Risk premia (CDS); D Riskiness of the banking sector leverage ratios and risk premia can foreshadow a banking 
+credit risk component of crisis. Loan losses/GDP can measure cost of a banking 
+3 month LIBOR — OIS crisis for economy 
+spreads 
+Capital adequacy QorA Banks’ capital cushion size to address Excessively low levels of this ratio points to potential 
+expected or unexpected losses defaults and can be a forerunner of a banking crisis 
+Liquidity ratio QorA Ratio of banks’ readily available short- Excessively low levels of this ratio can lead to a systemic 
+term resources that can be used to meet | crisis 
+short-term obligations 
+Standalone bank credit Irregular Individual strength of banks, after the Possible coincident indicator of banks’ condition, likely to 
+
+
+
+
+
+ratings 
+
+
+
+
+
+
+
+
+effect of government or other guarantees 
+has been taken into account 
+
+
+
+
+
+influence their future funding costs 
+
+
+
+
+
+Le ON UnAIINg Ol 
+
+
+69€ 
+
+
+
+
+
+Table 1 (cont) 
+
+
+Commonly used variables 
+
+
+
+
+
+
+
+
+
+
+
+Sectors Measure Frequency What do they measure Signalling properties 
+Financial sector Sectoral/regional QorA Concentration or diversification of banks’ | Can proxy for speed of propagation of shocks in the 
+(cont) concentration, systemic lending strategy economy 
+focus 
+Financial markets | Change in Equity Indices D Net worth of, present value of future Above-trend growth in index, or very high levels of market 
+cash-flows of firms comprising the index to book value can be indicative of an equity price bubble 
+Corporate bond spreads D Riskiness of debt compared to risk-free Spikes in spreads can suggest higher levels of risk, 
+instruments changes in risk appetite, changes in the incorporation of 
+news into prices by the market 
+Market liquidity D Price attached by the market to the ease _ | Spikes in these premia can reflect disruptions in market 
+(Government bonds, liquidity with which liquid instruments can be liquidity 
+risk component of 3m LIBOR traded 
+— OIS spreads) 
+Volatility D Intensity of price movements on markets | Low volatility can be indicative of a calm market, but also of 
+Ease of trade on the market failings in the price discovery process. High volatility can 
+mirror a disruption of market liquidity. 
+House prices Q,AorM House price bubble, consumption boom fuelled by equity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+withdrawals, potential losses to financial sector in case of 
+downturn in prices 
+
+
+
+
+
+Note: A = annual 
+1 
+
+
+Q= quarterly M=monthly D = daily. Data available with a high frequency may sometimes be used with a lower frequency for FS monitoring. 
+
+
+Measuring the financial assets of households is complicated by the measurement issues related to house price measures and the treatment of owner-occupied housings. 
+
+
+These issues were discussed at an IFC conference held in August 2006 in Basel. The conference proceedings have been published in IFC Bulletins 25 and 26. 
+
+
+Source: compiled by the authors. 
+
+
+
+
+
+Fourthly, the conditions in the external sector are reflected by real exchange rates, foreign 
+exchange reserves, the current account, capital flows and maturity/currency mismatches. 
+These variables can be reflective of sudden changes in the direction of capital inflows, of loss 
+of export competitiveness, and of the sustainability of the foreign financing of domestic debt. 
+
+
+Fifthly, the financial sector is characterised by monetary aggregates, real interest rates, risk 
+measures for the banking sector, banks’ capital and liquidity ratios, the quality of their loan 
+book, standalone credit ratings and the concentration/systemic focus of their lending 
+activities. All these proxies can be reflective of problems in the banking or financial sector 
+and, if a crisis occurs, they can gauge the cost of such a crisis to the real economy. 
+
+
+Lastly, variables relevant to describe conditions on financial markets are equity indices, 
+corporate spreads, liquidity premia and volatility. High levels of risk spreads can indicate a 
+loss of investors’ risk appetite and possibly financing problems for the rest of the economy. 
+Liquidity disruptions may be a materialisation of the market's ability to efficiently allocate 
+surplus funds to investment opportunities within the economy. 
+
+
+Typically financial stability analysis would use several sectoral variables either individually or 
+in combinations. The use of such measures including the financial soundness indicators as 
+key indicators of financial stability depends on the benchmarks and thresholds which would 
+characterise their behaviour in normal times and during periods of stress. In the absence of 
+benchmarks, the analysis of these measures would depend on identifying changes in trend, 
+major disturbances and other outliers (Worrell (2004)). 
+
+
+ll Composite indicators 
+
+
+A financial system consists of a number of key sectors, and interactions? between these 
+sectors. The situation is further complicated by the non-linearities that can affect the 
+propagation of shocks and their transmission from one sector to another (White (2004), 
+ECB (2005)). For instance, there are links between monetary and financial stability, as 
+monetary conditions will be affected by asset prices and vice versa. For all intents and 
+purposes, it is not enough to focus on deviations from benchmarks in individual sectors for 
+an overall assessment of financial stability. Whilst individual variables and indicators are 
+useful in analysing the functioning of the financial systems, various studies have attempted to 
+develop composite indicators which would better signal or predict the onset of financial 
+distress. Beginning with the studies on early warning indicators attempts are ongoing to 
+develop leading indicators which would signal conditions of stress. When multiple indicators 
+are available, it would be necessary to combine them in ways that would best capture the 
+interactions between relevant individual indicators. Composite indicators are such 
+combinations of the individual variables (eg bank credit related to GDP) which can be 
+
+
+
+
+
+For instance, problems in the real sector can affect the household sector (through job losses, loss of income, 
+inability of the government to provide social benefits), the external sector (through loss of foreign investor 
+confidence), the corporate sector (through reduced demand) and the financial sector (through its exposures to 
+defaults in the corporate and household sectors). A sudden reversal of external capital flows can negatively 
+affect all sectors of the economy. Difficulties in the financial sector can hit all sectors of the economy adversely 
+by reducing the availability of funding. Problems in the corporate sector can translate into an economic 
+downturn, can create losses in the financial sector through exposures and directly affect households through 
+changes in remuneration and employment levels. A household sector in bad health can adversely influence 
+the real economy (through reduced consumption) and the financial sector (through losses on household 
+exposures). Lastly, disruptive financial market conditions can directly affect the health of the financial sector, 
+to the extent that financial institutions are market participants. Households can also be negatively affected by 
+adverse financial asset price movements insofar as they invest on financial markets or own real estate. 
+
+
+370 IFC Bulletin No 31 
+
+
+assigned benchmark or threshold values for the purposes of monitoring key sectors of the 
+economy and serving as leading indicators of crises. 
+
+
+A number of studies applied the early warning indicator methods initially developed in the 
+literature for currency and balance of payments crises to banking crises. Earlier work includes, 
+among others, Calvo et al (1993), Eichengreen et al (1996), Turner and Goldstein (1996) 
+Frankel and Rose (1996). Demirgu¢g-Kunt and Detragiache (1997) use a multivariate Logit 
+approach to identify determinants of banking crises in a large panel of developing and 
+industrialised countries: slow GDP growth and high inflation, vulnerability to sudden capital 
+outflows, low liquidity in the banking sector, a high share of credit to the private sector, past 
+credit growth, explicit deposit insurance and weak institutions. Kaminsky and Reinhardt (1999) 
+identify early warning indicators of twin (banking and balance of payments) crises, such as 
+credit and equity prices, by looking at the ability of such variables to predict crises 12 or 
+24 months ahead, while minimising the noise® to signal ratio. Borio and Lowe (2002) and 
+Borio and Drehmann (2009) build on the techniques developed by Kaminsky and 
+Reinhardt (1999). Like the latter, they define threshold values for the indicators, but unlike 
+them, they look at cumulative processes rather than just growth rates over one year, they 
+use ex ante information (ie information which was available to the policymaker prior to the 
+crisis) and, for the first time, they consider combinations of indicators and look at multiple 
+time horizons. 
+
+
+Goodhart et al (2006) state that financial crisis monitoring can effectively be done with an 
+indicator of banking sector profitability as well as the probability of default. Gerdrup (2003) 
+uses banking indicators (number of banks, balance sheet indicators) and market indicators 
+(asset prices) as determinants of the Norwegian crisis, controlling for non-financial sector 
+indebtedness and macroeconomic factors. It has also been recognised in the literature 
+(Nelson and Perli (2005), ECB (2005), Van den End (2006)) that in addition to balance-sheet 
+based information, there is need for market information, not least because of the interactions 
+between bank- and non-bank financial intermediation.* 
+
+
+Illing and Liu (2003) and Van den End (2006) provide a good descriptions of how one might 
+attempt to build a composite indicator of financial stability. To begin with, relevant variables 
+need to be selected. The choice is most often based on the early warning indicators literature 
+(Demirgt¢-Kunt and Detragiache (1998), Kaminsky, et al (1998), Bordo and Schwartz (2000)) 
+and typically covers the banking system, the foreign exchange market and the equity market. 
+Risk spreads and market liquidity are the two concepts most often used. Obviously, the 
+choice of variables must also reflect the structure of the country’s financial system. For 
+instance, more importance should be attached to banking system indicators in countries 
+where bank intermediation is more significant than market financing (ECB (2007)). Then, the 
+single aggregate measure is calculated as a weighted average of the variables previously 
+identified, each with a suitable lag. One important aspect of the weighted average 
+construction is the weights. These can be determined in five different ways. Firstly, common 
+
+
+
+
+
+> Failure to predict a crisis or a false alarm. 
+
+
+“ A number of desirable properties of a good composite indicator can be noted. It must be internationally 
+
+
+comparable, if the analysis is conducted on several countries. Gers] and Hefmanek (2006) underline that 
+differences in national accounting standards do not allow full cross-country comparison for some of the core 
+set of the IMF’s Financial Soundness Indicators. Furthermore, as pointed out in Cihak (2007), a good indicator 
+must be easy to calculate, as well as to interpret; the assumptions that support it have to be robust, its 
+theoretical underpinnings clear. For instance, backing out risk aversion measures from prices observed on the 
+market rests on the assumption that prices can be observed on the market at all times. This assumption of 
+market liquidity is not necessarily robust in the sense that liquidity can evaporate in times of stress. Lastly, 
+although formalising the outcomes of tail events is important, a composite indicator has to be a useful 
+measure of stress (eg it has to measure the build-up of imbalances) in the system even in the absence of 
+extreme events. 
+
+
+IFC Bulletin No 31 371 
+
+
+factors analysis can be performed.° Secondly, a weight representing the importance (size) of 
+the market which it proxies for can be assigned to each factor. Thirdly, sample cumulative 
+distribution functions can be estimated.° Fourthly, the results of economic simulations with a 
+macro-economic model can be used to determine the weights.’ Fifthly, the variance-equal 
+method can be chosen. This latter approach is the one most commonly used in the literature 
+and consists of normalising each variable and then assigning equal weights. 
+
+
+IV Use of indicators and variables in financial stability reports 
+
+
+Most analyses of financial stability as reflected in the financial stability reports® (FSRs) 
+extensively focus on various market segments and the variables listed in Table 1. However, 
+the use of composite indicators is not very widespread in published financial stability reports. 
+Table 2 provides a summary of the key indicators used by selected central banks in their 
+FSRs. The selected sample represents a mix of industrial and emerging market economies 
+with a diversified geographical distribution. Included in the list are a number of institutions 
+whose reports compute composite measures in one form or the other.° 
+
+
+Key sectors and variables 
+
+
+When it comes to specific variables used in the FSRs, there are several common areas. Not 
+surprisingly, the focus depends on the specific conditions in the economy and areas of 
+observed and perceived vulnerabilities. Past episodes are also a guide. Many emerging 
+market economies extensively focus on capital inflows, the balance of payment situation and 
+exchange rate movements, while industrial countries focus on their banks’ exposure to 
+emerging markets. Banking ratios are extensively analysed in most reports although there 
+are differences. Some reports tend to concentrate on the banks’ performance and risks in 
+considerable detail, while the others include insurance, hedge funds and other forms of non- 
+bank financial intermediation. Where banking is the main form of intermediation, the available 
+information would also depend on the level of supervisory input in preparing the report. 
+Appropriately, many FSRs focus on systemically important banks as well as regions or 
+sectors. For instance, the Austrian FSR has a strong focus on the developments in eastern 
+European markets while the HKMA report extensively analyses the developments in south 
+east Asia and China. With some exceptions, the FSRs reviewed here do not discuss 
+monetary policy variables. A likely explanation is that central banks use other channels such 
+as monetary policy statements or Inflation Reports for that purpose. 
+
+
+
+
+
+Such analysis consists in extracting weighed linear combinations of a number of variables, maximising the 
+variance of each linear combination, while minimising the variance around it. The purpose of the exercise is to 
+reduce the number of variables and detect the structure in the relationships between variables. 
+
+
+Each variable is transformed into percentiles, so that the highest (lowest) levels of stress are characterised by 
+the 99th (first) percentile. Then, the transformed variables are averaged using chain linked arithmetic and 
+geometric means. 
+
+
+Using a backward-sloping IS curve, Van den End (2006) estimates the impulse of changes in financial 
+soundness indicators on GDP is estimated to determine weights. 
+
+
+Over 40 central banks regularly publish financial stability reports either annually or bi-annually. 
+
+
+The institutions/countries included in Table 2 represent an eclectic sample merely to illustrate typical use and 
+is not intended as an exhaustive coverage of all published reports. 
+
+
+372 IFC Bulletin No 31 
+
+
+Le ON UHAIINg Ol 
+
+
+eLe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2 
+Data including composite indicators in selected FSRs 
+Sector/Indicators AT AU BR CA CH CZ ES GB HK HU ID SE TR ECB' | IMF 
+Composite index +47 +3 +4 
+Banking index +° + + a +6 
+Financial conditions index +! +8 + +49 410 
+Monetary conditions index + 
+Real sector 
+GDP + + +, St + + + + + + + + + + 
+Fiscal deficit + + + + + + + 
+Inflation + +, St + ++ + + + ++ + + 
+Household finance ++ ++ + ++ ++ ++ + ++ + ++ ++ + + 
+Corporate finance ++ ++ + + + ++ + ++ + ++ +4" + ++ 
+Policy rate’ + + +, St + rs + + ui 
+Monetary aggregates + + + + + + ++ 
+External sector 
+FX rates Vo Vo, St + Vo Vo + ++ Vo +,Vo Vo Vo |Vo,Vi| Vo 
+FX exposures ++, Vo + + + + + ++ 
+BOP + + + + + + + + ++ 
+Capital flows + + + + + + ++ + + ++ 
+Reserves + + + +4 + fe ++ 
+Financial sector’ 
+Profitability + ++ + + + + ++ + + + + + + +"4 +15 
+Capital ratios +, St + + + + + ++ + + + + ++, St + + 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vLle 
+
+
+Le ON UneIINg Oal 
+
+
+
+
+
+Table 2 (cont) 
+Data including composite indicators in selected FSRs 
+
+
+
+
+
+
+
+
+Sector/Indicators AT AU BR CA CH CZ ES GB HK HU ID SE TR ECB' | IMF 
+Credit (Loans) + ++ + + + + + + ++ + ++ ++ + 
+Liabilities (deposits) + ++ + + + + + + ++ + + + + 
+Liquidity +, St + + + +, St ++ ++, St ++ +, St + 
+Credit Risk + ++ +, St + ++ +,Vo | +, St +,St +, St + +,St | +,St | +,St ++ 
+Market risk + ++ +, St VaR + +, St +, St is 
+Interest rate risk ay +, St +" St + + +, St St ++ 
+Asset quality’” ++ + ++ + + +'8 ++ ++ + ++ + + + + 
+Sectoral/Regional + + ++ ++ ++ + + + + + + + 
+Systemic focus + ++ + + ++ ++ + + + + ++ 
+
+
+
+
+
+Financial Markets 
+
+
+Government Bonds Y Y Y, St Y Y Y Y,Sr | Y,Sr Sr, Y, Vii Y, Sr 
+
+Corporate Bonds Sr, Vol Sr, Vo + Y, Sr Sr Sr, Vo S, Vo, V' Sr, Vo, YY, Sr, R} Sr, Vo, Sr | Sr, Vi, | Sr, Y 
+Vi Vo, Sr 
+
+Money markets Vo Sr, Vo; Vo Sr Sr, Vo] Y” S,Vo, Vi} Sr  |Sr, Vi, Y} Y, Sr | Sr, Vo Sr Vi, Vo | Sr, Sr 
+
+Equity prices Vo Vo Vo Vo Vo Vo Vo, Vi | Vo, Vi Vo +,Y Vo Vo, Vi Vo Vo Vo, Vi 
+
+Real estate prices Vo Vo Vo Vo Vo + Vo Vo + Vo Vo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes: R — ratings, St — Stress test based, Sr -— riskiness and liquidity spreads, Vo — observed volatility, Vi — implied volatility, VaR -— Value at risk, Y — Average yield, 
++ denotes the use of one indicator, ++ denotes the use of several indicators. 
+
+
+‘ Euro area indicators as well as global comparisons. ? Qualitative assessment based on sources, likelihood and impact of tail risks on six key vulnerabilities in the 
+
+
+financial system. : Single aggregate index of financial stability. “ Global financial stability map summarising risks and prospects of macro—financial environment. 
+° Stress index for Swiss banks. ° Separate composite indices for volatility and trading and market liquidity. ’ Separate indexes for creditworthiness and market liquidity. 
+A composite financial market liquidity index. ? Multiple composite measures are used to estimate credit/equity/GDP gaps, financing gaps for non-financial companies and 
+composite inter—bank liquidity indicator. ‘° Banking stability index. "' Including a Real Sector Confidence index. CB monetary policy rate. '* In most cases these 
+indicators refer to Banking Sector only. es Large complex banking groups. Including estimates of losses from write-downs of exposures. ‘S10 day VaR figures. 
+Typically includes non-performing loans, observed and estimated default rates and loss provisioning. ‘8 NPL and doubtful assets to gross loans. aE yield average. 
+
+
+Source: compiled by the authors, based on Central Banks’ FSRs. 
+
+
+
+
+
+Four sets of specific variables are used at the ECB (ECB (2007)). Firstly, the banking 
+sectors balance-sheet (reflecting the continued significance of bank-based financial 
+intermediation in the euro area), especially profitability, asset quality and capital adequacy. 
+Particular attention is devoted to large and complex banking groups (LCBGs). Secondly, 
+major sources of risk to the financial sector. This would include an assessment of competitive 
+conditions in the banking sector, credit growth and banking exposure concentrations. More 
+generally, it would cover asset price developments, business cycle and monetary conditions 
+as well as measures of financial fragility in the counterpart sectors to banks (primarily 
+households and non-financial corporations). Thirdly, the resilience of the financial sector 
+based on its risk-absorption capacity (market-based and qualitative). Fourthly, forward- 
+looking measures derived from securities prices (option implied risk-neutral distributions, 
+direct default risks for LCBGs based on Moody’s KMV, bid-ask spreads for EONIA swaps as 
+a proxy for liquidity in the euro area money market, historical and implied volatilities, shape of 
+the yield curve, term premia, options-implied skewness coefficient for German ten-year 
+bonds). 
+
+
+Other central banks (BoE, Riksbank, Bank of Canada) also look at various components of 
+financial stability through specific variables. In terms of their usage of market data, these 
+central banks are fairly consistent with one another by their focus on equity prices, corporate 
+and sovereign credit risk spreads, liquidity premia and volatility. As far as the real sector is 
+concerned, GDP forecasts, incoming portfolio investment, official interest rates and sub- 
+prime mortgage delinquency rates versus foreclosure rates are monitored. 
+
+
+In relation to the financial market turbulence that started in the summer of 2007, industrial 
+economies’ central banks have followed the market for mortgage backed securities. In 
+particular, they have monitored issuance volumes, together with the maturity-related 
+characteristics (in particular, duration and convexity) of such securities in order to estimate 
+by how much long-term interest rate shocks are likely to be amplified by mortgage-related 
+hedging flows. The BoE carries observed and market-expected losses on sub-prime 
+mortgages and asset backed securities, in addition to house prices and a range of housing 
+market activity measures (site visits, net reservations, new buyer enquiries net balances, 
+sales to stock ratio and number of loan approvals fore house purchases). 
+
+
+Data on individual financial institutions are based on surveys and supervisory returns, as well 
+as market data such as CDS spreads or indices. In order to monitor funding conditions for 
+systemically important banks, several industrial economies’ central banks look at the 
+difference between three-month interbank rates relative to expected policy rates. That 
+difference can then be further decomposed into liquidity and credit risk premia. Aggregate 
+balance sheets of the national banking systems are typically published, broken down by 
+geography, sector, maturity, riskiness. A number of additional measures of the banking system 
+are analysed, eg annual write-off rates, customer funding gaps, intraday liquidity buffers, 
+funding sources, profitability, capitalisation, equity returns, income mix (fees vs spreads), 
+cost efficiency, share price volatility. Common large exposure counterparts are flagged. 
+Some central banks also monitor funds’ (eg hedge funds’, pension funds’) performance and 
+trading events. The systemic importance of such funds, given the size of the assets under 
+their management and the fact that they are counterparties to large systemically important 
+banks (which act as prime brokers for them) arguably warrants this kind of monitoring. 
+
+
+In their monitoring of non-financial corporations in industrial and emerging economies, many 
+industrial economies focus on CDS spreads, together with corporate finance data and default 
+probabilities computed from Moody’s KMV model. Using these individual default probabilities, 
+multiple default probabilities can be calculated, which presumably do a better job of 
+identifying market-wide distress than individual default probabilities. 
+
+
+IFC Bulletin No 31 375 
+
+
+Aggregate measures 
+
+
+The use of aggregate measures in some of the FSRs listed in Table 2 is very recent and in 
+many cases not more than one or two years old. It is early as yet to make an assessment of 
+their performance. 
+
+
+Of the composite measures used, the Czech National Bank (CNB), the Swiss National 
+Bank (SNB), and the Hong Kong Monetary Authority (HKMA) use an aggregate measure to 
+reflect banking stability or fragility. The SNB stress index for the banking sector is calculated 
+from market data, balance sheet figures and non-public data from the supervisory authority. 
+This continuous indicator measures stress in terms of deviation from the historical trend. The 
+HKMA has developed a Probit model"? to estimate early warning indicators of banking 
+distress. It uses quarterly panel data on macroeconomic fundamentals, estimates of default 
+risk of individual banks and non-financial companies, asset price movements and contagion 
+factors. The HKMA also computes a monetary conditions index which would reflect the 
+monetary aggregates in the economy. 
+
+
+The CNB computes a banking stability index using weighted average of sub-indicators of 
+banking sector soundness including capital adequacy, profitability, balance sheet liquidity, 
+asset quality, credit and currency risk. The constructed index of financial ratios is expressed 
+in terms of the standard deviation from its historical average. Additionally, the CNB also 
+computes composite indices of financial conditions to reflect liquidity and creditworthiness of 
+non-financial companies. 
+
+
+The Central Bank of Turkey calculates a financial strength index as a weighted average of 
+partial indicators of the financial soundness of banks. The index combines six areas of 
+financial soundness indicators, viz capital adequacy, profitability, liquidity, asset quality, 
+interest rate risk and exchange rate risk. 
+
+
+The ECB computes a composite indicator of financial market liquidity in the euro area, similar 
+to the market liquidity indicator of the BoE. The ECB indicator combines several measures 
+covering four different markets and three different dimensions of market liquidity (tightness, 
+depth and resilience) as well as liquidity premia. The National Bank of Hungary also 
+calculates a liquidity index along these lines. 
+
+
+The IMF is developing a banking stability index. For this purpose, it considers the banking 
+system as a portfolio, and based on the market-based probability of default of each individual 
+bank it estimates the joint default probabilities, ie the expected number of bank defaults in 
+the system, given that at least one bank defaults (see IMF (2008)). 
+
+
+Most such indexes are constructed as a series going back over several years; the Czech 
+Index, for instance, goes back to 1997 whilst the SNB stress index goes back to 1987. These 
+indices correlate well with past episodes of financial stress and reflect the risks that have 
+already materialised. What is not clear, however, is their ability to predict the onset of a crisis. 
+Given that the banking sector is predominant and the construction of the index depends on 
+the use of balance sheet data, it is likely that exposures not reported in the balance sheet 
+might not be fully reflected. On the other hand, a more broad based measure of financial 
+conditions such as market liquidity or market risk which relies on market data would be better 
+able to signal conditions of stress in the short term. 
+
+
+
+
+
+‘0 The model draws on a number of earlier studies including Kaminsky and Reinhart (1999) and Demirgu¢-Kunt 
+
+
+and Detragiache (1998). 
+
+
+376 IFC Bulletin No 31 
+
+
+V Towards a single aggregate measure of financial stability 
+
+
+As described in the previous section, some central banks have started developing aggregate 
+measures that reflect the conditions of a key sector such as banking or key financial market 
+conditions. There are very few instances of a single overarching aggregate measure of 
+financial stability. However, some institutions have begun to present a consolidated view of 
+the risks and prospects qualitatively through charts, heat maps or assessment grids. There 
+also instances of single quantitative indexes. 
+
+
+The IMF has started publishing a global financial stability map which presents an 
+assessment of the risks and the underlying conditions for the global financial system. The 
+shifting contours of credit risk, market and liquidity risks, as well as the macro-financial 
+conditions from the previous period reflect the IMF’s view of the risks and prospects ahead. 
+Quantitative analysis underpins the construction of this map although the final positioning is 
+based on judgement. Leading indicators in six broad areas are considered: monetary and 
+financial conditions in leading industrial countries, risk appetite in global financial markets, 
+macro-economic risks in G3 and OECD countries, emerging market risks credit risks and 
+market risks (IMF (2008)). 
+
+
+The BoE presents its assessment of the outlook and prospects, presented in qualitative 
+terms, which are underpinned by quantitative modelling of the key vulnerabilities of the 
+UK financial system. As such, an overview of the financial system is presented in the form of 
+an assessment based on the sources, likelihood and impact of tail risks on six key 
+vulnerabilities in the financial system. In addition, a composite financial market liquidity index 
+is computed (which is a simple unweighted average of nine liquidity measures, normalised 
+on the period 1999-2004). Prospects for the UK financial system, as well as the corollary risk 
+mitigation, are assessed. 
+
+
+Along the lines described in Illing and Liu (2003) and Van den End (2006), respectively, the 
+Bank of Canada and the Nederlandsche Bank construct single aggregate measures of 
+financial stability (albeit not published in their FSRs). Illing and Liu (2003) argue that their 
+single aggregate measures compare favourably in their ability to flag crises with composite 
+partial measures commonly used in the literature. Van den End (2006) notes that by 
+combining market and balance sheet information on financial institutions, the Financial 
+Stability Conditions Index of the Netherlands Bank appears to make a significant contribution 
+beyond a traditional financial conditions index which might only look at one sector. 
+
+
+Bank Indonesia computes a broad based financial stability index which, in addition to the 
+banking sector indicators uses leading macro-economic and external sector indicators on a 
+monthly basis to reflect the financial system stability more generally. 
+
+
+Although the Board of Governors of the Federal Reserve System does not publish a financial 
+stability review, it has an index of financial fragility, constructed in two steps (Nelson and 
+Perli (2005)). First, the information contained in 12 individual variables"’ is reduced to 3 
+summary statistics, their rate of change and their correlation. Second, a Logit model is 
+estimated to obtain the probability that, at any given time and based on the three summary 
+
+
+"Based on interest rates and asset prices, a number of market liquidity proxies are monitored: bid-ask spreads, 
+trading volumes, liquidity premia (difference in spread between highly liquid and less liquid securities). Risk 
+spreads are also followed, in particular swap spreads (proxies for the credit quality of the banking sector and 
+market liquidity), agency spreads and commercial paper spreads. Equity premia are analysed, although 
+interpreting them is difficult, as it is difficult to disentangle economic information changing agents’ earnings 
+expectations, changes in certainty about economic outcomes and changes in risk appetite. Finally, implied 
+volatilities derived from option prices, bearing in mind that risk-neutral PDFs contain market participants’ risk 
+aversion. 
+
+
+IFC Bulletin No 31 377 
+
+
+statistics, the behaviour of financial markets is analogous to that of high stress events 
+(eg 11 September 2001). " 
+
+
+Conclusion 
+
+
+In theory, composite indicators of financial stability are better suited for the definition of 
+threshold or benchmark values to indicate the state of financial system stability than 
+individual variables. Moreover, they are useful measures of stress (eg they can be used to 
+gauge the build-up of imbalances) in the system even in the absence of extreme events. 
+However, as Gersl and Hefmanek (2006) point out, the construction of a single aggregate 
+measure of financial stability is a difficult task given the complex nature of the financial 
+system and the existence of complex links between various sectors. In the absence of an 
+overarching aggregate, partial composite measures such as a banking stability index or a 
+market liquidity index are used in several FSRs. Regardless of whether a single aggregate 
+measure of financial stability is constructed or not, FSRs would need to analyse key 
+variables in the real, banking and financial sectors as well as variables in the external sector. 
+
+
+There is some diversity in construction and use of the key indicators. For broader cross- 
+country comparisons it would be useful to have an appropriate template and methodology for 
+such indicators, although countries’ individual circumstances make such an exercise difficult 
+(due, notably, to the varying relative importance of individual financial system components 
+and to differing degrees of openness of the economies concerned). If one goes a step further 
+and tries to compute a single aggregate measure of financial stability, the weightings of the 
+different variables that constitute such an aggregate measure have to reflect this accordingly. 
+For instance, a maturity mismatch between short-term liabilities and long-term assets may 
+have to be assigned a low weight, because maturity transformation is a common feature of 
+the banking business and banks can successfully manage part of this risk using interest rate 
+derivatives. Likewise, the fact that low volatility on a market can mean stable conditions as 
+well as failings in the price discovery process should be considered when assigning a weight 
+to market volatility. 
+
+
+Although some central banks have experimented with computing single aggregate measures 
+of financial stability, no such measures can be used without knowledge and use of other — 
+quantitative or qualitative — instruments. Moreover, although single aggregate measures 
+reflect the financial system conditions well post facto, it is not yet clear how well they would 
+perform in signalling the onset of financial stress. 
+
+
+The private sector has also made attempts at computing single aggregate measures of financial stability. Illing 
+
+
+and Liu (2003) note that the Bank Credit Analyst produces a monthly stress index which incorporates major 
+banks’ share price performance, credit spreads, private sector indebtedness, stock market leverage, overall 
+stock market performance, consumer confidence, the slope of the yield curve and stock and bond issuance. 
+Bordo, Dueker and Wheelock (2000) construct a financial instability index with lags, incorporating bank 
+failures, non-financial business bankruptcies, an ex post real interest rate and an interest rate quality spread. 
+Commercial and investment banks produce indices, such as the JP Morgan Liquidity, Credit and Volatility 
+Index, the Credit Suisse First Boston Emerging Markets Risk Indicator, the Deutsche Bank Alarm Clock and 
+the Goldman Sachs GS-Watch. 
+
+
+378 IFC Bulletin No 31 
+
+
+References 
+
+
+Bank of England (2008), Financial Stability Report, no 23, April. 
+
+
+Bordo, M and A Schwartz (2000): “Measuring real economic effects of bailouts: historical 
+perspectives on how countries in financial stress have fared with and without bailouts.” 
+NBER Working Paper, no 7701. 
+
+
+Bordo, M, MJ Dueker and DC Wheelock (2000): “Aggregate price shocks and financial 
+instability: an historical analysis”, NBER Working Paper, no 7652. 
+
+
+Borio, C and M Drehmann (2009): “Assessing the risk of banking crises — revisited”, BIS 
+Quarterly Review, March. 
+
+
+Borio, C and P Lowe (2002): “Asset prices, financial and monetary stability: exploring the 
+nexus”, BIS Working Papers, no 114, July. 
+
+
+Calvo, GA, L Leiderman and CM Reinhart (1993): “Capital inflows and real exchange rate 
+appreciation: the role of external factors”, International Monetary Fund Staff Papers, no 40, 
+vol 1, pp 108-51, March. 
+
+
+Cihak, M (2007): “Systemic loss: a measure of financial stability’, Czech Journal of 
+Economics and Finance, no 57, vol 1-2, pp 5—26. 
+
+
+DemirgUg¢-Kunt, A and E Detragiache (1997): “The determinants of banking crises — evidence 
+from developing and developed countries’, IMF Working Papers 97/106, International 
+Monetary Fund. 
+
+
+(1998). “The Determinants of Banking Crises in Developing and Developed 
+Countries.” International Monetary Fund Staff Papers, no 45, vol 1, pp 81-109. 
+
+
+Eichengreen, B, A Rose and C Wyplosz (1996): “Contagious currency crises’, NBER 
+Working papers, no 5681. 
+
+
+Eichengreen, B and AK Rose (1999): “The empirics of currency and banking crises”, a non- 
+theoretical study of financial crises), NBER Reporter, December. 
+
+
+European Central Bank (2005): “Measurement challenges in assessing financial stability’, 
+ECB Financial Stability Review, December. 
+
+
+(2007): “Progress towards a framework for financial stability assessment”, 
+speech by José-Manuel Gonzalez-Paramo, Member of the Executive Board of the ECB, 
+OECD World Forum on “Statistics, Knowledge and Policy”, Istanbul, 28 June. 
+
+
+Frankel, J and A Rose (1996): “Currency crashes in emerging markets: empirical indicators”, 
+Journal of International Economics, vol 41, pp 351-66. 
+
+
+Gerdrup, KR (2003): “Three episodes of financial fragility in Norway since the 1890s”, BIS 
+Working Papers, no 142, October. 
+
+
+Gers], A and J Hefmanek (2006): “Financial Stability Indicators: advantages and 
+disadvantages of their use in the assessment of the financial system stability’, Czech 
+National Bank Financial Stability Review. 
+
+
+Goodhart, C, O Aspachs, M Segoviano, D Tsomocos and L Zicchino (2006): “Searching for a 
+metric for financial stability’, LSE Financial Markets Group Special Paper Series, Special 
+Paper no 167, May. 
+
+
+Gray, DF, RC Merton and Z Bodie (2007): “New framework for measuring and managing 
+macrofinancial risk and financial stability”, NBER Working Paper no 13607, November. 
+
+
+Haim, Y and R Levy (2007): “Using the balance sheet approach in financial stability 
+surveillance: analyzing the Israeli economy’s resilience to exchange rate risk”, Bank of Israel 
+Discussion Papers no 1/07, January. 
+
+
+IFC Bulletin No 31 379 
+
+
+Hawkins, J and M Klau (2000): “Measuring potential vulnerabilities in emerging market 
+economies”, BIS Working Papers, no 91, October. 
+
+
+Illing M and Y Liu (2003): “An index of financial stress for Canada”, Bank of Canada Working 
+Paper no 2003-14, June. 
+
+
+International Monetary Fund (2006): Financial Soundness Indicators: Compilation Guide, 
+March. 
+
+
+International Monetary Fund (2008): Global Financial Stability Report, April. 
+
+
+Irving Fisher Committee (2007a): Proceedings of the IFC Conference on “Measuring the 
+financial position of the household sector’, vol 1, IFC Bulletins no 25, March. 
+
+
+(2007b): Proceedings of the IFC Conference on “Measuring the financial position 
+of the household sector”, vol 2, IFC Bulletins no 26, July. 
+
+
+Kaminsky, G, S Lizondo and C Reinhart (1998): “Leading indicators of currency crises”, IMF 
+Staff Papers 45(1), pp 1-48. 
+
+
+Kaminsky, GL and CM Reinhart (1999): “The twin crises: the causes of banking and balance- 
+of-payments problems”, The American Economic Review, vol 89, no 3, pp 473-500, June. 
+
+
+Nelson, W R, Perli, R (2005): “Selected indicators of financial stability’, 4th Joint Central 
+Bank Research Conference on “Risk Measurement and Systemic Risk”, ECB Frankfurt am 
+Main, November. 
+
+
+Patel, S and A Sarkar (1998): “Crises in developed and emerging stock markets”, Financial 
+Analysts Journal, vol 54—6, pp 50-9, November—December. 
+
+
+Sveriges Riksbank (2008), Financial Stability Report, no 2008:1, June. 
+
+
+Turner, P and M Goldstein (1996): “Banking crises in emerging economies: origins and policy 
+options”, BIS Economic Papers, no 46, November. 
+
+
+Van den End, JW (2006): “Indicator and boundaries of financial stability’, DNB Working 
+Paper no 97, March. 
+
+
+White, WR (2004): “Are changes in financial structure extending safety nets?”, BIS Working 
+Papers, no 145, January. 
+
+
+Worrell, D (2004): “Quantitative assessment of the financial Sector: an integrated approach’, 
+International Monetary Fund Working Papers, no 153. 
+
+
+380 IFC Bulletin No 31 
+
+

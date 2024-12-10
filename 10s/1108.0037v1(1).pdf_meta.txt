@@ -1,0 +1,35 @@
+ETag: "a0b08d7e33fd2deaadb54a37c907d9ad"
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+accept-encoding: gzip, deflate
+accept-language: en-US,en;q=0.5
+authorization: LOW 7dboFvTQZIq9dBEu:REDACTED_BY_IA_S3
+cache-control: no-cache, max-age=15552000
+connection: close
+content-length: 87517
+content-type: multipart/form-data; charset=UTF-8
+host: s3.us.archive.org
+origin: https://archive.org
+user-agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0
+x-amz-acl: bucket-owner-full-control
+x-amz-auto-make-bucket: 1
+x-archive-interactive-priority: 1
+x-archive-meta-mediatype: texts
+x-archive-meta01-collection: opensource
+x-archive-meta01-creator: Subhajit Ganguly
+x-archive-meta01-date: 2010-07-10
+x-archive-meta01-description: uri(In%20this%20paper%2Ca%20few%20more%20implications%20of%20the%20laws%20of%20physical%20%0Atransactions%20as%20per%20the%20Theory%20of%20Abstraction%20are%20dealt%20with.Analysis%20of%0A%20these%20implications%20suggests%20the%20existence%20of%20%60hidden%60%20mass%20and%20%60hidden%60%0A%20energy%20in%20a%20given%20physical%20transaction.Trajectory%20-examination%20of%20such%20%0Apossible%20transport%20is%20carried%20out.%20Relativistic%20cyclist%20phenomena%20are%20%0Aalso%20dealt%20with%20in%20this%20paper.)
+x-archive-meta01-language: eng
+x-archive-meta01-scanner: Internet Archive HTML5 Uploader 1.3
+x-archive-meta01-subject: Theory of everything
+x-archive-meta01-title: Analysis of the Theory of Abstraction
+x-archive-meta02-subject: condensation states
+x-archive-meta03-subject: null postulation
+x-archive-meta04-subject: scaling ratio
+x-archive-meta05-subject: zero-postulation
+x-archive-meta06-subject: theory of abstraction
+x-archive-meta07-subject: Subhajit Ganguly
+x-archive-size-hint: 87517
+x-file-name: 1108.0037v1(1).pdf
+x-file-size: 87517
+x-requested-with: XMLHttpRequest
+x-upload-date: 2013-05-03T12:56:25.000Z

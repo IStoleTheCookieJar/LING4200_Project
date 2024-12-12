@@ -1,0 +1,3975 @@
+V.cP 
+
+
+t-»  r 
+
+
+\.:iS:..^    J>yJfoc**+.    .^•:4i":..^    J>*X&z**+.    .**\;«%V    ^°. **:.*>-> 
+
+
+%<? 
+
+
+4*      .•t"*      ^fr  ,6*      *»"•♦      ^O  J>      *«w"*        *A 
+
+
+*K  (V         r.  0  "   •  ♦        **0 
+
+
+kT      *** 
+
+
+'^    ..L^'* 
+
+
+"  <f 
+
+
+%. 
+
+
+**.*»..      ^  r£ 
+
+
+«5  °<*     v^isp,"     y  ^ 
+
+
+\f  :SKK\  %..<?  .'J«Sfcfc  V^° 
+
+
+«v  •*Ai*'  ^    **  »>«a^'  % 
+
+
+^ 
+
+
+•>*...  %^v  v"v  v^v  \"v  v* 
+
+*v  .•£*&.%.  ^&fr.%,  V\^\\   ^.-lii-:..^    y.oate.V 
+
+
+^0       *"*0- 
+
+
+Jill'HI  Illl.iHl.lnl     I iniiiiiiniii nun 
+
+
+I/"*       QOC1  BUREAU  OF  MINES 
+
+|^       y^DI  INFORMATION  CIRCULAR/1990 
+
+
+Frictional  Ignition  With  Coal 
+Mining  Bits 
+
+
+By  Welby  G.  Courtney 
+
+
+#+  >W   X      UiS>  BUREAU  OF  MINES 
+
+
+(80) 
+
+
+1910-1990 
+
+
+\    years    g  THE  MINERALS  SOURCE 
+
+^U   OF  ^ 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9251 
+
+Frictional  Ignition  With  Coal 
+Mining  Bits 
+
+
+By  Welby  G.  Courtney 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+> 
+
+
+q^ 
+
+
+\ 
+
+
+TW 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Courtney,  Welby  G. 
+
+Frictional  ignition  with  coal  mining  bits  /  by  Welby  G.  Courtney. 
+
+p.      cm.  —  (Information  circular  /  Bureau  of  Mines;  9251) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28.27:9251. 
+
+1.    Coal-cutting  bits-Testing.    2.    Friction.    3.    Methane-Combustion.    I.   Title. 
+II.    Series:  Information  circular  (United  States.  Bureau  of  Mines);  9251. 
+
+TN295.U4      [TN813]     622  s--dc20      [622\334]     89-600350     CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Experimental  technique    5 
+
+Results    6 
+
+Rectangular  bits 6 
+
+Kennametal  K-100 6 
+
+Carmet  TC3 10 
+
+AMS  THRU-FLUSH 12 
+
+Hydra  Tools  HP74ISR 13 
+
+Conical  bits   14 
+
+GTE 14 
+
+Anti-ignition-modified  cutter  drum  for  Simmons  Rand  265  continuous  mining  machine 16 
+
+Kennametal  K-178DC    17 
+
+Discussion   18 
+
+Conclusions    24 
+
+References 25 
+
+ILLUSTRATIONS 
+
+1.  Coal  mine  explosion    2 
+
+2.  Frequency  of  frictional  ignitions  in  U.S.  coal  mines 2 
+
+3.  Shearer  drum  that  caused  frictional  ignition  of  coal  mine  explosion  in  Nova  Scotia 3 
+
+4.  Hot  streak  formed  on  surface  of  sandstone  with  worn  bit    3 
+
+5.  Conventional-  and  mushroom-tipped  conical  bits 3 
+
+6.  Conventional-  and  dovetail-tipped  rectangular  bits    4 
+
+7.  Geometry  of  conical  bit  tip    4 
+
+8.  Effect  of  bit  attack  angle  and  initial  tip  angle  on  frictional  ignition  with  conical  bits 4 
+
+9.  Frictional  ignition  chamber    5 
+
+10.  Bit  lacing  of  Joy  ILS  shearer  drum 6 
+
+11.  Kennametal  K-100  bit    6 
+
+12.  Effect  of  bit  wear  on  frictional  ignition  with  Kennametal  K-100  bit 7 
+
+13.  Effect  of  bit  velocity  on  frictional  ignition  with  0.45-cm-worn  Kennametal  K-100  bit 8 
+
+14.  Anti-ignition  back-spray  and  bit  geometry  with  Kennametal  K-100  bit   8 
+
+15.  Hot  streak  cooled  by  back  spray 9 
+
+16.  Artificial  coal  block  containing  sandstone  slab 9 
+
+17.  Back  sprays  with  fully  laced  Joy  ILS  shearer  drum    9 
+
+18.  Carmet  TC3  bit 11 
+
+19.  AMS  THRU-FLUSH  bit  and  test  bit 12 
+
+20.  AMS  THRU-FLUSH  bit  with  fan  back  spray  at  100  psig    12 
+
+21.  Hydra  Tools  HP74ISR  bit   13 
+
+22.  Hydra  Tools  HP74ISR  bit  with  cone  back  spray  at  100  psig 13 
+
+23.  Hydra  Tools  HP74ISR  bit  with  jet  back  spray  at  100  psig   13 
+
+24.  Back  spray  and  conical  bit  located  at  end  of  cutter  drum 15 
+
+25.  New  and  0.5-  and  0.75-cm-worn  GTE  bits    15 
+
+26.  Anti-ignition-modified  Simmons  Rand  265  drum 17 
+
+27.  Modified  Simmons  Rand  265  drum  in  operation 17 
+
+28.  Kennametal  K-178DC  bit 17 
+
+29.  Kennametal  K-178DC  bit  with  solid-cone  back  spray  at  150  psig 17 
+
+30.  Kennametal  K-178DC  bit  with  jet  front  spray  at  150  psig    18 
+
+31.  Cutting  processes  with  worn  conical  bit    20 
+
+32.  Spotty  hot  streak  formed  on  surface  of  sandstone 21 
+
+33.  Theoretical  temperatures  inside  conical  bit  and  on  wear-flat  surface  on  conical  bit 22 
+
+34.  Area  of  wear  flat  formed  on  steel-tipped  conical  bit  versus  number  of  cuts    22 
+
+35.  Geometry  of  linear  wear  distance  with  conical  bit 23 
+
+36.  Linear  wear  distance  versus  cutting  distance  with  conical  bits    23 
+
+37.  Dust  cloud  formed  by  bit  cutting  sandstone    24 
+
+
+TABLES 
+
+
+Page 
+
+
+1.  Effect  of  bit  wear  on  frictional  ignition  with  Kennametal  K-100  bit  during  dry  cutting 
+
+2.  Effect  of  bit  speed  on  frictional  ignition  with  0.45-cm-worn  Kennametal  K-100  bit  during  dry  cutting 
+
+3.  Effect  of  Spraying  Systems  GG3004  back  spray  on  frictional  ignition  with  worn  Kennametal  K-100  bit 
+
+4.  Effect  of  Spraying  Systems  GG3004  back  spray  on  frictional  ignition  with  fully  laced  drum  using 
+
+0.54-cm-worn  Kennametal  K-100  bit 
+
+5.  Ignition  results  with  Carmet  TC3  bit  and  Senior  Conflow  back  spray 
+
+6.  Ignition  results  with  AMS  THRU-FLUSH  bit  using  fan-type  back  spray    
+
+7.  Ignition  results  with  Hydra  Tools  HP74ISR  bit  with  back  spray 
+
+8.  Ignition  results  with  GTE  conical  bit  and  Spraying  Systems  back  spray    
+
+9.  Ignition  results  with  Kennametal  K-178DC  bit    
+
+
+7 
+7 
+9 
+
+10 
+11 
+13 
+14 
+16 
+18 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+°c 
+
+degree  Celsius 
+
+mm 
+
+millimeter 
+
+cal/cm2  • 
+
+s        calorie  per  square  centimeter 
+
+per 
+
+second 
+
+mm2 
+
+square  millimeter 
+
+cm 
+
+centimeter 
+
+/im 
+
+micrometer 
+
+cm2 
+
+square  centimeter 
+
+ms 
+
+millisecond 
+
+cm/min 
+
+centimeter  per  minute 
+
+pet 
+
+percent 
+
+cm/r 
+
+centimeter  per  revolution 
+
+psig 
+
+pound  per  square  inch  gauge 
+
+cm/s 
+
+centimeter  per  second 
+
+rpm 
+
+revolution  per  minute 
+
+deg 
+
+degree 
+
+rps 
+
+revolution  per  second 
+
+gpm 
+
+gallon  per  minute 
+
+s 
+
+second 
+
+gpm/cm 
+
+gallon  per  minute  per  square 
+
+centimeter 
+
+FRICTIONAL  IGNITION  WITH  COAL  MINING  BITS 
+
+By  Welby  G.  Courtney1 
+
+
+ABSTRACT 
+
+This  publication  reviews  recent  U.S.  Bureau  of  Mines  studies  of  frictional  ignition  of  a  methane-air 
+environment  by  coal  mining  bits  cutting  into  sandstone  and  the  effectiveness  of  remedial  techniques  to 
+reduce  the  likelihood  of  frictional  ignition.  Frictional  ignition  with  a  mining  bit  always  involves  a  worn 
+bit  having  a  wear  flat  on  the  tip  of  the  bit.  The  worn  bit  forms  hot  spots  on  the  surface  of  the  sandstone 
+because  of  frictional  abrasion.  The  hot  spots  then  can  ignite  the  methane-air  environment.  A  small 
+wear  flat  forms  a  small  hot  spot,  which  does  not  give  ignition,  while  a  large  wear  flat  forms  a  large  hot 
+spot,  which  gives  ignition. 
+
+The  likelihood  of  frictional  ignition  can  be  somewhat  reduced  by  using  a  mushroom-shaped  tungsten- 
+carbide  bit  tip  on  the  mining  bit  and  by  increasing  the  bit  clearance  angle;  it  can  be  significantly  reduced 
+by  using  a  water  spray  nozzle  in  back  of  each  bit,  which  is  carefully  oriented  to  direct  the  water  spray 
+onto  the  sandstone  surface  directly  behind  the  bit  and  thereby  cool  the  hot  spots  formed  by  the  worn 
+bit.  A  bit  replacement  schedule  must  be  used  to  avoid  the  formation  of  a  dangerously  worn  bit. 
+
+
+Supervisory  research  chemist,  Pittsburgh  Research  Center,  U.S.  Bureau  of  Mines,  Pittsburgh,  PA. 
+
+
+INTRODUCTION 
+
+
+The  frictional  use  of  quartzitic  and  pyritic  materials  to 
+make  fire  was  known  to  Neanderthalers  (I),2  and  frictional 
+ignition  has  been  called  "about  the  second  oldest  profes- 
+sion" (2).  Frictional  ignition  of  a  violent  coal  mine  ex- 
+plosion such  as  shown  in  figure  1  was  reported  in  1675  (i). 
+
+Field  reports  by  the  Mine  Safety  and  Health  Ad- 
+ministration (MSHA)  have  indicated  a  general  increase  in 
+the  frequency  of  frictional  ignitions  in  U.S.  coal  mines 
+during  the  past  years  (fig.  2).  While  no  miners  have  been 
+killed  in  the  United  States  because  of  frictional  ignition 
+since  the  early  1970's,  injuries  have  occurred.  The  coal 
+mine  explosion  in  Nova  Scotia  in  1979  that  led  to  14  fa- 
+talities was  caused  by  a  frictional  ignition  with  the  shearer 
+drum  shown  in  figure  3  (5).  The  increase  in  frictional 
+ignitions  in  the  United  States  thus  is  alarming. 
+
+The  MSHA  field  reports  indicate  that  frictional  ig- 
+nitions in  the  United  States  almost  always  involve  a  metal 
+bit  cutting  into  sandstone.3  Field  samples  of  sandstone 
+involved  in  frictional  ignitions  in  Great  Britain  indicated 
+that  the  sandstone  must  contain  at  least  20  pet  quartz  and 
+usually  contains  40  pet  or  more  quartz  (5).  Early  studies 
+of  frictional  ignition  reviewed  in  1969  by  Powell  (6) 
+indicated  that  frictional  ignition  with  a  metal  bit  cutting 
+sandstone  (1)  involved  a  luminous  hot  streak  that  formed 
+on  the  surface  of  the  sandstone  because  of  abrasion  by  the 
+
+2Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+at  the  end  of  this  report. 
+
+Very  occasionally  frictional  ignitions  have  appeared  to  involve  a  bit 
+cutting  into  pyritic  material.  Also,  a  few  incidents  have  involved 
+sandstone-sandstone  abrasion  during  the  fall  of  a  sandstone  roof,  a 
+hand  pick  striking  sandstone,  and  a  drill  bit  striking  sandstone  or  steel. 
+One  possible  exception  involved  the  cutting  of  "hard  coal"  (4). 
+
+
+bit  and  did  not  involve  hot,  airborne,  moving  sparks,4 
+(2)  always  involved  a  worn  bit  that  had  formed  a  wear  flat 
+on  the  tip  of  the  bit  and  was  never  obtained  with  a  new, 
+sharp  bit,  (3)  could  be  obtained  with  almost  any  abrading 
+material  but  was,  e.g.,  much  easier  to  obtain  with  steel 
+than  with  a  tungsten-carbide  cermet  (9),  and  (4)  was 
+apparently  less  likely  to  occur  with  a  lower  bit  veloc- 
+ity (5,  9-10).  Figure  4  shows  the  hot  streak  formed  on  the 
+
+4Ignition  by  sparks  can  occur  when  the  sparks  adhere  to  a  surface. 
+However,  references  7  and  8,  e.g.,  conclude  that  ignition  can  be 
+obtained  with  airborne,  moving  sparks. 
+
+
+Figure  1.-Coal  mine  explosion. 
+
+
+I00 
+
+
+80 
+
+
+Q 
+
+u   60 
+
+
+o 
+a.  40 
+
+UJ 
+
+m 
+
+3 
+
+
+20 
+
+
+KEY 
+Continuous  miner 
+
+Shearer 
+
+Roof  bolter 
+
+Other 
+
+
+A 
+
+
+L 
+
+
+/ 
+
+
+y_J£ 
+
+
+n 
+
+
+V\      V\ 
+
+
+'/, 
+
+
+m 
+
+
+Z 
+
+
+2 
+
+
+n 
+
+
+2 
+
+
+V2 
+
+
+0 
+
+
+M 
+
+
+2 
+
+
+0 
+
+
+V\ 
+
+
+i i 
+
+
+I  * 
+
+
+I97I      I972    I973      I974     I975    I976     I977     I978     I979     I980     I98I       I982     I983     I984     I985    I986    I987      I988 
+Figure  2.-Frequency  of  frictional  ignitions  in  U.S.  coal  mines. 
+
+
+Figure  3.-Shearer  drum  that  caused  frictional  ignition  of  coal 
+mine  explosion  in  Nova  Scotia  (3). 
+
+
+Figure  4.-Hot  streak  formed  on  surface  of  sandstone  with 
+worn  bit 
+
+
+surface  of  a  sandstone  block  by  a  downward-moving,  worn 
+rectangular  bit  having  a  wear  flat. 
+
+All  mining  bits  presently  use  tungsten-carbide  tips  to 
+reduce  bit  wear,  but  the  carbide  tips  usually  are  small. 
+The  U.S.  Bureau  of  Mines  (11)  designed  large  mushroom- 
+shaped  carbide  tips  for  conical  bits  and  dovetail-shaped 
+carbide  tips  for  rectangular  (radial)  bits  to  physically 
+protect  the  steel  shank  and  thereby  reduce  the  likelihood 
+of  frictional  ignition  due  to  abrasion  by  the  incendive  steel 
+shank.  Figure  5  shows  conventional-  and  mushroom- 
+tipped  conical  bits.  Figure  6  shows  conventional  plug-  and 
+peak-tipped  rectangular  bits  and  a  mushroom-type 
+dovetail-tipped  bit.  Laboratory  tests  indicated  that  the 
+mushroom-  and  dovetail-tipped  bits  had  longer  wear  lives 
+than  the  conventional-tipped  bits  before  the  incendive  steel 
+shank  became  exposed  (12).  An  in-mine  test  with  conical 
+bits  supported  these  laboratory  conclusions  (13). 
+
+Bureau  tests  have  indicated,  however,  that  frictional 
+ignition  can  eventually  be  obtained  with  the  wear  flat 
+formed  on  the  tungsten-carbide  tip  of  a  nonrotating 
+(frozen)  conical  bit  without  exposure  of  the  steel  shank. 
+The  likelihood  of  frictional  ignition  was  significantly 
+reduced  with  an  increased  initial  bit  clearance  angle  9C, 
+
+
+Conventional  tip  Mushroom  tip 
+
+Figure  5. -Conventional-  and  mushroom-tipped  conical  bits. 
+
+
+e.g.,  with  conical  bits,  with  an  increased  initial  bit  attack 
+angle  9A  and/or  a  decreased  internal  bit  tip  angle  0T  as 
+shown  in  figure  7,  where  6A  is  the  angle  between  the  bit 
+axis  and  the  sandstone  surface  and  6C  =  0A  -  6T/2  (14). 
+Figure  8  shows  that  the  number  of  cuts  to  give  ignition 
+with  a  new,  tungsten-carbide-tipped,  frozen  conical  bit 
+cutting  into  a  sandstone  block  increased  by  a  factor  of 
+
+
+Peak  tip 
+
+
+Dovetail  tip 
+
+
+Figure  6.-Conventlonal-  and  dovetail-tipped  rectangular  bits. 
+
+
+Bit  axis 
+
+
+Bit  motion 
+
+
+•  Sandstone- 
+
+
+Figure  7,-Geometry  of  conical  bit  tip.  (eA  =  attack  angle; 
+=  initial  clearance  angle;  8j.  =  initial  tip  angle.) 
+
+
+45   50  55   60  65  70 
+BIT  ATTACK  ANGLE  (0J,deg 
+
+
+75 
+
+
+Figure  8.-Effect  of  bit  attack  angle  and  initial  tip  angle  on 
+frictional  Ignition  with  conical  bits. 
+
+
+about  3  if  6A  increased  by  10°  or  0T  decreased  by  10°.  An 
+in-mine  test  by  Jim  Walter  Resources  (JWR)  (15)  support- 
+ed these  laboratory  conclusions.  In  a  section  prone  to  fric- 
+tional ignitions  because  of  a  sandstone  parting,  no  ignitions 
+occurred  in  mining  50,000  tons  of  coal  with  mushroom  bits 
+having  a  Bureau-recommended  bit  attack  angle  of  57°, 
+while  two  ignitions  then  occurred  in  mining  10,000  tons 
+using  conventional-tipped  bits  having  the  normal  mine  at- 
+tack angle  of  50°. 
+
+While  both  of  these  features  (mushroom  tip  and  in- 
+creased bit  clearance  angle)  are  valuable  in  reducing  the 
+early  ignition  hazard  associated  with  conical  bits,  both  fea- 
+tures merely  postpone  the  time  when  the  bits  have  been 
+worn  to  a  dangerous  condition  likely  to  cause  frictional 
+ignition.  A  replacement  schedule  for  worn  bits  is  there- 
+fore required.  E.g.,  the  bits  in  the  JWR  field  test  (15) 
+were  replaced  after  every  shuttle  car  was  loaded  if  the 
+mining  machine  was  cutting  into  a  sandstone  parting. 
+
+Other  laboratory  studies  (16-17)  have  indicated  that  a 
+solid-cone  water  spray  impacting  onto  the  surface  of  the 
+freshly  cut  sandstone  directly  in  back  of  the  cutter  bit  very 
+significantly  reduced  the  likelihood  of  frictional  ignition, 
+even  with  very  worn  bits,  by  promptly  cooling  the  hot 
+streak  formed  by  the  worn  bit  cutting  the  sandstone.  The 
+water  requirement  to  reduce  ignition  was  about  0.5  gpm 
+for  each  bit  and  thus  was  somewhat  high  but  not  excessive. 
+
+
+the  use  of  water  that  impinges  onto  the  front  of  the  bit  to 
+reduce  airborne  respirable  dust  has  become  a  standard 
+mining  practice  in  Great  Britain.  However,  laboratory 
+tests  indicate  that  it  had  negligible  effect  in  reducing 
+frictional  ignition  (18). 
+
+As  part  of  its  program  to  enhance  the  safety  of  workers 
+in  the  mining  industry,  the  Bureau  has  studied  the  problem 
+of  frictional  ignition  and  especially  the  use  of  water  sprays 
+in  back  of  the  cutter  bits  to  reduce  the  likelihood  of 
+frictional  ignition.  This  report  reviews  several  Bureau- 
+funded  studies  conducted  from  1979  to  1988.  A  detailed 
+laboratory  study  with  a  rectangular  bit  and  several  types  of 
+water  sprays  was  conducted  by  Bituminous  Coal  Research 
+(now,  Bituminous  Coal  Research  National  Laboratory 
+(BCRNL))  from  1979  to  1981  under  Bureau  contract  (18). 
+
+
+In-house  Bureau  studies  of  a  second  back  spray  and 
+rectangular  bit  system  and  a  back  spray  and  conical  bit 
+system  were  conducted  in  1983.  and  a  study  of  a  front 
+spray  and  conical  bit  system  was  conducted  in  1987.  Brief 
+Bureau  studies  of  several  commercial  back-spray  systems 
+with  rectangular  and  conical  bits  were  conducted  in  1983 
+and  1987.  Results  of  these  studies  have  not  been 
+previously  published.  A  field  test  with  back  sprays  and 
+conical  bits  on  a  wet-head-modified  cutter  drum  on  a 
+Simmons  Rand  2655  continuous  mining  machine  was  com- 
+pleted in  late  1988.  These  studies  generally  had  a  practical 
+orientation.  Recent  Bureau  work  having  a  more  funda- 
+mental orientation  is  briefly  presented  in  the  "Discussion" 
+section. 
+
+
+EXPERIMENTAL  TECHNIQUE 
+
+
+Previous  laboratory  techniques  to  investigate  frictional 
+ignition  have  involved  (1)  a  worn  field  bit  making  a  single 
+centimeter-deep  spiral  cut  into  new  locations  on  a  rotating 
+block  of  sandstone  (5),  (2)  a  metal  tool  (9)  or  a  worn 
+rectangular  field  bit  (10)  making  multiple  shallow  cuts  at 
+the  same  location  on  a  stationary  sandstone  block,  and  (3) 
+miscellaneous  techniques  such  as  a  metal  tool  held  against 
+a  grinding  wheel,  drill  bit,  falling  weight,  hand  pick,  and 
+high-speed  projectile  (6). 
+
+The  miscellaneous  techniques  were  used  mainly  to  indi- 
+cate qualitatively  whether  frictional  ignition  could  occur. 
+Techniques  1  and  2  were  used  mainly  to  indicate  the 
+effectiveness  of  a  remedial  technique  in  reducing  the 
+likelihood  of  frictional  ignition.  E.g.,  in  investigating  the 
+effect  of  bit  velocity,  a  worn  bit  making  a  deep  spiral  cut 
+in  a  sandstone  block  (5)  gave  ignition  in  3  s  with  a  bit 
+velocity  of  150  cm/s  and  0.3  s  with  a  bit  velocity  of 
+450  cm/s.  The  metal  tool  making  multiple  shallow  cuts  at 
+the  same  location  in  a  sandstone  block  (9)  gave  ignition 
+with  about  175  cuts  with  a  tool  velocity  of  150  cm/s  and 
+75  cuts  with  a  tool  velocity  of  450  cm/s.  The  worn  bit 
+making  multiple  shallow  cuts  at  the  same  location  (10) 
+gave  ignition  with  about  350  and  240  cuts  with  bit  velocities 
+of  100  and  280  cm/s,  respectively.  The  investigators  re- 
+commended that  a  lower  bit  velocity  be  used  to  reduce 
+the  likelihood  of  frictional  ignition. 
+
+However,  the  relationship  between  these  cutting 
+techniques  and  field  cutting  is  not  clear.  It  was  thought 
+advisable  to  simulate  field  cutting  insofar  as  reasonably 
+possible.  A  new  laboratory  frictional  ignition  apparatus 
+was  developed  by  BCRNL  (18).  A  single  field  bit  was 
+mounted  onto  a  field  cutter  drum  rotating  downward  in 
+the  vertical  plane  at  a  typical  field  drum  rotation  speed. 
+A  51-cm-high  block  of  sandstone  containing  78  pet  quartz 
+(from  Cleveland  Quarries,  Berea,  OH)  was  positioned  on 
+a  cart,  with  the  bedding  plane  horizontal,  and  was  moved 
+horizontally  across  the  rotating  drum.  A  series  of  slanted 
+downward  cuts  thus  were  made  in  new  parts  of  the  sand- 
+stone block.  The  block  was  precut  to  excavate  the  circular 
+arc  in  the  block  and  was  positioned  so  that  a  0.6-cm-deep 
+
+
+cut  was  made  by  the  bit  along  the  entire  length  of  the  arc. 
+The  block  and  drum  were  enclosed  in  a  plywood  chamber 
+containing  a  7-pct  methane-air  environment.  The  chamber 
+included  plastic  blowout  panels  to  relieve  the  chamber 
+pressure  when  ignition  occurred.  Figure  9  shows  the  igni- 
+tion chamber. 
+
+The  number  of  cuts  made  by  the  bit  to  ignite  the 
+methane-air  environment  was  counted.  The  number  of 
+cuts  during  1  pass  of  the  block  depended  upon  the  cart 
+speed  and  drum  rotation  speed  and  usually  was  about  20. 
+If  no  ignition  occurred  during  passage  of  the  block,  the 
+block  usually  was  redressed,  repositioned,  and  again  pass- 
+ed across  the  rotating  drum.  The  total  number  of  cuts 
+to  obtain  ignition  was  taken  as  a  measure  of  the  ease  of 
+
+
+sReference  to  specific  products  does  not  imply  endorsement  by  the 
+U.S.  Bureau  of  Mines. 
+
+
+Figure  9.-Frlctional  ignition  chamber. 
+
+
+ignition.  The  number  of  cuts  to  obtain  ignition  when  a 
+remedial  technique  was  used,  such  as  a  lesser  drum 
+rotation  speed  or  a  water  spray,  then  was  measured.  The 
+increase  in  the  number  of  cuts  required  to  obtain  ignition 
+with  the  remedial  technique  was  taken  as  a  measure  of  the 
+effectiveness  of  the  remedial  technique. 
+
+The  present  cutting  technique  is  similar  to  the  tech- 
+nique reported  later  in  reference  19,  in  which  multiple 
+deep  cuts  with  a  worn  field  bit  mounted  on  a  field  shearer 
+drum  rotating  at  a  field  speed  were  made  in  a  sandstone 
+block  being  moved  horizontally  below  the  drum. 
+
+
+The  initial  laboratory  study  described  below  used  a  wet- 
+head  shearer  drum  fabricated  for  a  Joy  Technologies,  Inc., 
+ILS  shearer.  Subsequent  laboratory  studies  used  a  seg- 
+ment of  the  cutter  drum  from  a  used  Joy  12  ripper-type 
+continuous  mining  machine,  which  was  modified  here  to  be 
+a  wet  head  by  using  a  small-diameter  water  seal  attached 
+to  the  end  of  the  drum  shaft.  The  field  study  used  a  wet- 
+head  cutter  drum  on  a  Simmons  Rand  265  ripper  machine 
+that  was  designed  and  fabricated  by  Simmons  Rand  and 
+used  large-diameter  water  seals  from  Cannings  Seals  in 
+Great  Britain. 
+
+
+RESULTS 
+
+
+Six  laboratory  studies  with  water  sprays  were  conducted, 
+four  with  different  rectangular  bits  and  two  with  different 
+conical  bits.  A  third  study  with  conical  bits  and  back 
+sprays  mounted  on  the  wet-head  Simmons  Rand  265  con- 
+tinuous mining  machine  was  conducted  in  the  field. 
+
+RECTANGULAR  BITS 
+
+Kennametal  K-100 
+
+In  1979,  the  Bureau  initiated  a  contract  with  BCRNL 
+(18)  (1)  to  conduct  a  laboratory  study  of  frictional  ignition 
+and  especially  the  effectiveness  of  water  sprays  in  reducing 
+the  likelihood  of  frictional  ignition  with  rectangular  cutting 
+bits  on  a  shearer  drum  and  (2)  to  initiate  and  monitor  a 
+subsequent  field  study.  A  76-cm-wide  wet-head  cutter 
+drum  for  a  Joy  ILS  shearer  expected  to  be  available  for 
+laboratory  tests  at  the  Bureau's  Bruceton  facility  was 
+designed  by  BCRNL  and  AMS  Technology  and  fabricated 
+by  AMS.  The  drum  used  43  bits  and  a  tight  lacing  pat- 
+tern (fig.  10)  designed  for  difficult  cutting  conditions. 
+Scheduling  difficulties  prevented  use  of  the  Joy  ILS  shearer 
+at  Bruceton,  so  the  test  chamber  described  earlier  was 
+used  with  the  ILS  drum. 
+
+Kennametal,  Inc.,  K-100  bits  having  a  2.5-cm-wide  tip 
+were  used  here.  Figure  11  shows  the  side  view  of  the 
+K-100  bit.  The  bit  had  the  conventional,  peak-shaped, 
+tungsten-carbide  and  cobalt  cermet  tip  and  a  shank  made 
+of  AISI  Type  4140  steel.  New  bits  and  bits  that  had  been 
+shortened  by  0.04  to  0.56  cm  and  ground  flat  to  simulate 
+a  worn  field  bit  were  used.  Bit  wear  during  a  test  was 
+negligible.  The  tip-to-tip  diameter  was  137  cm.  A  drum 
+speed  of  47  rpm  was  used  in  most  of  this  study,  giving  a 
+tip  velocity  of  337  cm/s.  A  cart  speed  of  41  cm/min  was 
+usually  used,  giving  about  60  cuts  during  1  pass  of  the 
+51  cm-wide  sandstone  block,  with  one-third  of  the  2.5-cm- 
+wide  bit  tip  cutting  into  fresh  sandstone  and  two-thirds 
+of  the  tip  abrading  the  previously  cut  portion  of  the 
+sandstone. 
+
+Initial  work  used  a  single  bit.  The  hot  streak  formed  on 
+the  surface  of  the  sandstone  by  a  worn  K-100  bit  cutting 
+
+
+into  the  sandstone  block  was  shown  in  figure  4.  Airborne 
+hot  sparks  were  also  formed,  but  motion  picture  and  video 
+
+
+672  mm 
+
+762  mm 
+
+
+90  mm 
+
+
+Figure  "lO.-Bit  lacing  of  Joy  ILS  shearer  drum.    Circled  x's 
+denote  mining  bits. 
+
+
+Figure  1 1  .-Kennametal  K-100  bit 
+
+
+photography  indicated  that  ignition,  with  one  exception,6 
+occurred  at  the  bottom  part  of  the  hot  streak. 
+
+The  number  of  cuts  to  give  frictional  ignition  depended 
+upon  the  amount  of  wear  of  the  bit  tip.  The  average  num- 
+ber of  cuts  to  obtain  ignition  with  worn  bits  is  given  in 
+table  1  and  shown  in  figure  12.  Raw  data  are  given  in  the 
+footnotes  in  table  1.  Results  were  rather  scattered.  Data 
+considered  to  be  probable  "outliers"  due  to  cutting  into 
+damp  sandstone  (see  section  on  GTE  bits)  are  enclosed 
+in  brackets  in  table  1  and  were  ignored  in  calculating  the 
+average  number  of  strikes.  Excluding  outliers,  the  results 
+still  had  considerable  scatter;  i.e.,  the  coefficients  of 
+variation  of  the  sets  of  data  in  the  footnotes  of  table  1  and 
+also  other  sets  of  data  presented  later  in  this  report  ranged 
+from  25  to  80  pet. 
+
+Table  1  .-Effect  of  bit  wear  on  frictional  ignition  with 
+Kennametal  K-100  bit  during  dry  cutting 
+
+Bit  shortening,  Av  number  of  cuts 
+
+cm  for  ignition 
+
+0 *>217 
+
+0.08 2>293 
+
+0.16 345 
+
+0.27 45.8 
+
+0.32 V.O 
+
+0.40 63.3 
+
+0.45 75.5 
+
+0.48 83.6 
+
+0.54 92.2 
+
+xNo  ignition  with  150,  180,  230,  230,  250,  260. 
+
+2No  ignition  with  205,  255,  304,  306,  310,  312,  312,  312,  318. 
+2,  3,  9,  14,  17,  28,  40,  50,  69,  79,  82,  91,  100, 
+[143];  no  ignition  with  [207,  328]. 
+
+44,  4,  7,  8,  [22,  120]. 
+
+52,  3,  3,  3,  3,  4,  4,  5,  5,  6,  6,  6,  9,  9,  11,  12,  12,  12,  13,  16, 
+[34,  38,  39,  50,  58,  60,  61]. 
+
+62,  2,  4,  5,  [14,  42,  57]. 
+
+74,  4,  6,  8,  [13]. 
+
+82,  2,  2,  4,  4,  4,  5,  6,  [14,  91]. 
+
+91,  1,  1,3,3,4,  [17,22]. 
+
+No  ignition  was  obtained  with  217  dry  cuts  with  a  new 
+bit  or  293  cuts  with  a  0.08-cm-worn  bit.  Ignition  was 
+obtained  with  a  slightly  more  worn  bit,  e.g.,  with  an  aver- 
+age of  45  dry  cuts  with  a  0.16-cm-worn  bit  and  5.8  dry  cuts 
+with  a  0.27-cm-worn  bit.  The  steel  shank,  which  became 
+exposed  when  the  bit  was  worn  0.14  cm,  presumably  was 
+the  major  contributor  to  ignition.  The  physical  differ- 
+ence between  a  "safe"  0.08-cm-worn  bit  and  a  "dangerous" 
+0.27-cm-worn  bit  was  only  barely  discernible  in  the 
+laboratory,  and  a  bit  replacement  schedule  in  the  field 
+probably  could  not  be  based  on  visual  observation  of  the 
+extent  of  bit  wear  or  exposure  of  the  steel  shank. 
+
+The  likelihood  of  frictional  ignition  with  a  worn  bit  was 
+not  decreased  with  a  lower  drum  rotation  speed  in  the 
+
+^n  one  test,  ignition  occurred  below  the  block  and  presumably  was 
+due  to  the  hot  sparks  adhering  to  the  floor  of  the  chamber. 
+
+
+JUU 
+
+•  1     1       1 
+
+1                 1 
+
+z 
+
+- 
+
+- 
+
+o 
+
+II 
+
+1- 
+z 
+
+200 
+
+- 
+
+Tungsten     j 
+
+Steel  shank 
+
+- 
+
+o 
+
+carbide        | 
+
+exposed 
+
+DC 
+
+1 
+
+£ 
+
+50 
+
+1 
+
+- 
+
+C/5 
+
+KEY 
+
+h- 
+
+40 
+
+•  No  ignition 
+
+_ 
+
+O 
+
+o   Ignition 
+
+Ll_ 
+
+o 
+
+30 
+
+- 
+
+rr 
+
+UJ 
+
+cu 
+
+?0 
+
+— 
+
+:> 
+
+-} 
+
+?• 
+
+10 
+
+0"*1*2— ^_           0 
+
+1        1          1 
+
+1          ^1           ° 
+
+0 
+
+0.2  0.3  0.4 
+
+BIT  WEAR,  cm 
+
+
+0.5 
+
+
+0.6 
+
+
+Figure  12.-Effect  of  bit  wear  on  frictional  ignition  with 
+Kennametal  K-100  bit 
+
+range  considered  to  be  of  practical  interest.  Results  ob- 
+tained with  a  0.45-cm-worn  bit  during  dry  cutting  are  given 
+in  table  2  and  plotted  in  figure  13.  Ignition  was  obtained 
+with  about  the  same  number  of  cuts  when  the  drum  was 
+operated  with  a  bit  velocity  of  108  or  337  cm/s  (15  or 
+47  rpm).  The  likelihood  of  frictional  ignition  did  rapidly 
+decrease  (the  number  of  cuts  for  ignition  rapidly 
+increased)  with  a  still  lower  drum  speed,  but  such  a  low 
+drum  speed  may  be  impractical  for  underground  mining. 
+
+Table  2.-Effect  of  bit  speed  on  frictional  ignition 
+
+with  0.45-cm-worn  Kennametal  K-100 
+
+bit  during  dry  cutting 
+
+Drum  speed,                         Bit  speed,               Number  of  cuts 
+rpm cm/s for  ignition 
+
+47  337  ^.S 
+
+38  272  12 
+
+27  194  4, 6 
+
+21  150  14 
+
+17  122  8 
+
+15  108  7 
+
+13  93  >117 
+
+9  65 >32 
+
+^e  table  1. 
+
+The  effect  of  water  sprays  from  various  water  spray 
+nozzles  mounted  in  front  or  in  back  of  a  worn  bit  was 
+investigated.  With  a  water  jet  impinging  onto  the  front  of 
+a  0.32-cm-worn  bit,  a  0.2-gpm  jet  was  ineffective  in 
+preventing  ignition;  i.e.,  ignition  occurred  with  nine  cuts 
+during  wet  operation  versus  seven  dry  cuts  (table  1).  A 
+1.1-gpm  front  jet  was  more  effective,  in  that  ignition 
+occurred  with  69  wet  cuts  versus  seven  dry  cuts. 
+
+A  back-mounted  spray  nozzle  whose  spray  impacted  the 
+back  of  a  0.48-cm-worn  bit  was  not  very  effective.   With 
+
+
+120 
+
+
+h-    110- 
+
+
+QC    40 
+O 
+
+
+O     20 
+
+(T 
+UJ 
+
+2     10 
+
+
+KEY 
+
+•  No  ignition 
+o  Ignition 
+
+
+See   table  1 
+
+
+1 
+
+
+200  300 
+
+BIT    VELOCITY,  cm/s 
+
+
+400 
+
+
+Figure  13.-Effect  of  bit  velocity  on  frictional  ignition  with 
+0.45-cm-worn  Kennametal  K-100  bit 
+
+
+a  water  jet,  ignition  was  obtained  with  10  wet  cuts,  while 
+ignition  was  obtained  with  an  average  of  3.6  dry  cuts  (ta- 
+ble 1).  A  fan-type  spray  (Spraying  Systems  Co.  W1502) 
+was  effective  when  the  fan  spray  nozzle  was  operated  at 
+100  psig  because  the  spray  splashed  off  the  back  of  the  bit 
+and  impacted  the  sandstone  surface  within  about  5  cm 
+behind  the  leading  edge  of  the  tip  of  the  bit.  However,  the 
+fan  spray  was  ineffective  if  the  nozzle  was  operated  at 
+140  psig  because  the  splash  impact  zone  then  was  further 
+behind  the  bit;  i.e.,  impacting  the  hot  streak  with  the  water 
+spray  within  about  5  cm  behind  the  bit  tip  appeared  to  be 
+required  to  avoid  ignition.  A  solid-cone  spray  that  im- 
+pinged onto  the  back  of  the  bit  similarly  gave  only  a 
+modest  anti-ignition  benefit;  i.e.,  ignition  occurred  with 
+13  wet  cuts  compared  with  3.6  dry  cuts. 
+
+A  fan  spray  impinging  the  freshly  cut  sandstone  surface 
+directly  behind  the  bit,  with  the  fan  oriented  parallel  to 
+and  directed  onto  the  bit  path,  was  somewhat  effective. 
+E.g.,  a  0.3-gpm  fan  spray  did  not  permit  ignition  with  a 
+0.48-cm-worn  bit  with  120  wet  cuts,  while  ignition  was 
+obtained  with  3.6  dry  cuts.  However,  ignition  was  obtained 
+with  90  wet  cuts  with  a  0.80-cm-worn  bit.  Also,  the  fan 
+spray  was  ineffective  when  oriented  perpendicular  to  the 
+bit  path.  Since  the  fan  spray  appeared  to  be  of  only 
+modest  benefit  with  a  very  worn  bit  and  especially  since 
+maintenance  of  a  parallel  orientation  in  the  field  was 
+expected  to  be  difficult  because  of  nozzle  misorientation, 
+no  additional  work  was  done  with  fan  sprays. 
+
+A  cone  spray  was  selected  for  further  work  to  avoid  the 
+nozzle  orientation  problem.  A  solid-cone  spray  was  pre- 
+ferred to  a  hollow-cone  spray  in  order  to  give  better 
+cooling  of  the  hot  streak;  i.e.,  the  solid  circle  of  drops  at 
+the  impaction  plane  obtained  with  a  solid-cone  spray  was 
+expected  to  give  better  cooling  than  the  annular  ring  of 
+drops  obtained  with  a  hollow-cone  spray.  Spray  nozzles 
+giving  a  mean  number  drop  size  of  about  200  /jm,  con- 
+sidered to  be  optimum  for  impaction  coverage  of  a  target 
+surface  (20),  were  chosen.  Only  Spraying  Systems  nozzles 
+
+
+GG3004 
+nozzle 
+
+
+Figure  14.- Anti-ignition  back-spray  and  bit  geometry  with 
+Kennametal  K-100  bit 
+
+
+were  considered  in  this  study  since  the  manufacturer 
+provided  information  on  mean  drop  size.  The  Spraying 
+Systems  nozzles  considered  included  the  GG3  nozzle,  with 
+an  internal  spray  angle  of  60°  (0.9  gpm  at  100  psig)  and 
+the  GG3004  nozzle,  with  an  internal  spray  angle  of  30° 
+(0.5  gpm  at  100  psig). 
+
+The  GG3  spray  at  70  psig  did  not  give  ignition  with 
+115  wet  cuts  with  a  very  worn  bit,  while  ignition  occurred 
+with  an  average  of  3.6  dry  cuts.  Water  consumption  was 
+0.7  gpm  and  thus  somewhat  high.  The  GG3004  nozzle  was 
+selected  for  detailed  work  since  it  involved  a  lesser  water- 
+flow  rate  and  was  considered  to  be  more  practical  for  field 
+mining  operations.  Also,  a  spray  with  a  30°  internal  angle 
+gives  a  greater  water  density  (e.g.,  gallon  per  minute  per 
+square  centimeter)  at  the  impaction  plane  on  the  sand- 
+stone surface  than  a  60°  spray  with  a  similar  flow  rate  and 
+thus  should  give  better  cooling  of  the  hot  streak. 
+
+The  likelihood  of  frictional  ignition  with  a  very  worn  bit 
+was  significantly  reduced  when  the  spray  from  the  GG3004 
+nozzle  located  13  cm  behind  the  bit  tip  impinged  onto  the 
+freshly  cut  sandstone  surface  directly  in  back  of  the  bit. 
+Figure  14  shows  the  spray-bit  geometry  used  here,  with  the 
+spray  nozzle  oriented  50°  to  the  surface  of  the  drum.  At 
+the  impaction  plane,  the  spray  had  a  diameter  of  about 
+6.4  cm  and  an  area  of  33  cm2.  Impingement  of  about 
+10  pet  of  the  spray  water  onto  the  back  of  the  bit  was 
+purposely  selected  here  in  the  event  that  a  smaller  bit  may 
+be  used  in  the  field.  The  spray  nozzle  was  recessed  in  a 
+steel  housing  to  protect  the  nozzle  from  damage  by  broken 
+coal. 
+
+Laboratory  results  with  a  GG3004  nozzle,  showing  the 
+effect  of  waterflow  rate  and  pressure  on  the  number  of 
+
+
+cuts  to  give  ignition  with  worn  bits,  are  given  in  table  3. 
+Ignition  did  not  occur  with  100+  wet  cuts  using  0.4  to 
+0.6  gpm  (70  to  110  psig).  Figure  15  shows  the  effect  of  the 
+back  spray  on  cooling  the  hot  streak  and  is  to  be  com- 
+pared with  figure  4.  The  hot  streak  extended  about  2  cm 
+behind  the  bit  and  thus  existed  for  about  7  ms  before  be- 
+ing cooled  by  the  back  spray.  Ignition  did  occur  in  four 
+out  of  six  tests  (table  3,  footnote  4)  when  the  nozzle  pres- 
+sure was  40  psig  (0.3  gpm),  but  this  low-pressure  spray 
+was  poorly  formed  and  gave  a  poor  impingement  pattern 
+on  the  sandstone  surface. 
+
+Table  3.-Effect  of  Spraying  Systems  GG3004  back  spray  on 
+frictional  ignition  with  worn  Kennametal  K-1 00  bit 
+
+
+Bit  wear, 
+
+Spray 
+
+Av  number  of  cuts 
+
+cm 
+
+Row  rate,  gpm 
+
+Pressure, 
+
+psig 
+
+for  ignition 
+
+0.40 
+
+Dry 
+
+0.44 
+
+.50 
+
+Dry 
+70 
+90 
+
+'3.3 
+2>114 
+3>130 
+
+0.45 
+
+Dry 
+.34 
+.47 
+.56 
+
+Dry 
+40 
+80 
+
+110 
+
+25.5 
+4>65 
+5>98 
+6>119 
+
+0.54 
+
+Dry 
+.44 
+
+Dry 
+70 
+
+'2.2 
+7>120 
+
+1  See  table  1. 
+
+2No  ignition  with  102,  109,  131. 
+
+3No  ignition  with  97,  114,  178. 
+
+415,  15,  43,  76;  no  ignition  with  119,  122. 
+
+530;  no  ignition  with  119,  121,  121. 
+
+6No  ignition  with  115,  117,  120,  120,  124. 
+
+7No  ignition  with  108,  119,  121,  121,  121,  121,  121,  123,  126. 
+
+
+The  above  tests  used  a  single  bit.  With  a  fully  laced 
+drum,  broken  coal  from  nearby  bits  may  interfere  with  the 
+spray  pattern  and  reduce  the  anti-ignition  effectiveness  of 
+the  back  spray.  This  aspect  was  investigated  using  the 
+drum  fully  laced  with  43  bits  making  a  sump-type  cut  into 
+a  152-cm-high,  152-cm-long,  76-cm-wide  block  of  artificial 
+
+
+coal  containing  a  51-cm-high,  76-cm-long,  76-cm-wide 
+sandstone  slab  in  the  bottom  part  of  the  block  (fig.  16).  A 
+GG3004  spray  nozzle  was  located  behind  each  of  the 
+43  bits  as  shown  in  figure  14.  Figure  17  shows  several  of 
+the  bits  with  their  back  sprays.  Total  water  consumption 
+was  22  gpm  when  the  43  sprays  were  operated  at  100  psig. 
+Bits  worn  0.54  cm  were  used  to  subject  the  anti-ignition 
+back  sprays  to  a  severe  test.  The  drum  and  block  were 
+again  enclosed  in  a  wooden  box  containing  a  7-pct 
+methane-air  mixture.  The  drum  was  operated  at  47  rpm. 
+Depth  of  cut  usually  was  0.079  cm/r.  The  time  to  give  ig- 
+nition was  taken  as  a  measure  of  the  ease  of  ignition. 
+
+
+Artificial  coal 
+
+
+Sandstone 
+slab 
+
+
+CJ1 
+
+ro 
+
+o 
+
+3 
+
+
+Figure  16- Artificial  coal  block  containing  sandstone  slab. 
+
+
+********) 
+
+
+Figure  15.-Hot  streak  cooled  by  back  spray. 
+
+
+Figure  17.-Back  sprays  with  fully  laced  Joy  ILS  shearer  drum. 
+
+
+10 
+
+
+No  ignition  occurred  during  50  s  of  dry  cutting  into  the 
+artificial  coal  part  of  the  block.  Results  obtained  with  the 
+drum  cutting  into  the  sandstone  part  of  the  block  are  given 
+in  table  4.  Raw  data  are  again  given  in  the  footnotes,  with 
+tests  considered  to  be  outliers  given  in  brackets.  The 
+17  "dry"  tests  in  brackets  in  footnote  1  were  conducted 
+shortly  after  a  wet  test  and  thus  involved  cutting  into  damp 
+sandstone.  The  bracketed  test  in  footnote  3  involved  bits 
+that  were  severely  worn  on  their  sides  because  of  abrasion 
+of  the  bit  on  the  side  of  the  sandstone  slab;  this  test  was 
+considered  to  be  an  outlier  since  the  back  spray  would  not 
+impact  and  cool  the  hot  streak  formed  on  the  side  of  the 
+sandstone  slab. 
+
+Table  4.-Effect  of  Spraying  Systems  GG3004  back  spray  on 
+frictional  ignition  with  fully  laced  drum  using 
+0.54-cm-worn  Kennametal  K-100  bit 
+
+
+Depth 
+
+Spray 
+
+Av  time 
+for  igni- 
+
+Nozzles 
+
+of  cut, 
+
+Row  rate,            Pressure, 
+
+plugged 
+
+cm/r 
+
+gpm                 psig 
+
+tion,  s 
+
+0.079  .  . 
+
+Dry                  Dry 
+
+> 
+
+0 
+
+0.37                    40 
+
+,253 
+
+0 
+
+.41                     60 
+
+3>75 
+
+9 
+
+.47                    80 
+
+4>73 
+
+0 
+
+.47                    80 
+
+5>65 
+
+4 
+
+.53                   100 
+
+6>63 
+
+0 
+
+.53                  100 
+
+7>69 
+
+9 
+
+.67                  170 
+
+8>68 
+
+0 
+
+.82                   240 
+
+9>92 
+
+9 
+
+0.19  ... 
+
+Dry                 Dry 
+
+1013 
+
+0 
+
+.53                 100 
+
+9>54 
+
+0 
+
+0.58  ..  . 
+
+.53                  100 
+
+9>74 
+
+0 
+
+'3,  6,  8,  9,  10,  12,  22,  30,  [6,  10,  10,  11,  12,  14,  14,  16,  19,  24,  32, 
+34,  34,  38,  42,  42,  48]. 
+238,  68. 
+
+3[22];  no  ignition  with  72,  78. 
+4No  ignition  with  72,  74. 
+5No  ignition  with  50,  80. 
+6No  ignition  with  48,  52,  60,  60,  66,  70,  70,  78. 
+748;  no  ignition  with  75,  83. 
+8No  ignition  with  61,  74. 
+91  test. 
+1012,  14. 
+
+Ignition  occurred  with  an  average  of  13  s  during  dry 
+cutting  into  the  sandstone  slab.  Ignition  was  not  observed 
+in  54+  s  during  wet  cutting  if  the  water  pressure  was 
+60  psig  or  higher.  Ignition  was  observed  in  53  s  when  the 
+water  pressure  was  reduced  to  40  psig. 
+
+No  ignition  occurred  (>65  s)  when  four  adjacent  spray 
+nozzles  were  plugged,  indicating  that  a  back  spray  provided 
+considerable  anti-ignition  protection  in  cooling  the  hot 
+streaks  formed  by  nearby  bits  whose  spray  nozzles  became 
+clogged.  When  nine  adjacent  spray  nozzles  were  plugged, 
+no  ignition  occurred  in  five  of  six  tests  (averaging  >75  s), 
+again  indicating  the  considerable  protection  provided  by  a 
+back  spray  to  nearby  bits. 
+
+The  depth  of  cut  did  not  appear  to  be  significant,  in 
+that  ignition  was  also  obtained  in  13  s  of  dry  cutting  when 
+the  depth  of  cut  was  0.19  cm/r. 
+
+Since  47  rpm  corresponds  to  0.8  rps,  a  13-s  test 
+corresponds  to  10  cuts  by  a  bit.  These  multibit  results  may 
+be  compared  with  the  earlier  single-bit  results,  which  gave 
+ignition  with  2.2  dry  cuts,   and  suggest  that   frictional 
+
+
+ignition  is  less  likely  with  a  multibit  system.  However,  the 
+anti-ignition  protection  provided  by  back  sprays  with  both 
+systems  appears  to  be  very  significant.  Briefly  summarized, 
+the  BCRNL  results  were— 
+
+1.  In  dry  cutting, 
+
+a.  No  frictional  ignition  occurred  using  new  or 
+slightly  worn  bits  but  ignition  readily  occurred  with  a  few 
+cuts  using  slightly  more  worn  bits; 
+
+b.  Decreased  bit  velocity  (in  the  range  considered 
+to  be  of  practical  interest)  had  negligible  effect  on  reduc- 
+ing the  likelihood  of  frictional  ignition  using  very  worn  bits. 
+
+2.  In  wet  cutting  with  very  worn  bits, 
+
+a.  Frictional  ignition  readily  occurred  when  the  wa- 
+ter spray  impinged  onto  the  bit; 
+
+b.  The  likelihood  of  ignition  was  significantly  re- 
+duced if  the  spray  from  a  Spraying  Systems  GG3004  nozzle 
+impinged  onto  the  freshly  cut  sandstone  surface  directly 
+behind  the  bit  when  the  nozzle  was  operated  at  80  to 
+240  psig  (0.47  to  0.82  gpm),  but  ignition  occurred  when  the 
+nozzle  was  operated  at  40  psig; 
+
+c.  The  broken  coal  did  not  significantly  interfere 
+with  the  anti-ignition  effectiveness  of  the  back  spray, 
+
+d.  No  ignition  occurred  when  four  adjacent  nozzles 
+were  plugged,  and  the  likelihood  of  ignition  was  signifi- 
+cantly reduced  when  nine  adjacent  nozzles  were  plugged. 
+
+BCRNL  recommended  that  a  Spraying  System  GG3004 
+spray  nozzle  giving  a  solid-cone  spray  be  located  behind 
+each  cutter  bit,  be  carefully  oriented  so  that  the  spray 
+water  impinged  onto  the  freshly  cut  mineral  surface  directly 
+behind  the  bit,  and  be  operated  at  80  to  100  psig  (0.5  gpm) 
+at  the  nozzle. 
+
+An  early  field  test  with  an  anti-ignition-modified 
+Joy  ILS  drum  using  back  sprays  that  extended  03  cm 
+beyond  their  steel  protective  housings  failed  because  of 
+breakage  of  the  spray  nozzles.  Field  tests  with  the  anti- 
+ignition-modified  Joy  ILS  drum  using  the  recessed  spray 
+nozzle  shown  in  figure  14  were  cancelled  because  of  the 
+unavailability  of  a  field  shearer. 
+
+Carmet  TC3 
+
+A  mining  company  purchased  anti-ignition  shearer 
+drums  with  Carmet  (Allegheny  Ludlum  Industries  Co.) 
+TC3  rectangular  bits  and  specified  back-mounted  Senior 
+Conflow,  Inc.,  280INC  spray  nozzles  instead  of  the  Spray- 
+ing Systems  GG3004  nozzles  because  of  easier  nozzle  re- 
+placement. The  280INC  nozzle  gives  a  solid-cone  spray 
+having  about  the  same  spray  geometry  and  waterflow  rate 
+(0.4  gpm  at  100  psig)  as  the  GG3004  nozzle  and  was  ex- 
+pected to  provide  similar  anti-ignition  protection. 
+
+However,  several  frictional  ignitions  occurred  in  the 
+field  with  the  anti-ignition-modified  drums.  The  mine  op- 
+erator had  experienced  nozzle  clogging  and  had  attempted 
+to  avoid  clogging  by  (1)  modifying  half  of  the  280INC 
+nozzles  so  that  they  delivered  a  hollow-cone  spray  instead 
+of  the  solid-cone  spray  and  (2)  increasing  the  water 
+pressure  to  300  psig  instead  of  using  the  80-  to  100-psig 
+
+
+11 
+
+
+range  recommended  by  BCRNL.  Furthermore,  the  opera- 
+tor planned  to  use  Senior  Conflow  777NC  nozzles 
+operated  at  500  psig  in  the  future.  While  the  general  spray 
+characteristics  of  the  777NC  nozzle  are  similar  to  those  of 
+the  280INC  and  GG3004  nozzles  and  should  provide  simi- 
+lar anti-ignition  protection  at  100  psig,  the  anti-ignition 
+performance  of  these  nozzles  at  300  and  500  psig  was 
+unknown. 
+
+Numerous  in-mine  tests  have  indicated  that  nozzle 
+clogging  due  to  dirty  water  entering  the  mining  machine 
+can  he  easily  avoided  with  a  Bureau-designed  nonclogging 
+system  (21),  which  involves  a  Y-type  strainer,  a  hydro- 
+cyclone,  and  a  polishing  filter.  Rust  and  scale  particles 
+that  form  in  the  water  channels  inside  the  machine  can  be 
+eliminated  with  screens  installed  in  each  spray  nozzle. 
+Otherwise,  regarding  modification  1,  the  anti-ignition 
+performance  of  a  hollow-cone  spray  had  not  been 
+investigated  but  was  expected  to  be  less  than  that  provided 
+by  a  solid-cone  spray  because  of  lesser  cooling  of  the  hot 
+streak  by  the  annular  drop-impaction  pattern  instead  of  the 
+solid-circle  pattern.  Regarding  modification  2,  a  nozzle 
+operated  at  high  pressure  tends  to  give  a  fine  mist  instead 
+of  the  coarse  spray  obtained  when  the  nozzle  is  operated 
+at  lower  pressure.  Misting  is  undesirable  from  an  anti- 
+ignition  viewpoint  since  the  small  mist  drops  rapidly  lose 
+their  momentum  and  would  be  less  likely  to  impact  the 
+sandstone  surface  and  cool  the  hot  streak. 
+
+Laboratory  tests  with  the  Carmet  TC3  bit  were 
+conducted  by  the  Bureau  to  investigate  the  anti-ignition 
+performance  of  the  280INC  and  777NC  nozzles,  especially 
+when  operated  at  high  pressure.  Figure  18  shows  the 
+1.3-cm-wide  Carmet  TC3  bit.  TC3  bits  were  shortened  by 
+0.32  and  0.43  cm  and  flattened  to  simulate  field  bits  that 
+had  become  worn  in  order  to  expose  the  incendive  steel 
+
+
+Carbide  tip- 
+
+
+shank  and  subject  the  back  sprays  to  a  severe  test. 
+Previous  work  (with  the  GTE  bit  described  later)  had 
+indicated  that  ignition  with  sandstone  that  had  been 
+dampened  by  a  previous  wet  test  was  more  difficult,  i.e., 
+required  more  cuts  for  ignition.  Therefore,  a  sequence  of 
+only  two  ignition  tests  were  made  per  day.  The  first  test 
+was  conducted  dry  to  confirm  that  the  sandstone  was 
+suitably  dry.  The  second  test  was  conducted  wet.  Tests 
+were  then  stopped,  and  a  space  heater  was  installed  in  the 
+chamber  to  dry  the  sandstone  block  overnight.  A  new  dry- 
+wet  sequence  of  two  tests  was  conducted  the  next  day. 
+
+Results  are  given  in  table  5.  Frictional  ignition  with 
+the  0.32-cm-worn  TC3  bit  was  obtained  with  an  average  of 
+4.0  dry  cuts  but  was  not  obtained  with  about  65  wet  cuts 
+using  either  the  280INC  nozzle  operated  at  100,  300,  and 
+500  psig  (0.4,  1.1,  and  1.1  gpm)  or  the  777NC  nozzle  op- 
+erated at  100  and  300  psig  (0.4  and  0.8  gpm).  However, 
+with  the  0.43-cm-worn  bit,  ignition  was  obtained  with 
+19  and  9  wet  cuts  when  the  777NC  nozzle  was  operated  at 
+100  and  300  psig  and  in  1  of  2  tests  performed  at  500  psig 
+versus  the  average  of  2.4  dry  cuts  for  ignition. 
+
+Table  5. -Ignition  results  with  Carmet  TC3  bit 
+and  Senior  Conflow  back  spray 
+
+
+Bit 
+
+Nozzle 
+
+Spray 
+
+Av  number 
+
+wear, 
+
+Flow  rate, 
+
+Pressure, 
+
+of  cuts  for 
+
+cm 
+
+gpm 
+
+psig 
+
+Ignition 
+
+0.32  .  . 
+
+Dry 
+
+Dry 
+
+Dry 
+
+U.o 
+
+280INC 
+
+0.4 
+
+100 
+
+2>66 
+
+280INC 
+
+1.1 
+
+300 
+
+3>65 
+
+280INC 
+
+1.1 
+
+500 
+
+4>63 
+
+777NC 
+
+.4 
+
+100 
+
+5>68 
+
+777NC 
+
+.8 
+
+300 
+
+6>69 
+
+0.43  . . 
+
+Dry 
+
+Dry 
+
+Dry 
+
+72.4 
+
+777NC 
+
+.4 
+
+100 
+
+819 
+
+777NC 
+
+.8 
+
+300 
+
+99.0 
+
+777NC 
+
+1.3 
+
+500 
+
+10>36 
+
+Figure  18.-Carmet  TC3  bit 
+
+
+*2,  2,  2,  3,  3,  3,  4,  4,  5,  7,  8. 
+No  ignition  with  65,  68. 
+3No  ignition  with  62,  64,  68. 
+4No  ignition  with  62,  64. 
+sNo  ignition  with  68,  68,  68. 
+6No  ignition  with  68,  70. 
+nZ,  2,  2,  2,  2,  3,  3,  3. 
+81  test 
+95,  9,  12. 
+
+10 
+
+4;  no  ignition  with  68. 
+
+As  with  the  Kennametal  K-100  bit,  the  physical  differ- 
+ence between  the  "safe"  0.32-cm-worn  bit  and  the  "danger- 
+ous" 0.43-cm-worn  bit  when  using  back  sprays  was  barely 
+discernible  in  the  laboratory;  e.g.,  the  lengths  of  the  ex- 
+posed steel  shanks  were  1.7  and  2.2  cm,  respectively. 
+
+Since  the  areas  of  the  exposed  steel  shanks  of  the  worn 
+Carmet  TC3  and  the  Kennametal  K-100  bits  are  com- 
+parable and  the  worn  K-100  bit  was  easily  protected  with 
+the  Spraying  Systems  GG3004  nozzle  operated  at  0.5  gpm 
+and  100  psig,  the  Senior  Conflow  280INC  and  777NC 
+sprays  as  used  here  appear  to  be  somewhat  less  protective 
+than  the  Spraying  Systems  GG3004  nozzle. 
+
+Operation  of  either  the  280INC  or  777NC  nozzle  at 
+300  psig  and  especially  at  500  psig  would  appear  to  offer 
+
+
+12 
+
+
+no  anti-ignition  advantage  and  would  definitely  be  dis- 
+advantageous in  terms  of  high  waterflow  rate  and  the  usual 
+expense  and  inconvenience  of  operating  at  high  water 
+pressure. 
+
+It  may  be  that  the  several  field  ignitions  with  the  anti- 
+ignition  drums  involved  nozzle  clogging. 
+
+AMS  THRU-FLUSH 
+
+Sometimes  there  may  be  insufficient  physical  space  on 
+the  cutter  drum  to  locate  a  spray  nozzle  on  the  drum 
+directly  behind  each  bit  as  shown  in  figure  14.  The  back- 
+mounted  anti-ignition  spray  nozzles  then  must  be  located 
+to  one  side  of  the  bit,  or  some  other  physical  change  in  the 
+nozzle-bit  geometry  must  be  considered. 
+
+One  approach  is  to  install  the  spray  nozzle  directly  in 
+the  back  part  of  the  bit  shank.  Such  a  bit  is  commercially 
+available  from  AMS  Technology  and  is  called  a  THRU- 
+FLUSH  bit.  AMS  offers  either  a  slot-type  spray  nozzle, 
+which  gives  a  fan  spray  whose  orientation  is  fixed  and 
+directed  onto  the  bit  path,  or  a  solid-cone  spray.  AMS 
+reported  that  field  tests  indicate  that  the  fan  spray  gives  a 
+significant  reduction  in  respirable  dust  compared  with  both 
+the  AMS  cone  spray  and  a  conventional  boom-mounted 
+water  spray  system. 
+
+The  anti-ignition  performance  of  the  fan-spray  version 
+of  the  THRU-FLUSH  bit  was  investigated  in  the  labora- 
+tory. In  initial  work,  the  THRU-FLUSH  bit  was  cut  down 
+1.3  cm  and  flattened  to  expose  the  steel  shank  behind  the 
+carbide  section  in  the  front  part  of  the  bit  tip  but  still 
+protect  the  recessed  spray  nozzle,  thereby  simulating  a 
+worn  field  bit.  However,  reproducibility  was  poor  because 
+the  trailing  steel  section  of  the  flattened  tip  became  worn 
+in  an  irregular  manner.  The  front  carbide  section  of  the 
+tip  was  cut  down  another  0.6  cm  so  that  only  the  flattened 
+steel  shank  was  abrading  the  sandstone  surface.  Figure  19 
+shows  the  2.5-cm-wide  THRU-FLUSH  bit  on  the  left  and 
+the  modified  bit  used  in  the  present  ignition  tests  on  the 
+right.  Figure  20  shows  the  THRU-FLUSH  bit  with  the  fan 
+back  spray  operated  at  100  psig.  The  water  density  in  the 
+spray  shown  in  figure  20  was  less  near  the  bit  tip  than 
+farther  behind  the  tip.  This  spray  inhomogeneity  may  have 
+been  due  to  a  faulty  spray  nozzle,  but  this  aspect  was  not 
+examined. 
+
+A  38-cm-wide,  51-cm-high  sandstone  block  was  used  in 
+these  tests.  The  block  was  moved  at  23  cm/min  across 
+the  drum  being  rotated  at  39  rpm,  giving  about  65  cuts 
+during  1  pass  of  the  block.  About  one-fourth  of  the  bit  tip 
+cut  into  a  fresh  part  of  the  sandstone  block  and  three- 
+fourths  of  the  tip  abraded  the  previously  cut  part  of  the 
+block. 
+
+Results  are  given  in  table  6.  The  outlier  in  footnote  2 
+occurred  when  the  side  of  the  bit  abraded  the  side  of  the 
+sandstone  block.  Frictional  ignition  was  obtained  with  an 
+average  of  3.7  dry  cuts  and  was  not  obtained  with  63+  wet 
+
+
+Carbide  tip 
+
+
+Water 
+channel 
+
+
+New  bit 
+
+
+Test   bit 
+
+
+Figure  19.-AMS  THRU-FLUSH  bit  (left)  and  test  bit  (right). 
+
+
+Figure  20  -AMS  THRU-FLUSH  bit  with  fan  back  spray  at  100 
+psig. 
+
+
+13 
+
+
+cuts.  The  AMS  fan  spray  thus  significantly  reduced  the 
+likelihood  of  frictional  ignition  with  the  THRU-FLUSH 
+bit,  although  the  water  consumption  of  1  gpm  was  some- 
+what high. 
+
+Table  6.-lgnition  results  with  AMS  THRU-FLUSH 
+bit  using  fan-type  back  spray 
+
+
+The  anti-ignition  performances  of  the  Hydra  Tools 
+spray  systems  were  investigated.  The  Hydra  Tools 
+tungsten-carbide  tip  was  replaced  with  a  steel  tip  having 
+the  same  geometry  in  order  to  investigate  the  effectiveness 
+of  the  back  spray  under  severe  conditions.  A  new  steel  tip 
+
+
+Spray 
+
+Av 
+
+number  of  cuts 
+
+Row  rate, 
+
+gpm 
+
+Pressure, 
+
+psig 
+
+for  ignition 
+
+Dry 
+
+Dry 
+
+l3.7 
+
+0.9 
+
+50 
+
+2>64 
+
+1.1 
+
+100 
+
+3>67 
+
+1.1 
+
+300 
+
+4>64 
+
+1.1 
+
+500 
+
+S>63 
+
+H,  2,  2,  2,  2,  2,  3,  3,  3,  3,  3,  3,  4,  4,  5,  7,  8,  10. 
+
+2[64];  no  ignition  with  64,  64. 
+3No  ignition  with  65,  68,  68,  68. 
+4No  ignition  with  62,  64,  67. 
+5No  ignition  with  62,  64. 
+
+Hydra  Tools  HP74ISR 
+
+A  rectangular  bit  that  incorporates  a  water  spray  nozzle 
+mounted  on  the  cutter  drum  directly  behind  the  bit,  with 
+the  spray  passing  through  a  channel  in  the  bit  block  and 
+impinging  onto  the  mineral  surface  in  back  of  the  bit,  is 
+commercially  available  from  Hydra  Tools  International, 
+Inc.  (HP74ISR).  Spray  nozzles  giving  solid-cone  and  jet 
+sprays  are  offered.  Figure  21  shows  the  2.5-cm-wide  bit. 
+Figure  22  shows  the  cone  version  of  the  Hydra  Tools  back 
+spray,  and  figure  23  shows  the  jet  version,  with  both  spray 
+nozzles  operated  at  150  psig. 
+
+
+Figure  22.-Hydra  Tools  HP74ISR  bit  with  cone  back  spray  at 
+100  psig. 
+
+
+Carbide   tip- 
+
+
+Figure  21. -Hydra  Tools  HP74ISR  bit 
+
+
+Figure  23.-Hydra  Tools  HP74ISR  bit  with  jet  back  spray  at  100 
+psig. 
+
+
+14 
+
+
+was  used  in  each  test.  The  51-cm-wide  sandstone  block 
+was  moved  at  84  or  127  cm/min  across  the  drum  being 
+rotated  at  42  rpm,  giving  26  or  17  cuts  during  1  pass  of  the 
+block,  with  80  and  100  pet  of  the  width  of  the  cuts,  respec- 
+tively, made  in  fresh  sandstone.  The  total  number  of  cuts 
+to  obtain  ignition  with  a  new  steel  tip  was  counted. 
+
+Results  (table  7)  did  not  depend  upon  cart  speed.  The 
+three  bracketed  tests  in  footnote  1  involved  cutting  into 
+damp  sandstone.  Ignition  was  obtained  with  an  average  of 
+5.7  dry  cuts.  No  ignition  was  obtained  with  the  cone  or  jet 
+spray  with  an  average  of  132  or  more  cuts.  The  cone 
+spray  perhaps  could  be  considered  less  protective  than  the 
+jet  spray,  in  view  of  the  two  ignitions  in  three  tests  at  100 
+psig,  but  additional  replicate  tests  are  required.  The  jet 
+spray  definitely  involves  considerably  greater  water 
+consumption. 
+
+Table  7.-lgnition  results  with  Hydra  Tools  HP74ISR 
+bit  with  back  spray 
+
+
+Nozzle 
+
+Spray 
+
+Av  number  of  cuts 
+
+Row  rate, 
+
+gpm        Pressure, 
+
+psig 
+
+for  ignition 
+
+Dry    .  .  . 
+
+Dry 
+
+Dry 
+
+'5.7 
+
+Cone  .  . 
+
+1.3 
+
+100 
+
+2>132 
+
+Do  ... 
+
+1.6 
+
+150 
+
+3>203 
+
+Jet 
+
+3 
+
+100 
+
+4>155 
+
+Do  ... 
+
+5 
+
+150 
+
+4>182 
+
+l1,  2,  2,  2,  2,  2,  2,  3,  3,  5,  5,  5,  5,  6,  6,  6,  7,  8,  9,  11,  12,  13,  14; 
+no  ignition  with  [16,  17,  18]. 
+261,  136;  no  ignition  with  199. 
+
+
+..,.._  ignition  with  199 
+3No  ignition  with  102,  303, 
+41  test 
+
+
+The  present  results  indicate  that  the  Hydra  Tools  back- 
+spray  system  is  effective  in  reducing  the  likelihood  of 
+frictional  ignition  with  a  worn  version  of  their  bit.  Of 
+course,  ignition  with  only  a  few  dry  cuts  with  the  present 
+steel-tipped  bit  does  not  indicate  the  ignition  performance 
+of  the  commercial  Hydra  Tools  bit  with  its  tungsten- 
+carbide  tip. 
+
+CONICAL  BITS 
+
+About  75  pet  of  the  frictional  ignition  incidents  in  U.S. 
+coal  mines  (fig.  2)  involved  ripper-type  continuous  mining 
+machines.  Application  of  the  back-spray  concept  to  a 
+ripper  machine  involves  (1)  the  design  and  fabrication  of 
+a  wet-head  ripper  drum  using  durable  large-diameter 
+water  seals  and  (2)  careful  installation  of  properly 
+engineered  water  spray  nozzles  behind  each  cutter  bit. 
+
+In  the  early  1970's  several  Bureau-funded  field  stud- 
+ies (22)  investigated  the  effect  of  drum-mounted  water 
+spray  nozzles  on  respirable  dust  with  wet-head  ripper 
+machines,  using  state-of-the-art  water  seals.  Results 
+indicated  that  water  sprays  mounted  on  the  ripper  drum  in 
+the  general  vicinity  of  the  cutter  bits  reduced  respirable 
+dust  compared  with  conventional  boom-mounted  water 
+sprays  and  did  not  interfere  with  visibility  or  splash  onto 
+
+
+the  machine  operator.  However,  seal  life  was  severely 
+limited.  A  durable,  large-diameter  water  seal  was  recently 
+developed  by  Cannings  Seals  in  Great  Britain  and  has 
+been  successfully  used  in  mining  equipment  in  Europe  and 
+elsewhere  for  several  years.  A  wet-head  cutter  drum  for 
+a  Simmons  Rand  265  continuous  mining  machine  using 
+Cannings  water  seals  was  designed  and  fabricated  by 
+Simmons  Rand  under  Bureau  contract  J0395040. 
+
+However,  a  ripper  drum  usually  uses  conical  bits  with 
+a  small  bit  attack  angle  while  a  shearer  drum  usually  uses 
+rectangular  bits  with  a  large  attack  angle.  In  addition,  the 
+bit  and  bit  block  of  a  conical  bit  may  physically  interfere 
+with  the  back  spray  impacting  the  mineral  surface  immedi- 
+ately behind  the  bit  to  a  greater  extent  than  occurs  with  a 
+rectangular  bit  system  such  as  described  previously.  Also, 
+there  may  be  insufficient  physical  space  on  the  ripper 
+drum  to  locate  an  anti-ignition  spray  nozzle  directly  behind 
+each  bit,  and  the  back-mounted  spray  nozzle  for  a  ripper 
+drum  may  have  to  be  located  to  one  side  of  the  bit  and 
+further  away  from  the  mineral  surface.  The  design  of  an 
+anti-ignition  back-spray  system  for  a  conical  bit  on  a  ripper 
+drum  thus  may  be  more  difficult  than  for  a  rectangular 
+(radial)  bit  on  a  shearer  drum  because  of  spray-bit 
+geometry. 
+
+A  laboratory  study  of  the  anti-ignition  performance  of 
+several  types  of  back-spray  nozzles  with  a  typical  conical 
+bit  using  the  wet-head  segment  of  a  Joy  12CM  drum  is 
+described  in  the  following  section.  A  recent  field  study  of 
+a  specific  back-located  spray  nozzle  with  several  types  of 
+conical  bits  using  the  fully  laced  Simmons  Rand  265  wet- 
+head  drum  is  described  later. 
+
+GTE 
+
+A  commercial  "double-carbide"  GTE  Corp.  conical  bit 
+being  used  in  a  coal  mine  in  which  a  future  field  test  was 
+expected  to  be  performed  was  tested  with  the  wet-head 
+segment  of  the  Joy  12CM  drum.  The  commercial  bit 
+block  gave  a  bit  attack  angle  of  45°.  The  bit  and  bit  block 
+involved  considerable  interference  with  the  back  spray  im- 
+pacting the  mineral  surface  immediately  behind  the  bit. 
+This  interference  was  especially  severe  for  a  bit  mounted 
+on  the  end  of  the  drum. 
+
+The  effect  of  spray  parameters  for  a  single  conical  bit 
+mounted  in  the  middle  or  at  the  end  of  the  drum  was  in- 
+vestigated. Water  spray  nozzles  were  located  on  the  cutter 
+drum  in  back  of  and,  because  of  space  limitations  with  the 
+Joy  12CM  as  laced,  to  one  side  of  the  bit.  The  spray 
+nozzles  were  about  10  cm  from  the  tips  of  the  bits.  It  was 
+expected  that  a  field  drum  would  channel  water  through  a 
+scroll  mounted  on  the  outer  surface  of  the  drum.  The 
+spray  nozzles  were  mounted  2  cm  above  the  surface  of  the 
+drum  to  simulate  a  field  drum  with  scroll.  A  universal 
+joint  was  used  to  facilitate  nozzle  orientation.  Figure  24 
+shows  the  end  bit  with  its  spray  nozzle. 
+
+
+15 
+
+
+Figure  24. -Back  spray  and  conical  bit  located  at  end  of  cutter 
+drum. 
+
+
+Figure  25.-New  and  0.5-  and  0.75-cm-worn  GTE  bits,  left  to 
+right 
+
+
+The  base  of  the  bit  was  cut  with  a  slot  that  fit  over  a 
+tongue  in  the  bit  block  to  prevent  the  bit  from  rotating 
+during  cutting.  The  tip  of  the  bit  was  shortened  by  0.5  or 
+0.75  cm  and  then  cut  to  have  a  flat  surface  to  simulate  a 
+field  bit  that  had  become  frozen  and  had  worn  a  wear  flat. 
+The  flattened  bit  purposely  exposed  part  of  the  steel  shank 
+in  order  to  submit  the  anti-ignition  back  spray  to  a  severe 
+test.  The  wear  flat  was  about  2.5  cm  wide  and  3  cm  long. 
+Figure  25  shows  a  new  bit  on  the  left  and  0.5-  and 
+0.75-cm-worn  bits  for  the  end  location  in  the  middle  and 
+on  the  right.  A  newly  fabricated  flattened  bit  was  "worn 
+in"  with  100  cuts  to  match  the  flat  on  the  bit  to  the  exca- 
+vated arc  in  the  51-  by  51-  by  51-cm  block  of  sandstone. 
+With  the  typical  cart  speed  of  28  or  71  cm/min  and 
+the  drum  speed  of  39  rpm  used  in  the  field,  about  70  or 
+
+
+29  cuts  were  respectively  made  in  the  block  during  1  pass. 
+With  the  slower  cart  speed,  about  33  pet  of  the  bit  cut 
+into  sandstone  and  67  pet  abraded  the  previously  cut  sur- 
+face of  the  sandstone.  With  the  faster  cart  speed,  about  60 
+pet  of  the  bit  cut  into  sandstone  and  40  pet  abraded  the 
+previously  cut  surface. 
+
+The  sandstone  used  in  these  studies  readily  absorbed 
+water,  and  frictional  ignition  with  a  damp  sandstone 
+surface  that  had  been  moistened  by  weather  or  a  previous 
+wet  test  was  more  difficult  (required  more  cuts)  than  with 
+a  dry  sandstone  surface.  In  four  instances  involving  a 
+sequence  of  dry-wet-dry  tests  with  a  0.75-cm-worn  middle 
+bit,  the  second  "dry"  test  involved  cutting  into  the 
+dampened  sandstone  and  required  an  average  of  22.5  cuts 
+for  ignition  instead  of  the  average  of  4.7  cuts  in  the  first 
+dry  test  using  sandstone  that  had  been  dried  overnight. 
+Later  tests  therefore  involved  only  one  wet  test  per  day, 
+with  the  sandstone  block  then  dried  overnight  with  a  space 
+heater. 
+
+The  present  wet  results  were  very  sensitive  to  the 
+precise  orientation  of  the  back  spray  nozzle,  in  that 
+changing  the  aim  of  the  nozzle  relative  to  the  bit  by  only 
+a  few  degrees  significantly  decreased  the  anti-ignition 
+effectiveness  of  the  back  spray.  This  decrease  appeared  to 
+be  due  to  water  impacting  the  bit  and  bit  block;  i.e.,  such 
+water  again  seemingly  was  wasted  in  terms  of  anti-ignition 
+performance.  The  spray  nozzles  were  oriented  initially  by 
+visually  observing  the  spray  impaction  pattern  on  a  plastic 
+sheet  held  to  simulate  the  impaction  plane  on  the 
+sandstone  and  later  by  using  a  template. 
+
+Results  are  given  in  table  8  and  reported  in  refer- 
+ence 23.  Bracketed  tests  in  the  footnotes  were  considered 
+to  be  outliers  due  to  cutting  into  damp  stone  or  to  a  poor 
+nozzle  orientation.  Ignition  with  worn  bits  again  was 
+readily  obtained  with  only  a  few  dry  cuts.  There  was  no 
+drastic  difference  at  the  middle  and  end  locations;  e.g., 
+with  a  0.75-cm-worn  bit,  ignition  was  obtained  with  an 
+average  of  4.7  dry  cuts  with  the  middle  bit  and  5.0  dry  cuts 
+with  the  end  bit.  Results  did  not  depend  upon  cart  speed. 
+
+As  before,  the  likelihood  of  frictional  ignition  during  dry 
+cutting  was  not  appreciably  reduced  when  the  drum  speed 
+was  decreased;  i.e.,  with  the  0.75-cm-worn  middle  bit, 
+ignition  was  obtained  with  5  and  7  dry  cuts  in  2  tests  when 
+the  drum  was  operated  at  20  rpm  compared  with  the 
+average  of  4.7  cuts  when  the  drum  was  operated  at 
+39  rpm. 
+
+Wet  cutting  with  a  carefully  oriented  back  spray  again 
+significantly  reduced  the  likelihood  of  frictional  ignition. 
+With  0.5-cm-worn  middle  and  end  bits,  ignition  was  ob- 
+tained with  an  average  of  6.9  and  2.8  dry  cuts  and  was  not 
+obtained  with  60+  and  40+  wet  cuts.  Similarly,  with 
+0.75-cm-worn  middle  bits,  ignition  was  obtained  with 
+4.7  dry  cuts  and  was  not  obtained  with  39+  wet  cuts. 
+
+The  planned  field  test  was  canceled  by  the  coal  mine 
+operator. 
+
+
+16 
+
+
+Table  8.-lgnition  results  with  GTE  conical  bit  and  Spraying  Systems  back  spray 
+
+
+Spray 
+
+Bit  wear, 
+cm 
+
+Av  number  of  cuts 
+
+Nozzle 
+
+Flow  rate, 
+gpm 
+
+Pressure, 
+psig 
+
+Internal 
+angle,  deg 
+
+for  ignition 
+
+Middle  bit                 End  bit 
+
+Dry 
+
+GG3 . . .  . 
+3002.5  .  . 
+3004    . .. 
+
+TTD3-56 
+TTD2-56 
+
+
+Dry 
+Dry 
+Dry 
+0.7 
+.8 
+.9 
+.3 
+.3 
+.4 
+.4 
+.5 
+.5 
+.5 
+.5 
+.6 
+.4 
+.5 
+
+
+Dry 
+
+Dry 
+
+Dry 
+
+60 
+
+80 
+
+100 
+
+60 
+
+80 
+
+110 
+
+60 
+
+80 
+
+80 
+
+110 
+
+100 
+
+150 
+
+100 
+
+150 
+
+
+Dry 
+Dry 
+Dry 
+60 
+60 
+60 
+35 
+35 
+35 
+30 
+30 
+30 
+30 
+25 
+25 
+20 
+20 
+
+
+New 
+0.50 
+.75 
+.75 
+.75 
+.75 
+.75 
+.75 
+.75 
+.50 
+.50 
+.75 
+.75 
+.50 
+.50 
+.50 
+.50 
+
+
+z6.9 
+44.7 
+
+
+'>69 
+
+841.7 
+>>47 
+l>72 
+2>60 
+!>39 
+(>54 
+
+
+5  >  67.2 
+
+5  >  59.3 
+
+
+'>47 
+32.8 
+55.0 
+629 
+
+s>42 
+
+5>24 
+
+
+°>59 
+}>20.5 
+
+
+'>24 
+
+
+16 
+
+
+19 
+
+
+14 
+'34 
+
+
+39.5 
+l>69.5 
+
+
+*24;  no  ignition  with  70. 
+
+
+23,  4,  5,  5,  6,  7,  10,  11,  11,  [17,  23,  23,  27,  44,  59,  72];  no  ignition  with  [50,  72,  76]. 
+
+31,  1,2,7. 
+
+41,  1,  2,  2,  2,  2,  2,  3,  3,  3,  3,  3,  3,  4,  4,  4,  4,  4,  5,  5,  5,  5,  5,  5,  6,  6,  6,  6,  7,  7,  7,  7,  8,  8,  8,  8,  9,  [14,  14,  16,  16,  26,  32,  35];  no  ignition  with  [36]. 
+
+51,  1,  2,  2,  2,  2,  2,  2,  2,  2,  2,  2,  2,  3,  4,  4,  4,  5,  5,  6,  6,  7,  7,  7,  8,  8,  9,  9,  9,  10,  10,  14,  [14,  14,  26,  28];  no  ignition  with  [61]. 
+
+61  test. 
+
+
+766;  no  ignition  with  69,  72 
+
+828,  35,  62. 
+
+9[7],  29;  no  ignition  with  65. 
+
+1015;  no  ignition  with  26. 
+
+uNo  ignition  with  70,  72,  72,  73,  73. 
+
+1227;  no  ignition  with  74,  80. 
+
+1323,  26,  26;  no  ignition  with  81. 
+
+1414,  no  ignition  with  24,  33,  58,  74,  75,  75. 
+
+15[3,  4,  6];  no  ignition  with  24. 
+
+16[3],  14. 
+
+[6],  34. 
+
+No  ignition  with  62,  67,  67,  67,  73. 
+
+[5],  24,  27,  47,  60. 
+^No  ignition  with  33,  67,  67,  70. 
+21No  ignition  with  69,  70. 
+
+NOTE.-Dashes  indicate  no  tests  were  performed  under  these  conditions. 
+
+
+17 
+
+
+19 
+
+
+Anti-Ignition-Modified  Cutter  Drum  for 
+
+Simmons  Rand  265  Continuous 
+
+Mining  Machine 
+
+The  bit  lacing  for  the  wet-head  Simmons  Rand  265  rip- 
+per machine  was  designed  by  AMS  for  moderate  cutting 
+conditions  occurring  in  a  specific  mine  that  had  a  history 
+of  frictional  ignitions  and  was  expected  to  provide  a  field 
+test  site.  The  drum  was  laced  with  a  total  of  76  AMS 
+conical  bits,  72  bits  in  the  center  part  of  the  drum  and  2 
+bits  in  the  middle  part  of  each  end  of  the  drum.  The  bit 
+blocks  gave  a  bit  attack  angle  of  52°.  Sufficient  space  was 
+available  to  install  water  spray  nozzles  about  18  cm  behind 
+the  tip  of  each  of  the  72  center  bits.  Figure  26  shows 
+several  of  the  center  bits  and  their  spray  nozzles.  No  spray 
+nozzles  were  used  behind  the  four  end  bits  because  of 
+engineering  difficulties  in  channeling  water  to  the  end 
+locations.  While  a  channeling  technique  could  un- 
+doubtedly be  devised,  the  present  effort  was  limited  by 
+financial  restrictions,  and  conveyance  of  the  water  to  the 
+end  locations  was  postponed  to  a  future  effort  if  seal 
+durability  in  the  field  could  be  demonstrated. 
+
+
+The  AMS  solid-cone  spray  nozzle  (06-900870-000)  had 
+a  20°  internal  angle  and  delivered  a  well-formed  spray  at 
+0.3  gpm  and  50  psig.  Each  nozzle  was  carefully  oriented 
+using  a  template  so  that  about  75  pet  of  the  spray  water 
+impacted  the  mineral  surface  directly  behind  the  bit  and 
+25  pet  of  the  water  impacted  the  bit  and  bit  block.  This 
+spray  orientation  led  to  wastage  of  the  water  impacted  on 
+the  bit  and  block  but  was  selected  in  view  of  the  sensitivity 
+of  the  anti-ignition  performance  to  the  spray-bit  orienta- 
+tion and  the  possibility  that  other  bits  might  be  used  in  the 
+field.  No  laboratory  ignition  tests  were  done  with  this 
+spray-bit  system. 
+
+The  wet-head-modified  Simmons  Rand  265  machine 
+was  installed  in  the  ignition-prone  mine  in  mid- 1987  in  a 
+section  having  a  30- cm-high  sandstone  parting.  Figure  27 
+shows  the  modified  drum  in  operation  in  the  mine.  Re- 
+sults indicated  no  water  leakage  with  the  Cannings  water 
+seals  during  the  mining  of  150,000  tons,  despite  several 
+early  shifts  of  dry  operation  with  no  water  being  passed 
+into  the  seals.  Miscellaneous  conical  bits  were  used.  No 
+frictional  ignitions  have  occurred,  airborne  respirable  dust 
+was  dramatically  reduced  according  to  visual  observation, 
+
+
+17 
+
+
+Spray 
+nozzle 
+
+
+i^ii'iiiiiiifpN. 
+
+Figure  26.-Anti-ignition-modified  Simmons  Rand  265  drum. 
+
+
+Scale,  cm 
+Figure  28.-Kennametal  K-178DC  bit 
+
+
+X 
+
+
+Figure  27.-Modified  Simmons  Rand  265  drum  in  operation 
+
+
+bit  life  increased  50  pet,  and  the  wet-head  drum  was  well 
+received  by  face  personnel  because  of  increased  visibil- 
+ity (24).  The  test  was  completed  in  mid- 1988  when  the 
+mining  machine  was  removed  for  routine  maintenance 
+overhaul.  Inspection  of  the  seals  indicated  that  they  were 
+still  in  good  condition. 
+
+Kenna metal  K-178DC 
+
+A  conical  bit  that  incorporates  water  spray  nozzles 
+directly  in  the  bit  block  behind  and/or  in  front  of  the  bit 
+is  commercially  available  from  Kennametal  (K-178DC) 
+(fig.  28).  The  bit  attack  angle  is  55°.  Kennametal  offers 
+either  solid-  or  hollow-cone  or  jet  spray  nozzles.  Figure  29 
+shows  the  bit  with  the  Kennametal  solid-cone  back  spray 
+(Senior  Conflow  2801)  operated  at  150  psig.  Figure  30 
+shows  the  Kennametal  jet  front  spray,  also  operated  at 
+150  psig. 
+
+
+Figure  29.-Kennametai  K-178DC  bit  with  solid-cone  back 
+spray  at  150  psig. 
+
+
+The  anti-ignition  performance  of  the  Kennametal  back- 
+and  front-located  spray  systems  was  investigated.  The 
+anti-ignition  benefit  of  a  front-located  high-pressure  jet 
+using  a  Bureau-designed  0.06-cm-diam  nozzle  orifice  also 
+was  tested  during  other  work  investigating  the  enhance- 
+ment of  cutting  (25).  The  Kennametal  tungsten-carbide 
+tip  was  replaced  with  a  steel  tip  having  the  same  geometry 
+in  order  to  subject  the  Kennametal  sprays  to  severe  test 
+conditions.  A  new  steel-tipped  bit  was  used  in  each  test. 
+
+
+18 
+
+
+Figure  30.-Kennametal  K- 178  DC  bit  with  jet  front  spray  at 
+150  psig. 
+
+
+Results  are  given  in  table  9.  Ignition  was  obtained 
+with  an  average  of  4.2  dry  cuts  and  was  not  obtained  with 
+97+  wet  cuts  with  the  hollow-  or  solid-cone  spray  mounted 
+in  back  of  the  bit.  With  the  front-mounted  Kennametal 
+and  Bureau  jet  sprays,  ignition  was  obtained  in  about  half 
+of  the  tests  at  each  of  the  cited  pressures. 
+
+The  Kennametal  back  spray  thus  significantly  reduced 
+the  likelihood  of  frictional  ignition.  Again,  the  present  re- 
+sults giving  ignition  with  only  a  few  dry  cuts  with  the  steel- 
+tipped  bit  do  not  indicate  the  ignition  performance  of  the 
+commercial  Kennametal  bit  with  its  tungsten-carbide  tip. 
+
+Table  9.-lgnition  results  with  Kennametal  K-178DC  bit 
+
+
+Nozzle 
+
+Spray 
+
+Av  number 
+
+Location 
+
+Type 
+
+Row  rate, 
+
+Pressure, 
+
+of  cuts  for 
+
+gpm 
+
+psig 
+
+ignition 
+
+Dry    .  .  . 
+
+Dry    
+
+Dry 
+
+Dry 
+
+U.2 
+
+Back    . . 
+
+Hollow  cone 
+
+1 
+
+150 
+
+2>97 
+
+Do  .  .  . 
+
+Solid  cone.  . 
+
+1 
+
+100 
+
+3>138 
+
+Front  .  . 
+
+Jet 
+
+.9 
+
+150 
+
+4>18 
+
+Do  .  .  . 
+
+Bureau  jet.  . 
+
+.75 
+
+2,000 
+
+s>65 
+
+Do  .  .  . 
+
+. .  do    
+
+.90 
+
+3,000 
+
+626 
+
+Do  .  .  . 
+
+. .  do    
+
+1.15 
+
+5,000 
+
+7>65 
+
+!1,  1,3,3,3,4,6,8,9. 
+
+2No  ignition  with  28,  107,  117,  137. 
+
+31  test. 
+
+49;  no  ignition  with  28. 
+
+510;  no  ignition  with  121. 
+
+61 7,  21,39. 
+
+710,  13,  24,  35,  37;  no  ignition  with  103,  122,  179. 
+
+
+DISCUSSION 
+
+
+Frictional  ignition  with  the  cutter  bits  on  a  mining 
+machine  can  occur  when  the  mining  machine  is  cutting 
+into  sandstone  (or  pyrite).  Conversely,  if  the  mining 
+machine  is  cutting  into  sandstone,  the  mine  operator 
+probably  should  expect  frictional  ignitions. 
+
+Remedial  techniques  to  reduce  the  likelihood  of 
+frictional  ignition  include 
+
+1.  Mushroom-shaped  tungsten-carbide  bit  tips; 
+
+2.  Increased  bit  clearance  angle,  e.g.,  with  conical  bits, 
+increased  bit  attack  angle  and/or  decreased  internal  tip 
+angle;  and 
+
+3.  A  carefully  oriented  water  spray  nozzle  in  back  of 
+each  cutter  bit. 
+
+With  a  shearer  drum,  the  preferred  remedial  technique 
+is  to  use  drum-mounted  back  sprays.  Fabrication  of  an 
+anti-ignition  shearer  drum  involves  moving  the  variously 
+located  antidust  water  spray  nozzles  on  the  commercially 
+available  wet-head  shearer  drum  so  that  they  are  located 
+directly  behind  each  of  the  bits  and  are  carefully  oriented 
+so  their  sprays  impact  the  mineral  surface  directly  behind 
+the  bits.  Several  anti-ignition  back  spray  and  bit  systems 
+are  commercially  available  (e.g.,  AMS,  Hydra  Tools, 
+Kennametal)  and  have  been  used  in  the  field.  An  antidust 
+benefit  has  been  reported  with  the  anti-ignition  back  spray. 
+
+
+A  wet-head  cutter  drum  for  the  Simmons  Rand  265 
+continuous  mining  machine  that  incorporates  anti-ignition 
+drum-mounted  back-located  spray  nozzles  was  developed 
+by  Simmons  Rand  and  AMS.  However,  wet-head  cutter 
+drums  for  other  continuous  mining  machines  are  not 
+commercially  available  at  present.  In  the  interim,  the 
+operator  can  use  the  mushroom  tip  and  increased 
+clearance  angle  features  for  conical  bits  presently  being 
+used  by  JWR  (15).  Mushroom-shaped  tips  for  conical  bits 
+are  commercially  available. 
+
+The  mine  operator  is  cautioned  that  no  anti-ignition 
+remedial  technique  will  be  a  panacea  and  that  a  systematic 
+schedule  must  be  used  to  replace  bits  before  they  have 
+worn  to  a  dangerous  condition.  The  JWR  schedule  of 
+replacing  bits  after  every  shuttle  car  is  loaded  when 
+sandstone  is  being  cut  is  inconvenient  and  expensive  but 
+is  probably  as  important  in  avoiding  frictional  ignition 
+as  the  use  of  mushroom  tips  and  increased  bit  clearance 
+angle  (15). 
+
+Ignition  seemingly  can  be  obtained  with  almost  any  tip 
+material  but  appears  less  likely  to  occur  (requires  more 
+cuts)  with  a  harder,  more  durable  material.  With  conical 
+bits,  ignition  was  typically  obtained  here  with  5  cuts  using 
+a  medium-hard  steel  tip  and  50  cuts  using  a  hard  tungsten- 
+carbide  tip.  Similar  results  were  obtained  with  the  more 
+massive  rectangular  bits.  Ignition  with  the  Carmet  TC3  bit 
+
+
+19 
+
+
+required  about  10  cuts  with  a  steel  tip  but  was  not 
+obtained  here  with  200  cuts  with  a  tungsten-carbide  tip.  A 
+small,  1-mm2  wear  flat  did  form  on  the  carbide  tip,  and 
+ignition  presumably  would  eventually  have  been  obtained 
+with  the  larger  wear  flat  formed  with  additional  cuts.  The 
+formation  of  a  similar  small  wear  flat  on  a  synthetic 
+diamond  tip  was  observed  here  and  also  reported  by 
+Roepke  (26).  The  wear  rates  of  diamond- tipped  and 
+tungsten-carbide-tipped  rectangular  bits  were  not  mea- 
+sured here  because  of  the  low  wear  rates  of  the  massive 
+tips.  However,  field  tests  (27)  indicated  that  diamond- 
+tipped  rectangular  bits  were  significantly  more  durable 
+than  comparable  tungsten-carbide-tipped  bits  and  thus  may 
+be  less  likely  to  cause  frictional  ignition. 
+
+The  present  observation  that  a  lower  bit  velocity  did  not 
+appreciably  decrease  the  likelihood  of  frictional  ignition 
+with  a  worn  bit  until  a  very  low  velocity  was  used  does  not 
+agree  with  previous  studies  (5,  9-10).  This  disparity 
+perhaps  is  due  to  differences  in  bits  or  test  procedures. 
+The  present  procedure  involved  a  moving  bit  that  inter- 
+mittently made  deep  cuts  into  new  locations  of  a  sandstone 
+block,  while  the  study  reported  in  reference  5  used  a 
+stationary  bit  making  a  continuous  deep  cut  into  a  new 
+location  on  the  moving  sandstone  block  and  the  studies  in 
+references  9  and  10  used  moving  bits  making  shallow  cuts 
+into  the  same  location  on  a  stationary  sandstone  block. 
+However,  the  present  results  indicate  that  a  lower  bit 
+velocity  probably  is  not  a  reasonable  alternative  to  avoiding 
+frictional  ignition  with  worn  bits  in  a  practical  mining 
+operation. 
+
+Improved  ventilation  is  often  proposed  as  a  remedial 
+technique  to  reduce  the  likelihood  of  frictional  ignition. 
+While  improved  ventilation  reduces  the  severity  of  the 
+methane  explosion  that  results  from  a  frictional  ignition,  it 
+probably  increases  the  likelihood  of  a  frictional  ignition. 
+Methane  is  discharged  from  the  face  into  the  entry  and 
+mixes  with  the  ventilation  airstream  in  the  entry.  A 
+boundary  layer  automatically  forms  at  the  face,  wherein 
+the  local  methane  concentration  is  high  at  the  face  and 
+decreases  away  from  the  face.  A  combustible  methane- 
+air  zone  therefore  must  be  formed  near  the  face.  If  the 
+ventilation  is  increased,  the  total  amount  of  methane  in  the 
+boundary  layer  is  decreased  but  the  combustible  methane- 
+air  zone  is  moved  closer  to  the  ignition  source,  the  hot 
+streak  at  the  face.  The  net  result  is  that  the  likelihood  of 
+a  frictional  ignition  should  increase  as  the  ventilation 
+increases,  but  the  severity  of  the  resulting  methane  ex- 
+plosion should  decrease;  i.e.,  small  pops  occur  instead  of 
+a  big  bang. 
+
+The  anti-ignition  effectiveness  of  a  back  spray  depends 
+upon  the  severity  of  the  hot  streak,  the  spray  density  at 
+the  impaction  plane  on  the  sandstone,  the  cooling  effec- 
+tiveness of  the  spray  drops,  and  the  spray-bit  geometry.  A 
+minimum  water  density  at  the  spray  impaction  plane  of 
+about  0.015  gpm/cm2  appears  to  be  required  to  cool  the 
+hot  streak  formed  by  the  rectangular  Kennametal  K-100 
+bit  during  severe  test  conditions.  With  the  spray  and 
+conical  bit  system  used  with  the  GTE  bits,  a  minimum 
+water  density  of  about  0.007  gpm/cm2  was  required  for  the 
+
+
+middle  bit  but  0.015  gpm/cm2  was  required  for  the  end 
+bit.  With  the  AMS  spray  used  on  the  Simmons  Rand 
+265  drum,  the  water  density  also  was  0.007  gpm/cm2.  Such 
+water  densities  can  be  readily  achieved  with  commercial 
+water  spray  nozzles  using  modest  flow  rates  and  pressures, 
+e.g.,  with  the  GG3004  nozzle  operated  at  0.5  gpm  and 
+100  psig  or  with  the  AMS  nozzle  operated  at  0.3  gpm  and 
+50  psig.  The  use  of  a  high  waterflow  rate  of  1  or  2  gpm  is 
+commercially  popular  but  does  not  appear  to  be  required 
+from  an  anti-ignition  viewpoint.  Powell  and  Billinge  (17) 
+recently  reported  that  90-^m  drops  were  twice  as  effective 
+as  200-/im  drops  in  cooling  the  hot  streak,  and  a  future 
+study  of  improved  water  sprays  will  include  spray  nozzles 
+selected  to  give  90-/im  drops. 
+
+However,  continued  bit  wear  may  give  a  hot  streak  that 
+is  not  adequately  cooled  by  this  water  density;  therefore, 
+a  bit  replacement  schedule  still  should  be  used  with  a 
+back-spray  technique,  but  a  less  frequent  bit  replacement 
+would  probably  be  required.  Also,  although  all  back  spray 
+systems  tested  here  successfully  reduced  the  likelihood  of 
+frictional  ignition  by  all  bits  tested  here  by  a  very  signi- 
+ficant degree,  other  bit  geometries  might  prevent  the  hot 
+streaks  from  being  promptly  cooled  by  back  sprays  and 
+thereby  allow  frictional  ignitions.  These  aspects  have  not 
+yet  been  examined. 
+
+The  present  observation  that  frictional  ignition  is  less 
+likely  when  the  sandstone  contains  water  is  not  surprising 
+and  was  reported  by  Titman  (28).  However,  the  natural 
+water  in  the  sandstone  does  not  appear  significant;  i.e.,  the 
+ignition  frequency  in  the  field  in  the  wet  summer  months 
+was  comparable  to  the  frequency  in  the  dry  winter  months. 
+Infusion  of  the  coal  seam  with  water  in  order  to  reduce 
+respirable  dust  should  have  an  anti-ignition  benefit,  but  the 
+degree  of  benefit  remains  to  be  determined. 
+
+From  a  more  fundamental  viewpoint,  the  ignition  of  a 
+methane-air  mixture  by  a  hot  surface  depends  upon  the 
+temperature  and  area  of  the  hot  surface  and  the  exposure 
+time.  With  an  electrically  heated  surface  and  a  1-s 
+exposure  time,  Rae  (29)  reported  that  a  surface  tempera- 
+ture of  about  1,400°  C  was  required  for  ignition  with  a 
+10-mm2  surface  while  1,250°  and  1,200°  C  were  required 
+with  50-  and  100-mm2  surfaces.  Similar  results  were  re- 
+ported by  other  investigators  (30-33),  but  the  required  sur- 
+face temperature  increased  as  exposure  time  decreased; 
+e.g.,  with  a  10-ms  exposure  time,  1,900°  and  1,850°  C  were 
+required  with  50-  and  100-mm2  surfaces. 
+
+When  a  metal  bit  cuts  into  a  material  such  as  sand- 
+stone, frictional  abrasion  leads  to  the  formation  of  a  wear 
+flat  on  the  tip  of  the  bit  and  the  generation  of  heat  by  the 
+wear  flat.  Following  Osburn  (34),  cutting  involves  a 
+sequence  of  chipping-crushing-abrading  processes  such  as 
+shown  in  figure  31,  where  the  tip  of  the  wear  flat  cuts  off 
+a  chip  of  the  sandstone,  and  the  wear  flat,  which  has  a 
+wear  angle,  then  crushes  the  remaining  layer  of  the  sand- 
+stone and  also  abrades  the  newly  formed  sandstone  parti- 
+cles against  the  sandstone  substrate.  It  is  generally 
+thought  that  the  surfaces  of  the  wear  flat  and  the  sand- 
+stone become  heated  by  abrasion  between  asperities  until 
+the  melting  temperature  of  the  lower  melting  material  is 
+
+
+20 
+
+
+-Bit  axis 
+
+
+i,,. Hi-*.  i.iijwM.'-I'.-I'ium'.BISvMU-''  ?><~- 
+
+"■■■■■■     ^      ^Particles 
+
+Wear  angle 
+
+
+Figure  31 -Cutting  processes  with  worn  conical  bit 
+(0A  =  attack  angle;  8C  =  initial  clearance  angle;  6^  =  initial  tip 
+angle.) 
+
+
+reached.  A  hot  smear  of  the  molten  material  then  forms 
+on  the  surface  of  the  sandstone.  Further  heat  generation 
+due  to  abrasion  is  considered  to  be  minor  since  the  contact 
+area  is  lubricated  by  the  molten  material.  With  a  steel  tip, 
+the  smear  is  considered  to  be  molten  steel  at  1,450°  C. 
+With  a  high-melting  tip  material  such  as  tungsten  carbide, 
+the  smear  is  usually  considered  to  involve  molten  silica 
+(Si02)  at  1,710°  C.  Such  temperatures  are  sufficiently  high 
+to  ignite  a  methane-air  mixture  if  the  area  and  exposure 
+time  of  the  hot  smear  are  adequate. 
+
+Blickensderfer  (9)  investigated  the  frictional  ignition  of 
+a  methane-air  mixture  using  a  rectangular,  1-cm-wide  tool 
+to  make  a  series  of  0.005-cm-deep  cuts  at  the  same  loca- 
+tion in  a  10-cm-long  sandstone  block.  Ignition  with  a  steel 
+tool  typically  required  about  75  cuts  with  a  tool  velocity  of 
+450  cm/s  and  175  cuts  with  a  tool  velocity  of  150  cm/s.  A 
+steel  smear  was  left  on  the  sandstone.  A  temperature  of 
+about  1,400°  C  was  measured  directly  behind  the  tool  for 
+about  2  ms  after  passage  of  the  tool,  which  then  decreased 
+to  1,200°  C  in  an  additional  2  ms.  The  steel  smear  was 
+about  20  /im  thick,  and  the  top  0.5-/im  layer  of  the  smear 
+was  oxidized. 
+
+Blickensderfer  (35)  developed  a  theoretical  model  of 
+frictional  ignition  with  a  steel  tool  cutting  into  sand- 
+stone. He  assumed  that  (1)  abrasion  between  the  wear 
+flat  on  the  tool  and  the  sandstone  rapidly  heated  the 
+surface  of  the  wear  flat  on  the  steel  tool  to  its  melting 
+point  of  1,450°  C,  (2)  a  smear  of  molten  steel  was 
+deposited  on  the  sandstone  and  was  maintained  at  its 
+
+
+melting  point  until  the  tool  passed  on  and  exposed  the 
+molten  smear,  and  (3)  the  exposed  molten  steel  smear 
+then  cooled  by  heat  conduction  into  the  sandstone  sub- 
+strate. The  steel  smear  theoretically  was  at  1,450°  C  for 
+1.7  ms  after  exposure  because  of  the  heat  released  during 
+solidification  of  the  molten  steel  smear  and  2.7  ms  if  the 
+heat  of  oxidation  of  the  0.5-/xm  oxide  layer  on  the  steel 
+smear  was  included.  With  a  tool  velocity  of  450  cm/s,  the 
+length  of  the  molten  smear  was  12  mm  and  the  area  thus 
+was  120  mm2.  Blickensderfer  concluded  that  such  a  hot 
+surface  (1,450°  C  for  2.7  ms  with  a  120-mm2  area) 
+reasonably  agreed  with  the  requirements  noted  earlier  for 
+ignition  of  a  methane-air  mixture  with  electrically  heated 
+surfaces. 
+
+Blickensderfer  considered  that  the  likelihood  of  fric- 
+tional ignition  decreased  as  the  area  of  the  molten  smear 
+decreased.  When  the  tool  velocity  decreased  to  150  cm/s, 
+the  theoretical  area  of  the  exposed  molten  smear 
+decreased  to  40  mm2.  He  concluded  that  this  decrease  in 
+molten  area  explained  the  increase  in  the  number  of  cuts 
+experimentally  required  to  get  ignition  with  the  lower  tool 
+velocity. 
+
+Cutler  (37)  similarly  measured  a  streak  temperature  of 
+about  1,400°  C  behind  a  tungsten-carbide-tipped  mining  bit 
+cutting  into  sandstone. 
+
+In  the  present  study,  the  nature  of  the  hot  streak 
+formed  by  a  mining  bit  appears  to  be  complex.  Figure  4 
+shows  that  the  streak  directly  behind  the  bit  initially  is  very 
+hot:  i.e.,  the  film  was  overexposed  for  about  20  ms  (5  cm) 
+after  passage  of  the  bit  because  of  the  high  local 
+temperature.7  The  streak  then  cooled  to  show  a  series  of 
+discrete  luminous  hot  spots  about  1  cm  or  so  apart  on  the 
+surface  of  the  sandstone,  although  luminous  strips  about 
+5  cm  long  occasionally  formed.  The  hot  spots  usually  were 
+about  100  mm2  in  area.  Figure  32  gives  another  example 
+of  the  series  of  hot  spots  formed  by  the  bit,  which  in  this 
+case  had  passed  downward  out  of  the  field  of  view.  The 
+hot  spots  at  the  bottom  and  top  of  figure  32  were  about 
+20  and  100  ms  old,  respectively,  and  were  still  hot  enough 
+to  be  luminous  but  did  not  give  ignitions. 
+
+The  BCRNL  study  (18)  indicated  that  water  that  im- 
+pacted the  sandstone  surface  further  than  5  cm  (20  ms) 
+behind  the  bit  was  ineffective  in  preventing  frictional  igni- 
+tion. Ignition  therefore  presumably  involves  the  very  hot 
+spots  in  the  hot  streak  within  about  5  cm  behind  the  bit, 
+because  the  spots  further  than  5  cm  behind  the  bit  seem- 
+ingly had  cooled  to  a  safe  temperature. 
+
+The  hot  spots  formed  here  during  an  early  nonigniting 
+dry  cut  visually  were  similar  to  the  hot  spots  formed  during 
+the  next  cut  that  gave  ignition.  Also,  ignition  always  oc- 
+curred during  the  bottom  part  of  the  igniting  cut.  Thus,  a 
+worn  bit  readily  generates  a  nonigniting  hot  spot  but  then 
+undergoes  a  small  change  and  generates  an  igniting  hot 
+spot. 
+
+Photometric  measurement  here  of  streak  temperature  was  unsuc- 
+cessful in  that  a  streak  temperature  of  about  1,100°  ±  300°  C  was  mea- 
+sured behind  the  bit  with  both  steel  and  tungsten-carbide  tips. 
+
+
+21 
+
+
+Figure  32.-Spotty  hot  streak  formed  on  surface  of  sandstone. 
+
+
+The  heat-generation  process  (or  processes)  taking  place 
+when  a  metal  bit  cuts  into  sandstone  therefore  must  (1)  be 
+intermittent  (to  generate  hot  spots)  and  (2)  be  sensitive  to 
+small  changes  in  the  bit  (to  generate  the  igniting  hot  spot). 
+A  spotty  type  of  hot  streak  and  the  qualitative  similarity 
+between  nonigniting  and  igniting  hot  spots  do  not  appear 
+to  have  been  reported  by  other  investigators. 
+
+Intermittent  metal  smears  were  left  on  the  sandstone 
+surface.  X-ray  analysis  of  the  smears  indicated  that  a  tip 
+made  of  Type  4140  steel  left  a  steel  smear  while  a  cobalt- 
+bonded  tungsten-carbide  tip  left  a  cobalt  smear.  The 
+metal  smear  was  intermittent  and  did  not  appear  to  match 
+the  more  regular  sequence  of  luminous  hot  spots  such  as 
+shown  in  figure  32.  The  formation  of  a  metal  smear 
+implies  melting  of  the  metal  tip. 
+
+The  luminous  spotty  hot  streak  formed  on  sandstone  by 
+a  steel  or  carbide  tip  in  a  nitrogen  environment  visually 
+was  similar  to  the  luminous  streak  formed  in  an  air 
+environment,  and  any  exothermic  oxidation  of  the  molten 
+metal  smear  appears  to  be  of  secondary  importance.8 
+
+
+Frictional  ignition  due  to  sandstone-sandstone  abrasion  (35-55)  is  not 
+addressed  here. 
+
+
+Heat  generation  during  the  cutting  of  sandstone  with  a 
+metal  bit  presumably  involves  mechanical  friction  and 
+depends  upon  the  normal  (perpendicular)  force  exerted  by 
+the  wear  flat  of  the  bit  on  the  sandstone  substrate  during 
+the  cutting  process.  With  the  present  cutting  technique,  a 
+tangential  force  is  being  applied  to  the  bit  by  the  rotating 
+cutter  drum  in  order  to  cut  the  sandstone,  but  no  external 
+normal  force  is  being  applied  to  push  the  bit  against  the 
+sandstone  target,  as  in  rubbing-friction  or  drill-bit  tests.  A 
+local  normal  force  during  the  cutting  operation  does  occur 
+if  a  wear  angle  forms  on  the  tip  of  the  bit  as  shown  in 
+figure  31. 
+
+An  intermittent  heat-generation  process  might  be 
+the  formation  of  chips,  where  the  partly  formed  chip 
+(fig.  31)  presses  the  wear  flat  against  the  sandstone  sub- 
+strate and  thereby  momentarily  generates  a  high  local 
+normal  force  on  the  bit.  Screen  analysis  of  the  particles 
+formed  during  a  1-cm-deep  cut  indicated  that  30  pet  of 
+the  mass  of  the  particles  were  large  flakes  with  a  nominal 
+flake  diameter  greater  than  about  0.1  cm,  indicating  that 
+chipping  does  occur.  The  normal  force  exerted  by  the 
+bit  during  the  present  cutting  operation  has  not  yet  been 
+measured. 
+
+While  melting  of  the  steel  tip  implies  that  the  tempera- 
+ture of  the  wear  flat  on  the  bit  during  cutting  is  about 
+1,450°  C,  the  temperature  of  the  surface  of  the  wear  flat 
+does  not  appear  to  have  been  directly  measured.  A  tem- 
+perature of  about  400°  C  was  measured  with  a  thermo- 
+couple 0.5  mm  below  the  surface  of  the  wear  flat  on  a 
+rectangular  bit  continuously  cutting  into  sandstone  (39). 
+A  similar  low  temperature  of  about  300°  C  was  measured 
+here  with  a  thermocouple  1.2  mm  below  the  wear  flat  on 
+a  conical  bit  intermittently  cutting  sandstone  and  also  was 
+measured  with  a  thermocouple  inside  a  drill  bit  (40). 
+However,  extrapolation  of  single  values  to  the  surface  of 
+the  wear  flat  is  of  course  impossible. 
+
+A  theoretical  model  of  the  temperature-time  history  of 
+a  conical  steel  bit  having  a  wear  flat  and  intermittently 
+cutting  into  a  sandstone  block  was  developed  by  Edwards 
+at  the  Bureau's  Pittsburgh  Research  Center.  The  model 
+involved  (1)  a  constant  rate  of  heating  of  the  interface 
+between  the  wear  flat  on  the  bit  and  the  sandstone  surface 
+during  the  cutting  part  of  the  drum  rotation  due  to  fric- 
+tional abrasion  combined  with  cooling  by  heat  conduction 
+into  the  bit  and  the  sandstone  and  (2)  heat  conduction 
+into  the  bit  and  convective  cooling  of  the  bit  during 
+the  remainder  of  the  rotation  cycle.  A  sawtoothed 
+temperature-time  curve  resulted.  The  model  used  the  bit 
+geometry  and  drum  rotation  speed  corresponding  to 
+the  temperature-measurement  test  noted  above  and  a 
+constant-area  wear  flat  of  0.7  cm2  obtained  in  a  separate 
+ignition  test  that  gave  ignition  in  the  seventh  cut  with  this 
+wear-flat  area.  The  theoretical  temperatures  1.2  mm 
+inside  the  bit  and  at  the  surface  of  the  wear  flat  on  the  bit 
+depended  linearly  upon  the  heating  rate.  The  heating  rate 
+at  the  surface  of  the  wear  flat  was  varied  until  the 
+theoretical  temperature  1.2  mm  inside  the  bit  matched 
+the  experimental  temperature.  When  a  heating  rate 
+of  90  cal/cm2  •  s  was  used,  the  theoretical  internal 
+
+
+22 
+
+
+600 
+
+500 
+
+400 
+
+300 
+
+o 
+
+0 
+
+200 
+
+Ld 
+
+cc 
+
+1- 
+
+100 
+
+< 
+
+or 
+
+LJ 
+
+0 
+
+Q. 
+
+^ 
+
+400 
+
+UJ 
+
+-  Theoretical 
+
+
+~i 1 r 
+
+
+-|      i       | 1 1 r 
+
+
+j I i I I L 
+
+
+Bit  surface 
+
+J I I I I I I L 
+
+
+300 
+200 
+100 
+
+
+^    i    '    i    '    r 
+Experimental — ^Jt  ^  i 
+/\ ' 
+
+
+Figure  33.-Theoretical  temperatures  inside  conical  bit  and  on 
+wear-flat  surface  on  conical  bit 
+
+
+temperature  matched  the  experimental  temperatures  of 
+200°  C  at  the  end  of  the  7th  cut  and  300°  C  after  the 
+20th  cut  (fig.  33). 
+
+The  corresponding  theoretical  temperatures  of  the 
+surface  of  the  wear  flat  were  only  400°  and  500°  C  after 
+the  7th  and  20th  cuts,  while  the  observed  melting  of  the 
+steel  wear  flat  implies  that  the  temperature  of  the  surface 
+of  the  wear  flat  was  about  1,450°  C.  However,  Ueda  (41) 
+recently  reported  that  the  temperature  inside  a  grinding 
+wheel  abrading  a  steel  target  measured  with  a  thermo- 
+couple was  considerably  lower  than  the  temperature 
+measured  with  a  pyrometric  technique,  and  the  validity  of 
+thermocouple  measurements  thus  is  uncertain. 
+
+The  formation  of  the  wear  flat  would  seem  to  be  a 
+critical  feature  of  the  ignition  process.  With  a  conical  bit, 
+when  the  bit  attack  angle  decreased,  ignition  required 
+fewer  cuts  with  a  new  bit  (fig.  8)  and  involved  a  larger 
+area  wear  flat  on  the  used  bit. 
+
+The  wear  rate  of  a  steel-tipped  conical  bit  was  in- 
+vestigated by  measuring  the  area  of  the  wear  flat  formed 
+on  a  new  bit  in  an  air  environment  versus  the  number  of 
+cuts  in  the  sandstone  block.  The  area  of  the  wear  flat 
+formed  after  a  few  cuts  was  measured  by  inking  the  wear 
+flat,  pressing  the  inked  flat  against  graph  paper,  and 
+counting  the  number  of  inked  squares.  A  few  additional 
+cuts  were  then  made,  and  the  area  of  the  wear  flat  was 
+
+
+CM 
+
+E 
+
+
+< 
+
+UJ 
+
+cr 
+< 
+
+
+cr 
+< 
+
+
+<!.D 
+
+— i — 
+
+1          ' 
+
+1            '            1 
+D 
+
+'            1            i 
+
+KEY 
+
+Attack  angle  (9A) 
+
+2.0 
+
+/    U 
+
+□,■  45° 
+
+o   53° 
+
+A,A  70° 
+
+1.5 
+
+- 
+
+10 
+
+/V^ 
+
+(/a^^ 
+
+A__ 
+
+▲ 
+
+0.5 
+
+o^ 
+
+- 
+
+mZ 
+
+1 
+
+A 
+
+1           i 
+
+1            ,           1 
+
+1 
+
+20  40  60  80 
+
+NUMBER  OF  CUTS    (N) 
+
+
+100 
+
+
+Figure  34.-Area  of  wear  flat  formed  on  steel-tipped  conical  bit 
+versus  number  of  cuts.  (Solid  and  hollow  symbols  for  the  same 
+eA  indicate  repeat  tests.) 
+
+
+remeasured,  and  so  forth.  The  effect  of  bit  attack  angle 
+8A  was  investigated.  A  constant  internal  bit  tip  angle  6T 
+of  80°  was  used. 
+
+Figure  34  plots  the  area  of  the  wear  flat  a  versus  the 
+number  of  cuts  N  for  three  attack  angles  (9A  =  45°,  53°, 
+and  70°).  The  area  increased  approximately  parabolically 
+with  N.  The  area  also  increased  as  6A  decreased;  e.g., 
+after  20  cuts,  the  area  was  0.5  cm2  if  6A  =  70°  and  1  cm2 
+if  6A  =  45°.  Similar  results  were  observed  with  brass  and 
+tungsten-carbide  tips. 
+
+The  linear  wear  length  £,  perpendicular  to  the  sand- 
+stone surface,  is  related  to  the  wear  flat  and  the  bit  geo- 
+metry 6A  and  6T  for  a  conical  bit  as  shown  in  figure  35. 
+The  wear  flat  is  oval  in  shape  because  of  the  slanted  wear 
+of  the  conical  tip.  Approximating  the  oval  wear  flat  with 
+a  circle  and  assuming  the  wear  flat  is  parallel  to  the  sand- 
+stone surface,  £  is  related  to  the  wear-flat  area  a  by  sim- 
+ple geometry,  with  £  =  J  a  •  { sin^yj  /[tan  (9T/2)  -J*]}. 
+The  parabolic  a  -  N  relations  for  various  ©A's  in  figure  34 
+convert  to  a  single  parabolic-type  £  -  N  relation  for  the  tip 
+material,  which  is  independent  of  6A.  The  large  wear  flat 
+obtained  with  a  small  8A  compared  with  the  small  wear 
+flat  obtained  with  a  large  6A  thus  appears  to  be  a  simple 
+geometric  effect  and  does  not  involve  a  variation  of 
+£  with  6A.  The  value  of  £  does  depend  upon  the  nature 
+of  the  tip  material  and  the  total  length  of  cut  L.  Since  the 
+109-cm-diam  drum  is  cutting  into  a  51-cm-high  sandstone 
+block,  each  cut  is  54  cm  long  and  L  =  54 -N  (in  centi- 
+meters). Figure  36  plots  £  versus  L  for  brass,  steel  and 
+carbide  tips.  The  wear  rate  of  a  tip  is  the  tangent  of  an 
+£  -  L  curve.  Initial  wear  rates  were  high  and  depended 
+upon  the  bit  material.  The  wear  rates  then  slowed  and 
+were  similar  for  these  various  materials. 
+
+
+23 
+
+
+distance  _il*y 
+
+
+Sandstone 
+
+
+Figure  35.-Geometry  of  linear  wear  distance  with  conical  bit 
+(eA  =  attack  angle;  8j.  =  initial  tip  angle.) 
+
+
+1.0 
+
+
+i — r 
+
+
+200    400    600    800 
+TOTAL  LENGTH  OF  CUT  (L),cm 
+
+
+,000 
+
+
+Figure  36.-Unear  wear  distance  versus  cutting  distance  with 
+conical  bits. 
+
+
+The  rapid  early  wear  of  a  drag-type  drill  bit  was  pre- 
+viously reported  (42-43).  Neville  and  Crone  (43)  similarly 
+observed  that  the  area  of  the  wear  flat  formed  on  a  drill 
+bit  increased  if  the  bit  attack  angle  6A  decreased  and  that 
+the  linear  wear  rate  of  the  bit  tip  was  independent  of  6A. 
+They  concluded  that  (1)  wear  was  independent  of  the  ex- 
+ternal normal  force  (thrust)  exerted  on  the  drill  bit 
+because  the  bit  is  mainly  crushing  and  not  rubbing  the 
+rock  and  (2)  any  temperature  effect  due  to  heating  of  the 
+drill  bit  was  minor. 
+
+
+The  variation  in  the  early  wear  rates  of  the  present 
+three  materials  and  the  similarity  of  the  later  wear  rates 
+suggest  that  different  aspects  of  the  wear  process  are 
+important  in  the  early  and  the  later  stages  of  bit  wear, 
+which  remain  to  be  explained. 
+
+However,  the  area  of  a  wear  flat  formed  in  a  methane- 
+air  environment  during  an  ignition  test  was  about  three 
+times  larger  than  the  wear-flat  area  formed  in  an  air 
+environment  with  the  same  number  of  cuts;  i.e.,  the  wear 
+length  £  in  a  combustible  methane-air  environment  was 
+about  two  times  the  wear  length  in  an  air  environment 
+(fig.  36).  The  simplest  explanation  for  this  increase  in 
+wear  rate  in  a  methane-air  environment  perhaps  is  that  a 
+hot  spot  ignites  the  methane-air  mixture  to  form  a  micro 
+flame  kernel  that  heats  the  surface  of  the  bit  (and  also  the 
+sandstone)  but  is  quenched  by  the  bit  and  sandstone  sur- 
+faces and  does  not  ignite  the  bulk  methane-air  environ- 
+ment. The  hot  surface  of  the  wear  flat  then  wears  faster 
+than  the  warm  surface  of  the  wear  flat  because  of  heat 
+generated  only  by  friction;  this  process  forms  a  large-area 
+wear  flat,  which  then  forms  a  macro  flame  kernel  that  ig- 
+nites the  bulk  environment. 
+
+A  working  hypothesis  for  the  mechanism  of  frictional 
+ignition  with  a  new  frozen  conical  bit  cutting  sandstone 
+thus  might  be  as  follows: 
+
+1.  The  bit  tip  initially  abrades  very  rapidly  to  form  a 
+small  wear  flat.  The  initial  linear  wear  rate  of  the  tip  is 
+slower  with  a  harder  (more  durable)  tip  material. 
+
+2.  The  tip  of  the  wear  flat  forms  chips  of  the  sandstone 
+target,  and  the  wear  flat  abrades  the  remaining  layer  of  the 
+sandstone  and  the  resulting  sandstone  particles.  During 
+chip  formation,  the  normal  force  exerted  by  the  bit  on  the 
+sandstone  target  is  momentarily  very  high,  leading  to  the 
+intermittent  formation  of  a  small  hot  spot  on  the  surface 
+of  the  sandstone. 
+
+3.  The  small  hot  spot  on  the  sandstone  is  about 
+1,450°  C  and  ignites  a  small  flame  kernel.  The  small  flame 
+kernel  heats  the  wear  flat  and  increases  its  wear  rate 
+but  is  quenched  by  the  bit  and  the  sandstone  and  does 
+not  propagate  into  and  ignite  the  bulk  combustible 
+environment. 
+
+4.  The  area  of  the  wear  flat  on  the  bit  tip  increases 
+because  of  frictional  abrasion.  The  rate  of  increase  of  the 
+wear-flat  area  depends  upon  the  linear  wear  rate  of  the 
+bit  tip  and  the  tip  geometry.  The  linear  wear  rate  is 
+increased  in  a  combustible  environment  because  of  heating 
+of  the  tip  by  the  flame  kernel.  Eventually,  a  large  flame 
+kernel  ignited  by  a  large  hot  spot  formed  by  a  large-area 
+wear  flat  propagates  into  and  ignites  the  bulk  combustible 
+environment. 
+
+A  similar  mechanism  should  apply  to  frictional  ignition 
+with  a  rectangular-shaped  bit  except  that  the  geometrical 
+relation  between  the  area  of  the  wear  flat  and  the  linear 
+
+
+24 
+
+
+wear  of  the  tip  of  the  rectangular  bit  will  be  different  from 
+that  shown  in  figure  35. 
+
+Major  features  requiring  clarification  include  hot-spot 
+formation  by  chipping,  quenching  of  the  flame  kernel,  and 
+cooling  of  the  hot  spots  by  the  back  spray.  E.g.,  the  bit 
+geometry  presumably  should  have  a  significant  effect  on 
+kernel  quenching  and  in  "protecting"  the  hot  spot  from 
+being  cooled  by  the  spray  water  drops.  Detailed  investi- 
+gation of  these  features  is  planned. 
+
+It  should  also  be  noted  that  an  anti-ignition  back  spray 
+may  also  achieve  an  antidust  benefit.  The  dust  cloud 
+formed  when  a  conical  bit  cuts  into  sandstone  is  shown  in 
+figure  37.  With  an  antidust  wet-head  cutter  drum  such  as 
+discussed  in  reference  22,  the  drum-mounted  water  spray 
+nozzles  usually  were  located  in  the  general  vicinity  of  the 
+bits  and  the  water  drops  merely  filled  the  cavity  between 
+the  surface  of  the  drum  and  the  face.  With  an  anti- 
+ignition  wet-head  drum,  the  spray  nozzles  must  be  located 
+behind  the  bit  and  must  be  carefully  aimed  to  impact  the 
+mineral  surface  immediately  behind  the  bit.  The  anti- 
+ignition  sprays  thus  are  pointed  directly  into  the  dust  cloud 
+and  should  be  more  likely  to  capture  the  dust  particles. 
+
+
+Figure  37.-Dust  cloud  formed  by  bit  cutting  sandstone. 
+
+
+CONCLUSIONS 
+
+
+1.  In  the  United  States,  frictional  ignition  usually 
+involves  a  metal  bit  cutting  into  sandstone  to  form  a  hot 
+streak  on  the  surface  of  the  sandstone. 
+
+2.  Frictional  ignition  always  involves  a  worn  bit  having 
+a  wear  flat  on  the  tip  of  the  bit;  it  seemingly  can  be  ob- 
+tained with  almost  any  bit  material  but  is  much  more  likely 
+to  occur  with  a  steel  tip  than  with  a  tungsten-carbide  tip. 
+
+3.  The  likelihood  of  frictional  ignition  decreases  with 
+(1)  a  mushroom-shaped  tungsten-carbide  bit  tip  and  (2)  an 
+increased  bit  clearance  angle.  A  field  test  with  conical- 
+shaped  bits  in  a  coal  mine  supports  these  laboratory 
+conclusions.  Commercial  versions  of  mushroom-shaped 
+tungsten-carbide-tipped  conical  bits  are  available. 
+
+4.  The  likelihood  of  ignition  is  not  significantly 
+decreased  with  a  lower  bit  velocity  in  the  range  considered 
+to  be  of  practical  interest. 
+
+5.  The  likelihood  of  ignition  with  very  worn  bits 
+significantly  decreases  if  water  spray  nozzles  are  located  in 
+back  of  each  bit  and  are  carefully  oriented  so  that  the 
+water  spray  impacts  and  cools  the  hot  streak  on  the 
+sandstone  surface  immediately  behind  the  bit.  A  mini- 
+mum water  density  at  the  impaction  plane  of  about 
+0.007  gpm/cm2  is  apparently  required  and  can  readily  be 
+achieved   with   commercial   spray   nozzles   operated   at 
+
+
+moderate  conditions  (0.5  gpm,  50  to  100  psig).  The  like- 
+lihood of  ignition  with  all  bits  tested  here  was  reduced  by 
+using  a  carefully  designed  back  spray.  Commercial 
+versions  of  back  spray  and  bit  systems  that  use  a  high 
+waterflow  rate  (1  gpm)  are  available. 
+
+6.  Replacement  of  worn  bits  must  be  scheduled.  The 
+frequency  of  bit  replacement  will  depend  upon  the  reme- 
+dial technique  but  may  range  from  every  shuttle  car  load 
+(if  a  mushroom  bit  and  increased  bit  clearance  angle  are 
+used)  to  every  week  (if  a  back  spray  is  used). 
+
+7.  Formation  of  the  hot  streak  appears  to  involve  com- 
+plex cutting-abrasion  phenomena.  Formation  of  local  hot 
+spots  may  be  due  to  a  momentary  high  normal  force  on 
+the  bit  because  of  chip  formation  during  the  cutting  pro- 
+cess. The  hot  spot  perhaps  forms  a  micro  flame  kernel 
+at  the  wear  flat  and  sandstone  interface,  which  heats  the 
+bit  but  does  not  propagate  into  the  bulk  environment.  The 
+heated  bit  would  then  wear  more  rapidly  to  form  a  large 
+wear  flat,  which  forms  a  macro  flame  kernel  that  ignites 
+the  bulk  environment. 
+
+8.  An  anti-ignition  back  spray  may  also  achieve  an  anti- 
+dust benefit  because  the  back  spray  is  aimed  directly  into 
+the  dust  cloud  formed  by  the  cutter  bit. 
+
+
+25 
+
+
+REFERENCES 
+
+
+1.  Wynn,  A.  H.  A.  The  Ignition  of  Firedamp  by  Friction.  Paper  in 
+Seventh  International  Conference  of  Directors  of  Safety  in  Mines 
+Research.   SMRE  Rep.  42,  1952,  23  pp. 
+
+2.  Eisner,  H.  S.  Discussion  of  paper  by  F.  Powell  and  K.  Billinge, 
+"  The  Frictional  Ignition  Hazard  Associated  With  Colliery  Rocks."  Min. 
+Eng.  (London),  v.  134,   July  1975,  pp.  527-533. 
+
+3.  Elfstrom,  R  H.  Explosion  in  No.  26  Colliery,  Glace  Bay, 
+Nova  Scotia,  on  February  24,  1979.  Can.  Dep.  Labour,  Apr.  1980, 
+122  pp. 
+
+4.  Hartmann,  I.  Frictional  Ignition  of  Gas  by  Mining  Machines. 
+BuMines  IC  7727,  1955,  17  pp. 
+
+5.  Powell,  F.,  and  K.  Billinge.  Ignition  of  Firedamp  by  Friction 
+During  Rock  Cutting.  Min.  Eng.  (London),  v.  134,  May  1975, 
+pp.  419-426. 
+
+6.  Powell,  F.  Ignition  of  Gases  and  Vapors.  Ind.  and  Eng.  Chem., 
+v.  61,  No.  12,  1969,  pp.  29-37. 
+
+7.  Lobejko,  A.  The  Ignition  of  Methane-Air  Mixtures  by  Frictional 
+Sparks.  Health  and  Saf.  Exec.  Transl.  Serv.  Harpur  Hill,  Bunton, 
+Great  Britain,  Transl.  8999,  May  1980,  8  pp. 
+
+8.  Bartknecht,  W.  Preventive  and  Design  Measures  for  Protection 
+Against  Dust  Explosions.  Paper  in  Industrial  Dust  Explosions,  ed. 
+by  K.  L.  Cashdollar  and  M.  Hertzberg.  ASTM  STP  958,  1987, 
+pp.  158-190. 
+
+9.  Blickensderfer,  R,  D.  K.  Deardorff,  and  J.  E.  Kelley.  Incendivity 
+of  Some  Coal-Cutter  Materials  by  Impact-Abrasion  in  Air-Methane. 
+BuMines  RI  7930,  1974,  20  pp. 
+
+10.  Larson,  D.  A,  V.  W.  Dellorfano,  C.  F.  Wingquist,  and 
+W.  W.  Roepke.  Preliminary  Evaluation  of  Bit  Impact  Ignitions  of 
+Methane  Using  a  Drum-Type  Cutting  Head.  BuMines  RI  8755,  1983, 
+23  pp. 
+
+11.  Liebman,  I.  and  L.  Cheng.  Anti-Incendive  Coal  Cutting  Bits. 
+Pat.  Appl.  319,  862,  Nov.  1981. 
+
+12.  Cheng,  L.,  I.  Liebman,  A.  L.  Furno,  and  R  W.  Watson.  Novel 
+Coal-Cutting  Bits  and  Their  Wear  Resistances.  BuMines  RI  8791, 1983, 
+15  pp. 
+
+13.  Cheng.  L.  Design  of  Anti-Incendive  Conical  Cutting  Bits.  Pres. 
+at  SME-AIME  Annu.  Meet.,  Las  Vegas,  NV,  Feb.  27-Mar.  2,  1989. 
+Trans.  Soc.  Min.  Eng.  AIME,  in  press. 
+
+14.  Cheng,  L.,  A.  L.  Furno,  and  W.  G.  Courtney.  Reduction  in 
+Frictional  Ignition  Due  to  Conical  Coal-Cutting  Bits.  BuMines  RI  9134, 
+1987,  10  pp. 
+
+15.  NcNider,  T.,  E.  Grygiel,  and  J.  Haynes.  Reducing  Frictional 
+Ignitions  and  Improving  Bit  Life  Through  Novel  Pick  and  Drum 
+Designs.  Paper  in  Proceedings  of  the  Third  Mine  Ventilation 
+Symposium.  Soc.  Mining  Eng.  AIME,  Littleton,  CO,  1987,  pp.  119-125. 
+
+16.  Kocherga,  N.  G.  Prevention  of  Methane  Ignitions  by  the  Use  of 
+Water  Spraying  During  Operation  of  the  Cutting  Tools  of  Mining 
+Machines.  Health  and  Saf.  Execu.,  Transl.  Serv.,  Harpur  Hill,  Bunton, 
+Great  Britain.   Transl.  7507,  Nov.  1977,  7  pp. 
+
+17.  Powell,  F,  and  K.  Billinge.  The  Use  of  Water  in  the  Prevention 
+of  Ignitions  Caused  by  Machine  Picks.  Min.  Eng.  (London),  v.  141, 
+Aug.  1981,  pp.  81-85. 
+
+18.  Agbede,  R  O,  K.  L.  Whitehead,  R  L.  Mundell,  and  R  D. 
+Saltsman.  Frictional  Ignition  Suppression  by  the  Use  of  Cutter-Drum 
+Mounted  Water  Sprays.  BuMines  contract  J0395040,  Bituminous  Coal 
+Res.,  1982;  for  inf.,  contact  W.  G.  Courtney,  BuMines,  Pittsburgh,  PA. 
+
+19.  Lewis,  W.  T,  P.  R  Smith,  and  F.  Powell.  Circumstances 
+Generating  Incendive  Sources  in  Rock  Cutting.  Paper  Dl  in  20th 
+International  Conference  of  Safety  in  Mines  Research  Institutes. 
+SMRE,  1983,  11  pp. 
+
+20.  Cheng,  L.  Dynamic  Spreading  of  Drops  Impacting  onto  a  Solid 
+Surface.  Ind.  &  Eng.  Chem.  Process  Des.  and  Dev.,  v.  16,  No.  2,  1977, 
+pp.  192-197. 
+
+
+21.  Divers,  E.  F.  Nonclogging  Water  Spray  System  for  Continuous- 
+Mining  Machines.    BuMines  IC  8727,  1976,  10  pp. 
+
+22.  Strebig,  K.  C.  Wet-Head  Tests  on  Miners  Concluded.  Coal  Min. 
+&  Process.,  v.  12,   Apr.  1975,  pp.  78-88. 
+
+23.  Courtney,  W.  G.  Prevention  of  Frictional  Ignition  With  Ripper- 
+Type  Continuous  Mining  Machines  Using  Water  Sprays.  Paper  in 
+Proceedings  of  the  3rd  Mine  Ventilation  Symposium.  Soc.  Min.  Eng. 
+AIME,  Littleton,  CO,  1987,  pp.  126-131. 
+
+24.  Merritt,  P.  C.  The  Wet-Head  Miner  Comes  Back.  Coal  Age, 
+v.  92,  Nov.  1987,  pp.  44-46. 
+
+25.  Taylor,  C.  D.,  and  A.  L.  Furno.  Evaluation  of  High-Pressure 
+Front-Mounted  Water  Jets  for  Frictional  Ignition  Suppression. 
+BuMines  RI  9237,  1989,  8  pp. 
+
+26.  Roepke,  W.  W.,  B.  D.  Hanson,  and  C.  E.  Longfellow.  Drag  Bit 
+Cutting  Characteristics  Using  Sintered  Diamond  Inserts.  BuMines 
+RI  8802,  1983,  30  pp. 
+
+27.  Collin,  W.  D.,  and  J.  A.  Kornecki.  The  Development  and  Use 
+of  Diamond  Picks  for  Longwall  Shearers  at  Secunda  Collieries.  Paper 
+in  Mining  85  Conference,  Mining  Productivity  Through  Reliability  and 
+Control.   Inst.  Min.  Eng.,  Doncaster,  England,  v.  1,  1985,  pp.  153-163. 
+
+28.  Titman,  H.  A  Review  of  Experiments  on  the  Ignition  of 
+Inflammable  Gases  by  Frictional  Sparking.  Trans.  Inst.  Min.  Eng. 
+v.  115,  1955-56,  pp.  535-557. 
+
+29.  Rae,  D.,  B.  Singh,  and  R  Danson.  The  Size  and  Temperature  of 
+a  Hot  Square  in  a  Cold  Plane  Surface  Necessary  for  the  Ignition  of 
+Methane.    SMRE  Res.  Rep.  224,  1964,  35  pp. 
+
+30.  Cutler,  D.  P.  The  Ignition  of  Gases  by  Rapidly  Heated  Surfaces. 
+Combust,  and  Flame,   v.  22,  1974,  pp.  105-109. 
+
+31.  .    Further  Studies  of  the  Ignition  of  Gases  by  Transiently 
+
+Heated  Surfaces.    Combust,  and  Flame,  v.  33,  1978,  pp.  85-91. 
+
+32.  Laurendeau,  N.  M.  Thermal  Ignition  of  Methane-Air  Mixtures 
+by  Hot  Surfaces:  A  Critical  Examination.  Combust,  and  Flame,  v.  46, 
+1982,  pp.  29^9. 
+
+33.  Laurendeau,  N.  M.,  and  R  N.  Caron.  Influence  of  Hot  Surface 
+Size  on  Methane-Air  Ignition  Temperature.  Combust,  and  Flame,  v.  46, 
+1982,  pp.  213-218. 
+
+34.  Osburn,  H.  J.  Wear  of  Rock-Cutting  Tools.  Powder  Metall., 
+v.  12,  1969,  pp.  471-502. 
+
+35.  Blickensderfer,  R  Methane  Ignition  by  Frictional  Impact  Heat- 
+ing.  Combust,  and  Flame,  v.  25,  1975,  pp.  143-152. 
+
+36.  Burgess,  M.  J.,  and  R  V.  Wheeler.  The  Ignition  of  Firedamp  by 
+the  Heat  of  Impact  of  Rocks.   SMRE  Rep.  46,  1928,  29  pp. 
+
+37.  Nagy,  J.,  and  E.  M.  Kawenski.  Frictional  Ignition  of  Gas  During 
+a  Roof  Fall.    BuMines  RI  5548,  1960,  11  pp. 
+
+38.  Rae,  D.  The  Role  of  Quartz  in  the  Ignition  of  Methane  by  the 
+Friction  of  Rocks.    SMRE  Res.  Rep.  223,  1964,  50  pp. 
+
+39.  Wingquist,  C.  F,  and  B.  D.  Hanson.  Bit  Wear-Flat  Temperature 
+as  a  Function  of  Depth  of  Cut  and  Speed.  BuMines  RI  9112,  1987, 
+15  pp. 
+
+40.  Whitbread,  J.  E.  Bit  Temperatures  in  Rotary  Drilling.  Colliery 
+Eng.,  (London),  v.  37,  Jan.  1960,  pp.  25-59. 
+
+41.  Ueda,  T.,  A.  Hosokawa,  and  A.  Yamamoto.  Measurement  of 
+Grinding  Temperature  Using  Infrared  Radiation  Pyrometer  With 
+Optical  Fiber.     J.  Eng.  Ind.,  v.  108,  1986,  pp.  247-251. 
+
+42.  Fish,  B.  F,  G.  A.  Guppy,  and  J.  T.  Ruben.  Abrasive  Wear 
+Effects  in  Rotary  Rock  Drilling.  Bull.  Inst.  Min.  and  Metall.,  No.  630, 
+1959,  pp.  357-383. 
+
+43.  Neville,  H.  F.  C,  and  J.  G.  D.  Crone.  Wear  of  Rotary  Drag  Drill 
+Bits  in  Granitic  Rock.  Trans.  Inst.  Min.  and  Metall.,  v.  71,  1961-62, 
+pp.  249-263. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29146 
+
+
+m 
+
+z 
+
+S2.  -k  <d  • 
+
+> 
+
+5 
+
+O 
+
+■n 
+■n 
+
+3    m=    ffi 
+
+O 
+30 
+
+O 
+
+>  1 
+
+artm 
+f  Mil 
+treet 
+ton, 
+
+"0 
+
+r- 
+
+D-     =  n> 
+
+! 
+
+E 
+
+m 
+c 
+v> 
+m 
+I 
+«» 
+
+Z 
+
+m 
+a) 
+
+the  Interior 
+
+,  MS  #9800 
+20241 
+
+m 
+O 
+c 
+> 
+
+I— 
+
+o 
+
+"D 
+"D 
+O 
+3J 
+
+H 
+C 
+Z 
+
+
+m 
+
+
+O 
+
+< 
+m 
+
+33 
+
+
+405-90 
+
+
+°,.   •  • .  •  ■ 
+
+
+aV*\ 
+
+»     4*    "^      • 
+
+
+^ 
+
+
+"b,     'o .  » *      A  <* 
+
+
+.,**  . 
+
+
+**^ 
+
+
+0*^  ^> 
+
+
+*°«* 
+
+
+& 
+
+
+<>    *'7V 
+
+
+*        aV      ♦. 
+
+
+*>,        "''         ..^  °^» 
+
+
+CV^*V     ~V;^9\/     V<^>  ,.  V*^*/"      V^-V°   ..  V 
+
+\/  -*flfr  %**  .rffr  V  A'*  v*  -*v* 
+
+^  y,^/v  Aa*X  /,3*tX^ 
+
+
+'.    ^0<      •■ 
+
+
+>  «  •  -       ^is.  f\»        •  •  •  »        "*■*. 
+
+t       _  » I    .?-  *£*>  A         -  »^--«wy»         ^  _ 
+
+
+.•  <.****. 
+
+
+•  ^% 
+
+
+I  ^<>V     *o  HO 
+
+•    %  A*   * 
+
+«**     %    ' 
+
+
+*« 
+
+
+:<s 
+
+
+o. 
+
+
+<*    *°  • » *    A6  ^    *  •  • s 
+
+
+e  *o' 
+
+
+**>% 
+
+
+,4>V  ,-lJJ-    ^  f0*     o' 
+
+
+•  «• 
+
+
+\/      * 
+
+
+J*? 
+
+
+^a    :a\iMo 
+
+
+^•iatX  ^°V«&^  ,/^^X  >°Vab>o  y 
+
+
+^o>+    :j^^'«    ^o«    :^    *&f  /.^^^    ^o^    •-^M-.    "o^ 
+
+
+A<k 
+
+
+£°+ 
+
+
+•iv-    c±        sy  *i^'*  v  v%    •!■•-    <^        4?  .*ilto:^    ^  v%    •« *»*    <^        4?    »i^L'*    ^ 
+
+
+0  003  134  782  8 
+
+

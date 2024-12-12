@@ -1,0 +1,1624 @@
+JN  96 
+.A2  R46 
+
+
+FT  MEADE 
+GenCol 1 
+
+
+1990 
+Copy  2 
+
+
+3B 
+
+
+Cwr>- 
+
+
+COMMISSION  ON 
+
+SECURITY  AND  COOPERATION  IN  EUROPE 
+
+CONGRESS  OF  THE  UNITED  STATES 
+237  HOUSE  OFFICE  BUILDING  ANNEX  2 
+WASHINGTON,  DC  20515 
+
+(202)  225-1901 
+
+
+REPORT  OF  THE  HELSINKI  COMMISSION 
+
+ON 
+
+THE  U.S.  CONGRESSIONAL  DELEGATION  VISIT 
+
+TO 
+
+ALBANIA,  BULGARIA,  CZECHOSLOVAKIA  AND  BERLIN 
+
+(CODEL  DeCONCINI) 
+
+
+AUGUST  18  -  24,  1990 
+
+
+MEMBERS  OF  DELEGATION 
+
+
+Chairman 
+
+
+Senator  Dennis  DeConcini  (D-AZ),  Chairman  of  the  Helsinki  Commission 
+
+
+Members 
+
+
+Senator  Paul  Sarbanes  (D-MD)  * 
+
+Mrs.  Christine  Sarbanes  * 
+
+Representative  Jim  Moody  (D-WI)  ** 
+
+William  Fritts  (U.S.  Department  of  Commerce)  *** 
+
+Helsinki  Commission  Staff 
+
+Samuel  Wise,  Staff  Director 
+David  Evans,  Senior  Advisor 
+Robert  Hand,  Staff  Assistant 
+Erika  Schlager,  Staff  Assistant  **** 
+
+
+Air  Force  Escorts 
+
+
+Lieutenant  Colonel  David  Hayes  *** 
+Major  Donald  Alston 
+Major  John  Cox 
+
+Staff  Seargent  Mark  Seelbaugh  *** 
+Staff  Seargent  Bobby  Sanders  *** 
+
+
+'b 
+
+
+*  Albania,  Bulgaria  and  Czechoslovakia  only 
+
+**  Albania  and  Bulgaria  only 
+
+***  Bulgaria,  Czechoslovakia  and  Berlin  only 
+
+****  Czechoslovakia  and  Berlin  only 
+
+
+CONTENTS 
+
+
+Introduction . 1 
+
+Albania . 3 
+
+I.  Objectives .  3 
+
+II.  The  Context . 3 
+
+III.  The  Visit .  6 
+
+IV.  Observations . 8 
+
+V.  Conclusion . 11 
+
+Bulgaria .  15 
+
+I.  Objectives . 15 
+
+II.  The  Context . 15 
+
+III.  The  Visit . 17 
+
+Czechoslovakia . 21 
+
+I.  Overview  and  Objectives . 21 
+
+II.  Context  of  the  Visit . 21 
+
+III.  Meetings . 25 
+
+Berlin .  31 
+
+I.  Objectives . 31 
+
+II.  The  Context . 31 
+
+III.  The  Visit . 32 
+
+IV.  Observations .  33 
+
+
+INTRODUCTION 
+
+
+The  Commission  on  Security  and  Cooperation  in  Europe  -  also  known  as  the 
+Helsinki  Commission  —  was  created  in  1976  by  Public  Law  94-304  with  a  mandate  to 
+monitor  and  encourage  compliance  with  the  Final  Act  of  the  Conference  on  Security  and 
+Cooperation  in  Europe  (CSCE),  which  was  signed  in  Helsinki,  Finland,  on  August  1,  1975, 
+by  the  leaders  of  33  European  countries,  the  United  States  and  Canada. 
+
+The  Helsinki  Final  Act  and  subsequent  CSCE  documents  encompass  nearly  every 
+aspect  of  relations  between  States,  including:  military-security;  economic,  scientific  and 
+environmental  cooperation;  cultural  and  education  exchanges;  and  human  rights  and  other 
+humanitarian  concerns.  The  goal  has  been  to  lower  the  barriers  which  have  artificially 
+divided  Europe  into  East  and  West  for  more  than  four  decades.  Periodic  review  meetings 
+have  been  held  to  continue  this  process:  Belgrade  (1977-78),  Madrid  (1980-83),  and  Vienna 
+(1986-89),  with  the  next  scheduled  for  Helsinki  in  March  1992.  Experts  meetings  on 
+specific  issues  and  lasting  only  a  few  weeks  are  held  in  between  these  main  meetings. 
+
+The  Commission  consists  of  nine  members  from  the  U.S.  Senate,  nine  members 
+from  the  U.S.  House  of  Representatives,  and  one  member  each  the  Departments  of  State, 
+Commerce  and  Defense.  The  positions  of  Chairman  and  Co-Chairman  are  shared  by  the 
+House  and  the  Senate  and  rotate  every  two  years,  when  a  new  Congress  convenes.  The 
+Commission  is  currently  chaired  by  Senator  Dennis  DeConcini  (D-AZ)  and  Co-Chaired  by 
+Representative  Steny  H.  Hoyer  (D-MD).  A  professional  staff  of  approximately  15  persons 
+assists  the  Commissioners  in  their  work. 
+
+The  Commission  carries  out  its  mandate  in  a  variety  of  ways.  First,  it  gathers  and 
+disseminates  information  on  Helsinki-related  topics  both  to  the  U.S.  Congress  and  the 
+public.  It  frequently  holds  public  hearings  with  expert  witnesses  focusing  on  these  topics. 
+Similarly,  the  Commission  issues  reports  on  the  implementation  of  the  Helsinki  Final  Act 
+and  subsequent  CSCE  documents.  The  Commission  plays  a  unique  role  in  assisting  and 
+planning  the  execution  of  U.S.  policy  at  CSCE  meetings  and  participates  as  full  members 
+of  the  U.S.  delegations  to  these  meetings. 
+
+Finally  members  of  the  Commission  maintain  regular  contacts  with  parliamentarians, 
+government  officials  and  private  individuals  from  other  Helsinki-signatory  States.  Such 
+contacts  often  take  the  form  of  Commission  delegations  to  other  countries,  usually  with  the 
+participation  of  other  Members  of  Congress,  such  as  the  August  1990  visit  to  Albania, 
+Bulgaria,  Czechoslovakia  and  Berlin. 
+
+
+VISIT  TO  ALBANIA 
+August  19-21,  1990 
+
+
+I.  OBJECTIVES 
+
+The  Commission  delegation  visit  to  Albania  had  two  basic  purposes.  The  first  was 
+to  initiate  a  dialogue  with  Albanian  officials  on  CSCE-related  issues.  In  1990,  the  Albanian 
+Government  for  the  first  time  expressed  a  desire  to  participate  in  the  CSCE,  or  Helsinki, 
+process.  In  fact,  Albania  was  granted  the  status  of  an  observer  at  recent  CSCE  meetings, 
+beginning  with  the  Copenhagen  Meeting  of  the  Conference  on  the  Human  Dimension  of 
+the  CSCE,  which  took  place  in  June  1990.  In  light  of  this  development  and  the 
+Commission  mandate  to  follow  the  Helsinki  process,  the  Commission  viewed  the 
+establishment  of  a  discussion  of  the  CSCE  with  Albanian  officials  similar  to  that  already 
+established  with  CSCE  signatories. 
+
+The  second  goal  of  the  delegation  was  to  obtain  a  firsthand  view  of  the  situation 
+in  Albania,  particularly  as  it  related  to  human  rights.  Since  official  relations  were  broken 
+in  1939,  there  have  been  virtually  no  contacts  between  the  United  States  and  Albania,  and 
+little  is  therefore  known  about  Albanian  society  or  how  the  political  and  economic  systems 
+function.  In  addition  to  seeing  Tirane,  the  capital  of  the  country,  the  Commission 
+expressed  an  interest  in  travelling  to  Durres,  a  city  on  the  Adriatic  coast,  as  well  as  to  the 
+historic  town  of  Kruje. 
+
+Overall,  the  delegation  was  able  to  accomplish  these  limited  objectives.  During  the 
+visit,  the  Commission  was  able  to  initiate  what  is  hoped  to  be  an  on-going  dialogue.  All 
+of  the  Commission’s  requests  for  meetings  or  activities  were  basically  met,  with  one  critical 
+exception.  The  delegation  had  requested  to  visit  the  prison  labor  camp  known  to  exist  at 
+Spac,  north  of  Tirane.  This  request,  made  in  light  of  numerous  reports  about  the  harsh 
+treatment  accorded  prisoners  —  especially  political  prisoners  —  in  Spac,  was  similar  to  those 
+made  by  the  Commission  when  it  visited  other  countries,  but  Albanian  officials  denied  the 
+request. 
+
+
+II.  THE  CONTEXT 
+
+The  Commission  delegation  visit  to  Albania  came  at  a  time  of  great  change  in 
+Europe  and,  for  the  first  time  since  World  War  II,  potentially  far-reaching  change  in 
+Albania  itself. 
+
+
+-  3  - 
+
+
+Albania,  situated  between  Greece  and  Yugoslavia  on  the  Adriatic  coast,  is  a 
+relatively  small  country  with  a  population  of  about  3  million  people.  According  to  official 
+figures,  98  percent  of  the  population  is  ethnically  Albanian,  linguistically  divided  into  the 
+northern  Ghegs  and  the  southern  Tosks.  Reflecting  Ottoman  Turk,  Greek,  and  Italian 
+influences,  Albanians  can  also  be  divided  according  to  religious  background,  with  around 
+70  percent  coming  from  Muslim,  20  percent  from  Orthodox  and  10  percent  from  Roman 
+Catholic  families,  although  Albania  today  claims  to  be  the  world’s  first  atheist  state.  The 
+remainder  of  the  population  consists  mostly  of  a  Greek  minority,  although  there  are  also 
+Macedonians,  Montenegrins,  Serbs,  Jews,  Gypsies  and  a  few  other  ethnic  groups  as  well. 
+The  number  of  Greeks  is  unknown  but  is  believed  to  be  somewhere  between  the  official 
+estimate  of  about  60,000  and  the  figure  of  400,000  claimed  by  some  Greek  organizations. 
+
+Albania  has  a  long  history  of  foreign  rulers  and  was  the  last  Balkan  state  to  achieve 
+independence,  freeing  itself  from  the  Ottomans  only  in  1912.  Being  a  mountainous, 
+relatively  inaccessible  region,  however,  the  country  was  able  to  retain  not  only  its  linguistic 
+uniqueness  but  the  old,  clan-oriented  customs  of  the  Albanian  people  as  well.  Albania 
+was  ruled  before  the  war  by  King  Zog.  After  Italy’s  invasion  in  1939,  the  country  was 
+ruled  by  a  puppet  regime  until  liberated  by  the  Communists,  led  by  Enver  Hoxha  and 
+closely  aligned  with  the  Tito’s  Partisans  in  Yugoslavia. 
+
+Enver  Hoxha  ruled  Albania  until  his  death  in  1985.  A  devout  Stalinist,  Hoxha  sided 
+with  the  Soviet  Union  when  Tito  broke  from  the  Communist  bloc  in  1948,  only  to  break 
+from  the  Soviets  himself  in  the  early  1960’s,  following  Khrushchev’s  rapprochement  with 
+Yugoslavia.  Albania  then  enhanced  its  relationship  with  the  People’s  Republic  of  China 
+until  that  country  initiated  post-Mao  reforms  and  expanded  ties  with  the  United  States  in 
+the  late  1970’s.  Since  that  time,  Albania  has  maintained  the  hard  Stalinist  course  on  its 
+own,  although  since  Hoxha’s  death  in  1985  there  have  been  efforts  to  lessen  the  degree 
+to  which  the  country  is  isolated  internationally,  such  as  establishing  bilateral  relations  with 
+an  increasing  number  of  countries  and  participating  in  joint  meetings  of  Balkan  countries. 
+A  member  of  the  United  Nations,  Albania’s  participation  has  been  low-key  and  only  in 
+some  U.N.  bodies. 
+
+Formal  diplomatic  relations  between  Albania  and  the  United  States  ended  with  the 
+Italian  invasion  of  Albania  in  1939.  Immediately  after  the  war  an  informal  U.S.  mission 
+established  itself  in  Tirane,  but  it  was  withdrawn  in  1946  due  to  harassment  by  the 
+authorities.  Subsequently,  Albanian  official  statements  attacked  U.S.  policies  and  leaders, 
+later  giving  the  Soviet  Union  and  then  China  similar  treatment.  Moreover,  Albania 
+declined  participation  in  the  CSCE  process,  calling  the  original  Conference  a  Soviet- 
+American  attempt  to  maintain  the  division  and  control  of  Europe. 
+
+
+-  4  - 
+
+
+On  the  domestic  scene,  Albania  is  economically  the  poorest  country  in  Europe, 
+although  it  has  considerable  mineral  resources.  Albania’s  record  regarding  respect  for 
+human  rights  is  also  very  poor.  It  has  strictly  controlled  the  movement  of  its  people,  both 
+abroad  and  in  Albania  itself.  The  secret  police  (Sigurimi)  is  a  powerful  organization  that 
+has  pervaded  society,  and  an  extensive  system  of  prisons  and  labor  camps  is  maintained 
+for  those  who  express  even  mildly  dissenting  views.  As  a  result,  there  is  no  known 
+organized  dissident  activity  in  Albania.  The  actual  number  of  political  prisoners  is 
+unknown.  In  1990  the  Albanian  government  acknowledged  the  existence  of  political 
+prisoners  for  the  first  time,  giving  a  figure  of  83  in  contrast  to  the  900-1,000  estimated  by 
+a  recent  refugee  who  was  himself  a  political  prisoner  or  the  more  than  20,000  claimed  by 
+some  foreign  sources.  Religion  was  prohibited  by  law  in  1967.  No  churches  are  open  for 
+public  worship.  While  the  recognized  Greek  and  Macedonian  minorities  have  some 
+educational  opportunities  in  their  native  language,  there  have  been  attempts  to  suppress 
+their  cohesiveness  and  cultural  identity. 
+
+In  1990,  there  have  been  signs  that  Albania  is  beginning  to  move  away  from  its 
+isolationist  policies.  The  Albanian  government  now  is  seeking  to  become  a  participant  in 
+the  CSCE  process  and  was  given  observer  status  both  at  the  Copenhagen  Human 
+Dimension  Meeting  in  June  as  well  as  the  ongoing  CSCE  military-security  negotiations  and 
+summit  preparations  in  Vienna.  In  May  1990,  U.N.  Secretary  General  Perez  de  Cuellar 
+visited  Albania. 
+
+Albania  has  also  indicated  a  desire  to  develop  relations  with  the  United  States  and 
+the  Soviet  Union.  While  this  announcement  was  made  simultaneously  for  both  countries, 
+it  had  only  reestablished  relations  with  the  Soviet  Union  by  the  time  of  the  Commission’s 
+visit.  Meetings  on  the  establishment  of  U.S.-  Albanian  relations  have  taken  place  and  are 
+expected  to  continue.  In  May  1990,  the  Albanian  government  expressed  its  willingness  to 
+receive  a  delegation  from  the  U.S.  Helsinki  Commission. 
+
+The  domestic  front  has  seen  signs  of  change  as  well.  In  January  1990  and  on 
+several  occasions  since,  there  were  reports  of  large  demonstrations  for  reform  in  several 
+Albanian  cities  and  towns,  which  in  some  cases  the  Albanian  authorities  are  believed  to 
+have  brutally  repressed.  They  have  played  down  the  extent  of  the  protest  or  denied  they 
+even  took  place. 
+
+Several  reforms  have  been  announced  which,  if  implemented,  would  lead  to  major 
+changes  in  Albania,  especially  in  the  context  of  the  country’s  strict  adherence  to  the 
+Stalinist  economic  and  political  system.  Among  the  reforms  is  the  abolition  of  criminal 
+penalties  for  religious  propaganda,  liberalization  of  passport  issuance,  establishment  of  a 
+Ministry  of  Justice,  and  permission  for  individuals  to  sell  produce  privately  and  to  form 
+small  family  businesses. 
+
+
+-  5  - 
+
+
+In  early  July,  apparently  responding  to  the  lack  of  implementation  of  the  announced 
+reforms,  more  than  5,000  Albanian  citizens  stormed  the  West  German  and  other  embassies 
+in  Tirane,  seeking  to  leave  the  country.  A  number  were  known  to  have  been  shot  by 
+Albanian  authorities  while  running  toward  the  embassies,  and  the  diplomatic  area  of  the 
+city  was  closed  off.  As  world  attention  focused  on  the  country  and  the  situation  in  the 
+embassies  became  increasingly  difficult,  however,  Albanian  authorities  eventually  decided 
+to  permit  those  in  the  embassies  to  leave  for  Italy,  Czechoslovakia,  France  and  elsewhere. 
+Many  want  to  come  to  the  United  States,  and  in  August  1990  some  went  on  a  hunger 
+strike  near  the  U.S.  Embassy  in  Paris  to  protest  delays  in  processing.  The  episode  seems 
+to  have  strengthened  reformist  trends  within  the  Albanian  leadership,  as  several  known 
+hard-liners  were  replaced  by  individuals  believed  to  espouse  more  moderate  positions. 
+
+There  are  several  possible  causes  for  the  recent  changes  in  Albania.  From  the  top, 
+President  Alia  is  believed  to  be  leading  a  reformist  group  within  the  leadership  that  is 
+gradually  gaining  strength  vis-a-vis  the  remaining  hard-liners,  which  apparently  include 
+Nexhmije  Hoxha,  the  wife  of  Enver  Hoxha  and  head  of  the  Democratic  Front  organization. 
+Reformist  positions  apparently  are  being  strengthened  by  a  steep  decline  in  the  country’s 
+already  poor  economic  performance.  From  the  bottom,  Albanians  who  have  television  sets 
+or  radios  are  able  to  receive  local  Greek,  Yugoslav  and  Italian  broadcasts,  in  addition  to 
+those  of  Voice  of  America,  the  BBC  and  other  worldwide  stations.  As  a  result,  Albanians 
+are  well  aware  of  the  wave  of  political  liberalization  which  swept  through  the  rest  of 
+Eastern  Europe  in  1989  and  1990.  Pressure  for  change  also  comes  from  the  fact  that,  as 
+a  result  of  a  high  birth  rate,  the  population  of  Albania  is  young,  with  half  of  the  country’s 
+citizens  under  30  years  of  age.  Combined  with  the  poor  economic  conditions,  this 
+population  is  believed  to  be  growing  increasingly  restless  in  its  current  state  of  isolation. 
+
+
+III.  THE  VISIT 
+
+When  the  Commission  delegation  arrived  in  Tirane  on  August  19,  it  was  greeted  by 
+a  group  of  Albanian  officials  led  by  Rolanda  Dhimitri,  Vice-Chair  of  the  Permanent 
+Commission  on  Foreign  Affairs  of  the  Albanian  People’s  Assembly  and  Petraq  Pojani, 
+Director  of  the  Department  for  Multilateral  Cooperation  of  the  Albanian  Foreign  Ministry. 
+
+The  first  item  of  business  was  a  review  of  the  itinerary  for  the  visit.  Earlier,  the 
+Commission  had  proposed  a  schedule  of  meetings  in  which  it  was  interested,  adding  that 
+it  would  welcome  any  additional  activities  proposed  by  the  Albanian  government.  AJbanian 
+officials  said  that  they  would  do  their  best  to  meet  the  Commission’s  requests  and  would 
+present  an  itinerary  for  the  delegation’s  approval  upon  its  arrival,  although  they  indicated 
+earlier  that  the  visit  to  the  Spac  labor  camp  listed  on  the  Commission’s  schedule  would  not 
+be  allowed.  With  that  main  exception,  the  Commission’s  requests  for  meetings  and 
+activities  were  met,  with  a  few  additional  meetings  added,  and  the  delegation  therefore 
+agreed  to  the  itinerary. 
+
+
+-  6  - 
+
+
+The  delegation  was  then  formally  received  by  Foto  Cami,  Chair  of  the  Permanent 
+Commission  on  Foreign  Affairs  of  the  People’s  Assembly  as  well  as  a  member  of  the 
+Politburo  of  the  Albanian  Party  of  Labor.  Mr.  Cami  held  a  private  meeting  with  the 
+delegation  and  then  hosted  a  dinner  in  its  honor. 
+
+During  the  next  2  days,  the  delegation  met  with  numerous  other  senior  Albanian 
+officials,  including  Ramiz  Alia,  who  as  President  of  the  Presidium  of  the  Albanian  People’s 
+Assembly  is  the  titular  head  of  state.  Alia  also  heads  the  Party  of  Labor,  serving  as  First 
+Secretary.  Private  meetings  were  also  held  with  Kleanthi  Koci,  President  of  the  Supreme 
+Court  of  Albania,  and  Reis  Malile,  Minister  of  Foreign  Affairs. 
+
+In  addition  to  meetings  with  high-level  officials,  the  delegation  wanted  to  meet  with 
+other  individuals  and  groups  who  were  involved  in  activities  of  interest  or  concern  to  the 
+Commission,  particularly  human  rights.  This  proved  to  be  a  significantly  more  difficult 
+exercise  than  was  the  case  during  Commission  visits  to  other  Communist  countries,  because 
+even  in  those  countries  where  the  most  basic  human  rights  were  being  denied,  individuals, 
+either  alone  or  organized  in  groups,  were  known  to  engage  in  dissenting  activities.  Control 
+of  society  in  Albania,  on  the  other  hand,  has  been  so  pervasive  that  there  were  no  known 
+human  rights  activists  with  whom  the  delegation  could  meet.  The  absence  of  a  United 
+States  Embassy  in  Tirane  contributed  to  this  problem,  as  U.S.  embassies  in  other  East 
+European  countries  have  played  an  important  role  in  seeking  and  maintaining  contacts  with 
+independent  groups  and  individual  dissidents. 
+
+Among  those  with  whom  the  Commission  delegation  did  meet  were  three 
+representatives  of  the  Democratic  Front  for  the  Greek  Minority,  which  is  a  member 
+organization  of  the  Democratic  Front  which  serves  to  transmit  official  policies  and  positions 
+to  the  population.  The  delegation  also  met  with  Nikolla  Konomi,  rector  of  the  University 
+of  Tirane,  and  a  group  of  about  20  English-speaking  university  students.  The  delegation 
+also  arranged,  separate  from  the  itinerary  prepared  by  the  Albanian  government,  private 
+meetings  with  representatives  of  the  Italian  and  Greek  embassies,  including  a  visit  to  the 
+Greek  consulate  to  examine  the  difficult  situation  facing  foreign  embassies. 
+Representatives  from  all  embassies  of  the  CSCE  countries  in  Tirane,  along  with  a  long  list 
+of  Albanian  government  officials,  journalists,  economists,  writers  and  other  prominent 
+figures  attended  a  Commission-hosted  reception,  which  also  permitted  a  widening  of 
+contacts  in  a  less  formal  setting. 
+
+The  delegation  requested  and  received  some  free  time  in  Tirane  during  which  its 
+members  could  tour  Tirane,  examine  what  everyday  life  there  was  like,  and  perhaps  talk 
+with  some  people.  Unfortunately,  the  Albanian  government  reacted  negatively  to  a 
+Commission  request  that  it  bring  its  own  interpreter,  and  the  presence  of  an  interpreter 
+provided  by  the  Albanian  government  itself  likely  hindered  the  openness  of  the  very  few 
+contacts  that  were  made  with  the  public.  The  delegation  was  able  to  initiate  a 
+conversation  with  some  individuals  on  Skenderbeg  Square  in  the  center  of  Tirane,  which 
+
+
+-  7  - 
+
+
+included  not  only  Albanian  citizens  but  also  several  Albanian-Americans  visiting  the 
+country.  For  the  most  part,  however,  passers-by  seemed  to  want  to  avoid  being  seen 
+talking  to  the  delegation.  Members  of  the  delegation,  with  the  helpful  escort  of  officials 
+from  the  Foreign  Ministry  and  the  People’s  Assembly,  took  a  driving  tour  of  the  Tirane, 
+including  a  stop  at  the  monument  to  Albanian  martyrs  which  overlooks  the  city,  and  visited 
+the  National  Historical  Museum  of  Albania  and  to  Enver  Hoxha  Museum. 
+
+Finally,  in  order  to  examine  the  situation  in  the  countryside  and  other  cities,  the 
+Commission  asked  to  visit  the  city  of  Durres  on  the  Adriatic  coast,  as  well  as  the  historic 
+town  of  Kruje,  in  the  mountains  north  of  Tirane,  where  the  Albanian  national  hero 
+Skenderbeg  had  his  castle.  In  Durres,  members  of  the  delegation  attended  a  luncheon 
+hosted  by  Luan  Babameto,  Chairman  of  the  Executive  Committee  of  Durres  District,  the 
+equivalent  of  a  city  mayor.  In  Kruje,  the  delegation  toured  a  museum  built  over  the  ruins 
+of  Skenderbeg’s  castle.  The  Commission  then  departed  Albania  for  its  next  destination. 
+
+
+IV.  OBSERVATIONS 
+
+During  the  entire  course  of  the  delegation’s  3-day  stay,  the  Albanian  government 
+was  very  hospitable.  Vehicles  were  provided  for  transportation,  and  officials  who  escorted 
+the  delegation  were  extremely  helpful  in  answering  questions  and  describing  the  situation 
+in  Albania  as  they  saw  it.  Despite  a  strained  relationships  between  the  Albanian 
+government  and  foreign  embassies,  the  delegation  was  not  hindered  in  making  contact  with 
+foreign  diplomats  in  Tirane  and  visiting  the  diplomatic  district  of  the  city. 
+
+There  was  little  if  any  variance  in  the  views  presented  by  Albanian  officials,  or,  for 
+that  matter,  by  Albanians  who  were  not  representatives  of  the  government.  Most  issues 
+were  explained  in  the  context  of  Albania’s  troubled  history,  with  the  centuries  of  foreign 
+occupation  and  numerous  wars  in  the  Balkans  responsible  for  most  of  the  country’s  social 
+and  economic  problems  and  necessitating  a  unique  course  of  action.  A  related  point 
+repeatedly  raised  was  the  need  for  efforts  to  maintain  the  unity  of  Albania,  which,  it  was 
+argued,  was  an  especially  difficult  task  given  the  fact  that  its  relatively  small  population  was 
+previously  divided  among  three  major  and  very  different  religions.  This  was  most  strongly 
+stated  by  Foto  Cami  who,  in  response  to  a  question  about  the  lack  of  places  of  worship 
+in  Albania,  said  that  the  religion  of  Albania  was  "being  Albanian." 
+
+When  the  CSCE  process  was  discussed,  Albanian  officials  expressed  a  strong  desire 
+to  advance  from  the  status  of  observer  it  had  been  granted  at  recent  meetings  to  that  of 
+a  full  member.  Full  members  are  permitted  to  speak  in  the  meetings,  introduce  proposals, 
+and  participate  in  decisions  based  on  the  rule  of  consensus.  The  officials  added  that  the 
+Albanian  government  had  reviewed  all  CSCE  documents  thoroughly  and  is  willing  to 
+commit  itself  to  all  of  them,  from  the  Helsinki  Final  Act  of  August  1975  to  the  document 
+of  the  Copenhagen  Human  Dimension  Meeting  which  was  adopted  in  June  1990. 
+
+
+-  8  - 
+
+
+On  this  point,  Chairman  Deconcini,  Senator  Sarbanes  and  Representative  Moody 
+expressed  support  for  granting  Albania  observer  status  at  CSCE  meetings.  Noting  that 
+CSCE  made  human  rights  a  subject  for  international  scrutiny,  however,  they  also  said  that 
+the  Albanian  government  should  bring  its  performance  -  i.e.,  policies  and  practices  -- 
+significantly  closer  to  what  would  be  considered  compliance  with  CSCE  provisions  being 
+granted  full  membership  in  the  process.  The  Albanian  reaction  was  that  "preconditions" 
+such  as  this  were  unfair,  since  many  governments  had  signed  the  Final  Act  and  then  for 
+years  violated  its  provisions.  The  delegation  explained  that  there  was  a  fundamental 
+difference  between  the  two  situations.  Albania,  on  the  one  hand,  is  now  trying  to  attain  full 
+membership  in  the  CSCE,  since  it  was  not  an  participant  in  the  original  CSCE  negotiations 
+by  its  own  choice,  while,  on  the  other  hand,  there  is  no  requirement  to  maintain 
+membership  once  that  status  was  attained.  Mention  was  also  made  of  the  extent  to  which 
+past  non-implementation  had  restrained  progress  in  the  CSCE  over  the  years.  When  asked 
+why  AJbania  declined  to  participate  in  the  Helsinki  process  from  the  beginning,  President 
+Alia  described  the  original  Soviet  objectives  for  the  Conference,  which  was  to  legitimize 
+its  hold  on  Eastern  Europe.  He  said  that  the  end  of  the  Cold  War  has  made  it  possible 
+for  Albania  to  become  a  more  active  player  in  European  affairs. 
+
+On  human  rights  in  Albania,  the  Commission  delegation  questioned  Albanian 
+officials  about  political  prisoners,  denial  of  religious  and  minority  rights,  the  lack  of  political 
+pluralism  and  the  shooting  of  individuals  attempting  to  flee  across  the  border.  Albanian 
+officials  argued  that  reports  in  the  West  of  human  rights  violations  in  Albania  were  either 
+the  result  of  misunderstanding  the  specific  situation  in  AJbania  or  foreign  propaganda. 
+The  delegation  suggested  that  AJbania  permit  objective  human  rights  organizations,  such 
+as  the  International  Helsinki  Federation  and  Amnesty  International,  to  visit  Albania  and 
+examine  the  situation  firsthand. 
+
+The  AJbanian  officials  with  whom  the  delegation  met  expressed  agreement  with  the 
+steps  toward  democratization  that  are  now  taking  place.  They  detailed  recent  reforms, 
+especially  those  eliminating  religious  propaganda  as  a  criminal  offence  and  granting 
+Albanian  citizens  permission  to  obtain  a  passport  for  travel  abroad.  Mention  was  made 
+as  well  of  electoral  reforms  which  will  allow  more  seats  to  be  contested  by  multiple 
+candidates,  although  it  was  argued  that  democratic  decision-making  within  the  Party  made 
+tolerance  of  alternative  parties  unnecessary  and  possibly  counter-productive.  This  last  point 
+was  repeated  by  university  students,  who  maintained  that  the  large  number  of  parties  in 
+Romania  and  elsewhere  only  spawned  confusion.  Kleanthi  Koci,  President  of  the  Supreme 
+Court,  also  noted  how  the  number  of  criminal  offenses  for  which  the  death  penalty  could 
+be  used  as  a  sentence  has  been  lowered  from  more  than  40  in  the  1950’s  to  11  today.  The 
+delegation  noted  that  the  Commission  had  welcomed  the  announcement  of  reforms  and 
+expressed  hope  that  they  and  other  needed  reforms  would  be  implemented.  Upon  the 
+delegation’s  departure,  the  members  were  given  English-language  translations  of  recently 
+adopted  legislative  changes  in  Albania. 
+
+
+-  9  - 
+
+
+Hie  absence  of  places  of  worship  was  repeatedly  raised  with  the  Albanians, 
+especially  since  some  members  of  the  delegation  wanted  to  go  to  church  on  Sunday,  the 
+day  it  arrived.  The  response  was  consistently  that  the  people  don’t  want  places  of  worship, 
+and  that  members  of  the  clergy  are  known  in  Albania  for  their  collaboration  with  foreign 
+powers.  It  was  acknowledged,  however,  that  there  are  believers  in  Albania,  although  in 
+most  cases  these  are  said  to  be  older  people.  While  the  delegation  indeed  did  not  speak 
+to  anybody  who  said  that  they  did  wish  to  establish  a  place  a  worship,  it  expressed  extreme 
+skepticism  about  the  assertion  that  nobody  exists  who  does,  especially  during  discussions 
+with  the  members  of  the  Democratic  Front  for  the  Greek  Minority,  where  Senator 
+DeConcini  pointed  out  that  everywhere  else  in  the  world  where  there  are  Greeks,  there 
+are  also  Greek  churches.  If  places  of  worship  were  opened,  he  predicted,  people  would 
+come. 
+
+
+On  minority  issues,  the  delegation  raised  concerns  over  allegations  that  members  of 
+minority  groups  were  discriminated  against  and,  at  times,  were  forcibly  dispersed  from  their 
+native  regions  to  other  parts  of  the  country.  There  were  also  reports  that,  in  the  past, 
+parents  could  not  give  their  children  some  Christian  names  common  to  their  ethnic  group. 
+Albanian  officials  and  the  members  of  the  Democratic  Front  for  the  Greek  Minority 
+denied  these  allegations.  The  members  of  Democratic  Front,  the  delegation  concluded, 
+represented  the  Albanian  government  more  than  the  Greek  minority.  The  delegation  was 
+informed  that  their  Greek-language  newspaper  did  not  cover  issues  of  special  concern  to 
+the  Greek  minority  but  simply  translated  the  Albanian  press  into  Greek.  The  only 
+acknowledgement  by  the  Democratic  Front  that  there  have  been  problems  for  Greeks  in 
+Albania  was  when  they  reported  that  things  have  improved  for  the  minority  in  recent  years. 
+
+On  foreign  policy,  Albanian  officials  said  that  the  apparent  ending  of  the  Cold  War 
+was  the  primary  motive  for  Albania’s  increased  international  activity,  which  included  their 
+desire  to  join  the  CSCE  process  and  to  establish  relations  with  both  the  United  States 
+and  the  Soviet  Union.  Both  President  Alia  and  Foreign  Minister  Malile  described  past 
+Soviet  policies,  especially  the  1968  invasion  of  Czechoslovakia,  as  justification  of  Albania’s 
+previous  course,  both  internationally  and  domestically.  They  also  noted  their  increased 
+participation  in  cooperative  efforts  among  Balkan  nations,  including  their  decision  to  host 
+a  meeting  of  Balkan  foreign  ministers  in  October  1990.  Alia  and  Malile  both  were  highly 
+critical  of  Yugoslavia  in  light  of  current  developments  taking  place  in  Kosovo,  the 
+overwhelming  majority  of  the  population  of  which  is  ethnically  Albanian.  They  emphasized, 
+however,  that  Albania  is  not  and  will  not  make  any  territorial  claims  regarding  Kosovo. 
+
+The  most  visible  and  immediate  diplomatic  problem  in  Albania  is  the  relationship 
+between  the  foreign  embassies  in  Tirane  and  the  Albanian  government.  Especially  since 
+the  storming  of  the  embassies  in  early  July,  which  diplomats  viewed  as  essentially  a 
+spontaneous  event,  this  relationship  has  clearly  worsened.  The  delegation  heard  reports 
+about  violations  of  diplomatic  norms,  such  as  Albanian  authorities  entering  diplomatic 
+
+
+-  10  - 
+
+
+premises  and  even  the  physical  harassment  of  diplomats,  including  an  Ambassador.  The 
+delegation  was  told  that,  after  initially  shooting  at  Albanian  citizens  trying  to  gain  entry  to 
+embassies  in  July,  the  authorities  began  to  encourage  and  assist  entry  in  an  apparent 
+attempt  to  "suffocate"  the  embassies.  The  Albanian  authorities  also  refused  permission  for 
+foreign  air  carriers  to  land  in  Albania  to  deliver  additional  supplies  necessary  to  take  care 
+of  the  thousands  of  people  who  did  enter  and  then  stayed  on  embassy  grounds. 
+
+Since  that  time,  the  diplomatic  area  --  essentially  a  street  on  which  most  embassies 
+are  located  --  has  been  closed  off  on  either  end  with  gates  to  control  entry,  and  large 
+concrete  walls  have  been  erected  around  the  entire  area  and  between  some  embassies 
+without  consultation,  with  jagged  pieces  of  broken  glass  attached  to  tops  of  the.  walls  to 
+prevent  people  from  climbing  over  them.  Hundreds  of  Albanians,  after  receiving  passports 
+wait  outside  the  walled  area  awaiting  permission  to  enter  a  consulate  to  obtain  a  visa. 
+At  the  time  of  the  delegation  visit,  only  Greece  and  Italy  were  known  to  be  processing 
+visas,  since  other  embassies  were  closed  for  repairs  in  light  of  the  large  number  of  people 
+who  had  occupied  their  premises  for  several  days.  The  sudden  decision  to  grant  passports 
+has  led  to  a  large  backlog  of  applications  for  visas,  requiring  only  a  select  number  of 
+people  to  be  permitted  in  the  consulate  offices  each  day.  The  delegation  was  told  that 
+those  waiting  for  visa  processing  are  being  encouraged  by  Albanian  officials  to  blame  the 
+foreign  embassies  for  the  problems  they  are  facing  as  a  result. 
+
+The  Commission  delegation  raised  the  problems  facing  foreign  embassies  in  Tirane 
+with  Albanian  officials,  especially  in  light  of  the  talks  underway  to  resume  diplomatic 
+relations  between  the  United  States  and  Albania.  Chairman  DeConcini  compared  the  wall 
+going  up  in  Tirane  to  the  one  coming  down  in  Berlin.  He  also  told  President  Alia  that  he 
+hoped  U.S.-  Albanian  relations  will  soon  be  reestablished  but  was  concerned  about  how 
+American  diplomats  might  be  treated  in  the  future.  Alia’s  response,  as  well  as  that  of 
+other  Albanian  officials,  was  that  the  embassies  were  the  cause  of  the  problems  they  have 
+faced  since  July,  especially  to  the  extent  they  encourage  Albanian  citizens  to  leave  the 
+country.  They  attributed  all  complaints  and  negative  comments  about  the  situation  in 
+AJbania  made  by  the  foreign  embassies  to  reflect  a  prejudice  against  the  country. 
+
+
+V.  CONCLUSION 
+
+On  August  22,  1990,  the  day  after  the  Commission  visit  to  AJbania  had  concluded, 
+the  three  congressional  members  of  the  delegation  --  Chairman  DeConcini,  Senator 
+Sarbanes  and  Representative  Moody,  made  the  following  joint  statement: 
+
+"Our  congressional  delegation  went  to  Albania  in  the  context  of  that  country's  desire  to  end 
+its  relative  isolation  in  the  world  by  developing  relations  with  the  United  States  of  America 
+as  well  as  joining  the  35-member  Conference  on  Security  and  Cooperation  in  Europe, 
+
+
+-  11  - 
+
+
+known  as  the  CSCE  or  Helsinki  process.  The  purpose  of  this  of  this  3-day  visit  was  to 
+move  beyond  simply  welcoming  this  positive  development  by  initiating  a  dialogue  on  CSCE- 
+related  issues,  including  human  rights.  We  also  wanted  to  obtain  for  ourselves  a  better 
+picture  of  how  the  Albanian  Government’s  policies  and  practices  reflect  the  commitments 
+it  would  undertake  if  it  were  to  become  a  full  member  of  the  CSCE. 
+
+"The  Albanian  Government  extended  warm  hospitality  to  us  during  the  entire  course  of 
+our  stay.  While  not  all  of  our  requests,  such  as  a  visit  to  a  prison  labor  camp,  were 
+granted,  the  program  prepared  for  us  provided  a  good  first  look  at  the  situation  in  Albania, 
+and  we  were  able  to  learn  a  great  deal.  Among  many  other  officials,  we  met  with 
+President  Ramiz  Alia,  Foreign  Minister  Reis  Malile,  Supreme  Court  chairman  Kleanthi 
+Koci,  and  Foto  Cami,  Chairman  of  the  Foreign  Affairs  Permanent  Commission  of  the 
+Albanian  Peoples’  Assembly.  We  also  met  with  members  of  the  popular  front 
+organization,  university  students  and  a  number  of  cultural  figures,  economists,  journalists, 
+foreign  diplomats  and  other  prominent  individuals,  many  of  whom  attended  a  Commission- 
+hosted  reception. 
+
+"We  did  not  agree  on  many  issues,  particularly  those  relating  to  human  rights,  but  our 
+discussions  were  nevertheless  very  frank  and  open.  We  believe  the  dialogue  we  initiated 
+needs  to  be  broadened  and  strengthened.  Albanian  officials  indicated  a  desire  to  end  the 
+decades  of  isolation  and  to  develop  better  relations  with  the  United  States. 
+
+"Albania  has  enjoyed  observer  status  at  the  most  recent  meeting  of  the  Helsinki  process, 
+beginning  with  the  Human  Dimension  Meeting  which  took  place  in  Copenhagen  in  June. 
+The  congressional  delegation  stated  its  continued  support  for  Albanian  observer  status  at 
+future  meetings.  Albanian  officials  indicated  their  interest  in  attaining  full  membership  in 
+the  CSCE  in  the  near  future. 
+
+"We  expressed  our  agreement  with  that  objective  after  Abania  formally  registers  its 
+intention  to  honor  all  existing  CSCE  commitments  and  demonstrates  the  seriousness  of  its 
+intentions  by  compliance  with  these  provisions  than  is  now  the  case.  The  Albanians  said 
+that  they  would  not  accept  any  conditions  on  membership  beyond  what  had  been  accepted 
+by  the  35  member  states. 
+
+"In  this  context,  the  delegation  supported  recent  and  positive  reform  efforts,  including 
+greater  freedom  for  Albanian  citizens  to  travel  abroad  and  the  removal  of  religious 
+propaganda  as  an  offense  punishable  under  the  criminal  code.  We  expressed  our 
+continued  concerns,  however,  over  reports  of  major  human  rights  violations,  including  a 
+sizeable  number  of  political  prisoners,  severe  restrictions  on  religious  practices  made 
+evident  by  the  absence  of  a  single  functioning  place  of  worship  in  the  country,  the  total 
+control  imposed  on  the  Albanian  press,  radio  and  television,  and  certain  restrictions 
+imposed  on  minority  rights  for  members  of  the  Greek  and  other  minorities  in  Abania. 
+
+
+-  12  - 
+
+
+Finally,  while  there  may  soon  be  increased  possibilities  for  some  government  seats  to  be 
+contested  by  more  than  one  candidate,  the  Workers’  Party  of  Albania  which  now  rules  the 
+country  shows  no  sign  of  being  willing  to  share  its  current  monopoly  on  political  power 
+with  alternative  or  opposition  parties.  Indeed,  it  seems  as  if  no  independent  organizations 
+or  groups  of  individuals  with  dissenting  views  are  even  permitted  in  Albania  today. 
+
+"Given  Albania’s  current  level  of  performance  in  these  and  other  areas,  we  are  of  the 
+opinion  that,  as  a  full  CSCE  member,  Albania  would  be  glaringly  out  of  step  with  the 
+rapidly  developing  process  of  democratization,  political  pluralism,  the  rule  of  law  and  free 
+market  economies  that  is  taking  place  throughout  Europe.  We  suggested  that,  in  order 
+to  speed  up  the  process  of  democratization  and  to  have  a  clearer,  more  accurate  picture 
+of  what  human  rights  problems  exist  in  Albania,  the  Albanian  Government  translate  into 
+Albanian  and  make  available  to  the  public  full  texts  of  existing  CSCE  documents,  permit 
+existing  human  rights  organizations  from  abroad  to  visit  Albania  and  investigate  alleged 
+human  rights  abuses,  and  tolerate  the  formation  of  independent  Helsinki  monitoring  groups 
+within  Albania  itself.  Albanian  officials  expressed  a  willingness  to  consider  these 
+suggestions. 
+
+"In  the  meantime,  we  hope  the  dialogue  we  have  initiated  during  our  visit  can  be 
+broadened,  expanded  and  intensified.  This,  we  feel,  would  be  an  important  step  in 
+promoting  mutual  understanding  between  the  Albanian  and  American  peoples." 
+
+
+-  13  - 
+
+
+35-860  -  90  -  2 
+
+
+I.  OBJECTIVES 
+
+
+VISIT  TO  BULGARIA 
+August  22,  1990 
+
+
+The  last  time  the  Commission  visited  Bulgaria  was  in  April  1990,  just  prior  to  the 
+first  free  elections  that  country  held  since  World  War  II.  Given  the  degree  of  repression 
+under  Communist  rule,  serious  questions  arose  at  that  time  as  to  how  well  Bulgaria  would 
+proceed  in  developing  a  democratic  political  system  and  a  pluralistic  society.  While  the 
+subsequent  elections  were  free,  they  were  nevertheless  tainted  by  irregularities  which  made 
+them  less  fair  than  was  hoped. 
+
+The  major  objective  of  the  visit  to  Bulgaria,  therefore,  was  first  to  underscore  the 
+Commission  support  for  Bulgarian  efforts  to  implement  major  political  and  economic 
+reform  and,  second,  to  discuss  persistent  problem  areas  such  as  restoring  the  rights  of 
+members  of  the  Turkish  minority  and  opening  to  public  scrutiny  information  on  the  past 
+activities  of  the  Bulgarian  secret  police. 
+
+The  delegation’s  schedule  precluded  the  longer  stay  in  Bulgaria  that  these  issues 
+deserved,  but,  in  its  meetings  with  the  President,  Zhelyu  Zhelev,  and  the  Prime  Minister, 
+Andrei  Lukanov,  it  was  able  to  have  a  useful  dialogue  on  issues  of  concern  with  the 
+leading  political  authorities  in  the  country. 
+
+
+II.  THE  CONTEXT 
+
+Following  the  November  9,  1989,  ouster  of  long-time  Communist  Party  chief  Todor 
+Zhivkov,  Bulgaria’s  new  communist  leadership  instituted  sweeping  political  and  economic 
+reforms.  Changes  made  following  Zhivkov’s  removal  have  included:  repeal  of  legislation 
+used  to  imprison  dissidents;  the  release  of  political  prisoners;  the  restoration  of  the  rights 
+of  ethnic  Turks  and  other  minorities;  greater  openness  regarding  travel  and  emigration; 
+a  freer  flow  of  information;  renunciation  of  the  Communist  Party’s  leading  role;  and  the 
+holding  of  multi-party  elections  which  have  resulted  in  a  new  parliament. 
+
+During  the  first  four  months  of  1990,  the  ruling  Communist  Party  (which  in 
+February  changed  its  name  to  the  Bulgarian  Socialist  Party)  engaged  in  roundtable  talks 
+with  the  rapidly  growing  opposition  UDF  (Union  of  Democratic  Forces).  On  March  12, 
+they  reached  agreement  on  the  peaceful  transition  to  a  democratic  system,  establishing  a 
+parliament  elected  by  "free  and  competitive  elections,"  and  "the  guaranteeing  of  equality 
+of  all  forms  of  ownership".  On  March  30,  the  roundtable  reached  further  agreements 
+designed  to  underpin  Bulgaria’s  transition  to  a  parliamentary  democracy  through  a  new 
+electoral  law  and  the  creation  of  political  parties. 
+
+
+-  15  - 
+
+
+On  June  10  and  17,  the  first  freely  contested  elections  in  post-War  Bulgaria  were 
+held.  These  elections  can  best  be  summed  up  as  having  been  free  and  democratic,  but  not 
+completely  fair  (with  many  reports  of  voter  intimidation,  especially  in  the  countryside). 
+The  Bulgarian  Socialist  Party  (BSP)  won  211  out  of  400  seats  in  Parliament.  The  main 
+opposition  group  --  the  UDF  --  won  144  seats  and  the  ethnic-Turkish  based  "Movement 
+for  Rights  and  Freedoms"  won  23  seats. 
+
+Bulgaria  has  continued  to  travel  a  rocky  road  to  democracy  since  the  elections.  On 
+July  6,  for  example,  Bulgarian  President  Petur  Mladenov,  who  had  replaced  Zhivkov  last 
+November,  resigned  over  charges  that  he  had  threatened  to  use  tanks  to  disperse  an  anti- 
+Government  protest  last  December.  There  have  been  protests  and  strikes  targeting,  among 
+other  things,  the  slow  pace  of  reforms,  electoral  fraud,  price-hikes  and  pollution.  These 
+have  diminished  following  the  August  1  election  by  the  new  Parliament  (the  Grand 
+National  Assembly)  of  opposition  leader  Zhelyu  Zhelev  to  Bulgaria’s  Presidency,  breaking 
+a  3-week  deadlock  in  which  there  were  six  rounds  of  voting.  Until  Zhelev’s  election,  the 
+opposition  (UDF)  had  steadfastly  resisted  Socialist  Prime  Minister  Andrei  Lukanov’s  calls 
+for  UDF  participation  in  a  coalition  government.  Since  his  election,  President  Zhelev  has 
+continued  to  favor  a  "cabinet  of  experts"  and  not  a  coalition  government. 
+
+The  new  Bulgarian  government  faces  numerous  challenges  in  transforming  Bulgaria 
+into  a  democratic,  pluralistic  state  with  a  market-oriented  economy.  Various  economic 
+reforms  are  being  proposed  to  facilitate  Bulgaria’s  transition  from  a  centrally  planned 
+economy  to  a  market  economy,  including  increasing  economic  independence  of  enterprises, 
+freeing  prices  from  state  control,  and  offering  options  for  private,  cooperative  and  state 
+ownership  of  property. 
+
+Bulgaria  faces  a  growing  economic  crisis,  however,  the  result  of  a  centralized 
+command  economy  dominated  by  decades  of  inefficiency,  corruption  and  shortages.  The 
+economy  is  stagnant,  with  declining  industrial  production,  shortages  of  commodities,  rising 
+prices  and  growing  unemployment.  Bulgaria  has  suspended  payments  on  its  10.2  billion 
+dollar  foreign  debt.  Also,  the  Soviets  have  cut  back  on  crude  oil  shipments  to  Bulgaria  and 
+fuel  prices  have  risen  sharply.  Hard  currency  reserves  have  collapsed  from  one  billion 
+dollars  in  January  to  less  than  200  million  dollars  at  the  present  time.  Adhering  to  the 
+Iraq  embargo  will  only  increase  strains  on  the  economy.  Iraq  owes  an  estimated  one 
+billion  dollars  to  Bulgaria.  Sofia  was  expecting  to  convert  part  of  these  loans  into  oil. 
+Bulgaria  had  signed  a  contract  with  Iraq  for  the  supply  of  five  million  tons  spread  over 
+4  years. 
+
+Bulgaria  has  applied  to  join  the  International  Monetary  Fund  (IMF)  and  the  World 
+Bank,  and  in  May  signed  a  10-year  agreement  on  trade  and  economic  cooperation  with  the 
+European  Community. 
+
+
+-  16  - 
+
+
+In  December  1989,  the  Bulgarian  government  restored  the  rights  of  ethnic  Turks 
+and  other  Muslim  minorities  (approx.  15  percent  of  the  population),  reversing  Zhivkov’s 
+notorious  assimilation  campaign.  Since  then,  conditions  have  generally  improved  --  Turks 
+are  again  allowed  to  use  their  own  names,  speak  their  language  etc.,  and  they  now  have 
+some  voice  in  Parliament  (foremost,  23  representatives  of  Ahmet  Dogan’s  ethnic-Turkish 
+based  "Rights  and  Freedoms  Movement").  Also,  nearly  half  of  the  ethnic  Turks  who  left 
+Bulgaria  in  last  summer’s  exodus  have  returned. 
+
+Despite,  or  perhaps  because  of  these  improvements,  there  have  been  tensions 
+between  the  Turkish  minority  and  some  ethnic  Bulgarian  nationalists,  who  fear  ethnic 
+Turkish  resurgence  and  who  have  recently  staged  strikes  against  the  presence  of  "Turks  in 
+Parliament." 
+
+
+III.  THE  VISIT 
+
+The  delegation  arrived  in  Bulgaria  late  in  the  evening  of  August  21.  Its  first  activity 
+was  a  spontaneous  one:  delegation  members  visited  an  area  near  the  National  Assembly 
+in  the  center  of  Sofia  where  demonstrators  had  gathered  to  voice  dissatisfaction  with  the 
+pace  of  change  and,  more  specifically,  the  continued  existence  of  symbols  of  the  former 
+Communist  regime  on  official  buildings.  When  demonstrators  saw  from  a  considerable 
+distance  members  of  the  delegation  inside  the  police  barricades,  they  mistakenly  took  them 
+for  Assembly  members  and  angrily  shouted  "Communist!  Communist!"  However,  when  the 
+delegation  approached  the  crowd,  which  suddenly  realized  it  was  a  group  of  Americans, 
+chants  turned  immediately  to  an  enthusiastic  and  welcoming  "U.S.A.!,  U.S.A.!"  --  a  sign  of 
+the  popularity  which  the  United  States  is  now  enjoying  in  Bulgaria. 
+
+On  the  morning  of  August  22,  after  a  briefing  on  the  current  situation  in  Bulgaria 
+by  the  U.S.  Charge  d’  Affaires,  the  Commission  first  met  with  President  Zhelyu  Zhelev  and 
+some  of  his  chief  advisors.  Zhelev  began  with  an  overview  of  efforts  to  further 
+democratize  the  political  system  and  marketize  the  economy  in  the  post-election  period. 
+He  called  political  changes  to  date  irreversible,  adding  that  the  only  danger  is  that  future 
+efforts  at  change  might  not  take  place  in  peaceful  channels.  While  he  said  he  would  not 
+use  the  Polish  term  "shock  therapy,"  he  said  that  radical  economic  reform  would  take  place 
+as  quickly  as  possible.  The  President  expressed  gratitude  for  U.S.  interest  and  help  in 
+making  democratization  possible  in  Bulgaria. 
+
+
+-  17  - 
+
+
+On  economic  issues,  Zhelev  gave  a  bleak  picture  of  the  economic  situation  in 
+Bulgaria,  made  worse  by  the  Persian  Gulf  crisis.  The  Soviet  Union  had  reduced  its 
+deliveries  to  Bulgaria,  and  Iraq  owed  Bulgaria  1.2  billion  dollars,  which  was  to  be  paid  with 
+oil.  He  said  that  this  situation,  along  with  a  bad  harvest  this  year  threatened  economic 
+reform  and  could  lead  to  major  shortages  as  winter  approached.  He  reported  that 
+Bulgaria  was  requesting  assistance  from  the  United  States,  the  United  Nations  and  the 
+European  Community.  The  delegation  said  that  it  would  pursue  specific  requests  for 
+assistance  from  the  United  States.  When  it  cautioned  that  the  United  States  had  some 
+economic  difficulties  which  might  limit  the  extent  of  U.S.  assistance,  Zhelev  remarked  that 
+he  wished  Bulgaria  would  have  the  economic  problems  of  the  United  States. 
+
+When  asked  about  how  the  new  government  was  dealing  with  the  secret  police  of 
+the  Communist  regime,  President  Zhelev  committed  himself  to  expose  past  crimes  that 
+were  previously  covered  up.  The  Socialist  Party  did  not  oppose  such  efforts,  it  was  added, 
+but  did  at  times  obstruct  them.  Control  of  the  secret  police  was  described  as  within  the 
+jurisdiction  of  the  President  as  a  national  defense  issue. 
+
+The  meeting  with  Prime  Minister  Andrei  Lukanov  immediately  followed  the  meeting 
+with  President  Zhelev.  Lukanov  shared  Zhelev’s  view  that  the  changes  which  had  taken 
+place  in  Bulgaria  since  late  1989  were  irreversible.  He  described  the  major  difference 
+between  his  own  Socialist  Party  and  the  Union  of  Democratic  Forces  as  centering  on 
+whether  or  not  socialism  would  be  one  of  the  pillars  of  Bulgarian  democracy.  He  said  that 
+within  the  Socialist  Party  the  remnants  of  Stalinism  still  exist,  but  they  were  very  weak  and 
+losing  ground  every  day. 
+
+Like  Zhelev,  Lukanov  also  stressed  the  economic  plight  which  Bulgaria  now  faces, 
+including  a  heavy  external  debt,  on  which  it  had  to  stop  payment,  and  which  was  now 
+made  worse  by  the  Persian  Gulf  crisis.  He  also  said  that  the  disintegration  of  the  East 
+bloc  trading  organization  -  the  Council  on  Mutual  Economic  Assistance  (also  known  as 
+CMEA  or  COMECON)  -  had  disrupted  the  Bulgarian  economy. 
+
+The  discussion  then  turned  to  the  situation  of  the  Turkish  minority.  Prime  Minister 
+Lukanov  maintained  that  all  measures  directed  against  the  "Muslim  population"  in  1984 
+and  1985  had  been  abolished,  and  the  main  issue  now  concerns  the  legal  procedure  by 
+which  those  who  want  to  return  to  their  Muslim  name  can  do  so.  He  added,  however,  that 
+some  Muslims  wanted  to  retain  their  new  Slavic  names,  as  they  felt  themselves  fully 
+integrated  into  Bulgarian  society.  Lukanov  also  said  that  there  were  still  popular  fears  in 
+Bulgaria  about  Turkey,  and  worries  that  neither  the  USSR  nor  the  United  States,  the 
+United  Nations  nor  anybody  else  would  come  to  Bulgaria’s  aid  if  the  country  were  attacked 
+by  Turkey.  He  said  that  he  would  soon  visit  Turkish  President  Ozal,  however,  who  was 
+a  close  friend  and  with  whom  he  hoped  to  improve  relations. 
+
+
+-  18  - 
+
+
+A  wide  range  of  other  issues  was  also  raised  with  Lukanov.  Regarding  the  activities 
+of  the  secret  police,  he  said  that  Bulgaria  would  cooperate  with  foreign  governments  on 
+specific  cases  involving  the  Bulgarian  secret  police,  such  as  on  the  famous  "umbrella  case" 
+with  British  officials;  that  he  doubted  Bulgarian  complicity  in  the  1981  assassination  attempt 
+on  Pope  John  Paul  II;  and  that  the  files  of  the  secret  police  would  likely  be  opened,  but 
+only  after  consideration  was  first  given  to  the  implications  of  specific  files  on  national 
+security  concerns.  The  Prime  Minister  also  acknowledged  severe  environmental  problems 
+in  the  country,  but  claimed  that  clean-up  efforts  such  as  closing  the  worst  polluting  plants 
+would  be  difficult  from  an  economic  point  of  view.  On  Balkan  cooperation,  Lukanov 
+expressed  concern  over  increased  instability  in  both  Yugoslavia  and  Albania,  mentioning 
+specifically  the  resurfacing  of  the  Macedonian  question.  He  commented  that  Albanians 
+are  known  to  be  the  most  stubborn  among  stubborn  peoples,  and  that  the  unique  form 
+of  totalitarianism  in  Albania  will  be  a  problem.  He  added,  however,  that  granting  the 
+Albanian  request  to  become  a  full  member  of  the  CSCE  process  was  one  important  way 
+to  help  those  within  Albania  who  are  working  for  reform. 
+
+
+-  19  - 
+
+
+. 
+
+
+VISIT  TO  CZECHOSLOVAKIA 
+August  22-23,  1990 
+
+
+I.  OVERVIEW  AND  OBJECTIVES 
+
+Chairman  DeConcini’s  visit  to  Czechoslovakia  focused  on  two  concerns.  First,  the 
+Commission  wanted  to  discuss  Czechoslovak  initiatives  within  the  Helsinki  process;  second, 
+Chairman  DeConcini  wanted  to  follow-up  on  environmental  questions  which  Czech  Premier 
+Pithart  had  raised  during  his  visit  to  Washington  earlier  this  year. 
+
+The  Czechoslovakia’s  new  government  has  been  particularly  active  with  respect  to 
+the  Helsinki  process  for  several  reasons.  Many  of  Prague’s  new  leaders  come  out  of  the 
+human  rights  community,  and  they  believe  that  the  Helsinki  process  directly  contributed 
+to  the  democratic  "velvet  revolution"  which  took  place  in  Czechoslovakia  last  November 
+and  December.  These  new  leaders  also  see  the  Helsinki  process  as  a  route  of  integration 
+into  Europe  and  a  possible  source  of  security  guarantees  outside  the  Warsaw  Pact. 
+
+The  Commission  also  focused  on  environmental  issues  during  its  visit  to  Czechos¬ 
+lovakia.  Environmental  issues,  part  of  Basket  II  in  the  Helsinki  process,  have  taken  on  a 
+new  prominence  now  that  many  traditional  human  rights  issues  are  being  resolved. 
+Moreover,  it  has  become  increasingly  clear  that  environmental  problems  do  not  recognize 
+national  boarders.  This  is  an  area  where  multilateral  efforts  must  be  undertaken  if  the 
+participating  States  are  to  meet  with  success. 
+
+
+II.  CONTEXT  OF  THE  VISIT 
+
+Prelude  to  Revolution: 
+
+■  Czechoslovakia’s  human  rights  record  was  a  relatively  poor  one.  The  communist 
+authorities  paid  lip  service  to  the  concepts  of  perestroika  and  glasnost  without 
+implementing  them. 
+
+■  Nevertheless,  in  1988-89,  independent  opposition  activities  such  as  demonstrations, 
+publishing,  and  religious  activism  grew,  in  spite  of  increasing  repression. 
+
+■  On  17  November,  students  attempted  to  hold  an  independent  demonstration  in 
+Prague.  The  authorities’  response  was  particularly  brutal,  fueling  rumors  that  a 
+student  had  been  clubbed  to  death.  Although  the  rumor  turned  out  to  be  untrue, 
+the  ruthless  police  actions  on  the  17th  triggered  massive  protest  demonstrations;  the 
+demonstrations  grew  each  day,  and  each  day  spread  to  more  cities. 
+
+
+-  21  - 
+
+
+On  19  November,  a  new  group  calling  itself  Civic  Forum  emerged,  claiming  to 
+represent  virtually  every  opposition  group  in  Czechoslovakia.  The  Czechoslovak 
+government  responded  to  the  demonstrations  and  to  the  new  group  by  stalling, 
+offering  half-measure  reforms.  Finally,  on  27  November  Civic  Forum  organized  a 
+2-hour  work  stoppage  which  paralyzed  the  country,  proving  it  was  a  force  with  which 
+to  be  reckoned.  The  work  stoppage  is  estimated  to  have  involved  upwards  of  six 
+million  people  and  75%  of  the  work  force. 
+
+
+The  First  Wave  of  Political  Changes: 
+
+The  Communist  leadership  in  Prague  continued  to  make  promises  without  delivering  during 
+the  first  half  of  December;  but  by  the  second  half  of  December,  after  Civic  Forum 
+threatened  additional  work  stops,  opposition  demands  began  to  be  met.  The  following 
+wave  of  reform  was  subsequently  implemented  in  the  first  few  months  after  the  "Velvet 
+Revolution": 
+
+■  the  Federal  Assembly  voted  on  29  November  to  remove  the  "leading  role  of  the 
+Communist  Party"  language  from  the  Constitution; 
+
+■  all  known  political  prisoners  were  released; 
+
+■  Marxism-Leninism  was  removed  as  a  required  course  from  school  curricula; 
+
+■  travel  restrictions  have  been  ended  (open  borders); 
+
+■  control  over  the  People’s  Militia  was  transferred  from  the  Party  to  the  Government; 
+
+■  Communist  President  Gustav  Husak  stepped  down  on  10  December  and  Vaclav 
+Havel  was  voted  to  replace  him  on  29  December; 
+
+■  the  Federal  Assembly  on  12  December  voted  to  hold  former  General  Secretary 
+Jakes  responsible  for  police  brutality  on  17  November; 
+
+■  on  12  December  the  Federal  Assembly  passed  a  resolution  condemning  the  1968 
+Soviet-led  invasion  of  Czechoslovakia; 
+
+■  Alexander  Dubcek,  leader  of  the  1968  Prague  Spring,  was  elected  Chairman  of  the 
+Federal  Assembly  on  28  December; 
+
+■  newly  appointed  Foreign  Minister  Jiri  Dienstbier  announced  that  the  "temporary" 
+1968  agreement  allowing  Soviet  troops  to  remain  in  Czechoslovakia  was  invalid 
+because  it  was  agreed  to  under  duress; 
+
+■  approximately  40  Czechoslovak  ambassadors  were  recalled; 
+
+■  the  Politburo  announced  it  would  end  the  nomenklatura  system  of  reserving  certain 
+jobs  for  party  functionaries; 
+
+■  a  Foreign  Minister  spokesperson  announced  on  9  January  that  Soviet  troops  should 
+withdraw  from  Czechoslovakia  by  the  end  of  the  year  (subsequently  extended  to 
+mid-1991); 
+
+■  the  secret  police  was  abolished  on  1  February. 
+
+
+-  22  - 
+
+
+The  New  Government’s  Five-Point  Program,  announced  by  Prime  Minister  Calf  a  on  3  July: 
+
+■  Improve  the  state  administrative  system,  including  measures  to  improve  relations 
+between  the  central  government  and  local  districts  and  between  the  Czech  and 
+Slovak  Republics; 
+
+■  Effect  a  transition  from  a  centrally  planned  economy  to  a  market  economy,  while 
+stabilizing  the  economy  and  keeping  inflation  and  unemployment  under  control; 
+
+■  Create  a  healthy  environment  and  reduce  fuel  and  energy  consumption; 
+
+■  Defend  human  rights; 
+
+■  Draw  Czechoslovakia  back  into  the  community  of  European  nations. 
+
+Key  Domestic  Political  Problems  Which  Remain: 
+
+■  Who  will  really  control  the  secret  police,  and  how? 
+
+■  How  can  you  maintain  accountability  of  the  former  leadership  (necessary  to  establish 
+the  credibility  for  the  new  leadership),  without  degenerating  into  a  cycle  of  revenge? 
+
+■  How  can  people  who  have  been  forcibly  kept  out  of  politics  for  four  decades  learn 
+how  to  establish  political  parties  and,  ultimately,  govern  a  country? 
+
+■  Can  relations  between  the  country’s  various  ethnic  groups,  particularly  the  Czechs 
+and  the  Slovaks,  be  reflected  in  a  constitutional  framework  that  is  acceptable  to  all 
+parties? 
+
+
+Helsinki  Process 
+
+The  new  Czechoslovak  government  has  made  the  CSCE  process  one  of  its  foreign 
+policy  priorities,  seeing  in  it  a  route  of  integration  into  Europe  and  a  possible  source  of 
+security  guarantees  outside  the  Warsaw  Pact.  At  the  Copenhagen  Meeting  in  June, 
+Czechoslovak  Foreign  Minister  Dienstbier  proposed  Prague  as  a  site  for  a  future  CSCE 
+secretariat;  Secretary  Baker  has  expressed  some  support  for  this.  In  Vienna,  the 
+Czechoslovaks  have  sought  to  play  a  mediating  role  in  facilitating  preparations  for  the  Paris 
+summit  (tentatively  set  for  November)  and  the  CSBMs,  as  well  as  to  remind  the  conference 
+of  the  importance  of  the  larger  process. 
+
+From  a  security  standpoint,  Czechoslovakia  sees  the  Helsinki  process  as  capable  of 
+filling  the  growing  void  left  by  the  virtual  dissolution  of  the  Warsaw  Pact  and  the  retreat 
+of  the  Soviet  Union.  Foreign  Minister  Dienstbier  has  quipped  that,  "there’s  nothing  wrong 
+with  NATO  —  except  that  we’re  not  in  it."  Czechoslovak  leaders  have  indicated  that 
+they’re  not  adverse  to  remaining  in  the  Warsaw  Pact,  but  at  the  same  time  it  is  clear  that 
+their  vision  for  the  Warsaw  Pact  is  so  different  that  the  Pact  would  remain  the  same  in 
+
+
+-  23  - 
+
+
+name  only.  Their  primary  concern  is  that  East  European  countries,  including  the  Soviet 
+Union,  not  be  isolated  outside  of  a  NATO  security  structure. 
+
+From  a  human  rights  standpoint,  it  must  be  remembered  that  President  Havel 
+comes  to  his  new  political  prominence  as  a  former  dissident  and  member  of  the  (formerly 
+outlawed)  Czechoslovak  Helsinki  Committee  and  the  Charter  77  human  rights  movement, 
+as  does  his  Foreign  Minister,  Jiri  Dienstbier;  his  Ambassador  to  the  United  States,  Rita 
+Klimova;  and  host  of  other  now  high-ranking  government  and  parliamentary  officials.  In 
+the  human  rights  sphere,  Czechoslovakia’s  new  leaders  have  personally  seen  a  direct  cause- 
+and-effect  relationship  between  the  reforms  which  have  been  achieved  in  Eastern  Europe 
+and  the  Helsinki  process. 
+
+At  the  Copenhagen  Meeting  of  the  Conference  on  the  Human  Dimension, 
+Czechoslovakia  named  Dr.  Jiri  Hajek  —  Foreign  Minister  during  the  Prague  Spring  and  a 
+man  of  impeccable  human  rights  credentials  --  as  head  of  their  delegation.  It  was  at  this 
+meeting  that  a  new  negotiating  group  emerged  called  the  "Pentagonale."  Consisting  of 
+Czechoslovakia,  Hungary,  Yugoslavia,  Italy,  and  Austria,  these  neutral  and  non-aligned, 
+NATO,  and  Warsaw  Pact  countries  share  a  set  of  borders  and  many  common  interests. 
+So  far,  their  coordination  has  been  limited  to  specific  areas  of  interest:  in  Copenhagen, 
+it  was  minority  rights;  elsewhere,  they  are  coordinating  road  management  and  other 
+transportation  concerns.  It  remains  to  be  seen  how  this  relationship  will  evolve.  To  date, 
+these  five  have  not  coordinated  their  efforts  in  the  military  talks  in  Vienna. 
+
+The  new  Czechoslovak  leadership  has  decided  to  take  on  an  active  role  in  all  areas 
+of  CSCE  and  has  proposed  several  new  initiatives.  For  example,  while  visiting  the  Council 
+of  Europe  in  Strasbourg  in  May,  President  Havel  called  for  a  "Helsinki  zone"  from 
+Vladivostok  to  Vancouver  that  would  overcome  the  division  of  Europe  and  promote 
+disarmament.  At  the  Vienna  Meeting  on  Confidence-  and  Security-Building  Measures 
+(CSBMs),  Czechoslovakia  put  forward  an  ambitious  initiative  for  a  European  Security 
+Council  leading  eventually  to  European  federation.  When  most  Western  countries  rejected 
+the  idea  as  overly  ambitious,  the  Czechoslovaks  dropped  the  more  long-range  provisions 
+and  enlisted  the  support  of  the  GDR  and  Poland.  They  then  twice  convened  all  the 
+ambassadors  from  CSCE  countries  in  Prague  to  lobby  for  the  initiative  prior  to  the 
+convening  of  the  preparatory  conference  in  July. 
+
+
+The  Economic  Front: 
+
+•  Prior  to  WWII,  Czechoslovakia  had  one  of  the  strongest  industrial  economies  in  the 
+world.  Although,  like  elsewhere  in  Eastern  Europe,  Communist  mismanagement  has 
+taken  its  toll,  the  economy  in  Czechoslovakia  is  relatively  better  off  than  in  most  of 
+its  neighboring  socialist  states. 
+
+
+-  24  - 
+
+
+At  the  end  of  February,  the  Czechoslovak  government  passed  the  first  package  of 
+legislation  aimed  at  laying  the  foundation  for  a  transition  to  a  free  market  economy. 
+But  shortly  after  the  revolution,  two  schools  of  competing  thought  emerged 
+regarding  the  degree  and  pace  of  economic  reform:  a  group  of  radical  reformers 
+led  by  Vaclav  Klaus  advocating  shock  therapy  on  the  one  hand,  and  another  group 
+led  by  Valtr  Komarek  advocating  gradual  reform  on  the  other.  After  the  June 
+elections,  Komarek  left  the  government  and  the  signs  indicate  a  more  rapid  pace 
+of  reform  will  be  pursued. 
+
+At  a  recent  meeting  of  the  Eastern  trading  organization  "CMEA,"  Czechoslovak 
+Finance  Minister  Klaus  stated  that  he  saw  no  reason  for  the  continuation  of  the 
+organization.  At  that  meeting,  it  was  decided  the  countries  would  begin  trading 
+among  themselves  on  a  dollar  basis. 
+
+Czechoslovakia’s  economic  priorities  now  include  raising  prices  to  bring  them  closer 
+to  production  costs  and  relieving  the  state  of  huge  subsidies;  breaking  up  over¬ 
+sized  enterprises,  offering  some  of  them  for  sale;  moving  towards  a  convertible 
+Czechoslovak  koruna  (crown)  in  1991;  and  decentralizing  economic  decision-making 
+to  the  republic  and  local  level.  At  the  same  time,  the  government  wants  keep 
+unemployment  and  inflation  under  control. 
+
+In  implementing  its  reforms,  Czechoslovakia  must  grapple  with  the  same  problems 
+of  transition  that  exist  elsewhere  in  the  region:  how  to  privatize  the  state-owned 
+industry,  and  what  to  do  with  the  nomenklatura  (communist  party-appointed 
+bureaucracy). 
+
+
+III.  MEETINGS 
+
+Meeting  with  Deputy  Foreign  Minister  Zdenek  Matejka 
+
+Deputy  Foreign  Minister  and  current  Warsaw  Pact  Secretary  General  Zdenek 
+Matejka  briefed  the  delegation  on  efforts  to  dismantle  the  military  structures  of  the 
+Warsaw  Pact.  He  described  the  task  of  the  Warsaw  Pact  is  to  dismantle  its  structures,  but 
+noted  that  differences  exist  on  the  scale  and  timetable  for  this  process.  Minister  Matejka 
+believes  that  the  Pact  will  be  successfully  transformed,  but  added  that  Czechoslovakia 
+would  support  the  continued  existence  of  the  Warsaw  Pact  if  transformation  was  not 
+possible. 
+
+Minister  Matejka  said  the  Helsinki  process  as  "the  most  important  thing  in  Europe." 
+This  view  is  reflected  in  the  Czechoslovak  proposals  for  a  new  European  security  structure 
+and  for  placing  a  CSCE  secretariat  in  Prague.  Matejka  reassured  the  delegation  that 
+NATO  will  continue  to  have  a  role  in  a  restructured  Europe,  and  conceded  that  problems 
+could  arise  in  a  crisis  if  any  new  European  security  system  required  consensus. 
+
+
+-  25  - 
+
+
+He  also  admitted  that  he  did  not  know  what  might  be  done  should  aggression  arise  within 
+the  nations  which  were  part  of  any  new  security  system.  Czechoslovakia’s  primary  concern 
+is  that  the  bloc-to-bloc  system  which  characterized  former  East-West  relations  be  replaced. 
+In  the  current  climate,  things  which  Czechoslovakia  had  formerly  rejected,  such  as  a 
+conflict  resolution  mechanism  with  "obligatory  jurisdiction,"  might  be  possible. 
+
+The  Minister  stated  that  the  pending  disappearance  of  the  GDR  had  created 
+problems  within  the  Pact,  as  those  weapons  which  had  been  assigned  to  the  GDR 
+according  to  previous  agreements  now  had  to  be  redistributed.  While  Czechoslovakia  is 
+not  interested  in  a  higher  quota,  Bulgaria  wants  an  additional  1,500  tanks  to  protect  itself 
+against  what  is  seen  as  a  Turkish  threat,  and  the  Hungarians  feel  that  the  limits  previously 
+set  for  them  had  generally  been  too  low.  Matejka  was  unsure  of  the  Soviet  position  on 
+reallocation  of  the  limits,  and  concluded  that  issues  unresolved  by  the  time  of  the  Paris 
+summit  would  simply  have  to  wait  for  Helsinki  II. 
+
+With  respect  to  Albanian  participation  in  the  CSCE  process,  Matejka  affirmed  that 
+Czechoslovakia  has  included  Albania  in  discussions  concerning  a  new  European  security 
+system.  Although  full  membership  for  Albania  in  the  CSCE  process  is  not  warranted,  the 
+Minister  argued  that  observer  status  is  most  appropriate. 
+
+
+Meeting  with  Josef  Vavrousek, 
+
+Minister  of  the  Federal  Commission  for  the  Environment 
+
+Josef  Vavrousek,  Minister,  Federal  Commission  for  the  Environment,  presented  the 
+delegation  with  a  parade  of  horribles  as  he  recounted  the  state  of  the  Czechoslovak 
+environment.  He  indicated  that  a  high  priority  of  the  new  government  was  to  identify 
+possible  sources  of  assistance  to  fix  existing  damage,  as  well  as  to  gain  the  know-how  to 
+avoid  similar  problems  from  reoccurring. 
+
+Vavrousek  freely  admitted  that  Czechoslovakia  created  pollution  which  affected  its 
+neighbors.  He  specifically  indicated  that  Czechoslovakia  exports  water  pollution  via  the 
+Elbe  river  to  the  Baltic  region  and  to  air  pollution  throughout  Europe,  including  acid  rain 
+in  Finland  and  Sweden.  He  also  referred  to  Hungarian  concerns  about  potential 
+environmental  problems  which  completion  of  the  Gabcikova-Nagymoros  dam  project  would 
+cause,  and  Austrian  allegations  that  Czechoslovak  nuclear  power  stations  were  not  safe. 
+These  examples  underscored  Minister  Vavrousek’s  assertion  that  environmental  problems 
+cannot  be  solved  by  one  country  alone,  but  require  trans-border  efforts. 
+
+
+-  26  - 
+
+
+Vavrousek  described  ground  water  pollution  and  other  damage  caused  by  practices 
+of  Soviet  troops  stationed  in  his  country,  but  indicated  Soviet-caused  pollution  constituted 
+perhaps  only  five  percent  of  the  total  environmental  problem,  and  that  Czechoslovaks  were 
+responsible  for  the  remainder.  Vavrousek  stated  that  the  Soviets  in  principle  agree  they 
+should  pay  for  the  damage  they  had  caused,  but  generally  claim  environmental  damage 
+existed  prior  to  Soviet  occupation  of  various  sites. 
+
+Vavrousek  stated  that  the  federal  government  was  attempting  to  find  a  new  division 
+of  powers  for  decision  making  concerning  the  environment.  The  federal  government  now 
+will  have  three  primary  responsibilities:  1)  the  drafting  of  environmental  laws  and 
+regulations  (which  are  equally  applicable  to  both  republics  and  compatible  with  EC 
+standards),  2)  the  formulation  of  an  overall  environmental  policy  for  the  entire  country 
+compatible  with  social  and  economic  policies,  and  3)  international  cooperation.  Issues  not 
+falling  in  these  three  areas  would  be  the  responsibility  of  the  individual  republics. 
+
+The  Minister  voiced  his  hopes  that  American  firms  and  Czechoslovak  enterprises 
+would  cooperate  in  clean  up  efforts.  However,  lack  of  specific  legislation  concerning  joint 
+ventures  and  a  lack  of  hard  currency  were  inhibiting  such  cooperation. 
+
+
+Meeting  with  Jaroslav  Sabata, 
+
+Czech  Minister  without  Portfolio 
+
+The  delegation  met  with  Jaroslav  Sabata,  Minister  without  Portfolio  of  the  Czech 
+Republic,  who  spoke  primarily  in  his  capacity  as  chairman  of  the  Preparatory  Committee 
+of  the  Helsinki  Citizen’s  Assembly  (HCA),  a  private  organization  which  will  be  formally 
+founded  at  an  international  meeting  in  October. 
+
+Minister  Sabata  admitted  that  he  was  in  a  bit  of  a  paradoxical  position,  serving  as 
+a  high  government  official,  while  at  the  same  time  working  for  a  "private  organization" 
+concerned  with  the  Helsinki  process.  Nevertheless,  he  indicated  that  such  paradoxes  are 
+consistent  with  the  times.  Sabata  indicated  that  he  will  not  serve  in  a  HCA  leadership 
+position  after  the  October  meeting. 
+
+Sabata  described  the  HCA  as  a  place  for  private  citizens  to  meet  and  participate 
+in  political  life.  The  HCA  will  have  close  contact  with  other  Helsinki-oriented  groups, 
+including  the  Czechoslovak  Helsinki  Committee.  However,  unlike  the  Czechoslovak 
+Helsinki  Committee,  the  HCA  will  not  limit  its  focus  to  human  rights  questions,  but  will 
+address  all  aspects  of  the  Helsinki  process.  The  HCA  is  particularly  interested  in 
+developing  regional  cooperation  with  other  like-minded  groups  from  other  countries. 
+
+
+-  27  - 
+
+
+Sabata  also  addressed  the  issue  of  Slovak-Czech  relations,  which  he  described  as 
+having  the  potential  to  create  a  crisis.  Both  the  Czech  and  Slovak  governments  agreed 
+that  most  authority  should  be  vested  in  the  republic  governments,  but  Sabata  believes  that 
+the  Slovak  government  had  moved  too  quickly  on  the  issue.  Sabata  estimated  that  at  most 
+only  20%  of  Slovaks  favored  independence  and  called  Federal  Prime  Minister  Calfa  and 
+Federal  Assembly  Chairman  Alexander  Dubcek  (both  Slovaks)  committed  federalists. 
+Sabata  also  noted  that  other  groups  in  and  with  connections  to  Czechoslovakia,  such  as 
+various  ethnic  Germans,  now  have  agendas. 
+
+
+Meeting  with  Sasa  Vondra, 
+
+Senior  Foreign  Policy  Advisor  to  President  Havel 
+
+Presidential  Foreign  Policy  advisor  Sasa  Vondra  opened  the  discussion  with 
+consideration  of  domestic  political  issues.  Vondra  speculated  that  small  groups  would 
+leave  the  Forum  for  their  own  political  organizations.  As  a  result,  Civic  Forum  would 
+become  more  like  an  American-style  political  party,  with  a  broad  base  and  relatively  weak 
+party  discipline.  Vondra  said  he  would  personally  favor  this  development. 
+
+Vondra  expects  that  local  elections  conducted  in  November  will  be  by  majoritarian 
+system,  and  that  as  a  consequence  party  influence  will  be  lessened.  He  did  not  believe 
+that  the  96%  voter  turn-out  witnessed  in  the  June  elections  would  be  repeated.  Vondra 
+hopes  that  the  Civic  Forum  structure  will  be  changed  before  the  local  elections,  to  give  the 
+political  movement  more  direction  from  the  center  and  a  central  staff  capable  of 
+supporting  local  Civic  Forum  organizations. 
+
+Questioned  about  the  so-called  "Pentagonale”  group  (Austria,  Hungary,  Czecho¬ 
+slovakia,  Yugoslavia,  and  Italy),  Vondra  assured  the  delegation  that  this  new  negotiating 
+alignment  is  not  an  attempt  to  create  a  later-day  Hapsburg  Empire,  but  rather  a  reflection 
+of  a  vacuum  on  the  map  of  Europe.  The  real  goal  of  the  group  is  to  facilitate  regional 
+cooperation  within  the  context  of  eventual  European  integration.  Vondra  expects  that  in 
+the  near  future  the  group  will  focus  primarily  on  mutual  cooperation  (e.g.,  transportation 
+questions)  and  not  security  issues. 
+
+Vondra  also  addressed  the  Czechoslovak  proposal  for  a  new  European  security 
+system.  He  characterized  the  concept  of  two  blocs  as  anachronistic  but  also  stated  that 
+he  did  not  like  the  idea  of  a  neutral  Eastern  Europe  under  the  protection  of  NATO, 
+recalling  what  happened  with  previous  "guarantees"  to  Czechoslovakia’s  security  in  the  past. 
+He  encouraged  those  who  oppose  Czechoslovakia’s  proposals  to  improve  and  refine  them. 
+Echoing  Matejka’s  assurances  regarding  NATO,  Vondra  went  on  to  say  that  he  favored 
+the  creation  of  a  CSCE  dispute  resolution  center  to  deal  with,  inter  alia,  ethnic  conflicts. 
+NATO  and  such  new  mechanisms  could  complement  each  other. 
+
+
+-  28  - 
+
+
+Other  Activities 
+
+
+The  delegation  paid  a  brief  call  on  Frantisek  Cardinal  Tomasek,  Archbishop  of 
+Prague  to  pay  their  respects  and  commend  His  Eminence  on  his  strong  support  of  the 
+democratic  movement  in  Czechoslovakia.  Cardinal  Tomasek  reassured  the  delegation  that 
+reforms  providing  for  religious  freedom  had  been  or  are  being  implemented. 
+
+DCM  Theodore  Russell  hosted  a  reception  for  the  delegation  on  the  evening  of 
+their  arrival.  The  invitees  included  many  of  the  traditional  human  rights  activists  whom 
+the  Commission  has  supported  over  the  years,  including  many  who  are  now  in  public  office. 
+Others  have  remained  in  the  private  sector  as  publishers,  academics,  and  representatives 
+of  non-governmental  organizations. 
+
+The  delegation  hosted  a  lunch  for  Czech  Prime  Minister  Petr  Pithart,  whom 
+Chairman  DeConcini  had  previously  met  in  Washington.  Among  those  attending  the  lunch 
+were  cabinet  officials  from  the  Czech  Republic  responsible  for  economic  and  environmental 
+matters.  After  the  lunch,  the  delegation  proceeded,  at  the  invitation  of  the  Prime  Minister, 
+to  the  site  of  a  former  Soviet  military  base  at  Janska,  near  Decin  in  northern  Bohemia. 
+In  fact,  the  base  had  just  been  returned  to  Czechoslovak  control  a  few  hours  earlier.  The 
+purpose  of  the  visit  was  to  examine  environmental  damage  caused  by  the  occupying  forces. 
+The  delegation  was  accompanied  by  environmental  officials  as  well  as  Czechoslovak  army 
+officers. 
+
+
+-  29  - 
+
+
+VISIT  TO  BERLIN 
+August  24,  1990 
+
+
+I.  OBJECTIVES 
+
+The  main  purpose  of  the  Commission  delegation  visit  to  Berlin  was  to  learn  the 
+views  of  senior  members  of  the  democratically  elected  East  German  government  regarding 
+the  imminent  unification  of  their  country  with  West  Germany.  At  the  time  of  the  visit,  the 
+government  was  in  the  midst  of  a  crisis  as  it  sought  to  make  decisions  on  the  scheduling 
+and  terms  of  unification  in  light  of  a  rapidly  worsening  economic  situation.  Several  senior 
+members  of  the  coalition  government,  including  the  Foreign  Minister,  had  resigned  after 
+a  major  rift  developed  between  the  leading  Christian  Democrats  (CDU)  and  their  Social 
+Democrat  (SPD)  partners.  Given  the  major  impact  German  unification  is  expected  to  have 
+on  European  diplomacy,  a  better  understanding  of  the  differences  underlying  the  crisis  was 
+considered  important. 
+
+Other  issues  which  the  Commission  hoped  to  discuss  with  East  German  officials 
+included  efforts  to  dismantle  the  East  German  State  Security  Service  (the  "Stasi")  and  the 
+future  of  the  CSCE  process. 
+
+
+II.  THE  CONTEXT 
+
+The  Commission  delegation  visit  to  Berlin  came  in  the  midst  of  intense  debate  in 
+East  Germany  over  the  timing  of  unification  of  the  two  German  states,  exacerbated  by  a 
+growing  economic  crisis  in  the  country. 
+
+Beginning  with  the  opening  of  the  Berlin  Wall  on  November  9,  1989,  continual 
+efforts  were  underway  to  move  toward  a  rapid  unification  of  East  and  West  Germany. 
+Elections  in  the  German  Democratic  Republic  on  March  18,  1990  -  the  first  and  last  freely 
+held  elections  in  the  GDR  -  resulted  in  a  victory  for  the  Christian  Democrats,  who,  led 
+by  Lothar  de  Maiziere,  had  advocated  quicker  movement  toward  unification.  On  July  1, 
+1990,  an  economic  and  monetary  union  was  established  between  the  two  Germanies,  which, 
+in  merging  their  respective  economic  systems,  made  the  West  German  Deutsche  Mark  the 
+official  currency  in  both  East  and  West. 
+
+As  the  "Two-plus-Four"  negotiations  between  the  two  Germanies  and  the  four  post¬ 
+war  powers  (the  United  States,  United  Kingdom,  France  and  the  Soviet  Union)  progressed 
+and  the  time-table  for  unification  advanced,  the  East  German  government  moved  into  a 
+crucial  period  in  the  late  summer  of  1990. 
+
+
+-  31  - 
+
+
+Three  developments  made  this  time  period  difficult.  First,  the  East  German  leaders 
+were,  in  effect,  forced  to  consider  the  best  way  to  achieve  their  own  disappearance  from 
+the  political  scene,  obviously  a  problematic  and  rather  unprecedented  task.  Second,  the 
+unification  process  became  increasingly  subjected  to  the  internal,  electoral  politics,  as  the 
+leading  parties  in  both  East  and  West  set  forth  their  own  strategies  designed  to  win 
+upcoming,  all-German  elections.  Both  West  German  Chancellor  Kohl  and  de  Maiziere  had 
+sought  to  move  the  elections  forward,  to  coincide  with  actual  unification,  but  had  to  back 
+down  and  agree  that  December  2,  weeks  after  unification,  would  be  the  date  of  the 
+elections.  In  the  meantime,  the  SPD  in  West  Germany,  headed  by  Oskar  LaFontaine, 
+hoped  to  play  on  the  concerns  of  some  parts  of  the  West  German  population  by 
+increasingly  focusing  on  the  costs  of  unification,  .  The  third  development  was  the 
+worsening  economic  situation  in  East  Germany,  a  result  of  the  initial  introduction  of 
+competition  from  Western  firms.  On  August  15,  for  example,  as  many  as  250,000  East 
+German  farmers  demonstrated  in  Berlin  and  other  cities  protesting  Western  agricultural 
+wholesalers  with  whom  they  could  not  compete,  forcing  East  German-grown  produce  to 
+be  dumped. 
+
+These  developments  precipitated  a  political  crisis  within  the  East  German 
+government,  as  several  ministers  either  resigned  or  were  dismissed.  By  mid-August,  the 
+East  German  Volkskammer  was  forced  to  go  into  extended  sessions  to  work  out  a  final 
+agreement  on  the  date  for  unification  which  would  bring  the  crisis  to  a  close.  Just  prior 
+to  the  Commission’s  arrival,  it  had  agreed  that  October  3  would  be  the  date.  It  was  a 
+compromise  between  dates  proposed  by  the  CDU  and  the  SPD  and  it  immediately 
+followed  the  CSCE  Meeting  of  Foreign  Ministers  scheduled  for  New  York  on  October  1 
+and  2,  permitting  other  European  countries  along  with  the  United  States  and  Canada  to 
+give  their  endorsement  to  unification. 
+
+
+III.  THE  VISIT 
+
+Arriving  the  night  before,  the  delegation  visit  began  the  morning  of  August  24  with 
+a  briefing  by  the  U.S.  Ambassador  to  the  German  Democratic  Republic,  Richard  C. 
+Barkley,  and  other  U.S.  Embassy  staff.  The  remainder  of  the  day  consisted  of  several 
+meetings  with  East  German  officials,  including  Dr.  Helmut  Domke,  State  Secretary  at  the 
+GDR  Foreign  Ministry,  Interior  Minister  Peter-Michael  Diestel  and  Sabine  Bergmann- 
+Pohl,  President  of  the  Volkskammer.  The  delegation  also  had  time  to  tour  the  area  which 
+divided  Berlin  into  East  and  West,  where  the  remainder  of  the  once  formidable  Berlin 
+Wall  continued  to  be  chiseled  and  sold  as  souvenirs.  The  Commission  had  also  requested 
+meetings  with  Prime  Minister  de  Maiziere,  Foreign  Minister  Markus  Meckel  and  West 
+Berlin  Mayor  Walter  Momper,  but  the  crisis  in  the  East  German  government  forced  Prime 
+Minister  de  Maiziere  to  cancel  a  meeting,  and  caused  Foreign  Minister  Meckel  to  resign 
+just  prior  to  the  Commission  delegation’s  arrival.  Mayor  Momper  was  unavailable  at  the 
+time  of  the  visit. 
+
+
+-  32  - 
+
+
+IV.  OBSERVATIONS 
+
+
+In  the  meetings  with  East  German  officials,  the  main  topic  was  the  process  of 
+German  unification  and  the  effects  of  unification  in  what  was  East  Germany.  Most  all 
+East  German  officials  expressed  an  obvious  relief  that,  after  weeks  of  heated  polemics  and 
+negotiation,  agreement  had  been  reached  to  have  unification  take  place  on  October  3. 
+Volkskammer  President  Bergmann-Pohl  described  how  difficult  it  is  "to  dissolve  oneself," 
+and  Chairman  DeConcini  complemented  the  East  Germans  for  making  what  must  have 
+been  very  difficult  decisions. 
+
+On  foreign  policy  issues,  the  unification  of  Germany  was  presented  as  a  major  step 
+in  the  longer-term  goal  of  the  unification  of  Europe.  East  German  officials  said  they 
+attached  great  importance  to  the  CSCE  process  and  described  a  proposal  the  GDR 
+introduced  jointly  with  Poland  and  Czechoslovakia  at  the  Vienna  Preparatory  Committee 
+for  the  CSCE  Summit.  The  proposal  called  for  the  establishment  of  a  CSCE  institute  on 
+Conflict  Resolution/Peaceful  Settlement  of  Disputes,  and  another  institute  to  monitor 
+military  issues,  such  as  implementation  of  Confidence-  and  Security-Building  Measures 
+(CSBMs).  They  added,  however,  that  West  German  views  on  the  institutionalization  of  the 
+CSCE  process  differed  somewhat  from  East  German  views  and  that  West  German  views 
+would  dominate  in  the  post-unification  period.  When  asked  about  Basket  II  issues,  the 
+East  Germans  said  that,  without  economic  progress,  there  will  be  no  stable  democracy  in 
+Eastern  Europe.  Dr.  Wolfgang  Schwarz,  a  foreign  policy  advisor  to  Prime  Minister  de 
+Maiziere,  noted  with  some  concern  that  Basket  II  was  not  dealt  with  in  the  recent  London 
+declaration  of  NATO  leaders  on  CSCE  issues. 
+
+On  domestic  issues,  most  of  the  discussion,  especially  in  the  meeting  with  Interior 
+Minister  Diestel,  focused  on  efforts  to  dismantle  the  State  Security  Service  (Stasi).  Diestel 
+said  that  86,000  people  worked  full-time  for  the  Stasi,  with  an  additional  one  million 
+serving  as  informants.  He  called  it  the  best  security  service  in  the  world.  As  far  as  the 
+millions  of  files  on  individuals  maintained  by  the  Stasi,  Diestel  noted  the  argument  that 
+they  should  be  made  public  so  that  those  who  associated  themselves  with  the  Stasi  and  its 
+more  criminal  activities  could  be  brought  to  justice.  He  maintained,  on  the  other  hand, 
+that  it  would  probably  be  better  to  destroy  the  files,  since  the  information  they  revealed 
+could  not  be  verified  and  may  very  easily  have  been  fabricated,  destroying  the  future  of 
+many  innocent  people.  He  doubted  the  ability  of  the  government  to  store  the  files  securely 
+to  prevent  their  eventual  misuse,  but  added  that  he  would  follow  the  wishes  of  the 
+Parliament.  President  Bergmann-Pohl  questioned  whether  the  Volkskammer  would 
+approve  the  destruction  of  the  files  and  argued  that  efforts  to  prosecute  Stasi  members  be 
+done  with  great  discretion. 
+
+Other  domestic  issues  addressed  included  East  Germany’s  discussions  with  Israel 
+regarding  the  Holocaust,  the  severity  of  environmental  problems  in  East  Germany  and 
+predictions  on  the  outcome  of  elections  later  in  the  year. 
+
+
+-  33  - 
+
+O 
+
+
+240  94 
+
+
+;  <£*,  '  ^  "" 
+
+
+I  V*  :§m\  X  “ 
+
+“  #v^  0 
+
+
+*  X*  ^ 
+f'  V-  -v 
+®  ^rc,v 
+
+
+*  >. 
+
+
+>V*  vw;  /\m*/'\j, 
+
+,,  ^s&s;  s%^%i  •  v*a>°;  •  ' 
+
+“W  °.sS§4'.  W  •JM§»;  *^>4.. 
+
+.O-A  «  * 
+
+
+^  VS10 ;  * 
+
+,.0°vfe°  v». 
+
+*-'  u*  ■A 
+* 
+
+
+V  o<.^X 
+
+
+‘O'1  tow;,*  W'  "crj\yw*s  A' 
+
+,  ,cT  ,* 4  *  ^  %  v*_.t...<V"* 
+
+V>  A  <*,  V  ,A-  - 
+
+o  %n«^  *  ^ 
+
+
+z  £ 
+
+'*'l<^«-«/V°“iV°c 
+
+^  .>.  ■»  yr\,  /-y  & 
+
+,;v^->'  v-. 
+
+
+»•„*>.  TO 
+
+I  %•£  » 
+
+°  5 
+
+
+V,w!°  ^  o  *»  o*  Vv-w. 
+
+**  w  .m\\/  ?m\  w 
+
+
+>  /\m>  /\  \IIfi  /\  UK-  **v\  l 
+
+Nc  x>  ^  *  *  *v<s  u  </.  x*>  A<^  ^  ...  < 
+
+*,X  s<y>c°  **  xl  ax*l,4«A>  04  t°Nc^ -i> 
+
+'.  ^  y  .  <®l&,  -  V,.*  0^4'. 
+
+
+*V,  *  A%'  />,  0  WvS&AN  4,  V  O', 
+
+,  .  *4  c\  *  ww  4  ,c_v  4> 
+
+V'  * 8  V°**  L,J/V°4^  ^  ****** 
+'.  ^  .m;V  ?4ift 
+
+
+&?  ^ 
+
+
+0  ypp^S  o  r  *  J^\SR/|%.  n  Vr>  ,. 
+
+°  .aV^V.  o  <b 
+
+«q‘?  ‘Mm?,  yo'  ^  .mm^' 
+
+
+& 
+
+
+r  n  * 
+
+
+’’y°  s  .  »  ^X*'0"0’  <^4« .  ..o^* 
+>\  ?0 
+
+
+o  TOW.*  <j?  *>,  %««».*  ^  > 
+
+■/^  “/.c-A 
+
+
+.c5>^ 
+
+
+O  W  ''■t 
+
+*  "bv”  « AifW ",  'rA0N  • 
+
+/  0^°X  ’■^P'3.  °  XX  r*sS0j  o*  A  ' 
+
+■  V;,,‘V>.‘*‘t*S  ‘5“0\X,“,'\',,i“>° 
+
+*  V5a  ^  ^  ^  A>J  4, 
+
+
+*  5 
+
+
+°  4  ^  k-  -  w  cke^  -  w  »  isi*j  i.tss 
+
+X*frS,  ■  ■  ■  >-^>:  ■  ■  .?4^%  •  •  -K®. 
+
+w ,  ^ .  . , 
+
+f «  ofcf ;  <£**  tljf,n  offp:  .mS®  ~ «, 
+
+*S'°  *  V°-®»V  *  *  *  lcot*c>V 6  ‘  '&/tfj£&t  &  v 
+
+*  iMt»\  ^  “A*  V*  'Mk\  ^  ;4Sfe*  +°?  'i^\  *»#  f 
+
+4  7^  <  ^  «  ~-U,  <=«  a  ^  m  LfOTv.  ^  ^  •  Ay^  ®5?'  A  >  A  A  r\ 
+
+O-1'  o  w 
+
+
+^  «//V.w;  ^ %  vw*/\ 
+
+•vV  * '  >■>:  %&C  *  V.&V  *  *  >%;■  *^\ 
+
+*  ■  0  A  *  **/  o\^\  * 
+
+
+.  -O^*5*  <jJ* 
+
+X  *D  KO5  ^<V  . 
+
+,v  &  „■»-  -  *>  *>  -* 
+
+'l  **<£_  <A  * 
+
+=  %4>  6 
+
+>\ /\»w;  J^'W 
+
+v  cut«^>  o 
+
+«r 
+
+
+t  <!■■&  -i 
+
+-  .C,,P.  ^  < 
+
+
+6  N< 
+
+

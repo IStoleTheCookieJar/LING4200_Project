@@ -1,0 +1,5578 @@
+0  A.      *^W"S      of 
+
+
+♦,  --^  A  m^<w  A  w,^v ..... . 
+
+
+.<°^ 
+
+
+s^.  *7^T»    v*-         ^    '*.To°    .0" 
+
+
+*°* 
+
+
+v*    * 
+
+
+.0  4 
+
+
+40. 
+
+
+9         A^^ 
+
+
+"*       AT     "*A        • 
+
+
+0 
+
+
+*     aV    "^s      •@Hl9>      «?    V 
+
+
+«  *J^fe!'         *^K  A* 
+
+
+0      ^  '^aws  ** 
+
+
+JP-V 
+
+
+-W 
+
+
+^ 
+
+
+6°+ 
+
+
+•  ••' 
+
+
+*••!•%%  *  <#sj^%  V.^-V  vv^rv 
+
+
+Gv  V>. 
+
+
+JO,         • 
+
+
+\5 
+
+
+A' 
+
+
+^ 
+*> 
+
+
+.'dfeir.  \/  ;m  v^ 
+
+
+^c>      'o . » *     A  <.    ♦777T*     .Gv  ^ 
+
+
+,i°* 
+
+
+^    -»• 
+
+
+<^  a0v     •!••*      > 
+
+
+••JS&-X     ftitifcS    J*\-&\     *  4&k  ° 
+
+
+J°+    .\ 
+
+
+*°"*v    v 
+
+
+^°- 
+
+
+C27\ 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+
+BOMSPS:   Bureau  of  Mines  Signal 
+Processing  Software-Concepts, 
+Expressions,  and  Tutorial 
+
+
+By  Michael  J.  Friedel 
+
+
+BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+{yS*^»-  ^^£     V 
+
+
+Information  Circular/9242 
+
+
+BOMSPS:   Bureau  of  Mines  Signal 
+Processing  Software-Concepts, 
+Expressions,  and  Tutorial 
+
+
+By  Michael  J.  Friedel 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+^  UP 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Friedel,  Michael  J. 
+
+BOMSPS  :  Bureau  of  Mines  signal  processing  software  :  concepts,  expressions, 
+and  tutorial  /  by  Michael  J.  Friedel. 
+
+p.    cm.  -  (Information  circular  /  Bureau  of  Mines;  9242) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28:27:9242. 
+
+1.  BOMSPS  (computer  program)  2.  Seismic  prospecting-Data  processing. 
+3.  Signal  processing-Digital  techniques-Data  processing.  I.  Title.  II.  Title:  Bureau 
+of  Mines  signal  processing  software.  III.  Series:  Information  circular  (United  States. 
+Bureau  of  Mines);  9242. 
+
+TN295.U4     [TN269]     622  s-dc20  [622M592'02855369]     89-600335 
+
+CIP 
+
+
+5 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Digital  processing  concepts  and  expressions 2 
+
+Time  series  function 2 
+
+Theoretical  considerations    3 
+
+Numerical  considerations    5 
+
+Digital  filtering 9 
+
+Single  time  series  function    9 
+
+Two  time  series  functions 9 
+
+Tutorial 14 
+
+Program  options 15 
+
+Available  time  series  functions    16 
+
+Correlation  modules 17 
+
+(De) convolution  module 17 
+
+Filter  module 18 
+
+Fourier  module    18 
+
+Gain  module    21 
+
+Hilbert  module    22 
+
+Interpolate  module 22 
+
+Mute  module 24 
+
+Normalization  module    25 
+
+Plot  module 26 
+
+Polarity  module 27 
+
+Randomization  module 27 
+
+Scale  module 28 
+
+Shift  module    28 
+
+Smooth  module   29 
+
+Stack  module 30 
+
+Window  module 30 
+
+Write  module 31 
+
+Summary 32 
+
+References 32 
+
+Appendix  A.-Sample  data  files 33 
+
+Appendix  B. -Mathematical  relationship  of  Fourier  transformation  to  Hilbert  transformation 39 
+
+Appendix  C.-Symbols  used  in  this  report    40 
+
+ILLUSTRATIONS 
+
+1.  Analog  versus  digital  representation  of  time  series  function 3 
+
+2.  Flowchart  depicting  typical  analog-to-digital  conversion  and  data  transfer  schemes 4 
+
+3.  Complex  representation  of  an  arbitrary  number  and  time  series  function 5 
+
+4.  Effect  of  sample  interval  on  Nyquist  frequency 6 
+
+5.  Aliasing  phenomenon    7 
+
+6.  Frequency-domain  representation  of  a  boxcar  function  employing  a  fast  Fourier  transform 8 
+
+7.  Time-domain  and  frequency-domain  representation  of  a  Dirac  delta  function 9 
+
+8.  Schematic  of  three-component  linear  system 11 
+
+9.  Graphical  representation  of  convolution  property    11 
+
+10.  Graphical  representation  of  cross-correlation  property    13 
+
+11.  Application  of  linear  systems  analysis  to  band-pass  filtering 13 
+
+12.  Frequency-domain  filters 19 
+
+13.  Transient  response  to  implementing  frequency-domain  filtering  with  regard  to  a  Dirac  delta  function  ...  20 
+
+14.  Screen  view  of  trace  attributes:   original  transient  (input  signal),  quadrature,  instantaneous  amplitude 
+
+(envelope),  and  instantaneous  phase  functions    23 
+
+15.  Interpolation  of  a  digital  time  sequence    25 
+
+16.  Some  time-domain  operations  as  applied  to  a  time  series  function 25 
+
+
+ILLUSTRATIONS-Continued 
+
+
+17.  Screen  view  of  Fourier  attributes:   transformation  (real  and  imaginary),  amplitude,  and  phase  spectra 
+
+18.  Time-domain  windowing  cause,  effect,  and  solution 
+
+
+Page 
+
+27 
+29 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+c/s 
+
+cycle  per  second 
+
+/is 
+
+microsecond 
+
+dB 
+
+decibel 
+
+rad 
+
+radian 
+
+Hz 
+
+hertz 
+
+rad/s 
+
+radian  per  second 
+
+kHz 
+
+kilohertz 
+
+s 
+
+second 
+
+MHz 
+
+megahertz 
+
+V 
+
+volt 
+
+ms 
+
+millisecond 
+
+BOMSPS:    BUREAU  OF  MINES  SIGNAL  PROCESSING 
+SOFTWARE-CONCEPTS,  EXPRESSIONS,  AND  TUTORIAL 
+
+
+By  Michael  J.  Friedel1 
+
+
+ABSTRACT 
+
+This  information  circular  describes  a  comprehensive  digital  signal  processing  system,  developed  by 
+the  Bureau  of  Mines,  called  BOMSPS.  Operations  such  as  gain  control,  muting,  normalization,  polarity 
+change,  randomization,  scaling,  shifting,  stacking,  smoothing,  and  windowing  account  for  the  basic  time- 
+domain  operations  available.  Higher  order  time-domain  enhancement  capabilities  involve  convolution, 
+deconvolution,  autocorrelation,  and  cross  correlation.  Frequency-domain  attributes  such  as  the  real 
+transform,  imaginary  transform,  relative  amplitude,  and  power  and  phase  spectra  can  be  determined. 
+Frequency-domain  filter  capabilities  permit  the  investigator  to  employ  a  half-sine  or  cosine  window, 
+notch  band-pass,  or  high-cut  or  low-cut  filter,  while  interactively  defining  the  rolloff  of  either  a  linear 
+or  cosine  taper.  Calculation  of  related  trace  attributes  such  as  quadrature  (Hilbert  transform), 
+instantaneous  amplitude,  and  instantaneous  phase  are  also  available.  This  program  should  be  a  welcome 
+addition  for  those  mining  and  environmental  geophysicists,  researchers,  and  engineers  interested  in 
+processing  signals. 
+
+
+'Geophysicist,  Twin  Cities  Research  Center,  Bureau  of  Mines,  Minneapolis,  MN. 
+
+
+INTRODUCTION 
+
+
+Both  mining  and  petroleum  geophysicists  utilize  seismic 
+signals  to  characterize  rock  masses  for  delineating  sub- 
+surface stratigraphy  and  structural  conditions.  However, 
+the  vast  amount  of  information  available  in  project  data 
+(i.e.,  body,  head,  surface,  airwave  modes,  and  noise)  often 
+precludes  any  attempt  at  interpretation  unless  these  data 
+are  enhanced.  New,  innovative  processing  technology 
+increases  the  quality  of  these  signals  for  analysis  and  in- 
+terpretation. Seismic  signal  processing  software,  however, 
+is  written  mostly  for  oil  exploration  companies.  Conse- 
+quently, commercially  available  programs  (1)  are  often 
+limited  to  a  single  application,  (2)  are  typically  restricted 
+for  use  with  specific  hardware,  e.g.,  a  digital  oscilloscope 
+or  a  mainframe  computer,  (3)  use  computer  codes  that  are 
+usually  proprietary  and  that  restrict  in-house  modification 
+to  expand  capabilities,  and  (4)  are  typically  hard  to  in- 
+terface, poorly  documented,  expensive,  and  support 
+dependent. 
+
+As  part  of  its  mission  to  assist  the  mining  industry  in 
+the  advancement  of  technology,  the  Bureau  of  Mines  has 
+developed  BOMSPS  (Bureau  of  Mines  Signal  Processing 
+Software)  to  meet  the  need  for  a  signal  processing 
+program.  BOMSPS  is  a  comprehensive  software  package 
+that  provides  for  improved  signal  quality  to  assist  in  the 
+interpretation  of  seismic  data  collected  in  mining  oper- 
+ations. The  software  is  capable  of  analyzing  various  time- 
+and  frequency-domain  attributes  and  possesses  filtering 
+capabilities.  Postdigital  enhancement  by  BOMSPS  to 
+band-limit  or  reject  selected  information  provides  greater 
+resolution  for  necessary  interpretations.  This  software  is 
+an  inexpensive  tool  for  the  geophysicist,  engineer,  and/or 
+
+
+researcher  performing  seismic  surveys  in  mining  and  en- 
+vironmental operations. 
+
+BOMSPS  is  a  comprehensive  digital  processing  inter- 
+face system,  written  in  FORTRAN  77  language  for  use  on 
+most  personal  computers.2  Utilizing  a  fast  microcomputer 
+with  relatively  high  volume  on-line  disk  storage  is  an  ef- 
+ficient way  to  process  the  time  series  data.  Software  mod- 
+ules incorporated  into  BOMSPS  typically  provide  a  single 
+solution  to  a  time-  or  frequency-domain  operation. 
+
+The  primary  objective  of  this  report  is  to  describe  in 
+detail  the  signal  processing  concepts  and  expressions  in- 
+corporated into  BOMSPS.  Although  the  text  briefly  dis- 
+cusses the  mathematical  concept  of  the  one-dimensional 
+Fourier  transformation,  it  omits  proofs,  which  can  be 
+found  in  many  textbooks.  The  review  highlights  associated 
+Fourier  properties  and  their  use  in  developing  mathemat- 
+ical expressions  used  as  digital  operators. 
+
+The  second  objective  is  to  provide  a  user's  document 
+for  the  implementation  of  BOMSPS.  Easy-to-follow 
+menus  and  features  that  heretofore  may  have  been  found 
+only  in  expensive  code  for  mainframe  computers,  such  as 
+those  codes  available  to  the  oil  industry,  are  incorporated. 
+Menu  information  and  messages  appearing  on  the  screen 
+during  execution  of  BOMSPS  are  explained  throughout  the 
+text.  Sample  data  files  and  output  are  incorporated  for 
+ease  of  use  by  technical  as  well  as  nontechnical  personnel. 
+It  is  expected  that  the  reader  will  gain  a  greater  knowledge 
+of  both  the  advantages  and  limitations  of  these  phases  of 
+digital  processing,  which  are  made  available  in  BOMSPS 
+for  transient  analysis. 
+
+
+DIGITAL  PROCESSING  CONCEPTS  AND  EXPRESSIONS 
+
+
+TIME  SERIES  FUNCTION 
+
+A  considerable  amount  of  information  is  contained  in 
+a  convoluted  time  series  function  (also  called  a  transient, 
+trace,  signal,  or  waveform).  The  capacity  of  a  time  func- 
+tion to  carry  useful  information  is  related  to  a  product  of 
+amplitude,  length  of  the  signal,  and  frequency  bandwidth. 
+Any  continuous  measurement  of  some  attribute  with  re- 
+spect to  time  is  defined  as  an  analog  signal.  Specifically, 
+the  independent  variable  is  defined  for  all  time,  or  s(t). 
+Conversely,  if  the  signal  is  defined  by  some  number  (N)  of 
+discrete  points,  it  represents  the  analog  signal's  digital 
+counterpart.  In  this  sense,  the  digitized  transient  may 
+represent  a  discrete  version  of  the  analog  signal. 
+
+In  computer  analysis  of  time  functions,  it  is  necessary 
+to  perform  operations  on  the  digital  record.  Figure  1 
+depicts  the  analog  and  digital  representations  of  an  ar- 
+bitrary time  series  function  (SINUSOID.DAT,  appendix 
+A).  The  ordinate  values  are  relative  and  normalized,  while 
+the  abscissa  values  represent  time  units  (seconds).    The 
+
+
+continuous  line  in  figure  1A  connotes  a  continuous 
+sampling  of  the  transient  (e.g.,  by  means  of  strip  chart  re- 
+corder). In  figure  IB,  the  time  function  is  defined  by 
+100  discrete  points  sampled  at  1-ms  intervals.  Where 
+discrete  data  points  are  depicted  in  subsequent  figures,  a 
+line  is  drawn  connecting  the  data  points  to  visually  high- 
+light the  signal  under  investigation.  In  order  to  illustrate 
+other  concepts,  some  figures  omit  sample  points.  The 
+transients  illustrated,  however,  are  not  to  be  assumed  to 
+be  analog,  since  all  numerical  operations  must  be  con- 
+ducted on  digital  data. 
+
+
+A  source  code  listing  is  available  upon  request  from  M.  J.  Friedel, 
+Twin  Cities  Research  Center.  The  Bureau  of  Mines  expressly  declares 
+that  there  are  no  warranties  expressed  or  implied  which  apply  to  the 
+software  described  herein.  By  acceptance  and  use  of  such  software, 
+which  is  conveyed  to  the  user  without  consideration  by  the  Bureau  of 
+Mines,  the  user  hereof  expressly  waives  any  and  all  claims  for  damage 
+and/or  suits  for  or  by  reason  of  personal  injury,  or  property  damage, 
+including  special,  consequential  or  other  similar  damages  arising  out  of 
+or  in  any  way  connected  with  the  use  of  the  software  described  herein. 
+
+
+-1.0 
+
+
+LU 
+> 
+
+I— 
+< 
+
+_J 
+LU 
+
+
+-.2    - 
+
+
+.6    " 
+
+
+10 
+
+
+□ 
+
+— i 1 1 i 
+
+D 
+
+n 
+
+KEY 
+
+B 
+
+°         m 
+
+on                 o     Sample  point 
+
+■°0                Q 
+
+□ 
+
+D 
+
+D                ^""*w 
+
+B       ^^. 
+
+a             a 
+
+n            jF              X 
+
+D        D 
+
+■    1      \    A  . 
+
+" 
+
+a 
+
+□             a                               W_         Jo" 
+
+D 
+
+a       D 
+
+o      o 
+
+»     o 
+
+D  a 
+
+V 
+
+- 
+
+an 
+
+■B 
+
+1                      1                      1                       1 
+
+0.02 
+
+
+0.04 
+
+
+0.06 
+
+
+0.08 
+
+
+0.1 
+
+
+TIME,  s 
+
+Figure  1. -Analog  versus  digital  representation  of  time  series 
+function.  A,  Analog  representation,  continuous  sampling; 
+B,  digitized  representation,  100  discrete  data  points  sampled  at 
+1-ms  intervals. 
+
+
+The  analog-to-digital  (A-D)  conversion  is  handled  in  a 
+number  of  ways.  The  simplest  method  is  manually  picking 
+discrete  amplitude  values  as  a  function  of  time.  For  mul- 
+tiple signals  exhibiting  broadband  spectrum  and  a  relatively 
+long  time  duration,  discretization  becomes  a  laborious 
+task.  While  graphics  tablets  can  be  used,  it  is  more  com- 
+mon to  make  A-D  conversions  with  commercially  available 
+products  such  as  converters,  digital  oscilloscopes,  or  seis- 
+mographs. Also,  A-D  converters  can  be  installed  directly 
+in  a  computer.  As  a  result,  analog  data  can  be  acquired 
+and  converted  directly  at  the  field  or  laboratory  site.  As 
+appealing  as  this  sounds,  this  type  of  conversion  is  not 
+always  possible.  E.g.,  waveforms  often  are  recorded  at  a 
+field  or  laboratory  site  on  either  paper  or  magnetic  tape. 
+If  the  A-D  process  does  not  utilize  an  acquisition- 
+processing  computer,  it  is  often  necessary  to  digitize  and 
+store  the  data  until  they  can  be  transferred  to  the  central 
+processing  computer.  This  process  necessitates  additional 
+software  and  hardware.  Ultimately,  there  are  additional 
+steps  required  prior  to  the  actual  processing  of  sampled 
+
+
+time-sequence  data.  A  flowchart  depicting  typical 
+acquisition-transfer  schemes  is  given  in  figure  2.  There 
+are  a  number  of  vendors  that  can  supply  hardware  and 
+software  for  the  digitization  and  transfer  process.  In  the 
+following  discussions,  it  is  assumed  that  the  data  are  in 
+ready-to-process  digital  format. 
+
+THEORETICAL  CONSIDERATIONS 
+
+Given  any  physically  realizable  signal  s(t)  defined  -°°  to 
+a>,  there  exists  a  Fourier  transform  pair  representative  of 
+the  signal  in  either  time  or  frequency  (I).3  By  definition, 
+the  one-dimensional  transform  pair  includes  a  forward  and 
+an  inverse  expression.  The  Fourier  transform  pair  pro- 
+vides the  fundamental  vehicle  by  which  BOMSPS  maps 
+information  from  one  domain  to  the  other  (time  to  fre- 
+quency, or  frequency  to  time).  The  forward  transform  is 
+defined  by  the  following  expression: 
+
+
+S(w)  = 
+
+
+s(t)  exp(jo?t)dt  o  s(t), 
+
+
+(1) 
+
+
+where      S(u>)  =  frequency-domain  equivalent  of  s(t), 
+
+s(t)  =  time  series  function, 
+
+u>  =  angular  frequency  (2nf),  rad/s, 
+
+f  =  frequency  =  1/period,  c/s  or  Hz, 
+
+t  =  time,  s, 
+
+J  -  i-lf, 
+
+n  ~  3.14159,  rad, 
+
+and  <f>  =  27rt  =  phase. 
+
+The  inverse  transform  is  given  by 
+
+
+s(t)  = 
+
+
+S(w)  exp(-ju>t)dw  o  S(w). 
+
+
+(2) 
+
+
+The  Fourier  transformation  is  designated  by  a  two- 
+headed  arrow. 
+
+In  general,  the  Fourier  transform  is  a  complex  quantity, 
+
+S(«)  =  R(w)  +  jlm(u>)  =   |  SO)  |  expGwt),         (3) 
+
+where     R(^),  I(w)    =   real  and  imaginary  parts  of  the 
+Fourier  spectrum,  respectively. 
+
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+preceding  the  appendixes. 
+
+
+Transducer(s) 
+
+
+FM  tape 
+
+1 
+
+Datagraph 
+
+ir 
+
+Seismograph 
+
+Digital 
+oscilloscope 
+
+Graphics 
+tablet 
+
+1 
+
+r 
+
+r                                                                          \ 
+Microcomputer 
+
+v                                                                          ) 
+
+■^ 
+
+r 
+
+Central  computing  facility 
+
+
+Analog  (A) 
+signal 
+
+A-D 
+conversion 
+
+Digital  (D) 
+signal 
+
+
+Figure  2.-Flowchart  depicting  typical  analog-to-digital  conversion  and  data  transfer  schemes. 
+
+
+|  S(u>)  |  represents  the  amplitude  spectrum  of  the  signal  s(t) 
+and  is  defined  as 
+
+
+|S(c*)|  =[r2(u)  +  £(«)]  2-  (4) 
+
+
+The  phase  spectrum  (or  angle)  is  defined  as 
+
+
+<f>(u>)  =  tan  flm(w)/R(w)|     .  (5) 
+
+
+These  transform  characteristics  are  depicted  in  figure  3. 
+In  figure  3A,  a  two-dimensional  representation  of  a  time 
+point  is  shown.  The  corresponding  phase  angle  (initial 
+angle)  and  vector  magnitude  (length  of  vector)  are  given. 
+The  amplitude  is  a  resultant  vector  between  the  real  and 
+imaginary  axes.  The  angle  that  this  vector  makes  with  the 
+real  axis  is  defined  as  the  phase.  In  figure  3B,  this  idea  is 
+extended  to  include  the  transformation  of  a  continuous 
+time  function.  The  relationships  that  govern  these  con- 
+cepts are 
+
+
+and 
+
+
+R(w)  =   |S(w)|cos(wt) 
+Im(w)  =  -j|S(w)|sin(wt). 
+
+
+(6) 
+(7) 
+
+
+3 
+
+E 
+
+
+LU 
+
+z: 
+o 
+
+y: 
+o 
+u 
+
+>- 
+
+CL 
+< 
+
+CD 
+< 
+
+
+Rotating 
+vectors 
+
+
+w  (rad/s) 
+
+
+REAL  COMPONENT  [R(w)] 
+
+
+Figure  3.-Complex  representation  of  an  arbitrary  number  and 
+time  series  function. 
+
+
+As  a  consequence,  the  expanded  form  of  the  Fourier  trans- 
+form can  be  written  as  follows: 
+
+
+S(w)  =   |  S(w)  |  cos(wt)dt  -  j  |  S(w)  |  sin(wt)dt.        (8) 
+
+Since  cos(wt)  =  cos(-wt),  it  immediately  follows  that  the 
+real  part  of  the  transformation  is  R(-w)  =  R(w).  There- 
+fore, the  real  component  is  an  even  function.  Similarly, 
+sin(-a)t)  =  -sin(o)t),  which  implies  that  Im(w)  =  -Im(w). 
+Hence,  one  can  assume  that  the  imaginary  components  of 
+the  transformation  represent  an  odd  function.  Since  an 
+odd  function  is  equal  to  zero  between  symmetric  limits 
+(Fourier  integral),  the  amplitude  function  presents  itself  as 
+an  even  function.  A  similar  analysis  establishes  that  the 
+phase  spectrum  is  an  odd  function. 
+
+
+NUMERICAL  CONSIDERATIONS 
+
+The  wide  range  of  problems  susceptible  to  analysis  by 
+the  Fourier  transform  (analytic  solution)  led  to  the  de- 
+velopment of  the  discrete  Fourier  transform  (DFT)  (2-3). 
+The  DFT  is  the  numerical  equivalent  of  the  analytic  ex- 
+pression (equation  8)  shown  above.  The  DFT  formulation 
+is  based  on  the  relationship 
+
+
+S(f)  =NsVti)exp(j27rfkti)(ti  +  1-ti), 
+k       1  =  0 
+
+
+(9) 
+
+
+where 
+
+
+S(f)    =  frequency-domain  representation  of  an- 
+alog signal. 
+
+
+This  relation  implies  that  there  are  N  discrete  data  points 
+sampled  at  an  even  spacing,  hence,  the  name  "discrete 
+Fourier  transform."  In  contrast  to  the  analytic  expression, 
+the  DFT  operates  on  a  signal  with  finite  limits.  Thus,  it 
+must  be  assumed  that  outside  the  given  time  window 
+periodicity  exists.  This  does  not  imply  that  the  signal  s(t) 
+is  an  even  function. 
+
+Adequate  sampling  rates  are  necessary  to  preserve  the 
+integrity  of  the  frequency  content  of  a  signal.  Based  on 
+the  Shannon  sampling  theorem  (i),  the  time  increment 
+(At)  between  discrete  points  is  defined  as  equal  to  the 
+inverse  of  two  times  the  maximum  frequency  (f0)  within 
+the  wave  train. 
+
+
+At  =  l/2fQ. 
+
+
+(10) 
+
+
+This  is  an  important  consideration  in  determining  the 
+Nyquist  frequency  (f  ),  also  known  as  the  folding  or 
+aliasing  frequency,  defined  as 
+
+
+fnq  =  V2At. 
+
+
+(11) 
+
+
+It  is  the  Nyquist  frequency  that  is  the  maximum  that  can 
+be  examined  within  the  wave  train.  A  common  but  erro- 
+neous belief  is  that  additional  sampling  (increased  sample 
+rate)  will  always  provide  greater  resolution.  This  is  true 
+only  when  detailed  information  (higher  relative  frequen- 
+cies) is  actually  present  in  the  signal. 
+
+Once  the  sample  interval  (or  sampling  rate)  is  suffi- 
+cient to  define  the  maximum  spectral  component  in  the 
+waveform,  no  additional  information  can  be  obtained. 
+Figure  4  depicts  the  effect  of  perturbing  sample  interval 
+on  the  Nyquist  frequency.  The  signal  under  investigation 
+represents  an  arbitrary  sinusoid  (SINUSOID.DAT,  Ap- 
+pendix A).  In  figure  4A,  the  sample  interval  is  1  ms 
+(1  kHz),  resulting  in  a  Nyquist  frequency  of  500  Hz.  By 
+decreasing  the  sample  interval  to  125-/zs  (8.2  MHz),  the 
+Nyquist   frequency   is   effectively   shifted   to   4,000   Hz. 
+
+
+1.0 
+.8 
+
+.6 
+
+
+LU 
+
+Q 
+
+.2 
+
+Z) 
+
+1— 
+
+_l 
+
+Ql 
+
+7" 
+
+< 
+
+0 
+
+LU 
+
+> 
+
+1— 
+< 
+
+1.0 
+
+_l 
+
+LU 
+
+CH 
+
+.8 
+
+.6 
+
+100 
+
+
+200 
+
+
+300 
+
+
+400 
+
+
+500 
+
+
+1                      1                      1                       1 
+
+i 
+
+Time  3erie3  function: 
+
+SINUS0ID.DAT,  appendix  A 
+
+Sample  interval 
+
+=  125U3 
+
+1                          Nyqui3t  frequency 
+
+J                              =  4,000  Hz 
+
+Maximum  frequency 
+
+1                                 =  500  Hz 
+
+0       800   1,600  2,400  3,200  4,000 
+
+FREQUENCY,  Hz 
+
+Figure  4.-Effect  of  sample  interval  on  Nyquist  frequency  on 
+a  time  series  function  (SINUSOID.DAT,  appendix  A). 
+
+Decreasing  the  sample  interval  (increasing  the  sample 
+rate)  beyond  this  will  extend  the  Nyquist  frequency  into  a 
+region  devoid  of  signal  energy.  In  addition,  excessive  sam- 
+pling may  contribute  to  a  degradation  in  the  signal-to-noise 
+(S-N)  ratio  and  may  require  an  additional  amount  of  array 
+storage.  In  figure  4B,  there  is  no  additional  energy  above 
+about  500  Hz. 
+
+If  the  sampled  sequence  contains  frequencies  higher 
+than  one-half  of  the  Nyquist  frequency,  those  higher  fre- 
+quencies will  be  lost.  The  sample  frequency  (Af)  is  defined 
+by 
+
+Af  =  2fnq/NP2,  (12) 
+
+where  NP2    =  total  number  of  discrete  points  associated 
+with  time  sequence. 
+
+
+With  aliasing  of  a  signal,  high  frequencies  of  the  original 
+spectrum  are  "folded"  back  on  top  of  valid  lower 
+frequencies.  Hence,  there  is  (1)  a  loss  of  high-frequency 
+energy  and  (2)  distortion  of  the  low-frequency  energy. 
+While  aliasing  prohibits  a  meaningful  frequency-domain 
+interpretation,  it  completely  destroys  the  originally  sampled 
+time  function.  Figure  5  shows  the  phenomenon  of  aliasing. 
+Figure  5A  depicts  the  analog  time  series  function  and 
+corresponding  frequency  spectrum.  The  erroneously  sam- 
+pled signal  and  corresponding  frequency  spectrum  is  shown 
+in  figure  5B.  Folding  of  the  aliased  frequencies  is  shown 
+in  5C.  Inspection  of  the  aliased  signal  reveals  little  sim- 
+ilarity to  its  original  counterpart.  The  information  lost 
+during  poor  sampling  cannot  be  recovered. 
+
+A  common  problem  that  occurs  during  the  data  acqui- 
+sition phase  is  in  selecting  an  aliasing  (high-cut)  filter  that 
+is  approximately  equal  to  the  Nyquist  frequency.  A  given 
+high-cut  filter  does  not  eradicate  all  frequencies  above  its 
+designated  value.  In  practice,  the  alias  filters  have  cutoff 
+slopes,  beyond  the  designated  frequency,  of  roughly  70  dB 
+per  octave.  The  reduction  in  frequency  is  about  1/2000 
+in  a  doubling  of  frequency,  e.g.,  from  125  to  250  Hz  for  a 
+2-ms  sampling  interval.  Clearly,  proper  implementation  of 
+an  antialiasing  filter  would  require  familiarity  with  its 
+response  character.  The  aliasing  filter  used  should  be  one 
+that  has  no  appreciable  response  at  the  Nyquist  frequency. 
+Other  practical  considerations  involving  knowledge  of  the 
+Nyquist  frequency  include  applications  of  frequency- 
+domain  filtering  and  linear  systems  analysis.  Both  of  these 
+topics  are  addressed  later  in  this  report,  in  the  section 
+"Two  Time  Series  Functions,"  under  "Digital  Filtering." 
+
+To  determine  the  amplitude  of  N  separate  sinusoids, 
+the  computational  time  is  found  to  be  proportional  to  the 
+number  of  multiplications  (N).  Since  the  computational 
+time  associated  with  the  discrete  transformation  can  be 
+prohibitive  for  most  applications  (in  terms  of  time  and 
+expense),  the  fast  Fourier  transform  (FFT)  was  devised. 
+The  FFT  is  a  numerical  algorithm  that  reduces  the  com- 
+putational speed  to  a  time  proportional  to  N  log  N.  For 
+N  =  2,  the  FFT  algorithm  factors  an  N  x  N  matrix,  so  that 
+each  of  the  factored  matrices  minimizes  the  number  of 
+multiplications  and  additions. 
+
+There  are  many  FFT  algorithms  available  on  the  soft- 
+ware market.  BOMSPS  employs  a  three-dimensional  FFT 
+developed  by  Robinson  (4),  but  others  could  be  used. 
+Only  one  dimension,  however,  is  actively  required  by 
+BOMSPS.  Future  signal  processing  capabilities  may  be 
+extended  to  either  two  or  three  dimensions.  The  FFT 
+requires  that  the  number  of  discrete  points  to  be  operated 
+on  is  a  power  of  2.  Most  external  data  files  contain  some 
+arbitrary  number  of  data  points.  In  order  to  comply  with 
+the  power-of-2  number  requirement,  external  data  files  are 
+automatically  padded  with  additional  data  points  (of  zero 
+amplitude)  until  the  power-of-2  requirement  is  accom- 
+modated. The  padding  of  data  files  is  handled  by  the 
+NPTWO  module  during  execution  of  BOMSPS. 
+
+
+Z) 
+
+
+Q_ 
+
+
+< 
+
+> 
+
+
+< 
+
+
+CL 
+
+
+-VWVyi 
+
+
+<^> 
+
+
+Nyqui3t 
+frequency 
+
+
+B 
+
+
+££\ 
+
+
+Sample  point 
+
+
+TIME 
+
+
+FREQUENCY 
+
+
+Figure  5,-Aliasing  phenomenon.  A,  Analog  time  series  function  and  corresponding  amplitude  spectrum;  B,  proposed  time  sampling 
+and  corresponding  amplitude  spectrum;  C,  resulting  aliased  signal  and  corresponding  amplitude  spectrum.  The  shading  in  C  indicates 
+the  "folding"  of  higher  frequencies  back  on  valid  frequencies.   The  two-headed  arrow  represents  the  transformation  process. 
+
+
+The  probability  that  the  originally  sampled  time  se- 
+quence is  an  odd  function  is  great,  particularly  if  the  data 
+are  not  a  contrived  function.  The  FFT  performs  compu- 
+tations strictly  in  positive  space.  Specifically,  all  negative 
+frequency  values  are  mapped  as  positive  values.  Corre- 
+sponding arrays  are  characteristic  of  increasing  positive 
+frequency  values  from  0  Hz  to  the  Nyquist  frequency 
+(number  of  N  points  divided  by  2,  NP2  points).  Beyond 
+this  point,  the  maximum  negative  frequencies  begin  at  the 
+Nyquist  frequency  plus  1  frequency  increment  (NP2  +  1 
+points)  to  2  times  the  Nyquist  frequency.  Hence,  there 
+exits  symmetry  about  the  Nyquist  frequency  and  not  about 
+0  Hz. 
+
+
+The  characteristic  amplitude  spectrum  (Sine  Function) 
+of  a  boxcar  function  with  a  period  of  40  ms,  sampled  ev- 
+ery 1  ms,  and  of  unit  amplitude  (BOXCAR.DAT,  appen- 
+dix A),  is  displayed  in  figure  6.  This  spectrum  is  indica- 
+tive of  the  manner  in  which  FFT  operates  (in  positive 
+space).  Relative  amplitude  values  stored  in  the  compu- 
+tational array  appear  to  begin  at  0  Hz  and  extend  out  to 
+1,000  Hz  (1  kHz).  In  reality,  those  frequency  values  that 
+are  depicted  beyond  the  folding  frequency  are  negative 
+values  (as  previously  described).  The  true  spectral  equiv- 
+alences are  depicted  along  the  lower  edge  of  the  figure. 
+An  understanding  of  FFT  operation  and  storage  of  calcu- 
+lated values   is  important  in  considering  an   extension 
+
+
+200 
+
+
+400 
+
+
+600 
+
+
+800        1,000 
+
+
+Q 
+
+Z) 
+
+
+YL 
+< 
+
+LU 
+> 
+
+I— 
+< 
+
+_l 
+LU 
+
+
+1.0 
+
+
+.4    " 
+
+
+.2    " 
+
+
+200 
+
+
+400 
+
+
+-400 
+
+
+FREQUENCY. Hz 
+
+
+Figure  6.-Frequency-domain  representation  (Sine  function)  of 
+a  boxcar  function  (BOXCAR.DAT,  appendix  A)  employing  a  fast 
+Fourier  transform  that  operates  in  positive  space.  The  top  scale 
+indicates  computer  storage  of  the  spectrum,  while  the  bottom 
+portrays  the  actual  spectrum. 
+
+
+Clearly,  the  Hilbert  transform  must  be  numerically  deter- 
+mined prior  to  the  calculation  of  the  envelope.  BOMSPS 
+makes  use  of  a  Fourier-Hilbert  transform  relationship,  in 
+order  to  calculate  the  quadrature  function.  The  mathe- 
+matical relationship  utilized  for  calculating  the  quadrature 
+function  (and  indirectly  the  remaining  Hilbert  attributes) 
+is  outlined  in  appendix  B. 
+
+Interpretive  use  of  the  instantaneous  amplitude  is  based 
+on  its  relatively  insensitive  nature  with  respect  to  time. 
+Specifically,  the  instantaneous  amplitude  is  less  sensitive 
+to  local  variations  caused  by  noise  than  the  actual  corre- 
+sponding transient  under  investigation.  Since  relatively 
+narrow  band  signals  tend  to  oscillate  and  decay  slowly, 
+the  apparent  time  of  the  transient  response  (and  corre- 
+sponding envelope)  is  extended. 
+
+A  display  of  the  phase  angle  as  a  function  of  time  is 
+defined  as  the  instantaneous  phase.  The  instantaneous 
+phase  physically  amounts  to  removing  all  amplitude  infor- 
+mation. BOMSPS  utilizes  the  following  mathematical 
+relationship  to  calculate  the  instantaneous  phase  &(t): 
+
+
+^i(t)  =  tan 
+
+
+(Ws(t)]"1. 
+
+
+(14) 
+
+
+of  the  existing  FORTRAN  code.  Currently,  those  spectral 
+functions  written  to  external  data  files  are  characteristic 
+of  only  one-half  of  any  given  spectrum  (0  Hz  to  the 
+Nyquist  frequency).  If  a  need  arises  to  write  both  positive 
+and  negative  spectra,  the  user  can  modify  the  WRITE 
+statements  (implied  DO  loops)  to  go  from  1  to  NP2, 
+instead  of  looping  from  1  to  NP2/2. 
+
+Time  series  attributes,  such  as  the  instantaneous  am- 
+plitude (envelope),  instantaneous  phase,  instantaneous 
+frequency,  and  derivative,  are  calculated  by  making  use  of 
+the  quadrature  function,  or  Hilbert  transform  of  the  orig- 
+inal signal.  Hence,  these  functions  fall  under  the  heading 
+of  "Hilbert  attributes."  E.g.,  the  expression  related  to  the 
+envelope  e(t)  (instantaneous  amplitude)  of  a  time  function 
+is 
+
+
+e(t)  =  [s(t)  +  s\t)j    ,  (13) 
+
+
+The  instantaneous  phase  angle  calculated  above  will  wrap 
+around  the  polar  axis  of  the  sampled  time  series.  Between 
+any  two  successive  discrete  points,  the  amount  of  phase 
+shift  can  be  determined.  If  the  phase  shift  between  two 
+sample  points  is  multiplied  by  the  sample  rate  and  divided 
+by  360  (degrees),  one  will  arrive  at  the  instantaneous 
+frequency  f4(t).  While  this  is  currently  not  incorporated 
+into  the  HILBERT  module,  the  extension  to  include  this 
+
+
+is 
+
+
+fj(t)  =  d^(t)/dt. 
+
+
+(15) 
+
+
+Similarly,  the  derivative  is  not  currently  an  option  avail- 
+able to  the  user.  However,  the  mathematical  expression 
+given  below  can  be  implemented  numerically,  based  on 
+previously  defined  functions. 
+
+
+ds(t)/dt  =  -jwS(w). 
+
+
+(16) 
+
+
+where  s(t)    =  the  input  time  function, 
+
+
+and       s(t)     =  Hilbert  transform  of  this  signal. 
+
+
+DIGITAL  FILTERING 
+
+
+SINGLE  TIME  SERIES  FUNCTION 
+
+Digital  filtering  provides  methods  to  discriminate 
+against  certain  transient  attributes  for  data  enhancement. 
+The  filter  (a  function  of  time  or  frequency)  is  numerically 
+multiplied  by  the  time-  or  frequency-domain  representation 
+of  the  signal  under  investigation.  The  simplest  digital  filter 
+involves  multiplication  of  a  given  time  transient  by  a  con- 
+stant (i.e.,  scaling).  The  application  of  both  frequency- 
+and  time-domain  filters  makes  use  of  the  Fourier  trans- 
+form scaling  property.  The  following  dependence  exists 
+for  scaled  time-  or  frequency-domain  functions. 
+
+
+b(ct)  **  1/c  B(w/c). 
+By  symmetry  relations, 
+
+
+1/c  b(t/c)  ~  B(cw), 
+
+
+(17) 
+
+
+(18) 
+
+
+where    b(t),  B(w) 
+
+
+time-  and  frequency-domain  equiv- 
+alents for  the  boxcar  function, 
+respectively, 
+
+
+and 
+
+
+c    =  arbitrary  constant. 
+
+
+By  inspection  it  can  be  determined  that  time-scale  ex- 
+pansion corresponds  to  frequency-domain  compression. 
+Similarly,  as  the  frequency  scale  expands,  the  corre- 
+sponding time  scale  is  compressed.  This  might  have  been 
+expected  based  on  the  symmetry  property  of  Fourier  trans- 
+forms. As  the  time  or  frequency  scale  expands,  the  am- 
+plitude of  corresponding  transient  quantity  (frequency  or 
+time)  increases,  to  keep  the  area  constant.  The  concept 
+of  Fourier  scaling  can  best  be  demonstrated  by  employing 
+the  Dirac  delta  function  during  this  process.  Figure  7 
+depicts  the  transformation  of  the  Dirac  delta  function. 
+Note  that  there  are  no  side  lobes  present  (as  opposed  to 
+the  Sine  function,  figure  6).  More  specifically,  the  Fourier 
+transform  of  the  Dirac  delta  function  contains  the  com- 
+plete spectrum,  all  of  equal  amplitude.  The  relative  am- 
+plitude is  equivalent  to  that  of  its  time-domain  represen- 
+tation. This  property  of  the  Dirac  delta  function  is  used  in 
+the  discussion  of  convolution  in  the  following  section. 
+
+TWO  TIME  SERIES  FUNCTIONS 
+
+Up  to  this  point,  all  filtering  concepts  are  based  on  the 
+scaling  property  of  the  Fourier  transform.  If  the  functions 
+a(t)  and  b(t)  have  Fourier  transforms  A(w)  and  B(w), 
+respectively,  then  the  sum  a(t)  +  b(t)  has  the  transform 
+equivalent  of  A(w)  +  B(w).  The  transform  pair  can  be 
+written  as  follows: 
+
+
+This  Fourier  property  establishes  the  applicability  of  ana- 
+lyzing a  linear  system  by  Fourier  transformation.  Using 
+Fourier  tranformation,  the  linear  systems  approach  can  be 
+employed  as  a  supplemental  approach  to  digital  filtering. 
+Concepts  based  on  this  approach  include  cross  correlation, 
+autocorrelation,  convolution,  and  deconvolution.  The 
+investigator  may  choose  to  invoke  any  one  of  these  numer- 
+ical operations  for  filtering  applications,  in  either  the  time 
+or  frequency  domain.  Upon  successful  implementation 
+of  any  one  of  these  operations,  the  user  may  incorporate 
+any  (or  all)  of  the  remaining  menu  options,  to  facilitate 
+
+
+2 
+
+1.6 
+
+> 
+
+Q  I  2 
+
+
+< 
+
+
+.8 
+
+.4 
+
+
+I  ' 1 
+
+■                           ■ 
+
+— r   ■■  ■             i                    r                    I 
+
+<l 
+
+0.08        0.16        0.24       0.32         0.4 
+
+TIME.s 
+
+
+a(t)  +  b(t)  **  A(w)  +  B(w). 
+
+
+(19) 
+
+
+Cl. 
+
+H 
+
+< 
+
+LU 
+> 
+
+I— 
+< 
+
+_l 
+LU 
+
+CL 
+
+
+FREQUENCY,  Hz 
+
+Figure  7. -Time-domain  (A)  and  frequency-domain 
+(B)  representation  of  a  Dirac  delta  function  shifted  200  ms 
+(DIRAC.DAT,  appendix).  The  spectrum  is  darkened  in  to  illustrate 
+the  transformation. 
+
+
+10 
+
+
+additional  data  enhancement.  The  following  mathematical 
+relations  are  utilized  in  the  computational  algorithms  em- 
+ployed for  convolution  and/or  deconvolution  of  a  linear 
+system: 
+
+Convolution: 
+
+f(t),  i(t),  o(t)  -  F(co),  I(u),  O(u),  (20) 
+
+f(t)  *  i(t)  =  o(t)  -  F(u)  1(c)  =  O(o>),  (21) 
+
+f 
+
+
+f(t)  *  i(t)  = 
+
+
+(r?)i(t-r?)df?; 
+
+
+(22) 
+
+
+Deconvolution: 
+
+
+where 
+
+
+f(t)  -  F(o>)  =  0(a>)  /  I(a>),  (23) 
+
+i(t)  ~  I(w)  =  O(w)  /  F(w),  (24) 
+
+*     =  time-domain  convolution  operator, 
+f(t)     =  forcing  function, 
+i(t)    =  impulse  response  function, 
+o(t)    =  transient  response  function, 
+
+
+and 
+
+
+F(u>),  I(w),  O(w)  =  transform  equivalents  of  forcing, 
+impulse,  and  transient  response 
+functions,  respectively. 
+
+The  frequency-domain  equivalent  of  the  impulse  response 
+function  is  often  called  the  transfer  function;  however,  the 
+other  functions  are  simply  denoted  as  the  forcing  and 
+response  function  transform  equivalents.  A  schematic  of 
+this  three-component  linear  system  is  shown  in  figure  8. 
+Since  autocorrelation  is  a  special  case  of  cross  correlation, 
+and  the  operations  of  convolution  and  deconvolution  are 
+related,  the  following  text  is  broken  into  two  discussions. 
+In  general,  the  time-domain  convolution  process 
+(TDCON  module)  results  from  a  continuous  multiple-add 
+sequence.  The  responses  for  each  of  a  series  of  impulses 
+are  summed  at  the  appropriate  spacing  defined  by  the 
+sample  interval.  Numerically  speaking,  the  signal  to  be 
+shifted  (operator)  is  first  folded,  or  reversed  end  for  end. 
+Next,  the  folded  signal  is  placed  to  the  left  of  the  digitized 
+input  transient.  The  operator  is  shifted  right  one  position. 
+Each  of  the  coincident  values  of  the  operator  and  signal 
+are  then  multiplied.  All  the  products  are  then  summed  to 
+
+
+yield  one  output  sample  corresponding  to  that  time  value. 
+The  operator  is  then  shifted  right  one  position  and  the 
+operation  repeated  (until  all  positions  have  been  occu- 
+pied), resulting  in  the  response  function.  The  convolution 
+operation  is  depicted  in  figure  9. 
+
+The  frequency-domain  convolution  (FDCONV  module) 
+approach  requires  that  both  the  signal  and  operator  be 
+transformed  using  the  FFT.  Each  coincident  value  is  then 
+multiplied.  The  function  resulting  from  the  product  of 
+these  two  functions  is  then  inverted  back  in  time,  in  order 
+to  yield  the  fdtered  transient  response.  Since  multiplica- 
+tion in  the  transform  domain  is  equivalent  to  the  multiple- 
+add  sequence  conducted  in  the  time  domain,  both  transient 
+response  functions  are  theoretically  identical.  However, 
+numerical  algorithms  can  reproduce  poor  results  depen- 
+dent on  certain  characteristics  of  the  sampled  time  se- 
+quence under  investigation.  In  a  similar  manner,  the 
+deconvolution  process  (FDDCON  module)  requires  that 
+both  functions  be  transformed.  In  this  case,  division  of 
+coincident  values  occurs.  Inverting  the  function  established 
+during  the  frequency-domain  deconvolution  results  in 
+producing  either  a  forcing  or  an  impulse  function. 
+
+The  two  mathematical  operations  convolution  and  cross 
+correlation,  account  for  the  majority  of  basic  signal  pro- 
+cessing. As  it  did  with  convolution  and  deconvolution, 
+BOMSPS  provides  the  user  with  alternatives  for  imple- 
+menting cross  correlation  in  either  time  or  frequency.  The 
+implementation  of  cross  correlation  suggests  that  there 
+exists  a  linear  relationship  between  the  forcing,  impulse 
+response,  and  transient  response  functions.  In  general,  the 
+correlation  function  represents  a  graph  of  the  similarity 
+between  two  waveforms.  If  a  relative  time  shift(s)  is  al- 
+lowed between  two  waveforms,  then  a  correlation  function 
+can  be  described.  E.g.,  the  correlation  of  a  pure  sinusoid 
+(monotonic  frequency)  will  result  in  extracting  that  same 
+frequency  domain,  while  rejecting  the  others.  Clearly,  such 
+a  property  is  advantageous  to  band-pass  filtering.  Mathe- 
+matical relationships  defining  the  cross  correlation  and 
+related  frequency-domain  attributes  of  a  signal  are  given 
+by 
+
+
+f(t)i(r  +  t)dt 
+
+
+M>  = ; -;  *  *(«)  =  F  («)!(«),  (25) 
+
+c         (    (  (  ^'2       r 
+
+
+f*(t)dt 
+
+
+iZ(t)dt 
+
+
+*r,(t)  *  *fi(«)  =   l*fi(w)|  exp  (ja>*),  (26) 
+
+
+11 
+
+
+fCO 
+
+
+i(0 
+
+
+o(0 
+
+
+Time  domain 
+
+
+Impulse  response 
+
+
+Transient 
+response 
+
+
+F  (oo)         x  I  (w)  =  0  (w)  Frequency  domain 
+
+Figure  8.-Schematic  of  three-component  linear  system  (*  denotes  convolution,  and  *  denotes  multiplication). 
+
+
+2 
+
+1 
+
+0 
+
+□ 
+
+
+1 
+
+2 
+
+3 
+
+2 
+
+1 
+
+1 
+
+Sigr 
+
+i 
+
+r 
+
+0 
+
+1 
+
+4 
+7 
+8 
+5 
+2 
+2 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+0 
+
+1  +0 
+
+2+2  +0 
+
+4  +  3  +  0 
+
+6+2  +0 
+
+4+  1  +0 
+
+2+  1  +0 
+
+2  +  0+0 
+
+►       Operator  (filter,  i(t)) 
+
+Signal  (forcing  function,  f(t)) 
+
+
+Transient  response  (o(t)) 
+
+Figure  9. -Graphical  representation  of  convolution  property. 
+
+
+where  ^n(t) 
+
+f(0,  i(t) 
+
+
+correlation  function, 
+
+forcing      and      impulse      response 
+functions,  respectively,  and 
+
+
+I(w)    =  frequency-domain  impulse  response 
+function, 
+
+
+F  (to)    -  conjugate  transformation  of  forcing  $fj(w)  and  jwtf 
+
+function, 
+
+
+cross-power   sprectrum   and   cross- 
+phase  spectrum. 
+
+
+12 
+
+
+In  performing  cross  correlation  in  the  frequency-domain, 
+the  two  time  functions  must  first  be  transformed.  Then 
+the  conjugate  function  of  the  signal  to  be  correlated  is 
+determined  based  on  the  relationship  given  above.  The 
+correlation  operator  is  determined  by  taking  the  inverse 
+Fourier  transformation  of  this  product.  The  absolute  value 
+of  the  correlation  operator  represents  the  cross-power 
+spectrum.  These  functions  are  synonymous  with  the 
+Fourier  attributes  (amplitude  and  phase  spectra)  defined 
+for  a  single  time  function.  However,  these  Fourier  at- 
+tributes now  include  the  prefix  "cross,"  which  is  indicative 
+of  a  correlation  operation. 
+
+It  is  imperative  that  the  correlation  function  be  specified 
+at  the  onset  of  the  calculation,  which  is  not  true  for  the 
+convolution  process.  To  ensure  that  the  proper  operator 
+is  specified  for  cross-correlation  calculations,  BOMSPS 
+requires  linear  functions  to  be  defined  when  any  linear 
+operation  is  performed.  The  only  operational  time-domain 
+difference  between  convolution  and  cross  correlation  is 
+that  the  cross-correlation  operator  is  not  folded.  Coin- 
+cident values  are  multiplied  and  summed  to  yield  a  single 
+data  point.  The  operator  is  then  moved  one  position  and 
+the  process  repeated.  This  process  is  displayed  in  fig- 
+ure 10.  In  this  case,  the  forcing  function  (input)  and  op- 
+erator are  characterized  by  the  same  functions  utilized  in 
+the  convolution  example.  Specifically,  the  forcing  function 
+used  is  the  sinusoid  (SINUSOID.DAT,  appendix  A),  while 
+the  impulse  response  function  is  an  arbitrary  function. 
+
+In  general,  the  correlation  process  serves  as  a  band-pass 
+filter,  passing  common  frequency  components  between  the 
+signal  (forcing  function)  and  filter  (operator).  All  other 
+frequencies  are  effectively  rejected.  By  cross-correlating 
+the  received  signal  (plus  noise)  against  a  known  input 
+signal,  a  cross-correlated  peak  is  obtained  at  the  lag  time 
+corresponding  to  the  arrival  time  of  the  signal.  This  fact 
+is  important  in  determining  the  apparent  velocity  between 
+these  two  points.  While  correlation  remains  insensitive  to 
+amplitude  differences  between  waveforms,  it  is  sensitive  to 
+stretching  and/or  compression  of  a  waveform. 
+
+The  result  of  employing  a  Dirac  delta  function  as  the 
+filter  (impulse  response-transfer  function)  in  the  previ- 
+ously mentioned  processing  schemes  is  depicted  in  fig- 
+ure 11.  From  the  diagram,  it  is  seen  that  the  transient 
+response  function  is  identical  to  the  forcing  function 
+(SIGNAL.DAT).  This  phenomenon  will  occur  regardless 
+of  the  operation  utilized  (convolution  or  correlation).  This 
+is  true,  however,  only  when  a  Dirac  delta  function  centered 
+at  zero  time  is  employed.  While  an  impulse  response 
+characterized  by  a  shifted  Dirac  delta  function  will  result 
+in  the  same  transient  response  shape,  time  positioning  will 
+be  different  and  dependent  on  the  operation  employed.  If 
+the  operator  used  is  not  a  Dirac  delta  function,  the  re- 
+sulting transient  response  functions  will  take  on  a  totally 
+different  character,  each  dependent  on  the  operation  em- 
+ployed. One  might  have  deduced  this  based  on  the  scaling 
+property  of  the  Fourier  transform  (time-domain  compres- 
+sion represents  complete  frequency-domain  expansion). 
+Note  that  the  transformed  Dirac  delta  function  (transfer 
+
+
+function)  results  in  a  spectrum  of  constant  unit  amplitude 
+of  infinite  bandwidth.  In  this  case,  the  transfer  function 
+becomes  an  idealized  band-pass  filter,  known  as  an  all-pass 
+filter. 
+
+Another  band-pass  filter,  useful  for  detecting  hidden 
+periodicities  in  a  noisy  waveform,  is  autocorrelation.  The 
+related  frequency-domain  information  is  the  power  density 
+function.  These  functions  are  computed  based  on  the 
+following  expression: 
+
+
+^KO^fK")  =  lp(")l 
+
+
+(27) 
+
+
+where         ^ff(t)    =  autocorrelation  function, 
+
+and  ^ff(w)    =  its  frequency-domain  representation. 
+
+Autocorrelation  is  a  special  case  of  cross  correlation.  For 
+this  reason,  the  time-  and  frequency-domain  processes  of 
+autocorrelation  are  identical  to  those  discussed  for  cross 
+correlation.  However,  now  the  forcing  function  is  cor- 
+related against  itself  (operator).  The  operation  of  auto- 
+correlation, in  the  frequency  domain,  results  in  squaring 
+the  amplitude  spectrum  and  subtracting  phase  values  from 
+themselves.  The  process  of  discarding  all  of  the  phase 
+information  consolidates  any  amplitude  information.  The 
+periodic  components  of  frequency  in  the  operator  and  in 
+the  signal  under  investigation  reappear  unchanged  in  the 
+autocorrelation  function.  Their  amplitudes,  however,  are 
+altered,  giving  greater  prominence  to  the  larger  compo- 
+nents. Based  on  these  facts,  the  resulting  time  function 
+would  be  expected  to  be  of  zero  phase  and  to  be  sym- 
+metric about  the  origin.  The  response  results  in  a  graph 
+of  the  similarity  between  the  signal  and  a  time-shifted 
+version  of  itself  (correlation  operator)  with  its  corre- 
+sponding maximum  amplitude  at  0  Hz. 
+
+Since  the  process  of  autocorrelation  results  in  dis- 
+carding the  phase  information,  one  could  not  expect  to 
+recover  the  original  time  function.  Autocorrelation,  how- 
+ever, is  useful  in  revealing  characteristics  about  phenomena 
+associated  with  the  recording  of  the  time  function.  The 
+fact  that  an  autocorrelation  function  cannot  distinguish 
+between  the  signal  and  background  noise  having  similar 
+spectra  reveals  its  utility.  In  the  event  that  a  time  function 
+is  truly  random,  the  autocorrelation  function  will  display  a 
+zero-amplitude  time  function.  Hence,  the  autocorrelation 
+of  a  signal  inundated  with  random,  uncorrectable  transient 
+activity  will  result  in  a  spectrum  free  from  noise.  Quali- 
+tatively, one  may  interpret  the  autocorrelated  function  in 
+terms  of  the  relative  bandwidth.  E.g.,  narrower  band 
+signals  will  oscillate  over  longer  periods  with  the  amplitude 
+decaying  at  a  slower  rate.  Furthermore,  based  on  the 
+Fourier  scaling  property,  a  broader  band  signal  would  be 
+expected  to  exhibit  a  narrower  autocorrelation  function. 
+Inspection  of  the  power  spectrum  can  then  yield  quantita- 
+tive information  as  to  the  actual  bandwith  of  the  signal. 
+Also,  the  ratio  of  the  autocorrelation  of  a  signal  to  the 
+autocorrelation  of  noise  yields  the  signal-to-noise  (S-N) 
+ratio. 
+
+
+13 
+
+
+0 
+
+1 
+
+2 
+
+X 
+
+X 
+
+X 
+
+1 
+
+2 
+
+3 
+
+2 
+
+1 
+
+1 
+
+Sig 
+
+r         ^  r         1 
+
+8 
+7 
+6 
+3 
+1 
+
+0 
+
+4 — 
+4 — 
+
+4 
+
+i 
+
+4 
+
+4 
+
+0  +  2+6 
+
+0  +  3+4 
+
+0  +  2+4 
+
+0  +  1+2 
+
+0  +  1+0 
+
+0  +  0+0 
+
+»            * 
+
+Operator  (filter,  i(t)) 
+Signal  (forcing  function,  f(t)) 
+
+
+Transient  response  (o(t)) 
+
+Figure  10. -Graphical  representation  of  cross-correlation  property. 
+
+
+f(t) 
+
+
+i(t) 
+
+
+o(0 
+
+
+Time  domain 
+
+
+F(w)         x  i  (co)  =         o(w)  Frequency  domain 
+
+Figure  1 1  .-Application  of  linear  systems  analysis  to  band-pass  filtering  (*  denotes  convolution,  and  *  denotes  multiplication). 
+
+
+14 
+
+TUTORIAL 
+
+To  execute  the  signal  processing  program,  the  following       Upon  successful  execution,  the  header  listed  below  appears 
+command  sequence  is  entered  after  the  prompt  sign  ( >  )        on  the  screen. 
+appears  on  the  screen. 
+
+
+>BOMSPS 
+
+
+*  BUREAU  OF  MINES  * 
+**  SIGNAL  PROCESSING  INTERACTIVE  SOFTWARE  ** 
+***                                 (BOMSPS,  1988)  *** 
+
+***                                    developed  by  *** 
+
+**                                BUREAU  of  MINES  ** 
+
+*  TWIN  CITIES  RESEARCH  CENTER 
+GEOTECHNOLOGY  personnel 
+
+
+*  GEOTECHNOLOGY  personnel  * 
+
+
+The  first  user-interactive  message  seen  on  the  screen  is       options  available  to  the  user.    The  following  example  is 
+directed  toward  input-output  (I-O).     Scrolling  through       from  the  program, 
+these  I-O  messages  results  in  listing  I-O  format  and/or 
+
+DO  YOU  WISH  TO  WRITE  REMARKS  CONCERNING 
+INPUT/OUTPUT  FORMAT  OR  PROGRAM  OPTIONS  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+EXTERNAL  DATA  FILES 
+
+INPUT:         Time  per  point  (seconds),  Total  #  data  points 
+Data  points  (time.amplitude) 
+
+F10.8,I5 
+
+F15.5,lx,F15.5 
+
+Note:  Total  #  data  points  <2048 
+
+OUTPUT:    To  WRITE  functional  values  to  any/all  of 
+
+the  data  files  to  scratch  files,  the  OPERATOR 
+values  (in  external  file  WRT.IN)  must  be  set 
+equal  to  "1.0."  Conversely,  a  value  of  "2.0" 
+will  prohibit  the  transfer  of  data. 
+
+OPERATOR       SCRATCH  FILE  FUNCTION 
+
+(1)  FISGNL.DAT      FILTERED  time  fct  (real  component) 
+
+(2)  IMSGNL.DAT      FILTERED  time  fct  (imag.component) 
+
+(3)  QUAD.DAT      QUADRATURE  fct 
+
+(4)  ENV.DAT      ENVELOPE  (inst.  ampltude) 
+
+(5)  PHI.DAT      INSTANTANEOUS   phase 
+
+(6)  TRANSR.DAT      TRANSFORM       spectrum  (real  component) 
+
+(7)  TRANSI.DAT      TRANSFORM       spectrum  (imag.component) 
+
+(8)  AMP.DAT      AMPLITUDE        spectrum 
+
+(9)  PDS.DAT      POWER  spectrum 
+
+
+15 
+
+(10)  PHAS.DAT      PHASE  spectrum 
+
+(11)  DAMP.DAT      DYNAMIC  spectrum  (amplitude) 
+
+(12)  DPDS.DAT      DYNAMIC  spectrum  (power) 
+
+OUTPUT:    Functional  data  values  are  written  out  to 
+scratch  files  in  the  following  format: 
+f  15.5,  lx,f  15.5   In  this  manner,  a  paper 
+copy  of  the  data  (or  screen  visual)  can  be 
+made  employing  other  commercial  graphics 
+programs 
+
+EXIT:  To  EXIT  program  at  any  point  TYPE:CNTL  C 
+
+Based  on  the  information  presented  above,  the  first  line  of       Depending   on   the   machine   capabilities,   this   may  be 
+
+any  input  data  file  must  include  the  sample  interval  in       increased  or  decreased.  Sample  input  data  files  are  given 
+
+seconds  (F10.8)  and  the  total  number  of  data  pairs  (15).       in  appendix  A. 
+
+Information      following      this      line      represents      the 
+
+time-amplitude  pairs  (F15.5,lx,F15.5)  with  time  increasing  PROGRAM  OPTIONS 
+
+in  succession.     The  maximum  number  of  data  points 
+
+capable  of  being  analyzed  is  based  on  the  array  space.  After  the  request  to  review  the  processing  options  is 
+
+Currently,  the  time-equivalent  arrays  are  set  to  2048.        acknowledged,  the  following  outline  appears  on  the  screen: 
+
+AVAILABLE  OPTIONS: 
+
+A.      SIGNAL  PROCESSING 
+
+1.     SINGLE  TIME  SERIES  FUNCTION 
+
+a.  SELECT  from  one  of  five  standard  signals 
+or  read  in  an  external  signal 
+
+b.  INTERPOLATE  a  random  (or  even)  digitized 
+data  set  to  "new"  even  time  interval 
+
+c.  SCALE  time  or  amplitude  by  some  constant 
+
+d.  STACK  arbitrary  number  of  waveforms 
+
+e.  GAIN  control,  convert  arbitrary  to  true  voltage 
+values  (and/or  voltage  values  to  velocities) 
+
+f.  MUTE  any  part  of  the  input  signal 
+
+g.  SHAPE  input  signal  with  either  a  Hanning  or 
+cosine  weighting  function,  3-pt  smoothing 
+
+h.    RANDOMIZE  (add  random  noise  to  input  signal) 
+i.     TIME-SHIFT,  translate  function  along  time  axis 
+j.     PHASE,  modify  signal  phase  (any  amnt  in  radians) 
+k.    FILTER  signal  employing  60-Hz  notch,  bandpass, 
+
+low  or  high  cut  with  cosine  or  linear  tapers 
+1.     CALCULATE  any/ all  of  the  following  functions 
+
+
+signal  (real  part) 
+signal  (imaginary  part) 
+cumulative  time-domain  energy 
+envelope  (instantaneous  amplitude) 
+quadrature  (Hilbert  transform  of  signal) 
+instantaneous  phase 
+instantaneous  frequency 
+
+*  derivative 
+
+*  transform  spectrum 
+
+*  amplitude  spectrum 
+
+*  phase  spectrum 
+
+*  autocorrelation 
+
+*  power  density  spectrum 
+
+
+16 
+
+
+2.    TWO  TIME  SERIES  FUNCTIONS 
+
+a.  READ  input  signals  from  external  files 
+
+b.  CALCULATE  any/all  of  the  following  functions 
+**     cross  correlation  (time  or  freq.  domain) 
+
+*  cross-power  spectrum 
+
+*  cross-phase  spectrum 
+
+**     (de) convolution  (time  or  freq.  domain) 
+
+*  transform  spectrum 
+
+*  amplitude  spectrum 
+
+*  phase  spectrum 
+**     envelope 
+
+**  quadrature  function 
+
+**  instantaneous  phase 
+
+**  instantaneous  frequency 
+
+**  derivative 
+
+
+AVAILABLE  TIME  SERIES  FUNCTIONS 
+
+Since  BOMSPS  is  written  to  be  utilized  on  an  instruc- 
+tional, as  well  as  a  scientific,  level,  the  user  has  access  to 
+various  external  time  functions.  The  first  menu  to  be 
+displayed  on  the  screen  lists  six  available  time  functions  for 
+data  analysis: 
+
+MENU:   AVAILABLE  TIME  SERIES  FUNCTIONS 
+
+1.  BOXCAR (boxcar.dat) 
+
+2.  BOXCAR,  shifted  100  ms  .  .  (boxcarl.dat) 
+
+3.  DIRAC    (dirac.dat) 
+
+4.  DIRAC,   shifted  100  ms    .  .  .  (diracl.dat) 
+
+5.  EXTERNAL    (filename.dat) 
+
+6.  SINUSOIDAL    (sinusoid.dat) 
+
+ENTER:    time  series  function  (filename.dat)  =  ? 
+
+In  addition  to  having  the  possibility  of  reading  external 
+data  files,  the  user  can  investigate  the  response  to  a  box- 
+car, shifted  boxcar,  Dirac,  shifted  Dirac,  frequency- 
+modulated,  and/or  sinusoidal  function.  Each  of  these 
+functions  is  characteristically  sampled  at  1-ms  intervals. 
+With  the  exception  of  externally  created  data  files,  the 
+remaining  functions  exist  in  permanent  data  files  (file 
+names  are  given  in  parentheses  above).  The  advantage  of 
+any  numerical  model  is  that  it  can  be  modified  by  simply 
+changing  a  few  values  (i.e.,  sample  interval,  amplitude, 
+etc.)  Hence,  the  user  may  edit  the  file-perturbing  values 
+for  extended  analysis.  In  order  for  BOMSPS  to  read  the 
+appropriate  data  file,  the  file  name  is  entered  complete 
+with  the  extension  (filename.dat).  In  the  example  below, 
+the  data  file  containing  an  arbitrary  sinusoid  is  selected  by 
+entering 
+
+>  SINUSOID.DAT 
+
+
+For  some  computer  systems  the  extension  (.DAT)  is  in- 
+cluded by  default  and  does  not  need  to  be  typed  in.  If  the 
+user  wishes  to  investigate  a  field  record  (external  option), 
+the  complete  data  file  name  must  be  typed.  After  the 
+program  has  read  a  data  file,  the  main  processing  menu 
+appears  on  the  screen  as  depicted  below. 
+
+*************************************************** 
+SIGNAL  PROCESSING  MENU 
+
+
+AUTOCORRELATE  (time-domain).  . 
+
+CROSS  CORRELATION 
+
+(DE)CONVOLUTION 
+
+DISPLAY 
+
+EXIT  PROGRAM   
+
+FILTER  (temporal)    
+
+FOURIER-DOMAIN  (attributes) 
+
+GAIN/VELOCITY 
+
+HILBERT-DOMAIN  (attributes) 
+
+INTERPOLATE  
+
+MUTE 
+
+NORMALIZE    
+
+POLARITY    
+
+RANDOMIZE 
+
+RESET 
+
+SCALE 
+
+SHIFT    
+
+STACK  
+
+SMOOTHING    
+
+WINDOW    
+
+WRITE  (values  to  screen) 
+
+WRITE  (values  to  scratch  files) 
+
+
+ENTER:  1.0 
+
+2.0 
+
+3.0 
+
+4.0 
+
+5.0 
+
+6.0 
+
+7.0 
+
+8.0 
+
+9.0 
+10.0 
+11.0 
+12.0 
+13.0 
+14.0 
+15.0 
+16.0 
+17.0 
+18.0 
+19.0 
+20.0 
+21.0 
+
+22.0 
+
+*************************************************** 
+
+
+There  are  22  operations  available  to  the  user,  listed  in 
+alphabetical  order  in  the  menu.  This  order  does  not  sug- 
+gest any  relative  importance  or  endorse  a  particular  pro- 
+cessing scheme. 
+
+
+17 
+
+
+CORRELATION  MODULES 
+
+If  cross  correlation  between  a  signal  and  operator 
+(filter)  is  necessary,  the  investigator  invokes  option  2 
+from  the  main  menu.  The  following  message  appears, 
+prompting  the  user  for  the  file  name  in  which  the  operator 
+is  located. 
+
+ENTER:   Cross  correlation  operator  (filename.dat)  =  ? 
+>  dirac.dat 
+
+
+(DE)CONVOLUTION  MODULE 
+
+The  convolution-deconvolution  operation  is  invoked  by 
+selecting  option  3  from  the  signal  processing  menu.  Im- 
+mediately following  this  selection,  the  user  is  required  to 
+define  the  file  name  in  which  the  operator  (second  time 
+function,  see  below)  is  stored. 
+
+ENTER:   Time  function  #  2  (fdename.dat)  =  ? 
+>  diracl.dat 
+
+
+Cross-correlating  a  signal  with  the  unit  spike  results  in  the 
+same  output  function  as  given  in  figure  11.  This  is  the 
+only  condition  in  which  these  two  operators  will  yield  the 
+same  results.  To  determine  the  cross-power  and  cross- 
+phase  spectra,  the  user  simply  implements  the  FOURIER 
+module  (option  7).  Note,  however,  that  the  screen  display 
+will  retain  the  Fourier  display  titles  associated  with  the 
+single  time  transient.  A  special  case  of  cross  correlation 
+is  autocorrelation.  The  autocorrelation,  or  cross  corre- 
+lation of  the  signal  with  itself,  can  be  conducted  by  using 
+option  1.  In  this  case,  the  signal  is  automatically  assumed 
+to  be  both  the  signal  and  operator.  In  a  similar  manner, 
+the  power  and  phase  spectra  can  be  determined  by  using 
+the  FOURIER  module  (option  7). 
+
+
+The  appropriate  fde  name  is  entered  by  typing  the  com- 
+plete fde  name  and  extension.  In  the  example  given,  the 
+file  name  used  is  DIRAC.DAT.  This  fde  retains  the  Dirac 
+delta  function.  BOMSPS  routinely  executes  a  comparative 
+check  of  both  time  function  sample  intervals.  If  these 
+values  are  not  equivalent,  the  program  will  generate  an 
+error  message,  display  the  sample  intervals  for  each  trace, 
+and  then  terminate.  On  the  other  hand,  if  the  signals  were 
+sampled  at  concurrent  rates,  the  user  is  requested  to  de- 
+fine the  linear  system  as  defined  below. 
+
+
+PLEASE  IDENTIFY  THE  INPUT  TIME  SERIES  SIGNALS  AS  ONE 
+OF  THE  CORRESPONDING  FUNCTIONS  IN  THE  LINEAR  SYSTEM 
+
+
+ENTER:    1.0   (=  FORCING  FUNCTION    
+
+2.0   (=  SYSTEM  IMPULSE  FUNCTION  (OPERATOR) 
+3.0   (=  TRANSIENT  RESPONSE  FUNCTION 
+
+
+As  outlined  above,  two  of  the  three  linear  functions  must 
+be  defined  (in  time)  as  either  forcing,  system  impulse 
+(operator),  or  transient  response  (output)  functions.  In 
+order  to  define  the  linear  system,  the  user  must  identify 
+each  of  the  time  functions  as  a  component  in  this  system. 
+System  identification  is  made  by  typing  the  number  corre- 
+sponding to  the  adjacent  function  name  given  in  the  menu 
+above.  In  the  example  shown  below,  the  Dirac  delta  func- 
+tion is  defined  as  the  system  impulse  response,  while  the 
+original  signal  is  defined  as  the  forcing  function. 
+
+Input  transient  1  represents  number  ? 
+
+>1 
+
+Input  transient  2  represents  number  ? 
+
+>2 
+
+In  digital  band-pass  filtering,  the  forcing  function  is  syn- 
+onymous with  the  signal  under  investigation.  The  impulse 
+response  function  represents  the  filter,  while  the  transient 
+
+
+response  represents  the  filtered  version  of  the  original 
+signal.  By  identifying  two  of  the  corresponding  functions, 
+as  part  of  the  linear  function,  the  computer  then  calculates 
+the  third  unknown  function.  In  such  a  case,  the  sinusoid 
+will  be  filtered  by  the  Dirac  delta  function  and  output  as 
+the  transient  response  function.  The  message  below  re- 
+quires an  indication  of  the  domain  in  which  to  calculate 
+the  unknown  function. 
+
+ENTER:    1.0  (=  Time-domain  (de)convolution) 
+
+2.0  (=  Frequency-domain  (de)convolution) 
+>1 
+
+Entering  a  value  of  1  will  cause  the  (de)  convolution  op- 
+eration to  take  place  in  the  time  domain.  Entering  a  value 
+of  2  will  utilize  the  frequency  domain.  In  either  case,  the 
+transient  response  is  output  as  a  function  of  time.  The 
+message  appearing  on  the  screen  indicates  which  function 
+is  determined. 
+
+
+***************************************************************************** 
+
+THE  TWO  TIME  SERIES  FUNCTIONS  HAVE  BEEN  (DE)CONVOLVED.   THE 
+
+CALCULATED  FUNCTION  CORRESPONDS  TO  NUMBER  3.00  FROM  ABOVE 
+
+***************************************************************************** 
+
+It  is  this  new  function  that  is  now  resident  in  memory. 
+
+
+18 
+
+
+FILTER  MODULE 
+
+The  use  of  frequency  domain  filters  extends  the  flexibil- 
+ity of  data  enhancement.  By  implementing  the  FILTER 
+module  (option  6),  the  examiner  is  permitted  to  select 
+one  of  seven  frequency-domain  filters.  The  available 
+frequency-domain  filters  appear  in  the  following  menu: 
+
+FILTER  MODULE 
+
+FREQUENCY-DOMAIN  FILTER  MENU 
+
+
+ENTER: 
+
+
+1.0  | 
+
+>  BANDPASS 
+
+with  cosine  window    . 
+
+) 
+
+2.0| 
+
+[=  BANDPASS 
+
+with  half  sine  window 
+
+) 
+
+3.0< 
+
+;=  BANDPASS 
+
+with  cosine  tapers  .  .  . 
+
+) 
+
+4.0  I 
+
+;=  BANDPASS 
+
+with  linear  tapers   .  .  . 
+
+) 
+
+5.0| 
+
+{=  HIGH  PASS 
+
+with  cosine  tapers  .  .  . 
+
+) 
+
+6.0  1 
+
+>  LOW  PASS 
+
+with  cosine  tapers  .  .  . 
+
+) 
+
+7.0| 
+
+{=  NOTCH 
+
+with  cosine  tapers  .  .  . 
+
+) 
+
+8.0  1 
+
+;=  RETURN  to 
+
+menu    
+
+) 
+
+The  investigator  can  employ  a  half-sine  or  cosine  window, 
+notch,  band-pass,  high-cut  (low-pass),  or  low-cut  (high- 
+pass)  filter.  Each  filter  permits  the  user  to  interactively 
+enter,  reject,  and/or  pass  points.  With  this  sort  of  flex- 
+ibility, it  is  possible  to  design  the  sharpness  of  filter  cutoff. 
+Both  linear  and  cosine  tapers  are  available.  In  defining 
+the  taper,  at  least  two  points  (frequency  values)  must  be 
+defined  between  which  the  taper  is  implemented.  In  all 
+cases,  the  taper  utilized  will  slope  from  the  pass  point 
+toward  the  reject  point.  In  order  for  BOMSPS  frequency- 
+domain  filters  to  yield  realizable  results,  the  maximum 
+frequency  component  utilized  to  define  a  pass-or-reject  (or 
+reject-or-pass)  combination  cannot  exceed  the  Nyquist 
+frequency.  To  avoid  a  potential  problem,  it  is  suggested 
+that  the  user  examine  the  Fourier  attribute  summary  table 
+(option  7).  Recall  that  the  Nyquist  frequency  is  given  as 
+part  of  the  time  or  frequency  data  summary.  Furthermore, 
+any  spectral  component  that  is  eliminated  by  a  temporal 
+filter  (i.e.,  band-pass,  low-  or  high-cut,  etc.)  operation  is 
+nonrecoverable. 
+
+For  a  general  band-pass  filter,  the  frequency  points  are 
+defined  in  the  following  order:  low-frequency  reject  (lfr), 
+low-frequency  pass  (lfp),  high-frequency  pass  (hfp),  and 
+high-frequency  reject  (hfr).  All  energy  outside  the  spe- 
+cified reject  points  is  discarded.  In  designing  a  half-sine  or 
+cosine  band-pass  filter,  the  user  specifies  only  two  points 
+(lfr  and  hfr).  All  frequencies  greater  than  or  equal  to  the 
+low-frequency  reject  point,  but  less  than  or  equal  to 
+
+
+high-frequency  reject  will  be  passed.  In  defining  the  high- 
+pass  filter,  the  low-frequency  reject  or  pass  points  are 
+defined.  Conversely,  the  low-pass  filter  is  defined 
+employing  the  high-frequency  pass  or  reject  points.  The 
+high-pass  filter  effectively  rejects  frequencies  less  than  the 
+lfr  point,  while  the  low-pass  filter  rejects  all  frequencies 
+exceeding  the  specified  hfr  point.  As  the  name  "notch 
+filter"  suggests,  all  energy  in  excess  of  the  lfr  and  less  than 
+the  hfr  is  lost.  Tapers  are  implemented  automatically  once 
+the  frequency  reject  or  pass  points  are  specified. 
+Regardless  of  the  type  of  taper  (linear  or  cosine),  energy 
+defined  between  the  low-frequency  pairs  and/or  the  high- 
+frequency  pairs  is  tapered  accordingly. 
+
+Various  frequency-domain  filters  were  applied  to  a 
+Dirac  delta  function.  The  frequency-  and  time-domain 
+results  upon  imposing  these  filters  are  displayed  in  fig- 
+ures 12  and  13,  respectively.  The  former  figure  demon- 
+strates the  frequency-domain  equivalence  of  implementing 
+various  filters  and  related  reject  or  pass  points.  Each 
+panel  is  normalized  and  displayed  from  -1  to  1  along  the 
+abscissa,  while  the  ordinate  depicts  increasing  frequency 
+from  0  Hz  to  the  folding  frequency  (500  Hz).  While  the 
+actual  implementation  of  the  temporal  filter  occurs  in  the 
+frequency  domain,  the  effect  is  not  demonstrated  until  an 
+inverse  transformation  has  occurred.  In  figure  13,  the 
+corresponding  time-domain  expressions,  as  filtered,  are 
+displayed. 
+
+FOURIER  MODULE 
+
+When  the  FOURIER  module  (option  7)  is  invoked, 
+BOMSPS  calculates  the  real  and  corresponding  imaginary 
+components  associated  with  the  transformation  process. 
+Additionally,  the  amplitude,  power,  and  phase  spectra  are 
+determined.  Phase  spectral  values  are  characteristic  of 
+an  unwrapped  sequence  measured  in  radians.  Those  se- 
+quence values  associated  with  the  dynamic  amplitude  and 
+power  spectra  (described  later)  are  also  calculated.  The 
+arbitrary  values  are  converted  to  a  dynamic  range  based  on 
+the  relation 
+
+
+dB  =  20  1og[s(c)|/|S(W)max|j,  (28) 
+
+
+where      S(w)    =  absolute  value  of  transformed  signal 
+(spectrum). 
+
+Consequently,  dynamic  range  values  are  negative  (loss  of 
+energy,  decibels)  and  referenced  to  zero  magnitude. 
+
+
+19 
+
+
+-10     1-10     1-10     1-10     1 
+
+
+n 
+
+
+(_> 
+
+
+100 
+
+
+200   - 
+
+
+300   - 
+
+
+400   - 
+
+
+500 
+
+
+O 
+
+LU 
+Ll_ 
+
+
+100  - 
+
+
+200   " 
+
+
+300   ~ 
+
+
+400   - 
+
+
+500 
+
+
+-1    0     1 
+
+
+0    1 
+
+
+0    1-10    1 
+
+
+NORMALIZED  AMPLITUDE 
+
+Figure  12.-Frequency-domain  filters  applied  to  Dirac  delta  function  (DIRAC.DAT,  appendix  A).  Each  filter  is  shaded  to  illustrate  the 
+
+portion  of  the  spectrum  that  is  passed.   The  low-  and  high-frequency  pass  and  reject,  in  hertz,  are  as  follows: 
+
+Panel                                                                        Low  frequency  High  frequency 
+
+Reject  point         Pass  point  Pass  point           Reject  point 
+
+A,  All-pass  (unfiltered  spectrum) 
+
+B,  Band-pass  filter  with  cosine  window  ...                               0                             0  500                       500 
+
+C,  Band-pass  filter  with  half-sine 
+
+window 0                              0  500                         500 
+
+D,  Band-pass  filter  with  cosine  tapers  ....                               0                           25  55                        100 
+
+E,  Band-pass  filter  with  linear  tapers 0                           25  55                        100 
+
+F,  High-pass  filter  with  cosine  taper    0  25 
+
+G,  Low-frequency  pass  filter  with 
+
+cosine  taper 55                        100 
+
+H,  Notch  filter  with  cosine  tapers    25                              0  1 00                           55 
+
+
+20 
+
+
+0.0 
+
+
+CO 
+
+
+-1.00 
+
+1.00 
+
+A 
+
+0.258       0.258  -0.918       0.918  -0.123  0.123, 
+
+
+i 
+
+i 
+
+* 
+
+■ 
+
+i 
+
+1 
+
+i 
+
+i 
+
+i 
+
+i 
+
+B 
+
+i 
+
+-0.133  0.133  -0.963  0.963  -0.160  0.160  -0.842  0.842 
+
+
+I 
+I 
+
+l 
+I 
+
+F 
+
+
+AMPLITUDE,  V 
+
+Figure  1 3.-Transient  response  to  implementing  frequency-domain  filtering  with  regard  to  a  Dirac  delta  function  (DIRAC.DAT, 
+appendix  A).   Positive  polarity  is  shaded.   The  low-  and  high-frequency  pass  and  reject,  in  hertz,  are  as  follows: 
+
+Panel                                                                        Low  frequency  High  frequency 
+
+Reject  point         Pass  point  Pass  point  Reject  point 
+
+A,  All-pass  (unfiltered  spectrum) 
+
+B,  Band-pass  filter  with  cosine  tapers  ....                               0                             0  500  500 
+
+C,  Band-pass  filter  with  half-sine 
+
+window 0                              0  500  500 
+
+D,  Band-pass  filter  with  cosine  tapers  ....                               0                           25  55  1 00 
+
+E,  Band-pass  filter  with  linear  tapers 0                           25  55  1 00 
+
+F,  High-pass  filter  with  cosine  taper    0  25 
+
+G,  Low-frequency  pass  filter  with 
+
+cosine  taper 55  1 00 
+
+H,  Notch  filter  with  cosine  tapers    25                              0  100  55 
+
+
+21 
+
+
+A  summary  table  of  both  time  and  frequency  attrib-       is  automatically  displayed  on  the  screen  for  the  user's 
+utes,  associated  with  any  waveform  under  investigation,       information. 
+
+TIME  VARIABLES: 
+
+
+SAMPLING  INCREMENT 
+NUMBER  OF  SAMPLE  POINTS 
+MAXIMUM  TIME  AMPLITUDE 
+
+
+0.00100000  s 
+128.00000000 
+9.50000000  at  0.00400000  s 
+
+
+SPECTRAL  VARIABLES: 
+
+
+FREQUENCY  INCREMENT 
+FOLDING  FREQUENCY 
+MAXIMUM  SPECTRAL  AMPLITUDE 
+
+
+7.81249952  Hz 
+499.99999694  Hz 
+119.22966759  at  62.49999619  Hz 
+
+
+*********************************************************************** 
+
+
+Time  variables  include  the  sample  increment,  the  num- 
+ber of  discrete  sample  points,  and  maximum  relative  time 
+amplitude.  In  regard  to  the  example  given  above,  the 
+sinusoidal  function  (SINUSOID.DAT)  is  characteristic  of 
+a  1-ms  sample  interval,  128  discrete  data  points,  and  a 
+corresponding  maximum  amplitude  of  9.5  V  at  4  ms.  Sim- 
+ilarly, spectral  variables  include  the  frequency  increment 
+of  7.8  Hz,  a  folding  frequency  of  500  Hz,  and  a  relative 
+
+
+maximum  spectral  amplitude  of  119  units  at  62  Hz.  The 
+Fourier  attributes-real  transform,  imaginary  transform, 
+amplitude,  power,  and  phase  spectra-can  all  be  seen,  in 
+adjoining  panels  on  the  monitor,  by  affirmation  of  the 
+following  screen  message.  To  ensure  that  the  program  is 
+operating  correctly,  these  same  Fourier  attributes  were 
+calculated  and  plotted  for  both  a  boxcar  and  a  Dirac  delta 
+function. 
+
+
+DO  YOU  WISH  TO  DISPLAY  THE  FOURIER  ATTRIBUTES  TO  THE  SCREEN  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+
+Initially,  a  summary  outlining  the  number  of  traces  to  be  plotted  and  the  folding  frequency  appear  on  the  screen. 
+The  user  is  then  requested  to  interactively  set  up  plotting  parameters.    (See  "Plot  Module"  section.) 
+
+
+GAIN  MODULE 
+
+When  option  8,  the  GAIN/VELOCITY  module,  is  in- 
+voked, the  computer  dispatches  the  following  menu: 
+
+***************** 
+
+GAIN  MODULE 
+
+***************** 
+
+
+ENTER:    1.0  (=  Convert  voltage  gain  (dB) ) 
+
+2.0  ( =  Convert  voltage  to  velocity  values    .  .  ) 
+
+3.0  (=  Return  to  menu ) 
+
+>1 
+
+ENTER:   Gain  (in  decibels,  dB)  =  ? 
+
+
+The  GAIN/VELOCITY  module  has  twofold  impor- 
+tance as  a  signal  processing  tool.  First,  it  is  possible  to 
+increase  or  decrease  the  gain  (decibels).  A  typical  use  for 
+this  operation  is  to  recover  the  true  gain  of  a  signal 
+recorded  in  the  field.  Second,  the  GAIN/VELOCITY 
+module  can  be  utilized  for  converting  from  voltage  to 
+velocity  values  (or  velocity  to  voltage  values).  In  the  ex- 
+ample given  above,  a  gain  value  of  1  dB  is  introduced. 
+After  each  operation  is  finished,  the  menu  reappears  on 
+the  screen.  The  second  application  (amplitude  conversion) 
+can  be  implemented  by  selecting  2.  Immediately  following 
+this  selection,  the  user  is  requested  to  define  the  type  of 
+transducer  response  function  (volts  per  inch  per  second)  to 
+be  used. 
+
+
+>50 
+
+
+>2 
+
+DO  YOU  WISH  TO  CONVERT  VOLTAGES  TO  VELOCITY  VALUES  ? 
+
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+
+22 
+
+
+ENTER:   Transducer  response  function  (vlts/in/sec)  =  ? 
+
+1.0  (=  single  value) 
+
+2.0  (=  external  function) 
+>1 
+
+ENTER:   Scalar  response  =  ? 
+
+>1.5 
+
+If  the  single-value  option  is  selected,  then  one  value  is 
+entered.  Such  a  case  is  useful  if  the  signal  spectrum  oc- 
+curs within  the  transducer's  flat  response  spectrum.  How- 
+ever, if  the  broadband  energy  also  occurs  outside  the 
+transducer's  flat  response,  the  investigator  will  be  more 
+likely  to  choose  the  second  option  (input  a  response  func- 
+tion). If  the  second  option  is  selected,  the  user  must  enter 
+the  name  of  the  appropriate  external  file  that  holds  the 
+
+
+complete  transducer  function.  This  transducer  response 
+function  must  be  compatible  with  the  signal  under 
+investigation. 
+
+HILBERT  MODULE 
+
+Provisions  in  BOMSPS  permit  the  calculation  of  trace 
+attributes  such  as  the  envelope  (instantaneous  amplitude), 
+quadrature  (Hilbert  transform),  instantaneous  phase,  in- 
+stantaneous frequency,  and  derivative.  Although  these 
+functions  represent  time-domain  attributes,  each  calcula- 
+tion is  simplified  by  conducting  operations  in  the  frequency 
+domain.  Upon  selection  of  the  HILBERT  module  (option 
+9),  each  of  these  trace  attributes  is  calculated.  Immedi- 
+ately following  the  selection  of  the  Hilbert  attribute  option, 
+a  message  will  appear  on  the  screen  inquiring  as  to  wheth- 
+er these  functions  should  be  plotted  on  the  screen. 
+
+
+DO  YOU  WISH  TO  DISPLAY  THE  HILBERT  ATTRIBUTES  TO  THE  SCREEN  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+
+As  is  the  case  for  the  Fourier  attributes,  the  trace  attrib- 
+utes are  displayed  in  adjoining  panels  after  the  plot  setup 
+procedure  is  completed.  Figure  14  depicts  the  screen 
+view  of  those  Hilbert  attributes  related  to  the  sinusoid 
+(SINUSOID.DAT,  appendix  A).  In  this  example,  the 
+100  data  points  are  each  sampled  at  1-ms  intervals.  The 
+first  panel  depicts  the  resident  waveform  (input  signal). 
+The  remaining  panels  (from  left  to  right)  are  the  quad- 
+rature, envelope  (instantaneous  amplitude),  and  instan- 
+taneous phase.  Time-amplitude  values  are  plotted  with 
+time  along  the  ordinate  and  amplitude  along  the  abscissa. 
+Again,  the  abscissa  values  are  indicative  of  a  normalized 
+set. 
+
+Basic  operations  such  as  gain  control,  muting,  normal- 
+ization, polarity  change,  randomization,  scaling,  shifting 
+(translation),  stacking,  smoothing,  and  windowing  account 
+for  the  majority  of  time-domain  digital  enhancement  (fil- 
+tering) operations  employed  by  BOMSPS.  Routine  use 
+of  these  operations,  prior  to  implementation  of  other  fil- 
+ters and/or  display  features,  warrants  their  inclusion.  The 
+utilization  of  any  of  these  menu  operations  results  in  re- 
+placing the  original  contents  (in  memory)  with  a  perturbed 
+(filtered)  version.  If,  at  any  time,  the  user  wishes  to  recall 
+the  original  time  series  function  into  memory,  he  or  she 
+simply  invokes  the  reset  operation  (option  15).  This  reset 
+process  results  in  reloading  the  temporary  memory  with 
+the  original  waveform  held  in  a  permanent  memory  reg- 
+ister. Upon  completion  of  this  process,  the  following 
+message  appears  on  the  screen  indicating  such: 
+
+*********************************************** 
+
+RESET  MEMORY:    Original  Time  Series  Function 
+
+*********************************************** 
+
+
+Higher  order  time-domain  processing  involving  convolution 
+and/or  cross  correlation  is  useful  but  requires  an  operator 
+(second  time  function)  in  order  to  be  executed.  Both  of 
+these  operations  (convolution  and  cross  correlation)  are 
+discussed  in  detail  under  the  heading  "Two  Time  Series 
+Functions." 
+
+INTERPOLATE  MODULE 
+
+For  data  to  be  processed  utilizing  BOMSPS,  discrete 
+values  must  be  sampled  at  equal  time  intervals.  If  a 
+graphics  tablet  is  employed,  the  signal  generally  ends  up 
+digitized  in  a  random  fashion  with  unevenly  spaced  time 
+values.  Any  attempt  to  employ  options  in  the  menu  other 
+than  option  10  will  result  in  an  error  message  and  termi- 
+nation of  the  program.  As  an  example,  consider  reeval- 
+uating a  data  file  characteristic  of  even  sample  intervals, 
+but  having  too  few  data  points  (86).  The  dispatched  mes- 
+sage is 
+
+
+>10 
+
+
+******************* 
+
+INTERP  MODULE: 
+
+******************* 
+
+ENTER:   Number  of  Points  (numpts):   Total  number  of 
+new  values  to  be  interpolated  and  stored. 
+
+>1000 
+
+
+23 
+
+
+0.£0 
+
+
+Input  3ignal 
+
+
+Quadrature 
+
+
+Instant.  Amplitude     Instant.  Pha3e 
+
+
+v> 
+
+
+UJ 
+
+
+-1 
+
+
+-1 
+
+
+-1 
+
+
+-1 
+
+
+AMPLITUDE 
+
+Figure  1 4.-Screen  view  of  trace  attributes:  original  transient  (input  signal),  quadrature,  instantaneous  amplitude 
+(envelope),  and  instantaneous  phase  functions. 
+
+
+In  the  example,  the  examiner  chooses  to  increase  the 
+sample  density  from  86  data  points  (sampled  at  1-ms  in- 
+tervals) to  1,000  data  points  (sampled  at  86-/xs  intervals). 
+The  previous  number  of  86  discrete  data  pairs  (time,  am- 
+plitude) is  now  replaced  by  1,000.  Immediately  following 
+this  entry  is  a  message  regarding  the  uniformity  of  sam- 
+pling (below). 
+
+TYPE:    1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+
+The  default  response  (no)  implies  that  the  data  set  is  of 
+random  origin.  The  user  would  then  enter  the  required 
+sample  interval  (seconds)  to  be  employed  during  the  in- 
+terpolation. In  the  example  given,  however,  it  is  of  interest 
+to  reevaluate  an  evenly  spaced  data  set.  Either  a  spline  or 
+quasi-spline  routine  (5)  can  be  employed  for  this  analysis. 
+Depending  on  the  complexity  of  a  given  waveform,  one 
+interpolation  routine  may  yield  better  results  than  another. 
+Hence,  there  exists  the  availability  of  two  different  in- 
+terpolation routines.  The  example  given  uses  the  cubic 
+spline. 
+
+
+PLEASE  SELECT  ONE  OF  THE  FOLLOWING  OPERATIONS 
+
+
+TYPE:    1.0  (=  CUBIC  SPLINE) 
+
+2.0  (=  QUASI-HERMITE  SPLINE) 
+>1 
+
+
+24 
+
+
+A  cubic  spline  is  implemented  by  entering  a  value  of  1. 
+Regardless  of  the  user's  selection,  both  interpolation  rou- 
+tines result  in  returning  an  evenly  spaced  set  of  discrete 
+
+ERROR  MESSAGE  0 
+
+
+data  points.  Following  the  appropriate  selection,  BOMSPS 
+returns  a  table  of  information. 
+
+
+x(i)  y(i)  c(i,l)  c(i,2)      c(i,3) 
+
+
+1 
+
+0.0000 
+
+0.0000 
+
+-5756.7339 
+
+0.6920 
+
+0.0000 
+
+2 
+
+0.0010 
+
+0.0000 
+
+4303.3667 
+
+0.6930 
+
+0.0000 
+
+3 
+
+0.0020 
+
+5.7000 
+
+5643.2681 
+
+0.6940 
+
+0.0000 
+
+4 
+
+0.0030 
+
+9.5000 
+
+1623.5597 
+
+0.6950 
+
+0.0000 
+
+5 
+
+0.0040 
+
+9.1200 
+
+-1877.5096 
+
+0.6960 
+
+0.0000 
+
+6 
+
+0.0050 
+
+6.2300 
+
+-3923.5193 
+
+0.6970 
+
+0.0000 
+
+7 
+
+0.0060 
+
+1.5900 
+
+-5018.4102 
+
+0.6980 
+
+0.0000 
+
+8 
+
+0.0070 
+
+-3.2400 
+
+-4412.8354 
+
+0.6990 
+
+0.0000 
+
+9 
+
+0.0080 
+
+-6.8600 
+
+-2680.2505 
+
+0.7000 
+
+0.0000 
+
+10 
+
+0.0090 
+
+-8.4300 
+
+-436.1656 
+
+0.7010 
+
+0.0000 
+
+DO  YOU  WISH  TO  SEE  THE  REMAINING  DATA  PTS  ? 
+
+TYPE:    1.0  (=  YES) 
+2.0  (=  NO) 
+>2 
+
+
+The  first  line  denotes  an  error  message  number.  If  a 
+message  other  that  zero  appears,  there  is  some  problem  in 
+the  data  file.  A  value  of  129  denotes  that  the  row  dimen- 
+sion is  less  than  the  total  number  of  discrete  points.  If  the 
+number  130  appears,  then  the  number  of  elements  in  the 
+external  data  file  is  less  than  the  new  number.  An  error 
+message  of  131  indicates  that  input  abscissa  values  are  not 
+ordered  in  a  successive  manner.  Directly  below  the  error 
+message  are  written  six  columns  of  information.  The  first 
+column  (i)  depicts  the  relative  position  of  a  data  pair.  The 
+second  and  third  columns  are  the  time  x(i)  and  relative 
+amplitude  y(i),  respectively.  The  last  three  columns  (cl, 
+c2,  c3)  represent  matrix  coefficients  used  in  the  interpo- 
+lation polynomials.  The  first  10  lines  of  information  are 
+automatically  written  to  the  screen,  for  quality  control. 
+However,  the  user  may  opt  to  see  the  remaining  data  by 
+entering  a  1.  The  trailing  information  indicates  where  the 
+reevaluation  data  can  be  found.  This  data  file  is  formatted 
+such  that  it  can  be  read  directly  by  BOMSPS  when  the 
+following  file  name  is  typed  in: 
+
+>  INTERP1.DAT 
+
+Other  available  information  includes  the  total  time  dura- 
+tion of  the  signal,  the  original  number  of  discrete  data 
+pairs,  the  number  of  reevaluated  data  pairs,  and  the  num- 
+ber of  reevaluated  data  pairs  padded  to  the  next  power  of 
+2.  The  power-of-2  criterion  is  necessary  for  transforming 
+data.  A  more  complete  explanation  is  given  in  the  section 
+"Numerical  Considerations."  A  more  complete  explanation 
+
+
+of  these  interpolation  routines  can  be  found  in  the  doc- 
+umentation provided  by  International  Mathematics  and 
+Statistical  Library  (IMSL)  (5).  Since  both  of  these 
+interpolation  routines  are  called  from  the  IMSL,  the  user 
+must  have  this  available  for  the  operation  to  be  imple- 
+mented successfully.  If  the  IMSL  library  is  not  available, 
+the  call  line  at  which  BOMSPS  employs  INTERP  must  be 
+commented  out  and  recompiled. 
+
+Figure  15  represents  the  results  of  implementing  the 
+interpolation  operation  (INTERP  module,  option  10). 
+Figure  15A  presents  a  discrete  version  of  the  original  time 
+series  function,  composed  of  100  data  points  sampled  at 
+1-ms  intervals.  Despite  the  increased  sample  density,  the 
+signal  maintains  the  same  shape  in  figure  15B. 
+
+MUTE  MODULE 
+
+Another  commonly  utilized  operation  is  the  muting  of 
+a  waveform.  Selecting  the  MUTE  module  (option  11) 
+results  in  dispatching  the  following  message: 
+
+MUTE  MODULE 
+
+ENTER:    Beginning  time  for  mute  window  =  ? 
+>0 
+
+ENTER:   End  time  for  mute  window  =  ? 
+>  0.030 
+
+
+25 
+
+
+•9.4  9.4  -9.4  9.4     -1.0 
+
+
+Q 
+
+
+Cl 
+H 
+< 
+
+LU 
+> 
+
+< 
+
+_1 
+LU 
+
+
+□ 
+
+1                                  1                                   1 
+
+KEY                                    A 
+
+D 
+
+□a 
+
+a   Sample  point 
+
+.4 
+
+-  □ 
+
+a    a 
+
+.2 
+
+D 
+
+r\  *    - 
+
+i_     _u 
+
+Dg D°       D         3 
+
+-.2 
+
+°          c 
+□ 
+
+a 
+
+D        D 
+
+V 
+
+□ 
+
+□     ° 
+
+-.6 
+
+a 
+□ 
+
+D 
+
+erf 
+
+1.0 
+
+
+-2 
+
+
+1.0 
+
+
+1 
+
+1                        1 
+
+B 
+
+oB               A 
+
+a°          W* 
+
+*°          fl 
+
+- 
+
+D    D               R    H 
+
+n  D      n  Pi                — 
+
+a    a       5     «                # 
+
+a    a       B     1               / 
+
+«.             V% 
+
+n    S      S      1             f 
+
+a    a      a       fl             fl 
+
+3-  0 — fl  — Q    —  §—     —     — 
+
+s  ni  r 
+
+"^     ~ —  m  ~\     ^^^^^^^ 
+
+-  S  a    1    # 
+
+\    §             W 
+
+Ss         / 
+
+° B      I  / 
+
+^1      l/ 
+
+1                         I 
+
+0.02 
+
+
+0.04 
+
+
+0.06 
+
+
+0.08 
+
+
+0.1 
+
+
+TIME,  s 
+
+Figure  15.-lnterpolation  of  a  digital  time  sequence 
+(SINUSOID.DAT,  appendix  A).  A,  Original  signal,  100  discrete 
+data  points  sampled  at  1-ms  intervals;  B,  interpolated  signal, 
+1,000  discrete  data  points  sampled  at  100-ms  intervals. 
+
+
+The  user  is  required  to  enter  first  the  beginning  and 
+ending  time  points  of  the  mute  window  (seconds).  The 
+window  chosen  in  the  example  is  30  ms.  This  effectively 
+zeros  all  time  points  within  this  mute  window  (including 
+the  endpoints).  The  result  of  using  a  30-ms  mute  window 
+on  the  original  sinusoid  shown  in  figure  16A  is  illustrated 
+in  figure  16B.  This  operation  can  be  used  effectively  when 
+the  actual  analysis  might  involve  only  a  portion  of  a  com- 
+plete wave  train.  E.g.,  upon  collecting  a  complete  seismic 
+wave  train,  the  investigator  may  wish  to  analyze  only  the 
+surface  wave  (removing  the  compressional  and  shear 
+components). 
+
+
+.05 
+
+
+.05      - 
+
+
+.05      - 
+
+
+•9.4 
+
+
+9  4 
+
+
+1.0 
+
+
+AMPLITUDE,  V 
+
+
+Figure  16.-Some  time-domain  operations  as  applied  to  a  time 
+series  function  (SINUSOID.DAT,  appendix  A).  A,  Input  signal;  B, 
+mute  window:  from  0  to  30  ms;  C,  normalized;  D,  180°  phase 
+reversal;  E,  randomized;  F,  time  shift:  30  ms,  G,  five-point 
+smooth  applied  to  15E;  H,  cosine  window:   from  0  to  100  ms. 
+
+NORMALIZATION  MODULE 
+
+In  some  instances,  it  may  be  important  to  normalize 
+the  results.  This  is  easily  handled  by  invoking  the  nor- 
+malization operation  (NORM  module,  option  12).  The 
+NORM  module  menu  (below)  permits  the  user  to  normal- 
+ize any  or  all  of  the  functions  calculated  by  dividing  the 
+entire  array  of  values  by  the  maximum  amplitude. 
+
+****************** 
+
+NORM  MODULE 
+
+****************** 
+
+
+ENTER: 
+
+
+>2 
+
+
+1.0  (=  Normalize  all  functions) 
+2.0  (=  Normalize  some  functions) 
+3.0  (=  Return  to  menu) 
+
+
+26 
+
+
+All  functions  can  be  normalized  by  entering  a  value  of  1. 
+If  it  is  of  interest  to  normalize  more  than  one  function  but 
+less  than  the  total  number,  the  user  simply  selects  the 
+second  option.  This  action  results  in  a  scrolling  through  a 
+series  of  messages  inquiring  as  to  whether  the  function 
+should  be  normalized.  The  example  below  depicts  the 
+series  of  interactive  questions  pertaining  to  selective  nor- 
+malization of  the  functions.  A  normalized  version  of  the 
+time  series  transient  (SINUSOID.DAT,  appendix  A)  is 
+included  in  figure  16C. 
+
+NORMALIZE:   TRANSIENT  (REAL)  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (  =  NO) 
+>1 
+
+NORMALIZE:   INPUT  TRANSIENT  (IMAG.)  ? 
+>2 
+
+NORMALIZE:   CUMULATIVE  ENERGY  (TIME)  ? 
+
+>2 
+
+
+PLOT:   Every  Nth  data  point;  N  =  ? 
+>1 
+
+MINIMUM:   Y-axis  cutoff  point  =  ? 
+ENTER:   0  (=  NONE) 
+
+N  (=  ARBITRARY  POINT) 
+>0 
+
+MAXIMUM:   Y-axis  cutoff  point  -  ? 
+ENTER:   0  (=  NONE) 
+
+N  (=  ARBITRARY  POINT) 
+>500 
+
+INCREMENT:   Y-axis  time/freq=  ? 
+ENTER:   0  (=  NONE) 
+
+N  (=  ARBITRARY  POINT) 
+>100 
+
+GRID  LINES:    Y-axis  time/freq  =  ? 
+ENTER:   0  (=  NONE) 
+
+1  (=  YES) 
+>1 
+
+
+NORMALIZE:   ENVELOPE  (INST.  AMPLITUDE)  ? 
+>1 
+
+NORMALIZE:    QUADRATURE  ? 
+
+>2 
+
+NORMALIZE  INSTANTANEOUS  PHASE  ? 
+
+>2 
+
+NORMALIZE:   TRANSFORM  SPECTRUM  (REAL)  ? 
+>1 
+
+NORMALIZE:  TRANSFORM  SPECTRUM  (IMAG.)  ? 
+>1 
+
+NORMALIZE:   AMPLITUDE  SPECTRUM  ? 
+>1 
+
+NORMALIZE:   PHASE  SPECTRUM  ? 
+>1 
+
+PLOT  MODULE 
+
+The  prompts  dispatched  to  the  screen  are  depicted 
+below.  This  information  is  useful  for  establishing  the 
+minimum  or  maximum  display  coordinates  and  other  rel- 
+evant display  parameters. 
+
+>1 
+
+PLOT  MODULE: 
+
+NUMBER  OF  TRACES  TO  BE  PLOTTED  =  4 
+
+FOLDING  FREQUENCY  =  500.0 
+
+********************************************* 
+
+
+VARIABLE  AREA:   Shading  =  ? 
+ENTER:   0  (=  NONE) 
+
+1  (  =  YES) 
+>1 
+
+The  plotting  speed  is  governed  primarily  by  the  baud  rate, 
+the  bit  map  process  (as  opposed  to  a  raster  mapping  pro- 
+cess), and  the  relative  number  of  data  points  in  the  array 
+under  investigation.  For  these  reasons,  it  is  recommended 
+that  the  baud  rate  be  set  to  the  fastest  possible  (i.e.,  9,600 
+for  most  cases).  When  many  data  points  exist,  the  user 
+may  increase  the  relative  plotting  speed  by  choosing  to  plot 
+every  Nth  data  point.  In  the  example  given,  every  data 
+point  will  be  displayed  on  the  screen.  The  next  two  mes- 
+sages refer  to  setting  the  window  minimum  and  maximum 
+time  or  frequency  values.  Here  the  minimum  and  maxi- 
+mum frequency  values  correspond  to  0  and  500  Hz,  re- 
+spectively. The  upper  limit  (maximum  frequency)  is  es- 
+tablished by  the  folding  frequency  given  in  the  summary. 
+The  frequency  increment  in  this  case  is  set  equal  to 
+100  Hz.  To  further  enhance  the  plot,  grid  lines  (drawn  at 
+every  increment)  and/or  shading  may  be  implemented. 
+The  shading  (variable  area)  occurs  above  the  point  where 
+the  transient  quantity  crosses  the  zero  axis.  If  time  or 
+frequency  lines  are  not  chosen,  the  program  defaults  to 
+tick  marks  written  along  the  ordinate.  In  the  example, 
+both  the  time  or  frequency  lines  and  shading  are  chosen. 
+The  setup  of  display  parameters  permits  flexibility  in  an- 
+alyzing a  small  window,  if  need  be.  Figure  17  depicts  the 
+Fourier  attributes  characteristic  of  an  arbitrary  time  series 
+function  (SINUSOID.DAT,  appendix  A).  The  display 
+character  reflects  those  setup  parameters  chosen  above. 
+The  ordinate  values  are  frequencies  (from  0  to  500  Hz). 
+Each  corresponding  function  is  normalized,  with  the  pos- 
+itive values  shaded  in.  Each  spectrum  panel  is  labeled  and 
+displays  its  normalized  equivalent.   Detailed  information 
+
+
+27 
+
+
+Rea  I  ( transform)  I mag < transform  ) 
+
+
+Rmp I  i  tude 
+
+
+Phase 
+
+
+N 
+
+u 
+
+-Z- 
+LU 
+
+Z) 
+
+o 
+
+
+100 
+
+
+200  _. 
+
+
+300 
+
+
+400 
+
+
+500 
+
+
+-1 
+
+
+0 
+
+
+-1 
+1 
+
+
+-1 
+
+
+0 
+
+
+1 
+
+
+AMPLITUDE 
+
+Figure  17.-Screen  view  of  Fourier  attributes;  transformation  (real  and  imaginary),  amplitude,  and  phase  spectra. 
+
+
+relative  to  a  given  function  amplitude  can  be  ascertained 
+by  invoking  the  display  operation  (option  4  in  the  main 
+menu).  It  should  be  noted  that  data  can  also  be  written  to 
+scratch  files  in  ASCI  format  (option  22)  and  plotted  using 
+a  commercially  available  graphing  package. 
+
+POLARITY  MODULE 
+
+Invoking  the  POLARITY  module  (option  13)  results  in 
+the  following  menu: 
+
+POLARITY  MODULE 
+
+********************** 
+
+ENTER:  1.0  (=  180  degree  phase  modification) 
+2.0  (  =  90  degree  phase  modification) 
+3.0  (=  Return  to  menu ) 
+
+>1 
+
+In  this  case,  the  user  can  modify  the  signal's  phase  by 
+either  90°  or  180°.  Figure  16D  depicts  a  180°  phase  re- 
+versal of  a  signal  (SINUSOID.DAT,  appendix  A).     A 
+
+
+practical  use  of  this  option  is  in  determining  the  first  break 
+associated  with  the  shear  wave  arrival.  In  such  a  case,  two 
+shear  waves  are  superimposed  (one  normal  and  one  180° 
+out  of  phase).  From  such  an  analysis,  it  is  possible  to 
+more  accurately  assess  the  compressional  wave's  travel 
+time  and,  indirectly,  the  velocity.  In  the  interpretation  of 
+a  two-dimensional  seismogram,  reflection  continuity  can 
+sometimes  be  favorably  enhanced  upon  converting  the 
+polarity. 
+
+RANDOMIZATION  MODULE 
+
+For  the  sake  of  instructional  purposes,  BOMSPS  in- 
+corporates a  random  number  generator  (RANDOM  mod- 
+ule, option  14).  If  the  randomization  operation  is  utilized, 
+a  message  will  appear  on  the  screen  when  it  is  completed. 
+
+****************************** 
+RANDOM  MODULE:   finished 
+
+
+Typically,  the  random  number  generator  is  used  to  ex- 
+amine the    usefulness  of  various  band-pass  filters.   At  a 
+
+
+28 
+
+
+later  point  in  the  text,  the  randomized  signal  is  used  to 
+verify  the  usefulness  of  the  smoothing  operation.  Fig- 
+ure 16E  depicts  the  randomized  version  of  the  sinusoid. 
+
+SCALE  MODULE 
+
+The  SCALE  module  (option  16)  permits  an  investigator 
+to  interactively  choose  to  scale  either  the  abscissa  or 
+
+Hi***************** 
+SCALE  MODULE 
+
+
+ordinate  values  of  a  given  input  signal.  Scaling  occurs  by 
+either  adding  a  scalar  constant  to  each  amplitude  or  time 
+value,  or  multiplying  each  value  by  a  constant.  In  the 
+example  given  below,  the  amplitude  values  (Y-axis)  are 
+multiplied  by  a  factor  of  1.  Since  it  is  decided  not  to  scale 
+the  time  (X-axis)  values,  the  signal  processing  menu  ap- 
+pears on  the  screen. 
+
+
+DO  YOU  WISH  TO  SCALE  THE  AMPLITUDE  (Y)  VALUES 
+
+ENTER:   1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+ENTER:   Scaling  constant  =  ? 
+>1 
+
+ENTER:    1.0  (=  additive) 
+
+2.0  (=  multiplicative) 
+
+>2 
+
+DO  YOU  WISH  TO  SCALE  THE  TIME  (X)  VALUES  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+>2 
+
+
+SHIFT  MODULE 
+
+Shifting  (or  translation)  of  a  sampled  data  series  can  be 
+facilitated  by  utilizing  either  the  SHIFT  (or  TRANSLATE) 
+module  found  in  the  BOMSUBS  library  (option  17).  The 
+former  module  operates  in  the  frequency  domain,  by  mod- 
+ifying the  phase.  The  latter  module  operates  in  time, 
+perturbing  the  time  values  by  a  scalar  constant,  much  the 
+same  as  the  last  option.  In  the  main  program,  a  call  line 
+is  incorporated  for  each  of  these  subroutines.  Since  only 
+one  of  these  routines  can  be  used,  the  other  routine  is 
+commented  upon.  The  user  may  implement  the  alternate 
+module  by  swapping  comments  at  the  call  sequence  in  the 
+main  program.  The  program  must  then  be  recompiled. 
+Upon  selecting  the  SHIFT  operation  (option  17),  the  user 
+enters  the  amount  of  time  (in  seconds)  that  the  trace  is  to 
+be  translated.  In  the  example  given  below,  a  shift  of  20  ms 
+is  entered. 
+
+SHIFT  MODULE 
+
+
+ENTER: 
+
+
+>1 
+
+
+1.0  (=  TIME-SHIFT  TRANSIENT) 
+2.0  (=  RETURN  TO  MENU   .  .  .  ) 
+
+
+ENTER:   Time  shift  duration  (  +  /-  sec)  =  ? 
+>  0.020 
+
+The  effect  of  imposing  a  20-ms  (0.020-s)  time  shift  is 
+depicted  in  figure  16F. 
+
+In  either  time  b(t-to)  or  frequency  B(o>-wo),  a  shift 
+results  in  multiplying  the  inverse  Fourier  transform  of  the 
+unshifted  version  by  an  exponential  term.  The  time-shifted 
+Fourier  transform  pair  is  given  by 
+
+
+B(w)  =  exp  (jwt  +/-  wT  ). 
+
+
+(29) 
+
+
+Since  time  shifting  of  a  function  does  not  alter  the 
+magnitude  of  the  Fourier  transform,  it  immediately  follows 
+that  the  relative  amplitude  spectrum  would  also  remain 
+invariant  to  a  time  shift.  The  effect  of  time  shifting, 
+however,  does  modify  the  phase  spectrum  4>(u).  Hence, 
+the  transform  (or  amplitude)  spectrum  is  nonunique  and 
+is  not  sufficient  information  to  define  the  input  time 
+function.  In  other  words,  two  signals  differing  only  in 
+phase  (nonunique)  spectra  will  be  unrelated  in  time.  This 
+fact  is  true  despite  their  similarity  in  amplitude  spectra. 
+The  original  phase  wt  is  effectively  modified  by  adding  a 
+linear  ramp  wTo.  By  adding  a  linear  ramp  (function  of 
+frequency)  to  the  phase  spectrum  and  taking  the  inverse 
+Fourier  transform,  the  original  signal  will  be  translated 
+along  the  abscissa  (time  axis)  by  To. 
+
+
+29 
+
+
+Two  time  functions  that  have  the  same  phase  spectra, 
+but  whose  zero-frequency  terms  differ,  will  appear  only  to 
+be  shifted  (positive  or  negative)  along  the  ordinate.  As 
+translation  increases  along  the  ordinate  (parallel  to  the 
+abscissa),  the  time  function  becomes  physically  suppressed. 
+Eventually,  the  signal  approaches  that  of  a  boxcar  function. 
+This  phenomenon  is  known  as  the  time-domain  windowing 
+effect  and  must  be  considered  when  scaling  a  transient. 
+The  effect  is  to  suppress  the  higher  frequency  energy, 
+ultimately  approaching  a  Sine  function.  To  reduce  the 
+unwanted  suppression  of  the  original  transient,  the  time 
+series  should  be  padded  with  additional  data  points  (zeros) 
+as  illustrated  in  figure  18.  As  a  rule  of  thumb,  the  total 
+number  of  discrete  data  points  including  zeros  should 
+represent  twice  the  next  power  of  2.  Additionally,  one 
+may  wish  to  taper  the  signal,  in  order  to  promote  side  lobe 
+suppression.  Tapering  can  be  done  by  implementing  any 
+one  of  the  available  frequency-domain  filters  discussed 
+under  the  heading  "Filter  Module." 
+
+
+SMOOTH  MODULE 
+
+A  particularly  useful  operation  for  data  enhancement, 
+prior  to  display,  is  the  smoothing  operation  (option  19). 
+The  SMOOTH  module  provides  either  a  three-  or  a  five- 
+point  running  window,  over  which  values  are  averaged. 
+The  mathematical  expressions  used  for  these  operations 
+are- 
+Three-point  smooth: 
+
+
+i  +  2 
+
+
+s(t)i  +  1  =  Ss(t)/3i  =  l,2,...,(N-l). 
+j  =  l 
+
+
+(30) 
+
+
+Five-point  smooth: 
+
+
+s(t)i+2  =!^s(t)/5  i  =  l,2,...,(N-3). 
+
+
+(31) 
+
+
+1     ■ 
+
+
+Q_ 
+
+2 
+
+z: 
+
+< 
+
+1 
+
+LU 
+
+> 
+
+0 
+
+1— 
+
+< 
+
+_J 
+
+LU 
+
+3 
+
+QL 
+
+2 
+
+1 
+
+0 
+
+;,  aa 
+
+
+i  - 
+
+
+-WV^ 
+
+
+^W 
+
+
+TIME 
+
+
+Figure  18. -Time-domain  windowing  cause,  effect,  and  solution.  A,  Originally  sampled  time  sequence; 
+B,  translation  along  ordinate  (y-axis).  Note  original  shape  approaches  a  boxcar  function.  C,  Padding  the 
+signal  to  next  higher  power  of  2,  e.g.,  2s  to  2*  data  points,  reduced  the  amplitude  of  the  boxcar. 
+
+
+30 
+
+
+The  appropriate  smoothing  operation  can  be  initiated  by 
+entering  a  value  of  1  (three-point)  or  2  (five-point).  In 
+the  example  given,  a  three-point  smoothing  operation  is 
+initiated. 
+
+
+SMOOTH  MODULE 
+
+
+ENTER:    1.0  (=  3  point  smoothing) 
+
+2.0  ( =  5  point  smoothing) 
+
+3.0  (=  Return  to  menu.  .) 
+>1 
+
+The  result  of  applying  this  smoothing  operation  to  the 
+randomized  transient  (fig.  16E)  is  depicted  in  figure  16G. 
+
+STACK  MODULE 
+
+In  many  instances,  the  amplitude  of  an  individual  time 
+transient  may  be  readily  discernible  above  background 
+noise.  The  stacking  process  (STACK  module,  option  18) 
+results  in  adding  successive  time  functions  (multiple  rec- 
+ords). More  exactly,  a  time  point  of  the  original  signal  is 
+added  to  the  corresponding  time  point  of  the  successive 
+waveform.  This  process  improves  the  signal-to-noise  ra- 
+tio. The  investigator  should  be  aware,  however,  that  the 
+relative  frequency  content  will  decrease.  In  the  example 
+outlined  below,  two  signals,  DIRAC.DAT  and 
+BOXCAR.DAT,  are  added  to  the  original  transient. 
+
+****************** 
+
+STACK  MODULE 
+
+****************** 
+
+
+ENTER:   Number  of  additional  waveforms  to 
+be  stacked  with  the  original  =  ? 
+
+>2 
+
+ENTER:   External  filename  =  ? 
+
+>  dirac.dat 
+
+ENTER:   External  filename  =  ? 
+
+>  boxcar.dat 
+
+WINDOW  MODULE 
+
+********************* 
+
+
+WINDOW  MODULE 
+
+Windowing  (shaping)  of  a  given  waveform  is  used  con- 
+ventionally as  a  filter  scheme,  with  the  intention  of  sup- 
+pressing side  lobe  energy.  Windowing  of  the  time  function 
+may  be  conducted  in  BOMSPS  by  implementing  either  a 
+half-sine,  Hanning,  or  cosine  weighting  function.  These 
+weighting  functions  are  incorporated  into  the  WINDOW 
+module  and  can  be  invoked  by  selecting  option  20.  De- 
+pending on  which  window  is  chosen,  the  resulting  function 
+is  based  on  one  of  the  following  relationships: 
+
+
+The  half-sine  weighting  function  Whs(t)  is 
+
+Whs(t)  =  sin(t/T); 
+the  cosine  weighting  function  Wc(t)  is 
+
+
+Wc(t)  =  0.5 
+
+
+l-cos(2t/T) 
+
+
+(32) 
+
+
+(33) 
+
+
+the  Hanning  weighting  function  Wh(t)  is 
+
+
+Wh(t)  =  0.5 
+
+
+l  +  cos(t/T) 
+
+
+(34) 
+
+
+where        t    =  time 
+
+
+and 
+
+
+T    =  period  of  window. 
+
+
+The  half-sine,  cosine,  and  Hanning  window's  theoretical 
+rolloffs  are  12, 18,  and  24  dB  per  octave,  respectively.  This 
+is  a  useful  guide  in  determining  the  appropriate  window  to 
+use.  While  shaping  tends  to  increase  the  signal-to-noise 
+ratio,  it  does  so  at  the  expense  of  higher  relative  frequen- 
+cies. More  specifically,  shaping  tends  to  remove  relatively 
+high  frequency  energy. 
+
+When  the  WINDOW  module  is  invoked,  a  menu  ap- 
+pears listing  the  various  weighting  functions  available.  In 
+the  example  given  below,  a  100-ms  Hanning  window  is 
+used.  The  effect  of  utilizing  this  window  on  the  original 
+transient  is  depicted  in  figure  16H. 
+
+
+ENTER:    **********  WEIGHTING  FUNCTION  *********** 
+
+1.  Hanning  function    (18  dB/octave) 
+
+2.  Half-sine  function (24  dB/octave) 
+
+3.  Cosine  function (30  dB/octave) 
+
+4.  Return  to  menu    ) 
+
+>1 
+
+ENTER:   Beginning  time  point  (sec)  =  ? 
+>0 
+
+ENTER:   End  time  point  (sec)  =  ? 
+>0.10 
+
+
+WRITE  MODULE 
+
+It  is  often  of  interest  to  examine  individual  data  points 
+prior  (or  in  addition)  to  displaying  them  graphically.  Cal- 
+culated time-  and/or  frequency-domain  functions  can  be 
+
+
+31 
+
+
+displayed  on  the  screen  by  invoking  the  WRITE  operation 
+(option  21)  from  the  signal  processing  menu.  Below  is  the 
+first  of  two  questions,  prompting  the  user  as  to  whether  to 
+write  the  time-domain  data  to  the  screen. 
+
+
+WRITE  TIME-DOMAIN  DATA  TO  THE  SCREEN  ? 
+
+ENTER:    1.0  (=  YES) 
+2.0  (=  NO) 
+>1 
+
+
+An  affirmative  response  results  in  the  following  summary  table: 
+TIME  DOMAIN  ATTRIBUTES: 
+
+
+TIME 
+
+SIGNAL 
+
+CUM.ENERGY 
+
+QUADRATURE 
+
+ENVELOPE 
+
+INST.PHASE 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00100 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00200 
+
+0.05048 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00300 
+
+0.14923 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00400 
+
+0.22318 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00500 
+
+0.21875 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00600 
+
+0.07566 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00700 
+
+-0.20038 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00800 
+
+-0.53395 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00900 
+
+-0.80499 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+0.00000 
+
+Note  that  functions  to  the  right  of  the  signal  (cumulative  energy,  quadrature  function,  envelope,  and  instantaneous  phase) 
+are  assigned  values  of  zero.  This  will  occur  if  the  Hilbert  attribute  operation  was  not  previously  selected.  The  next 
+question  requires  the  user  to  determine  whether  the  frequency-domain  data  should  be  written  to  the  screen. 
+
+WRITE  FREQUENCY  DOMAIN  DATA  TO  SCREEN  ? 
+ENTER:   1.0  (  =  YES) 
+2.0  (-NO) 
+
+In  the  example,  the  first  of  10  frequency-domain  attributes  was  investigated.  The  table  of  these  Fourier  attributes  is 
+given  below. 
+
+FOURIER-DOMAIN  ATTRIBUTES: 
+
+FREQUENCY       TRANSFORM       AMPLITUDE       POWER       PHASE 
+
+
+0.00 
+
+61.32 
+
+61.32 
+
+3760.14 
+
+0.00 
+
+7.81 
+
+-19.69 
+
+47.55 
+
+2271.90 
+
+2.00 
+
+15.62 
+
+7.06 
+
+71.18 
+
+5066.84 
+
+-1.47 
+
+23.44 
+
+90.98 
+
+99.49 
+
+9899.19 
+
+0.42 
+
+31.25 
+
+-49.23 
+
+73.08 
+
+5340.83 
+
+2.31 
+
+39.06 
+
+-2.37 
+
+39.95 
+
+1596.16 
+
+-1.63 
+
+46.87 
+
+6.75 
+
+51.25 
+
+2627.33 
+
+-1.44 
+
+54.69 
+
+119.22 
+
+119.23 
+
+14215.78 
+
+-0.01 
+
+62.50 
+
+55.34 
+
+73.90 
+
+5461.31 
+
+0.72 
+
+70.31 
+
+34.86 
+
+112.03 
+
+12550.75 
+
+1.25 
+
+In  the  above  summary  table,  all  of  the  functions  listed  display  spectral  information.    If,  however,  the  Fourier  attribute 
+option  is  not  selected  prior  to  writing  this  information  to  the  screen,  all  values  would  be  zero. 
+
+
+32 
+
+
+Provided  that  the  data  are  satisfactory,  the  user  may 
+transfer  any  or  all  of  the  functions  calculated  to  external 
+fdes.  Prior  to  data  transfer  and  storage  to  external  files, 
+two  conditions  must  be  met.  First,  the  user  must  ensure 
+that  the  correct  operators  are  selected.  These  WRITE 
+operators  (1  =  write,  2  =  do  not  write)  are  entered  in  the 
+fde  WRT.IN,  which  in  turn  is  read  by  BOMSPS  (see  ap- 
+pendix A).  Proper  selection  of  WRITE  operators  permits 
+
+
+their  duplication  to  external  files,  only  if  the  second"  cri- 
+terion is  met.  To  initiate  data  transfer,  the  user  must 
+select  option  22  (WRITE).  The  resulting  menu  from  the 
+selection  of  option  22  permits  the  user  to  interactively 
+determine  the  total  number  of  data  pairs  to  be  written  to 
+the  scratch  files.  In  the  example  below,  the  total  number 
+of  discrete  points  is  written  to  each  external  data  fde. 
+
+
+HOW  MANY  PAIRS  OF  DISCRETE  DATA  POINTS  ARE  TO 
+BE  WRITTEN  TO  A  SCRATCH  FILE(S)    ? 
+
+ENTER:    1.0  (=  Arbitrary  number  of  data  points) 
+
+2.0  (=  Total  number  of  data  points  (NP2)) 
+>1 
+
+
+ENTER: 
+
+>128 
+
+
+Number  of  points  =  ? 
+
+
+Any  one  of  these  functions  can  be  graphically  displayed  on 
+the  screen  (prior  to  writing  out  data  to  a  fde)  by  invoking 
+the  DISPLAY  module  (option  4).  The  same  setup  menu, 
+employed  for  both  Fourier  and  Hilbert  attributes,  appears 
+on  the  screen.  The  primary  difference,  as  compared  with 
+the  former  displays  of  Fourier  and  Hilbert  attributes,  is 
+
+
+that  only  one  function  can  be  displayed.  However,  addi- 
+tional detad  is  included  with  respect  to  amplitude  values 
+(unnormalized)  along  the  abscissa.  In  the  former  displays, 
+the  amplitude  is  normalized  (unity).  For  this  reason,  the 
+amplitude  is  not  displayed  along  the  abscissa. 
+
+
+SUMMARY 
+
+
+The  Bureau  has  advanced  the  state-of-the-art  signal 
+processing  for  microcomputers  with  the  development  of 
+BOMSPS.  This  information  circular  detads  those  signal 
+processing  concepts  and  expressions  incorporated  into 
+the  BOMSPS  code  and  provides  a  user's  document  for  its 
+implementation.  The  Fourier  transformation  and  its 
+properties    are    reviewed    to    dlustrate    applicability   in 
+
+
+developing  those  mathematical  expressions  used  as  digital 
+operators.  The  advantages  and  limitations  of  basic  and 
+higher  order  time-  and  frequency-domain  operations  are 
+discussed.  The  examples  and  easy-to-follow  menus  out- 
+lined in  the  tutorial  facilitate  the  implementation  of 
+BOMSPS  on  a  routine  basis. 
+
+
+REFERENCES 
+
+
+1.  Brigham,  E.    The  Fast  Fourier  Transform.    Prentice-Hall,  1974, 
+248  pp. 
+
+2.  Bracewell,   R     The  Fourier  Transform  and  Its  Applications. 
+McGraw-Hill,  1965,  383  pp. 
+
+3.  Champeneny,    D.       Fourier    Transforms    and    Their    Physical 
+Applications.   Academic,  1973,  265  pp. 
+
+
+4.  Robinson,  E.  Statistical  Communication  and  Detection  With 
+Special  Reference  to  Digital  Data  Processing  of  Radar  and  Seismic 
+Signals.    Chades  Griffin  Co.,  London,  1967,  362  pp. 
+
+5.  International  Mathematics  and  Statistics  Library  (Houston,  TX). 
+Reference  Manual.    V.  3,  ch.  1,  1982. 
+
+
+33 
+
+APPENDIX  A.-SAMPLE  DATA  FILES 
+
+Sample  data  files  are  shown  for  the  following  functions:  and  relative  amplitude  values— is  indicated  for  the  first  data 
+
+boxcar  (BOXCAR.DAT),  Dirac  delta  (DIRAC.DAT),  and  file.     Also,  a  sample  data  file  for  the  write  operator 
+
+sinusoid  (SINUSOID.DAT).    The  format-including  the  (WRT.IN)  is  included, 
+total  number  of  discrete  data  pairs,  sample  interval,  time, 
+
+Filename:  BOXCAR.DAT 
+
+
+(DELT  =  sample 
+
+(NP1  =  total  number  of 
+
+interval) 
+
+discrete  data  pairs) 
+
+.001 
+
+86.00 
+
+(DLT(NPl)  = 
+
+(SI  (NP1)  =  relative 
+
+time  (seconds)) 
+
+amplitude) 
+
+.000 
+
+1.00 
+
+.001 
+
+1.00 
+
+.002 
+
+1.00 
+
+.003 
+
+1.00 
+
+.004 
+
+1.00 
+
+.005 
+
+1.00 
+
+.006 
+
+1.00 
+
+.007 
+
+1.00 
+
+.008 
+
+1.00 
+
+.009 
+
+1.00 
+
+.010 
+
+0.00 
+
+.011 
+
+0.00 
+
+.012 
+
+0.00 
+
+.013 
+
+0.00 
+
+.014 
+
+0.00 
+
+.015 
+
+0.00 
+
+.016 
+
+0.00 
+
+.017 
+
+0.00 
+
+.018 
+
+0.00 
+
+.019 
+
+0.00 
+
+.020 
+
+0.00 
+
+.021 
+
+0.00 
+
+.022 
+
+0.00 
+
+.023 
+
+0.00 
+
+.024 
+
+0.00 
+
+.025 
+
+0.00 
+
+.026 
+
+0.00 
+
+.027 
+
+0.00 
+
+.028 
+
+0.00 
+
+.029 
+
+0.00 
+
+.030 
+
+0.00 
+
+.031 
+
+0.00 
+
+.032 
+
+0.00 
+
+.033 
+
+0.00 
+
+.034 
+
+0.00 
+
+.035 
+
+0.00 
+
+.036 
+
+0.00 
+
+.037 
+
+0.00 
+
+.038 
+
+0.00 
+
+.039 
+
+0.00 
+
+.040 
+
+0.00 
+
+.041 
+
+0.00 
+
+.042 
+
+0.00 
+
+34 
+
+
+File  name:  BOXCAR.DAT~Continued 
+
+(DLT  (NP1)  =  (SI  (NP1)  =  relative 
+
+time  (seconds))  amplitude) 
+
+.043  0.00 
+
+.044  0.00 
+
+.045  0.00 
+
+.046  0.00 
+
+.047  0.00 
+
+.048  0.00 
+
+.049  0.00 
+
+.050  0.00 
+
+.051  0.00 
+
+.052  0.00 
+
+.053  0.00 
+
+.054  0.00 
+
+.055  0.00 
+
+.056  0.00 
+
+.057  0.00 
+
+.058  0.00 
+
+.059  0.00 
+
+.060  0.00 
+
+.061  0.00 
+
+.062  0.00 
+
+.063  0.00 
+
+.064  0.00 
+
+.065  0.00 
+
+.066  0.00 
+
+.067  0.00 
+
+.068  0.00 
+
+.069  0.00 
+
+.070  0.00 
+
+.071  0.00 
+
+.072  0.00 
+
+.073  0.00 
+
+.074  0.00 
+
+.075  0.00 
+
+.076  0.00 
+
+.077  0.00 
+
+.078  0.00 
+
+.079  0.00 
+
+.080  0.00 
+
+.081  0.00 
+
+.082  0.00 
+
+.083  0.00 
+
+.084  0.00 
+
+.085  0.00 
+
+
+35 
+
+
+Filename:  DIRAC.DAT 
+
+.001  86.00 
+
+.000  1.00 
+
+.001  0.00 
+
+.002  0.00 
+
+.003  0.00 
+
+.004  0.00 
+
+.005  0.00 
+
+.006  0.00 
+
+.007  0.00 
+
+.008  0.00 
+
+.009  0.00 
+
+.010  0.00 
+
+.011  0.00 
+
+.012  0.00 
+
+.013  0.00 
+
+.014  0.00 
+
+.015  0.00 
+
+.016  0.00 
+
+.017  0.00 
+
+.018  0.00 
+
+.019  0.00 
+
+.020  0.00 
+
+.021  0.00 
+
+.022  0.00 
+
+.023  0.00 
+
+.024  0.00 
+
+.025  0.00 
+
+.026  0.00 
+
+.027  0.00 
+
+.028  0.00 
+
+.029  0.00 
+
+.030  0.00 
+
+.031  0.00 
+
+.032  0.00 
+
+.033  0.00 
+
+.034  0.00 
+
+.035  0.00 
+
+.036  0.00 
+
+.037  0.00 
+
+.038  0.00 
+
+.039  0.00 
+
+.040  0.00 
+
+.041  0.00 
+
+.042  0.00 
+
+.043  0.00 
+
+.044  0.00 
+
+.045  0.00 
+
+.046  0.00 
+
+.047  0.00 
+
+.048  0.00 
+
+.049  0.00 
+
+.050  0.00 
+
+.051  0.00 
+
+.052  0.00 
+
+.053  0.00 
+
+.054  0.00 
+
+.055  0.00 
+
+
+36 
+
+
+Filename:  DIRAC.DAT— Continued 
+
+.056  0.00 
+
+.057  0.00 
+
+.058  0.00 
+
+.059  0.00 
+
+.060  0.00 
+
+.061  0.00 
+
+.062  0.00 
+
+.063  0.00 
+
+.064  0.00 
+
+.065  0.00 
+
+.066  0.00 
+
+.067  0.00 
+
+.068  0.00 
+
+.069  0.00 
+
+.070  0.00 
+
+.071  0.00 
+
+.072  0.00 
+
+.073  0.00 
+
+.074  0.00 
+
+.075  0.00 
+
+.076  0.00 
+
+.077  0.00 
+
+.078  0.00 
+
+.079  0.00 
+
+.080  0.00 
+
+.081  0.00 
+
+.082  0.00 
+
+.083  0.00 
+
+.084  0.00 
+
+.085  0.00 
+
+File  name:  SINUSOID.DAT 
+
+.001  86.00 
+
+.000  0.00 
+
+.001  0.00 
+
+.002  5.70 
+
+.003  9.50 
+
+.004  9.12 
+
+.005  6.23 
+
+.006  1.59 
+
+.007  -3.24 
+
+.008  -6.86 
+
+.009  -8.43 
+
+.010  -7.78 
+
+.011  -5.31 
+
+.012  -1.80 
+
+.013  1.86 
+
+.014  4.90 
+
+.015  6.82 
+
+.016  7.39 
+
+.017  6.70 
+
+.018  5.03 
+
+.019  2.74 
+
+.020  .26 
+
+.021  -2.07 
+
+
+37 
+
+
+File  name:  SINUS OID. DAT-Continued 
+
+•022  -3.98 
+
+.023  -5.32 
+
+.024  -6.04 
+
+.025  -6.17 
+
+.026  -5.79 
+
+.027  -5.01 
+
+.028  -3.98 
+
+.029  -2.81 
+
+.030  -1.59 
+
+.031  -.43 
+
+.032  .63 
+
+.033  1.56 
+
+.034  2.33 
+
+.035  2.95 
+
+.036  3.43 
+
+.037  3.77 
+
+.038  4.01 
+
+.039  4.15 
+
+.040  4.23 
+
+.041  4.25 
+
+.042  4.24 
+
+.043  4.19 
+
+.044  4.13 
+
+.045  4.06 
+
+.046  3.98 
+
+•047  3.89 
+
+•048  3.79 
+
+•049  3.68 
+
+-050  3.54 
+
+•051  3.38 
+
+.052  3.18 
+
+.053  2.94 
+
+.054  2.65 
+
+.055  2.30 
+
+.056  1.89 
+
+.057  1.42 
+
+.058  .88 
+
+•059  .30 
+
+.060  -.31 
+
+•061  -.92 
+
+.062  -1.51 
+
+•063  -2.02 
+
+.064  -2.42 
+
+.065  -2.42 
+
+•066  -2.70 
+
+.067  -2.52 
+
+.068  -2.10 
+
+•069  -1.47 
+
+.070  -.68 
+
+•071  .19 
+
+•072  1.04 
+
+•073  1.73 
+
+•074  2.17 
+
+•075  2.25 
+
+•076  1.95 
+
+•077  1.30 
+
+.078  .40 
+
+
+38 
+
+
+File  name:  SINUSOID. DAT-Continued 
+
+.079  -.57 
+
+.080  -1.41 
+
+.081  -1.90 
+
+.082  -1.92 
+
+.083  -1.44 
+
+.084  -.58 
+
+.085  .44 
+
+Filename:   WRT.IN 
+
+2.0002.0002.0002.0001.0002.0002.0002.000 
+2.0002.0001.0002.0002.0002.0002.0002.000 
+
+
+39 
+
+APPENDIX  B.-MATHEMATICAL  RELATIONSHIP  OF  FOURIER 
+TRANSFORMATION  TO  HILBERT  TRANSFORMATION 
+
+This  relationship  is  used  to  develop  the  Hilbert  attributes  (i.e.,  quadrature,  instantaneous  amplitude,  and  instantaneous 
+phase  functions). 
+
+
+By  definition, 
+
+
+A  A 
+
+s(t)  +♦  -j  Sgn(w)  S(u>)  =  S(w), 
+
+
+A 
+
+where  s(t)  =  Hilbert  transform  of  a  time  series  function  s(t)  (quadrature  function), 
+
+t  =  time, 
+
+**  =  Fourier  transform  pair, 
+
+j  =  (-1)*, 
+
+Sgn(w)  =  Signum  function, 
+
+w  =  angular  frequency, 
+
+S(w)  =  Fourier  transform  of  s(t), 
+
+A  A 
+
+S(w)  =  Fourier  transform  of  the  quadrature  function  S(t), 
+
+fjs(W)  ]      r » =  o 
+
+and  S(w)  =    JO         >>   if   -j  w  =  0 
+
+[-jS(«)J         U>o 
+
+A 
+
+Let  s(t)  =    s(t)  +  j  s(t); 
+
+A  A 
+
+then  s(t)  **   S(w)  +  j  S(w)  =  S(w), 
+
+
+A  fS(w)  +  j  S(w)  ]  f  w  < 
+
+S(w)     -    ^  S(w)  ^  if    J  w  = 
+
+I  "JS(w)J  U> 
+
+1S(w)     [ 
+US(»)J 
+
+
+A  [0  f  u  <  0 
+
+S(w)  -JS(w)     [•  if    -j  w  =  0 
+
+u>  >  0 
+
+
+40 
+
+
+APPENDIX  C.-SYMBOLS 
+
+b(t)  time-domain  equivalent  for  boxcar  function 
+
+B(a>)  frequency-domain  equivalent  for  boxcar  function 
+
+e(t)  envelope  (instantaneous  amplitude) 
+
+f  frequency 
+
+f0  maximum  frequency  within  wave  train 
+
+f,(t)  instantaneous  frequency 
+
+fnq  Nyquist  frequency  (folding  or  aliasing  frequency) 
+
+f(t)  forcing  function  (signal) 
+
+F(w)  transform  equivalent  of  forcing  function 
+
+F*(w)  conjugate  transformation  of  forcing  function 
+
+i(t)  impulse  response  function  (operator,  filter) 
+
+I(w)         transform  equivalent  of  impulse  response  function 
+(transfer  function) 
+
+Im(c<;)       imaginary  part  of  Fourier  spectrum 
+
+\u>\j)  cross-phase  spectrum 
+
+N  number 
+
+NP2         number  of  discrete  points  associated  with  time 
+sequence 
+
+o(t)  transient  response  function 
+
+O(w)        transform     equivalent    of    transient     response 
+function 
+
+R(u>)        real  part  of  Fourier  spectrum 
+
+S(f)  frequency-domain  representation  of  analog  signal 
+
+
+USED 
+
+Sgn(w) 
+
+s(t) 
+
+A 
+s(t) 
+
+S(«) 
+
+
+IN  THIS  REPORT 
+
+Signum  function 
+
+time  series  function  (signal) 
+
+Hilbert  transform  of  s(t) 
+
+frequency-domain   equivalent   of   s(t),    Fourier 
+transform  of  s(t) 
+
+
+A 
+S(«) 
+
+Fourier  transform  of  s(t) 
+
+|S(«)| 
+
+amplitude  spectrum  of  signal  s(t) 
+
+t 
+
+time 
+
+T 
+
+period  of  window 
+
+Wc(t) 
+
+cosine  weighting  function 
+
+wh(t) 
+
+Hanning  weighting  function 
+
+WJt) 
+
+half-sine  weighting  function 
+
+t 
+
+phase 
+
+M) 
+
+autocorrelation  function 
+
+*«(») 
+
+frequency-domain  representation  of  <^ff(t) 
+
+h(i) 
+
+correlation  function 
+
+*■(») 
+
+cross-power  spectrum 
+
+*i(0 
+
+instantaneous  phase 
+
+4>u> 
+
+phase  spectrum  (or  angle) 
+
+w 
+
+angular  frequency 
+
+INT.BU.OF  MINES,PGH.,PA  29088 
+
+
+"0 
+
+m 
+
+z 
+
+£  Q 
+
+
+3 
+
+0) 
+
+
+ro 
+
+2.2 
+
+m 
+
+
+03  cz 
+Sco 
+
+
+T1 
+
+o 
+
+> 
+
+■o 
+
+I- 
+
+3 
+
+00 
+
+1 
+
+c 
+
+H 
+
+CO 
+
+m 
+
+c 
+
+z 
+m 
+
+m 
+
+co 
+
+I 
+
+CO 
+
+3 
+
+<£  co 
+°  3 
+
+bz 
+■c*  co 
+
+00 
+
+o 
+o 
+
+
+ii  a) 
+
+It 
+
+
+3 
+
+
+3 
+
+
+> 
+
+z 
+
+m 
+D 
+
+c 
+> 
+
+o 
+
+"0 
+
+o 
+
+3J 
+
+
+3 
+
+m 
+
+
+O 
+
+-< 
+m 
+
+3J 
+
+
+271    ^0 
+
+
+^ 
+
+
+o  V 
+
+
+.^Va\  ^  ^  .vote*.  *x 
+
+
+w 
+**** 
+
+
+Ik.X.    <?.<$&>»    .^.-'J^i'S.     #+s2&.%     >>..j&>X     to**i-.. 
+
+
+.**  /jgfe\  v>*  .^va\  ^  .**  /^fei#.  %>  J  /aVa\  ^  ^  y^K*.  ^.  **  /; 
+
+
+A 
+
+
+A-       •  "« 
+
+
+£  °*     /^4r*\     c0*.!^fc.%     /^i^ 
+
+
+^o1 
+
+
+V  **TTV 
+
+
+S5  ^ 
+
+
+%\    ^ im>y*    ^s-^Sr    <r time's  V  /^s%"  c°*V^X 
+
+^..Z  0"-o;-^S\o^ '°  X**?P\/  °v^R%'.^  '°^v^?;./  ^o/^S'^o 
+
+
+Av       .HI.      "*i 
+
+
+^  ^  -.'« 
+
+
+»        "7 
+
+
+->' 
+
+
+v5      ^ 
+
+
+^*      -Nv 
+
+
+% 
+
+
+•->•>*-■ 
+
+
+V  s^A>*  ^ 
+
+
++**. 
+■<?, 
+
+
+**<? 
+
+
+«V     *  •  .  o       A0 
+
+

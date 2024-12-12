@@ -1,0 +1,3075 @@
+-s^-\.*^ 
+
+
+•^         ^^  J.     - 
+
+
+.-N"^ 
+
+
+■>>        • 
+
+
+1     ^  M'  *5 
+
+
+'0^  _ 
+
+
+.^' 
+
+
+\^^^ 
+
+
+f~- 
+
+
+"<v'^^-/     \-^-'\^^'    \<^'-jP     \-W'- 
+
+I'-:  \/  -'A.  %.**   .»  \/   -IM-   %.** 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+1^3 
+
+
+Fuel  Additive  and  Engine  Operation 
+Effects  on  Diesel  Soot  Emissions 
+
+
+By  H.  William  Zeller 
+
+
+BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  Asthe  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9238 
+
+
+Fuel  Additive  and  Engine  Operation 
+Effects  on  Diesel  Soot  Emissions 
+
+
+By  H.  William  Zeller 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+c\$ 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Zeller,  H.  William. 
+
+Fuel  additive  and  engine  operation  effects  on  diesel  soot  emissions  /  by  H. 
+William  Zeller. 
+
+p.   cm.  -  (Information  circular  /  Bureau  of  Mines;  9238) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28.27:9238. 
+
+1.  Mining  machinery-Motors  (Diesel)-Safety  measures.  2.  Diesel  motor  exhaust 
+gas-Purification.  3.  Diesel  fuels-Additives.  4.  Barium.  I.  Title.  II.  Series: 
+Information  circular  (United  States.  Bureau  of  Mines);  9238. 
+
+TN295.U4  [TN345]  622  s-dc20  [622'.6]  89-600302 
+
+CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Acknowledgments 2 
+
+Apparatus  and  procedures    2 
+
+Engine  test  conditions    3 
+
+Fuel,  oil,  and  additive  mixing    4 
+
+Emissions  measurement 4 
+
+Results  and  analysis   4 
+
+Particulate  emissions    4 
+
+Diesel  particulate  matter    4 
+
+Untreated  fuel 4 
+
+Beu"ium-treated  fuel   6 
+
+Solid  particulate  fraction 6 
+
+Volatile  particulate  fraction    6 
+
+Comparison  of  solid  and  volatile  fractions 10 
+
+Hydrocarbon  emissions 11 
+
+Gaseous  hydrocarbons   11 
+
+Total  exhaust  hydrocarbons    12 
+
+Toxic  gaseous  emissions 12 
+
+Nitrogen  oxides   12 
+
+Carbon  monoxide ,  .  14 
+
+Engine  comparison 14 
+
+Conclusions  and  recommendations    16 
+
+References 16 
+
+Appendix-Additive  specifications 17 
+
+ILLUSTRATIONS 
+
+1.  Diesel  engine  emissions  research  laboratory 3 
+
+2.  DPM  emissions  from  Deutz  engine  for  untreated  fuel,  2,300  r/min,  and  medium  intake  restriction 4 
+
+3.  DPM  emissions  from  Deutz  engine  for  untreated  fuel,  full  load,  four  speeds,  and  three  intake 
+
+restrictions    5 
+
+4.  DPM  emissions  from  Deutz  engine  as  function  of  fuel-air  ratio  for  untreated  fuel   5 
+
+5.  Effect  of  barium  fuel  additive  on  DPM  constituents  from  Caterpillar  engine  at  1,200  r/min 7 
+
+6.  Effect  of  additive  concentration  on  DPM  emissions  from  Deutz  engine  at  two  speeds  and  25,  90,  and 
+
+100  pet  of  full  load    7 
+
+7.  Additive  effect  on  DPM  emissions  from  Deutz  engine  at  different  fuel-air  ratios   8 
+
+8.  SDPM  emissions  from  Deutz  engine  for  untreated  fuel 8 
+
+9.  Additive  effect  on  SDPM  emissions  from  Deutz  engine  at  80  pet  of  rated  speed    9 
+
+10.  VDPM  emissions  from  Deutz  engine  for  untreated  fuel    9 
+
+11.  Additive  effect  on  VDPM  from  Deutz  engine  at  full  speed   10 
+
+12.  Comparison  of  soHd  and  volatile  particulates  from  Deutz  engine  at  full  speed  for  small  intake 
+
+restriction , 10 
+
+13.  GPHC  concentrations  from  Deutz  engine  for  untreated  fuel 11 
+
+14.  GPHC  concentrations  for  different  additive  concentrations  and  for  all  Deutz  engine  conditions    12 
+
+15.  TEHC  concentrations  for  untreated  fuel  and  all  Deutz  engine  conditions 13 
+
+16.  TEHC  concentrations  from  Deutz  engine  for  treated  fuel  at  full  speed    13 
+
+17.  Comparison  of  nitrogen  oxide  concentrations  from  Deutz  engine  for  treated  and  untreated  fuels    14 
+
+18.  Comparison  of  carbon  monoxide  concentrations  from  Deutz  engine  for  treated  and  untreated  fuels   ....  15 
+
+19.  Comparison  of  DPM  from  Deutz  and  Caterpillar  engines  for  untreated  fuel    15 
+
+20.  Comparison  of  DPM  from  Deutz  and  Caterpillar  engines  for  treated  fuel   15 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+atm 
+
+atmosphere,  standard 
+
+L 
+
+liter 
+
+"C 
+
+degree  Celsius 
+
+lb 
+
+pound 
+
+cfm/hp 
+
+cubic  foot  per  minute 
+per  horsepower 
+
+mg/hp-min 
+
+milligram  per  horsepower-minute 
+
+cSt 
+
+centistokes 
+
+mg/m' 
+
+milligram  per  cubic  meter 
+
+op 
+
+degree  Fahrenheit 
+
+mg/min 
+
+milligram  per  minute 
+
+gal 
+
+gallon 
+
+pet 
+
+percent 
+
+h 
+
+hour 
+
+r/mrn 
+
+revolution  per  minute 
+
+hp 
+
+horsepower 
+
+vol  pet 
+
+volume  percent 
+
+in  HP 
+
+inch  of  water 
+
+wt  pet 
+
+weight  percent 
+
+FUEL  ADDITIVE  AND  ENGINE  OPERATION  EFFECTS 
+ON  DIESEL  SOOT  EMISSIONS 
+
+
+By  H.  William  Zeller^ 
+
+
+ABSTRACT 
+
+The  Bureau  of  Mines  performed  laboratory  research  into  the  effects  of  a  barium-based  fuel  additive 
+(the  "postflame"  type)  on  diesel  particulate  matter  (DPM)  emissions.  The  5.6-L,  six-cyUnder  test  engine 
+is  typical  of  types  certifiable  for  use  in  underground  mines.  Test  pcU"£imeters  consisted  of  additive 
+concentration  and  engine  loads,  speed,  and  air  intake  restriction.  DPM  emissions,  including  condensed 
+volatiles,  were  measured  gravimetrically.  Also  measured  were  gaseous  emissions  including  carbon 
+monoxide,  nitrogen  oxides,  and  hydrocarbons. 
+
+The  fuel  additive  was  effective,  reducing  DPM  up  to  75  pet,  when  used  at  a  concentration  of  0.09  wt 
+pet  (one-fourth  of  the  concentration  recommended  by  the  msmufacturer).  The  additive  was  most 
+effective  at  the  highest  fuel-air  ratios,  reducing  DPM  from  400  mg/m'  for  untreated  fuel  to  120  mg/m^. 
+At  Ught  loads,  25  pet  of  full  rated,  no  DPM  reductions  were  measured.  Based  on  these  results,  the 
+additive  is  recommended  for  use  in  diesel  fuel,  at  a  concentration  of  0.09  wt  pet,  to  power  underground 
+mining  equipment  as  long  as  certain  conditions  are  met:  that  a  beneficial  DPM  reduction  is  verified, 
+that  the  minimimi  required  quantity  of  additive  is  used,  and  that  potential  adverse  effects  such  as 
+increased  nitrogen  oxides  are  checked. 
+
+
+^Physical  scientist,  Twin  Cities  Research  Center,  Bureau  of  Mines,  Minneapolis,  MN. 
+
+
+INTRODUCTION 
+
+
+Diesel-powered  equipment  is  widely  used  in  under- 
+ground mining  because  of  its  high  productivity  potential 
+and  flexibility  compared  with  electric-powered  equipment. 
+Unfortunately,  diesel  engines  emit  particulates  consisting 
+of  insoluble  carbonaceous  agglomerates,  adsorbed  soluble 
+organic  compounds,  and  traces  of  other  substances  such  as 
+sulfates  and  metals.  Although  diesel  particulate  matter 
+(DPM)  levels  are  not  specifically  regulated  in  underground 
+mines,  DPM  adds  to  the  general  dust  level  amd  aggravates 
+efforts  to  comply  with  respirable  dust  standards. 
+
+To  help  mine  operators  comply  with  dust  standards  and 
+to  reduce  potential  occupational  hezdth  problems  (1)^ 
+arising  from  exposure  to  DPM  emissions,  the  Bureau  of 
+Mines  is  conducting  research  on  improved  DPM  control 
+methods  to  supplement  current  controls  such  as  ventila- 
+tion, engine  maintenance,  and  operator  work  practices. 
+The  emphasis,  to  date,  has  been  on  the  evaluation  of  the 
+diesel  particulate  filter  (DPF)  for  coal  and  noncoal  mines 
+(2-3).  However,  even  if  successful,  the  DPF  can  be  used 
+on  inby  equipment  in  coal  mines  only  as  part  of  an  inte- 
+grated exhaust  cooUng  and  filtering  system,  which  is  cur- 
+rently still  under  development  (3). 
+
+To  provide  the  mining  industry  with  alternatives  to  the 
+DPF,  other  DPM  controls,  such  as  fuel  additives,  are 
+being  evaluated  by  the  Bureau.  Additives  can  be  classified 
+according  to  the  problems  they  are  designed  to  correct. 
+"Preflame"  additives  are  designed  to  correct  problems  that 
+occur  prior  to  burning  (that  is,  storage  stability,  flow  in 
+cold  weather,  water  contamination)  and  include  disper- 
+sants,  pour-point  depressants,  and  emulsifiers.  "Flame" 
+additives  promote  complete  burning  of  fuel  in  the  com- 
+bustion chamber  and  include  atomizers  and  combustion 
+catalysts.  "Postflame"  additives  are  designed  to  reduce 
+engine  deposits,  smoke,  and  emissions. 
+
+
+The  Bureau  selected  a  bcu^ium-based,  postflame  product 
+because  earUer  research  by  others  (4-6)  generally  con- 
+cluded that  barium  was  more  effective  for  reducing  diesel 
+soot  than  fuel  additives  such  as  iron  or  calcium  com- 
+pounds. The  additive  tested  is  a  commercial  product, 
+Lubrizol  565  (see  appendix).  Prior  research  on  postflame 
+fuel  additives  by  the  Bureau  amd  others  was  reviewed  by 
+ZeUer  (7-8). 
+
+The  general  objective  of  this  work  was  to  determine  the 
+effectiveness  of  a  barium-based  fuel  additive  for  reducing 
+DPM  emissions.  Specific  objectives  were  as  follows:  (1) 
+Determine  the  optimum  additive  concentration  for  mini- 
+mum DPM  emissions,  (2)  evaluate  the  effect  of  the  addi- 
+tive on  individual  components  of  engine  exhaust,  (3)  de- 
+termine the  extent  of  amy  adverse  effects  of  the  additive, 
+and  (4)  compare  the  results  with  those  from  earlier  tests 
+on  a  different  engine  (7-8). 
+
+In  this  report,  the  effects  of  the  additive  on  DPM  emis- 
+sions are  examined  first.  Then,  effects  on  the  following 
+specific  exhaust  components  are  examined:  (1)  solid  diesel 
+particulate  matter  (SDPM),  (2)  volatile  diesel  particulate 
+matter  (VDPM),  (3)  gas-phase  hydrocarbons  (GPHC),  and 
+(4)  total  exhaust  hydrocarbons  (TEHC),  which  are  defined 
+as  the  sum  of  the  VDPM  and  the  GPHC  in  the  exhaust. 
+Both  the  volatile  and  gas-phase  hydrocarbons  are  consid- 
+ered because  they  contain  the  carcinogenic  and  mutagenic 
+compounds  that  may  have  adverse  health  effects  on  work- 
+ers exposed  to  diesel  exhaust  (1).  The  effects  of  the  addi- 
+tive on  both  carbon  monoxide  (CO)  and  nitrogen  oxides 
+(NOJ  are  zilso  reported.  Finally,  the  results  for  DPM 
+emissions  are  compared  with  those  from  a  different  engine 
+tested  with  the  same  additive. 
+
+
+ACKNOWLEDGMENTS 
+
+
+The  author  gratefully  acknowledges  the  contributions 
+of  CcU"l  Anderson,  physical  scientist,  Twin  Cities  Research 
+Center,  who  did  the  special  programming  required  for 
+the  engine  control  system,  and  Robert  G.  Vandenbos, 
+
+
+electronics  technician.  Twin  Cities  Research  Center,  who 
+ensured  the  proper  operation  and  calibration  of  the  ex- 
+haust emissions  measuring  instruments  and  associated  data 
+acquisition  systems. 
+
+
+APPARATUS  AND  PROCEDURES 
+
+
+The  Bureau's  Diesel  Emissions  Research  Laboratory 
+consists  of  three  adjoining  rooms:    the  control  room,  the 
+
+Ttalic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+preceding  the  appendix  at  the  end  of  this  report. 
+
+
+engine  test  cell,  and  the  emissions  room.  Figure  1  shows 
+the  generzil  layout  of  the  laboratory  and  identifies  the 
+major  hardware  used  or  available  for  this  study.  Details  of 
+this  facility  have  been  published  (7). 
+
+
+KEY 
+
+oooooooooo  Diluted  exhaust 
+
+Dilution  air 
+
+************  Exhaust  sample  orifice 
+
+Gas  emissions  sample 
+
+Raw  exhaust 
+
+
+yw 
+
+
+Signal 
+condition 
+
+
+^\ 
+
+
+Controller 
+
+
+Data 
+logger 
+
+
+Computer 
+
+
+yw 
+
+
+Fuel  meter 
+
+
+Engine 
+
+
+;7 
+
+
+Dynamometer 
+
+
+Fuel 
+tank 
+
+
+— |— *—  Opacity 
+
+
+S 
+
+
+Particulate 
+filter 
+
+A 
+
+
+Pump 
+Outside 
+
+
+z 
+
+
+._.fJLter__. 
+Charcoal 
+
+
+Dilution  air 
+
+
+CO 
+HC 
+NOx 
+
+
+Control  room 
+
+
+Test  cell 
+
+
+Emissions  room 
+
+
+Figure  1. -Diesel  engine  emissions  research  laboratory. 
+
+
+ENGINE  TEST  CONDITIONS 
+
+Most  of  the  results  presented  in  this  report  were  ob- 
+tained from  tests  conducted  on  a  Deutz^  F6L  912W  six- 
+cyhnder,  four-cycle,  diesel  engine.  Versions  of  this 
+indirect-injected,  naturally  aspirated,  air-cooled,  5.6-L 
+engine  are  certified  for  underground  coal  mine  use  by  the 
+U.S.  Mine  Safety  and  Health  Administration  (MSPIA) 
+and  are  rated  for  82  hp  at  2,300  r/min.  The  engine  com- 
+plied with  factory  specifications  for  power,  fuel  consump- 
+tion, and  gaseous  emissions.  For  the  purpose  of  compar- 
+ing different  engines,  selected  results  from  previous  tests 
+(7-8)  on  a  Caterpillar  3304  engine  are  also  presented.  The 
+Caterpillar  engine  is  generally  similar  to  the  Deutz  engine 
+except  that  it  is  water  cooled  and  has  four  cylinders  instead 
+of  six. 
+
+
+Reference  to  specific  products  does  not  imply  endorsement  by  the 
+U.S.  Bureau  of  Mines. 
+
+
+Engine  loads  were  applied  by  an  eddy-current  universal 
+dynamometer  and  were  controlled  by  a  microprocessor 
+system  that  maintains  precise  speed  (±1  r/min)  and  load 
+(±0.1  pet).  A  data  acquisition  system  recorded  up  to 
+48  analog  inputs  from  various  transducers  such  as  ther- 
+mocouples and  pressure  transducers. 
+
+All  the  tests  were  conducted  at  steady-state  conditions. 
+The  engine  was  started  and  brought  to  normal  operating 
+temperature  before  any  test  sequence  was  begun.  Changes 
+in  intake  air  density  affect  the  fuel-air  ratio  to  the  extent 
+that  DPM  emissions  from  some  engines,  operated  at  or 
+near  peak  torque  loads,  can  increase  about  10  pet  for  each 
+1  pet  decrease  in  the  air  intake  density  (7).  For  this  rea- 
+son, controls  on  the  engine  intake  system  are  used  for 
+maintaining  air  intake  conditions.  The  manual  temper- 
+ature and  automatic  pressure  controls  can  maintain  engine 
+air  intake  density  to  within  ±0.5  pet  of  set  values. 
+
+Three  air  intake  conditions  or  restrictions  were  adopted. 
+At  an  air  temperature  of  77°  F  (25°  C),  the  small,  medium, 
+and  large  intake  restrictions  are  respectively  equivalent  to 
+
+
+pressure  drops  into  the  engine  of  8,  28,  and  53  in  HjO 
+from  1  atm.  In  practice,  both  the  temperature  and  pres- 
+sure of  the  engine  intake  air  were  controlled  to  maintain 
+air  densities  equivalent  to  the  temperature-pressure  com- 
+binations Usted.  Note  that  the  small-restriction  condition 
+is  equivalent  to  the  Society  of  Automotive  Engineers 
+(SAE)  (9)  recommended  power  test  conditions  for  dry  air. 
+All  emissions  data  reported  here  are  adjusted  to  SAE 
+conditions  of  temperature  and  pressure. 
+
+Engine  exhaust  back  pressures  are  controlled  by  a  com- 
+bination of  a  butterfly  valve  and  an  exhaust  fan.  Most 
+engine  tests  were  conducted  with  only  a  few  inches  of 
+water  back  pressure.  A  few  tests  were  conducted  at  back 
+pressures  up  to  40  in  HjO,  the  engine  manufacturer's  rated 
+maximxmi  (10-11). 
+
+FUEL,  OIL,  AND  ADDITIVE  MIXING 
+
+All  the  tests  were  conducted  with  the  same  batch  of 
+No.  2-D  fuel.  No  chemical  analysis  for  this  fuel  is  avail- 
+able. The  crankcase  oil  was  SAE  30  weight  and  was 
+changed  at  100-h  intervals. 
+
+
+The  additive  was  premixed,  by  weight,  with  the  fuel  in 
+55-gal  drums  prior  to  testing.  Between  runs  involving 
+different  fuel  mixtures,  the  engine  fueling  system  was 
+drained  to  prevent  fuel  used  in  prior  tests  from  influencing 
+the  results  of  subsequent  tests.  Any  residual  old  fuel  re- 
+maining  in  the  system  after  draining  was  purged  by  oper- 
+ating the  engine  for  at  least  1  h  using  the  new  fuel  mixture. 
+
+EMISSIONS  MEASUREMENT 
+
+Approximately  3  pet  of  the  raw  exhaust  was  diluted  and 
+transported  to  the  sampling  section  (fig.  1)  where  the 
+DPM  was  collected  on  fluorocarbon-coated,  glass-fiber 
+filters.  Dilution  was  always  sufficient  to  maintain  filter 
+temperatures  below  125°  F.  The  volatile  pzirticulate  on  the 
+filters  was  determined  gravimetrically  jifter  treatment  in  a 
+vacuimi  oven  at  a  temperature  of  392°  F.  Measurements 
+of  nitrogen  oxides,  carbon  monoxide,  and  gas-phase  hy- 
+drocarbons were  made  on  undiluted  exhaust  transported 
+through  a  heated  (350°  F)  Une  (fig.  1). 
+
+
+RESULTS  AND  ANALYSIS 
+
+
+PARTICULATE  EMISSIONS 
+
+The  two  largest  components  of  DPM  are  the  soUd 
+fraction,  composed  mainly  of  carbon  and  sulfate  for  un- 
+treated fuels,  and  the  volatile  fraction,  which  is  derived 
+from  fuel  and  engine  lubricant.  For  barium-treated  fuel, 
+the  solid  DPM  also  contains  barium  compounds.  In  the 
+following  sections,  the  effects  of  engine  operating  param- 
+eters on  DPM  are  presented  followed  by  an  exeunination 
+of  the  effects  of  barium  on  total  DPM  and  on  the  two 
+main  fractions-solid  and  volatile. 
+
+
+All  the  data  in  figures  2  and  3,  plus  additional  results, 
+are  displayed  more  concisely  in  a  single  chart  (fig.  4), 
+plotting  emissions  against  fuel-air  ratio.  Some  of  the 
+scatter  is  caused  by  experimented  error,  but  most  of  the 
+observed  spread  is  attributable  to  engine  speed  effects. 
+
+
+Diesel  Particulate  Matter 
+Untreated  Fuel 
+
+DPM  emissions  from  diesel  engines  depend  on  many 
+variables,  including  speed,  torque  or  load,  and  air  intake 
+conditions.  Figure  2  compares  the  average  DPM  mass 
+concentration  for  the  Deutz  engine  at  four  loads,  one 
+intake  condition,  and  one  speed.  Other  speed  and  intake 
+conditions  produce  similar  plots.  Figure  2  shows  that  the 
+lowest  DPM  concentrations  (40  mg/m^)  are  measured  at 
+75  pet  of  full  load  jmd  that  lower  or  higher  loads  increase 
+DPM.  The  maximum  emission  level  (115  mg/m^)  occurs 
+at  full  load. 
+
+DPM  emissions  are  plotted  for  full-torque  conditions  at 
+four  speeds  and  three  intake  conditions  (fig.  3).  The  over- 
+all range  of  emissions  is  almost  7:1  (60  to  400  mg/m^). 
+At  fixed  intake  conditions,  speed  variations  produce  about 
+a  3.5:1  range  of  DPM  emissions,  while  at  fixed  speed,  the 
+intake  conditions  shown  have  about  a  2:1  effect  on  the 
+DPM  emissions. 
+
+
+120 
+
+
+100 
+
+
+80 
+
+
+60 
+
+
+40 
+
+
+20 
+
+
+25 
+
+
+75  90 
+
+ENGINE  LOAD,    pet 
+
+
+100 
+
+
+Figure  2.-DPM  emissions  from  Deutz  engine  for  untreated 
+fuel,  2,300  r/min,  and  medium  intalte  restriction. 
+
+
+500r- 
+
+
+I      400- 
+
+E 
+
+Z 
+
+9.     300h 
+
+I- 
+< 
+d. 
+
+
+z 
+
+LU 
+
+o 
+
+z 
+o 
+o 
+
+
+Q. 
+
+D 
+
+
+200- 
+
+
+100- 
+
+
+KEY 
+Intake  restriction,  in  H2O 
+^     8  (small) 
+HI  28  (medium) 
+□  53  (large) 
+
+
+65   80   90   100 
+
+
+65   80   90   100 
+ENGINE  SPEED,  pet 
+
+
+65       80       90      100 
+
+
+Figure  3.-DPM  emissions  from  Deutz  engine  for  untreated  fuel,  full  load,  four  speeds,  and  three  intake  restrictions. 
+
+
+500 
+
+
+400- 
+
+
+E 
+
+I    300 
+
+I- 
+< 
+tr 
+
+
+LU 
+
+^    200 
+
+O 
+O 
+
+
+a. 
+
+Q 
+
+lOOh 
+
+
+0.01 
+
+
+1                                       1 
+KEY 
+
+1 
+
+1 
+
+Intake 
+
+restriction,  in  HjO 
+0  ^r..-nr^ll^ 
+
+7 
+/ 
+
+/ 
+
+/ 
+
+_ 
+
+A 
+
+—  28  (medium) 
+
+_ 
+
+V  —  —  — 
+
+-     00  Uarge; 
+
+9 
+
+/ 
+
+7/ 
+
+// 
+
+- 
+
+9S^ 
+
+1 
+
+# 
+
+1 
+
+- 
+
+1                       1 
+
+0.02 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  4.-DPM  emissions  from  Deutz  engine  as  function  of  fuel-air  ratio  for  untreated  fuel. 
+
+
+For  fuel-air  ratios  less  than  0.04,  the  DPM  emissions 
+rjinge  between  40  and  100  mg/m^  with  minimum  emis- 
+sions measured  for  the  fuel-air  range  between  about  0.03 
+and  0.035.  The  rapid  increase  in  DPM  emissions  for  fuel- 
+air  ratios  greater  than  about  0.04  emphasizes  the  impor- 
+tance of  maintaining  fuel-air  ratios  as  low  as  possible. 
+This  can  be  accomplished  by  proper  maintenance  of  the 
+engine's  air  and  fuel  systems  and  by  not  lugging  the 
+engine. 
+
+The  mine  ventilation  required  for  certified  engines  of 
+this  type  is  85  cfm/hp  (10-11),  which  will  dilute  the  exhaust 
+by  about  40:1.  Applying  this  dilution  factor  to  the  mea- 
+sured emissions  (figs.  2-4)  indicates  that  the  in-mine  DPM 
+levels  produced  by  this  engine  will  range  between  1  and 
+10  mg/m^.  It  is  clear  that  this  engine  can  contribute  sig- 
+nificantly to  mine  dusts. 
+
+Barium-Treated  Fuel 
+
+The  data  in  figure  5,  which  were  obtained  from  a  Cat- 
+erpillar engine  (7),  illustrate  two  important  results  of  using 
+barium-treated  fuel:  first,  barium  compounds  represent  a 
+substantial  fraction  of  DPM,  especially  at  high  additive 
+concentrations  in  the  fuel,  and  second,  the  non-barium 
+fraction  (carbon,  sulfates,  and  volatiles)  at  each  of  the 
+engine  loads  is  nearly  independent  of  additive  concentra- 
+tion, which  suggests  that  the  additive  might  effectively 
+reduce  DPM  at  even  lower  concentrations  than  the  0.18- 
+wt-pct  level  shown. 
+
+Experiments  were  conducted  on  the  Deutz  engine  to 
+determine  the  optimum  concentration  required  to  mini- 
+mize DPM  emissions.  The  results  (fig.  6)  are  for  additive 
+concentrations  between  0.0  and  0.36  wt  pet,  engine  speeds 
+of  90  and  100  pet  of  full-rated,  engine  torques  from  25  to 
+100  pet  of  full  torque,  and  the  medium  intake  restriction. 
+
+Examination  of  these  results  leads  to  the  following 
+observations:  (1)  Even  the  minimum  additive  level  tested, 
+0.02  wt  pet,  reduced  DPM  levels,  compared  with  untreated 
+fuel,  (2)  the  most  effective  concentration  for  minimum 
+DPM  emissions  under  the  test  conditions  was  0.09  wt  pet, 
+(3)  most  of  the  results  obtained  for  0.18  and  0.36  wt  pet  at 
+full  engine  speed  indicate  that  these  levels  are  too  high 
+because  DPM  emissions  are  greater  than  those  for  0.09  wt 
+pet. 
+
+In  order  to  better  illustrate  overall  trends,  DPM  emis- 
+sions are.  plotted  against  fuel-air  ratios  in  figure  7  for 
+treated  and  untreated  fuel  (at  different  engine  intake  con- 
+ditions, engine  speeds,  and  engine  loads).  Comparing 
+untreated-fuel  results  with  those  for  the  0.09-wt-pct  addi- 
+tive level  indicates  that  the  barium  additive  is  not  useful  at 
+fuel-air  ratios  smaller  than  about  0.02.  The  effectiveness 
+as  measured  by  DPM  reduction  from  the  untreated-fuel 
+condition  cle£U"ly  improves  with  increasing  fuel-air  ratio. 
+
+
+Also,  for  fuel-air  ratios  between  0.03  and  about  0.045, 
+DPM  emissions  for  the  0.09-wt-pct  treatment  do  not  ex- 
+ceed 50  mg/m^  while  DPM  levels  for  untreated  fuel  range 
+up  to  250  mg/m^.  Only  at  the  highest  fuel-air  ratios 
+tested  do  the  results  suggest  that  additive  levels  of  0.18 
+jmd  0.36  wt  pet  may  be  slightly  more  effective  than  the 
+0.09-wt-pct  treatment. 
+
+Solid  Particulate  Fraction 
+
+The  SDPM  fraction  is  the  material  remaining  on  the 
+sample  filters  eifter  vacuum-oven  treatment.  The  values  of 
+SDPM  for  untreated  fuel  (fig.  8)  show  how  the  soUd 
+fraction,  in  this  case  mostly  carbon  and  sulfates,  increases 
+uniformly  with  increasing  fuel-air  ratio.  Because  the  con- 
+tribution of  volatiles  to  DPM  at  fuel-ciir  ratios  greater  than 
+0,03  is  small,  the  SDPM  and  DPM  emissions  plots  are 
+similar  at  high  fuel-air  values. 
+
+To  illustrate  the  effect  of  barium  treatment  on  the 
+particulate  soHds  fraction,  SDPM  is  plotted  in  figure  9  for 
+one  engine  speed  condition  and  three  additive  concentra- 
+tion levels.  By  restricting  the  plot  to  one  speed,  the  trends 
+for  each  fuel  condition  are  clearly  delineated.  These  data 
+emphasize  that  most  of  the  SDPM  reduction  attributable 
+to  the  additive  occurs  at  high  fuel-air  ratios;  for  example, 
+a  75-pct  reduction  (340  to  80  mg/m^)  was  obtained  at  the 
+0.05  fuel-air  ratio.  No  sohds  reduction  is  observed  for  the 
+lowest  fuel-air  ratios  of  about  0.016. 
+
+Generally,  the  minimum  SDPM  levels  were  measured 
+for  an  additive  concentration  of  0.09  wt  pet.  At  some 
+fuel-air  ratios  between  0.03  and  0.035,  the  0.36-wt-pct 
+additive  concentration  produced  slightly  greater  emissions 
+than  those  measured  for  untreated  fuel. 
+
+Volatile  Particulate  Fraction 
+
+The  VDPM  mass  concentration  ranged  from  60  mg/m^ 
+at  low  fuel-air  ratios  to  near  zero  at  high  fuel-air  ratios 
+(fig.  10).  At  fuel-air  ratios  less  than  0.02,  the  minimum 
+VDPM  levels  are  for  the  lowest  speed  tested.  This  result 
+agrees  with  that  of  others  who  found  that,  at  light  loads, 
+lubricating  oil  emissions  tend  to  increase  with  increasing 
+engine  speed  (12). 
+
+The  full  engine  speed  results  (fig.  11)  show  that  the 
+barium-additive  treatment  results  in  reduced  VDPM  emis- 
+sions. In  a  later  section,  "Hydrocarbon  Emissions,"  it  is 
+shown  that  the  gas-phase  hydrocarbons  are  either  un- 
+changed or  increased  slightly  with  the  fuel  treatment. 
+Consequently,  it  is  suggested  that  the  VDPM  reduction  is 
+caused  by  the  large  SDPM  reductions  (fig.  9),  which  in 
+turn  reduce  the  particulate  surface  available  for  hydro- 
+carbon adsorption  and  condensation. 
+
+
+250  n 
+
+
+200 
+
+
+150 
+
+
+E 
+
+
+< 
+cr 
+
+
+S     100 
+
+o 
+o 
+
+
+Q. 
+
+Q 
+
+
+50  - 
+
+
+7  pet 
+
+
+KEY 
+
+Barium  compounds 
+Non-barium  fraction 
+
+
+^ 
+
+
+^ 
+
+
+0      0  18  0.36  0.72 
+
+
+50  pet 
+
+
+V77 
+
+
+m 
+
+
+90  pet 
+
+
+^ 
+
+
+0     0.18  0.36  0.72  0     0.18  0.36  0.72 
+
+ADDITIVE  CONCENTRATION,    wt  pet 
+
+
+100  pet 
+
+
+M 
+
+
+0     0.18  0.36  0  72 
+
+
+Figure  5. 
+full  load. 
+
+
+Effect  of  barium  fuel  additive  on  DPM  constituents  from  Caterpillar  engine  at  1,200  r/min  and  7,  50,  90,  and  100  pet  of 
+
+
+80  r 
+
+
+60  - 
+
+
+< 
+
+cr  40 
+
+
+20 
+
+
+0 
+
+
+25  pet 
+
+
+•SPEED,  90  pet- 
+90  pet 
+
+
+) 
+
+. 
+
+\ 
+
+100  pet 
+
+
+M 
+
+
+w^ 
+
+
+■SPEED,  100  pet - 
+100  pet 
+
+
+m  W^': 
+
+
+Wawm 
+
+
+0   0  02  0.045  0.06  0  09  0   0.02  0.045  0.06  0.09  0   0.02  0.045  0  06  0  09  0   0.06  0.09  0.18  0.36 
+
+ADDITIVE  CONCENTRATION,  wt  pet 
+Figure  6.-Effect  of  additive  concentration  on  DPM  emissions  from  Deutz  engine  at  two  speeds  and  25,  90,  and  100  pet  of  full  load. 
+
+
+500 
+
+
+400 
+
+
+E 
+
+
+< 
+
+DC 
+
+
+o 
+
+z 
+o 
+o 
+
+a. 
+
+Q 
+
+
+300- 
+
+
+200- 
+
+
+100- 
+
+
+1                 1 
+
+KEY 
+
+1                  1 
+
+1 
+
+Additive,  wt  pet 
+
+D   0.00 
+A  0.09 
+V  0.18 
+0  0.36 
+
+D 
+D 
+
+- 
+
+D 
+
+D 
+
+- 
+
+- 
+
+a 
+
+n 
+
+- 
+
+_ 
+
+cP 
+
+A 
+
+_ 
+
+E 
+
+1                  1 
+
+1                  1 
+
+1 
+
+0.01 
+
+
+0.02  0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  7.-Additive  effect  on  DPM  emissions  from  Deutz  engine  at  different  fuel-air  ratios. 
+
+
+E 
+
+z 
+O 
+
+(- 
+< 
+fX. 
+
+
+UJ 
+
+o 
+
+z 
+o 
+o 
+
+CO 
+CO 
+
+< 
+
+
+500 
+
+
+400 
+
+
+300 
+
+
+200 
+
+
+a. 
+
+Q 
+
+CO     100 
+
+
+Ol — 
+0.01 
+
+
+KEY 
+Engine  speed,  r/min 
+o    1,500 
+A    1,840 
+V    2,060 
+O    2,300 
+
+
+TS" 
+
+
+0.02 
+
+
+_L 
+
+
+_L 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  8.-SDPM  emissions  from  Deutz  engine  for  untreated  fuel. 
+
+
+400 
+
+
+0.01 
+
+
+0.02 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  9.-Additlve  effect  on  SDPM  emissions  from  Deutz  engine  at  80  pet  of  rated  speed. 
+
+
+en 
+
+E 
+
+
+< 
+
+DC 
+
+
+LU 
+
+o 
+
+z 
+o 
+o 
+
+CO 
+
+< 
+
+
+a. 
+
+Q 
+
+> 
+
+
+ou 
+
+1 
+
+1 
+
+1 
+
+1 
+KEY 
+
+^Ov 
+
+E 
+
+ngine  speed,  r/min 
+
+A 
+
+□    1,500 
+
+A    1,840 
+
+^      0 
+
+V   2,060 
+
+A 
+
+O   2,300 
+
+40 
+
+D 
+
+D 
+D 
+
+D 
+
+20 
+
+- 
+
+a 
+
+- 
+
+n 
+
+1 
+
+O 
+A 
+V 
+
+1 
+
+D 
+
+D 
+
+A 
+0 
+
+D 
+
+O 
+
+A 
+A 
+
+V 
+
+o 
+
+V 
+
+O 
+A       O 
+
+a 
+
+A 
+n                    lA 
+
+0.01 
+
+
+0.02 
+
+
+0.05 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+Figure  10.-VDPM  emissions  from  Deutz  engine  for  untreated  fuel. 
+
+
+0.06 
+
+
+10 
+
+
+E 
+
+
+< 
+
+cc 
+
+
+LU 
+
+o 
+
+z 
+o 
+o 
+CO 
+
+C/5 
+< 
+
+
+a. 
+
+Q 
+> 
+
+
+0.03 
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+Figure  11. -Additive  effect  on  VDPM  from  Deutz  engine  at  full  speed. 
+
+
+Comparison  of  Solid  and  Volatile  Fractions 
+
+The  results  (fig.  12)  for  full  engine  speed  and  the  small 
+intake  restriction  were  selected  to  illustrate  the  relative 
+levels  of  the  solid  and  volatile  particulate  components  for 
+both  treated  and  untreated  fuels.  For  the  Deutz  engine 
+and  for  both  treated  and  untreated  fuel,  the  solid  fraction 
+(SDPM)  is  the  main  component  of  DPM  for  fuel-air  ratios 
+greater  than  about  0.025,  while  at  smaller  fuel-air  ratios 
+the  volatile  fraction  (VDPM)  is  the  main  constituent  of 
+DPM.  The  most  obvious  effect  of  the  additive  is  reduction 
+of  the  solid  component,  although,  as  noted  in  previous 
+sections,  some  volatile  reduction  also  occurs. 
+
+Also  (fig.  12),  for  treated  fuel  (0.09  wt  pet),  the  nearly 
+constant  level  of  SDPM  between  30  and  40  mg/m^,  in 
+conjunction  with  the  results  in  figure  6,  suggests  a  mini- 
+mum DPM  level  and  maximum  effectiveness  of  DPM 
+reduction  using  barium.  At  full  load,  the  barium  rate 
+into  the  engine,  for  0.09-wt-pct  additive  in  the  fuel,  is 
+52  mg/min.  If  all  the  barium  is  emitted  as  barium  sulfate 
+(7)  in  the  exhaust,  the  concentration  is  about  25  mg/m^, 
+the  major  portion  of  the  SDPM  emitted.  There  are  other 
+unknown  substances  in  this  commercial  additive  that  may 
+also  be  emitted  as  solid  components  in  the  exhaust.  The 
+point  is  that  the  composition  of  the  additive  may  be  a 
+significant  limiting  factor  in  DPM  reduction;  therefore,  it 
+is  important  to  use  only  sufficient  additive  to  achieve  the 
+required  or  desired  effectiveness. 
+
+
+200 
+
+
+KEY 
+
+Emission,  treatment 
+
+
+150 
+
+
+DPM,  untreated 
+SDPM,  untreated 
+SPDM,  0.09  wt  pet 
+VDPM,  untreated 
+VDPM,  0.09  wt  pet 
+
+
+100 
+
+
+0.03 
+FUEL-AIR  RATIO 
+
+
+0  05 
+
+
+Figure  12.-Comparison  of  solid  and  volatile  particulates  from 
+Deutz  engine  at  full  speed  for  small  intake  restriction. 
+
+
+11 
+
+
+HYDROCARBON  EMISSIONS 
+Gaseous  Hydrocarbons 
+
+The  untreated-fuel  GPHC  mass  concentration  emissions 
+are  plotted  (fig.  13)  for  all  test  conditions.  The  range  of 
+GPHC  concentrations  (plotted  as  methane  equivalent)  is 
+large-between  10  and  80  mg/m^.  There  will  be  no  at- 
+tempt to  identify  trends,  because  of  the  complex  inter- 
+actions among  engine  speed,  engine  load,  and  engine  in- 
+take conditions.  An  additional  complicating  factor  is  the 
+probability  that  a  substantial  fraction  of  the  GPHC  orig- 
+inates from  the  engine  lubricating  oil,  especially  at  light 
+loads  and  high  speeds  (12). 
+
+GPHC  emissions  for  both  treated  and  untreated  fuels 
+are  plotted  in  figure  14,  where  the  untreated-fuel  data  are 
+
+
+the  same  as  those  plotted  in  figure  13.  It  is  apparent  that 
+the  main  effect  of  the  additive  is  to  reduce  the  overall 
+range  of  the  GPHC  emissions,  especially  at  fuel-air  ratios 
+greater  than  0.025.  The  minimum  GPHC  level  observed 
+for  treated  fuel  is  about  25  mg/m^,  compared  with  the 
+minimum  of  about  10  mg/m^  observed  for  untreated  fuel. 
+The  increase  in  GPHC  for  treated  fuel  can  be  explained  by 
+referring  back  to  figure  11,  which  showed  that  the  con- 
+densed volatiles,  or  VDPM,  were  decreased,  on  the  aver- 
+age, by  barium-treated  fuel.  Consequently,  it  follows  that 
+if  the  exhaust  hydrocarbons  do  not  condense  on  the  par- 
+ticulate fraction,  then  they  must  remain  in  the  gas  phase  as 
+observed.  What  is  not  explained  is  why  the  GPHC  levels 
+for  treated  fuel  (fig.  14)  decrease  with  increasing  additive 
+concentration.  Additive  effects  on  exhaust  hydrocarbons 
+are  examined  further  in  the  following  section. 
+
+
+ou 
+
+1 
+V 
+
+1 
+
+1 
+
+1 
+KEY 
+
+V 
+
+Engi 
+
+ne  speed,  r/min 
+A    1,500 
+
+^   60 
+
+aO 
+
+V   1,840 
+
+O   2,060 
+
+- 
+
+E 
+
+D 
+
+□   2,300 
+
+2f 
+
+O 
+
+o 
+
+A 
+
+1- 
+
+< 
+
+„o 
+
+o 
+
+a: 
+
+1- 
+
+V 
+
+O               V 
+
+2 
+
+uj   40 
+O 
+
+"             A         ° 
+
+O            V 
+
+7 
+
+— 
+
+z 
+
+v:  s 
+
+($> 
+
+V    A      A 
+
+o 
+
+D 
+
+V 
+
+o 
+
+V 
+
+g 
+
+w 
+
+O 
+
+A      A   '^ 
+
+i-i 
+
+< 
+
+A 
+
+°A        A 
+
+A 
+
+2 
+
+D 
+
+^    20 
+
+- 
+
+D 
+
+- 
+
+Q. 
+(5 
+
+O 
+
+a 
+o 
+
+O 
+
+0 
+
+1 
+
+1 
+
+1 
+
+1 
+
+0.01 
+
+
+0.02 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  13.-GPHC  concentrations   (plotted  as  methane  equivalent)  from   Deutz  engine  for 
+untreated  fuel. 
+
+
+12 
+
+
+ou 
+
+1 
+
+1 
+A   D 
+
+1                              1                              1 
+KEY 
+
+D 
+
+Additive,  wt  pet 
+
+V 
+
+D   0.00 
+
+n 
+
+O 
+
+A    0.09 
+
+t    60 
+
+_ 
+
+CP 
+
+V   0.18 
+
+_ 
+
+E 
+
+O   0.36 
+
+z 
+
+^ 
+
+o 
+
+0 
+D 
+
+h- 
+
+< 
+
+□  ° 
+
+^                                 ^ 
+
+1- 
+
+1    40 
+
+V 
+
+n       ° 
+
+_ 
+
+z 
+
+□ 
+
+O^D             A        „     D      V 
+
+O 
+
+o 
+
+A 
+
+CO 
+CO 
+
+< 
+
+5 
+
+D 
+
+^     20 
+
+
+
+D 
+D 
+
+_ 
+
+Ql 
+
+o 
+
+1 
+
+1 
+
+1                    1                    1 
+
+0.01 
+
+
+0.02  0.03 
+
+FUEL-AIR  RATIO 
+
+
+0.04 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  14.-GPHC  concentrations  (plottecJ  as  methane  equivalent)  for  different  additive 
+concentrations  and  for  all  Deutz  engine  conditions. 
+
+
+Total  Exhaust  Hydrocarbons 
+
+Diesel  exhaust  is  a  complex,  dynamic  system  in  which 
+the  physical  and  chemical  properties  of  the  species  present 
+continuously  change  with  time.  For  the  purpose  of  this 
+discussion,  the  following  are  assumed:  (1)  The  diluted 
+exhaust,  from  which  the  filter  sample  is  extracted,  is  rep- 
+resentative of  the  state  of  the  VDPM  in  the  exhaust  pipe; 
+that  is,  adsorption,  desorption,  and  condensation  are  fully 
+quenched  at  the  instant  of  dilution;  (2)  the  heated  gas 
+sampling  line  provides  a  representative  GPHC  sample  to 
+the  instruments.  If  these  conditions  are  met,  then  an 
+estimate  of  TEHC  is  determined  as  follows: 
+
+TEHC  -  VDPM  +  GPHC, 
+
+when    expressed    in    consistent    units    such    as    mass 
+concentration. 
+
+Calculated  values  of  TEHC  are  plotted  (fig.  15)  against 
+fuel-air  ratio.  No  strong  trends  are  apparent.  Of  more 
+interest  are  the  treated-fuel  levels  of  TEHC  for  full-speed 
+conditions  (fig.  16)  along  with  untreated-fuel  data  also  for 
+full-speed  conditions;  all  three  intake  conditions  are  plot- 
+ted here.  There  are  two  observations.  First,  the  average 
+TEHC  levels  do  not  appear  to  be  substantially  changed 
+when  all  treated-fuel  results  are  compared  with  all 
+untreated-fuel  data.    Additive  effects  on  TEHC  are  not 
+
+
+significant  relative  to  the  reductions  measured  for  SDPM 
+(fig.  9).  On  the  other  hand,  looking  only  at  the  treated- 
+fuel  results,  TEHC  levels  appear  to  decrease  with  increas- 
+ing additive  concentration,  as  a  result  of  the  decrease  in 
+GPHC  levels  with  increasing  barium  concentration. 
+
+TOXIC  GASEOUS  EMISSIONS 
+
+Nitrogen  Oxides 
+
+Nitrogen  oxide  emissions  for  different  speeds,  loads, 
+intake  restrictions,  and  additive  treatments  are  plotted 
+against  fuel-air  ratio  (fig.  17).  In  general,  nitrogen  oxide 
+formation  increases  with  temperature  and  with  the  avail- 
+ability of  oxidizing  agents  during  combustion.  For  exam- 
+ple, combustion  temperature  is  related  directly  to  fuel-air 
+ratio  and  in-cylinder  oxygen  concentration  is  related  in- 
+versely to  fuel-air  ratio.  As  a  result,  some  of  the  nitrogen 
+oxide  emission  plots  (fig.  17)  peak  at  about  a  fuel-air  ratio 
+of  0.04. 
+
+For  untreated  fuel,  the  lowest  nitrogen  oxide  levels  of 
+about  100  mg/m^  were  measured  for  the  largest  restriction 
+(minimum  oxygen)  and  low  fuel-air  ratios  corresponding 
+to  minimum  temperatures.  The  highest  levels  for  un- 
+treated fuel,  around  800  mg/m^  were  for  the  smallest 
+intake  restriction  (higher  oxygen  levels)  and  high  fuel-air 
+ratios  (high  temperatures). 
+
+
+E 
+
+
+< 
+
+
+LU 
+
+o 
+
+z 
+o 
+o 
+
+CO 
+CO 
+
+< 
+
+
+o 
+
+X 
+LJJ 
+
+
+150 
+
+
+100 
+
+
+50- 
+
+
+0.01 
+
+
+xP  o 
+
+V 
+
+.  n 
+
+
+13 
+
+
+KEY 
+
+Engine  speed,  r/min 
+
+D  1,500 
+A  1,840 
+V  2,060 
+O   2,300 
+
+
+O 
+
+V 
+
+
+^ 
+
+
+^ 
+
+
+A      O 
+
+07. 
+
+
+O 
+
+D 
+
+
+O 
+
+D 
+
+A 
+
+A 
+D       V 
+
+D 
+
+
+0.02 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  15.-TEHC  concentrations  for  untreated  fuel  and  all  Deutz  engine  conditions. 
+
+
+E 
+
+2f 
+
+o 
+
+I- 
+< 
+cc 
+
+h- 
+
+z 
+
+UJ 
+
+o 
+
+z 
+o 
+o 
+
+CO 
+
+CO 
+< 
+
+
+o 
+
+X 
+LU 
+
+
+1 
+
+1 
+
+1 
+
+1                               1 
+
+KEY 
+
+Adciitive,  wt  pet 
+
+^D 
+
+D    0.00 
+A    0.09 
+
+n^ 
+
+V    0.18 
+
+% 
+
+o    0.36 
+
+100 
+
+- 
+
+- 
+
+C^ 
+
+A 
+
+cn 
+
+D 
+
+V 
+
+50 
+
+>       < 
+
+1 
+
+1 
+
+D 
+
+1 
+
+mA  D     o  Aq 
+
+D                ° 
+1                             1 
+
+0.01  0.02  0.03  0.04 
+
+FUEL  -AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  16.-TEHC  concentrations  from  Deutz  engine  for  treated  fuel  at  full  speed. 
+
+
+14 
+
+
+E 
+
+2 
+
+O 
+I- 
+< 
+
+DC 
+
+
+LU 
+
+o 
+
+z 
+o 
+o 
+
+CO 
+
+CO 
+< 
+
+
+,uuu 
+
+1 
+
+1 
+
+1 
+
+1 
+O 
+
+1 
+
+KEY 
+
+o 
+
+Restriction. 
+
+Additive. 
+
+O 
+
+o 
+
+in    HjO 
+
+wt  pet 
+
+n 
+
+■  * 
+
+800 
+
+D     8  " 
+
+D     .                     D    '-' 
+
+'^    n     n    o 
+
+A  V«D             A?^ 
+
+_ 
+
+A  28    • 
+V  53. 
+■     8' 
+
+0 
+
+D 
+
+▲  28    ■ 
+
+0.09 
+
+Oa 
+
+%       ^ 
+
+D 
+
+\l     " 
+
+▼  53. 
+
+% 
+
+▼ 
+
+600 
+
+~        O     8 
+
+0.36 
+
+& 
+
+A     ^ 
+
+A 
+
+- 
+
+A 
+
+▼ 
+
+V 
+
+A 
+
+A 
+
+D 
+
+A 
+
+A 
+
+OA 
+
+400 
+
+■ 
+
+A 
+A 
+
+A 
+A 
+
+A 
+
+V 
+V 
+
+200 
+
+1 
+
+A 
+
+V 
+
+1 
+
+1 
+
+1 
+
+1 
+
+0.01  0.02  0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  17.-Comparison  of  nitrogen  oxide  concentrations  from  Deutz  engine  for  treated  and 
+untreated  fuels. 
+
+
+Overall,  the  treated-fuel  nitrogen  oxide  levels  were 
+greater  than  those  measured  for  untreated  fuel  at  the  same 
+fuel-air  ratios.  The  0.36-wt-pct  additive  treatment  and 
+small  restriction  produced  the  highest  nitrogen  oxide  levels 
+for  a  given  fuel-air  ratio.  This  general  increase  in  nitrogen 
+oxide  levels  for  treated  fuels  is  assumed  to  be  the  result  of 
+the  oxidizing  effect  of  barium.  These  results  again  empha- 
+size the  importance  of  not  using  any  more  additive  in  the 
+fuel  than  necessary  for  DPM  reduction. 
+
+Carbon  Monoxide 
+
+The  carbon  monoxide  exhaust  emissions  are  plotted 
+(fig.  18)  against  fuel-air  ratio.  The  effect  of  the  additive 
+on  carbon  monoxide  levels  is  mixed,  which  suggests  that 
+the  additive  will  produce  neither  positive  nor  negative 
+effects  on  carbon  monoxide  in  the  exhaust. 
+
+ENGINE  COMPARISON 
+
+The  purpose  of  this  section  is  a  limited  comparison  of 
+the  DPM  emissions  from  two  different  engines:  the  Deutz 
+engine  tested  in  this  research  and  a  Caterpillar  3304 
+
+
+engine  evaluated  earlier  (7-8).  The  comparison  is  limited 
+because  test  data  for  the  Caterpillar  engine  are  available 
+only  for  low-speed  tests  at  1,200  r/min  or  67  pet  of  the 
+full-rated  speed  (1,800  r/min)  for  that  engine. 
+
+The  DPM  emissions  for  untreated  fuel  (fig.  19)  are 
+expressed  in  power-specific  mass  rate  to  help  account  for 
+the  differences  in  the  test  loads  and  speeds  for  the  two 
+engines.  Over  the  full  range  of  fuel-air  ratios,  the  Cat- 
+erpillar engine  emissions  are  smaller  than  those  from  the 
+Deutz  engine,  including  the  full-speed  Deutz  engine  data. 
+
+DPM  emissions  are  shown  in  figure  20  for  a  fuel  treat- 
+ment of  0.18  pet  (the  smallest  concentration  data  avail- 
+able for  the  Caterpillar  engine)  for  both  engines,  plus  0.09- 
+wt-pct  additive  results  for  the  Deutz  engine.  The  data 
+show  that  for  treated  fuel  the  Deutz  engine  emits  less 
+DPM  at  most  fuel-air  ratios.  In  other  words,  the  additive 
+appears  to  be  more  effective  for  the  Deutz  engine,  with 
+the  qualification  that  this  result  may  be  related  to  the 
+fact  that  the  speed  of  the  Deutz  engine  was  greater- 
+1,840  r/min  (80  pet  of  full-rated  speed)  compared  with 
+1,200  r/min  for  the  Caterpillar  engine  (67  pet  of  full-rated 
+speed).  If  the  two  engines  could  be  compared  at  the  same 
+speeds,  the  results  might  be  different. 
+
+
+15 
+
+
+500 
+
+
+400- 
+
+
+E 
+
+I    300 
+
+< 
+tr. 
+
+
+UJ 
+
+o 
+
+z 
+o 
+o 
+
+o 
+o 
+
+
+200- 
+
+
+100 
+
+
+1 
+
+KEY 
+
+1 
+
+1                               1 
+
+1 
+
+Restriction, 
+
+Additive. 
+
+in   HjO 
+
+wt  pet 
+
+D      8  " 
+A   28 
+
+0.00 
+
+▼ 
+
+A 
+
+V  53 
+
+A  28    \ 
+T  53  J 
+
+0.09 
+
+V 
+
+A 
+
+V 
+
+■ 
+A^ 
+
+67 
+
+V 
+
+A 
+DA 
+
+°A 
+
+V 
+
+- 
+
+■ 
+1 
+
+8^ 
+
+D 
+D 
+
+D 
+
+1 
+
+1                 1 
+
+1 
+
+- 
+
+0.01  0.02  0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  1 8.-Comparison  of  carbon  monoxide  concentrations  from  Deutz  engine  for  treated  and 
+untreated  fuels. 
+
+
+10 
+
+
+25 
+
+
+20 
+
+
+P    15  - 
+
+
+Q     10 
+
+
+1                  1 
+
+I 
+
+Ia 
+
+1 
+
+KEY 
+
+D    Caterpillar 
+
+1 
+
+^ 
+
+A    Deutz 
+
+'.    ^ 
+
+f 
+f 
+
+^ 
+
+a\ 
+
+a/ 
+
+\a 
+
+f 
+
+1 
+
+A 
+
+/ 
+
+/ 
+
+A/ 
+
+D 
+
+- 
+
+j     ^    \ 
+
+/ 
+/ 
+
+^     / 
+
+J 
+
+/ 
+
+P                A        \ 
+
+/ 
+/ 
+
+/ 
+
+\                              \ 
+
+A     /       ^ 
+
+/ 
+
+a    ~ 
+
+\                              \ 
+
+'A.       / 
+
+\                              \ 
+
+/a  X 
+
+\^                        \^ 
+
+A    /     jf 
+
+A 
+
+*  t^ 
+
+1                              1 
+
+— 5 
+
+f 
+
+0^    ° 
+
+1 
+
+1 
+
+0.01 
+
+
+0.02 
+
+
+0.03  0.04 
+
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  19.-Comparison  of  DPM  from  Deutz  and  Caterpillar 
+engines  for  untreated  fuel. 
+
+
+0.02 
+
+
+KEY 
+
+□  Caterpillar 
+A  Deutz 
+
+
+-^ 
+
+
+r^i- ' 
+
+
+_L. 
+
+
+0.03 
+
+
+0.04 
+FUEL-AIR  RATIO 
+
+
+0.05 
+
+
+0.06 
+
+
+Figure  20.-Comparison  of  DPM  from  Deutz  and  Caterpillar 
+engines  for  treated  fuel. 
+
+
+16 
+
+
+CONCLUSIONS  AND  RECOMMENDATIONS 
+
+
+At  fuel-air  ratios  between  0.01  and  0.052,  the  DPM 
+emissions  of  the  Deutz  engine  ranged  between  35  and 
+420  mg/m^.  For  fuel-air  ratios  up  to  about  0.04,  the 
+maximum  DPM  levels  measured  were  less  than  about 
+120  mg/m^,  a  result  that  emphasizes  the  importance  of 
+operation  at  high  speed  with  minimum  intake  restrictions 
+(clean  air  filters)  in  order  to  maintain  low  fuel-air  ratios. 
+
+The  DPM  emissions  from  the  Deutz  engine  were  com- 
+pared with  those  from  a  Caterpillar  engine.  For 
+untreated-fuel  operation,  the  DPM  levels  from  the  Cater- 
+pillar engine  were  less  than  those  from  the  Deutz  engine 
+over  the  entire  range  of  fuel-air  ratios  tested. 
+
+For  maximum  DPM  reduction  over  the  entire  range  of 
+fuel- air  ratios,  the  most  effective  additive  concentration 
+evaluated  was  0.09  wt  pet.  Only  at  the  maximum  fuel-air 
+ratios  tested  did  the  manufacturer's  recommended  concen- 
+tration of  0.36  wt  pet  seem  to  impart  a  marginal  additional 
+benefit  in  reducing  DPM  compared  with  the  0.09-wt-pct 
+treatment.  Additive  concentrations  as  low  as  0.02  wt  pet 
+were  observed  to  produce  some  DPM  reductions. 
+
+The  effect  of  the  additive  on  nitrogen  oxide  and  carbon 
+monoxide  emissions  was  complex.  Overall,  nitrogen  oxide 
+levels  tended  to  increase  while  carbon  monoxide  levels 
+
+
+remained  within  the  xmtreated-fuel  range.  Because  emis- 
+sion levels  of  both  these  gases  are  well  within  acceptable 
+limits  for  the  tested  conditions  and  because  the  changes 
+are  small,  the  effect  of  the  additive  on  nitrogen  oxide 
+should  be  considered  in  mine  applications  but  is  not  ex- 
+pected to  be  a  problem  for  well-maintained  engines  and 
+properly  ventilated  mines. 
+
+This  barium-based  additive  is  recommended  for  re- 
+ducing DPM  emissions  from  diesel-powered  equipment 
+used  in  xmderground  mines  if  the  following  conditions  are 
+met: 
+
+1.  The  additive  reduces  excessive  particulate  levels 
+and  is  used  mainly  in  equipment  having  heavy  work-duty 
+cycles  involving  substantial  periods  of  full  or  near-full 
+load  operation. 
+
+2.  The  additive  is  used  at  the  minimum  concentration 
+required  to  produce  the  measured  DPM  reduction  ob- 
+served. Based  on  results  in  this  report,  the  suggested 
+concentration  is  0.09  wt  pet. 
+
+3.  Potential  adverse  effects  such  as  unacceptable  nitro- 
+gen oxide  increases  should  be  checked. 
+
+
+REFERENCES 
+
+
+1.  National  Institute  for  Occupational  Safety  and  Health. 
+Carcinogenic  Effects  of  Exposure  to  Diesel  Exhaust.  U.S.  Dep.  Health 
+and  Hum.  Serv.,  Public  Health  Serv.,  Curt.  Intelligence  Bull.  50,  1988, 
+30  pp. 
+
+2.  Baumgard,  K.  J.,  and  K.  L.  Bickel.  Development  and 
+Effectiveness  of  Ceramic  Diesel  Particle  Filters.  Paper  in  Diesels  in 
+Underground  Mines.  Proceedings:  Bureau  of  Mines  Technology 
+Transfer  Seminar,  Louisville,  KY,  April  21,  1987,  and  Denver,  CO, 
+April  23,  1987.    BuMines  IC  9141,  1987,  pp.  94-102. 
+
+3.  Waytulonis,  R.  W.,  and  G.  Dvorznak.  New  Control  Technology 
+for  Diesel  Engines  Used  in  Underground  Coal  Mines.  Paper  42  in 
+Proceedings  of  the  3rd  Mine  Ventilation  Symposium  (Oct.  12-14, 1987, 
+University  Park,  PA).    Soc.  Min.  Eng.  AIME,  1987,  pp.  279-285. 
+
+4.  Truex,  T.  J.,  W.  R.  Pierson,  D.  E.  McKee,  M.  Shlef,  and  R.  E. 
+Baker.  Effects  of  Barium  Fuel  Additive  and  Fuel  Sulfur  Level  on 
+Diesel  Particulate  Emissions.  Environ.  Sci.  and  Technol.,  v.  14,  No.  9, 
+1980,  pp.  1121-1124. 
+
+5.  Kittleson,  D.  B.,  D.  Dolan,  R.  B.  Diver,  and  E.  Aufderheide. 
+Diesel  Exhaust  Particle  Size  Distributions-Fuel  and  Additive  Effects. 
+Sec.  in  The  Measurement  and  Control  of  Diesel  Particulate  Emissions. 
+SAE/PT-79/17,  1979,  pp.  233-244. 
+
+6.  Hare,  C.  T.,  and  K.  J.  Springer.  Fuel  and  Additive  Effects  on 
+Diesel  Particulate  Development  and  Demonstration  of  Methodology 
+
+
+(Pres.  at  Automot.  Eng.  Congr.  and  Expo.,  Detroit,  MI,  Feb.  23-27, 
+1976).    SAE  Tech.  Paper  760130,  1976,  29  pp. 
+
+7.  Zeller,  H.  W.  Effects  of  Barium-Based  Additive  on  Diesel 
+Exhaust  Particulate.   BuMines  RI  9090,  1987,  40  pp. 
+
+8.  .  Measurement  of  the  Effects  of  a  Fuel  Additive  on  Diesel 
+
+Soot  Emissions.  Paper  in  Diesels  in  Underground  Mines.  Proceedings: 
+Bureau  of  Mines  Technology  Transfer  Seminar,  Louisville,  KY, 
+April  21,  1987,  and  Denver,  CO,  April  23,  1987.  BuMines  IC  9141, 
+1987,  pp.  79-93. 
+
+9.  Society  of  Automotive  Engineers  (Warrendale,  PA).  SAE 
+Handbook:  Engines,  Fuels,  Lubricants,  Emissions,  and  Noise.  V.  3, 
+1982,  p.  24.10. 
+
+10.  Sauerteig,  J.  E.,  and  G.  Perkuhn.  Influence  of  Maintenance  on 
+the  Exhaust  Emission  Quality  of  Diesel  Engines.  Paper  in  Diesel  Use 
+Seminar.  Am.  Min.  Congr.,  1988,  pp.  118-144. 
+
+11.  MWM  Diesel,  Inc.  (Norcross,  GA).  MWM  Mining  Engines. 
+Bull.  662,  Feb.  1986,  10  pp. 
+
+12.  Mayer,  W.  J.,  D.  C.  Lechman,  and  D.  L.  Hilden.  The 
+Contribution  of  Engine  Oil  to  Diesel  Exhaust  Particulate  Emissions. 
+SAE  Tech.  Paper  800256,  1980,  pp.  247-256. 
+
+
+17 
+
+
+APPENDIX.-ADDITIVE  SPECIFICATIONS 
+
+Supplier: 
+
+Lubrizol  Corp. 
+29400  Lakeland  Blvd. 
+Wickliffe,  OH  44092 
+
+Type:   Lubrizol  565 
+
+Recommended  concentration:   0.36  wt  pet  or  0.25  vol  pet  (or  1,075  lb  per  1,000  barrels  of  fuel) 
+
+Physical  and  chemical  properties: 
+
+Specific  gravity  at  60°  F 1.22 
+
+Viscosity  at  100°  C   cSt    .  .  9.62 
+
+Barium  content wt  pet    .  .  20-25 
+
+Sulfur  content wt  pet    .  .  0.25-0.50 
+
+Nitrogen  content wt  pet    .  .  0.4-0.6 
+
+
+INT.BU.OF  M1NES,PGH.,PA  29072 
+
+
+•0 
+
+m 
+
+z 
+
+S2.  -*  fl>  • 
+
+> 
+
+5 
+
+O 
+
+■n 
+■n 
+
+-n 
+O 
+
+O 
+
+-     £  |!  3 
+
+73 
+
+> 
+
+"0 
+
+r~ 
+
+o-    2  «> 
+
+31 
+
+1 
+
+03 
+
+c 
+
+m 
+
+c 
+
+0) 
+
+m 
+
+z 
+m 
+
+JO-     ^ 
+
+§2      g" 
+
+(/) 
+
+^  (/J      _ 
+
+1 
+
+(j> 
+
+00         2. 
+O         O 
+
+o       -« 
+
+> 
+
+z 
+
+m 
+O 
+c 
+> 
+
+r— 
+O 
+
+-D 
+TJ 
+O 
+3] 
+
+H 
+C 
+Z 
+
+
+m 
+
+
+O 
+
+-< 
+m 
+
+33 
+
+
+396   90 
+
+
+•    fy 
+
+
+,<°<.      . 
+
+
+%/  /.^*v  \..<^^  .^i^^l£^^o  %^j 
+
+
+^''^^-.     . 
+.*  .«.♦    •%  "• 
+
+
+^c,- 
+
+
+.Ho^       .. 
+
+
+•*-- 
+
+
+fl5  °^    -1 
+
+
+^^-n^.  '.« 
+
+
+i>  .  y  •  > 
+
+
+>.  *: 
+
+
+V   .  <  •  I 
+
+
+-     -^^0^ 
+S""^ 
+
+
+1^       .  <  *  ■ 
+
+
+r/  \/-Wv'  V™\'v'  \/Wv^  V™<^    %*-Wv'  \ 
+
+
+«*i°^  -1 
+
+
+^^-V:,  V 
+
+
+/*  \*-^*y*'  v"^^"'/'  'v^'-^'V'  ■°.*- ■••■""'  f' 
+
+
+*  ^-.,^^ 
+
+
+^^-v.^ 
+
+
+'>6* 
+
+
+«*V°^ 
+
+
+iOv., 
+
+
+.-^^x. 
+
+
+^oy 
+
+
+V 
+
+
+n- 
+
+
+:  A^^^-V. 
+
+
+«ft  ...  ***_  A>  .  «   »  ■Ca 
+
+
+•    .0*^  o^     'o.T*     A 
+
+
+^^•n^^ 
+
+
+.         *  7*t*^  .  \         .0,1 
+
+
+>^       o_ 
+
+
+^o-n^^  V 
+
+
+«-i°^ 
+
+
+*bV^ 
+
+
+^°"^. 
+
+
+6>^  '11  ,< 
+
+
+^^^^ 
+
+
+.^■^       /. 
+
+
+^> 
+
+
+V 
+
+
+^0^ 
+
+

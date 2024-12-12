@@ -1,0 +1,2102 @@
+library  of  congress 
+
+MLCM 
+
+2006/02417 
+
+FT  MEADE 
+GenCol 1 
+
+
+PHYSICIAN 
+
+PAYMENT 
+
+REVIEW 
+
+COMMISSION 
+
+MONITORING 
+ACCESS: 
+REPORT  TO 
+CONGRESS 
+
+
+No.  91-5 
+
+
+May  1991 
+
+
+2120  L  Street,  NW 
+Suite  510 
+
+Washington,  DC  20037 
+(202)  653-7220 
+FAX  (202)  653-7238 
+
+
+LIBRARY  OF  CONGRESS 
+
+
+MLCM 
+
+2006/02417 
+
+
+LC  Control  Number 
+
+
+2002  435490 
+
+
+PREFACE 
+
+
+This  report  was  submitted  to  Congress  in  accordance  with  the  Commission’s  responsibility 
+under  the  Omnibus  Reconciliation  Act  of  1989  to  comment  on  the  Department  of  Health 
+and  Human  Services  Secretary’s  1991  report  to  Congress  on  "Monitoring  Changes  in  the 
+Use  of,  Access  to,  and  Appropriateness  of  Part  B  Medicare  Services." 
+
+Christopher  Hogan,  Ph.D.  and  Anne  Lenhard  Reisinger,  Ph.D.  were  the  Commission  staff 
+members  principally  responsible  for  developing  this  report.  Michael  Millman,  Ph.D. 
+provided  much  needed  advice  early  in  the  development  of  this  report.  The  Commission’s 
+Advisory  Panel  on  Access  provided  invaluable  guidance  throughout  the  preparation  of  this 
+report. 
+
+
+l 
+
+
+CONTENTS 
+
+
+Preface  .  i 
+
+Executive  Summary .  iii 
+
+Monitoring  Access:  The  Commission’s  Report  to  Congress .  1 
+
+Background .  1 
+
+The  Secretary’s  1991  Report  .  2 
+
+Recommendations  for  HHS  Action .  3 
+
+Commission’s  Monitoring  Plans . 
+
+Appendix  A:  Members  of  the  Advisory  Panel  on  Access .  10 
+
+Appendix  B:  Draft  Workplan  on  Access  to  Care  .  11 
+
+Background .  12 
+
+Monitoring  Access:  The  Conceptual  Framework  .  15 
+
+Technical  Notes  on  Measures  of  Access  .  20 
+
+Technical  Notes  on  Sources  and  Uses 
+
+of  Data  for  Monitoring  Access .  31 
+
+Summary  and  Tentative  Workplan .  38 
+
+Table  1:  Summary  of  Geographic  Areas,  Vulnerable  Populations, 
+
+and  Measures  of  Access  . .  30 
+
+
+EXECUTIVE  SUMMARY 
+
+
+Maintaining  acceptable  levels  of  beneficiary  access  to  care  is  crucial  to  the  success  of 
+Medicare  physician  payment  reform.  The  new  payment  system,  however  reasonable,  will 
+not  be  judged  a  success  if  despite  gains  in  access  for  some  beneficiaries,  there  are 
+deteriorations  for  others.  Thus,  adequate  monitoring  of  changes  in  beneficiary  access  to 
+care  is  critical  to  the  successful  implementation  of  physician  payment  reform. 
+
+The  Omnibus  Reconciliation  Act  of  1989  (OBRA89)  directs  the  Department  of  Health  and 
+Human  Services  (HHS)  to  monitor  changes  in  the  utilization  of,  access  to,  and 
+appropriateness  of  care.  The  HHS  Secretary  is  directed  to  submit  an  annual  report  on  the 
+Department’s  findings  to  Congress.  OBRA89  also  directs  the  Physician  Payment  Review 
+Commission  to  review  and  comment  on  the  Secretary’s  report. 
+
+Monitoring  changes  in  beneficiary  utilization  of  and  access  to  care  under  payment  reform 
+will  be  an  important  part  of  the  Commission’s  work  during  the  implementation  phase  of 
+reform.  Thus,  in  addition  to  reviewing  the  HHS  plans,  the  Commission  is  developing  its 
+own  plans  for  monitoring  and  analyzing  changes  in  utilization  and  access.  The 
+Commission  has  convened  an  expert  Advisory  Panel  on  Access  to  assist  it  in  both  these 
+tasks. 
+
+On  May  2nd,  1991  the  HHS  Secretary  released  his  first  report  on  beneficiary  utilization 
+and  access.  The  report  describes  existing  and  planned  data  systems  for  monitoring  changes 
+in  utilization  and  access.  It  devotes  several  chapters  to  describing  the  HHS  plans  for 
+measuring  and  analyzing  changes  in  the  utilization  of,  access  to,  and  appropriateness  of 
+care.  It  also  discusses  possible  strategies  for  analyzing  and  monitoring  outcomes  of  care. 
+
+The  Secretary’s  report  is  a  good  first  step  in  the  development  of  the  Department’s 
+monitoring  plans.  HHS  has  undertaken  major  efforts  to  improve  the  timeliness  and 
+accuracy  of  Medicare  claims  data.  The  Department  is  also  developing  new  data  systems 
+that  will  provide  sorely  needed  information  for  tracking  changes  in  beneficiary  utilization 
+and  access.  The  Commission  recommends  that  HHS: 
+
+•  develop  a  standardized  system  for  the  timely  and  routine  release  of  public  data 
+on  changes  in  the  utilization  of  and  access  to  care; 
+
+•  take  steps  to  assure  the  availability  of  pre-reform  baseline  data  for  analysis;  and 
+
+•  ensure  that  data  system  development  and  the  dissemination  of  data  proceed 
+rapidly. 
+
+Timely,  routinely  released  data  on  the  experience  of  beneficiaries  during  the 
+implementation  of  payment  reform  will  be  needed  to  maintain  beneficiary  and  provider 
+confidence  in  the  reform.  In  addition,  data  on  the  utilization  of  beneficiaries  before  the 
+
+
+implementation  of  payment  reform  will  be  necessary  to  determine  if  the  reform  has  caused 
+any  changes  in  utilization  or  access. 
+
+The  Commission  further  recommends  that,  in  developing  its  plans  to  measure  changes  in 
+utilization,  access,  and  appropriateness,  HHS: 
+
+•  include  plans  to  measure  utilization  and  access  changes  during  the  first  year  of 
+payment  reform  implementation;  and 
+
+•  more  clearly  specify  its  plans  for  long-run  analyses  of  changes  in  utilization  and 
+access. 
+
+The  HHS  plans  currently  concentrate  on  analyzing  long-run  changes  over  the  course  of 
+reform  implementation.  The  Commission  believes  that  it  is  imperative  that  the 
+Department  track  utilization  and  access  changes  during  the  first  year  of  implementation. 
+Further,  the  Commission  suggests  that  the  Department  refine  its  long-run  analytical  plans, 
+including  a  special  focus  on  vulnerable  beneficiary  groups  and  measures  of  access 
+appropriate  to  those  groups.  The  Commission’s  plans  for  monitoring  changes  in  utilization 
+and  access  to  care,  outlined  in  Appendix  B  of  this  report,  could  be  used  as  a  guide  in 
+developing  the  Department’s  plans. 
+
+
+IV 
+
+
+MONITORING  ACCESS: 
+
+THE  COMMISSION’S 
+REPORT  TO  CONGRESS 
+
+
+BACKGROUND 
+
+The  maintenance  of  acceptable  levels  of  access  to  care  is  crucial  to  the  success  of  Medicare 
+physician  payment  reform.  Payment  reform  is  designed  to  replace  Medicare’s  method  of 
+payment  based  on  customary,  prevailing,  and  reasonable  charges  (CPR)  with  a  more 
+rational  and  equitable  pattern  of  payment.  Over  the  years,  the  CPR  method  resulted  in 
+inequitable  payment  differentials  among  services,  localities,  and  physician  specialties.  The 
+reform  will  replace  CPR  with  a  payment  method  that  should  ensure  beneficiary  access  to 
+care,  maintain  financial  protection  for  beneficiaries,  increase  equity  among  physicians,  and 
+constrain  the  growth  in  Medicare  spending. 
+
+The  payment  reform  is  designed  to  achieve  its  goals  through  a  resource-based  fee 
+schedule,  limits  on  balance  billing,  and  volume  performance  standards.  The  Medicare  Fee 
+Schedule  will  help  to  ensure  beneficiary  access  to  care  and  increase  equity  among 
+physicians  by  rationalizing  payments  for  physician  services.  Increases  in  payments  for 
+primary  care  services  and  decreases  in  payments  for  surgical  and  technical  procedures  will 
+reduce  payment  disparities  among  specialties  and  services.  By  reducing  geographic 
+variations  in  physician  payment,  the  fee  schedule  will  reduce  payment  disparities  among 
+localities.'  Reducing  these  payment  differentials  will  not  only  result  in  more  equitable 
+treatment  of  physicians,  but  should  also  help  to  ensure  that  beneficiaries  will  have  more 
+uniform  access  to  care.  By  limiting  balance  billing,  the  reform  will  provide  financial 
+protection  for  beneficiaries.  Volume  performance  standards  will  constrain  spending 
+growth. 
+
+The  new  payment  system,  however  reasonable,  will  not  be  judged  a  success  if  despite  gains 
+in  access  by  some,  there  are  deteriorations  for  others.  Thus,  adequate  monitoring  of 
+changes  in  beneficiary  access  to  care  is  critical  to  the  successful  implementation  of 
+physician  payment  reform. 
+
+The  Omnibus  Reconciliation  Act  of  1989  (OBRA89)  directs  the  Secretary  of  the 
+Department  of  Health  and  Human  Services  (HHS)  to  monitor  changes  in  beneficiary 
+utilization  of  and  access  to  care  and  to  report  annually  to  Congress  on  its  findings.  The 
+Secretary  is  to  report  on: 
+
+•  changes  in  the  utilization  of  and  access  to  services,  by  geographic  area,  population 
+category,  and  type  of  service;  and 
+
+
+•  possible  sources  of  inappropriate  utilization,  and  factors  underlying  changes  in 
+utilization  and  access,  including  factors  relating  to  different  services  and  to 
+geographic  and  demographic  variations  in  utilization. 
+
+In  addition,  the  Secretary  may  offer  recommendations  on:  measures  to  address  identified 
+patterns  of  inappropriate  utilization,  improvements  in  utilization  review,  physician 
+education  or  patient  education,  steps  to  address  any  problems  of  beneficiary  access  to  care 
+made  evident  by  the  monitoring  process,  and  on  any  other  matters  that  the  Secretary 
+deems  appropriate. 
+
+The  Secretary  issued  his  first  report  to  Congress  on  May  2,  1991.  OBRA89  directs  the 
+Commission  to  comment  on  the  HHS  report  when  it  is  issued  each  year.  The 
+Commission’s  comments  were  developed  in  consultation  with  its  Advisory  Panel  on  Access. 
+
+This  report  conveys  the  Commission’s  concerns  about  the  1991  HHS  plan  for  monitoring 
+changes  in  the  utilization  of  and  access  to  care.  The  first  section  summarizes  the 
+discussion  in  the  Secretary’s  1991  report.  The  next  section  discusses  the  Commission’s 
+recommendations  for  action  by  HHS.  Finally,  the  report  discusses  the  Commission’s  role 
+in  the  process  of  monitoring  changes  in  access  to  care. 
+
+
+THE  SECRETARY’S  1991  REPORT 
+
+The  HHS  report  emphasizes  the  importance  of  developing  data  systems  that  will  supply 
+the  information  needed  to  monitor  changes  in  utilization  and  access.  Over  the  last  several 
+years,  HHS  has  been  improving  upon  existing  data  systems  and  developing  data  systems. 
+Recent  improvements  include:  standardized  definitions  for  Part  B  claims  data,  the  addition 
+of  unique  physician  identifiers  to  claims  data,  improved  timeliness  and  accuracy  of  claims 
+data  because  of  the  OBRA89  requirement  for  direct  submission  of  claims  by  physicians, 
+and  the  development  of  the  National  Claims  History  System  (NCH).  Each  of  these 
+developments  should  improve  the  accuracy  and  timeliness  of  Medicare  claims  data. 
+
+Data  systems  under  development  by  HHS  include  the  Current  Beneficiary  Survey  (CBS), 
+the  Uniform  Clinical  Data  Set  (UCDS),  and  the  Medicare  Beneficiary  Health  Status 
+Registry  (Registry).  The  CBS  is  a  longitudinal  survey  of  a  large  sample  of  Medicare 
+beneficiaries.  It  will  gather  information  on  the  beneficiaries’  utilization  of  and 
+expenditures  for  medical  services,  health  status  and  functioning,  as  well  as  the 
+beneficiaries’  satisfaction  with  and  perceptions  of  problems  in  gaining  access  to  care.  In 
+addition,  the  CBS  will  be  linked  to  Medicare  claims  files,  making  available  detailed  data 
+on  actual  utilization.  The  Registry  is  a  proposed  longitudinal  data  base  that  would  include 
+a  beneficiary  survey  and  claims  files  which  would  allow  tracking  of  the  utilization  and 
+health  status  of  a  sample  of  beneficiaries  for  several  years  after  the  time  of  entrance  into 
+the  Medicare  program. 
+
+
+2 
+
+
+The  HHS  report  first  discusses  the  Department’s  proposed  efforts  to  track  changes  in 
+beneficiary  utilization.  HHS  plans  to  track  changes  in  overall  volume,  changes  in  the 
+volume  and  mix  of  services  across  areas,  changes  in  the  use  of  specific  types  of  services, 
+and  changes  for  special  population  groups.  The  report  also  discusses  the  problems  and 
+issues  with  interpreting  these  volume  changes. 
+
+It  goes  on  to  outline  the  Department’s  plans  for  analyzing  changes  in  access  to  care.  HHS 
+plans  to  center  its  analyses  around  measures  of  barriers  that  beneficiaries  encounter  in 
+attempting  to  use  services  and  the  extent  to  which  beneficiaries  receive  medically  necessary 
+care.  The  CBS  will  be  the  major  source  of  information  on  barriers  to  care.  Claims  data 
+will  be  used  to  analyze  patterns  and  changes  in  the  receipt  of  medically  necessary  care. 
+
+The  HHS  report  discusses  the  Department’s  approach  to  monitoring  changes  in  the 
+appropriateness  of  care.  It  notes  that  monitoring  appropriateness  will  require  the 
+development  of  guidelines  for  appropriate  care  and  measuring  Medicare  beneficiary  use 
+against  those  guidelines.  HHS  plans  to  rely  on  organizations  such  as  the  Agency  for 
+Health  Care  Policy  and  Research  as  a  source  of  practice  guidelines.  The  HHS  Health 
+Standards  and  Quality  Bureau,  through  Peer  Review  Organizations  (PRO),  will  do  the 
+monitoring  of  appropriateness  of  care.  The  Department  will  attempt  analyze  whether  any 
+trends  in  appropriateness  are  caused  by  payment  reform. 
+
+Finally,  the  report  outlines  the  Department’s  long-term  approach  to  monitoring  changes 
+in  the  outcomes  of  medical  care  that  beneficiaries  receive.  The  Department’s  analyses  will 
+center  around  three  important  outcomes  of  care:  functional  status,  the  need  for  follow-up 
+care,  and  survival.  Claims  data,  the  CBS,  PRO  data  and  the  Registry  will  supply  the 
+information  for  the  Department’s  analyses. 
+
+
+RECOMMENDATIONS  FOR  HHS  ACTION 
+
+Monitoring  of  changes  in  beneficiary  utilization  of  and  access  to  care  under  physician 
+payment  reform  will  be  a  vital  HHS  function  in  coming  years.  While  the  Department’s 
+is  developing  data  systems  that  will  collect  timely  and  usable  information,  the  Commission 
+recommends  that  HHS: 
+
+•  develop  a  standardized  system  for  the  routine  release  of  public  data  on  changes 
+in  utilization  of  and  access  to  care; 
+
+•  take  steps  to  assure  the  availability  of  baseline  data  for  analysis;  and 
+
+•  ensure  that  data  system  development  and  the  dissemination  of  data  proceed 
+rapidly. 
+
+The  Commission  further  recommends  that,  in  developing  its  plans  to  measure  changes  in 
+utilization,  access,  and  appropriateness,  HHS: 
+
+
+3 
+
+
+•  develop  plans  to  measure  utilization  and  access  changes  during  the  first  year  of 
+payment  reform  implementation;  and 
+
+•  refine  its  plans  for  long-run  analyses  of  changes  in  utilization  and  access,  including 
+a  special  focus  on  vulnerable  beneficiary  groups  and  measures  of  access 
+appropriate  to  those  groups. 
+
+The  following  section  discusses  the  Commission’s  recommendations  in  more  detail. 
+
+Data  Systems 
+
+Timely  and  accurate  data  on  the  utilization  experience  of  Medicare  beneficiaries  will  be 
+vital  to  the  success  of  efforts  to  measure  changes  in  access  to  care  under  physician 
+payment  reform.  HHS  has  made  large  strides  toward  developing  data  systems  that  will 
+produce  detailed  utilization  data  in  a  timely  fashion.  New  data  sources  being  developed 
+by  HHS  such  as  the  Current  Beneficiary  Survey,  the  National  Claims  History  System,  the 
+Medicare  Beneficiary  Health  Status  Registry,  and  the  Uniform  Clinical  Data  Set  will  be 
+important  sources  of  information  on  the  utilization  patterns  of  Medicare  beneficiaries. 
+
+These  new  data  sources  will  provide  much  more  detailed  utilization  data  than  is  currently 
+available.  The  CBS  will  provide  information  on  beneficiary  perceptions  of  changes  in 
+access  to  care.  Linked  to  both  Part  A  and  Part  B  claims  files  in  the  NCH  through  the 
+Common  Working  File  (CWF),  the  CBS  will  also  allow  tracking  of  the  actual  utilization 
+experience  of  respondents.  The  UCDS  will  allow  detailed  clinical  analyses  of  the  medical 
+treatment  beneficiaries  receive.  The  Registry  should  allow  tracking  of  changes  in  health 
+status  and  utilization  for  a  cohort  of  beneficiaries  from  the  time  of  entrance  into  the 
+program. 
+
+The  new  data  systems  will  also  make  data  available  much  more  quickly  than  it  is  currently. 
+The  CBS  data  should  become  available  for  analysis  4-6  months  after  the  completion  of  a 
+round  of  data  collection.  The  CWF  claims  authorization  process  will  reduce  the  lag 
+between  the  time  a  claim  is  paid  and  when  the  record  of  the  claim  becomes  available  for 
+analysis  from  a  year  or  more  to  close  to  half  a  year.  The  HHS  efforts  to  develop  more 
+timely  data  systems  are  laudable.  HHS  should  do  all  it  can  to  keep  up  this  momentum  to 
+get  these  data  systems  fully  operational. 
+
+There  are,  however,  two  major  problems  with  the  current  data  system  plans.  First,  in 
+order  to  assure  the  timely  release  of  data  to  the  public,  HHS  should  develop  a 
+standardized  data  reporting  system.  Additionally,  gauging  the  effects  of  payment  reform 
+on  access  will  require  the  availability  of  data  on  the  experience  of  beneficiaries  in  the 
+period  prior  to  the  implementation  of  reform. 
+
+Standardized  Reporting  System.  The  public  release  of  data  on  changes  in  access  is 
+important  to  maintaining  beneficiary  and  provider  confidence  in  the  payment  reform. 
+
+
+4 
+
+
+Beneficiary  groups,  physician  organizations  and  independent  researchers  concerned  with 
+changes  in  access  should  be  able  to  obtain  data  with  which  to  examine  improvements  or 
+deteriorations  in  access  under  payment  reform.  The  HHS  plans  do  not  include 
+mechanisms  for  assuring  that  data  is  released  routinely  to  the  public.  To  facilitate  the 
+timely  release  of  public  data,  HHS  should  develop  a  standardized  series  of  regularly 
+released  reports  on  measures  of  beneficiary  access  to  care.1  This  information  should  be 
+released  in  forms  that  are  relevant  to  the  issues  being  analyzed.  The  reports  should 
+include  changes  in  utilization  and  measures  of  access  to  care  by  geographic  area  and  for 
+potentially  vulnerable  segments  of  the  beneficiary  population. 
+
+Public  issuance  of  these  data  should  be  more  frequent  than  the  Secretary’s  annual  report 
+to  Congress.  While  the  Secretary’s  annual  report  should  include  the  Department’s 
+interpretation  of  these  data,  more  frequent  public  release  of  this  information  will  allow 
+other  interested  parties  to  interpret  these  data  as  well. 
+
+Baseline  Data.  The  HHS  discussion  of  data  systems  does  not  recognize  the  importance 
+of  developing  good  baseline  data  for  the  period  prior  to  implementation  of  payment 
+reform  in  January  1992.  The  Medicare  Fee  Schedule  will  be  a  significant  change  in 
+Medicare  payment  policy,  and  about  one-third  of  the  total  change  payment  levels  will 
+occur  in  the  first  year  of  implementation.  Information  on  the  period  prior  to  the  first 
+implementation  year  will  be  necessary  to  measure  changes  in  access  to  care  due  to 
+payment  reform. 
+
+According  to  the  HHS  report,  the  first  round  of  CBS  data  collection  will  not  begin  until 
+1992,  rather  than  in  1991  as  originally  planned.  HHS  staff  have  subsequently  indicated, 
+however,  that  the  report  was  in  error  and  that  data  collection  will  begin  in  the  Fall  of  1991. 
+Because  of  the  need  for  baseline  data  to  evaluate  the  effects  of  payment  reform,  the 
+Commission  considers  it  imperative  that  the  first  round  of  data  collection  of  the  CBS  begin 
+on  schedule  in  the  fall  of  this  year. 
+
+Baseline  claims  data  for  the  period  before  1992  will  also  be  needed  to  assess  changes  in 
+access.  To  measure  the  effects  of  the  changes,  it  will  be  important  to  compare  utilization 
+patterns  from  claims  data  for  years  prior  to  1992  with  the  patterns  in  1992  and  beyond. 
+To  facilitate  the  development  of  information  on  the  pre-1992  experience,  HHS  should 
+release  1990  and  1991  claims  data  as  soon  as  possible. 
+
+Timeliness  of  Data.  In  addition  to  the  data  system  problems  identified  above,  the 
+Commission  wishes  to  emphasize  the  importance  of  timely  release  of  data  from  Medicare 
+claims  files,  the  CBS,  the  Registry  and  the  UCDS.  The  Department  should  make  every 
+
+
+1  The  routine  reporting  of  labor  statistics  from  the  Bureau  of  Labor  Statistics  is  an  analog  for  this  type  of  data 
+reporting. 
+
+
+5 
+
+
+effort  to  see  that  the  time  between  data  collection  and  the  dissemination  of  data  to  the 
+Commission  and  other  researchers  is  minimal 
+
+Measuring  And  Analyzing  Changes  In  The  Utilization  Of  And  Access  To  Care 
+
+The  HHS  report  includes  no  plans  for  short-run  (ie.  during  1992)  monitoring  of  changes 
+in  access  and  lacks  detail  on  the  Department’s  analytical  approach  to  long-run  analyses  of 
+access  to  care.  It  is  imperative  that  HHS  attempt  to  monitor  changes  in  beneficiary  access 
+during  the  first  year  of  payment  reform.  Both  short  and  long  run  analyses  will  require 
+consideration  of  the  beneficiary  groups  whose  access  to  care  may  be  affected  by  payment 
+reform  and  appropriate  measures  of  access  to  care. 
+
+Short-run  Analyses.  Physician  payment  reform  could  cause  significant  changes  in  the 
+levels  of  payment  for  various  types  of  physician  services.  Under  the  Medicare  Fee 
+Schedule,  payments  for  evaluation  and  management  services,  on  average,  will  rise  while 
+payments  for  surgical  and  technical  procedures  will  fall.  Payments  will  typically  increase 
+in  rural  areas  and  fall  in  urban  areas.  Payment  levels  could  change  quite  substantially. 
+When  the  Medicare  Fee  Schedule  is  fully  implemented,  fees  for  many  surgical  and 
+technical  procedures  will  fall  roughly  30  percent,  while  fees  for  primary  care  services  will 
+rise  roughly  30  percent.  At  the  same  time,  physicians’  ability  to  bill  beneficiaries  for  the 
+balance  of  their  charge  will  be  substantially  limited.  By  1993,  balance  billing  for  any 
+service  will  be  limited  to  just  over  9  percent  of  the  fee  schedule  amount  for  participating 
+physicians.  Despite  the  balance  billing  limit,  beneficiary  copayments  could  rise  for  services, 
+like  primary  care,  that  will  increase  under  the  Medicare  Fee  Schedule. 
+
+Since  the  Medicare  Fee  Schedule  will  be  phased  in  over  a  number  of  years,  only  part  of 
+the  payment  shifts  will  occur  in  the  first  year  of  implementation.  Approximately  one-third 
+of  the  total  change  in  payment  rates  will  occur  in  1992,  however,  more  than  in  any  other 
+single  year.  These  first-year  payment  level  changes  are  anticipated  to  be  particularly  large 
+for  some  services.  If  these  changes  in  physician  payment  or  in  beneficiary  liability  for  the 
+balance  of  the  physician  bill  cause  changes  in  access  to  care,  these  effects  may  well  appear 
+during  the  first  year  of  implementation  and  could  continue  to  develop  over  the  full  course 
+of  implementation.  It  will  be  important,  therefore,  to  monitor  any  changes  in  beneficiary 
+access  to  care  during  1992  as  well  as  changes  that  occur  over  the  entire  implementation 
+period. 
+
+The  HHS  monitoring  plans  concentrate  primarily  on  the  long-run  analysis  of  access 
+changes.  HHS  should  be  developing  plans  to  measure  any  changes  in  access  that  occur 
+during  the  initial  phase  of  payment  reform  implementation.  While  it  may  be  difficult  in 
+the  first  year  to  pinpoint  with  any  surety  access  changes  due  to  payment  reform,  HHS 
+should  attempt  to  track  major  changes  or  problem  areas  during  the  first  year.  Early 
+identification  of  significant  problems  will  allow  for  refinement  of  the  policy  before  it  is 
+fully  implemented. 
+
+
+6 
+
+
+The  data  required  to  monitor  short-run  changes  in  access  to  care  should  be  readily 
+available  to  HHS.  Claims  data  through  the  CWF  will  be  available  routinely  throughout 
+1992.  HHS  could  identify  geographic  areas  or  procedures  with  the  largest  payment 
+changes  and  track  utilization  changes  through  the  claims  data.  It  could  also  identify 
+potentially  vulnerable  beneficiary  groups  and  track  their  utilization  experience  during  1992. 
+Claims  data  from  prior  years  would  provide  a  baseline  against  which  to  gauge 
+improvements  or  deteriorations  in  access  to  care.  Information  from  the  first  round  of  the 
+CBS  could  also  point  to  potential  problem  areas  or  beneficiary  groups.  In  addition  to 
+these  large  data  sets,  the  Department  could  consider  other  sources  of  information  on 
+short-run  changes  in  access.  Beneficiary  focus  groups  and  surveys  of  carriers,  for  example, 
+might  help  to  identify  short-run  access  problems. 
+
+Long-run  Analyses.  HHS’s  long  run  monitoring  plans  could  be  considerably  improved  with 
+a  more  detailed  consideration  of  measures  of  access  to  care  and  approaches  to  analyzing 
+changes  in  access.  The  HHS  report  identifies  three  "definitions"  of  access:  "measures  of 
+financial  aspects  surrounding  access  to  care,  ...the  nature  and  prevalence  of  barriers  to 
+securing  care,...  [and]  whether  beneficiaries  receive  medically  necessary  services."  The 
+report  briefly  discusses  several  strategies  for  analyzing  changes  in  these  measures  of  access. 
+
+As  the  HHS  report  recognizes,  access  is  not  easily  definable  and  is  thus  not  easily 
+measurable.  HHS’s  three  definitions  of  access  to  care  could  be  operationalized  in  a 
+number  of  different  ways.  The  Commission,  with  the  advice  of  its  Advisory  Panel  on 
+Access  has  developed  a  list  of  measures  that  HHS  should  consider  using  in  its  analyses 
+(see  Appendix  B). 
+
+HHS’s  analytical  strategies  for  monitoring  changes  in  access  to  care  also  need  more 
+development.2  As  the  Commission’s  workplan  described  in  the  next  section  and  in 
+Appendix  B  illustrates,  a  number  of  approaches  to  measuring  changes  in  beneficiary  access 
+to  care  could  potentially  yield  valuable  information  on  changes  in  access.  In  particular,  the 
+Commission  recommends  that  HHS  consider  focusing  analyses  on  potentially  vulnerable 
+groups  of  beneficiaries. 
+
+
+COMMISSION’S  MONITORING  PLANS 
+
+Monitoring  changes  in  beneficiary  utilization  of  and  access  to  care  under  payment  reform 
+will  be  an  important  part  of  the  Commission’s  work  during  the  implementation  phase  of 
+reform.  Thus,  the  Commission  is  developing  its  own  plans  for  monitoring  and  analyzing 
+changes  in  utilization  and  access. 
+
+
+2  The  report  states  that  "part  of  HCFA’s  research  agenda  in  access  to  care  is  described  in  a  forthcoming  grant 
+announcement."  The  grant  announcement  may  contain  more  detail  on  the  HHS  plans. 
+
+
+7 
+
+
+The  Commission’s  initial  monitoring  and  analysis  activities  will  focus  on  changes  in 
+utilization  and  access  rather  than  on  appropriateness.  The  Commission  has  chosen  this 
+strategy  in  the  belief  that  during  the  initial  years  of  payment  reform  implementation, 
+deteriorations  and  improvements  in  access  to  care  are  of  principal  concern  and  are  more 
+measurable  than  changes  in  outcomes  or  appropriateness  of  care.  Analyses  of  changes  in 
+appropriateness  and  outcomes  are  important  and  may  be  included  in  later  phases  of  the 
+Commission’s  workplan,  but  they  require  information  on  patterns  of  care  across  long  time 
+periods. 
+
+OBRA89  required  that  the  Commission  consult  with  a  panel  of  experts  in  commenting  on 
+the  Secretary’s  report.  The  Commission  convened  a  panel  of  highly  knowledgeable 
+individuals  including  physicians,  beneficiary  representatives,  and  health  services  researchers 
+(see  list  of  members  of  the  Advisory  Panel  on  Access  in  Appendix  1).  The  Commission 
+saw  the  value  of  making  broader  use  of  this  group,  not  just  to  comment  annually  on  the 
+Secretary’s  report,  but  to  advise  on  the  Commission’s  workplan  in  this  area. 
+
+In  February  1991,  the  Advisory  Panel  on  Access  began  working  with  Commission  staff  to 
+develop  plans  to  monitor  and  analyze  changes  in  access.  The  Commission’s  workplan 
+includes  both  short-run  (during  the  first  year  of  payment  reform  implementation)  and 
+longer-run  analyses.  The  Panel  helped  to  identify  potentially  useful  measures  of  access  to 
+care  and  strategies  for  tracking  changes  in  those  measures.  The  Commission’s  workplan, 
+summarized  briefly  below,  is  discussed  in  more  detail  in  Appendix  B. 
+
+The  Commission  analyses  will  employ  a  number  of  different  measures  of  access.  For 
+example,  access  will  be  measured  by  the  use  of  primary  care  and  preventive  services. 
+Measures  of  primary  care  use  include  physician  visit  rates,  the  number  of  home  visits,  the 
+ratio  of  outpatient  visits  to  hospitalizations,  and  emergency  room  visits.  The  use  of 
+preventive  services  such  as  mammography  and  immunizations  will  also  provide  a  measure 
+of  access  to  care.  Another  possible  measure  of  access  relies  on  sentinel  events,  health  care 
+incidents  that  either  should  not  occur  or  should  occur  only  rarely  if  beneficiaries  have 
+
+timely  access  to  adequate  primary  care.3  The  stage  of  disease  at  first  treatment  and 
+
+* 
+
+mortality  may  also  be  indicators  of  access. 
+
+Several  areas  of  analysis  will  center  around  measures  of  provider  activity  or  provider 
+behavior,  since  beneficiary  access  may  be  affected  by  physician  responses  to  changes  in 
+fees  under  the  Medicare  Fee  Schedule.  For  example,  changes  in  Medicare  payment  rates 
+could  cause  physicians  to  limit  the  number  of  Medicare  patients  that  they  treat. 
+Therefore,  changes  in  the  concentration  of  Medicare  visits  among  physicians  may  be  an 
+indicator  of  changes  in  access.  The  number  of  beneficiaries  changing  physicians  might  be 
+an  additional  indicator  of  physician  willingness  to  serve  Medicare  beneficiaries.  Also, 
+
+
+3  Hospitalization  with  uncontrolled  diabetes  is  an  example. 
+
+
+8 
+
+
+increased  use  of  public  hospital  facilities  by  Medicare  beneficiaries  may  be  an  indicator 
+of  reduced  access  to  private  physicians. 
+
+Some  of  the  monitoring  of  changes  in  access  will  center  on  potentially  vulnerable  groups 
+of  beneficiaries.  For  example,  analyses  will  track  changes  in  access  for  beneficiaries  with 
+few  financial  resources.  These  beneficiaries  include  those  without  supplemental  coverage 
+(Medigap)  and  low-income  beneficiaries.  Approximately  20  percent  of  beneficiaries  have 
+neither  Medicaid  coverage  nor  Medigap  insurance.  Qualified  Medicare  Beneficiaries 
+(QMBs),  those  beneficiaries  whose  cost  sharing  amounts  are  paid  by  Medicaid  but  who 
+receive  no  other  Medicaid  services,  could  be  adversely  affected  by  changes  in  physician 
+payment.  Dual  eligibles,  beneficiaries  receiving  both  Medicare  and  Medicaid,  may  also 
+face  new  barriers  to  access. 
+
+The  Commission  will  also  track  those  beneficiaries  with  special  medical  needs  or  that  are 
+difficult  for  physicians  to  care  for.  Special  attention  will  be  given  to  monitoring  access  for 
+the  institutionalized,  the  mentally  and  physically  disabled,  and  the  very  elderly. 
+
+
+9 
+
+
+APPENDIX  A 
+
+MEMBERS  OF  THE  ADVISORY  PANEL  ON  ACCESS 
+
+
+Perham  Amsden 
+
+American  Association  of  Retired  Persons 
+
+Robert  Blendon,  Sc.D. 
+
+Harvard  School  of  Public  Health 
+
+Geraldine  Dallek 
+Medicare  Advocacy  Project 
+
+Charles  H.  Epps,  M.D. 
+
+Howard  University  College  of  Medicine 
+
+Lynn  Etheredge 
+
+Independent  Consultant,  Washington,  D.C. 
+
+Harold  P.  Freeman,  M.D. 
+
+Harlem  Hospital  Center 
+
+Lucian  Leape,  M.D. 
+
+Harvard  School  of  Public  Health 
+
+Stephen  H.  Long,  Ph.D. 
+
+RAND  Corporation 
+
+Nicole  Lurie,  M.D. 
+
+Department  of  Medicine 
+Hennepin  County  Medical  Center 
+
+Ira  Moscovice,  Ph.D. 
+
+School  of  Public  Health 
+University  of  Minnesota 
+
+Martin  F.  Shapiro,  M.D. 
+
+UCLA  School  of  Medicine 
+
+Barbara  Yawn,  M.D. 
+
+Private  Practice  of  Medicine,  Rochester,  MN 
+
+
+10 
+
+
+APPENDIX  B 
+
+DRAFT  WORKPLAN  ON  ACCESS  TO  CARE 
+
+
+BACKGROUND 
+
+
+The  Physician  Payment  Review  Commission’s  Advisory  Panel  on  Access  was  convened  to 
+help  the  Commission  develop  comments  on  the  Secretary  of  Health  and  Human  Services’ 
+report  on  utilization,  access,  and  quality.  To  achieve  this  end,  the  Commission  asked  its 
+Panel  on  Access  to  outline  a  feasible  system  for  monitoring  changes  in  beneficiaries’  access 
+to  care.  The  Panel  met  on  February  15,  1991  and  suggested  a  number  of  approaches  in 
+this  area.  At  a  second  meeting  on  April  22,  1991  the  Panel  refined  a  workplan  for 
+monitoring  access  to  care. 
+
+This  appendix  summarizes  the  Commission’s  draft  workplan  for  monitoring  access  to  care. 
+It  brings  together  both  a  conceptual  framework  and  detailed  technical  information  on 
+HCFA  data  processing  systems  and  on  the  calculation  of  various  indicators  of  access.  In 
+addition,  it  presents  options  for  monitoring  changes  in  Medicare  beneficiaries’  access  to 
+care  using  data  that  are  collected  currently  or  will  be  routinely  collected  beginning  in  1992. 
+
+
+MONITORING  ACCESS:  THE  CONCEPTUAL  FRAMEWORK 
+
+When  considering  how  to  measure  access,  the  Panel  favored  an  approach  of  monitoring 
+trends  in  various  access  measures  for  very  tightly  defined  populations.  Broadly-based 
+aggregate  utilization  statistics  are  insufficient  for  detecting  changes  in  access  to  care. 
+Monitoring  must  focus  on  the  types  of  individuals  and  geographic  areas  that  are  most 
+vulnerable  to  reductions  in  access  or  that  are  most  in  need  of  increased  access  to  care. 
+Measures  of  access  to  care  must  be  as  specific  as  possible. 
+
+In  considering  when  to  monitor  access,  the  Panel  suggested  a  two-pronged  strategy.  First, 
+some  means  to  monitor  access  should  be  in  place  prior  to  January  1,  1992.  This  will 
+assure  timely  response  to  any  problems  that  may  develop,  and  may  provide  much-needed 
+objective  data  during  the  early  implementation  of  Part  B  payment  reform.  However,  more 
+refined  measures  of  access  should  be  developed  in  later  years  as  better  and  more 
+comprehensive  data  become  available. 
+
+In  considering  who  should  monitor  access,  the  Panel  had  fewer  substantive 
+recommendations.  The  Health  Care  Financing  Administration  (HCFA)  has  the  most 
+direct  use  of  Medicare  claims  and  other  files.  The  Commission  strongly  endorses  the 
+timely  public  release  of  utilization  and  access  statistics  by  HCFA.  This  will  allow  all 
+interested  parties  to  track  developments  in  beneficiary  access  to  care.  Finally,  the 
+Commission  will  undertake  its  own  research  on  beneficiary  access  to  care  based  on  HCFA 
+administrative  data  and  other  data  sources. 
+
+
+TECHNICAL  NOTES  ON  MEASURES  OF  ACCESS 
+
+The  Panel’s  approach  to  monitoring  access  is  based  on  comparing  trends  in  utilization 
+across  various  populations  and  geographic  areas.  The  Panel  identified  the  specific 
+
+
+12 
+
+
+geographic  areas,  vulnerable  populations,  and  measures  of  utilization  most  relevant  to 
+monitoring  access.  Many  of  these  access  measures  may  feasibly  be  tracked  using  HCFA 
+administrative  data,  but  others  may  require  special  data  collection  efforts. 
+
+The  geographic  areas  of  interest  are  of  two  types:  areas  in  which  fees  are  low  or  falling, 
+and  areas  in  which  financial  or  health  care  resources  are  already  stretched  thin. 
+Identification  of  the  first  type  of  area  is  fairly  straightforward  using  Medicare  and  private- 
+sector  claims  files.  Identification  of  the  second  type  of  area  may  sometimes  be  more 
+difficult.  In  particular,  inner  city  areas  and  Health  Professional  Shortage  Areas  (HPSAs) 
+are  based  on  small  and  diverse  geographic  units  and  will  require  considerable  effort  to 
+identify. 
+
+Vulnerable  populations  are  again  of  two  distinct  types:  those  with  few  financial  resources, 
+and  those  with  special  health  care  needs.  It  is  possible  to  identify  the  elderly  poor  and 
+near-poor  beneficiaries  when  states  purchase  Part  B  coverage  on  their  behalf,  for 
+example,  dual  eligible  Medicare/Medicaid  beneficiaries  and  Qualified  Medicare 
+Beneficiaries.  However,  HCFA  administrative  data  may  not  allow  other  financially 
+vulnerable  populations,  such  as  those  without  Medigap  coverage,  to  be  identified. 
+Beneficiaries  with  special  health  care  needs  include  the  institutionalized,  the  mentally  and 
+physically  disabled,  persons  with  end  stage  renal  disease  (ESRD),  and  the  very  elderly. 
+Most  of  these  populations  could  be  adequately  tracked  using  administrative  files  and  Social 
+Security  Administration  data. 
+
+Tightly-targeted  measures  of  access  can  be  constructed  from  several  types  of  utilization 
+data.  First,  clinically-based  utilization  measures  may  indicate  the  presence  of  access 
+barriers.  Hospitalization  for  certain  "sentinel  events",  presence  of  advanced  stages  of  a 
+disease,  and  excess  mortality  may  all  indicate  inadequate  primary  care.  Other  utilization 
+measures  indicate  good  access  to  care,  including  the  use  of  primary  care  and  preventive 
+services.  All  of  these  measures  are  fairly  easy  to  calculate  from  Medicare  administrative 
+data. 
+
+Other  measures  center  around  providers  rather  than  beneficiaries.  Public  urban  hospitals 
+and  clinics  are  generally  thought  to  be  providers  of  last  resort  for  many  populations. 
+Hence,  a  shift  of  beneficiary  care  to  these  settings  could  signal  difficulty  in  receiving  care 
+in  private  physician  offices.  Similarly,  an  increased  concentration  of  Medicare  services 
+among  fewer  physicians  might  indicate  reduced  access  to  mainstream  health  care. 
+However,  tracking  the  number  of  physicians  serving  Medicare  beneficiaries  appears 
+difficult  prior  to  1992. 
+
+
+TECHNICAL  NOTES  ON  SOURCES  AND  USES  OF  DATA 
+
+In  the  short  run,  the  principal  source  of  timely  data  is  HCFA’s  core  claims  file,  the 
+Common  Working  File  (CWF).  The  CWF  is  a  new  claims  processing  system  that  captures 
+all  Part  B  physician  services  claims  in  a  single  centralized  location.  Extracts  from  this  file 
+could  be  used  immediately  to  calculate  access  measures  based  on  service  utilization. 
+Alternatively,  special-purpose  surveys  of  beneficiaries  or  physicians  might  be  commissioned 
+during  the  early  stages  of  implementation  of  physician  payment  reform. 
+
+
+13 
+
+
+Over  the  longer  term,  many  additional  sources  of  data  become  available.  Part  B  Medicare 
+Annual  Data  (BMAD)  files  summarize  a  year’s  worth  of  claims  activity,  and  could  be  used 
+in  much  the  same  way  as  the  CWF.  In  addition,  national  surveys  of  beneficiaries  and 
+physicians  may  be  used  to  look  at  access  issues  directly.  Finally,  several  significant  sources 
+of  non-Medicare  data  may  be  available  for  tracking  utilization  trends  in  the  non-Medicare 
+population.  Divergences  between  Medicare  and  non-Medicare  utilization  could  signal  a 
+loss  of  access  by  beneficiaries. 
+
+
+SUMMARY  AND  TENTATIVE  WORKPLAN 
+
+The  Commission’s  first  priority  is  to  develop  feasible  access  measures  that  may  be 
+implemented  prior  to  1992.  Given  the  limited  time  frame,  monitoring  should  probably 
+focus  on  readily  available  HCFA  claims  data  sets  consisting  of  Part  B  claims  for  the 
+standard  5  percent  beneficiary  sample,  and  Part  A  inpatient  claims  for  all  beneficiaries. 
+Several  years  of  these  files  are  available,  allowing  the  various  measures  of  access  to  care 
+to  be  tested  on  historical  data. 
+
+The  Commission  will  also  consider  available  survey  information  and  will  consider  fielding 
+its  own  survey  of  beneficiaries.  While  perhaps  less  precise  than  claims-based  analysis, 
+surveys  could  directly  address  questions  of  access  to  care  in  a  timely  fashion. 
+
+Finally,  the  Commission  reiterates  its  belief  that  HCFA  should  routinely  report  detailed 
+Part  A  and  Part  B  utilization  statistics  in  a  manner  that  will  allow  other  interested  parties 
+to  assess  changes  in  beneficiaries’  access  to  care.  A  common  set  of  data  available  to  all 
+would  enhance  dialogue  on  beneficiaries’  access  to  care  and  preserve  confidence  in  the 
+Medicare  program. 
+
+
+14 
+
+
+MONITORING  ACCESS: 
+THE  CONCEPTUAL  FRAMEWORK 
+
+
+Three  broad  strategic  areas  need  to  be  addressed  in  monitoring  the  access  impacts  of 
+physician  payment  reform.  First,  how  should  access  to  care  be  measured?  Second,  when 
+should  it  be  measured,  in  the  short  run  or  in  the  long  run?  Finally,  who  should  be 
+responsible  for  monitoring  changes  in  access? 
+
+
+HOW  TO  MEASURE  ACCESS  TO  CARE:  AREAS,  POPULATIONS,  AND  MEASURES 
+
+The  Panel  suggested  monitoring  access  by  tracking  trends  in  utilization  across  populations 
+and  geographic  areas.  Populations  or  areas  most  vulnerable  to  reductions  in  access  will 
+be  contrasted  to  populations  and  areas  in  which  access  problems  are  unlikely  to  develop. 
+Declines  in  access  measures  for  those  most  at  risk  relative  to  those  least  at  risk  would  be 
+a  warning  that  beneficiaries  may  be  having  a  greater  difficulty  obtaining  adequate  care. 
+
+This  approach  requires  that  the  areas,  populations,  and  measures  be  as  tightly  defined  as 
+possible.  Access  is  likely  to  deteriorate  first  for  small  subsets  of  the  population  or  for 
+specific  types  of  medical  care.  For  example,  problems  may  be  more  likely  to  arise  in  those 
+geographic  areas  having  the  steepest  fee  reductions.  Within  those  areas,  the  impact  might 
+be  most  strongly  felt  by  beneficiaries  with  exceptional  needs,  such  as  the  home-bound, 
+institutionalized,  or  mentally  disabled.  For  these  beneficiiaries,  reductions  might  first 
+appear  in  specialty  services.  A  broad-based,  untargeted  approach  to  monitoring  access 
+might  never  detect  these  deteriorations  in  access  or  might  detect  changes  only  after 
+substantial  problems  had  already  developed. 
+
+Because  such  a  narrowly  targeted  approach  is  called  for,  the  Panel  identified  specific 
+geographic  areas,  vulnerable  populations,  and  measures  of  access.  These  are  outlined 
+briefly  here,  and  in  more  detail  in  a  later  section  of  this  appendix. 
+
+Geographic  Areas 
+
+The  panel  identified  a  number  of  geographic  areas  that  should  be  studied  separately.  First 
+and  most  obviously,  areas  where  Medicare  rates  will  be  substantially  below  private  sector 
+rates,  and  areas  where  Medicare  rates  will  fall  most  substantially  should  be  analyzed 
+separately.  Physicians  in  these  areas  will  have  the  lowest  financial  incentives  to  serve 
+Medicare  beneficiaries.  Second,  areas  with  physician  shortages,  such  as  Health 
+Professional  Shortage  Areas  (HPSAs)  should  be  given  particular  attention.  Finally,  inner 
+city  areas  and  frontier  rural  areas  generally  suffer  both  from  poverty  and  from  a  lack  of 
+providers,  and  so  would  be  most  vulnerable  to  reductions  in  access  if  even  a  few  physicians 
+became  reluctant  to  treat  Medicare  beneficiaries. 
+
+
+15 
+
+
+Vulnerable  Populations 
+
+
+The  Panel  identified  several  vulnerable  populations  that  should  be  the  focus  of  monitoring 
+efforts.  One  such  population  consists  of  beneficiaries  who  have  limited  ability  to  pay  for 
+services.  This  includes  beneficiaries  without  supplemental  coverage  (often  referred  to  as 
+Medigap),  and  low-income  beneficiaries,  including  Qualified  Medicare  Beneficiaries 
+(QMBs)  and  beneficiaries  receiving  both  Medicare  and  Medicaid.  A  second  vulnerable 
+population  consists  of  beneficiaries  with  complex  or  ongoing  medical  needs,  individuals 
+who  may  be  more  difficult  or  less  remunerative  for  physicians  to  treat.  This  population 
+includes  the  institutionalized,  the  mentally  and  physically  disabled,  persons  with  end  stage 
+renal  disease  (ESRD),  and  the  very  elderly. 
+
+Measures  Of  Access 
+
+The  panel  suggested  several  approaches  to  measuring  changes  in  access  to  care  for  these 
+target  populations.  One  such  approach  was  the  incidence  of  sentinel  events,  which  are 
+medical  events  which  should  happen  only  rarely  if  beneficiaries  are  receiving  adequate 
+care.  For  example,  hospitalizations  for  diabetes  and  hypertension  might  indicate 
+insufficient  primary  care  and  outpatient  management.  A  second  measure  was  the  stage 
+of  disease  at  presentation.  Persons  with  poor  access  typically  present  at  an  advanced  stage 
+of  disease.  Similarly,  excess  mortality  may  be  an  indicator  that  proper  care  is  not  being 
+received.  Other  measures  are  more  directly  linked  to  good  access  to  care.  These  include 
+the  use  of  preventive  services,  and  the  use  of  primary  care  services.  In  both  cases,  higher 
+use  rates  indicate  a  lower  likelihood  of  poor  access  to  care. 
+
+Other  measures  of  access  were  based  on  providers  of  care.  First,  the  Panel  suggests  that 
+utilization  in  public  urban  hospitals  and  clinics  may  be  an  indicator  of  poor  access.  These 
+institutions  are  generally  thought  to  be  providers  of  last  resort  for  many  populations. 
+Hence,  a  shift  of  beneficiary  care  to  these  settings  could  signal  difficult  in  receiving  care 
+in  private  physician  offices.  Second,  the  Panel  suggested  that  an  increasing  concentration 
+of  care  among  fewer  physicians  might  indicate  a  loss  of  access  to  mainstream  medical  care. 
+The  Panel  suggested  tracking  the  fraction  of  physicians  serving  Medicare  patients,  the 
+concentration  of  Medicare  services  across  physicians,  the  number  of  beneficiaries  changing 
+physicians,  and  reasons  for  loss  of  usual  source  of  care. 
+
+
+WHEN  TO  MEASURE  ACCESS  TO  CARE:  IMMEDIATELY  AND  IN  THE  LONGER 
+TERM 
+
+In  considering  when  to  measure  access,  the  Panel  suggested  that  some  system  for 
+monitoring  access  should  be  in  place  by  1992,  and  that  more  detailed  analysis  should  be 
+performed  in  later  years  as  more  complete  and  detailed  data  became  available.  The  large 
+payment  changes  that  will  occur  in  1992  suggest  that  access  problems,  or  at  least  the 
+perception  of  access  problems,  may  begin  to  develop  immediately  after  implementation  of 
+payment  changes.  Thus,  a  system  for  monitoring  changes  in  access  should  be  in  place 
+prior  to  the  implementation  of  payment  reform  in  1992.  However,  monitoring  is  also 
+needed  in  the  longer  run.  Many  of  the  effects  of  the  payment  changes,  and  many  of  the 
+
+
+16 
+
+
+more  detailed  datasets  will  not  be  available  until  several  years  into  the  transition  to  the 
+new  physician  payment  rates. 
+
+The  Immediate  Need  For  Measures  Of  Access  To  Care 
+
+There  are  three  rationales  for  putting  some  access  monitoring  process  into  place  in  time 
+for  the  1992  implementation  of  physician  payment  reform.  First,  there  may  be  immediate 
+and  real  reductions  in  access  due  to  the  payment  changes.  Second,  it  may  require  several 
+years  to  identify  and  address  problems  in  access  if  we  rely  solely  on  detailed  annual 
+datasets  such  as  the  Current  Beneficiary  Survey.  Finally,  hard  evidence  on  changes  in 
+access  to  care  may  be  particularly  useful  during  the  initial  phases  of  payment  reform. 
+
+The  first  factor  to  consider  is  the  probability  that  problems  in  access  will  develop  soon 
+after  January  1,  1992.  This  is  of  course  difficult  to  assess.  Part  B  payment  restraints 
+through  1989  do  not  seem  to  have  caused  reductions  in  access  for  the  typical  beneficiary. 
+However,  this  may  not  extrapolate  to  the  large  payment  changes  that  will  take  place  in 
+1992  and  later  years. 
+
+Perhaps  the  most  positive  statement  that  can  be  made  is  that  problems  are  more  Likely  to 
+occur  with  physician  payment  reform  than  they  were  with  Medicare  hospital  payment 
+reform.  A  comparison  of  physician  payment  reform  and  the  Medicare  Prospective 
+Payment  System  (PPS)  shows  why  that  may  be  true. 
+
+First,  payments  during  the  initial  years  of  PPS  were  quite  generous,  with  hospital  operating 
+profit  margins  exceeding  14  percent  on  average.  In  contrast,  real  Part  B  fees  have  fallen 
+15  percent  since  1988,  and  may  continue  to  fall  after  1992  due  to  certain  technical  aspects 
+of  the  transition  to  the  new  fee  schedule.  Second,  PPS  generated  smaller  initial  changes 
+in  payment  rates,  with  75  percent  of  inpatient  operating  payments  and  100  percent  of 
+other  payments  (capital,  outpatient  services)  based  on  the  hospital’s  own  cost  experience. 
+In  contrast,  all  provider-specific  rates  disappear  during  the  first  year  of  physician  payment 
+reform,  and  locality-wide  average  payments  are  the  only  vestige  of  the  current  system  that 
+will  remain  after  1991.  Finally,  the  typical  hospital  may  have  been  unable  to  reduce  its 
+Medicare  patient  load.  Medicare  accounts  for  about  40  percent  of  hospital  inpatient 
+revenue,  and  the  decision  to  admit  patients  is  made  by  the  physician,  not  the  hospital.  In 
+contrast,  Medicare  constitutes  a  smaller  proportion  of  revenues  for  many  specialties,  and 
+physicians  have  a  direct  financial  interest  in  the  level  of  Part  B  fees. 
+
+The  second  factor  arguing  for  immediate  monitoring  of  access  is  the  length  of  time 
+necessary  to  obtain,  analyze,  and  act  upon  the  detailed  annual  datasets  to  be  produced  by 
+HCFA.  The  first  of  these  datasets  will  appear  only  in  late  1993  or  early  1994.  The  cycle 
+of  analysis,  recommendation,  and  legislation  could  take  another  year,  meaning  that 
+problems  occurring  in  1992  might  not  be  corrected  until  1995.  Given  this  lag,  it  may  not 
+be  advisable  to  wait  for  complete  annual  data  sets  before  judging  increases  or  decreases 
+in  access  to  care. 
+
+A  final  factor  to  consider  is  the  need  for  solid  objective  data  during  the  initial  transition 
+to  the  fee  schedule.  Any  program  change  of  this  magnitude  is  likely  to  generate 
+considerable  criticism  and  negative  anecdotal  evidence.  This  could  create  a  perception  of 
+
+
+17 
+
+
+reduced  access  even  if  access  is  not  in  fact  reduced.  Clear  and  unambiguous  information 
+during  this  period  may  help  maintain  the  integrity  of  the  reforms  during  their  initial 
+implementation. 
+
+The  Need  For  Long-Run  Monitoring  Of  Access 
+
+There  are  several  reasons  to  develop  measures  of  access  that  cannot  be  implemented  until 
+several  years  after  1992.  First,  many  of  the  potential  impacts  of  payment  changes  may 
+take  some  time  to  appear.  Second,  better  data  become  available  as  time  passes.  Third, 
+a  longer  time  frame  allows  more  fine  tuning  and  testing  of  access  measures. 
+
+One  reason  to  pursue  access  monitoring  over  the  longer  term  is  that  the  impacts  of 
+payment  reform  may  not  be  fully  felt  until  years  later.  First,  while  payment  rates  will 
+change  most  dramatically  in  1992,  rates  will  continue  to  change  through  1996.  Many 
+physician  practices  seeing  a  decline  in  fees  in  1992  will  probably  see  further  declines  in 
+later  years.  Second,  physicians  and  beneficiaries  may  take  several  years  to  react  to  the 
+new  rates,  modifying  practice  patterns  and  payer  mix  over  the  course  of  the  transition. 
+Finally,  the  health  effects  of  some  types  of  reduced  access  to  care  may  take  years  to 
+develop.  In  particular,  measures  based  on  death  rates  and  on  hospitalization  for  sentinel 
+events  may  not  change  until  well  after  access  to  primary  care  has  declined. 
+
+A  second  reason  for  planning  a  long-term  access  strategy  is  that  more  complete  and 
+detailed  data  become  available.  Immediately  available  data  may  be  limited  to  simple 
+claims  writeoffs.  These  files  are  always  subject  to  uncertainty  due  to  fluctuations  in  the 
+number  of  outstanding  unprocessed  claims  (claims  runout),  and  they  will  not  include 
+information  on  such  items  as  health  status.  Annually  produced  datasets  would  include  the 
+Current  Beneficiary  Survey  (CBS)  and  the  Part  B  Medicare  Annual  Data  (BMAD)  files 
+from  HCFA,  and  the  Health  Interview  Survey  from  the  National  Center  for  Health 
+Statistics.  These  files  are  not  subject  to  the  uncertainties  caused  by  claims  runout  and  they 
+contain  more  complete  information  on  the  beneficiaries.  However,  complete  annual  data 
+are  typically  not  available  until  one  to  two  years  after  data  collection  ends,  meaning  that 
+the  first  detailed  analysis  of  the  access  impacts  of  the  1992  changes  cannot  be  made  until 
+late  1993  or  early  1994.1 
+
+Finally,  much  of  the  developmental  work  for  the  proposed  measures  of  access  still  needs 
+to  be  done.  Reliable  measures  of  access  may  not  be  available  in  time  for  the  initial 
+implementation  of  payment  reform.  In  the  interim,  research  may  be  directed  toward 
+developing  and  testing  new  measures  of  access  to  care  for  implementation  on  the  more 
+complete  datasets. 
+
+
+1  For  example,  data  from  the  first  set  of  post-1991  CBS  access  questions  will  be  available  in  June  1993  at  the 
+earliest,  but  final  tabulations  will  not  be  available  until  December  1993.  Similarly,  the  1992  BMAD  files  will 
+probably  be  released  around  the  end  of  1993. 
+
+
+18 
+
+
+WHO  SHOULD  DO  THE  ANALYSIS? 
+
+
+Perhaps  the  most  difficult  question  to  answer  at  this  time  is  who  should  monitor  access. 
+Clearly  the  burden  of  work  must  rest  primarily  with  HCFA,  since  HCFA  will  have  the  use 
+of  all  Part  B  claims  data.  In  addition,  the  Commission  may  wish  to  establish  greater  access 
+to  Medicare  claims  files  for  the  purpose  of  monitoring  changes  in  beneficiaries’  access  to 
+care.  Finally,  the  Panel  urges  that  the  Secretary  routinely  release  utilization  data  that 
+would  allow  any  interested  parties  to  track  measures  of  access. 
+
+Practical  considerations  alone  suggest  that  HCFA  must  play  the  major  role  in  monitoring 
+access  to  care.  First,  the  principal  source  of  Medicare  claims  data  is  huge.  Estimates  of 
+the  size  of  one  year  of  Common  Working  File  Part  B  records  range  from  1500  to  7000 
+standard  reels  of  computer  tape,  depending  upon  what  data  items  are  included.  Because 
+HCFA  staff  will  necessarily  have  more  direct  access  to  this  data,  they  will  be  better  able 
+to  calculate  some  of  the  measures  of  access.  Second,  some  elements  of  the  data  set  cannot 
+be  released  to  individuals  outside  Health  and  Human  Services.  In  particular,  the  Unique 
+Physician  Identification  Numbers  (UPINs)  probably  will  not  be  available  to  researchers, 
+although  some  scrambled  form  of  the  UPINs  may  be  made  available.  Thus,  detailed 
+analysis  of  certain  aspects  of  the  data  such  as  characteristics  of  physicians  may  best  be 
+done  by  HCFA  personnel. 
+
+However,  other  parties  may  also  play  a  part  in  monitoring  access  to  care.  The 
+Commission  may  wish  to  perform  its  own  analyses  of  HCFA  claims  files  to  assure  that 
+certain  measures  of  access  are  calculated.  However,  given  the  lack  of  specific  detail  in  the 
+Secretary’s  report  on  utilization,  access,  and  quality  (DHHS  1991),  it  is  difficult  at  this 
+point  to  say  what  measures  the  Secretary  actually  plans  to  calculate  and  publish.  Thus,  it 
+is  unclear  to  what  extent  the  Commission  will  engage  in  actually  analyzing  claims  files  in 
+its  efforts  to  monitor  access. 
+
+Some  analyses  of  data  other  than  HCFA  claims  files  may  more  appropriately  be  done 
+under  the  auspices  of  the  Commission  rather  than  by  HCFA.  For  example,  physicians  or 
+beneficiaries  might  respond  to  surveys  differently  depending  upon  the  sponsor.  Thus,  the 
+Commission  could  play  a  valuable  role  in  supplementing  the  HCFA  research  agenda  in 
+these  areas. 
+
+Finally,  the  Commission  recognizes  that  the  timely  release  of  data  by  HCFA  as  a  crucial 
+element  in  this  plan.  Many  of  the  data  sources  are  too  large  to  be  released  in  their 
+entirety  by  HCFA.  However,  useful  summary  statistics  could  be  produced  and  made 
+available  to  interested  parties.  Routine  release  of  such  summary  data,  with  or  without 
+further  analysis  by  HCFA,  would  allow  interested  parties  such  as  beneficiary  organizations 
+to  track  changes  in  access  to  care. 
+
+
+19 
+
+
+'»*•  • 
+
+
+• 
+
+. 
+
+TECHNICAL  NOTES  ON 
+MEASURES  OF  ACCESS 
+
+
+This  section  of  the  workplan  collects  background  information  on  the  geographic  areas, 
+vulnerable  populations,  and  measures  of  access  identified  by  the  Panel.  The  underlying 
+question  is  whether  these  areas,  populations  and  measures  can  be  identified  using  HCFA 
+claims  files.  Table  1  at  the  end  of  this  section  provides  a  summary  of  the  areas, 
+populations,  and  measures  discussed  here. 
+
+
+GEOGRAPHIC  AREAS 
+
+The  Panel  identified  several  geographic  areas  of  interest.  This  section  reviews  some 
+evidence  on  the  ability  to  identify  these  areas  and  track  beneficiaries  within  these  areas 
+using  Medicare  administrative  data. 
+
+Frontier  Rural  Areas 
+
+Frontier  rural  counties  are  counties  with  fewer  than  six  inhabitants  per  square  mile.  With 
+only  a  handful  of  exceptions,  these  counties  all  are  west  of  the  Mississippi  river.  These 
+areas  are  marked  by  relatively  thinly-spread  health  care  resources,  and  inhabitants  are 
+generally  thought  to  have  to  travel  further  to  obtain  medical  care.  In  these  areas,  access 
+could  be  jeopardized  if  only  a  few  providers  decided  not  to  see  Medicare  beneficiaries. 
+In  1988,  1.2  percent  of  Medicare  beneficiaries  lived  in  frontier  rural  counties. 
+
+It  is  a  relatively  straightforward  task  to  identify  frontier  rural  counties  using  the  .Area 
+Resource  File  (ARF).  Once  those  counties  are  identified  there  are  two  ways  in  which 
+claims  information  may  be  obtained.  First,  HCFA  already  processes  many  claims  into 
+county  aggregates.  Thus,  county  of  residence  aggregate  files  could  readily  be  made 
+available.  However,  these  files  are  processed  only  with  a  considerable  lag,  usually  contain 
+only  summary  information,  and  would  not  serve  for  a  rapid  analysis  of  changes  in 
+utilization  just  pre  and  post  the  introduction  of  payment  reform.  Alternatively,  HCFA 
+staff  may  draw  samples  of  records  from  the  CWF  based  on  county  of  residence. 
+
+Inner  City  .Areas 
+
+Identifying  beneficiaries  in  inner  city  areas  is  a  much  more  difficult  task  than  identifying 
+those  in  frontier  rural  areas.  For  the  purpose  of  tracking  health  care  use,  inner  city  areas 
+are  generally  defined  as  areas  with  low  average  incomes,  high  poverty  rates,  and  few  health 
+care  providers.  Because  these  areas  must  be  defined  at  the  sub-county  level,  readily- 
+available  county-level  files  such  as  the  ARF  are  not  useful  in  identifying  them. 
+
+One  approach  to  identifying  such  areas  would  rely  on  commercially  available  files 
+tabulating  information  for  individual  Census  tracts  or  ZIP  codes.  These  files  typically 
+record  information  on  average  income.  These  files  might  be  supplemented  with  counts  of 
+patient  care  physicians  to  generate  a  list  of  ZIP  codes  for  a  specific  definition  of  inner-city 
+
+
+20 
+
+
+areas.  Once  ZIP  codes  were  identified,  records  could  be  drawn  from  the  CWF  based 
+either  on  the  ZIP  code,  or  more  easily,  based  on  the  HICs  of  individuals  living  in  those 
+ZIP  codes. 
+
+An  alternative  approach  could  be  undertaken  from  HCFA  claims  files.  Beneficiary  ZIP 
+code  and  buy-in  status  could  be  used  to  identify  ZIP  codes  with  a  high  proportion  of  poor 
+and  near  poor  beneficiaries,  those  who  are  Medicaid-eligible  or  who  are  Qualified 
+Medicare  Beneficiaries.  As  with  the  first  approach,  counts  of  physicians  could  then  be 
+used  to  identify  underserved  pockets  of  poverty  within  cities. 
+
+There  is  a  potentially  important  complication  to  either  of  these  methods.  Because  the  ZIP 
+code  is  based  on  the  mailing  address  of  the  Social  Security  check,  there  may  be  leakage 
+across  the  borders  of  inner-city  regions.  ZIP  code  zones  tend  to  be  geographically  small 
+in  cities,  making  this  a  more  significant  problem  than  the  similar  problem  faced  in  placing 
+beneficiaries  into  frontier  rural  counties. 
+
+Health  Professional  Shortage  Areas 
+
+Health  Professional  Shortage  Areas  (HPSAs)  are  designated  by  the  Health  Resources  and 
+Services  Administration  (HRSA)  in  the  Public  Health  Service.  HRSA  has  used  the 
+HPSAs  to  help  determine  the  allocation  of  Public  Health  Services  Corps  physicians.  A  low 
+physician-to-population  ratio  is  the  prime  determinant  of  HPSA  status. 
+
+Medicare  currently  pays  a  bonus  payment  for  services  provided  in  HPSAs.  Prior  to  1991, 
+a  five  percent  bonus  was  added  to  physicians  providing  services  in  some  categories  of  rural 
+HPSAs.  As  of  January,  1991,  a  10  percent  bonus  is  paid  for  services  provided  in  all  rural 
+and  urban  HPSAs.1  HCFA  staff  provided  the  Commission  with  the  following  outline  of 
+claims  processing  for  HPSAs: 
+
+Medicare  Part  B  carriers  must  know  which  bills  are  paid  in  HPSAs  because  payment  rates 
+differ  between  HPSA  and  non-HPSA  areas.  Identification  of  those  bills  is,  however,  a 
+lengthy  process.  It  begins  in  the  Public  Health  Service,  which  provides  a  "narrative  list" 
+of  HPSAs  to  HCFA,  literally  a  written  description  of  each  HPSA.  HPSAs  may  be 
+counties,  Census  tracts,  or  other  geographic  areas,  or  may  be  specific  to  particular 
+populations  within  geographic  areas,  for  example,  individuals  below  the  poverty  line. 
+HCFA  passes  this  narrative  list  on  to  the  carriers  with  instructions  to  draw  maps  or 
+otherwise  make  information  about  the  locations  of  HPSAs  available  to  physicians. 
+
+Physicians  must  identify  services  provided  in  HPSAs  on  the  claim  form  in  order  to  receive 
+the  bonus  payment.  Prior  to  January  1,  1991,  this  was  done  by  adding  "rural"  to  the 
+narrative  place-of-service  description.2  Carriers,  however,  translated  these  expanded 
+place-of-service  narratives  into  the  standard  place  of  service  codes  when  submitting  the 
+
+
+1  Actually,  the  additional  payment  is  10  percent  of  the  80  percent  of  the  bill  paid  directly  by  Medicare,  or  8 
+percent  of  the  allowed  charge. 
+
+2  For  example,  hospital  inpatient  -  rural. 
+
+
+21 
+
+
+data  to  HCFA.  Thus,  prior  to  January  1,  1991,  information  on  individual  services  provided 
+in  HPSAs  was  not  available  on  HCFA  claims  files.3  After  January  1,  1991,  however,  the 
+system  for  reporting  HPSA  services  changed.  Rather  than  using  a  place-of-service  code, 
+physicians  were  instructed  to  use  a  new  HCPCS  code  modifier  to  show  that  the  services 
+was  provided  in  a  HPSA.4  This  modifier  would  be  retained  during  claims  processing,  and 
+so  should  be  available  on  HCFA  claims  datasets.  However,  the  extent  of  compliance  with 
+this  new  regulation  is  not  yet  known.  Currently,  HCFA  tracks  centrally  only  the  quarterly 
+aggregate  number  of  checks  and  total  bonus  payments  for  services  delivered  in  HPSAs. 
+
+If  shortage  designation  is  not  accurately  recorded,  obtaining  information  on  beneficiaries 
+in  those  areas  would  require  a  considerable  amount  of  work.  HPSAs  are  quite  complex. 
+Even  those  that  are  strictly  geographically  defined  can  be  areas  from  whole  counties  down 
+to  individual  census  tracts  or  magisterial  districts.  These  areas  will  not  cross-walk  exactly 
+to  ZIP  codes,  and  to  date  Commission  staff  have  not  found  an  approximate  ZIP  code 
+mapping  for  all  U.S.  HPSAs.5  Thus,  such  a  cross-walk  might  have  to  be  generated  by 
+overlaying  physical  maps  of  HPSAs  with  ZIP  code  maps. 
+
+Medically  Underserved  Areas 
+
+Medically  Underserved  Areas  (MUAs)  are  an  alternative  to  HPSAs  for  identifying  areas 
+with  potentially  poor  access  to  care.  The  MUAs  share  many  of  the  technical  problems  of 
+the  HPSAs.  They  are  not  defined  in  units  that  are  easily  traceable  through  the  machine 
+readable  files.  In  addition,  they  are  not  the  basis  for  the  Medicare  10  percent  bonus 
+payment,  and  so  are  not  recorded  on  HCFA  claims  files. 
+
+Areas/Specialties  With  Large  Price  Declines 
+
+The  Commission’s  simulations  will  be  used  to  identify  areas  and  specialties  within  areas 
+that  will  experience  large  fee  declines  during  the  transition  to  the  Medicare  Fee  Schedule. 
+Currently,  those  simulations  are  being  fine-tuned  to  represent  the  best  available  data  on 
+post- 1992  payment  rates.  Later  this  year,  Commission  staff  will  estimate  gains  and  losses 
+by  specialty  and  payment  area.  Because  fees  are  set  using  these  payment  area  definitions, 
+it  will  be  quite  easy  to  identify  all  services  paid  for  in  the  various  areas. 
+
+
+3  On  the  1989  BMAD  file,  three  carriers  (Virginia,  Louisiana,  and  the  Railroad  Retirement  carrier)  used  a 
+unique  set  of  place  of  service  codes  to  report  services  delivered  in  shortage  areas. 
+
+4  The  HCFA  Common  Procedure  Coding  System  (HCPCS)  code  is  a  five-digit  code  identifying  the  service 
+performed  by  the  physician.  A  two-digit  modifier  is  sometimes  appended  to  the  HCPCS  code  to  further  define 
+the  service.  The  modifiers  QB  and  QU  are  now  used  to  indicate  that  a  service  was  provided  in  a  HPSA. 
+
+5  One  study  using  National  Medical  Expenditures  Survey  data  cross-walked  late-1970s  HPSAs  to  ZIP  codes. 
+This  took  approximately  two  person-weeks  of  effort  (Personal  communication  with  Amy  Bernstein,  Prospective 
+Payment  Assessment  Commission). 
+
+
+22 
+
+
+NVV 
+
+
+Areas  With  Large  Medicare/Private  Fee  Differentials 
+
+While  Medicare  fee  data  are  publicly  available,  there  is  little  reliable  private-sector  fee 
+information.  Previous  staff  work  with  the  Blue  Cross  and  Blue  Shield  Association  verified 
+that  there  is  considerable  geographic  variation  in  the  gap  between  BC/BS  and  Medicare 
+payment  rates  (PPRC  1990),  but  the  BCBSA  cannot  identify  individual  areas  in  its 
+analyses. 
+
+Of  the  potential  data  sources  in  this  area  pursued  by  the  staff,  the  MEDSTAT  data  appear 
+most  promising.  The  MEDSTAT  database  is  a  collection  of  claims  for  approximately  100 
+very  large  employers.  This  data  set  is  rather  expensive,  but  it  has  a  number  of  advantages. 
+First,  it  has  a  fairly  representative  sample  of  private  sector  payer  mix,  including  both 
+BC/BS  and  commercial  payers.  It  also  has  a  reasonably  uniform  geographic  distribution 
+across  urban  areas,  though  relatively  few  claims  are  filed  from  rural  areas. 
+
+Commission  staff  have  contracted  with  MEDSTAT  for  the  purchase  of  data  which  may 
+allow  comparisons  between  1989  Medicare  rates  and  1989  private  sector  rates.  From  this, 
+staff  can  use  the  Commission’s  simulations  to  project  the  approximate  differentials  that 
+will  occur  in  1992  and  later  years.  If  the  MEDSTAT  data  prove  usable  and  reliable  this 
+analyis  may  be  repeated  in  later  years. 
+
+
+VULNERABLE  POPULATIONS 
+
+The  Advisory  Panel  on  Access  identified  a  number  of  populations  most  vulnerable  to 
+reductions  in  access  to  care.  This  section  collects  some  background  information  on 
+identifying  those  populations  using  the  Medicare  administrative  files. 
+
+Old  Old 
+
+This  population  can  be  easily  identified  from  HCFA  administrative  data.  Various  HCFA 
+eligibility  files  contain  date  of  birth  information,  which  can  then  be  linked  to  the  Health 
+Insurance  Claim  (HIC)  number  (Social  Security  or  Railroad  Retirement  Number  plus 
+Beneficiary  Identification  Code).  HCFA  uses  the  HIC  on  all  claims  processed,  so  service 
+utilization  by  this  population  should  be  easy  to  track.  It  may  be  necessary  for  HCFA  to 
+encrypt  the  HICs  to  maintain  the  confidentiality  of  the  records.  However,  because 
+HCFA’s  encryption  algorithm  is  unique,  the  Commission  may  also  request  the  beneficiary 
+information  with  encrypted  HIC  and  merge  the  beneficiary  information  onto  the  claims. 
+
+A  typical  line  for  distinguishing  the  "old  old"  beneficiary  is  age  85.  This  would  capture  10 
+percent  of  the  aged  beneficiary  population  and  12  percent  of  Part  B  outlays. 
+
+Disabled 
+
+As  with  the  old  old,  HCFA  administrative  records  allow  the  disabled  to  be  identified 
+directly.  In  this  case,  the  "current  reason  for  entitlement"  field  identifies  all  disabled 
+beneficiaries.  Disabled  beneficiaries  constitute  about  10  percent  of  the  beneficiary 
+population  (2.7  million  disabled  versus  28.5  million  aged  beneficiaries  in  1988). 
+
+
+23 
+
+
+Identifying  the  mentally  and  physically  disabled  within  this  category  of  beneficiaries  may 
+be  quite  difficult.  Routinely  available  produced  Medicare  statistical  files  do  not  maintain 
+a  finer  breakout  of  the  "reason  for  entitlement"  field.  However,  Social  Security 
+Administration  files  probably  do  record  a  detailed  "reason  for  entitlement"  for  the 
+disabled.  Commission  staff  will  check  with  HCFA  personnel  to  see  whether  type  of 
+disability  recorded  on  the  SSA  files  may  be  written  onto  HCFA  claims  records.  If  not, 
+staff  could  try  to  identify  the  mentally  disabled  through  patterns  of  service  use  (eg., 
+psychiatric  services).  This  may  require  a  special  request  for  data  from  HCFA  in  order  to 
+be  able  to  attach  beneficiary  reason  for  entitlement  onto  the  Commission’s  existing  sample 
+of  Part  B  beneficiary  claims. 
+
+ESRD  Beneficiaries 
+
+ESRD  beneficiaries  are  identified  in  the  "reason  for  entitlement"  field.  In  addition,  the 
+standard  HCFA  beneficiary  sample  contains  records  for  five  percent  of  non-ESRD 
+beneficiaries  and  100  percent  of  all  ESRD  beneficiaries.  Thus,  it  would  be  particularly 
+convenient  to  track  utilization  by  this  beneficiary  population. 
+
+Institutionalized 
+
+Commission  staff  have  been  discussing  the  problem  of  identifying  the  institutionalized  with 
+HCFA  personnel  working  on  the  Current  Beneficiary  Survey.  They  suggest  that  it  may  be 
+difficult  to  characterize  accurately  the  institutionalized  beneficiary  population. 
+
+Staff  can  identify  beneficiaries  with  Part  B  charges  in  nursing  home  settings.  In  addition, 
+some  Part  A  payments  may  be  identifiable  for  nursing  home  care  following  acute  inpatient 
+stays.  However,  these  markers  would  ignore  beneficiaries  with  no  claims,  and  may 
+imperfectly  identify  beneficiaries  who  are  well  enough  to  travel  to  physician  offices  or 
+other  settings  for  their  Part  B  care.  At  the  very  least,  Commission  staff  will  try  to 
+benchmark  counts  of  institutionalized  individuals  derived  from  claims  analysis  against 
+counts  from  national  surveys.  In  addition,  this  would  not  accurately  track  beneficiaries  as 
+they  move  into  and  out  of  institutional  settings.  That  is,  a  listing  of  institutionalized 
+individuals  derived  from  1990  data  may  be  a  poor  proxy  for  the  institutionalized 
+population  in  1992. 
+
+Buy-In  Status  (Medicaid,  QMBs) 
+
+States  may  purchase  Part  B  coverage  for  their  Medicaid  beneficiaries  (dual  eligibles)  and 
+for  individuals  near  the  poverty  line  but  not  Medicaid  eligible  (Qualified  Medicare 
+Beneficiaries  or  QMBs).  HCFA  administrative  files  note  the  buy-in  status  of  Medicare 
+beneficiaries,  so  this  population  could  be  easily  identified.  However,  because  buy-in  status 
+may  change  over  time,  there  may  be  some  discrepancies  between  beneficiaries  identified 
+by  this  method  in  one  year  and  the  population  of  beneficiaries  with  state  buy-in  in  the  next 
+year. 
+
+Approximately  9  percent  of  beneficiaries  were  enrolled  in  Part  B  under  state  buy-in 
+agreements  in  1989.  This  varies  considerably  across  states,  however.  For  example,  nearly 
+
+
+24 
+
+
+25  percent  of  Mississippi  beneficiaries  were  enrolled  under  this  program,  while  for  several 
+states  approximately  3  percent  of  beneficiaries  were  so  enrolled. 
+
+Payment  policies  regarding  these  beneficiaries  vary  considerably  across  states.  States  pay 
+the  copayments  for  these  beneficiaries,  but  typically  will  pay  these  copayments  only  in 
+reference  to  their  local  Medicaid  fee  schedules.  Thus,  in  many  states,  if  the  Medicaid  fee 
+is  less  than  80  percent  of  the  Medicare  allowed  charge,  the  physician  collects  no 
+copayment.  Commission  staff  have  so  far  been  unable  to  locate  a  listing  of  state  policies 
+in  this  area.  A  survey  of  state  Medicaid  programs  may  have  to  be  conducted  to  determine 
+which  states  pay  at  their  Medicaid  fee  schedules  and  which  states  pay  the  full  Medicare 
+rate. 
+
+Ethnicity 
+
+Ethnicity  is  identified  on  several  of  the  Medicare  statistical  files.  The  categories  are  black, 
+white,  other,  and  unknown. 
+
+The  Poor 
+
+It  is  probably  not  possible  to  identify  the  non-Medicaid/non  QMB  poor.  While  it  is 
+possible,  on  a  special  request  basis,  to  obtain  files  with  social  security  income,  that  variable 
+has  not  proven  very  useful  in  identify  poor  individuals  in  previous  Commission  staff  work. 
+However,  some  survey  data  may  provide  information  on  income. 
+
+
+MEASURES  OF  ACCESS 
+
+Finally,  the  Panel  suggested  several  types  of  measures  of  access  to  care.  This  section 
+provides  some  small  amount  of  background  detail  on  calculating  those  measures  from 
+HCFA  administrative  data. 
+
+Sentinel  Events 
+
+The  notion  of  avoidable  illness  and  avoidable  death  underlies  the  sentinel  event  approach 
+to  monitoring  access.  Sentinel  events  are  serious  medical  conditions  which  could  have 
+been  avoided  or  from  which  death  could  have  been  avoided  (United  Hospital  Fund  1988). 
+They  have  been  classified  into  events  for  which  any  incidence  indicates  poor  care  (ie., 
+events  which  should  never  happen)  and  events  for  which  a  high  incidence  indicates  poor 
+care.  Little  of  the  existing  analyses  of  sentinel  events  has  focussed  on  the  Medicare 
+population,  although  under  one  definition  60  percent  of  sentinel  events  occur  in  the  over- 
+65  population  (United  Hospital  Fund  1988). 
+
+At  least  two  questions  need  to  be  addressed  before  beginning  to  apply  the  sentinel  event 
+approach  to  the  Medicare  population.  First,  of  the  sentinel  events  identified  elsewhere, 
+which  ones  are  most  applicable  to  the  Medicare  population?  Second,  how  large  a 
+population  is  needed  to  guarantee  a  reasonably  stable  estimates  of  the  incidence  of 
+sentinel  events  over  time? 
+
+
+25 
+
+
+Commission  staff  began  to  examine  the  questions  of  incidence  and  stability  for  a  small 
+number  of  sentinel  events.  Criteria  for  identifying  four  sentinel  events  using  ICD-9-CM 
+codes  on  hospital  discharge  abstracts  were  taken  from  a  recent  Health  Resources  and 
+Services  Administration  report  (HRSA  1987).  Part  A  records  from  the  Medicare 
+Automated  Data  Retrieval  System  (MADRS)  were  analyzed  for  a  sample  of  about  100,000 
+beneficiaries  residing  primarily  in  the  Los  Angeles  area.  The  annual  incidence  of  these 
+four  sentinel  events  per  1000  beneficiaries  varied  considerably,  from  0.2  events  per  1000 
+beneficiaries  for  invasive  cervical  cancer  to  19  events  per  1000  beneficiaries  for 
+uncontrolled  hypertension. 
+
+The  relatively  low  incidence  of  these  conditions  means  that  fairly  large  populations  are 
+needed  to  obtain  stable  use  rates.  Thus,  this  technique  probably  cannot  be  applied  to 
+populations  of  fewer  than  50,000  beneficiaries.  In  smaller  populations,  even  very  large 
+year-to-year  fluctuations  could  be  the  result  of  natural  random  variation  in  incidence. 
+
+Stage  Of  Disease 
+
+The  concept  of  disease  stage  originated  in  oncology,  where  the  progress  of  a  cancer  was 
+tracked  from  localized  involvement  through  systemic  involvement,  organ  failure,  and  death. 
+Individuals  with  poor  access  to  primary  care  might  first  present  to  a  physician  with  their 
+disease  at  a  more  advanced  stage.  Thus,  stage  of  disease  at  first  treatment  may  be  a  good 
+clinical  indicator  of  access  to  care. 
+
+In  some  instances,  the  stage  of  a  cancer  might  be  subsumed  into  the  sentinel  events 
+approach  if  certain  subsets  of  ICD-9-CM  codes  would  allow  invasive  and  metastasized 
+cancers  to  be  identified.  More  formal  approaches  are  available  based  on  the  diagnoses 
+and  procedures  recorded  in  Part  A  hospital  data.  If  these  approaches  to  identifying  stage 
+of  disease  are  not  satisfactory,  the  success  of  such  a  project  might  depend  on  crosswalking 
+information  from  cancer  registry  data  onto  the  Medicare  claims  files.  Large-scale  mapping 
+of  machine-readable  cancer  registry  data  has  been  attempted  before,6  and  there  are  fairly 
+standard  procedures  for  matching  discharge  abstracts  to  other  data  files. 
+
+Because  the  best  indicator  would  be  stage  of  disease  at  presentation,  this  approach  would 
+ideally  require  a  fairly  substantial  time  series.  Such  a  time  series  might  be  feasible  if  the 
+indicator  is  limited  to  stage  at  first  hospitalization.  Because  the  Medicare  hospital 
+discharge  abstract  files  are  fairly  small  (10  million  records  annually)  and  complete,  it  would 
+be  feasible  to  perform  a  retrospective  search  within  a  multiple-year  window  to  identify  a 
+patient’s  first  hospitalization  for  a  given  condition. 
+
+
+6  For  example,  the  Hospital  Cancer  Clinical  Research  Project  (HCCRP),  a  joint  undertaking  of  the  National 
+Cancer  Institute  and  the  Agency  for  Health  Care  Policy  and  Research,  linked  data  from  10  regional  cancer 
+protocol  registries  to  a  discharge  abstracts  provided  by  a  few  hospitals.  However,  the  project,  begun  in  1984,  is 
+not  yet  finished,  so  it  is  difficult  to  tell  how  accurately  such  data  may  be  matched. 
+
+
+26 
+
+
+Primary  Care  Utilization 
+
+The  Panel  suggested  a  number  of  access  measures  based  on  utilization  of  primary  care 
+services.  These  included  the  gross  visit  rate,  annual  probability  of  an  office  visit,  number 
+of  home  visits,  ratio  of  outpatient  visits  to  hospitalizations,  emergency  room  (ER)  visits, 
+or  ER  visits  as  a  percentage  of  all  visits,  and  the  distribution  of  office  visits  across 
+beneficiaries. 
+
+With  the  exception  of  home  visits,  calculation  of  all  these  measures  should  be  fairly 
+straightforward.  For  home  visits,  there  is  a  complication  in  that  visits  by  home  health 
+agency  employees  might  substitute  for  visits  by  physicians.  Thus,  counts  of  physician  home 
+visits  might  misstate  the  degree  of  home-based  care  delivered. 
+
+Because  primary  care  visits  are  the  most  often-billed  Part  B  services,  these  measures 
+should  at  least  be  statistically  stable.  However,  several  panel  members  suggested  that 
+these  measures  might  be  poor  access  indicators  because  different  beneficiaries  might 
+receive  visits  for  different  reasons  (eg.,  preventive  care  versus  acute  care).  Until  the 
+quality  of  the  diagnosis  coding  on  the  new  Part  B  records  is  known,  however,  it  probably 
+will  not  be  possible  to  sort  out  the  various  reasons  for  visits. 
+
+Number  Of  Physicians  Serving  Medicare  Beneficiaries 
+
+One  possible  adverse  impact  of  changes  in  Medicare  payment  rates  is  that  many  physicians 
+may  seek  to  limit  the  number  of  Medicare  patients  that  they  treat.  Hence,  a  reasonable 
+indicator  of  good  access  to  care  would  be  the  dispersion  of  Medicare  services  across 
+physicians.  A  reduction  in  the  number  of  physicians  seeing  Medicare  patients  may  indicate 
+a  loss  of  mainstream  care  for  beneficiaries.  An  additional  provider-based  indicator  would 
+be  the  number  of  beneficiaries  changing  physicians.  Changes  in  this  indicator  might  also 
+show  an  increased  unwillingness  by  some  providers  to  serve  Medicare  beneficiaries.7 
+
+Technical  problems  with  physician  identifiers  in  the  Medicare  files  may  make  this  a 
+difficult  task.  Prior  to  1991,  Medicare  statistical  files  identified  physicians  only  by  carrier- 
+assigned  numbers.  Numerous  physicians  could  use  the  same  number  (eg.,  a  single  billing 
+number  for  a  group  practice),  while  one  physician  might  bill  under  several  numbers. 
+
+To  quantify  the  magnitude  of  this  problem,  Commission  staff  took  a  sample  amounting  to 
+1  percent  of  1989  physician  billing  numbers.  On  a  charge-weighted  basis,  only  30  percent 
+of  physicians  used  a  unique  identifier,  with  70  percent  reporting  that  multiple  identifiers 
+might  be  used  by  the  same  provider  entity.  This  is  clearly  the  result  of  variation  across  the 
+carriers:  eight  carriers  require  unique  numbers,  while  nearly  all  the  remaining  carriers 
+allow  multiple  numbers  per  physician.  About  60  percent  of  the  billing  numbers  were  for 
+solo  practitioners,  while  the  remaining  40  percent  were  from  group  practices,  clinics,  and 
+other  practitioners.  Thus  it  is  appears  unlikely  that  any  accurate  estimate  of  the  extent  of 
+
+
+7  Measures  of  the  number  of  beneficiaries  switching  physicians  and  the  reason  for  loss  of  usual  source  of  care 
+will  also  be  obtainable  from  the  Current  Beneficiary  Survey. 
+
+
+27 
+
+
+concentration  of  Medicare  services  among  physicians  can  be  obtained  from  historical 
+Medicare  claims  files. 
+
+HCFA  is  moving  toward  a  Unique  Provider  Identification  Number  (UPIN)  system,  under 
+which  each  MD  or  DO  would  have  one  and  only  one  billing  number.  Currently,  however, 
+only  about  40  percent  of  CWF  records  have  the  UPIN  on  them,  with  the  rest  still  being 
+reported  by  the  old  carrier-assigned  numbers.  The  HCFA  Bureau  of  Program  Operations 
+does  not  plan  to  enforce  use  of  the  UPIN  (ie.,  denial  of  claims)  until  January  1,  1992. 
+Thus,  there  will  be  no  good  national  pre/post  1992  time  series  based  on  the  UPIN. 
+
+It  is  possible  that  HCFA  could  map  the  old  carrier  identifiers  to  the  new  UPINs  in  an 
+attempt  to  get  some  national  trend  data.  Medicare’s  directory  of  UPINs  retains  up  to  six 
+carrier-assigned  billing  numbers  for  each  UPIN.  A  project  to  crosswalk  the  UPINs  and 
+the  old  numbers  is  being  discussed  at  HCFA,  and  Commission  staff  plan  to  make  further 
+inquiries  in  this  area.8 
+
+There  may  be,  in  addition,  strong  restrictions  on  the  use  of  the  UPIN  once  it  is  fully 
+implemented.  Whereas  employees  of  HHS  may  access  the  UPIN  files  for  their  official 
+duties,  no  provision  is  made  for  government  agencies  outside  of  HHS  other  than  the 
+Department  of  Justice  in  case  of  legal  action.  Thus,  it  is  unlikely  that  the  PPRC  would  be 
+able  to  perform  a  mapping  of  historical  data  to  the  new  UPINs  on  its  own,  and  would  have 
+to  rely  on  a  HCFA-provided  mapping. 
+
+Finally,  HCFA  has  historical  data  on  the  number  of  physicians  signing  participation 
+agreements.  It  is  not  clear,  however,  whether  this  data  would  be  useful  in  tracking  the 
+concentration  of  Medicare  services  across  physicians. 
+
+Profiling  Physicians  Serving  The  Underserved 
+
+.An  additional  physician-based  analysis  suggested  by  the  Panel  was  to  profile  and  track 
+those  physicians  serving  the  underserved.  Ideally,  Commission  staff  would  like  to  use  the 
+Medicare  claims  files  to  track  these  physicians.  If  UPIN-based  information  is  provided, 
+staff  should  be  able  at  least  to  analyze  counts  in  the  number  of  physicians  after  1992. 
+However,  due  to  restrictions  on  the  use  of  the  UPEN,  staff  may  not  be  able  to  profile  the 
+characteristics  of  physicians.  While  HCFA’s  UPEN  directory  will  indicate  such  items  as 
+board  certification,  it  seems  unlikely  at  this  point  that  such  information  will  be  made 
+available  to  those  outside  of  HCFA. 
+
+Use  Of  Public  Institutions 
+
+The  Panel  suggested  that  increased  use  of  public  facilities  might  be  one  indicator  of 
+reduced  access  to  private  physicians.  Staff  have  examined  the  potential  for  tracing  the 
+amount  of  care  provided  in  public  hospitals  and  other  governmental  funded  facilities. 
+
+
+8  However,  it  may  be  impossible  to  count  the  number  of  physicians  within  groups  serving  Medicare 
+beneficiaries,  since  in  some  instances  ail  physicians  within  a  group  used  the  same  billing  ID  in  the  historical  data. 
+
+
+28 
+
+
+On  the  inpatient  side,  this  is  a  relatively  straightforward  task.  The  HCFA  Provider  of 
+Service  file  will  allow  the  HCFA  hospital  identifiers  to  be  selected  for  urban  public 
+hospitals.  These  hospital  identifiers  are  keyed  onto  the  Medicare  Part  A  files,  allowing 
+the  inpatient  care  in  these  facilities  to  be  tracked  easily. 
+
+On  the  outpatient  side,  however,  this  may  be  much  more  difficult.  Each  visit  to  a  hospital 
+outpatient  department  generates  a  facility  charge.  The  bill  for  this  facility  charge  uses  the 
+same  hospital  identifier  as  the  inpatient  bill,  so  bills  from  public  hospital  OPDs  should  be 
+recognizable.  However,  the  hospital  outpatient  files  have  historically  been  among  the  least 
+usable  of  HCFA  datasets,  and  have  never  been  publicly  released.  In  addition,  diagnoses 
+have  been  coded  using  ICD-9-CM  codes,  and  CPT  codes  have  only  recently  been  required. 
+So  far,  compliance  with  the  CPT  coding  requirement  seems  spotty,  so  it  may  not  be 
+possible  to  count  individual  services  very  accurately  in  this  file.  It  probably  is  not  possible 
+to  track  public  hospital  use  through  physicians'  bills.  The  provider  number  on  these  bills 
+is  the  physician’s  number,  not  the  hospital’s. 
+
+However,  for  other  sorts  of  public  outpatient  providers  it  may  be  possible  to  track 
+beneficiary  usage.  Federally-funded  Comprehensive  Health  Centers  and  rural  health 
+clinics  have  their  own  provider  identifiers  in  the  HCFA  provider  of  service  file.  However, 
+it  is  not  clear  whether  the  Part  B  carriers  use  these  numbers  or  assign  their  own  provider 
+numbers  to  these  clinics  in  the  same  way  that  they  do  to  other  physician  practices. 
+Commission  staff  will  investigate  this  further. 
+
+Others 
+
+The  Panel  suggested  two  other  approaches  to  measuring  access  to  care  that  will  require 
+considerable  additional  developmental  work  prior  to  implementation.  First,  episodes  of 
+care  might  be  used  to  track  adequacy  of  access.  For  example,  individuals  hospitalized  with 
+a  heart  attack  should  be  seen  by  a  cardiologist  after  discharge  from  the  hospital.  Lack  of 
+such  followup  care  could  be  an  indicator  that  beneficiaries  do  not  have  adequate  access 
+to  care.  Second,  excess  mortality  is  one  poor  outcome  that  may  be  linked  to  inadequate 
+access.  HCFA  routinely  releases  case-mix-adjusted  mortality  data  for  hospitals.  Similar 
+indices  may  be  constructed  for  populations  using  the  date  of  death  available  on  the  Health 
+Insurance  Master  File. 
+
+
+SUMMARY  OF  VULNERABLE  POPULATIONS,  GEOGRAPHIC  AREAS,  AND 
+MEASURES  OF  ACCESS 
+
+Table  1  summarizes  some  of  the  above  discussion  on  vulnerable  populations,  geographic 
+areas,  and  measures  of  access  using  HCFA  administrative  datasets. 
+
+
+29 
+
+
+Table  1.  Summary  of  Geographic  Areas,  Vulnerable  Populations,  and  Measures  of  Access 
+
+
+Proportion  of 
+
+Beneficiary  Population  I 
+
+Directly  Identifiable  from 
+
+1CFA  Admtot*tratht»  Data? 
+
+AREAS 
+
+Frontier  Rural 
+
+1 2  percent 
+
+Yes 
+
+Inner  City 
+
+Data  not  yet  available 
+
+Yes,  by  ZIP  code 
+
+HPSA 
+
+Data  not  yet  available 
+
+Probably  yes* 
+
+Areas  w/  Large  Fee  Reduction 
+
+Data  not  yet  available 
+
+Yes 
+
+Areas  where  Medicare  Fees  are 
+
+Data  not  yet  available 
+
+Yes 
+
+Lowest  Relative  to  Other  Payers 
+
+Old  old 
+
+Approximately  10  percent 
+
+Yes 
+
+Disabled 
+
+Approximately  10  percent 
+
+Yes 
+
+Mental 
+
+Data  not  yet  available 
+
+Perhaps  w/SSA  Data*3 
+
+Other 
+
+Data  not  yet  available 
+
+Perhaps  w/SSA  Data 
+
+ESRD 
+
+Less  than  half  percent 
+
+Yes 
+
+Institutionalized 
+
+Data  not  yet  available 
+
+No 
+
+Dual  Eligibles/QMBs 
+
+Approximately  9  percent 
+
+Yes 
+
+Non-whites 
+
+Data  not  yet  available 
+
+Yes 
+
+Poor 
+
+Data  not  yet  available 
+
+No 
+
+No  Medigap 
+
+20  percent 
+
+No 
+
+MEASURES 
+
+Sentinel  Events 
+
+Small  percentage 
+
+Yes 
+
+Stage  of  Disease 
+
+Small  percentage 
+
+Yes,  using  ICD-9-CM  codes 
+
+Excess  mortality 
+
+Small  percentage 
+
+Yes 
+
+Number  of  Physicians 
+
+100% 
+
+Only  after  1/1/92** 
+
+Use  of  Public  Providers 
+
+Data  not  yet  available 
+
+Possibly 
+
+Episodes  of  Care 
+
+Data  not  yet  available 
+
+Yes 
+
+Primary  Care  Utilization 
+
+Large  percentage 
+
+Yes 
+
+Notes:  *  An  approximate  ZIP  code  crosswalk  can  be  obtained  by  overlaying  physical  maps  of  HPSAs  with  ZIP 
+
+code  maps. 
+
+b  The  mentally  disabled  may  be  identifiable  through  patterns  of  service  use  (e.g.  psychiatric  services). 
+
+c  The  institutionalized  may  be  identifiable  through  patterns  of  service  use  (e.g.  nursing  home  care). 
+
+d  It  may  be  possible  to  crosswalk  the  new  unique  physician  IDs  to  the  carrier-assigned  IDs  to  produce 
+trend  data. 
+
+
+30 
+
+
+* 
+
+
+TECHNICAL  NOTES  ON 
+SOURCES  AND  USES  OF  DATA 
+FOR  MONITORING  ACCESS 
+
+
+This  section  of  the  Appendix  describes  several  sources  of  data  and  their  potential  uses  in 
+monitoring  access  to  care.  The  core  of  HCFA’s  data  collection  efforts  is  the  Common 
+Working  File  (CWF),  which  is  described  in  detail  in  the  first  section.  Following  that,  data 
+sources  that  are  immediately  available  for  monitoring  access  are  detailed.  Finally,  data 
+sources  available  only  in  the  longer  term  are  described. 
+
+
+THE  COMMON  WORKING  FILE 
+
+The  Common  Working  File  (CWF)  is  the  core  of  HCFA’s  information  systems.  All  Part 
+A  and  Part  B  claims  processed  on  behalf  of  beneficiaries  end  up  in  the  CWF.  In  addition 
+to  identifying  the  services  and  payments,  each  claim  also  identifies  the  beneficiary  and 
+provider.  Other  files  allow  detailed  information  on  beneficiary  and  provider  characteristics 
+to  be  merged  with  the  claims  information  in  the  CWF.1 
+
+The  CWF  is  a  relatively  new  system  for  aggregating  claims  information.  A  small  portion 
+of  1989  claims  were  processed  through  the  CWF,  as  were  a  significant  portion  of  1990 
+claims.  As  of  January  1,  1991,  all  Part  A  and  Part  B  records  were  maintained  through  the 
+CWF. 
+
+The  CWF  represents  a  substantial  improvement  over  prior  HCFA  information  processing 
+systems.  For  the  first  time,  all  Part  A  and  Part  B  claims  lines  are  maintained  in  a  single 
+centralized  location  at  HCFA  in  Baltimore.  Claims  processing  has  also  been  streamlined, 
+and  the  HCFA  Office  of  the  Actuary  indicates  that  claims  run-out  times  have  been  cut  in 
+half.  That  is,  the  percentage  of  claims  processed  within  six  months  of  incurred  date  under 
+the  CWF  is  equal  to  the  percentage  of  claims  that  had  been  processed  within  a  year  of  the 
+incurred  date  under  the  old  payment  record  system. 
+
+The  CWF  is  also  set  up  for  much  more  rapid  data  retrieval.  First,  records  for  the 
+standard  HCFA  five  percent  beneficiary  sample  are  kept  on-line  (or  "near-line")  and  are 
+readily  accessible  to  HCFA  staff.  Second,  HCFA  has  established  a  "prospective  tap" 
+process,  where  every  accepted  CWF  transaction  (ie.,  every  clean  claim,  paid  or  denied)  is 
+
+
+1  Beneficiary  information  comes  from  the  Health  Insurance  Master  (HIM)  file.  Information  on  institutional 
+providers  comes  from  the  Provider  of  Services  (POS)  file.  Information  on  physicians  comes  from  the  Medicare 
+Provider  Identification  and  Eligibility  System  (MPEES),  also  known  as  the  Unique  Provider  Identification  Number 
+(UP IN)  file. 
+
+
+31 
+
+
+screened  and  copied  to  on-line  databases  based  on  beneficiary  ID,  physician  ID,  ZIP  code, 
+or  other  factors.  Thus,  claims  for  specific  subsets  of  the  population  can  be  monitored  on 
+a  flow  basis.* 2 
+
+The  CWF  will  also  retain  more  information  than  previous  HCFA  data  processing  systems. 
+For  the  first  time,  line-item  detail  for  all  Part  B  claims  is  retained.  Of  particular  interest, 
+diagnosis  codes  (ICD-9-CM)  are  recorded  on  the  claim,  up  to  3  (possibly  4)  on  each  bill 
+describing  the  patient’s  general  condition,  and  one  additional  diagnosis  for  each  procedure 
+billed.  However,  the  accuracy  or  completeness  of  the  diagnosis  coding  is  not  clear  at  this 
+point,  and  Commission  staff  will  inquire  further  into  this. 
+
+The  downside  of  the  CWF  is  that  it  is  huge.  A  current  estimate  is  that  all  Part  B  bills  for 
+10  percent  of  beneficiaries  for  one  year  would  require  at  least  175  standard  reels  of 
+computer  tape,  and  possible  many  more.  Further,  HCFA  may  not  have  much  spare 
+capacity  within  their  data  processing  center  to  generate  substantial  new  files.3 
+
+
+SOURCES  AND  USES  OF  DATA  FOR  IMMEDIATE  MONITORING  OF  ACCESS 
+
+This  section  of  the  appendix  briefly  outlines  some  strategies  for  monitoring  access  to  care 
+that  might  be  put  into  place  in  time  for  the  January  1,  1992  implementation  of  physician 
+payment  reform. 
+
+Write-Off  Files  From  The  Common  Working  File 
+
+First,  it  should  be  relatively  straightforward  to  obtain  access  to  records  for  the  standard 
+HCFA  five  percent  beneficiary  sample4,  either  directly  or  by  requesting  summary  statistics 
+from  HCFA.  This  may  not  be  adequate,  however,  for  some  of  the  smaller  vulnerable 
+populations  identified  by  the  Panel  (eg.,  individuals  in  HPSAs),  for  analyzing  subsets  of 
+the  vulnerable  populations,  or  for  applying  some  of  the  measures  of  access  that  depend 
+on  fairly  rare  events,  such  as  the  sentinel  events. 
+
+
+For  example,  claims  for  the  25,000  beneficiaries  in  the  Current  Beneficiary  Survey  sampling  frame  are 
+
+cumulated  on  a  weekly  (Part  B)  or  monthly  (Part  A)  basis.  At  the  present  time,  this  is  the  largest  such 
+"prospective  tap"  that  HCFA  has  installed  within  the  CWF  system. 
+
+3  HCFA  is  doing  a  considerable  amount  of  CWF  data  processing  on  behalf  of  the  Agency  for  Health  Care 
+Policy  and  Research,  which  in  turn  transfers  several  million  dollars  per  year  to  support  HCFA  <fara  processing 
+efforts.  It  is  not  clear  what  priority  non-paying  requests  would  have. 
+
+Five  percent  of  all  non-ESRD  beneficiaries,  and  100  percent  of  ESRD  beneficiaries.  This  amounts  to 
+roughly  1.7  million  beneficiaries. 
+
+
+32 
+
+
+Second,  the  Commission  might  request  that  population-specific  files  be  created  on  batch 
+basis  from  the  existing  1991  CWF  records  and  on  a  "prospective  tap"  basis  for  the  1992 
+records.  This  would  require  some  negotiation  with  HCFA  data  processing  staff  and 
+others,  and  the  size  of  the  population  so  sampled  would  be  constrained  by  some  notion  of 
+feasibility  and  reasonableness. 
+
+One  approach  to  monitoring  access  immediately  after  January  1,  1992  would  be  to  request 
+a  sample  of  records  from  the  Common  Working  File  on  a  flow  basis.  That  is,  all  Part  A 
+and  Part  B  records  for  selected  areas  or  populations  could  be  written  to  tape  cartridges 
+on  a  weekly  or  monthly  basis  for  analysis. 
+
+While  this  is  technically  feasible,  it  would  involve  a  substantial  amount  of  work,  both  at 
+HCFA  and  at  the  Commission.  The  largest  "prospective  tap"  currently  in  place  in  the 
+CWF  system  collects  records  for  approximately  25,000  beneficiaries,  or  less  than  0.1 
+percent  of  the  beneficiary  population.  It  might  be  possible  to  acquire  information  on 
+substantially  larger  samples  of  beneficiaries,  particularly  if  we  restrict  the  sampling  to  sub¬ 
+samples  of  the  standard  HCFA  5  percent  beneficiary  sample.  However,  the  cost  of 
+collecting  and  processing  the  data  would  grow  accordingly. 
+
+Use  Of  HCFA  Summary  Data 
+
+An  alternative  to  the  detail  of  the  CWF  would  be  to  analyze  summary  data  provided  by 
+HCFA.  Utilization  information  for  some  of  the  geographic  areas  (eg.,  payment  areas)  and 
+population  types  (eg.,  disabled,  ESRD)  may  be  tabulated  on  a  routine  basis  by  HCFA. 
+However,  this  information  is  likely  to  be  in  terms  of  gross  outlays  or  outlays  by  type  of 
+service,  and  we  are  not  likely  to  be  able  to  track  the  more  refined  measures  of  access. 
+
+Currently,  most  HCFA  summary  data  are  of  two  types.  First,  there  are  a  number  of 
+annual  summary  files  produced.  These  typically  track  outlays  by  geographic  area  and 
+broad  beneficiary  population  groups  (eg,,  age  categories).  Typically,  these  files  have  been 
+available  only  with  a  considerable  lag,  often  several  years. 
+
+A  second  set  of  summary  statistics  consists  of  carrier  workload  reports  and  Treasury 
+outlays.  These  are  often  produced  monthly,  but  are  on  paid  basis,  that  is,  they  reflect  the 
+number  of  claims  processed,  not  the  amount  of  care  delivered  at  any  one  time.  Typically, 
+these  reports  would  reflect  only  gross  aggregates  such  as  total  expenditure  by  type  of 
+service. 
+
+The  Commission  may  wish  to  explore  developing  an  arrangement  with  HCFA  to  generate 
+some  more  detailed  and  timely  summary  statistics.  For  example,  there  are  only  about  10 
+million  Part  A  final  bills  submitted  each  year.  Measures  of  access  based  on  Part  A 
+utilization  (eg.,  some  of  the  sentinel  events)  might  be  tracked  fairly  easily  and  quickly  and 
+on  a  reasonably  detailed  basis. 
+
+
+33 
+
+
+Surveys  Of  Beneficiaries  And  Physicians 
+
+
+An  alternative  to  claims  data  for  monitoring  of  access  in  1992  would  be  surveys  of 
+beneficiaries  or  physicians. 
+
+Surveys  of  beneficiaries  may  be  an  important  source  of  information  on  the  immediate 
+effects  of  payment  reform.  Staff  contacted  the  American  Association  of  Retired  Persons 
+(AARP).  Although  AARP  used  to  do  annual  surveys  on  a  wide  range  of  issues  concerning 
+older  Americans,  it  is  now  moving  to  custom  surveys  on  special  topics.  AARP  staff  have 
+expressed  willingness  to  explore  cooperation  with  the  Commission  in  this  area. 
+
+Rather  than  rely  on  existing  surveys  of  beneficiaries,  the  Commission  may  wish  to 
+undertake  its  own  surveys  to  obtain  immediate  feedback  on  physician  payment  reform. 
+To  obtain  reliable  estimates  for  the  geographic  areas  and  vulnerable  populations  discussed 
+above,  this  would  require  a  fairly  substantial  sample  of  beneficiaries.  The  Commission 
+may  wish  to  contract  with  national  survey  organizations  for  a  large-scale  survey  of 
+beneficiaries. 
+
+Physician  organizations  are  another  potential  sources  of  information  on  the  immediate 
+impact  of  payment  reform.  Staff  identified  four  organizations  who  have  recently  surveyed 
+physicians:  the  North  Carolina  chapter  of  the  American  Society  of  Internal  Medicine 
+(NCSIM),  the  American  Academy  of  Family  Physicians,  the  Minnesota  Medical 
+Association,  and  the  American  Medical  Association.  The  American  Medical  Association 
+is  currently  doing  research  on  the  access  issue,  and  may  introduce  access  measures  in  it 
+the  physician  surveys  that  it  routinely  fields.  The  American  Urological  Association  is  also 
+conducting  a  large  survey  of  its  membership  on  access  and  other  issues.  This  is  not  an 
+exhaustive  list,  and  there  are  probably  other  significant  physicians  survey  projects  of  which 
+Commission  staff  are  unaware. 
+
+Beneficiary  Focus  Groups 
+
+A  final  option  for  immediate  feedback  on  the  impact  of  payment  reform  would  be  to 
+organize  beneficiary  focus  groups.  The  Commission  has  had  some  success  (using 
+Mathematica  Policy  Research  as  a  contractor)  in  conducting  some  focus-group  type  work 
+in  developing  a  Commission  survey  of  beneficiary  understanding  of  assignment  and 
+participation  in  the  Medicare  program.  However,  this  option  probably  would  not  lead  to 
+easily  quantifiable  data. 
+
+
+34 
+
+
+SOURCES  AND  USES  OF  DATA  FOR  LONGER-TERM  MONITORING  OF  ACCESS 
+
+
+The  principal  difference  between  the  short-run  strategies  mentioned  above  the  strategies 
+available  in  the  longer  run  is  that  several  detailed  datasets  will  become  available  in  late 
+1993  or  early  1994.  These  would  include  the  following: 
+
+Part  B  Medicare  Annual  Data  (BMAD)  Files 
+
+The  Part  B  Medicare  Annual  Data  (BMAD)  file  system  consists  of  annual  summaries  and 
+samples  of  Part  B  non-institutional  claims.  Currently,  each  carrier  submit  its  BMAD  files 
+to  HCFA,  which  then  edits  and  combines  the  carrier  submissions  to  generate  national  files. 
+The  BMAD  files  typically  are  released  one  year  after  the  close  of  the  calendar  year. 
+HCFA  staff  plan  to  continue  to  generate  BMAD-like  files  from  the  Common  Working  File 
+data.  It  is  not  clear  at  this  point  whether  any  of  the  new  information  available  in  the  CWF 
+record  (eg.,  diagnosis  code)  will  be  added  to  the  BMAD  records. 
+
+There  are  four  separate  BMAD  files.  The  first  (BMAD-I)  summarizes  all  Part  B  claims 
+(other  than  facility  charges)  by  carrier,  physician  specialty,  and  CPT  code.  Thus,  with 
+some  modification,  this  file  could  be  used  to  calculate  area-specific  utilization  rates  for 
+carrier  charge  localities.  It  could  not,  however,  be  used  to  examine  utilization  for  smaller 
+areas  (eg.,  HPSAs,  ZIP  codes).  The  second  (BMAD-II)  is  the  list  of  prevailing  charges 
+across  the  various  carrier  charge  localities.  It  will  become  obsolete  after  the  Medicare  Fee 
+Schedule  is  introduced.  The  third  (BMAD-HI)  contains  all  claims  lines  for  a  five  percent 
+sample  of  all  providers,  while  the  fourth  (BMAD-IV)  contains  all  claims  lines  for  a  five 
+percent  sample  of  beneficiaries.5 
+
+Medicare  Provider  Analysis  And  Review  (MEDPAR)  File 
+
+The  MEDPAR  file  contains  all  Part  A  inpatient  discharge  abstracts  for  a  fiscal  year. 
+These  records  retain  multiple  ICD-9-CM  procedure  and  diagnosis  codes,  as  well  as  other 
+information  such  as  length  of  stay  and  discharge  status.  In  addition  to  the  standard 
+MEDPAR  file,  a  relatively  new  file  called  the  QC-MEDPAR  exists.  This  file  contains 
+additional  information  concerning  readmission  and  death  after  discharge  from  the  hospital. 
+These  records  are  available  for  the  universe  of  Medicare  beneficiaries. 
+
+Survey  Data 
+
+Data  from  two  national  surveys  should  be  available  in  the  years  after  1992.  These  are  the 
+Current  Beneficiary  Survey  (CBS)  and  the  Health  Interview  Survey  (HIS). 
+
+
+5  Plus  100  percent  of  all  ESRD  beneficiaries. 
+
+
+35 
+
+
+Some  aspects  of  the  data  are  common  to  both  surveys.  First,  the  sample  sizes  are  small 
+enough  to  preclude  some  levels  of  analysis.  For  example,  the  CBS  will  sample  about 
+12,000  Medicare  beneficiaries,  while  the  HIS  sample  contains  roughly  the  same  number 
+of  individuals  over  age  65.  This  would  make  estimates  of  some  sentinel  conditions,  smaller 
+vulnerable  populations,  and  smaller  areas  relatively  volatile  across  years. 
+
+Second,  both  surveys  contain  health  status  and  health  care  utilization  information.  For  the 
+HIS,  that  information  is  based  on  the  recall  of  the  respondents.  For  the  CBS,  claims 
+information  from  the  Medicare  statistical  system  will  be  appended  to  the  responses.  In 
+addition,  the  CBS  will  contain  a  series  of  questions  aimed  directly  at  changes  in  access. 
+
+Other  Non-Medicare  Trend  Data 
+
+A  further  option  in  the  long  run  would  be  to  track  expenditures  and  utilization  for 
+populations  other  than  Medicare.  Several  sources  of  non-Medicare  data  may  be  available. 
+
+State  Hospital  Discharge  Abstract  Data.  Currently  29  states  have  some  mandate  to 
+generate  hospital  utilization  information.  However,  only  about  14  states  generate  usable 
+hospital  discharge  abstract  files.6  In  addition,  this  information  is  generally  available  only 
+with  a  considerable  lag.  For  instance,  no  state  has  a  1990  file  yet  available,  several  states 
+have  1989  files,  but  the  majority  of  states  have  only  a  1988  or  earlier  file  available. 
+
+One  possible  alternative  to  the  use  of  state  hospital  discharge  abstracting  systems  is  the 
+Commission  on  Professional  and  Hospital  Activities  (CPHA)  data.  CPHA  collects  hospital 
+discharge  abstract  information  on  a  very  timely  basis  from  some  of  its  member  hospitals. 
+However,  the  sample  of  CPHA  reporting  hospitals  is  not  uniformly  distributed  across 
+areas,  and  it  may  be  difficult  to  generate  population-based  use  rates  from  these  data. 
+
+The  MEDSTAT  Data.  MEDSTAT  gathers  claims  for  the  employees  of  approximately  100 
+large  organizations  and  analyzes  those  claims  for  their  client  organizations.  MEDSTAT 
+currently  produces  about  30  million  outpatient  claims  annually,  with  a  reasonably  even 
+geographic  distribution  across  urbanized  areas  of  the  U.S.  They  claim  to  be  able  to 
+generate  good  national  use  rates,  but  cannot  generate  reliable  state-level  utilization  rates 
+for  much  of  their  data.  However,  for  about  half  of  their  data,  they  can  generate 
+population-based  utilization  rates  for  sub-national  areas. 
+
+The  HIAA  Data.  The  Health  Insurance  Association  of  America  (HIAA)  produces  data 
+showing  submitted  and  covered  charges  for  a  number  of  procedures.  However,  those  data 
+
+
+6  This  information  comes  from  a  recent  telephone  survey  conducted  by  Greg  Dodds  of  Consolidated 
+Consulting  Group.  Many  of  the  largest  states  have  discharge  abstract  datasets,  including  New  York,  California, 
+and  Florida. 
+
+
+36 
+
+
+have  generally  been  used  for  pricing  purposes,  and  it  is  not  clear  that  good  utilization  rates 
+can  be  calculated  from  them. 
+
+National  Center  for  Health  Statistics.  The  NCHS  gathers  information  on  a  number  of 
+important  medical  services  for  a  sample  of  the  U.S.  population  using  the  HIS  and  other 
+sources.  These  data  may  be  sufficient  for  national  comparison  with  Medicare  trends. 
+
+Other.  Other  payers  may  be  willing  to  provide  data  for  their  populations.  The  Civilian 
+Health  and  Medical  Program  for  the  Uniformed  Services  (CHAMPUS)  is  national  in 
+scope  and  maintains  detailed  utilization  files  on  its  enrollees.  Similarly,  the  Federal 
+Employees’  Program  (FEP)  is  the  national  Blue  Cross  and  Blue  Shield  insurer  for  Federal 
+employees.  It  too  collects  detailed  claims  information  across  the  United  States. 
+Commission  staff  have  not  contacted  either  of  these  institutions  yet  to  inquire  about  data 
+availability. 
+
+
+37 
+
+
+SUMMARY  AND  TENTATIVE  WORKPLAN 
+
+
+This  appendix  has  described  in  detail  many  feasible  approaches  to  monitoring  access  both 
+immediately  and  in  the  longer  run.  The  Commission  is  now  considering  its  options  for 
+monitoring  access. 
+
+Clearly,  the  first  focus  of  work  must  be  on  access  measures  to  be  put  into  place  prior  to 
+the  implementation  of  physician  payment  reform.  The  phase-in  of  the  Medicare  Fee 
+Schedule  is  now  less  than  a  year  away,  and  any  action  that  will  be  taken  to  monitor  access 
+in  the  short  run  must  be  planned  and  implemented  now. 
+
+In  terms  of  data  sources,  at  this  juncture  probably  the  most  reasonable  approach  is  to 
+concentrate  on  readily  available  HCFA  claims  datasets.  Part  B  claims  for  the  standard  5 
+percent  beneficiary  sample,  and  Part  A  claims  for  all  beneficiaries  are  both  large  but 
+manageable  files.  Thus,  analysis  for  the  first  year  may  focus  on  these  two  files. 
+
+Much  work  needs  to  be  done  to  validate  the  numerous  proposed  measures  of  access  using 
+existing  data.  Existing  historical  files  (the  BMAD  and  MEDPAR  files)  provide  claims 
+information  for  5  percent  of  Part  B  and  100  percent  of  Part  A  claims.  Thus,  these 
+historical  files  can  be  used  to  examine  the  validity  and  reliability  of  the  various  measures 
+of  access  discussed  here.  Once  having  settled  on  a  reliable  set  of  measures,  the 
+Commission  may  pursue  obtaining  more  recent  data  from  HCFA  and  tracking  trends  in 
+these  measures  of  access. 
+
+The  Commission  will  also  examine  the  availability  of  beneficiary  and  physician  survey  data. 
+While  probably  less  precise  than  claims  files,  such  data  could  provide  a  meaningful  and 
+timely  supplement  to  claims-based  analysis. 
+
+Finally,  the  Commission  reiterates  its  belief  that  HCFA  should  routinely  report  detailed 
+Part  A  and  Part  B  utilization  statistics  in  a  manner  that  will  allow  other  interested  parties 
+to  assess  changes  in  beneficiaries’  access  to  care.  A  common  set  of  data  available  to  all 
+would  enhance  dialogue  on  beneficiaries’  access  to  care  and  preserve  confidence  in  the 
+Medicare  program. 
+
+
+REFERENCES 
+
+Department  of  Health  and  Human  Services,  Report  to  Congress:  Monitoring  Changes  in  Use 
+of,  Access  to,  and  Appropriateness  of  Part  B  Medicare  Services,  U.S.  Department  of 
+Health  and  Human  Services,  Washington,  DC,  1991. 
+
+
+38 
+
+
+Health  Resources  and  Services  Administration,  Incorporating  Health  Status  Indicators  into 
+the  Measurement  of  Medical  Underservice,  Contract  Number  240-86-0056,  Health 
+Resources  and  Services  Administration,  Public  Health  Service,  U.S.  Department 
+of  Health  and  Human  Services,  Washington,  DC,  1987. 
+
+Physician  Payment  Review  Commission,  Medicare  Volume  Performance  Standard  Rate  of 
+Increase  for  Fiscal  Year  1991 ,  Washington,  DC,  1990. 
+
+United  Hospital  Fund  of  New  York,  Measuring  Avoidable  Deaths  and  Diseases  in  New  York 
+State ,  United  Hospital  Fund  of  New  York  Paper  Series  8,  January  1988. 
+
+
+LIBRARY  OF  CONGRESS 
+
+
+0  009  817  175  7 
+
+
+. 
+
+
+* 
+
+> 
+
+% 
+

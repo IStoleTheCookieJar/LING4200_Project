@@ -1,0 +1,8352 @@
+TN295 
+
+
+No.  9255 
+
+
+HKsSS 
+
+
+4y  .*»••  "^        6* 
+
+
+°  aV^         •V/Wf'  cP°^         •*  SCOTS'0         «\>"^  oW«ZW«  e>^„.         -»*elfi^^ro  «V^.  „fc2?<SrtRSSS?«i  ^vP  j 
+
+
+4     A 
+
+
+*<^        *  0   *  0  «        %^> 
+
+
+.F^ 
+
+
+°q,   ^T*\o° 
+
+
+Vv  ,•«••- 
+
+
+""it    v. 
+
+
+Tvi*  .A 
+
+
+*oF 
+
+
+•  **v%  * 
+
+
+*     A 
+
+
+•4»     •Av       ' 
+
+
+A* 
+
+
+^ 
+
+
+^9S 
+
+j>^ 
+^    *« 
+
+
+:.  -z 
+
+
+£  °^ 
+
+
+^o< 
+
+
+^     -  -  ■-     V 
+
+
+^•—    A* 
+
+
+^A*    *£m2>s.  **ma 
+
+
+%.»«• 
+
+
+♦T 
+
+
+^o4* 
+
+
+3,0-^. 
+
+
+ro°  v^ 
+
+
+••  •/  %.  • 
+
+
+•  1 1  -         A> 
+
+V  .»i"»-.  'c^  a0v, 
+
+
+%^^\^      V*^\^      %.^r^^     V 
+
+
+v^    "*7*T! 
+
+
+BUREAU  OF  MINES        V/t/ 
+INFORMATION  CIRCULAR/1990 
+
+
+Baseline  Tensile  Testing  at  the  Wire 
+Rope  Research  Laboratory 
+
+
+By  William  M.  McKewan  and  Anthony  J.  Miscoe 
+
+
+(801 
+
+\     YEARS     g 
+
+%U  OF  ^ 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardshipandcitizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9255 
+
+M 
+
+
+Baseline  Tensile  Testing  at  the  Wire 
+Rope  Research  Laboratory 
+
+By  William  M.  McKewan  and  Anthony  J.  Miscoe 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+McKewan,  William  M. 
+
+Baseline  tensile  testing  at  the  Wire  Rope  Research  Laboratory  /  by  William  M. 
+McKewan  and  Anthony  J.  Miscoe. 
+
+p.      cm.  -  (Information  circular  /  Bureau  of  Mines;  9255) 
+
+Includes  bibliographical  references  p.  23. 
+
+Supt.  of  Docs,  no.:  128.27:9255. 
+
+1.  Mine  hoisting-Equipment  and  supplies-Testing.  2.  Wire  rope-Fatigue- 
+Testing.  3.  Fatigue  testing  machines.  I.  Miscoe,  Anthony  J.  II.  Title.  III.  Series: 
+Information  circular  (United  States.  Bureau  of  Mines);  9255. 
+
+TN295.U4     [TN339]     622  s-dc20      [622'.6]       89-600355       CIP 
+
+
+CONTENTS 
+
+
+Page 
+
+
+Abstract 1 
+
+Introduction 2 
+
+Equipment  description    2 
+
+Experimental  design 4 
+
+Experimental  procedure 5 
+
+Experimental  results 5 
+
+Typical  results   5 
+
+Summary  of  normal  breaks 7 
+
+Construction  stretch 12 
+
+Breaking  load  versus  gauge  length 13 
+
+Breaking  load  versus  reel  position 13 
+
+Effects  of  stroke  rate  on  results    15 
+
+Effect  of  gauge  length  on  modulus  of  elasticity    15 
+
+Comparison  of  zinc  and  epoxy  socketing 21 
+
+Torque  calculations    22 
+
+Summary 23 
+
+References 23 
+
+ILLUSTRATIONS 
+
+1.  Tensile  and  axial  fatigue  testing  machine    3 
+
+2.  Typical  test  data,  rope  D 8 
+
+3.  Typical  test  data,  rope  B    9 
+
+4.  Stress  versus  strain,  rope  B    13 
+
+5.  Effect  of  prestretching  on  rope  samples,  rope  B 13 
+
+6.  Breaking  load  versus  sample  length    14 
+
+7.  Effect  of  sample  position  on  reel 15 
+
+8.  Effect  of  log  stroke  rate,  rope  G    15 
+
+9.  Modulus  versus  gauge  length  for  various  ropes 16 
+
+10.  Elongation  versus  gauge  length  at  100,000-psi  stress  for  various  ropes    20 
+
+11.  Elongation  correction  for  stretch  of  socket  filler  versus  load 21 
+
+12.  Breaking  strength  and  elongation  versus  gauge  length  for  epoxy  and  zinc  terminations 21 
+
+13.  Modulus  versus  gauge  length  for  epoxy  and  zinc  terminations 22 
+
+TABLES 
+
+1.  Tensile  and  axial  fatigue  testing  machine  specifications 3 
+
+2.  Characteristics  of  wire  ropes  used  in  tests 4 
+
+3.  Typical  baseline  test  on  wire  rope  D    6 
+
+4.  Typical  baseline  test  on  wire  rope  B 7 
+
+5.  Summary  of  test  series  on  rope  A    10 
+
+6.  Summary  of  test  series  on  rope  B 10 
+
+7.  Summary  of  test  series  on  rope  C    10 
+
+8.  Summary  of  test  series  on  rope  D    11 
+
+9.  Summary  of  test  series  on  rope  E    11 
+
+10.  Summary  of  test  series  on  rope  F 11 
+
+11.  Effect  of  stroke  rate,  rope  G  test  series    12 
+
+12.  Test  series  on  zinc-filled  sockets,  rope  H    12 
+
+13.  Baseline  tensile  test  summary 12 
+
+14.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  A 17 
+
+15.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  B 18 
+
+16.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  C 18 
+
+17.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  D 18 
+
+18.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  E 18 
+
+19.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  F 19 
+
+20.  Effect  of  sample  length  on  modulus  and  elongation  at  100,000-psi  stress  for  rope  H 19 
+
+
+TABLES  -  Continued 
+
+
+Page 
+
+
+21.  Elongation  correction  versus  rope  diameter  at  100,000-psi  stress 
+
+22.  Calculation  of  Gibson's  torque  constant   
+
+
+21 
+
+23 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+ft 
+
+foot 
+
+lbf-ft/kip 
+
+pound  (force)  foot  per  kip 
+
+ft/min 
+
+foot  per  minute 
+
+m 
+
+meter 
+
+gpm 
+
+gallon  per  minute 
+
+min 
+
+minute 
+
+hp 
+
+horsepower 
+
+mm 
+
+millimeter 
+
+in 
+
+inch 
+
+pet 
+
+percent 
+
+in/min 
+
+inch  per  minute 
+
+pet  in/in 
+
+percent  inch  per  inch 
+
+kip/in2 
+
+kip  per  square  inch 
+
+psi 
+
+pound  (force)  per  square  inch 
+
+lb 
+
+pound 
+
+s 
+
+second 
+
+lbf-ft 
+
+pound  (force)  foot 
+
+BASELINE  TENSILE  TESTING  AT  THE  WIRE  ROPE  LABORATORY 
+
+By  William  M.  McKewan1  and  Anthony  J.  Miscoe2 
+
+
+ABSTRACT 
+
+The  U.S.  Bureau  of  Mines  has  established  a  wire  rope  research  laboratory  to  examine  the  factors 
+that  affect  the  life  of  wire  rope.  Ropes  of  sizes  ranging  from  3/4  to  2  in.  in  diameter  and  from  2  to  35  ft 
+in  length  were  tested  to  determine  their  breaking  strength,  elongation,  and  torque.  This  was  done  to 
+characterize  the  test  equipment  on  ropes  used  in  mine  hoisting  systems. 
+
+
+Metallurgist. 
+
+Supervisory  physical  scientist. 
+Pittsburgh  Research  Center,  U.S.  Bureau  of  Mines,  Pittsburgh,  PA. 
+
+
+INTRODUCTION 
+
+
+The  U.S.  Bureau  of  Mines  hoisting  systems  develop- 
+ment project  is  an  effort  to  improve  the  safety  and 
+efficiency  of  mine  hoisting  systems.  A  major  part  of  this 
+effort  involves  the  study  of  the  degradation  of  wire  rope 
+during  its  service  life.  Some  500  hoists  are  used  in  the 
+United  States,  and  in  most  of  them,  the  cages  for 
+personnel  and  the  skips  for  product  are  raised  and  lowered 
+by  a  single  wire  rope.  Cages  may  hold  as  many  as 
+100  people,  and  shafts  are  as  deep  as  7,000  ft. 
+
+Skips  have  fallen  in  this  country,  with  accidents  to 
+nearby  personnel  and  damage  to  the  hoisting  system.  The 
+accidents  resulting  from  retrieving  the  rope,  repairing,  and 
+putting  the  shaft  back  into  service  are  significant.  No 
+cages  have  fallen  in  the  United  States,  but  the  probability 
+of  such  occurrences  will  escalate  in  the  future  because 
+mining  deeper  reserves  will  require  longer  ropes  and 
+higher  hoisting  speeds.  Lower  safety  factors  will  be  used 
+since  regulations  state  that  the  safety  factor  can  be  reduced 
+from  7  to  4  as  shaft  depth  increases  from  0  to  4,000  ft  and 
+more.  The  fact  that  cages  have  fallen  in  foreign  countries 
+confirms  that  this  research  is  not  only  desirable  but 
+necessary. 
+
+While  the  technology  of  fabricating  wire  ropes  has 
+achieved  a  high  degree  of  sophistication,  the  quantitative 
+understanding  of  the  degradation  of  the  rope  during 
+service  is  at  a  very  low  level.  A  wire  rope  is  really  a 
+mechanical  system  having  a  very  complex  geometry.  It  is 
+actually  a  multilayer  spring  with  internal  damping.  When 
+a  loaded  wire  rope  is  bent  around  a  sheave  to  change  its 
+direction,  the  mechanics  become  even  more  complicated 
+since  transverse  forces  are  introduced.  In  addition  to  the 
+internal  wear  caused  by  the  wires  sliding  on  each  other, 
+external  wear  is  caused  by  rubbing  and  sliding  in  the 
+sheave.  Adding  to  the  problem  are  the  dynamics  of  ropes 
+up  to  a  mile  long  and  ropes  traveling  at  speeds  up  to 
+2,850  ft/min,  accelerating  and  decelerating  with  attached 
+loads  on  imperfectly  aligned  guides.  Also  to  be  considered 
+are  the  mine  shaft  environmental  conditions  of  abrasive 
+dirt  and  acid  or  alkaline  moisture.  Consequently,  mine- 
+hoist  ropes  endure  great  punishment.     Analysis  of  the 
+
+
+effects  of  these  factors  on  the  deterioration  of  a  wire  rope 
+therefore  requires  an  extensive  research  program  and  data 
+generation  with  high  precision. 
+
+The  Wire  Rope  Research  Laboratory  (WRRL)  was  es- 
+tablished by  the  Bureau  to  examine  the  factors  that  affect 
+wire  rope  strength,  and  ultimately,  its  useful  life.  At 
+present,  hoist  ropes  in  mines  are  inspected  both  visually 
+and  by  nondestructive  sensors.  A  judgment  is  made,  based 
+on  the  observations  and  experience  of  the  observer,  as 
+to  whether  the  rope  meets  the  retirement  criteria  of  the 
+U.S.  Mine  Safety  and  Health  Administration  (MSHA)  (if 
+and  should  be  retired  from  service.  At  some  mines,  ropes 
+are  retired  after  a  certain  period  of  time  has  occurred  or 
+a  given  amount  of  tonnage  has  been  lifted.  The  purpose 
+of  the  WRRL  is  to  provide  accurate  data  to  determine  the 
+effects  of  variables  on  the  reduction  of  the  strength  of  wire 
+rope  during  its  service  life  so  that  judgment  becomes  less 
+of  a  factor. 
+
+The  best  way  to  measure  the  deterioration  of  strength 
+in  a  wire  rope  is  to  measure  its  ultimate  or  breaking 
+strength,  but  this  obviously  cannot  be  done  while  the  rope 
+is  in  service.  At  the  WRRL,  ropes  will  be  deteriorated  by 
+a  bending  fatigue  machine  of  unique  design,  containing 
+three  sheaves  that  will  exercise  a  1,000-ft  length  of  rope  to 
+produce  nine  different  levels  of  fatigue  at  a  predetermined 
+tensile  load  and  travel  speed.  Visual  inspection  and  non- 
+destructive testing  (NDT)  profiles  will  be  made  periodi- 
+cally as  the  rope  is  cycled.  After  some  time,  broken  wires 
+and  other  indications  of  wear  will  determine  that  the  rope 
+be  removed.  Sections  of  special  interest  will  be  cut  out, 
+then  further  subdivided  for  detailed  examination.  The  ex- 
+amination will  consist  of  four  analyses  (in  addition  to  the 
+NDT  profile):  wire-by- wire  examination  for  correlation 
+with  the  NDT  profiles,  single-wire  torsion  tests,  metallo- 
+graphic  examination,  and  tensile  strength  measurements. 
+
+The  primary  objectives  of  the  baseline  testing  program 
+covered  in  this  report  were  to  determine  (1)  the  operating 
+characteristics  of  the  tensile  machine,  (2)  the  precision  of 
+data  produced  by  the  tensile  machine,  and  (3)  the  proper- 
+ties of  the  wire  rope  samples  used  during  tensile  testing. 
+
+
+EQUIPMENT  DESCRIPTION 
+
+
+Although  the  tensile  machine  was  designed  primarily 
+for  tensile  strength  tests  on  wire  rope  specimens  in  support 
+of  bending  fatigue  research,  it  also  has  the  versatility  to 
+test  fatigue  under  cyclic  axial  force.  The  main  application 
+of  this  tensile  machine  will  be  to  measure  breaking 
+strengths,  elongations,  and  torques  of  new  ropes  for 
+comparison  with  measurements  made  after  the  ropes  have 
+been  degraded  on  the  bending  fatigue  machine.  These 
+measurements  will  provide  quantitative  data  to  establish 
+
+
+the  effects  of  service  conditions  on  the  life  of  wire  ropes. 
+New  and  used  ropes  from  mine  hoists,  obtained  through 
+cooperative  agreements  with  mining  companies,  will  also 
+be  tested  to  assess  the  effects  of  real-life  use.  The  ma- 
+chine is  shown  in  figure  1.  System  specifications  are  listed 
+in  table  1. 
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+at  the  end  of  this  report. 
+
+
+'///////""""■ 
+
+
+Figure  1. -Tensile  and  axial  fatigue  testing  machine. 
+
+
+Table  1, -Tensile  and  axial  fatigue  testing 
+machine  specifications 
+
+Description  Specification 
+
+Maximum  rope  tension lb  .  .  800.000 
+
+Maximum  rope  diameter    in  .  .  2-1/2 
+
+Specimen  length    ft  .  .  2-33 
+
+Maximum  actuator  speed in/min  .  .  16 
+
+Hydraulic  system: 
+
+Row  rate gpm  .  .  70 
+
+Pressure   psi  .  .  3.000 
+
+Drive  motor hp  .  .  125 
+
+The  machine  is  essentially  a  hydraulically  actuated  ten- 
+sile testing  machine  in  a  horizontal  position  rather  than 
+the  usual  vertical  position  to  reduce  vertical  height  re- 
+quirements and  for  ease  of  access.  It  is  composed  of  three 
+elements  operating  in  conjunction:  the  load  frame,  the 
+electrical  console,  and  hydraulic  power  supply.  The  load 
+frame  contains  the  hvdraulic  crosshead  locks.  The  locks 
+
+
+sustain  full  rated  load  in  either  direction  with  zero  slippage 
+and  zero  backlash.  Safety  containers  for  the  specimen  are 
+provided  for  operator  protection  during  testing. 
+
+Functionally,  the  test  machine  is  a  closed-loop  servohy- 
+draulic  system  in  which  high-pressure  hydraulic  fluid  under 
+the  precise  control  of  a  servovalve  is  provided  to  the  hy- 
+draulic actuator,  which  applies  the  load  to  the  specimen. 
+To  accomplish  this,  the  system  controller  accepts  externally 
+generated  electrical  control  and  feedback  signals  from  the 
+transducer.  These  signals  are  compared  to  detect  any 
+error,  and  the  resulting  signal  is  used  to  control  the  servo- 
+valve.  Several  operating  variables  can  be  selected  as  con- 
+trol parameters  by  choosing  the  appropriate  transducer 
+for  the  feedback  signal.  The  controllable  parameters  are 
+displacement  of  the  actuator,  load  applied  to  the  specimen, 
+and  torque  generated  by  the  wire  rope  specimen  as  an  ax- 
+ial load  is  applied. 
+
+
+The  electronic  control  console  contains  all  the  necessary 
+components  for  servocontrol,  hydraulic  power  control,  sig- 
+nal conditioning,  test  parameter  readout,  and  interlock 
+functions.  It  also  contains  a  digital  computer  and  the  nec- 
+essary interfaces  to  record,  manipulate,  and  plot  the  testing 
+data. 
+
+The  factors  examined  in  the  baseline  series  were 
+
+1.  The  precision  of  the  data  generated  by  the  system 
+for  ultimate  strength,  elongation,  and  torque. 
+
+
+2.  The  effectiveness  of  resin  sockets  to  withstand  rope 
+ultimate-strength  loads  and  comparison  of  resin  sockets 
+with  zinc  (spelter)  sockets. 
+
+3.  The  effect  of  actuator  speed  on  generated  data. 
+
+4.  The  effect  of  sample  length  on  generated  data. 
+
+5.  Variation  of  generated  data  along  the  length  on  a 
+single  reel  of  rope. 
+
+
+EXPERIMENTAL  DESIGN 
+
+
+There  are  a  number  of  factors  that  can  be  determined 
+during  the  tensile  testing  of  wire  rope.  Some  are  measured 
+directly,  such  as  breaking  load,  and  some  are  calculated, 
+such  as  modulus  of  elasticity.  Before  a  test  is  conducted, 
+certain  physical  measurements  are  made  on  the  rope. 
+These  are  (1)  gauge  length,  the  rope  length  between  the 
+sockets,  (2)  rope  diameter,  and  (3)  lay  length.  From  the 
+diameter  and  the  rope  construction,  the  metallic  area  can 
+be  calculated. 
+
+During  the  course  of  the  program  the  operational  char- 
+acteristics of  the  machine  were  determined.  The  measure- 
+ments made  during  testing  were  (1)  the  displacement  of 
+the  actuator  rod,  or  the  stroke,  (2)  the  load  applied  to  the 
+specimen,  and  (3)  the  torque  generated  by  the  specimen  as 
+an  axial  load  is  applied.  The  sensors  for  these  measure- 
+ments were  calibrated  by  the  machine  manufacturer. 
+
+Bureau  researchers  wanted  to  gain  as  much  information 
+as  possible  from  the  testing,  both  about  the  tensile 
+machine  and  about  the  different  samples  of  rope.  It  was 
+known  in  advance  that  the  manufacturer's  catalog  does 
+
+
+not  provide  any  detailed  information  about  a  rope. 
+Manufacturers  are  required  only  to  meet  a  minimum 
+strength,  nothing  else;  they  are  not  required  to  give  data 
+on  the  actual  breaking  strength,  the  elongation,  the 
+chemical  composition,  or  the  microscopic  structure  of  the 
+rope.  Therefore,  the  experimental  work  was  designed  to 
+gain  maximum  data  from  as  few  tests  as  possible. 
+
+Originally,  10  tests  were  scheduled  for  each  rope  series. 
+The  characteristics  of  the  ropes  chosen  for  each  series  are 
+shown  in  table  2.  Samples  were  cut  to  the  following 
+lengths:  5,  10,  15,  20,  and  35  ft.  Two  samples  were  taken 
+of  each.  The  10  samples  were  cut  from  the  reel  in  random 
+order.  From  a  procedure  of  this  nature,  the  precision  of 
+the  testing  could  be  calculated.  In  addition,  the  effects  of 
+sample  size  on  the  results  and  the  uniformity  of  the  rope 
+on  the  reel  could  be  determined.  Later,  it  was  decided  to 
+add  2-ft  samples  to  the  test  program  to  increase  the  range 
+of  the  data  and  to  substitute  30-ft  samples  for  the  35-ft 
+samples  to  allow  for  the  larger  elongations. 
+
+
+Table  2.-Characteristics  of  wire  ropes  used  in  tests 
+
+
+Rope 
+
+
+(All  ropes  were  fiber  core,  improved  plow  steel,  set  in  socket  with  epoxy  resin, 
+and  tested  at  1-in/min  stroke  rate,  unless  otherwise  noted) 
+
+
+Diam, 
+in 
+
+
+Description 
+
+
+Strength,1 
+
+Samples 
+
+kips 
+
+tested 
+
+83.6 
+
+10 
+
+184.0 
+
+12 
+
+129.2 
+
+10 
+
+47.6 
+
+10 
+
+310.0 
+
+11 
+
+320.0 
+
+13 
+
+129.2 
+
+9 
+
+184.0 
+
+5 
+
+1 
+
+1-1/2 
+1-1/4 
+3/4 
+1-7/8 
+2 
+
+1-1/4 
+1-1/2 
+
+
+6  x  25  filler  wire,  6-in  right  regular  lay  ...  . 
+
+6x19  Seale,  10-in  right  Lang  lay 
+
+6  x  25  filler  wire,  8-in  right  Lang  lay 
+
+6x19  Seale,  5.25-in  right  Lang  lay    
+
+6  x  25  filler  wire,  12.75-in  right  Lang  lay  .  . 
+6  x  25  filler  wire,  13.125-in  right  regular  lay 
+6  x  25  filler  wire,  8-in  right  regular  lay  ...  . 
+6x19  Seale,  10-in  right  Lang  lay 
+
+
+'Catalog. 
+
+2Tested  at  stroke  rates  of  0.0625,  0.125,  1,  8,  and  16  in/min. 
+
+32nc-filled  socket. 
+
+
+EXPERIMENTAL  PROCEDURE 
+
+
+Enough  rope  was  cut  to  allow  for  the  amount  that 
+would  be  in  the  sockets.  The  ends  were  seized,  broomed, 
+and  cleaned.  The  brooms  were  cleaned  in  a  vented  tank 
+of  trichloroethane  and  then  washed  with  steam  and 
+detergent  to  remove  any  residual  matter.  The  brooms 
+were  then  closed,  inserted  into  the  sockets  and  set  in  an 
+epoxy  resin.  With  this  procedure,  there  was  no  problem 
+with  the  brooms  pulling  out  of  the  sockets.  After  curing 
+for  about  an  hour,  the  samples  were  ready  for  testing. 
+One  series  of  samples  was  made  commercially  with  zinc- 
+filled  sockets,  using  rope  from  a  reel  that  had  been 
+previously  tested,  to  compare  the  results  obtained  with  zinc 
+and  epoxy  sockets. 
+
+The  samples  were  placed  in  the  tensile  machine,  and 
+the  testing  was  begun.  Initially  a  prestretch  load  of  about 
+5  to  10  kips  was  placed  on  the  rope,  and  the  stroke  was  set 
+at  zero.  This  procedure  led  to  an  S-shaped  curve  during 
+the  elastic  portion  of  the  test,  because  of  the  construction 
+stretch  that  exists  in  new  rope.  During  the  second  series 
+of  samples,  a  prestretch  load  equal  to  20  pet  of  the 
+breaking  strength  was  placed  on  the  sample  for  10  min  or 
+until  the  rope  stopped  elongating.  This  load  was  then 
+removed,  and  the  test  was  conducted  as  before.  This  pro- 
+cedure eliminated  construction  stretch  and  the  S-shaped 
+curves.  The  20-pct  prestretch  load  was  used  for  all  of  the 
+remaining  tests.  Construction  stretch  and  the  S-curves  are 
+discussed  later  in  this  report. 
+
+The  following  measurements  were  made  during  the 
+testing  as  a  function  of  time:    (1)  load  in  kips,  (2)  stroke 
+
+
+in  inches,  (3)  torque  in  kip-inches.  From  these  measure- 
+ments the  other  factors  can  be  calculated,  such  as  stress, 
+strain,  and  elongation. 
+
+The  "Wire  Rope  Users  Manual"  (2)  gives  certain  speci- 
+fications for  determining  breaking  strengths  of  wire  ropes: 
+
+The  breaking  strength  is  the  ultimate  load 
+registered  on  a  wire  rope  sample  during  a  tension 
+test....  All  discussion  of  strength  is  predicated  on 
+the  assumption  of  there  being  a  gradually  applied 
+load  that  will  not  exceed  one  inch  per  minute....  A 
+minimum  acceptance  strength,  2-1/2%  lower  than 
+the  published  nominal  breaking  strengths,  was 
+established  as  the  industry  tolerance....  The  sample's 
+length  must  not  be  less  than  3  ft  (0.91  m)  between 
+sockets  for  ropes  with  diameters  of  from  1/8  inch 
+(3.2  mm)  through  3  inches  (77  mm);  on  ropes  with 
+larger  (over  3  inches)  diameters,  the  clear  length 
+must  be  a  least  20  times  the  rope  diameter.  The  test 
+is  considered  valid  only  if  failure  occurs  2  inches 
+(51  mm)  or  more  from  either  of  the  sockets,  or  from 
+the  holding  mechanism. 
+
+The  "Wire  Rope  Users  Manual"  specifications  were  fol- 
+lowed for  most  of  the  testing.  The  exceptions  were  (1)  a 
+few  2-ft  samples  were  tested  to  aid  in  the  determination 
+of  modulus  of  elasticity,  and  (2)  a  series  of  tests  were  run 
+over  a  range  of  stroke  rates  to  determine  the  effect  of  this 
+variable. 
+
+
+EXPERIMENTAL  RESULTS 
+
+
+TYPICAL  RESULTS 
+
+There  were  eight  series  of  rope  samples  run  during 
+the  baseline  testing.  Of  these  samples,  only  the  80  samples 
+that  broke  more  than  the  standard  two  in  from  the  sockets 
+were  used  for  the  determination  of  breaking  strength. 
+However,  samples  that  broke  near  the  sockets  could  be 
+used  for  calculation  of  modulus  of  elasticity  and  yield 
+because  these  data  are  accumulated  prior  to  the  breaking 
+point  and  are  independent  of  behavior  in  the  plastic  region 
+near  the  breaking  point. 
+
+The  data  from  two  tests  are  shown  in  tables  3  and  4. 
+The  stroke  in  inches  is  shown  to  be  a  function  of  time  in 
+seconds  since  the  stroke  was  set  at  1  in/min.  This  can  be 
+seen  easily  by  comparing  the  stroke  data  with  the  time  at 
+60-s  intervals.  The  load  in  kips  and  the  torque  in  kip- 
+inches  were  measured  by  the  machine  at  the  designated 
+time  intervals.     The  torque  in  pound  (force)  feet  was 
+
+
+calculated  from  the  torque  in  kip-inches.  The  elongation 
+in  inches  was  determined  from  the  stroke,  using  a  com- 
+pliance factor  determined  by  the  machine  configuration 
+and  the  socket  diameter.  This  factor  multiplied  by  the 
+load  is  subtracted  from  the  stroke  to  give  the  elongation. 
+The  compliance  factor  takes  care  of  any  tension  or 
+compression  in  the  machine  parts,  the  grips,  and  the 
+sockets.  This  is  a  significant  correction  as  can  be  seen  by 
+comparing  stroke  with  elongation.  The  stress  in  kips  per 
+square  inch  is  calculated  by  dividing  the  load  by  the  rope 
+metallic  area.  The  strain  in  percent  inch  per  inch  is 
+calculated  by  dividing  the  elongation  by  the  rope  gauge 
+length  in  inches  and  multiplying  by  100. 
+
+From  the  data  in  tables  3  and  4,  the  curves  in  fig- 
+ures 2  and  3,  respectively,  were  plotted.  From  every  run 
+made  during  the  baseline  testing,  a  table  was  generated 
+and  three  curves  were  plotted. 
+
+
+Table  3.-Typical  baseline  test  on  wire  rope  D 
+
+
+Time,  s 
+
+
+Stress. 
+kip/in 
+
+
+Strain, 
+pet  in/in 
+
+
+Torque, 
+Ibf-ft 
+
+
+Load, 
+kips 
+
+
+Elongation, 
+in 
+
+
+Stroke, 
+in 
+
+
+1.5  .  . 
+12.0  . 
+24.0  . 
+36.0  . 
+48.0  . 
+
+60.0  . 
+72.0  . 
+84.0  . 
+96.0  . 
+108.0 
+
+120.0 
+132.0 
+144.0 
+156.0 
+168.0 
+
+180.0 
+192.0 
+204.0 
+216.0 
+228.0 
+
+240.0 
+252.0 
+264.0 
+276.0 
+288.0 
+
+300.0 
+312.0 
+324.0 
+325.5 
+327.0 
+
+
+13.490 
+
+0.021 
+
+24.2 
+
+2.992 
+
+0.025 
+
+0.027 
+
+26.100 
+
+.167 
+
+47.6 
+
+5.789 
+
+.198 
+
+.203 
+
+44.382 
+
+.333 
+
+83.4 
+
+9.844 
+
+.397 
+
+.405 
+
+63.981 
+
+.497 
+
+121.1 
+
+14.191 
+
+.592 
+
+.603 
+
+82.926 
+
+.658 
+
+156.0 
+
+18.393 
+
+.784 
+
+.799 
+
+102.858 
+
+.826 
+
+194.4 
+
+22.814 
+
+.984 
+
+1.002 
+
+122.624 
+
+.990 
+
+229.3 
+
+27.198 
+
+1.179 
+
+1.201 
+
+140.906 
+
+1.154 
+
+262.3 
+
+31.253 
+
+1.374 
+
+1.399 
+
+157.534 
+
+1.317 
+
+293.3 
+
+34.941 
+
+1.568 
+
+1.596 
+
+171.740 
+
+1.480 
+
+319.6 
+
+38.092 
+
+1.763 
+
+1.793 
+
+183.693 
+
+1.651 
+
+340.9 
+
+40.743 
+
+1.967 
+
+1.999 
+
+193.602 
+
+1.817 
+
+358.3 
+
+42.941 
+
+2.164 
+
+2.198 
+
+201.533 
+
+1.982 
+
+372.5 
+
+44.700 
+
+2.361 
+
+2.396 
+
+208.030 
+
+2.146 
+
+385.0 
+
+46.141 
+
+2.556 
+
+2.593 
+
+213.206 
+
+2.313 
+
+391.6 
+
+47.289 
+
+2.756 
+
+2.793 
+
+217.556 
+
+2.481 
+
+399.3 
+
+48.254 
+
+2.956 
+
+2.994 
+
+220.694 
+
+2.646 
+
+402.8 
+
+48.950 
+
+3.152 
+
+3.191 
+
+223.665 
+
+2.815 
+
+407.6 
+
+49.609 
+
+3.354 
+
+3.393 
+
+226.032 
+
+2.979 
+
+409.7 
+
+50.134 
+
+3.549 
+
+3.589 
+
+227.687 
+
+3.145 
+
+411.9 
+
+50.501 
+
+3.747 
+
+3.787 
+
+229.504 
+
+3.313 
+
+414.8 
+
+50.904 
+
+3.947 
+
+3.987 
+
+230.771 
+
+3.482 
+
+417.5 
+
+51.185 
+
+4.147 
+
+4.188 
+
+232.146 
+
+3.651 
+
+416.3 
+
+51.490 
+
+4.349 
+
+4.390 
+
+232.809 
+
+3.814 
+
+416.3 
+
+51.637 
+
+4.543 
+
+4.584 
+
+233.855 
+
+3.983 
+
+416.0 
+
+51.869 
+
+4.745 
+
+4.786 
+
+234.238 
+
+4.148 
+
+415.0 
+
+51.954 
+
+4.941 
+
+4.982 
+
+234.842 
+
+4.319 
+
+415.8 
+
+52.088 
+
+5.145 
+
+5.186 
+
+235.063 
+
+4.483 
+
+413.8 
+
+52.137 
+
+5.341 
+
+5.382 
+
+235.176 
+
+4.507 
+
+413.8 
+
+52.162 
+
+5.369 
+
+5.410 
+
+235.063 
+
+4.527 
+
+414.0 
+
+52.137 
+
+5.393 
+
+5.434 
+
+From  the  plots  of  load  versus  elongation  on  fig- 
+ures 24  and  3/4  and  the  data  from  the  tables,  the  breaking 
+strength  and  the  breaking  elongation  can  be  determined. 
+The  breaking  strength  is  defined  as  the  maximum  load  that 
+the  rope  attains.  The  breaking  elongation  is  defined  as  the 
+maximum  elongation  that  the  rope  attains,  which  occurs 
+when  the  rope  breaks.  The  maximum  load  does  not  nec- 
+essarily occur  at  the  maximum  elongation,  as  is  shown  in 
+table  3. 
+
+Figures  25  and  35  show  plots  of  stress  versus  strain. 
+The  elastic  region  is  the  initial  straight-line  portion  of  the 
+plot  where  stress  is  proportional  to  strain.  The  plastic 
+region  is  the  final  part  of  the  plot  where  the  stress  is  no 
+longer  proportional  to  strain.  The  slope  of  the  straight- 
+line  portion  of  a  stress-strain  curve  is  defined  as  the 
+
+
+modulus  of  elasticity.  It  is  equal  to  the  stress  divided  by 
+the  strain  and  is  in  units  of  pounds  per  square  inch. 
+Because  the  stress-strain  plots  for  many  metals  and  for 
+wire  rope  do  not  show  a  well-defined  transition  from 
+elastic  to  plastic  behavior,  it  is  customary  to  define  the 
+yield  stress  by  drawing  a  line  parallel  to  the  slope  of  the 
+stress-strain  plot  and  displaced  0.2  pet  of  the  gauge  length 
+to  the  right.  This  line  will  intersect  the  curve  in  the  plastic 
+region.  This  point  of  intersection  is  defined  as  the  yield 
+stress.  The  strain  at  that  point  is  the  yield  strain. 
+
+Figures  2C  and  3C  show  plots  of  torque  versus  load. 
+As  can  be  seen  from  the  figures,  torque  is  proportional  to 
+load  almost  to  fracture.  The  slope  of  the  torque-versus- 
+load  plot  is  called  the  Torque  K.  It  has  the  units  of  pound 
+(force)  feet  per  kip. 
+
+
+Table  4.-Typical  baseline  test  on  wire  rope  B 
+
+
+Time,  s 
+
+
+Stress. 
+kip/in 
+
+
+Strain, 
+pet  in/in 
+
+
+Torque, 
+Ibf-ft 
+
+
+Load, 
+kips 
+
+
+Elongation, 
+in 
+
+
+Stroke, 
+in 
+
+
+1.5  .. 
+6.0  .. 
+12.0  . 
+18.0  . 
+24.0  . 
+
+30.0  . 
+
+36.0  . 
+
+42.0  . 
+
+48.0  . 
+
+54.0  . 
+
+60.0  . 
+
+66.0  . 
+
+72.0  . 
+
+78.0  . 
+
+84.0  . 
+
+90.0  . 
+96.0  . 
+102.0 
+108.0 
+114.0 
+
+120.0 
+126.0 
+132.0 
+138.0 
+144.0 
+
+150.0 
+156.0 
+162.0 
+168.0 
+174.0 
+
+180.0 
+186.0 
+192.0 
+198.0 
+204.0 
+207.0 
+
+
+13.051 
+
+0.041 
+
+188.3 
+
+11.578 
+
+0.024 
+
+0.031 
+
+25.607 
+
+.158 
+
+386.8 
+
+22.716 
+
+.092 
+
+.106 
+
+42.293 
+
+.315 
+
+647.6 
+
+37.518 
+
+.182 
+
+.206 
+
+55.289 
+
+.475 
+
+839.7 
+
+49.047 
+
+.275 
+
+.306 
+
+68.781 
+
+.635 
+
+1,045.8 
+
+61.016 
+
+.367 
+
+.406 
+
+83.099 
+
+.793 
+
+1,254.4 
+
+73.718 
+
+.459 
+
+.506 
+
+98.188 
+
+.946 
+
+1,478.3 
+
+87.103 
+
+.548 
+
+.603 
+
+112.892 
+
+1.108 
+
+1,694.6 
+
+100.147 
+
+.641 
+
+.705 
+
+126.713 
+
+1.262 
+
+1,895.6 
+
+112.408 
+
+.731 
+
+.802 
+
+139.875 
+
+1.421 
+
+2,088.9 
+
+124.084 
+
+.822 
+
+.901 
+
+152.155 
+
+1.588 
+
+2,267.0 
+
+134.978 
+
+.919 
+
+1.005 
+
+162.838 
+
+1.751 
+
+2,418.4 
+
+144.455 
+
+1.013 
+
+1.105 
+
+173.026 
+
+1.914 
+
+2,564.8 
+
+153.493 
+
+1.108 
+
+1.205 
+
+181.892 
+
+2.078 
+
+2,691.9 
+
+161.358 
+
+1.203 
+
+1.305 
+
+189.823 
+
+2.236 
+
+2,795.0 
+
+168.393 
+
+1.294 
+
+1.401 
+
+196.596 
+
+2.407 
+
+2,891.7 
+
+174.402 
+
+1.393 
+
+1.504 
+
+202.708 
+
+2.574 
+
+2,973.1 
+
+179.824 
+
+1.490 
+
+1.604 
+
+207.885 
+
+2.737 
+
+3,036.8 
+
+184.416 
+
+1.584 
+
+1.701 
+
+212.621 
+
+2.908 
+
+3,100.3 
+
+188.618 
+
+1.683 
+
+1.803 
+
+216.476 
+
+3.074 
+
+3,143.6 
+
+192.037 
+
+1.779 
+
+1.901 
+
+219.724 
+
+3.240 
+
+3,183.0 
+
+194.919 
+
+1.875 
+
+1.999 
+
+222.809 
+
+3.415 
+
+3,218.7 
+
+197.655 
+
+1.976 
+
+2.102 
+
+225.397 
+
+3.587 
+
+3,242.8 
+
+199.951 
+
+2.076 
+
+2.203 
+
+227.655 
+
+3.752 
+
+3,261.9 
+
+201.954 
+
+2.172 
+
+2.300 
+
+229.472 
+
+3.922 
+
+3,278.4 
+
+203.566 
+
+2.270 
+
+2.399 
+
+231.124 
+
+4.096 
+
+3,289.9 
+
+205.032 
+
+2.371 
+
+2.501 
+
+232.390 
+
+4.271 
+
+3,298.8 
+
+206.155 
+
+2.472 
+
+2.603 
+
+233.657 
+
+4.443 
+
+3,307.7 
+
+207.279 
+
+2.571 
+
+2.703 
+
+234.703 
+
+4.615 
+
+3,309.0 
+
+208.207 
+
+2.671 
+
+2.803 
+
+235.364 
+
+4.780 
+
+3,305.2 
+
+208.793 
+
+2.766 
+
+2.899 
+
+236.026 
+
+4.952 
+
+3,302.6 
+
+209.380 
+
+2.866 
+
+2.999 
+
+236.686 
+
+5.124 
+
+3,303.8 
+
+209.966 
+
+2.966 
+
+3.099 
+
+236.961 
+
+5.298 
+
+3,296.3 
+
+210.210 
+
+3.067 
+
+3.200 
+
+237.457 
+
+5.469 
+
+3,292.4 
+
+210.650 
+
+3.165 
+
+3.299 
+
+237.457 
+
+5.640 
+
+3,281.0 
+
+210.650 
+
+3.264 
+
+3.398 
+
+237.732 
+
+5.726 
+
+3,277.2 
+
+210.894 
+
+3.314 
+
+3.448 
+
+SUMMARY  OF  NORMAL  BREAKS 
+
+A  normal  break  is  defined  as  a  break  that  occurs  2  in 
+or  more  from  the  socket.  Only  data  obtained  with  normal 
+breaks  were  accepted  for  the  measurement  of  breaking 
+strength.  The  summaries  of  data  for  the  eight  series  of 
+rope  tests  are  shown  in  tables  5  to  12.  Also  shown  in  the 
+summary  tables  are  the  means,  the  standard  deviations, 
+and  the  percentage  that  the  standard  deviations  are  of  the 
+means.    In  table  13  the  means,  standard  deviations,  and 
+
+
+the  percent  standard  deviations  of  all  of  the  ropes  are 
+shown  for  the  breaking  strength  (load),  the  modulus  of 
+elasticity,  the  breaking  stress,  the  yield  stress,  and  the 
+torque  constant.  It  is  apparent  from  examining  the 
+percent  standard  deviation  columns  that  the  precision  is 
+good  for  the  measurement  of  load  and  torque.  It  is  also 
+apparent  that  any  measurement  involving  elongation,  such 
+as  modulus  of  elasticity,  has  poor  precision,  considering  all 
+of  the  data  from  a  series.  The  measurement  of  stroke, 
+elongation,  and  modulus  of  elasticity  are  discussed  later. 
+
+
+240 
+
+
+7  °D 
+/  □ 
+
+
+D     D 
+
+
+D    D 
+
+
+D   D  D   n1  o   o  id 
+
+
+/  Yield,  191.9  kip/in 
+
+Breaking  stress,  2351  kip/in2 
+/  Modulus,  11.41  *  I06psi 
+
+
+2  3  4  5 
+
+ELONGATION,   in 
+
+
+KEY 
+
+Y  =  114.054827*  X+  8.310668 
+
+0.2-pct  yield 
+
+
+2  3 
+
+STRAIN,  pet  in/in 
+
+
+20  30  40 
+
+LOAD,  kips 
+
+
+50  60 
+
+
+Figure  2.-Typical  test  data,  rope  D. 
+
+
+240 
+
+
+200 
+
+
+240 
+
+
+160- 
+
+
+120 
+
+
+0.5 
+
+
+IdDdDooiddouj 
+
+
+1.0  1.5  2.0  2.5 
+
+ELONGATION,  in 
+
+
+3.0  3.5 
+
+
+Yield,  182.3  kip/in* 
+Breaking  stress,  2377  kip/ in2 
+Modulus,  8.90  «  I06  ps. 
+
+KEY 
+•Y  =  89.04544*X  +  13.00276 
+
+
+0.2-pct  yield 
+
+
+2  3  4 
+
+STRAIN,  pet  in/in 
+
+
+100  150 
+
+LOAD,  kips 
+
+
+250 
+
+
+Figure  3.-Typical  test  data,  rope  B. 
+
+
+10 
+
+
+Table  5.-Summary  of  test  series  on  rope  A 
+
+
+Sample 
+length, 
+ft 
+
+5.01 
+
+5.07 
+
+10.00 
+
+10.13 
+
+14.96 
+
+15.21 
+
+20.03 
+
+20.27 
+
+35.21 
+
+35.32 
+
+Mean  .... 
+
+SD 
+
+
+Modulus  of 
+
+elasticity, 
+
+106  psi 
+
+
+Break 
+
+
+Yield 
+
+
+Load, 
+
+Elonga- 
+
+Stress, 
+
+Strain, 
+
+Stress, 
+kip/in 
+
+Strain, 
+
+kips 
+
+tion,  in 
+
+kip/in2 
+
+pet  in/in 
+
+pet  in/in 
+
+92.06 
+
+2.78 
+
+228.00 
+
+4.62 
+
+188.00 
+
+2.41 
+
+92.38 
+
+2.61 
+
+228.80 
+
+4.28 
+
+183.70 
+
+2.03 
+
+92.04 
+
+5.04 
+
+288.00 
+
+4.20 
+
+183.90 
+
+2.03 
+
+91.09 
+
+5.07 
+
+225.60 
+
+4.18 
+
+191.90 
+
+2.44 
+
+89.50 
+
+6.84 
+
+221.70 
+
+3.81 
+
+185.20 
+
+2.30 
+
+91.09 
+
+7.76 
+
+225.60 
+
+4.21 
+
+186.90 
+
+2.27 
+
+91.16 
+
+9.82 
+
+225.80 
+
+4.09 
+
+182.30 
+
+1.93 
+
+91.04 
+
+9.76 
+
+225.50 
+
+4.01 
+
+187.30 
+
+2.19 
+
+90.06 
+
+16.48 
+
+223.10 
+
+3.90 
+
+185.50 
+
+2.14 
+
+90.96 
+
+16.93 
+
+225.30 
+
+3.99 
+
+183.90 
+
+1.96 
+
+91.14 
+
+NAp 
+
+225.74 
+
+4.13 
+
+185.86 
+
+2.17 
+
+.89 
+
+NAp 
+
+2.19 
+
+.23 
+
+2.78 
+
+.18 
+
+Torque  K, 
+Ibf-ft/kip 
+
+
+Reel 
+
+position, 
+
+ft 
+
+
+8.48 
+9.29 
+9.50 
+8.89 
+9.43 
+9.49 
+9.77 
+9.59 
+9.87 
+9.90 
+9.42 
+.44 
+
+
+7.69 
+8.14 
+8.26 
+8.22 
+7.92 
+8.23 
+8.46 
+8.47 
+8.26 
+8.34 
+8.20 
+.24 
+
+
+2.9 
+
+251.0 
+
+116.8 
+
+226.5 
+
+13.7 
+
+240.0 
+
+264.4 
+
+132.7 
+
+203.0 
+
+39.7 
+
+NAp 
+
+NAp 
+
+
+SD  .  .  pet 
+
+
+4.72 
+
+
+0.97 
+
+
+NAp 
+
+
+0.97 
+
+
+5.52 
+
+
+1.50 
+
+
+8.41 
+
+
+2.91 
+
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+Table  6.-Summary  of  test  series  on  rope  B 
+
+
+Sample 
+
+Modulus  of 
+
+elasticity, 
+
+106  psi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+ft 
+
+Load, 
+kips 
+
+Elonga-          Stress, 
+tion,  in             kip/in2 
+
+Strain, 
+pet  in/in 
+
+Stress.           Strain, 
+kip/in            pet  in/in 
+
+position, 
+ft 
+
+4.81  .  . 
+
+4.82  .  . 
+4.82  .  . 
+5.06  .  . 
+9.64  .  . 
+10.02  . 
+14.64  . 
+14.71  . 
+19.60  . 
+20.17  . 
+34.88  . 
+35.00  . 
+
+Mean 
+SD.. 
+
+
+7.84 
+
+8.90 
+
+8.63 
+
+8.11 
+
+10.51 
+
+10.35 
+
+10.95 
+
+11.00 
+
+11.04 
+
+11.33 
+
+11.76 
+
+12.07 
+
+10.21 
+
+1.46 
+
+
+210.60 
+210.90 
+210.60 
+207.80 
+207.80 
+209.10 
+208.20 
+207.70 
+207.70 
+208.20 
+207.40 
+207.70 
+208.64 
+1.31 
+
+
+3.68 
+
+3.31 
+
+3.42 
+
+3.34 
+
+5.49 
+
+6.76 
+
+9.93 
+
+8.74 
+
+12.56 
+
+12.00 
+
+19.06 
+
+19.49 
+
+NAp 
+
+NAp 
+
+
+237.30 
+237.70 
+237.30 
+234.30 
+234.30 
+235.70 
+234.70 
+234.20 
+234.10 
+234.70 
+233.80 
+234.20 
+235.19 
+1.43 
+
+
+6.37 
+2.28 
+5.91 
+5.50 
+4.75 
+5.62 
+5.66 
+4.95 
+5.34 
+4.96 
+4.55 
+4.63 
+5.04 
+1.03 
+
+
+188.30 
+182.30 
+185.30 
+185.10 
+185.70 
+184.70 
+182.00 
+185.30 
+183.10 
+185.10 
+182.90 
+183.50 
+184.44 
+1.77 
+
+
+2.85 
+2.10 
+2.22 
+2.79 
+2.20 
+2.24 
+2.06 
+2.10 
+2.06 
+2.06 
+1.69 
+1.74 
+2.18 
+.35 
+
+
+16.27 
+16.28 
+16.28 
+16.31 
+16.61 
+16.39 
+16.52 
+16.54 
+16.56 
+16.53 
+16.60 
+16.46 
+16.45 
+.13 
+
+
+54.58 
+244.54 
+250.37 
+154.56 
+183.72 
+
+98.74 
+212.88 
+
+43.75 
+231.21 
+167.89 
+231.21 
+
+17.92 
+NAp 
+NAp 
+
+
+SD  .  .  pet 
+
+
+14.27 
+
+
+0.63 
+
+
+NAp 
+
+
+0.61 
+
+
+20.43 
+
+
+0.96 
+
+
+15.90 
+
+
+0.81 
+
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+Table  7.-Summary  of  test  series  on  rope  C 
+
+
+4.76  .  . 
+
+4.98  .  . 
+
+9.69  .  . 
+
+9.98  .  . 
+
+14.90  . 
+
+14.98  . 
+
+19.80  . 
+
+19.94  . 
+
+35.36  . 
+
+35.39  . 
+Mean 
+SD.. 
+
+
+Sample 
+
+Modulus  of 
+
+elasticity, 
+
+106  psi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+ft 
+
+Load, 
+kips 
+
+Elonga-           Stress, 
+tion,  in             kip/in2 
+
+Strain, 
+pet  in/in 
+
+Stress.           Strain, 
+kip/in            pet  in/in 
+
+position, 
+ft 
+
+9.34 
+9.65 
+10.70 
+10.94 
+12.71 
+11.74 
+11.97 
+11.02 
+12.49 
+12.48 
+11.30 
+1.18 
+
+
+160.38 
+159.65 
+158.79 
+158.33 
+158.45 
+158.48 
+158.09 
+158.38 
+157.45 
+157.74 
+158.57 
+.87 
+
+
+2.69 
+2.76 
+4.46 
+4.56 
+6.75 
+6.39 
+8.79 
+9.39 
+15.39 
+15.79 
+NAp 
+NAp 
+
+
+254.30 
+253.10 
+251 .70 
+251.00 
+251.20 
+251.24 
+250.60 
+251.10 
+249.60 
+250.10 
+251.39 
+1.39 
+
+
+4.72 
+4.61 
+3.84 
+3.86 
+3.78 
+3.55 
+3.70 
+4.09 
+3.63 
+3.72 
+3.95 
+.40 
+
+
+212.60 
+207.90 
+214.20 
+213.60 
+210.40 
+211.90 
+211.40 
+214.20 
+209.50 
+209.50 
+211.52 
+2.17 
+
+
+2.32 
+2.23 
+2.09 
+2.05 
+1.74 
+1.93 
+1.88 
+2.04 
+1.80 
+1.79 
+1.99 
+.19 
+
+
+14.07 
+13.92 
+14.04 
+14.05 
+14.21 
+14.35 
+14.18 
+14.26 
+14.20 
+14.11 
+14.14 
+.13 
+
+
+101.6 
+
+38.6 
+
+145.6 
+
+172.1 
+
+158.9 
+
+70.1 
+
+193.6 
+
+88.4 
+
+334.9 
+
+299.1 
+
+NAp 
+
+NAp 
+
+
+SD  .  .  pet 
+
+
+10.46 
+
+
+0.55 
+
+
+NAp 
+
+
+0.55 
+
+
+10.25 
+
+
+1.03 
+
+
+9.74 
+
+
+0.88 
+
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+11 
+
+
+Table  8.-Summary  of  test  series  on  rope  D 
+
+
+Sample 
+
+Modulus  of 
+elasticity, 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+
+Load, 
+
+Elonga- 
+
+Stress, 
+
+Strain, 
+
+Stress, 
+kip/in 
+
+Strain, 
+
+position, 
+
+ft 
+
+106  psi 
+
+kips 
+
+tion,  in 
+
+kip/in2 
+
+pet  in/in 
+
+pet  in/in 
+
+ft 
+
+1.88 
+
+9.22 
+
+52.60 
+
+1.29 
+
+237.20 
+
+5.72 
+
+184.20 
+
+2.20 
+
+8.16 
+
+172.6 
+
+4.85 
+
+10.82 
+
+52.37 
+
+2.95 
+
+236.10 
+
+5.07 
+
+189.30 
+
+1.95 
+
+8.39 
+
+176.9 
+
+5.09 
+
+10.98 
+
+52.20 
+
+3.22 
+
+235.30 
+
+5.26 
+
+186.40 
+
+1.88 
+
+8.25 
+
+182.7 
+
+9.81 
+
+11.45 
+
+51.66 
+
+4.54 
+
+232.90 
+
+3.86 
+
+192.60 
+
+1.80 
+
+8.14 
+
+136.2 
+
+9.93 
+
+11.41 
+
+52.16 
+
+5.39 
+
+235.20 
+
+4.53 
+
+191.90 
+
+1.81 
+
+8.16 
+
+67.9 
+
+15.02 
+
+11.77 
+
+52.17 
+
+8.58 
+
+235.20 
+
+4.76 
+
+191.60 
+
+1.75 
+
+8.32 
+
+23.7 
+
+19.96 
+
+11.89 
+
+52.02 
+
+10.46 
+
+234.50 
+
+4.37 
+
+192.00 
+
+1.72 
+
+8.28 
+
+152.1 
+
+20.00 
+
+11.77 
+
+52.21 
+
+11.35 
+
+235.40 
+
+4.73 
+
+193.60 
+
+1.81 
+
+8.14 
+
+294.4 
+
+29.93 
+
+12.40 
+
+51.69 
+
+15.62 
+
+233.00 
+
+4.35 
+
+188.90 
+
+1.68 
+
+8.40 
+
+47.1 
+
+30.16 
+
+12.02 
+
+51.83 
+
+16.08 
+
+233.70 
+
+4.44 
+
+191.60 
+
+1.73 
+
+8.26 
+
+268.6 
+
+Mean 
+
+11.37 
+
+52.09 
+
+NAp 
+
+234.85 
+
+4.71 
+
+190.21 
+
+1.83 
+
+8.25 
+
+NAp 
+
+SD 
+
+.89 
+
+.30 
+
+NAp 
+
+1.35 
+
+.53 
+
+2.99 
+
+.IB 
+
+.10 
+
+NAp 
+
+SD  .  .  pet 
+
+7.84 
+
+0.57 
+
+NAp 
+
+0.58 
+
+11.26 
+
+1.57 
+
+8.26 
+
+1.20 
+
+NAp 
+
+NAp    Not  applicable 
+
+SD 
+
+Standard  deviation. 
+
+Table  9.-Summary  of  test  series  on  rope  E 
+
+
+1.96 
+
+2.00 
+
+4.88 
+
+4.91 
+
+9.87 
+
+9.93 
+
+14.90 
+
+14.97 
+
+19.82 
+
+20.01 
+
+29.96 
+
+Mean 
+
+SD 
+
+SD  .  .  pet 
+
+
+Sample 
+
+Modulus  of 
+
+elasticity, 
+
+1 06  psi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+ft 
+
+Load, 
+kips 
+
+Elonga-          Stress, 
+tion,  in             kip/in2 
+
+Strain, 
+pet  in/in 
+
+Stress,           Strain, 
+kip/in            pet  in/in 
+
+position, 
+ft 
+
+6.34 
+
+6.83 
+
+9.25 
+
+9.72 
+
+10.76 
+
+10.49 
+
+10.99 
+
+11.77 
+
+12.62 
+
+12.34 
+
+12.59 
+
+10.34 
+
+2.16 
+
+20.93 
+
+
+338.80 
+338.60 
+331.70 
+334.00 
+329.00 
+330.70 
+329.90 
+327.60 
+328.90 
+326.80 
+328.30 
+331.30 
+4.16 
+
+1.26 
+
+
+1.34 
+
+1.42 
+
+2.74 
+
+2.80 
+
+5.16 
+
+5.08 
+
+7.96 
+
+7.74 
+
+10.25 
+
+10.10 
+
+14.78 
+
+NAp 
+
+NAp 
+
+NAp 
+
+
+238.80 
+238.60 
+233.70 
+235.30 
+231.80 
+233.00 
+232.40 
+230.80 
+231.80 
+230.30 
+231.30 
+233.44 
+2.95 
+
+1.26 
+
+
+5.72 
+5.92 
+4.68 
+4.76 
+4.33 
+4.29 
+4.54 
+4.31 
+4.31 
+4.21 
+4.11 
+4.65 
+.61 
+
+13.13 
+
+
+193.30 
+185.30 
+181.20 
+175.50 
+180.40 
+185.10 
+179.60 
+177.40 
+175.50 
+173.20 
+177.40 
+180.35 
+5.76 
+
+3.19 
+
+
+2.98 
+2.61 
+2.10 
+1.92 
+1.82 
+1.90 
+1.81 
+1.65 
+1.56 
+1.56 
+1.58 
+1.95 
+.46 
+
+23.40 
+
+
+19.13 
+19.53 
+20.01 
+19.90 
+20.44 
+20.30 
+20.51 
+20.31 
+20.65 
+20.71 
+20.54 
+20.18 
+.50 
+
+2.46 
+
+
+147.5 
+
+117.5 
+
+3.0 
+
+173.0 
+
+124.5 
+
+73.5 
+
+108.0 
+
+138.5 
+
+89.5 
+
+159.5 
+
+21.5 
+
+NAp 
+
+NAp 
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+Table  10.-Summary  of  test  series  on  rope  F 
+
+
+Sample 
+
+Modulus  of 
+
+elasticity, 
+
+106  psi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+ft 
+
+Load, 
+kips 
+
+Elonga-          Stress, 
+tion,  in             kip/in2 
+
+Strain, 
+pet  in/in 
+
+Stress,           Strain, 
+kip/in            pet  in/in 
+
+position, 
+ft 
+
+1.94 
+
+2.17 
+
+2.18 
+
+5.20 
+
+5.38 
+
+9.91 
+
+10.27 
+
+14.92 
+
+15.34 
+
+19.94 
+
+20.28 
+
+30.13 
+
+30.23 
+
+Mean 
+
+SD 
+
+SD  .  .  pet 
+
+
+5.66 
+
+5.93 
+
+5.17 
+
+8.46 
+
+9.34 
+
+10.04 
+
+9.15 
+
+10.31 
+
+10.03 
+
+10.41 
+
+10.52 
+
+10.81 
+
+11.21 
+
+9.00 
+
+2.08 
+
+23.12 
+
+
+352.40 
+345.50 
+348.90 
+347.70 
+347.00 
+345.20 
+346.70 
+347.80 
+348.90 
+343.40 
+346.30 
+343.70 
+344.60 
+346.85 
+2.53 
+
+0.73 
+
+
+1.40 
+
+1.77 
+
+1.96 
+
+3.34 
+
+3.39 
+
+5.16 
+
+5.94 
+
+8.55 
+
+8.79 
+
+11.09 
+
+11.19 
+
+16.08 
+
+16.68 
+
+NAp 
+
+NAp 
+
+NAp 
+
+
+218.20 
+213.90 
+216.10 
+215.30 
+214.90 
+213.80 
+214.70 
+215.40 
+216.60 
+212.60 
+214.40 
+212.90 
+213.40 
+214.78 
+1.57 
+
+0.73 
+
+
+6.02 
+6.10 
+6.79 
+5.05 
+4.97 
+4.34 
+4.82 
+4.78 
+4.78 
+4.63 
+4.60 
+4.44 
+4.60 
+5.07 
+.75 
+
+14.77 
+
+
+165.70 
+167.90 
+160.80 
+164.20 
+157.30 
+162.50 
+167.10 
+163.20 
+166.60 
+164.70 
+164.30 
+162.90 
+159.40 
+163.58 
+3.07 
+
+1.88 
+
+
+3.02 
+2.79 
+2.69 
+2.10 
+1.82 
+1.80 
+1.99 
+1.80 
+1.87 
+1.72 
+1.73 
+1.66 
+1.59 
+2.04 
+.47 
+
+23.15 
+
+
+13.73 
+14.31 
+13.77 
+14.20 
+14.35 
+14.39 
+14.13 
+14.23 
+14.01 
+14.40 
+14.18 
+14.28 
+14.47 
+14.19 
+.23 
+
+1.62 
+
+
+209.97 
+
+38.25 
+
+35.08 
+
+42.92 
+
+3.08 
+
+217.07 
+
+11.75 
+
+230.65 
+
+120.09 
+
+249.24 
+
+120.09 
+
+162.42 
+
+93.92 
+
+NAp 
+
+NAp 
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+12 
+
+
+Table  1 1  .-Effect  of  stroke  rate,  rope  G  test  series 
+
+
+Stroke, 
+
+Sample 
+
+length, 
+
+ft 
+
+Modulus  of 
+
+elasticity, 
+
+Mpsi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+
+in/min 
+
+Load, 
+Kips 
+
+Elonga-           Stress, 
+tion,  in           kip/in 
+
+Strain, 
+pet  in/in 
+
+Stress,             Strain, 
+kip/in            pet  in/in 
+
+Ibf-ft/kip 
+
+0.0625 
+
+0.1250 
+
+1.0000 
+
+8.0000 
+
+16.0000 
+
+Mean 
+
+SD 
+
+SD pet   .  . 
+
+NAp    Not  applicable. 
+
+
+15.08 
+15.05 
+15.10 
+15.07 
+15.07 
+15.07 
+15.08 
+15.08 
+15.06 
+NAp 
+NAp 
+
+NAp 
+
+
+12.16 
+12.17 
+12.20 
+12.49 
+12.56 
+12.57 
+12.83 
+13.08 
+13.19 
+12.58 
+.38 
+
+3.05 
+
+
+137.93 
+135.93 
+137.96 
+133.98 
+136.98 
+136.54 
+139.38 
+136.10 
+137.37 
+136.91 
+1.53 
+
+6.09 
+
+
+4.40 
+4.17 
+4.32 
+3.91 
+4.02 
+4.00 
+4.13 
+3.68 
+3.72 
+4.04 
+.25 
+
+1.12 
+
+
+218.70 
+215.50 
+218.70 
+212.40 
+217.00 
+216.50 
+221.00 
+215.80 
+217.80 
+217.04 
+2.44 
+
+1.12 
+
+
+2.43 
+2.31 
+2.38 
+2.16 
+2.22 
+2.21 
+2.28 
+2.03 
+2.06 
+2.23 
+.13 
+
+6.05 
+
+
+189.60 
+191.20 
+191.90 
+190.10 
+192.80 
+193.30 
+195.20 
+192.90 
+194.30 
+192.37 
+1.85 
+
+0.96 
+
+
+1.67 
+1.68 
+1.68 
+1.64 
+1.64 
+1.64 
+1.63 
+1.59 
+1.58 
+1.64 
+.04 
+
+2.19 
+
+
+9.53 
+9.56 
+9.33 
+9.49 
+9.36 
+9.58 
+9.59 
+9.52 
+9.51 
+9.50 
+.09 
+
+0.97 
+
+
+SD       Standard  deviation. 
+
+
+Table  12.-Test  series  on  zinc-filled  sockets,  rope  H 
+
+
+5.08 
+
+10.11 
+
+20.12 
+
+20.15 
+
+30.21 
+
+Mean 
+
+SD 
+
+SD  .  .  pet 
+
+
+Sample 
+
+Modulus  of 
+
+elasticity, 
+
+106  psi 
+
+Break 
+
+Yield 
+
+Torque  K, 
+Ibf-ft/kip 
+
+Reel 
+
+length, 
+ft 
+
+Load, 
+kips 
+
+Elonga-           Stress, 
+tion,  in             kip/in2 
+
+Strain, 
+pet  in/in 
+
+Stress,            Strain, 
+kip/in            pet  in/in 
+
+position, 
+ft 
+
+8.59 
+10.90 
+11.30 
+11.89 
+12.07 
+10.95 
+
+1.40 
+
+12.78 
+
+
+210.20 
+207.80 
+208.10 
+205.70 
+206.40 
+207.64 
+1.74 
+
+0.84 
+
+
+3.60 
+
+5.83 
+
+11.92 
+
+10.50 
+
+17.81 
+
+NAp 
+
+NAp 
+
+NAp 
+
+
+237.00 
+234.20 
+234.60 
+231.90 
+232.60 
+234.06 
+1.98 
+
+0.85 
+
+
+5.90 
+4.80 
+4.94 
+4.34 
+4.91 
+4.98 
+.57 
+
+11.43 
+
+
+186.80 
+183.30 
+184.90 
+182.60 
+182.50 
+184.02 
+1.83 
+
+0.99 
+
+
+2.27 
+1.81 
+1.80 
+1.66 
+1.64 
+1.84 
+.25 
+
+13.88 
+
+
+16.42 
+16.52 
+16.55 
+16.50 
+16.73 
+16.54 
+.11 
+
+0.69 
+
+
+NAp 
+NAp 
+NAp 
+NAp 
+NAp 
+NAp 
+NAp 
+
+NAp 
+
+
+NAp    Not  applicable. 
+
+
+SD       Standard  deviation. 
+
+
+Table  *3.-Baseline  tensile  test  summary 
+
+
+Rope 
+series 
+
+
+Breaking  load 
+
+
+Diam, 
+in 
+
+
+Mean, 
+kips 
+
+
+SD, 
+kips 
+
+
+SD, 
+pet 
+
+
+Modulus  of  elasticity 
+Mean,      SD^        STJ" 
+pet 
+
+
+Breaking  stress 
+
+
+Yield  stress 
+
+
+Torque  K 
+
+
+106  psi 
+
+
+106  psi 
+
+
+Mean 
+
+
+SD, 
+
+
+kip/in      kip/in 
+
+
+SD, 
+pet 
+
+
+Mean        SD, 
+kip/in      kip/in2 
+
+
+SD, 
+pet 
+
+
+Mean, 
+Ibf-ft 
+kip 
+
+
+SD, 
+Ibf- 
+ft/kip 
+
+
+SD, 
+pet 
+
+
+A 
+B 
+C 
+
+D 
+E 
+F 
+G 
+
+H 
+
+
+1 
+
+1-1/2 
+1-1.4 
+3/4 
+1-7/8 
+2 
+
+1-1/4 
+1-1/2 
+
+
+91.14 
+208.64 
+158.57 
+
+52.09 
+331.30 
+346.85 
+136.91 
+207.64 
+
+
+0.89 
+1.31 
+.87 
+.30 
+4.16 
+2.53 
+1.53 
+1.74 
+
+
+0.97 
+.63 
+.55 
+.57 
+
+1.26 
+.73 
+
+1.12 
+.84 
+
+
+9.42 
+10.21 
+11.30 
+11.37 
+10.34 
+
+9.00 
+12.58 
+10.95 
+
+
+0.44 
+1.46 
+1.18 
+
+.89 
+2.16 
+2.08 
+
+.38 
+1.40 
+
+
+4.72 
+14.27 
+10.46 
+
+7.84 
+20.93 
+23.12 
+
+3.05 
+12.78 
+
+
+225.74 
+235.19 
+251.39 
+234.85 
+233.44 
+214.78 
+217.04 
+234.06 
+
+
+2.19 
+1.43 
+1.39 
+1.35 
+2.95 
+1.57 
+2.44 
+1.98 
+
+
+0.97 
+.61 
+.55 
+.58 
+
+1.26 
+.73 
+
+1.12 
+.85 
+
+
+185.86 
+184.44 
+211.52 
+190.21 
+180.35 
+163.58 
+192.37 
+184.02 
+
+
+2.78 
+1.77 
+2.17 
+2.99 
+5.76 
+3.07 
+1.85 
+1.83 
+
+
+1.50 
+
+.96 
+
+1.03 
+
+1.57 
+
+3.19 
+
+1.88 
+
+.96 
+
+.99 
+
+
+8.20 
+16.45 
+14.14 
+
+8.25 
+20.18 
+14.19 
+
+9.50 
+16.54 
+
+
+0.24 
+.13 
+.13 
+.10 
+.50 
+.23 
+.09 
+.11 
+
+
+2.91 
+
+.81 
+
+.81 
+
+1.20 
+
+2.46 
+
+1.62 
+
+.97 
+
+.69 
+
+
+SD      Standard  deviation. 
+
+
+CONSTRUCTION  STRETCH 
+
+Wire  rope  stretches  under  load.  This  stretch  comes 
+from  two  sources,  elastic  and  constructional.  The  elastic 
+stretch  is  reversible,  and  the  rope  recovers  to  its  original 
+length  when  the  load  is  removed.  The  construction  stretch 
+is  not  reversible.  Construction  stretch  occurs  in  new  rope 
+
+
+and  happens  when  a  load  is  first  applied.  The  wires  and 
+strands  are  first  seated,  then  act  in  a  constricting  manner 
+to  compress  the  core  permanently.  Construction  stretch  is 
+more  pronounced  in  fiber-core  ropes  than  in  wire-rope- 
+core  or  strand-core  ropes. 
+
+When  a  tensile  test  is  made  on  a  rope,  and  the  con- 
+struction stretch  has  not  been  removed,  it  adds  to  the 
+
+
+13 
+
+
+elongation  on  the  rope  during  the  initial  loading.  This  will 
+give  an  S-shaped  stress-strain  curve,  with  sometimes  only 
+a  small  central  linear  portion.  An  example  is  shown  in 
+figure  44.  All  of  the  rope  A  series  and  part  of  the  rope 
+B  series  were  run  in  this  manner,  resulting  in  S-shaped 
+curves. 
+
+During  the  rope  B  series,  it  was  decided  to  attempt  to 
+remove  the  construction  stretch  prior  to  the  test.  It  was 
+observed  from  examining  the  stress-strain  curves  that  the 
+linear  portion  began  after  the  rope  was  loaded  to  about 
+20  pet  of  the  breaking  strength.  Consequently,  the  ropes 
+were  loaded  to  20  pet  of  the  breaking  strength  and  held 
+for  10  min  or  until  they  stopped  stretching.  Then  the  load 
+was  removed,  and  the  test  was  made  under  normal  pro- 
+cedures. The  results  are  shown  in  figure  4B. 
+
+This  stress-strain  plot  does  not  have  an  S-curve  and  is 
+linear  from  the  beginning.    For  comparison,  the  curves 
+
+
+240 
+
+
+200  - 
+
+
+160 
+
+
+120 
+
+
+80 
+
+
+40 
+
+
+,J  a   a  a    d  oc 
+
+
+Yield,  188  3  kip/irT 
+f  i  Breaking  stress,  2373  kip/in2 
+
+/  Modulus,  7.84*  I06  psi 
+
+
+KEY 
+Y=  78.44I975*X- 19.60323 
+
+
+from  figures  44  and  4B  are  plotted  together  in  figure  5. 
+All  subsequent  tests  were  made  following  this  procedure 
+for  removing  construction  stretch.  None  of  the  following 
+tests  showed  the  S  curves. 
+
+
+BREAKING  LOAD  VERSUS  GAUGE  LENGTH 
+
+Breaking  load  was  plotted  against  gauge  length  to 
+determine  the  effect  of  sample  length  on  breaking  load 
+(fig.  6).  The  plots  show  a  definite  effect  of  length  on 
+breaking  strength.  The  shorter  samples  have  higher  break- 
+ing strengths  than  the  longer  samples.  There  seems  to  be 
+little  effect  on  samples  of  15  ft  and  longer.  However,  the 
+2-ft  samples  have  much  higher  strength.  Even  the  5-  and 
+10-ft  samples  show  higher  strength.  This  is  true  for  the 
+3/4-in-diameter  samples  as  well  as  the  2-in-diameter 
+samples.  The  reason  for  this  phenomenon  is  not  known. 
+However,  it  can  be  hypothesized  that  shorter  ropes  with 
+rigidly  attached  sockets  form  a  more  rigid  structure  in  the 
+test  machine,  thus  exhibiting  higher  "system  strength." 
+
+BREAKING  LOAD  VERSUS  REEL  POSITION 
+
+The  samples  were  cut  from  the  reel  in  a  random  order 
+to  determine  whether  any  variations  in  properties  existed 
+along  the  length  of  the  rope.  When  the  variables  were 
+plotted  against  reel  position,  there  was  no  correlation 
+shown  between  any  factor  and  the  position  on  the  reel. 
+The  most  important  variable  in  this  respect  is  the  breaking 
+strength.  Figure  7  shows  two  plots  of  breaking  strength 
+against  reel  position,  for  ropes  B  and  D.  As  can  be  seen, 
+there  is  no  correlation.  The  results  are  the  same  for  the 
+other  samples. 
+
+
+240 
+
+
+200- 
+
+
+160 
+
+
+i20 
+
+
+80 
+
+
+40 
+
+
+1                            1             //       1                           LoOODOlOaOCEDI 
+
+B 
+
+/VDDDQ 
+
+- 
+
+A°\ 
+
+Ay                      Yield,   185  3  kip/inz 
+P /                       Breaking  stress,  237.3  kip/in2 
+
+~~ 
+
+- 
+
+. 
+
+Jl                            Modulus,   8  63*  I06  psi 
+
+_ 
+
+- 
+
+// 
+
+- 
+
+f  '                                                       KEY 
+
+- 
+
+P/                            ■ Y  =  86.33028I*X +11.294128 
+
+- 
+
+f 
+
+/                             0.2-pct  yield 
+
+ft 
+
+'// 
+
+" 
+
+f/ 
+
+- 
+
+1 
+
+1                  1                   I                   i                   I                   i 
+
+I  2  3  4  5  6  7 
+
+STRAIN,  pet  in /in 
+
+Figure  4. -Stress  versus  strain,  rope  B.    A,  4.81 3-ft  sample; 
+B,  4.81 8-ft  sample. 
+
+
+240 
+
+
+200 
+
+
+I  60 
+
+JC 
+
+<n 
+
+I  20 
+
+in 
+
+id 
+
+rr 
+
+I- 
+
+co 
+
+80 
+
+40 
+
+
+. 
+
+'     *r  „  a 
+
+,           A    /       D 
+
+— 
+
+/AA/D 
+
+/a     /d 
+
+- 
+
+/*          / 
+
+*         J 
+
+- 
+
+^    r 
+
+fi    / 
+
+f1   I 
+
+- 
+
+t    / 
+
+/    /                                        KEY 
+
+A     j                     °   Test  3,  no  prestretch 
+
+■ 
+
+'      r                       A   Test  16,  40-  kip  prestretch 
+
+-      /    /                         Y|  =  78.44*X|-  19.60 
+
+- 
+
+/  r/                          --Y?=86.33*X p+l  1.29 
+
+/     D/ 
+
+/        i             i             i             i             i             i 
+
+- 
+
+2  3  4 
+
+STRAIN,  pet  in/in 
+
+
+Figure  5.-Effect  of  prestretching  on  rope  samples,  rope  B. 
+
+
+14 
+
+
+2  10 
+209 
+208 
+207 
+206 
+205 
+
+
+21  I 
+
+
+210 
+
+
+-  209 
+
+
+-  208 
+
+
+207 
+
+
+d 
+
+1 
+
+1 
+
+1              ' 
+
+1                   ' 
+
+D 
+
+B 
+
+- 
+
+D 
+
+- 
+
+D 
+
+a 
+
+■ 
+
+D 
+
+D 
+
+a 
+
+D 
+
+D 
+
+1 
+
+1 
+
+a 
+l 
+
+1 
+
+1 
+
+1 
+
+D 
+
+52.4 
+
+D 
+
+- 
+
+52.2 
+
+a 
+
+D 
+
+D 
+
+a 
+
+- 
+
+52.0 
+
+D 
+
+- 
+
+51.8 
+
+D 
+
+- 
+
+<^l    G 
+
+D 
+
+1 
+
+' 
+
+1 
+
+D 
+
+1 
+
+- 
+
+353 
+352 
+351 
+350 
+349 
+348 
+347 
+346 
+345 
+344 
+343 
+
+
+F  _ 
+
+D  ~~ 
+
+~  a  ~ 
+
+~           a                           °  " 
+
+-a  - 
+a 
+
+a 
+
+-    o 
+
+D  _ 
+
+a 
+
+a 
+
+t i i i 2 , i , : 
+
+
+6      - 
+
+D 
+
+D  _ 
+
+a 
+
+D 
+
+a 
+
+
+10  20  30 
+
+GAUGE  LENGTH,  ft 
+
+
+40 
+
+
+10  20  30 
+
+GAUGE  LENGTH,  ft 
+
+
+40 
+
+
+Figure  6.-Breaking  load  versus  sample  length.  A,  Rope  A;  8,  rope  B;  C,  rope  C;  D,  rope  D;  E,  rope  E;  F,  rope  F;  G,  rope  H. 
+
+
+15 
+
+
+<L  1  1 
+
+i 
+
+1 
+
+1 
+
+D    1 
+
+.  A 
+
+□ 
+
+D 
+
+210 
+
+- 
+
+209 
+
+D 
+
+208 
+
+9fY7 
+
+□ 
+
+D 
+1 
+
+1 
+
+n 
+
+D               D 
+
+1 
+
+a 
+
+1 
+
+a 
+
+D 
+
+1 
+
+50  I  00  I  50  200  250 
+
+POSITION  ON   REEL,  ft 
+
+
+300 
+
+
+Figure  7.-Effect  of  sample  position  on  reel.  A,  Rope  B;  B,  rope  D. 
+
+
+EFFECTS  OF  STROKE  RATE  ON  RESULTS 
+
+The  "Wire  Rope  Users  Manual"  states  that  for  a 
+strength  test  to  be  valid  there  must  be  a  "gradually  applied 
+load  that  will  not  exceed  a  stroke  rate  of  1  in/min."  All  of 
+the  baseline  tests  to  determine  physical  factors  were  run 
+at  a  stroke  rate  of  1  in/min  regardless  of  the  size  of  the 
+sample. 
+
+It  was  desired  to  see  if  strain  rate  had  any  effect  on 
+the  results.  At  a  stroke  rate  of  1  in/min,  it  is  obvious  that 
+the  strain  rate  of  a  2-ft  sample  will  be  15  times  the  strain 
+rate  of  a  30-ft  sample.  For  a  2-ft  sample  to  have  the  same 
+strain  rate  as  a  30-ft  sample  at  a  stroke  rate  of  1  in/min, 
+the  stroke  rate  for  the  2-ft  sample  would  have  to  be 
+1/15  in/min.  For  a  30-ft  sample  to  have  the  same  strain 
+rate  as  a  2-ft  sample  at  a  stroke  rate  of  1  in/min,  the 
+stroke  rate  for  the  30-ft  sample  would  have  to  be 
+15  in/min.  To  determine  the  effects  of  varying  strain  rates 
+on  the  samples,  a  series  of  samples  with  zinc  sockets  were 
+made  up,  all  of  15  ft  in  length.  The  stroke  rates  tested 
+were  0.0625, 0.125, 1, 8,  and  16  in/min.  These  stroke  rates 
+cover  the  variations  in  strain  rate  discussed  above.  The 
+results  are  shown  in  table  11  and  in  figure  8.  Figure  &4 
+shows  that  the  breaking  elongation  is  lessened  as  the 
+stroke  rate  is  increased.  Figure  85  shows  that  the  modulus 
+of  elasticity  is  increased  slightly  as  the  stroke  rate  is 
+increased.  This,  of  course,  correlates  with  the  decreased 
+elongation  as  the  stroke  rate  is  increased.  As  can  be  seen 
+in  figure  8C,  there  is  no  effect  on  breaking  strength  from 
+the  variation  in  stroke  rate  over  the  ranges  shown.  The 
+correlation  coefficient  for  breaking  strength  versus  stroke 
+rate  has  the  value  of  0.279,  which  indicates  no  correlation 
+for  this  relationship. 
+
+
+4.4 
+4.3 
+
+■£  4.1 
+o 
+
+
+£  4.0 
+
+§3.9 
+
+"  3.8 
+
+3.7 
+
+3.6 
+
+
+u — 
+
+1 
+
+1           '           1           '          1           '          1 
+
+1        1 
+
+1 
+
+-  A 
+
+D 
+
+- 
+
+D 
+
+D 
+
+- 
+
+- 
+
+D 
+
+- 
+
+- 
+
+Y  =  -0. 1 79606  *  X  +  4.020978 
+
+D 
+D 
+
+i 
+
+1 
+
+i               
+
+1            1 
+
+i 
+
+140 
+
+
+139 
+
+
+< 
+
+
+138 
+
+
+137  - 
+
+
+2   '36 
+m 
+
+
+135  - 
+
+
+134 
+
+
+'_  c 
+
+1        i       I 
+
+'l'|i 
+
+1        '       1 
+a 
+
+i 
+
+- 
+
+-     a 
+
+D 
+
+- 
+
+- 
+
+□ 
+
+- 
+
+- 
+
+□ 
+
+- 
+
+~~       D 
+
+a 
+
+□ 
+
+_ 
+
+- 
+
+- 
+
+.!_□_< L_ 
+
+i>i, 
+
+i        ,        i 
+
+■ 
+
+-1.4 
+
+
+-0.6        -0.2         0.2         0.6 
+LOG  STROKE,  in/min 
+
+
+1.0 
+
+
+1.4 
+
+
+Figure  8.-Effect  of  log  stroke  rate,  rope  G.    A,  Elongation; 
+8,  modulus;  C,  breaking  load. 
+
+
+EFFECT  OF  GAUGE  LENGTH  ON 
+MODULUS  OF  ELASTICITY 
+
+When  the  data  tables  (tables  5-12)  are  examined,  it 
+becomes  apparent  that  the  columns  involving  strain 
+measurements  have  high  errors  compared  with  the  col- 
+umns involving  load  or  torque  measurements.  The  modu- 
+lus of  elasticity,  the  breaking  strain,  and  the  yield  strain  all 
+show  these  high  errors.  And  yet,  when  samples  of  the 
+same  length  are  compared,  the  values  are  shown  to  be 
+close  to  each  other.  Plots  of  modulus  of  elasticity, 
+breaking  strain,  and  yield  strain  against  gauge  length  all 
+show  correlation,  although  not  necessarily  linear  correla- 
+tion. Figure  9  shows  plots  of  modulus  of  elasticity  versus 
+gauge  length  for  the  various  test  ropes.  These  plots  show 
+
+
+16 
+
+
+10.4 
+
+
+. 
+
+1 
+
+1            1             1            1             1            1             lo. 
+
+- 
+
+B 
+
+^__^. o     - 
+
+- 
+
+nS*^    o 
+
+1 
+
+D  / 
+
+~: 
+
+o/ 
+
+\ 
+
+- 
+
+/d 
+la 
+
+Y  =  0.l/(7.85005E-03+0.233202/X)   J 
+
+: 
+
+1  1 
+
+i    _   j : 
+
+F 
+
+
+"i    r 
+
+
+Y  =  0.l/(8.4877E-03*0.23029/X) 
+
+
+J I I L 
+
+
+50   100   150   200  250   300  350  400  450 
+
+GAUGE  LENGTH,  in 
+
+
+50   100  150  200  250  300  350  400  450  500 
+
+GAUGE  LENGTH,  in 
+
+
+Figure  9.-Modulus  versus  gauge  length  for  various  ropes.  A,  Rope  A;  B,  rope  B;  C,  rope  C;  D,  rope  D;  E.  rope  E;  F,  rope  F;  G,  rope  H. 
+
+
+17 
+
+
+that  the  modulus  of  elasticity  is  lowest  for  the  2-ft  samples 
+and  highest  for  the  30-  and  35-ft  samples,  initially  in- 
+creasing rapidly  in  value  with  gauge  length,  then  leveling 
+off  at  the  higher  gauge  lengths. 
+
+The  tensile  machine  does  not  measure  gauge  length 
+directly.  During  the  initial  calibration  of  the  machine,  very 
+precise  measurements  were  made  of  the  elongation  and 
+compression  of  the  machine  components  over  the  full 
+range  of  load  capability.  These  components  included  the 
+columns,  heads,  grips,  pins,  and  sockets.  The  deflection 
+data  are  contained  in  the  data  logging  program.  The  pro- 
+gram subtracts  from  the  movement  of  the  actuator  the 
+appropriate  deflection  at  the  sensed  load  for  all  of  the 
+involved  components.  The  different  grips  and  sockets  for 
+each  rope  size  are  included  individually  in  the  program. 
+After  pretest  stretching,  the  load  is  removed,  the  gauge 
+length  is  measured  manually,  and  the  actuator  position  is 
+set  to  zero.  Consequently,  a  very  accurate  and  repro- 
+ducible measurement  is  made  of  the  change  in  distance 
+between  the  socket  ends  during  a  run,  which  is  nominally 
+the  gauge  length  for  a  solid  sample.  In  the  case  of  a 
+socketed  wire  rope,  the  wire  is  not  fastened  rigidly  to  the 
+socket  end.  The  rope  is  broomed  and  cast  with  epoxy  or 
+zinc  in  the  cone  of  the  socket.  Thus,  the  compressibility 
+of  the  material  in  the  socket  becomes  a  variable. 
+
+If  an  assumption  is  made  that  the  broomed  end  of  the 
+rope  can  stretch  and  move  to  some  degree  out  of  the 
+socket,  then  an  explanation  can  be  made  for  the  high 
+errors  of  the  elongation  measurements.  There  is  some 
+physical  justification  for  this  assumption.  Markers  placed 
+on  the  socket  ends  with  a  pointer  on  the  rope  showed 
+some  movement  of  the  rope  end  out  of  the  socket  when  a 
+load  was  applied.  The  rope  end  moved  back  into  the 
+socket  when  the  load  was  removed.  Further,  the  epoxy 
+resin  has  a  very  low  modulus  of  compression.  Zinc  has  a 
+higher  modulus  of  compression,  but  it  is  still  much  lower 
+than  that  of  the  high-carbon  steel  of  which  the  wires  are 
+made. 
+
+Consider  the  following.  The  broomed  end  in  each 
+socket  moves  out  of  the  socket  by  an  amount  proportional 
+to  the  load.  Because  the  tensile  machine  measures  the 
+distance  between  the  socket  ends,  it  determines  the  sum  of 
+the  lengths  that  each  broom  pulls  out  plus  the  elongation 
+of  the  original  length  of  rope  measured  between  the 
+sockets  (the  gauge  length).  The  amounts  that  the 
+broomed  ends  move  out  are  independent  of  the  gauge 
+length  of  the  sample.  Consequently,  the  percentage  error 
+becomes  less  as  the  gauge  length  increases. 
+
+It  is  possible  to  calculate  this  error  if  elongation  at  a 
+constant  load  is  plotted  against  gauge  length  for  different 
+sample  lengths.  For  a  solid  rod,  elongation  would  be 
+directly  proportional  to  gauge  length  within  the  elastic 
+range.  For  a  wire  rope,  elongation  should  still  be  directly 
+proportional  to  gauge  length,  but  with  an  intercept  on  the 
+y-axis  (elongation).  The  intercept  represents  the  error 
+caused  by  the  broom  pullout.  This  error  is  directly 
+proportional  to  load  while  within  the  elastic  region  of  the 
+stress-strain  plot. 
+
+
+The  values  for  elongation  at  a  constant  load  cannot  be 
+taken  directly  from  the  data  tables.  If  the  B  plots  in  fig- 
+ures 2  and  3  are  examined,  it  can  be  seen  that  the  slopes 
+for  the  stress-strain  curves  do  not  go  through  the  origin  of 
+the  coordinates,  because  of  the  preload  put  on  the  sample 
+and  the  subsequent  zeroing  of  the  stroke.  This  can  be  al- 
+lowed for  by  taking  the  slope  of  each  stress-strain  plot  and 
+mathematically  forcing  it  through  the  origin.  The  slope  of 
+the  stress-strain  curve  is  the  modulus  of  elasticity  and  is 
+given  in  column  2  of  the  data  tables  (tables  5-11). 
+
+Then, 
+
+
+modulus  =  stress/strain, 
+
+strain  =  stress/modulus, 
+
+strain  =  elongation/gauge, 
+
+and     elongation  =  strain  x  gauge. 
+
+
+(1) 
+(2) 
+(3) 
+(4) 
+
+
+Thus,  it  is  possible  to  calculate  elongation  at  a  given 
+strain,  knowing  the  modulus  of  elasticity.  These  calcu- 
+lations are  shown  for  a  given  stress  of  100,000  psi  in 
+tables  14-20.  The  given  stress  of  100,000  psi  is  approxi- 
+mately at  the  midpoint  of  the  elastic  region  of  the  stress- 
+strain  plot.  As  is  demonstrated  in  the  tables,  strain  is 
+calculated  from  the  modulus  and  the  given  stress  using 
+equation  2.  Then,  elongation  is  calculated  from  the  strain 
+and  gauge  using  equation  4. 
+
+Table  1 4.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psi  stress  for  rope  A 
+
+
+Sample 
+
+Mod 
+
+ulus  of  elasticity, 
+
+106  psi 
+
+Strain, 
+
+length, 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Elonga- 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+squared 
+
+in/in 
+
+tion,  in 
+
+4.90  ..  . 
+
+8.26 
+
+8.257 
+
+-0.003 
+
+0.00001 
+
+0.01211 
+
+0.712 
+
+5.01  .  .  . 
+
+8.48 
+
+8.293 
+
+-.187 
+
+.0349 
+
+.01179 
+
+.709 
+
+10.00  .  . 
+
+9.50 
+
+9.195 
+
+-.305 
+
+.0931 
+
+.01053 
+
+1.263 
+
+10.13  .  . 
+
+8.89 
+
+9.208 
+
+.318 
+
+.1010 
+
+.01125 
+
+1.367 
+
+14.96  .  . 
+
+9.43 
+
+9.540 
+
+.110 
+
+.0122 
+
+.01060 
+
+1.904 
+
+15.14  .  . 
+
+9.89 
+
+9.549 
+
+-.341 
+
+.1164 
+
+.01011 
+
+1.837 
+
+15.21   .  . 
+
+9.49 
+
+9.552 
+
+.062 
+
+.0039 
+
+.01054 
+
+1.923 
+
+20.00  .  . 
+
+9.57 
+
+9.726 
+
+.156 
+
+.0243 
+
+.01045 
+
+2.508 
+
+20.03  .  . 
+
+9.77 
+
+9.727 
+
+-.043 
+
+.0019 
+
+.01024 
+
+2.460 
+
+20.27  .  . 
+
+9.59 
+
+9.733 
+
+.143 
+
+.0205 
+
+.01043 
+
+2.536 
+
+35.08  .  . 
+
+10.22 
+
+9.973 
+
+-.247 
+
+.0608 
+
+.00978 
+
+4.119 
+
+35.21   .  . 
+
+9.87 
+
+9.975 
+
+.105 
+
+.0109 
+
+.01013 
+
+4.281 
+
+35.32  .  . 
+
+9.90 
+
+9.976 
+
+.076 
+
+.0057 
+
+.01010 
+
+4.281 
+
+Mean  . 
+
+9.45 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+SS  ... 
+
+NAp 
+
+NAp 
+
+NAp 
+
+.4856 
+
+NAp 
+
+NAp 
+
+Variatio 
+
+n       NAp 
+
+NAp 
+
+NAp 
+
+.0405 
+
+NAp 
+
+NAp 
+
+SD  ... 
+
+.58 
+
+NAp 
+
+NAp 
+
+.2012 
+
+NAp 
+
+NAp 
+
+SD.. 
+
+pet  . 
+
+6.09 
+
+NAp 
+
+NAp 
+
+2.1286 
+
+NAp 
+
+NAp 
+
+NAp      N 
+
+ot  applicable. 
+
+SD        S 
+
+tandard  deviation. 
+
+SS        S 
+
+urn  of  squares. 
+
+NOTE.-fv 
+
+lodulus  of 
+
+elasticity 
+
+=  0.1/(9.68819E-03 
+
++  0.142489/X). 
+
+18 
+
+
+Table  15.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psi  stress  for  rope  B 
+
+
+Table  17.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psi  stress  for  rope  D 
+
+
+Sample 
+
+Modulus  of  elasticity,  106  psi 
+
+Strain, 
+
+Elonga- 
+
+Sample 
+length, 
+
+Modulus  of  elasticity, 
+
+106  psi 
+
+Strain, 
+
+length, 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Elonga- 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+squared 
+
+in/in 
+
+tion,  in 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+squared 
+
+in/in 
+
+tion,  in 
+
+4.81  .  .  . 
+
+7.84 
+
+8.410 
+
+0.570 
+
+0.3252 
+
+0.01276 
+
+0.736 
+
+1.88  ..  . 
+
+9.22 
+
+8.595 
+
+-0.625 
+
+0.3910 
+
+0.01085 
+
+0.245 
+
+4.82  .  .  . 
+
+8.90 
+
+8.416 
+
+-.484 
+
+.2341 
+
+.01124 
+
+.650 
+
+4.85  ..  . 
+
+10.82 
+
+10.652 
+
+-.168 
+
+.0284 
+
+.00924 
+
+.538 
+
+4.82  .  .  . 
+
+8.63 
+
+8.416 
+
+-.214 
+
+.0457 
+
+.01159 
+
+.670 
+
+4.86  ..  . 
+
+.       10.82 
+
+10.655 
+
+-.165 
+
+.0272 
+
+.00924 
+
+.539 
+
+5.06  ..  . 
+
+8.11 
+
+8.554 
+
+.444 
+
+.1970 
+
+.01233 
+
+.749 
+
+4.91   .  .  . 
+
+10.75 
+
+10.671 
+
+-.079 
+
+.0062 
+
+.00930 
+
+.548 
+
+9.64  ..  . 
+
+10.51 
+
+10.136 
+
+-.374 
+
+.1400 
+
+.00951 
+
+1.101 
+
+5.09  ..  . 
+
+10.98 
+
+10.728 
+
+-.252 
+
+.0634 
+
+.00911 
+
+.556 
+
+10.02  .  . 
+
+10.35 
+
+10.215 
+
+-.135 
+
+.0182 
+
+.00966 
+
+1.162 
+
+9.81  .  .  . 
+
+11.45 
+
+11.535 
+
+.085 
+
+.0073 
+
+.00873 
+
+1.028 
+
+14.64  .  . 
+
+10.95 
+
+10.896 
+
+-.054 
+
+.0029 
+
+.00913 
+
+1.604 
+
+9.93  .  .  . 
+
+11.41 
+
+11.546 
+
+.136 
+
+.0186 
+
+.00876 
+
+1.044 
+
+14.71    .  . 
+
+11.00 
+
+10.904 
+
+-.096 
+
+.0093 
+
+.00909 
+
+1.605 
+
+15.01   .  . 
+
+11.84 
+
+11.869 
+
+.029 
+
+.0008 
+
+.00845 
+
+1.521 
+
+19.60  .  . 
+
+11.04 
+
+11.310 
+
+.270 
+
+.0730 
+
+.00906 
+
+2.130 
+
+15.02  .  . 
+
+11.77 
+
+11.869 
+
+.099 
+
+.0098 
+
+.00850 
+
+1.531 
+
+20.17  .  . 
+
+11.33 
+
+11.346 
+
+.016 
+
+.0003 
+
+.00883 
+
+2.136 
+
+19.96  .  . 
+
+11.89 
+
+12.031 
+
+.141 
+
+.0200 
+
+.00841 
+
+2.014 
+
+34.88  .  . 
+
+11.76 
+
+11.895 
+
+.135 
+
+.0181 
+
+.00850 
+
+3.559 
+
+20.00  .  . 
+
+11.77 
+
+12.032 
+
+.262 
+
+.0688 
+
+.00850 
+
+2.039 
+
+35.00  .  . 
+
+12.07 
+
+11.897 
+
+-.173 
+
+.0298 
+
+.00829 
+
+3.480 
+
+20.07  .  . 
+
+12.19 
+
+12.034 
+
+-.156 
+
+.0243 
+
+.00820 
+
+1.976 
+
+Mean  . 
+
+10.21 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+20.09  .  . 
+
+11.86 
+
+12.035 
+
+.175 
+
+.0305 
+
+.00843 
+
+2.033 
+
+SS  .  .  . 
+
+NAp 
+
+NAp 
+
+NAp 
+
+1.0936 
+
+NAp 
+
+NAp 
+
+29.88  .  . 
+
+12.43 
+
+12.200 
+
+-.230 
+
+.0530 
+
+.00805 
+
+2.885 
+
+Variatio 
+
+n         NAp 
+
+NAp 
+
+NAp 
+
+.0994 
+
+NAp 
+
+NAp 
+
+29.93  .  . 
+
+12.40 
+
+12.200 
+
+-.200 
+
+.0399 
+
+.00806 
+
+2.896 
+
+SD.  .  . 
+
+1.46 
+
+NAp 
+
+NAp 
+
+.3153 
+
+NAp 
+
+NAp 
+
+30.16  .  . 
+
+12.02 
+
+12.203 
+
+.183 
+
+.0335 
+
+.00832 
+
+3.011 
+
+SD.. 
+
+Mean  . 
+
+11.48 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+SS  ..  . 
+
+NAp 
+
+NAp 
+
+NAp 
+
+.8226 
+
+NAp 
+
+NAp 
+
+pet .  . 
+
+14.27 
+
+NAp 
+
+NAp 
+
+3.0889 
+
+NAp 
+
+NAp 
+
+Variation        NAp 
+
+NAp 
+
+NAp 
+
+.0548 
+
+NAp 
+
+NAp 
+
+NAp      N 
+
+ot  applicable. 
+
+SD  ... 
+
+.81 
+
+NAp 
+
+NAp 
+
+.2342 
+
+NAp 
+
+NAp 
+
+SD        S 
+
+tandard  deviation. 
+
+SS        S 
+
+urn  of  squares. 
+
+SD  .. 
+
+pet .  . 
+
+7.09 
+
+NAp 
+
+NAp 
+
+2.0406 
+
+NAp 
+
+NAp 
+
+NOTE.-K 
+
+lodulus  of  elasticity  = 
+
+=  0.1/(9.68819E-03 
+
++  0.142489/X). 
+
+NAo      N 
+
+ot  applicab 
+
+e. 
+
+Table  16.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psi  stress  for  rope  C 
+
+
+SD       Standard  deviation. 
+SS        Sum  of  squares. 
+
+NOTE.-Modulus  of  elasticity  =  0.1/(9.68819E-03  +  0.142489/X). 
+
+
+Sample 
+
+Modulus  of  elasticity,  106  psi 
+
+Table  18.-Effect  of  sample  length  on  modulus  and 
+
+length, 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Strain, 
+
+Elonga- 
+
+elongation  at  100,000-psi 
+
+stress  for 
+
+rope  E 
+
+ft 
+
+lated 
+
+in/in 
+
+squared 
+
+Sample 
+length, 
+
+Modulus  of  elasticity, 
+
+106  psi 
+
+Strain, 
+
+4.76  .  .  . 
+
+9.34 
+
+9.002 
+
+-0.338 
+
+0.1143 
+
+0.01071 
+
+0.612 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Elonga- 
+
+4.84 .  .  . 
+
+8.61 
+
+9.049 
+
+.439 
+
+.1929 
+
+.01161 
+
+.675 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+
+in/in 
+
+tion,  in 
+
+4.98  ..  . 
+
+9.65 
+10.70 
+
+9.129 
+10.727 
+
+-.521 
+.027 
+
+.2710 
+.0007 
+
+.01036 
+.00935 
+
+.619 
+1.087 
+
+squared 
+
+9.69  .  .  . 
+
+1.96  ..  . 
+
+6.34 
+
+6.219 
+
+-0.121 
+
+0.0146 
+
+0.01577 
+
+0.371 
+
+9.98  ..  . 
+
+10.94 
+
+10.785 
+
+-.155 
+
+.0239 
+
+.00914 
+
+1.095 
+
+2.00  ..  . 
+
+6.83 
+
+6.287 
+
+-.543 
+
+.2945 
+
+.01464 
+
+.351 
+
+14.98  .  . 
+
+11.74 
+
+11.477 
+
+-.263 
+
+.0690 
+
+.00852 
+
+1.531 
+
+4.88  .  .  . 
+
+9.25 
+
+9.199 
+
+-.051 
+
+.0026 
+
+.01081 
+
+.633 
+
+19.80  .  . 
+
+11.97 
+
+11.847 
+
+-.123 
+
+.0152 
+
+.00835 
+
+1.985 
+
+4.91  .  .  . 
+
+9.72 
+
+9.217 
+
+-.503 
+
+.2529 
+
+.01029 
+
+.606 
+
+19.94  .  . 
+
+11.02 
+
+11.855 
+
+.835 
+
+.6973 
+
+.00907 
+
+2.171 
+
+9.87  .  .  . 
+
+10.76 
+
+10.985 
+
+.225 
+
+.0506 
+
+.00929 
+
+1.101 
+
+19.98  .  . 
+
+11.95 
+
+11.857 
+
+-.093 
+
+.0086 
+
+.00837 
+
+2.006 
+
+9.93  .  .  . 
+
+10.49 
+
+10.998 
+
+.508 
+
+.2577 
+
+.00953 
+
+1.136 
+
+34.81    .  . 
+
+12.26 
+
+12.381 
+
+.121 
+
+.0146 
+
+.00816 
+
+3.407 
+
+14.90  .  . 
+
+10.99 
+
+11.737 
+
+.747 
+
+.5586 
+
+.00910 
+
+1.627 
+
+34.83  .  . 
+
+12.25 
+
+12.381 
+
+.131 
+
+.0172 
+
+.00816 
+
+3.412 
+
+14.97  .  . 
+
+11.77 
+
+11.745 
+
+-.025 
+
+.0006 
+
+.00850 
+
+1.526 
+
+34.95  .  . 
+
+12.36 
+
+12.384 
+
+.024 
+
+.0006 
+
+.00809 
+
+3.393 
+
+19.82  .  . 
+
+12.62 
+
+12.142 
+
+-.478 
+
+.2281 
+
+.00792 
+
+1.885 
+
+35.07  .  . 
+
+12.64 
+
+12.386 
+
+-.254 
+
+.0645 
+
+.00791 
+
+3.329 
+
+20.01   .  . 
+
+12.34 
+
+12.155 
+
+-.185 
+
+.0344 
+
+.00810 
+
+1.946 
+
+35.36  .  . 
+
+12.49 
+
+12.392 
+
+-.098 
+
+.0096 
+
+.00801 
+
+3.397 
+
+29.85  .  . 
+
+12.57 
+
+12.584 
+
+.014 
+
+.0002 
+
+.00796 
+
+2.850 
+
+35.39  .  . 
+
+12.48 
+
+12.393 
+
+-.087 
+
+.0076 
+
+.00801 
+
+3.403 
+
+29.96  .  . 
+
+12.59 
+
+12.588 
+
+-.002 
+
+5E-06 
+
+.00794 
+
+2.856 
+
+Mean  . 
+
+11.36 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+Mean  . 
+
+10.52 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+SS  ..  . 
+
+NAp 
+
+NAp 
+
+NAp 
+
+1.5069 
+
+NAp 
+
+NAp 
+
+SS  ..  . 
+
+NAp 
+
+NAp 
+
+NAp 
+
+1.6948 
+
+NAp 
+
+NAp 
+
+Variatio 
+
+n         NAp 
+
+NAp 
+
+NAp 
+
+.1076 
+
+NAp 
+
+NAp 
+
+Variatio 
+
+n        NAp 
+
+NAp 
+
+NAp 
+
+.1541 
+
+NAp 
+
+NAp 
+
+SD.  .. 
+
+1.28 
+
+NAp 
+
+NAp 
+
+.3281 
+
+NAp 
+
+NAp 
+
+SD  .  .. 
+
+2.16 
+
+NAp 
+
+NAp 
+
+.3925 
+
+NAp 
+
+NAp 
+
+SD.. 
+pet .  . 
+
+11.27 
+
+NAp 
+
+NAp 
+
+2.8880 
+
+NAp 
+
+NAp 
+
+SD  .. 
+pet .  . 
+
+20.54 
+
+NAp 
+
+NAp 
+
+3.7303 
+
+NAp 
+
+NAp 
+
+NAp      N 
+
+ot  applicable. 
+
+NAp      N 
+
+ot  applicable. 
+
+SD        S 
+
+tandard  deviation. 
+
+SD        S 
+
+tandard  deviation. 
+
+SS        S 
+
+jm  of  squares. 
+
+SS        S 
+
+jm  of  squares. 
+
+NOTE.-Modulus  of  elasticity  =  0.1/(9.68819E-03  +  0.142489/X). 
+
+
+NOTE.-Modulus  of  elasticity  =  0.1/(9.68819E-03  +  0.142489/X). 
+
+
+19 
+
+
+Table  19.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psl  stress  for  rope  F 
+
+
+Sample 
+
+Modulus  of  elasticity,  106  psi 
+
+Strain, 
+
+length, 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Elonga- 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+squared 
+
+in/in 
+
+tion,  in 
+
+1.94  ..  . 
+
+5.66 
+
+5.441 
+
+-0.219 
+
+0.0481 
+
+0.01767 
+
+0.411 
+
+2.17  .  .  . 
+
+5.93 
+
+5.770 
+
+-.160 
+
+.0256 
+
+.01686 
+
+.439 
+
+2.18  .  .  . 
+
+5.17 
+
+5.783 
+
+.613 
+
+.3763 
+
+.01934 
+
+.506 
+
+5.20  ..  . 
+
+8.46 
+
+8.211 
+
+-.249 
+
+.0618 
+
+.01182 
+
+.738 
+
+5.38  ..  . 
+
+9.34 
+
+8.295 
+
+-1.045 
+
+.0910 
+
+.01071 
+
+.691 
+
+9.91   .  .  . 
+
+10.04 
+
+9.593 
+
+-.447 
+
+.1998 
+
+.00996 
+
+1.184 
+
+10.18  .  . 
+
+8.81 
+
+9.641 
+
+.831 
+
+.6898 
+
+.01135 
+
+1.387 
+
+10.27  .  . 
+
+9.15 
+
+9.656 
+
+.506 
+
+.2560 
+
+.01093 
+
+1.347 
+
+14.80  .  . 
+
+10.89 
+
+10.220 
+
+-.670 
+
+.4484 
+
+.00918 
+
+1.631 
+
+14.92  .  . 
+
+10.31 
+
+10.231 
+
+-.079 
+
+.0062 
+
+.00970 
+
+1.737 
+
+15.34  .  . 
+
+10.03 
+
+10.268 
+
+.238 
+
+.0568 
+
+.00997 
+
+1.835 
+
+19.94  .  . 
+
+10.41 
+
+10.582 
+
+.172 
+
+.0295 
+
+.00961 
+
+2.299 
+
+20.28  .  . 
+
+10.52 
+
+12.600 
+
+.080 
+
+.0064 
+
+.00951 
+
+2.313 
+
+30.13  .  . 
+
+10.81 
+
+12.959 
+
+.149 
+
+.0223 
+
+.00925 
+
+3.345 
+
+30.23  .  . 
+
+11.21 
+
+12.962 
+
+-.248 
+
+.0616 
+
+.00892 
+
+3.236 
+
+Mean  . 
+
+9.12 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+SS  .  .  . 
+
+NAp 
+
+NAp 
+
+NAp 
+
+3.3796 
+
+NAp 
+
+NAp 
+
+Variatio 
+
+n         NAp 
+
+NAp 
+
+NAp 
+
+.2414 
+
+NAp 
+
+NAp 
+
+SD... 
+
+1.99 
+
+NAp 
+
+NAp 
+
+.4913 
+
+NAp 
+
+NAp 
+
+SD  .. 
+
+pet .  . 
+
+21.82 
+
+NAp 
+
+NAp 
+
+5.3897 
+
+NAp 
+
+NAp 
+
+NAp      Not  applicable. 
+SD       Standard  deviation. 
+SS        Sum  of  squares. 
+
+NOTE.-Modulus  of  elasticity  =  0.1/(9.68819E-03  +  0.142489/X). 
+
+Table  20.-Effect  of  sample  length  on  modulus  and 
+elongation  at  100,000-psi  stress  for  rope  H 
+
+
+Sample 
+
+Modulus  of  elasticity,  106  psi 
+
+Strain, 
+
+length, 
+
+Calcu- 
+
+Differ- 
+
+Differ- 
+
+Elonga- 
+
+ft 
+
+Actual 
+
+lated 
+
+ence 
+
+ence, 
+squared 
+
+in/in 
+
+tion,  in 
+
+2.06  ..  . 
+
+6.12 
+
+5.787 
+
+-0.333 
+
+0.1106 
+
+0.01634 
+
+0.404 
+
+2.06  ..  . 
+
+5.15 
+
+5.787 
+
+.637 
+
+.4062 
+
+.01942 
+
+.480 
+
+5.06  ..  . 
+
+8.55 
+
+8.638 
+
+.088 
+
+.0077 
+
+.01170 
+
+.710 
+
+5.08  ..  . 
+
+8.59 
+
+8.649 
+
+.059 
+
+.0035 
+
+.01164 
+
+.710 
+
+10.10  .  . 
+
+10.38 
+
+10.391 
+
+.011 
+
+.0001 
+
+.00963 
+
+1.168 
+
+10.11   .  . 
+
+10.90 
+
+10.394 
+
+-.506 
+
+.2564 
+
+.00917 
+
+1.113 
+
+20.12  .  . 
+
+11.30 
+
+11.566 
+
+.266 
+
+.0705 
+
+.00885 
+
+2.137 
+
+20.15  .  . 
+
+11.89 
+
+11.568 
+
+-.322 
+
+.1040 
+
+.00841 
+
+2.034 
+
+30.16  .  . 
+
+11.90 
+
+12.021 
+
+.121 
+
+.0147 
+
+.00840 
+
+3.041 
+
+30.21    .  . 
+
+12.07 
+
+12.023 
+
+-.047 
+
+.0022 
+
+.00829 
+
+3.003 
+
+Mean  . 
+
+9.69 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+NAp 
+
+SS  ... 
+
+NAp 
+
+NAp 
+
+NAp 
+
+.9761 
+
+NAp 
+
+NAp 
+
+Variatio 
+
+n         NAp 
+
+NAp 
+
+NAp 
+
+.1085 
+
+NAp 
+
+NAp 
+
+SD... 
+
+2.49 
+
+NAp 
+
+NAp 
+
+.3293 
+
+NAp 
+
+NAp 
+
+SD.. 
+
+pet  .  . 
+
+25.71 
+
+NAp 
+
+NAp 
+
+3.4004 
+
+NAp 
+
+NAp 
+
+NAp      N 
+
+ot  applicable. 
+
+SD        S 
+
+landard  deviation. 
+
+SS        S 
+
+jm  of  squares. 
+
+NOTE.-N 
+
+lodulus  of  elasticity  = 
+
+=  0.1/(9.68819E-03 
+
++  0.142489/X). 
+
+Plots  of  elongation  versus  gauge  for  the  test  ropes  are 
+shown  in  figure  10.  As  predicted,  elongation  is  a  linear 
+function  of  gauge  length  with  an  intercept  off  the  origin. 
+The  intercept  is  the  sum  of  the  amounts  of  the  pullout  of 
+each  broomed  end  at  a  stress  of  100,000  psi.    In  plot  A, 
+
+
+which  shows  a  plot  for  the  rope  A  series  samples,  the 
+equation  of  the  slope  is  given  as 
+
+Y  =  9.68819E-03  *  X  +  0.142489,  (5) 
+
+where  Y    =  elongation,  in, 
+
+and  X    =  gauge  length,  in. 
+
+If  the  elongation  (Y)  is  divided  by  the  gauge  length  (X), 
+the  strain  (S)  is  calculated  as  per  equation  3. 
+Equation  5  becomes 
+
+
+where 
+
+
+S  =  9.68819E-03  +  0.142489/X,  (6) 
+
+S    =  strain,  in/in. 
+
+
+If  the  stress  is  divided  by  the  strain  (S),  the  modulus 
+of  elasticity  (Mod)  is  calculated  as  per  equation  1.  Equa- 
+tion 6  becomes 
+
+Mod  =  100,000/(9.68819E-03  +  0.142489/X),     (7) 
+
+where     Mod    =  modulus  of  elasticity,  psi. 
+
+If  equation  7  is  divided  by  1,000,000,  the  modulus  of 
+elasticity  is  converted  from  pounds  per  square  inch  to  mil- 
+lion pounds  per  square  inch.   Equation  7  then  becomes 
+
+
+Mod  =  0.1/(9.68819E-03  +  0.142489/X). 
+
+
+(8) 
+
+
+Plots  of  modulus  of  elasticity  in  million  pounds  per 
+square  inch  versus  gauge  length  in  inches  are  given  in  fig- 
+ure 9  for  all  of  the  baseline  test  series.  Also  shown  in  the 
+plots  are  the  equations  for  the  modulus  of  elasticity  devel- 
+oped as  in  equation  8.  The  curves  shown  were  not  deter- 
+mined by  curve  fitting.  These  curves  are  derived  from  the 
+elongation  data  for  each  series  of  tests  and  calculated  as 
+shown  above  in  equations  5  through  8. 
+
+The  linearity  of  the  elongation-versus-gauge-length  plots 
+and  the  positive  intercepts  prove  the  hypothesis  that  there 
+is  a  constant  error  in  elongation  measurement  that  is  pro- 
+portional to  load  and  independent  of  gauge  length.  r.rhe  fit 
+of  the  data  points  to  the  calculated  equations  for  modulus 
+of  elasticity  on  figure  9  is  further  proof  of  the  hypothesis. 
+
+The  modulus  of  elasticity  for  rope  A  can  be  calculated 
+using  equation  8  and  the  gauge  length  data  shown  in  ta- 
+ble 14.  The  calculated  values  can  be  compared  with  the 
+experimental  values.  The  standard  deviation  for  regression 
+of  the  experimental  data  about  the  calculated  curve  is 
+shown  at  the  bottom  of  column  5  of  table  14.  This  is 
+much  lower  than  the  standard  deviation  for  the  experi- 
+mental data  (column  2),  without  considering  the  effects  of 
+gauge  length.  The  same  is  true  for  the  other  series  (tables 
+15-20). 
+
+One  way  to  determine  strain  accurately  would  be  to 
+mechanically  mount  an  elongation  measuring  device  such 
+as  the  one  developed  by  Versuchsgrube  Tremonia  (3). 
+This  procedure  is  generally  undesirable  because  it  would 
+
+
+20 
+
+
+Y  =  7.96601  E-  03 *X*  0.082774 
+
+J I I I I I 
+
+
+1 
+
+1  F 
+
+i          i          i          i          i          \<y      i 
+
+- 
+
+- 
+
+/d 
+
+_ 
+
+~    r/ 
+
+Y  =  8.487665E  -  03 *X  ♦  0.230287 
+
+i             i            i             i             i             i             i 
+
+- 
+
+Y  =  766I7  35E-03*X  +  0.23774 
+
+'     I I 1 -1 L 
+
+
+100   150   200   250   300   350  400  450 
+
+GAUGE  LENGTH,  in 
+
+
+100   150   200  250  300   350  400  450 
+
+GAUGE  LENGTH,  in 
+
+
+Figure  10.-Elongation  versus  gauge  length  at  100,000-psi  stress  for  various  ropes.  A,  Rope  A;  B,  rope  B;  C,  rope  C;  D,  rope  D; 
+E,  rope  E;  F,  rope  F;  G,  rope  H. 
+
+
+21 
+
+
+be  necessary  to  stop  the  test  before  yield  is  reached,  re- 
+move the  load,  open  the  protection  boxes,  dismount  the 
+device,  close  the  boxes,  then  reload.  All  these  steps  would 
+be  time  consuming  and  could  affect  the  later  test  results. 
+Other  possibilities  would  be  to  develop  a  precise  optical 
+ranging  system  or  a  system  with  disposable  components. 
+The  elongation  corrections  at  a  stress  of  100,000  psi  are 
+shown  in  table  21  for  all  of  the  rope  series  tested.  Also 
+shown  in  the  table  are  the  rope  diameters,  the  rope  cross- 
+sectional  metallic  areas,  and  the  loads  on  the  ropes  at 
+100,000  psi  stress.  In  figure  11,  the  elongation  correction 
+in  inches  is  plotted  against  the  load  in  kips.  The  load  in 
+kips  was  calculated  from  the  rope  metallic  area  and  the 
+stress  of  100,000  psi.  The  plot  shows  that  the  elongation 
+correction  is  essentially  constant  for  the  ropes  from  1-1/4- 
+to  2-in  diameter.  Further,  a  straight  line  covers  the  ropes 
+from  3/4-  to  1-1/4-in  diameter.  However,  considerably 
+more  work  would  have  to  be  done  before  any  real 
+correlation  could  be  proven.  It  appears  likely  that  the 
+elongation  correction  for  each  rope  diameter  and  con- 
+struction would  have  to  be  done  by  testing.  The  elonga- 
+tion correction  factor  could  then  be  placed  in  the  com- 
+puter program,  and  the  effects  of  varying  gauge  length 
+would  be  eliminated. 
+
+Table  21. -Elongation  correction  versus 
+rope  diameter  at  100,000-psi  stress 
+
+
+Diam, 
+in 
+
+
+Area, 
+in2 
+
+
+Load, 
+kips 
+
+
+Correction, 
+in 
+
+
+Sample 
+
+
+3/4    . 
+
+1  .  .  . 
+1-1/4 
+1-1/2 
+1-1/2 
+1-7/8 
+
+2  .  .  . 
+
+
+0.222 
+
+22.2 
+
+0.083 
+
+.404 
+
+40.4 
+
+.143 
+
+.631 
+
+63.1 
+
+.201 
+
+.887 
+
+88.7 
+
+.233 
+
+.887 
+
+88.7 
+
+.238 
+
+1.419 
+
+141.9 
+
+.205 
+
+1.615 
+
+161.5 
+
+.230 
+
+D 
+A 
+C 
+B 
+
+H 
+
+E 
+
+F 
+
+
+0.26 
+
+
+.22  - 
+
+
+18  - 
+
+
+o 
+
+UJ 
+
+k    .14 
+
+o 
+
+o 
+
+
+10  - 
+
+D 
+
+
+.06 
+
+
+"i r 
+
+
+I  00-kip/in2  stress  level 
+
+
+J_ 
+
+
+_!_ 
+
+
+20  40  60  80  1 00         I  20  1 40         1 60 
+
+LOAD,  kips 
+
+
+COMPARISON  OF  ZINC  AND  EPOXY  SOCKETING 
+
+The  modulus  of  elasticity  for  epoxy  is  approximately 
+500,000  psi,  while  that  for  zinc  is  about  12,000,000  psi. 
+The  question  was  whether  zinc-socketed  ropes  would  be- 
+have differently  than  epoxy-resin-socketed  ropes.  It  must 
+be  remembered  that  the  material  in  the  socket  is  not  epoxy 
+or  zinc  alone  but  a  composite  of  high-carbon  steel  wires 
+plus  a  zinc  or  an  epoxy  fdler. 
+
+A  set  of  10  ropes  was  made  with  zinc-socketed  ends. 
+The  lengths  were  2,  5,  10,  20,  and  30  ft,  with  two  samples 
+each.  The  rope  used  for  the  tests  was  the  same  1-1/2-in- 
+diameter  rope  that  was  used  for  the  rope  B  series  so  that 
+the  results  could  be  compared  directly.  The  data  for  the 
+zinc  series  are  shown  in  table  12.  These  data  can  be 
+compared  with  the  rope  B  series  shown  in  table  6.  The 
+results  are  remarkably  similar.  The  breaking  strength  ver- 
+sus gauge  length  is  shown  in  figure  12.  The  plot  shows  no 
+
+
+21  I 
+
+
+210 
+
+
+209  - 
+
+
+o'  208 
+
+< 
+
+o 
+
+
+207 
+
+
+206 
+
+
+205 
+
+
+a    ' 
+
+1       '       1 
+
+1       1 
+
+1       1        '       1 
+
+1           1           '           1 
+
+1 
+
+_o 
+
+- 
+
+a 
+
+- 
+
+- 
+
+D 
+
+- 
+
+D 
+
+B 
+
+□ 
+
+Ob 
+
+a 
+
+D 
+
+a 
+
+D 
+
+- 
+
+KEY 
+
+A 
+
+- 
+
+- 
+
+n  Epoxy 
+a  Zinc 
+
+A 
+
+- 
+
+' 
+
+i        ,       i 
+
+i 
+
+1            ,           1 
+
+1            ,            1 
+
+i 
+
+12 
+
+
+16  20         24 
+
+GAUGE  LENGTH,  ft 
+
+
+28 
+
+
+32 
+
+
+36 
+
+
+Epoxy:  Y,=  7.85005E-03»X,  +  0.233202 
+-■*  Zinc:     Y2=  7.661 735E-03»X2+  0.23774 
+
+
+50        100       150      200      250      300      350      400      450 
+GAUGE  LENGTH,  in 
+
+
+Figure  1 1 -Elongation  correction  for  stretch  of  socket  filler 
+versus  load. 
+
+
+Figure  12.- Breaking  strength  and  elongation  versus  gauge 
+length  for  epoxy  and  zinc  terminations. 
+
+
+22 
+
+
+significant  difference  between  the  zinc  and  epoxy  termina- 
+tions. This  is  verified  by  the  means  and  standard  devia- 
+tions in  tables  6  and  12.  A  plot  of  elongation  versus  gauge 
+length  for  both  series  is  also  shown  in  figure  12.  Neither 
+the  correction  factors  nor  the  slopes  in  the  plots  of 
+elongation  versus  gauge  length  are  statistically  different. 
+Finally,  plots  of  modulus  versus  gauge  length  for  both  zinc 
+and  epoxy  resin  are  shown  in  figure  13.  Again,  the  data 
+points  and  the  independently  determined  equations  for  the 
+modulus  as  a  function  of  gauge  length  are  very  close  to 
+each  other.  The  conclusion  is  that  there  is  no  significant 
+difference  in  the  behavior  of  the  zinc  and  the  epoxy  resin 
+socketed  ropes  for  breaking  strength  tests.  Both  the  zinc 
+sockets  and  the  epoxy  resin  sockets  developed  100  pet  of 
+the  normal  breaking  strength  of  the  ropes.  During  the 
+testing  for  all  of  the  rope  series,  the  resin-socketed 
+terminations  developed  100  pet  of  the  normal  breaking 
+strength  of  the  ropes. 
+
+The  U.S.  Code  of  Federal  Regulations  (7)  states  that 
+for  wire  rope  load  end  attachments 
+
+(a)  Wire  rope  shall  be  attached  to  the  load  by  a 
+method  that  develops  at  least  80  pet  of  the  nominal 
+strength  of  the  rope. 
+
+(b)  Except  for  terminations  where  use  of  other 
+materials  is  a  design  feature,  zinc  (spelter)  shall  be 
+used  for  socketing  wire  ropes. 
+
+The  wording  in  the  regulations  is  identical  for  metal  and 
+nonmetal  open  pit  mines;  sand,  gravel,  and  crushed  stone 
+operations;  metal  and  nonmetal  underground  mines; 
+underground  coal  mines;  surface  coal  mines;  and  surface 
+work  areas  of  underground  coal  mines. 
+
+In  Great  Britain,  the  Safety  in  Mines  Research  Es- 
+tablishment,  after   extensive   testing,   found   that   resin 
+
+
+sockets  were  as  strong  as  the  rope  and  has  accepted  them 
+for  use  in  mining  (4).  The  findings  in  this  report  agree, 
+which  suggests  that  the  CFR  could  be  amended  to  allow 
+the  use  of  resin  for  the  socketing  of  mine  ropes. 
+
+TORQUE  CALCULATIONS 
+
+The  torque  on  the  rope  is  measured  directly  by  the  ten- 
+sile machine  sensor  as  a  function  of  time  and  is  reported 
+in  kip-inches.  This  value  is  changed  to  pound  (force)  feet 
+and  reported  in  the  data  tables.  Examples  are  shown  in 
+tables  2  and  3.  Plots  of  torque  in  pound  (force)  feet  ver- 
+sus load  in  kips  are  shown  in  plot  C  of  figures  2  and  3. 
+The  plots  show  the  data  to  be  linear  well  into  the  plastic 
+region  of  the  rope.  The  slope  of  the  plot  is  called  the 
+Torque  K,  and  has  the  units  pound  (force)  feet  per  kip. 
+If  the  Torque  K  is  known  for  a  rope,  it  is  possible  to 
+calculate  the  torque  on  the  rope  for  virtually  any  load. 
+The  Torque  K's  for  all  of  the  rope  series  are  shown  in 
+tables  5  through  12.  A  summary  of  the  mean  values  and 
+the  standard  deviations  is  shown  in  table  13. 
+
+A  general  equation  for  determining  the  approximate 
+torque  in  ropes  under  load  was  developed  by  Gibson  (5). 
+This  equation  was  developed  for  six-strand  ropes  with  fiber 
+cores.  He  found  that  the  torque  was  directly  proportional 
+to  the  load  and  the  square  of  the  rope  diameter  and 
+indirectly  proportional  to  the  lay  length.  His  equation  is 
+given  as 
+
+
+T  =  A(D2)S/L, 
+where      T    =  torque,  Ibf-in, 
+
+D    =  rope  diameter,  in, 
+S    =  load,  lb, 
+
+
+(9) 
+
+
+»  10 
+
+Q. 
+J 
+
+o 
+
+CO 
+
+
+10 
+
+
+_ 
+
+1           1           1           1           1           1           1           1 
+
+- 
+
+A      ^B^^ 
+
+- 
+
+- 
+
+*f 
+
+- 
+
+- 
+
+0/ 
+
+- 
+
+- 
+
+fa 
+
+- 
+
+-    / 
+
+KEY 
+
+- 
+
+-  / 
+
+— o  Epoxy:  Y|  =  0.l/(7.85005E-03+0.233202/X!) 
+
+- 
+
+(A 
+
+— *  Zinc:     Y2=  0.1/ (7.66  l735E-03+0.23774/X2) 
+
+- 
+
+"1 
+
+i            i            i            i            i            i            i            i 
+
+" 
+
+0         50        100      150      200      250      300      350      400      450 
+GAUGE  LENGTH,  in 
+
+Figure  13.- Modulus  versus  gauge  length  for  epoxy  and  zinc 
+terminations. 
+
+
+L    =  lay  length,  in, 
+
+and         A    =  0.91  for  Lang  lay  and  0.55  for  regular  lay 
+ropes. 
+
+The  constant  A  used  by  Gibson  in  equation  9  can  be 
+calculated  from  the  experimental  data  in  table  12,  using 
+the  following  equation: 
+
+
+A  =  12KL/1,000D2, 
+where      K    =  Torque  K,  lbf-ft/kip. 
+
+
+(10) 
+
+
+The  results  of  the  calculations  of  the  constant  A  are 
+shown  in  table  22.  Two  additional  ropes  are  shown  in  this 
+table,  Y  and  R,  which  refer  to  used  mine  hoist  ropes. 
+They  were  added  for  comparison  purposes.  The  values  for 
+Gibson's  constant  A  indicate  that  Gibson's  approximations 
+are  very  close  to  the  experimental  data  as  determined  on 
+the  tensile  machine. 
+
+
+23 
+
+
+Table  22.-Calculation  of  Gibson's  torque  constant 
+
+
+Diam,  in 
+
+
+Rope1 
+
+
+Lay,  in 
+
+
+Torque  K, 
+Ibf-ft/kip 
+
+
+Gibson 
+constant 
+
+
+Right  Lang  lay: 
+
+3/4    
+
+1-1/4 
+
+1-1/2 
+
+1-7/8 
+
+Right  regular  lay: 
+
+1    
+
+1-1/4 
+
+2 
+
+'See  table  2  for  description. 
+
+2Mine  hoist  rope,  6  x  27  flattened  strand. 
+
+3Mine  hoist  rope,  6  x  30  flattened  strand. 
+
+
+D 
+C 
+B 
+
+H 
+E 
+Y2 
+R3 
+
+A 
+G 
+
+F 
+
+
+5.25 
+8.00 
+10.00 
+10.00 
+12.75 
+14.50 
+12.00 
+
+6.00 
+
+8.07 
+
+13.13 
+
+
+8.25 
+14.14 
+16.45 
+16.54 
+20.18 
+17.43 
+19.35 
+
+8.20 
+
+9.50 
+
+14.19 
+
+
+0.915 
+.869 
+.877 
+.882 
+.878 
+.863 
+.793 
+
+.590 
+.589 
+.559 
+
+
+SUMMARY 
+
+
+The  operating  characteristics  of  the  tensile  machine 
+have  been  learned  using  a  variety  of  rope  samples.  The 
+machine  has  been  determined  to  have  high  precision  in  the 
+measurements  of  load,  stroke,  and  torque. 
+
+All  of  the  rope  samples  tested  were  shown  to  have 
+uniform  properties  along  the  length  of  the  reel.  The 
+stroke  rate  had  no  effect  on  either  the  breaking  strength 
+of  the  ropes  or  on  the  torque  developed  as  the  load 
+increased.  However,  there  was  slight  lessening  of  the 
+breaking  elongation  at  the  higher  stroke  rates.  There  was 
+
+
+no  difference  in  the  properties  of  the  ropes  when  either 
+zinc  or  epoxy  resin  was  used  as  socketing  material.  The 
+elongation  of  the  ropes  calculated  from  the  stroke  mea- 
+surements was  shown  to  vary  with  the  length  of  the  sam- 
+ples. This  variation  was  caused  by  an  unaccounted-for 
+extrusion  of  the  socketing  material.  This  extrusion  can  be 
+corrected  in  the  computer  program,  but  a  series  of  tests 
+would  have  to  be  run  to  determine  the  additional  cor- 
+rection factor  for  each  rope  size  and  construction. 
+
+
+REFERENCES 
+
+
+1.  U.S.  Code  of  Federal  Regulations.  Title  30-Mineral  Resources; 
+Chapter  I-Mine  Health  and  Safety  Administration,  Department  of 
+Labor,  Subchapter  N-Metal  and  Nonmetal  Mine  Safety  and  Health; 
+Part  56,  Subpart  R,  and  Part  57,  Subpart  R  Subchapter  O-Coal  Mine 
+Safety  and  Health;  Part  75,  Subpart  O,  and  Part  77,  Subpart  O; 
+July  1,  1989. 
+
+2.  Committee  of  Wire  Rope  Producers.  Wire  Rope  Users  Manual. 
+AISI,  2d  ed.,  1981,  p.  77. 
+
+
+3.  Versuchsgrube  Tremonia  (Dortmund,  Federal  Republic  of 
+Germany).   (Research  and  Testing  in  1985.)   Item  3.2.1,  1985,  p.  51. 
+
+4.  Dodd,  J.  M.  Resin  as  a  Socketing  Medium.  Wire  Ind.,  v.  48, 
+No.  569,  May  1981,  pp.  343-344. 
+
+5.  Gibson,  P.  T.  Wire  Rope  Behavior  in  Tension  and  Bending. 
+Paper  in  Proceedings,  First  Annual  Wire  Rope  Symposium.  WA  State 
+Univ.,  Pullman,  WA,  1980,  pp.  3-31. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29161 
+
+
+^  £ 
+
+03  C 
+
+Is 
+
+5   CO 
+
+S2.  -k 
+
+(D   ' 
+
+5-m 
+
+»  a 
+
+Street 
+gton, 
+
+0  "O 
+
+ft 
+
+o- 
+
+2  « 
+
+b? 
+
+£ 
+
+O 
+
+ro  - 
+
+<-* 
+
+0  => 
+is)  s. 
+
+3" 
+
+^  </) 
+
+"** 
+
+iJ 
+
+<£> 
+
+f? 
+
+CO 
+
+-1 
+
+O 
+
+5" 
+
+O 
+
+■h 
+
+m 
+D 
+c 
+> 
+
+r- 
+O 
+
+o 
+
+DO 
+
+
+3 
+
+m 
+
+
+O 
+
+-< 
+m 
+3 
+
+
+S\ 
+
+
+^> 
+
+
+Ok  -A? 
+
+
+3/     4fi(P^   "^ 
+
+
+5°* 
+
+
+V    \«V    ^«y    v**^/    v 
+
+
+Z>'J>        % 
+
+
+4,0*    .«iif 
+
+
+♦U    *•««>' 
+
+
+»•  A* 
+
+
+^  -J 
+
+1*°*  ^        4?    »i^*    > 
+
+^"5 
+
+
+,**.*.• v" 
+
+
+5T  ..Jitf*    *> 
+
+
+P,    \/    .•* 
+
+
+•       "Pa         a*      *- 
+
+
+"£*.       a*     ♦ 
+
+
+f\ 
+
+
+'b^ 
+
+
+^V* 
+
+
+•  /\  :-W'°  ****** :-? 
+
+
+>bV 
+
+
+Vw/         °oA*^f*\0°  ^^^^         °o, 
+
+^'    :^^^:   ^     'II:     W^ 
+
+
+HECKMAN       IXl 
+BINDERY  INC.        |M| 
+
+m,  FEB  91 
+
+N.  MANCHESTER, 
+INDIANA  46962 
+
+
+V      4*'% 
+
+
+■°  -^ait.0o     At^^.^%     cP*-^«it%     ^sXfc/* 
+
+
+til'         A.W  ^i*         •  it  , 
+
+
+^°%. 
+
+
+<^.      f«..„o       A 
+
+
+*     A^ 
+
+

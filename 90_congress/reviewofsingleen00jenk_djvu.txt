@@ -1,0 +1,2321 @@
+***** 
+
+
+Tcr^  a 
+
+
+*         r*»     AV      * 
+
+
+^°^ 
+
+
+o  \- 
+
+
+*<      *±ct 
+
+
+Aq* 
+
+
+^     %  #    J* 
+
+
+**.,,•'  Ao 
+
+
+!»  ^         0° 
+
+
+■**      ^3 
+
+
+"o^   :}flH^  ^o*"  •<^H&:    *btf 
+
+
+'* .  •i^> 
+
+
+*        >£»     A*      ♦- 
+
+
+« V      ^ 
+
+
+v-o^ 
+
+
+'bV 
+
+
+.^'  .*i^!.  %     c0'  ..i^l:^  °o     ^  . 
+
+
+^50^ 
+
+
+**v% 
+
+
+,/%, 
+
+
+^«^. 
+
+£  %> 
+
+
+%••    ^0<     ;« 
+
+
+•bV" 
+
+
+v/ 
+
+
+^    A^      - 
+
+
+J>** 
+
+
+*       **     A*      •' 
+
+
+A° 
+
+
+^        *A^         •*• 
+
+
+■>,. 
+
+
+bV 
+
+
+W 
+
+
+»?•<,. 
+
+
+<*"  «J  *A^<^**_         "P. 
+
+
+»bv4 
+
+
+.*  .lilf% 
+
+
+.AV^ 
+
+
+.•i$»i°.  \/  /Jfe*-.  ^^  .-»«*•.  V 
+
+
+.A* 
+
+
+..% 
+
+
+4>*      o-o      ^    ^^    *°  °*      — '" 
+
+
+S.V     *& 
+
+
+£'  ^ 
+
+
+**"** 
+
+
+IC    9253 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+¥92 
+
+
+Review  of  Single-tntry  Longwall 
+Mining  Technology  in  the  United 
+States 
+
+By  F.  M.  Jenkins  and  E.  T.  Cullen 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+
+THE  MINERALS  SOURCE 
+
+
+%U  OF  *X* 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9253 
+
+
+Review  of  Single-Entry  Longwall 
+Mining  Technology  in  the  United 
+States 
+
+
+By  F.  M.  Jenkins  and  E.  T.  Cullen 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+Sy 
+
+
+& 
+
+* 
+
+
+> 
+
+
+-o 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Jenkins,  F.  Michael. 
+
+Review  of  single-entry  longwall  mining  technology  in  the  United  States  /  by 
+F.  Michael  Jenkins  and  Elaine  T.  Cullen. 
+
+p.   cm.  -  (Bureau  of  Mines  information  circular;  9253) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28.27:9253. 
+
+1.   Longwall  mining-United  States.    I.  Cullen,  Elaine  T.    II.   Title.    III.    Series: 
+Information  circular  (United  States.    Bureau  of  Mines);  9253 
+
+TN295.U4         [TN275]         622  s-dc20         [622'.334]        89-600381 
+
+CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Single-entry  technology  abroad   3 
+
+Development 3 
+
+Ventilation 5 
+
+U.S.  single-entry  studies   6 
+
+Sunnyside  project 6 
+
+Tunnel-boring  machine  project 9 
+
+Other  single-entry  research  studies  in  United  States 15 
+
+North  American  Mining  Consultants  study    15 
+
+Ketron  study   15 
+
+Research  related  to  single  entries 16 
+
+Conclusions   16 
+
+References 17 
+
+ILLUSTRATIONS 
+
+1.  Elevation  and  plan  view  of  European-type  single  entry    4 
+
+2.  Sunnyside  single-entry  project    7 
+
+3.  Concrete  crib  line  in  17th  L  single  entry 9 
+
+4.  Single-entry  center  wall  in  18th  L,  right  side 10 
+
+5.  Single-entry  center  wall  in  18th  L,  left  side 10 
+
+6.  Elevation  and  plan  view  of  Sunnyside  split  single  entry   11 
+
+7.  Tunnel-boring  machine    12 
+
+8.  Elevation  and  plan  view  of  TBM  split  single  entry 12 
+
+9.  Lower  compartment  of  entry  developed  by  TBM    14 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+cfm 
+
+cubic  foot  per  minute                                                                  mt 
+
+metric  ton 
+
+ft 
+
+foot                                                                                            pet 
+
+percent 
+
+ga 
+
+gauge                                                                                         st 
+
+short  ton 
+
+in 
+
+inch                                                                                               V 
+
+volt 
+
+kV»A 
+
+kilovolt  ampere 
+
+REVIEW  OF  SINGLE-ENTRY  LONGWALL  MINING  TECHNOLOGY 
+
+IN  THE  UNITED  STATES 
+
+
+By  F.  M.  Jenkins1  and  E.  T.  Cullen2 
+
+
+ABSTRACT 
+
+Longwall  mining  systems  are  used  to  mine  approximately  50  pet  of  the  world's  total  underground  coal 
+production.  Single  entries  are  the  predominant  method  of  longwall  development  in  Europe  and  Asia, 
+where  mining  conditions  are  more  severe  than  those  encountered  in  the  United  States.  During  the 
+1970's  and  early  1980's,  the  U.S.  Bureau  of  Mines  and  the  U.S.  mining  industry  invested  nearly  $20 
+million  in  single-entry  and  related  research.  This  report  reviews  the  accomplishments  of  single-entry 
+research  in  the  United  States  and  describes  two  U.S.  single-entry  field  projects:  the  Sunnyside  single- 
+entry  project  in  central  Utah  and  the  tunnel-boring  project  in  northern  West  Virginia.  Also  discussed 
+are  a  single-entry  study  conducted  by  North  American  Mining  Consultants  (NAMCO)  and  a  single- 
+entry  design  study  conducted  by  Ketron,  Inc.  This  Bureau  report  compares  the  resulting  technology  with 
+European  counterparts  to  further  assess  the  utility  and  efficiency  of  U.S.  systems. 
+
+
+JMining  engineer. 
+
+information  systems  management  analyst. 
+
+Spokane  Research  Center,  U.S.  Bureau  of  Mines,  Spokane,  WA. 
+
+
+INTRODUCTION 
+
+
+Underground  coal  mines  in  the  United  States  have  used 
+room-and-pillar  methods  of  extraction  almost  exclusively, 
+first  employing  the  drill,  blast,  and  load  cycle  and  later 
+using  continuous  mining  machines.  The  room-and-pillar 
+method  of  driving  several  parallel  entries  still  dominates 
+the  layout  of  most  coal  mines.  U.S.  mining  regulations 
+evolved  from  experience  gained  in  room-and-pillar  mining 
+and  the  use  of  multiple  entries.  Therefore,  underground 
+coal  mining  methods  that  employ  different  entry  config- 
+urations are  constrained  by  regulations  for  room-and-pillar 
+mining.  For  example,  until  the  regulations  were  revised  in 
+1988,  longwall  mining  was  defined  by  the  Code  of  Federal 
+Regulations  (CFR)  as  a  special  case  of  room-and-pillar 
+mining  (30  CFR  75.201-3,  1987)  and  hence  was  subject  to 
+laws  governing  that  method. 
+
+The  U.S.  coal  industry  currently  mines  underground 
+seams  where  conditions  are  relatively  favorable;  that  is, 
+seams  are  thick,  uniform,  have  few  faults,  and  he  under 
+fairly  shallow  cover.  Under  these  conditions,  room-and- 
+pillar  and  longwall  mining  methods  result  in  relatively  high 
+production  rates  and  favorable  economic  conditions.  As 
+easily  recovered  supplies  are  exhausted,  however,  U.S. 
+mine  operators  will  be  forced  to  mine  reserves  where  con- 
+ditions are  more  severe,  requiring  new  mining  techniques. 
+This  is  the  case  in  Europe  where  longwall  mining  with 
+single-entry  development  evolved  as  a  method  of  handling 
+severe  mining  conditions. 
+
+Longwall  mining  was  introduced  into  the  United  States 
+as  a  means  of  increasing  productivity.  It  was  first  tried  at 
+the  turn  of  the  century,  but  was  abandoned  because  of  the 
+difficulty  of  manually  moving  timber  support  lines  across 
+the  coal  face.  With  the  introduction  of  self-advancing 
+mechanical  props,  longwall  mining  was  tried  again  in  Utah 
+and  West  Virginia  in  the  early  1960's.  In  Eastern  U.S. 
+coalfields,  longwall  mining  was  used  in  mines  having 
+ground  control  problems-ones  with  mudstone  or  friable 
+shale  roofs,  which  caved  easily.  Even  though  the  cover  was 
+shallow,  the  mechanical  props  were  too  light,  and  these 
+operations  were  not  considered  to  be  successful.  Long- 
+walls  were  then  tried  in  seams  with  massive  roof  strata  and 
+shallow  cover,  again  using  light  props.  Under  such  condi- 
+tions, the  support  either  failed  or  was  operated  with  great 
+difficulty.  As  a  result  of  these  experiences,  the  growth  of 
+longwall  mining  in  the  East  was  stunted.  At  the  same 
+time,  the  Sunnyside  Mines  in  Carbon  County,  UT,  were 
+among  the  first  Western  U.S.  operations  to  use  longwalls 
+extensively  in  deep  cover.  These  installations  were  suc- 
+cessful; however,  development-entry  stability  was  a  serious 
+problem. 
+
+In  1966,  two  longwalls  were  again  tried  in  the  East,  one 
+at  considerable  depth,  under  massive  sandstone  roof  strata. 
+Both  were  equipped  with  heavy-duty  mechanical  supports. 
+Both  longwalls  were  instantly  successful,  leading  to  the  first 
+modest  expansion  of  the  longwall  mining  system  in  the  late 
+1960's.  Improvements  in  equipment  and  mining  of  thicker 
+seams  have  accounted  for  dramatic  increases  in  the  pro- 
+ductivity of  longwall  mining  since  1980. 
+
+
+Longwall  mining  offers  several  advantages  over  room- 
+and-pillar  mining.  Carrying  one  long  face  and  allowing  the 
+roof  to  break  and  cave  behind  the  face  simplifies  roof 
+control  and  ventilation  problems,  allows  recovery  of  a 
+higher  percentage  of  the  coal,  increases  production,  and 
+provides  safer  working  conditions  (I).3 
+
+Stresses  created  under  deep  cover  can  cause  ground 
+control  problems  for  longwall  operations,  however.  Long- 
+wall  operations  at  the  Sunnyside  Mines  under  2,500  ft  of 
+overburden  experienced  stability  problems  in  both  head- 
+gate  and  tailgate  entries.  Extreme  roof  and  floor  conver- 
+gence, bumps,  and  bursting  of  the  chain  pillars  forced  the 
+Sunnyside  Mines  to  use  a  two-entry  system  to  develop 
+longwall  panels.  The  mine  continued  using  two  entries  to 
+develop  longwall  panels  under  a  "grandfather"  clause  in  the 
+Federal  Coal  Mine  Health  and  Safety  Act  of  1969  even 
+though  three  entries  were  required  by  the  act.  In  spite 
+of  the  double-entry  development  system,  bumps  and 
+sloughing  of  the  roof  and  ribs  continued  to  be  problems. 
+In  an  effort  to  solve  these  problems,  the  company  pro- 
+posed experimenting  with  a  single-entry  development  sys- 
+tem under  a  cooperative  research  project  with  the  U.S. 
+Bureau  of  Mines.  This  proposal  was  accepted,  and  the 
+first  U.S.  single-entry  project  began  in  1971. 
+
+In  the  same  year,  another  cooperative  research  project 
+was  proposed  to  the  Bureau  by  Eastern  Associated  Coal 
+Corp.  (EACC),  Pittsburgh,  PA,  to  drive  a  main  devel- 
+opment heading  with  a  tunnel-boring  machine  (TBM).  A 
+TBM  is  a  continuous  excavation  machine  limited  by  its  size 
+and  operation  to  excavating  a  single,  circular-shaped  entry. 
+TBM's  have  been  used  worldwide  for  many  years  in  such 
+underground  construction  projects  as  transportation 
+tunnels  and  watercourses.  The  TBM  project,  conducted 
+from  1973  to  1979,  had  a  purpose  different  from  that  of 
+the  Sunnyside  project;  however,  both  had  an  impact  on 
+single-entry  research.  Each  project  resulted  in  single 
+entries  being  driven  for  development  purposes.  The  TBM 
+drove  a  main  entry  to  reach  a  remote  ventilation  shaft, 
+while  the  Sunnyside  single  entries  developed  production 
+longwall  panels.  These  two  projects  marked  the  beginning 
+of  single-entry  research  in  the  United  States.  By  the  first 
+part  of  the  1980's,  the  coal  industry  and  the  Bureau  had 
+invested  nearly  $20  million  in  single-entry  and  related 
+research. 
+
+The  main  objective  of  this  report  is  to  document  U.S. 
+experience  in  single-entry  research.  This  work  was  done 
+in  support  of  the  Bureau's  mission  to  improve  the  health 
+and  safety  of  miners  in  underground  coal  mines  and  to 
+increase  the  productivity  of  those  mines.  The  review 
+begins  with  a  look  at  single-entry  coal  mine  development 
+abroad.  Much  can  be  learned  by  comparing  the  equip- 
+ment, methods,  and  regulations  of  other  countries  that  use 
+single  entries  with  those  of  the  United  States,  primarily 
+
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+at  the  end  of  this  report. 
+
+
+those  used  in  the  Sunnyside  and  TBM  demonstrations. 
+Both  projects  are  reviewed  to  point  out  lessons  learned 
+from  these  experiences. 
+
+This  report  does  not  deal  with  single-entry  methods 
+applied  to  other  coal  mining  situations  in  this  country,  such 
+as  advancing  longwall  operations  (2)  and  slope  develop- 
+ments (3-4).  For  example,  in  Mid-Continent  Resources' 
+L.  S.  Wood  Mine  in  Pitkin  County,  CO,  a  single  entry  was 
+developed  as  part  of  the  longwall  face.  The  entry  was 
+immediately  separated  into  a  double  entry  by  a  pumped 
+pack  wall  and  could  be  used  as  a  panel  for  multilift 
+longwall  mining.  The  mining  plan  involved  removing  the 
+top  half  of  a  28-ft-thick  coal  seam  with  an  advancing 
+longwall  and  removing  the  remaining  bottom  half  with  a 
+
+
+retreating  longwall  (5).  Special  situations  such  as  this  do 
+not  involve  traditional  in-seam  single-entry  excavations  for 
+coal  reserve  development. 
+
+Two  other  sources  of  information  are  important  to  U.S. 
+single-entry  research.  The  first  is  a  U.S.  Department  of 
+Energy  (DOE)  contract  report  entitled  "Single-Entry 
+Longwall  Study"  (6)  in  which  NAMCO,  New  York,  NY, 
+compared  the  pertinent  mining  regulations  of  other  coal- 
+producing  countries  to  those  of  the  United  States.  The 
+second  is  a  study  of  the  design  of  a  single-entry  devel- 
+opment system  for  retreat  longwall  mining  systems  by 
+Ketron,  Inc.,  Wayne,  PA.  It  employed  a  systems-design 
+approach  that  improved  the  in-seam  divided  single-entry 
+concept  used  at  Sunnyside. 
+
+
+SINGLE-ENTRY  TECHNOLOGY  ABROAD 
+
+
+DEVELOPMENT 
+
+Longwall  mining  has  been  the  rule  rather  than  the 
+exception  for  many  years  in  the  major  coal-producing 
+countries  of  Europe.  This  is  a  result  of  the  conditions 
+encountered  as  shallow  coal  reserves  were  exhausted  and 
+mining  moved  to  deeper  workings.  European  (which  in- 
+cludes British)  coalfields  generally  he  in  thinner  beds  and 
+at  greater  depths  than  U.S.  deposits  currently  mined. 
+Depths  of  3,000  to  4,000  ft  are  common,  and  much  greater 
+ground  pressures  are  experienced  than  in  this  country's 
+coal  mines. 
+
+In  Europe,  both  advance  and  retreat  longwall  mining 
+are  practiced.  In  advance  longwall  mining,  the  entry  or 
+entries  used  to  access  the  face  may  be  driven  with  the  face 
+or  ahead  of  the  face.  These  entries  must  remain  open 
+throughout  mining  of  the  panel  to  provide  haulage, 
+ventilation,  and  escapeways.  For  retreat  longwall  mining, 
+a  coal  block  is  defined  by  the  complete  driving  of  the 
+entries  before  the  face  equipment  is  installed.  The  face  is 
+then  mined  back  toward  the  haulage  main,  allowing  the 
+roof  to  cave  behind.  In  either  advance  or  retreat  systems, 
+if  longwall  panels  are  to  be  developed  consecutively  across 
+a  coal  block,  the  entries  will  be  used  for  two  panels 
+(headgate  for  one  longwall  and  tailgate  for  the  succeeding 
+one).  Therefore,  the  entries  must  be  kept  open  for  the 
+time  it  takes  to  mine  two  complete  longwall  panels. 
+Single-entry  longwall  development  was  a  solution  to  the 
+strata  problems  experienced  in  Europe  (6). 
+
+European-type  single  entries  are  driven  much  as  U.S. 
+tunnels  are  driven,  that  is,  undivided  with  mandatory 
+auxiliary  ventilation  provided  by  intake  or  return  air  tubes 
+or  both.  European  mining  regulations  are  much  more 
+stringent  than  U.S.  regulations  in  some  areas  and  less  so 
+in  others.  In  Europe,  all  equipment  in  the  single  entry 
+must  be  permissible  and  fireproof;  however,  only  one 
+escapeway  is  required.  European  law  also  restricts  the 
+number  of  miners  working  in  the  single  entry,  and  fire 
+protection  measures  tend  to  be  more  severe. 
+
+Europeans  use  single  entries  to  develop  retreating  and 
+advancing  longwalls  for  a  number  of  important  reasons: 
+
+
+(1)  They  offer  complete  extraction  of  limited  coal  reserves, 
+
+(2)  they  provide  a  method  of  limiting  subsidence  damage 
+at  the  surface,  and  (3)  they  offer  superior  control  of  ex- 
+treme ground  pressures  at  great  depth.  When  a  mine  is 
+deep,  an  entry  developed  in  solid  coal  will  not  stay  open 
+without  excessive  support  maintenance.  This  phenomenon 
+appears  when  depth  exceeds  a  specific  limit,  which  de- 
+pends on  the  nature  of  the  strata,  coal  strength,  and 
+pressure  concentrations  resulting  from  prior  mining.  This 
+type  of  structural  instability  should  be  distinguished  from 
+localized  roof  falls.  These  instabilities  are,  of  course, 
+interrelated;  however,  structural  instability  will  not  always 
+result  in  roof  falls,  but  rather  may  cause  a  gradual  closure 
+of  the  opening.  Pillars  will  yield  or  the  floor  will  heave, 
+restricting  movement  through  the  entry.  In  many  cases, 
+single  entries  are  driven  completely  away  from  the  coal 
+seam  in  more  competent  rock,  which  results  in  less  closure 
+in  the  longwall  development  openings. 
+
+Extreme  rock  pressure  may  also  limit  the  use  of 
+retreating  longwalls  to  cases  where  development  entries 
+remain  usable  throughout  the  life  of  the  panel.  When 
+entries  require  excessive  support  maintenance,  the  primary 
+consequences  are  that  developments  are  made  only  as 
+needed,  not  ahead  of  time,  and  the  number  of  entries  is 
+kept  to  a  minimum.  The  advantage  inherent  in  driving  a 
+single  entry  comes  from  its  geometric  configuration. 
+Stability  is  maintained  because  less  ground  is  disturbed, 
+chain  pillars  are  not  created,  and  the  stress  field  of  the 
+surrounding  area  is  uniformly  distributed  around  the  single 
+opening.  A  secondary  consequence  is  that  when  the  total 
+number  of  entries  is  kept  to  a  minimum,  more  care  can  be 
+given  to  supporting  them.  Wire  mesh  is  bolted  to  the  roof 
+and  walls,  steel  arches  are  set,  and  the  cavity  between  the 
+support  and  the  stratum  is  filled.  With  this  type  of  sup- 
+port, maintenance  of  a  single  entry  is  less  time  consuming 
+and  less  costly  than  for  a  multiple-entry  development. 
+
+There  is  a  major  difference  between  U.S.  and  European 
+development  philosophies.  Generally,  in  Europe,  entry 
+development  is  considered  a  necessary,  expensive  invest- 
+ment to  open  longwall  panels.  Coal  is  not  produced  dur- 
+ing development  since  either  rock  is  taken  with  the  coal 
+
+
+seam  or  the  entry  is  driven  entirely  out  of  seam.  This  type 
+of  development  is  expensive,  but  in  the  long  term,  better 
+returns  on  investment  can  be  achieved.  Very  little  coal 
+must  be  left  in  place  for  support,  and  the  maintenance  of 
+main  entries  is  much  less  expensive  because  ground  distur- 
+bance during  development  is  minimal.  A  coal  property 
+can  be  developed  from  a  central  location  to  its  boundaries 
+and  production  can  then  proceed  inward,  leaving  the 
+mined-out  area  behind.  In  this  way,  all  the  advantages  of 
+single  entries-that  is,  rapid  development,  improved  ex- 
+traction ratio,  improved  subsidence  control,  and  improved 
+ground  control-can  be  realized.  U.S.  mines,  on  the  other 
+hand,  view  the  development  stage  as  a  coal-producing  unit 
+in  its  own  right  and  therefore  as  profit  generating.  This 
+disparity  between  U.S.  and  European  strategies  promotes 
+two  entirely  different  development  approaches  and  results 
+in  a  marked  dissimilarity  in  the  number  and  configuration 
+of  entries  in  development  headings. 
+
+Longwall  panel  development  in  the  United  States  is  car- 
+ried out  almost  entirely  in-seam,  and  multiple  entries  and 
+crosscuts  form  rooms  and  pillars.  European  developments 
+tend  to  be  single  entries  driven  out  of  seam  with  a  large 
+rectangular  cross  section  or  an  arched  roof  if  strata  control 
+is  a  problem.  A  width-height  ratio  of  3:2  is  common  (6). 
+Haulage,  ventilation,  materials  supply,  and  the  escapeway 
+are  all  contained  in  this  one  entry.  Figure  1  shows  a 
+European-type  single-entry  development  driven  with  a 
+roadheader. 
+
+The  absence  of  a  divider  wall  is  the  most  striking  differ- 
+ence between  U.S.  and  European  single-entry  systems.  In 
+order  to  drive  the  type  of  entry  shown  in  figure  1,  it  is 
+necessary  to  extract  not  only  the  coal,  but  a  large  amount 
+of  roof  rock  as  well.  Mining  machines  used  to  drive  these 
+entries  must  be  able  to  cut  rock  as  well  as  coal,  and  they 
+must  be  permissible,  a  requirement  placed  on  all  equip- 
+ment used  in  the  entry.  The  main  types  used  are  road- 
+headers,  dintheaders,  in-seam  miners,  and  continuous 
+miners.  The  types  of  strata  to  be  cut  are  the  deciding 
+factors  in  choosing  which  piece  of  equipment  to  use. 
+
+
+Continuous  miners  are  used  for  coal  and  soft  rock,  but 
+roadheaders  and  dintheaders  are  preferred  for  harder 
+strata.  These  machines  also  have  the  ability  to  drive 
+arched  or  high  rectangular  entries,  while  continuous 
+miners  are  somewhat  limited  as  to  the  shape  they  can 
+produce.  Much  research  has  gone  into  the  design  of  these 
+types  of  machines,  and  they  are  available  in  a  variety  of 
+configurations  to  fill  different  mining  needs. 
+
+One  type  of  machine  widely  accepted  and  used  in 
+British  mines  is  the  partial  cutting  machine  or  in-seam 
+miner.  This  type  of  machine  drives  a  wide,  low,  elliptical 
+entry  and  uses  a  continuous  cutting  operation.  A  dis- 
+charge conveyor  moves  the  cut  coal  from  the  back  of  the 
+machine  to  the  entry  conveyor.  The  in-seam  miner  is  used 
+primarily  in  coal  and  soft  rock  and  has  the  advantage  of 
+allowing  immediate  installation  of  supports  while  pro- 
+ducing speeds  of  over  50  ft  of  advance  per  shift  and  gener- 
+ating little  dust.  Disadvantages  are  that  it  does  not  cut 
+hard  material  efficiently  and  it  is  difficult  to  steer  (7). 
+
+Longwall  mining  methods  vary  among  the  European 
+coal-producing  countries.  British  mine  operators  use  more 
+retreat  mining,  while  West  German  mine  operators  favor 
+advancing  mining.  In  1979,  with  over  400  operating  long- 
+wall  faces  in  the  Federal  Republic  of  Germany,  58  pet 
+were  advancing,  primarily  because  retreat  mining  is  more 
+costly  because  of  prior  entry  development.  Retreat  mining 
+does,  however,  offer  the  advantages  of  reconnaissance  of 
+the  coalbed  prior  to  mining,  cooling  and  degassing  of  the 
+strata  along  the  road,  and  separation  of  entry  advance 
+work  from  the  face  production  with  alleviation  of  the 
+inherent  dust  problem.  The  West  Germans  take  advan- 
+tage of  these  benefits,  yet  still  control  costs  by  employing 
+a  ventilation  system  that  allows  one  gate  road  to  be  devel- 
+oped prior  to  mining  while  the  other  is  advanced  with  the 
+face. 
+
+Another  method  that  is  becoming  popular  is  the  alter- 
+nate advancing  and  retreating  panels.  Face  equipment 
+may  be  moved  straight  across  the  gate  entry  to  the  next 
+panel,  avoiding  costly  delays  incurred  while  moving  heavy 
+
+
+l\K£_ 
+
+
+ami 
+
+
+aZMZJ 
+
+
+■  -' '  ■  .■■..'. ' i,1,1,,1 " 1 1 1 1 1 
+
+
+Bridge  conveyor         Belt 
+
+
+ELEVATION 
+
+
+Exhaust  ventilation 
+
+
+WW// 
+
+PLAN   VIEW 
+
+
+0     6    12 
+
+i i i 
+
+Scale,  ft 
+SECTION  A-A 
+
+Figure  1  .-Elevation  and  plan  view  of  European-type  single  entry. 
+
+
+equipment  from  the  end  of  one  panel  to  the  start  of 
+another  (8). 
+
+West  German  engineers  have  persisted  in  their  research 
+on  the  optimum  entry  configuration  for  single  entries. 
+Arched  entries  approximately  16  to  20  ft  wide  and  12  to 
+14  ft  high  predominate  (6),  particularly  in  the  Ruhr 
+District  of  the  Federal  Republic  of  Germany.  Supported 
+by  yielding  steel  arches,  these  entries  offer  good  strata 
+control  as  well  as  provide  adequate  clearance  for  venti- 
+lation requirements  and  for  equipment  needed  for  haulage, 
+support,  and  transportation  of  personnel  and  materials. 
+In  mines  with  shallow  depths  and  more  favorable  ground 
+control  conditions,  rectangular  entries  are  often  used 
+because  support  costs  are  less.  Rectangular  entries  are 
+generally  lower  than  arched  entries  and  are  narrower  at 
+the  roof  than  at  the  floor  (so  that  they  are  actually  a 
+trapezoidal  shape). 
+
+In  the  1960's,  several  experiments  were  conducted  by 
+the  West  Germans  using  in-seam  miners  to  develop  wide 
+(up  to  30  ft),  rectangular,  single  entries.  The  objectives 
+were  to  (1)  increase  space  available  in  the  entry  to  accom- 
+modate larger  mining  equipment,  (2)  maximize  support 
+strength  while  minimizing  convergence,  and  (3)  obtain 
+maximum  support  strength  using  at  least  four  rows  of 
+props  to  divide  the  entry  into  three  or  more  compartments 
+(6).  Even  though  the  trials  were  conducted  in  what  were 
+considered  to  be  favorable  conditions,  the  test  entries  were 
+subjected  to  excessive  deformation  caused  by  floor  heave. 
+This  caused  severe  difficulties  in  repair  and  maintenance, 
+eventually  ending  the  experiment.  The  conclusion  drawn 
+was  that  entries  with  excessive  width-height  ratios  were 
+dangerous  under  the  ground  conditions  found  in  European 
+coal  mines.  This  conclusion  corroborates  the  experience 
+of  the  first  U.S.  single  entry,  which  had  a  cross  section 
+approximately  26  ft  wide  by  6  ft  high.  It,  too,  proved  dif- 
+ficult to  maintain. 
+
+Australian  mine  development  is  similar  to  U.S.  devel- 
+opment; that  is,  longwall  mining  is  a  relatively  new 
+method.  It  is  not  widely  used  outside  of  the  South  Coast 
+District  of  New  South  Wales  where  mining  conditions  are 
+considered  difficult.  Interest  in  longwall  mining  is  growing, 
+however,  with  several  reasons  listed  by  the  Australian  Joint 
+Coal  Board  in  its  34th  annual  report  (1980-81)  (9).  These 
+reasons  included  a  recognition  of  the  technological  limita- 
+tions of  room-and-pillar  mining  with  continuous  miners, 
+potential  of  increased  size  of  mining  operations  using  long- 
+walls,  improved  coal  recovery  ratios,  and  safer  working 
+conditions. 
+
+Australian  longwall  panels  are  currently  developed  with 
+continuous  miners  driving  multiple  entries.  Ellalong 
+Colliery  in  New  South  Wales  was  the  first  to  experiment 
+with  single  entries,  driving  a  14.5-ft-wide  by  5.5-ft-high 
+entry  in  1981  to  help  overcome  severe  ground  control 
+problems  (10).  This  field  trial  was  considered  a  success; 
+a  stable  roadway  was  developed  at  advance  rates  exceeding 
+those  produced  by  dintheaders  used  in  similar  conditions. 
+
+Although  British  mines  have  utilized  longwalls  and 
+single  entries  for  some  time,  one  mine  in  particular  used 
+these  techniques  to  solve  a  unique  ground  control  problem. 
+
+
+The  West  Yorkshire  Coalfield  in  the  Barnsley  County  area 
+is  considered  one  of  the  oldest  industrialized  coalfields  in 
+the  world.  As  such,  it  is  a  labyrinth  of  worked-out  seams 
+and  pillars.  These  pillars  were  left  to  control  surface  sub- 
+sidence, protect  underground  roadways,  control  interaction 
+between  faces,  and  minimize  the  impact  of  faults  within 
+the  coalbed.  An  estimated  100  million  mt  of  "untouchable" 
+coal  was  left  underground,  unminable  because  of  the  eco- 
+nomic restraints  of  recovering  such  reserves  using  current 
+technology.  An  additional  complication  is  that  the  coal- 
+field lies  at  shallow  depths  under  a  heavily  populated  area. 
+
+The  management  of  the  South  Kirby  Colliery,  one  of 
+the  mines  in  the  area,  decided  to  try  a  single-entry  retreat 
+longwall  system  to  mine  protective  pillars  while  main- 
+taining their  support  capabilities.  Using  a  Dosco 
+dintheader  to  drive  an  entry  15  ft  wide  by  7  ft  2  in  high,  an 
+experimental  panel  was  developed.  Although  several 
+design  changes  were  made  before  driving  a  subsequent 
+single  entry,  the  experiment  was  considered  a  success,  with 
+substantial  increases  in  production  and  profit. 
+
+Among  the  benefits  of  using  single  entries  for  such 
+applications  are  (1)  the  ability  to  mine  under  heavily 
+populated  areas  with  minimum  surface  damage  and  still 
+maintain  high  productivity,  (2)  the  ability  to  work  seams 
+prone  to  spontaneous  combustion,  (3)  the  ability  to  work 
+old  seams,  recovering  valuable  reserves,  and  (4)  the  possi- 
+bility of  low-cost  disposal  of  mine  waste  underground  at 
+the  face  (11). 
+
+VENTILATION 
+
+Ventilation  practices  and  regulations  in  Europe  differ 
+from  those  in  the  United  States.  AIL  including  the  United 
+States,  specify  that  as  much  air  as  necessary  be  delivered 
+to  the  face  to  dilute  fumes,  dust,  methane  (CH4),  and 
+other  gases.  U.S.  regulations,  however,  specify  a  minimum 
+quantity  of  air  for  a  work  area  per  unit  of  time,  whereas 
+French  and  West  German  laws  regulate  the  amount  of  air 
+required  per  person  and  unit  of  time.  Air  velocities  are 
+specified  in  terms  of  maximum  allowable  in  the  Federal 
+Republic  of  Germany,  France,  and  the  Soviet  Union,  and 
+as  minimum  required  in  Canada,  Poland,  and  the  United 
+Kingdom.  Minimums  or  maximums,  however,  are  deter- 
+mined largely  by  the  function  of  the  entry,  whether  a 
+haulage  route,  development  entry,  head,  or  tailgate.  Air 
+velocities  in  the  United  States  are  specified  in  terms  of 
+minimum  allowable  for  face  ventilation  and  maximum 
+allowable  for  trolley  haulageways. 
+
+Permissible  methane  levels  vary,  with  a  maximum  1.0 
+pet  by  volume  standard  in  all  countries  but  Canada  and  the 
+United  Kingdom,  which  allow  1.25  pet.  Allowable  exemp- 
+tions are  given  in  all  countries  but  Great  Britain,  with 
+levels  up  to  2.0  pet  (2.5  pet  in  Canada)  return  air  from  a 
+bleeder  system,  where  electrical  equipment  is  absent,  or 
+where  automatic  shutoffs  are  present  on  all  electrical 
+equipment  (6).  Again,  such  exemptions  depend  on  the  use 
+of  the  entry  under  consideration. 
+
+When  regulations  on  the  ventilation  of  longwall  oper- 
+ations are  compared,  it  is  necessary  to  consider  two 
+
+
+separate  cases-developing  the  entry  and  mining  the  long- 
+wall  panel.  U.S.  regulations  allow  permanent  ventilation 
+dividers  to  be  used  and  require  the  installation  of  brattice 
+line  or  similar  device  from  the  "last  open  crosscut"  (a 
+room-and-pillar  mining  phrase  that  defines  the  point  where 
+permanent  ventilation  controls  end)  to  within  10  ft  of  the 
+deepest  penetration  of  the  face  (30  CFR  75.302-1,  1989). 
+Auxiliary  fans  and  tubing  may  be  used  in  lieu  of  brattice 
+systems;  however,  their  use  is  controlled  by  the  mini- 
+mum air  velocity  and  quantity  of  air  required  at  the  face 
+(30  CFR  75.302-4,  1989).  Regulations  concerning  inter- 
+ruption of  the  primary  ventilation  system  and  scheduled 
+idle  periods,  such  as  weekend  and  idle  shifts,  limit  the 
+practical  distance  that  entries  can  be  ventilated  using 
+auxiliary  ventilation.  Ventilation  must  be  provided  by  the 
+primary  air  current  from  the  main  fan  during  these  peri- 
+ods, thus  auxiliary  ventilation  is  only  practical  between  the 
+last  open  crosscut  and  the  face,  limiting  its  use  to  a  dis- 
+tance of  a  few  hundred  feet. 
+
+European  mining  regulations,  on  the  other  hand,  either 
+restrict  the  use  of  permanent  air  dividers  (as  in  the 
+United  Kingdom  and  the  Soviet  Union)  or  forbid  their  use 
+entirely  (France,  the  Federal  Republic  of  Germany,  and 
+Poland).  Development  entries  are  ventilated  instead  with 
+mandatory  auxiliary  systems.  They  may  be  operated  over 
+unlimited  distances  and  may  be  blowing,  exhausting,  or 
+combination  fans  connected  to  air  ducts.  Blowing-type 
+systems  generally  predominate.  This  is  very  different  from 
+U.S.  practice  where  regulations  restrict  the  use  of  auxil- 
+iary ventilation  systems,  that  is,  ventilation  fans  and 
+tubing,  as  the  primary  means  of  ventilating  a  working  area 
+(30  CFR  75.302-4,  1989). 
+
+One  of  the  major  differences  between  U.S.  and 
+European  mining  regulations,  in  regard  to  single-entry 
+development,  is  the  U.S.  requirement  that  every  working 
+place  must  have  at  least  two  distinct,  separately  ventilated 
+escapeways  (30  CFR  75.1704,  1989).  One  must  be  in  an 
+intake  air  split  and  must  not  be  used  for  belt  or  trolley 
+haulage.  Minimum  width  for  this  route  is  set  at  6  ft. 
+Because  multiple  entries  are  the  rule  in  the  United  States, 
+this  requirement  is  usually  met  with  no  difficulty.  It  does, 
+however,  place  a  major  constraint  upon  the  use  of  single 
+entries  and  precludes  the  use  of  European-style  single 
+entries  altogether.  Those  single  entries  driven  in  the 
+United  States  to  date  have  complied  with  the  law  by 
+driving  one  large  entry  and  dividing  it  into  two  entries, 
+
+
+using  permanent,  airtight  center  dividers.  Escape  doors 
+were  included  at  regular  intervals  in  dividers. 
+
+Ventilation  during  the  production  phase  of  longwall 
+mining  is  basically  the  same  in  Europe  and  the  United 
+States,  with  the  major  difference  found  in  the  way  the  gob 
+is  ventilated.  By  law,  abandoned  workings  must  be  sealed 
+in  every  European  country  that  uses  single  entries.  U.S. 
+law,  on  the  other  hand,  requires  them  to  be  ventilated 
+using  a  bleeder  system  or  to  be  sealed  only  as  a  last  resort. 
+No  other  country  requires  ventilation  of  the  gob.  This  is 
+because  in  Europe  methane  buildup  in  the  gob  is  not 
+considered  to  be  a  problem  because  of  the  absence  of 
+large  open  cavities  where  methane  could  accumulate.  If 
+the  gob  is  not  ventilated,  it  is  argued,  spontaneous  com- 
+bustion is  impossible  because  of  the  lack  of  oxygen,  and 
+other  sources  of  ignition  that  could  set  off  a  fire  are  not 
+present.  In  the  rare  case  that  a  methane  explosion  should 
+occur,  the  broken  rock  and  dirt  filling  the  gob  would  act  as 
+a  protective  barrier  and  extinguish  any  flame  before  severe 
+damage  was  done. 
+
+U.S.  regulations  require  bleeder  systems  precisely 
+because  the  large,  open  gob  areas  left  when  workings  are 
+mined  out  often  become  filled  with  gas.  Bleeders  are  very 
+effective  in  draining  accumulated  methane  and  controlling 
+the  problem  of  potential  explosions. 
+
+In  summary,  longwall  mining,  using  single  entries  as 
+gate  roads  has  become  the  norm  in  major  coal-producing 
+countries  other  than  the  United  States.  By  late  1983,  an 
+estimated  50  pet  of  the  world's  underground  coal  pro- 
+duction was  attributed  to  longwall  mining  (8).  This  is 
+because  of  large  potential  productivity  gains  and  because 
+of  the  solutions  it  offers  to  problems  inherent  in  un- 
+derground mining.  These  problems  include  the  mining 
+of  deep,  gassy,  unstable  seams  and/or  the  economic 
+necessity  of  recovering  reserves  previously  left  to  control 
+subsidence  or  to  protect  subsequent  work  areas.  The 
+methods  used  to  develop,  ventilate,  and  support  these 
+entries,  and  to  mine  longwall  panels  have  evolved  in 
+response  to  the  varied  situations  and  necessities  ex- 
+perienced. Consequently,  legal  requirements  or  restric- 
+tions in  other  countries  have  developed  specifically  to 
+control  single-entry  longwall  mining.  This  is  in  sharp 
+contrast  to  U.S.  regulations  concerning  longwalls  and 
+single  entries  where  regulations  have  been  extended  or 
+adapted  from  legislation  intended  for  underground  room- 
+and-pillar  mining. 
+
+
+U.S.  SINGLE-ENTRY  STUDIES 
+
+
+Two  single-entry  development  projects  were  conducted 
+in  the  United  States  during  the  1970's:  the  Sunnyside 
+project  at  Kaiser  Steel  Corp.'s  Sunnyside  No.  1  Mine  in 
+Utah  and  the  TBM  project  at  EACC's  Federal  No.  2  Mine 
+in  West  Virginia.  The  main  similarity  between  the  two 
+projects  was  that  they  were  single-entry  drivages,  divided 
+to  form  two  compartments  to  comply  with  coal  mine  safety 
+regulations  concerning  ventilation,  location  of  electrical 
+equipment,  and  escapeways.     Other  than  this,  the  two 
+
+
+projects  were  different  in  many  respects.  A  description  of 
+each  of  these  projects  will  help  to  point  out  their  simi- 
+larities and  differences,  as  well  as  problems  that  impede 
+single-entry  development  in  this  country. 
+
+SUNNYSIDE  PROJECT 
+
+The  Sunnyside  project  was  a  9-year  research  study, 
+begim  in  1971,  that  had  the  objective  of  determining 
+
+
+whether  a  single  entry  supported  down  the  center  by  a 
+fire-resistant  partition  could  be  considered  equal  to  or 
+better  than  a  double-entry  system.  The  project  was  con- 
+ducted under  a  cooperative  agreement  between  Kaiser 
+Steel  Corp.  and  the  Bureau's  Spokane  Research  Center 
+(SRC).  Other  participants  included  the  Bureau's  Denver 
+Research  Center  and  the  U.S.  Mine  Safety  and  Health 
+Administration  (MSHA). 
+
+The  Sunnyside  single-entry  study  was  originally  begun 
+in  the  No.  2  Mine  but  was  moved  to  the  No.  1  Mine  when 
+several  faults  and  an  overlying  minable  coal  seam  were 
+discovered  at  the  original  site.  Several  publications 
+describe  the  early  phases  of  this  experiment  (1,  12-13), 
+and  details  of  the  project  will  not  be  described  in  this 
+report.  However,  a  few  important  points  should  be  made. 
+The  new  site  was  adjacent  to  several  mined-out  longwall 
+panels,  including  one  that  had  just  begun  production  when 
+the  change  in  location  was  made  (fig.  2).  These  panels 
+were  4,500  ft  long,  500  to  600  ft  wide,  and  had  an  average 
+seam  height  of  6  ft.  An  extensive  study  was  made  of  the 
+geology  of  the  area  in  conjunction  with  the  Sunnyside 
+experiment.  This  study  included  diamond-drilled  columns 
+from  the  floor  and  roof  of  nearly  20  areas  where  ground 
+movements  were  monitored.  This  geological  information 
+is  available  in  a  Bureau  Report  of  Investigations  (14). 
+
+As  originally  planned,  the  purpose  of  the  Sunnyside 
+project  was  to  study  three  major  factors:  ground  control, 
+
+
+ventilation,  and  safety  procedures.  Over  1,200  instruments 
+were  installed  during  the  9-year  trial  period.  These  instru- 
+ments monitored  roof-to-floor  closure,  entry  deformation, 
+and  load  on  cribs,  posts,  and  roof  bolts,  which  were  the 
+primary  supports  used.  A  Bureau  open-file  report  details 
+the  installation  of  the  instruments  and  results  of  the 
+monitoring  efforts  (15). 
+
+Two  longwall  development  headings  were  driven  in  con- 
+nection with  the  project.  The  first  heading  began  in  May 
+1973  and  was  driven  a  total  of  4,500  ft.  The  first  1,500  ft 
+was  driven  as  a  single  entry  followed  by  a  1,500-ft  section 
+of  double  entry.  The  final  section  was  also  completed  as 
+a  single  entry.  This  configuration  allowed  a  good  com- 
+parison to  be  made  between  single-  and  double-entry 
+behavior.  The  single-entry  sections  were  6  ft  high  and 
+26  ft  wide,  divided  down  the  center  by  a  row  of  open  wood 
+cribs  on  7-ft  centers.  A  fireproof  divider  composed  of 
+steel  panels  coated  with  a  fire-retardant  sealant  was 
+attached  to  this  crib  line.  Escape  doors  were  installed 
+every  100  ft  to  comply  with  regulations  requiring  access 
+between  escapeways.  Fresh  air  was  coursed  to  the  working 
+area  on  the  left  side  of  the  divider  and  exhausted  on  the 
+right.  The  conveyor  belt  was  located  in  the  exhaust  air 
+course,  while  the  main  supply  and  travel  route  was  located 
+in  the  fresh  air  course  (16). 
+
+Although  no  major  problems  were  encountered,  the 
+first  entry  took  14  months  to  complete,  which  was  longer 
+
+
+Figure  2.-Sunnyside  single-entry  project 
+
+
+than  originally  anticipated.  The  slow  progress  was  due  to 
+many  things,  including  an  inexperienced  crew  and  lack  of 
+adequate  working  space.  The  original  plan  was  to  have  the 
+bolter  follow  closely  behind  the  continuous  miner  used  to 
+drive  the  entry.  An  MSHA  regulation  prohibiting  more 
+than  one  major  piece  of  equipment  operating  on  the  same 
+air  split  made  this  impossible,  however.  Consequently, 
+whenever  the  mining  machine  finished  a  cut,  it  was 
+trammed  out  and  sat  idle  until  the  bolting  crew  finished. 
+This  also  idled  the  shuttle  car  used  to  transport  the  cut 
+coal  to  the  section  belt  and  resulted  in  a  serious  waste  of 
+labor. 
+
+Another  time-consuming  operation  was  the  construction 
+of  the  center  crib  line  and  divider  wall.  A  maximum  of 
+150  ft  was  allowed  between  the  permanent  divider  and  the 
+face,  with  the  line  brattice  used  to  divide  and  ventilate 
+this  area.  As  the  face  progressed  further  from  the  main 
+haulageway,  the  amount  of  delay  due  to  center  wall 
+construction  increased.  Crib  blocks,  metal  panels,  sealant, 
+and  all  other  supplies,  such  as  bolting  materials  and  spare 
+parts,  had  to  be  brought  into  the  entry  by  battery  car. 
+This  proved  to  be  slow  and  inefficient.  The  problem  was 
+compounded  by  the  limited  space  in  the  entry  itself.  Only 
+the  intake  half  of  the  entry  was  available  for  transpor- 
+tation, mining,  and  support  functions.  Progress  was  often 
+impeded  by  lack  of  operating  room. 
+
+Ventilation  was  another  problem.  Metal  landing  mats 
+were  used  in  the  bolting  pattern  to  support  the  roof.  They 
+spanned  the  entry,  making  it  very  difficult  for  the  divider 
+wall  to  create  an  airtight  seal.  The  divider  wall  itself  was 
+the  source  of  many  leaks.  As  the  roof  converged,  it  tended 
+to  break  the  sprayed  sealant  away  from  the  wall,  causing 
+air  leakage,  and  thus  became  a  major  maintenance  prob- 
+lem. Methane  concentrations  over  the  allowable  1.0  pet 
+shut  the  section  down  repeatedly,  requiring  the  crew  to 
+stop  production  and  seal  leaks,  reroute  brattice,  or  simply 
+wait  for  the  methane  to  dissipate.  The  use  of  auxiliary 
+ventilation  is  required  in  most  European  mines,  but  is 
+severely  limited  in  U.S.  mines  in  areas  other  than  between 
+the  last  open  crosscut  and  the  face.  As  the  development 
+face  progressed  further  into  the  coal  block,  however,  it 
+became  increasingly  hard  for  the  mine  ventilation  system 
+to  provide  adequate  air  to  the  face,  particularly  in  gassy 
+areas. 
+
+Advance  rates  for  the  1,500-ft  section  of  double  entry 
+showed  some  improvement  over  the  first  single-entry 
+section.  This  was  attributed  to  the  crew's  familiarity  with 
+the  mining  method  and  increased  working  space,  as  well  as 
+the  elimination  of  the  center  wall. 
+
+During  the  mining  of  the  first  longwall  panel,  it  became 
+obvious  that  the  single  row  of  wood  cribs  neither  support- 
+ed the  entry  adequately  nor  created  a  clean  break  line  for 
+the  gob.  Additional  rows  of  cribs,  as  well  as  steel  arches, 
+wood  posts,  and  steel  beams,  were  used  to  maintain  the 
+entry,  but  in  spite  of  the  extra  supports,  it  was  often  neces- 
+sary to  remove  floor  rock  to  provide  adequate  travel  space. 
+The  maintenance  cost  to  keep  the  entry  open  for  use  as  a 
+double  gate  made  it  obvious  that  the  single  entry,  as 
+designed,  would  not  perform  as  desired.   This  realization 
+
+
+brought  about  a  redesign  of  the  next  single  entry  and  the 
+decision  to  test  a  new  type  of  support. 
+
+In  April  1976,  a  63-ft  section  of  fiber-reinforced 
+concrete  cribs  was  installed  about  halfway  into  the  first 
+single-entry  section.  Wooden  blocking  materials  were  used 
+between  the  concrete  cribs  and  the  roof  to  absorb  initial 
+loads  and  to  ensure  a  tight  fit  to  the  roof.  The  concrete 
+crib  line  (fig.  3)  was  very  successful.  Not  only  did  that 
+section  of  the  entry  maintain  its  original  height  without 
+extra  supports,  but  a  clean  break  line  was  observed  on  the 
+gob  side,  with  little  or  no  punching  of  the  cribs  through  the 
+roof,  as  was  originally  feared. 
+
+The  driving  of  the  second  4,500-ft  single  entry  was 
+begun  in  September  1975  and  completed  in  August  1976. 
+This  entry  was  designed  to  be  used  only  as  a  headgate  for 
+a  single  longwall  panel.  No  effort  was  made  to  hold  it 
+open  to  serve  as  a  tailgate  for  the  adjacent  panel.  This 
+entry  was  21  ft  wide  and  was  supported  down  the  center  by 
+a  row  of  wood  posts  on  4-ft  centers  (fig.  4).  The  usual 
+bolting  pattern  supported  the  rest  of  the  entry.  A  fire- 
+resistant  wall  was  constructed  using  metal  panels  attached 
+to  the  posts  and  coated  with  a  sealant  (fig.  5).  Metal 
+escape  doors  were  again  installed  every  100  ft. 
+
+Advance  rates  for  the  second  single  entry  were  higher 
+than  the  average  for  a  two-entry  system,  and  nearly  double 
+those  achieved  on  the  first  single  entry.  Several  factors 
+contributed  to  this.  The  crew  was  more  experienced,  the 
+support  wall  was  simpler  and  easier  to  install,  and 
+alignment  of  the  entry  was  accomplished  using  a  laser  gun, 
+which  simplified  the  process.  Perhaps  the  two  major  dif- 
+ferences, however,  were  changes  in  the  haulage  and 
+ventilation  systems.  The  shuttle  car  was  replaced  by  a 
+bridge  conveyor  from  the  back  of  the  continuous  miner  to 
+a  walking  tailpiece  at  the  end  of  the  belt  (fig.  6).  A  maxi- 
+mum of  120  ft  could  be  mined  before  the  tailpiece  was 
+advanced.  Mine  management  estimated  that  this  change 
+alone  improved  single-entry  advance  rates  2.5  times  (17). 
+
+Ventilation  was  augmented  using  two  auxiliary  fans  and 
+fiberglass  tubing.  The  tubing  used  for  intake  was  equipped 
+with  a  flexible  endpiece  so  that  air  could  be  directed 
+toward  problem  areas.  Because  of  this  dual  system,  there 
+was  little  time  lost  because  of  forced  work  stoppages 
+caused  by  high  methane  concentrations. 
+
+A  final  cost  comparison  between  the  development  of 
+the  Sunnyside  single  and  double  entries  shows  that,  while 
+advance  rates  were  faster  for  a  single-entry  system,  the 
+overall  cost  was  42  pet  higher  than  for  a  double-entry 
+system  (17).  One  reason  for  this  was  the  higher  productiv- 
+ity rate  for  double  entries  (there  is  more  coal  to  be  ex- 
+tracted, hence  more  production).  The  main  reason,  how- 
+ever, was  that  the  mining  cycle  only  allowed  one  operation 
+to  occur  at  a  time.  Since  the  union  did  not  allow  mining 
+machine  operators  to  also  operate  bolting  machines,  work- 
+ers and  their  equipment  sat  idle  at  least  50  pet  of  each 
+shift.  When  labor  costs  make  up  an  estimated  57  pet  of 
+the  total  production  costs,  it  is  easy  to  see  why  single 
+entries  driven  with  cyclic  systems  are  not  competitive  (17). 
+
+The  Sunnyside  single-entry  project  was  considered  a 
+success  by  the  Bureau  in  terms  of  reducing  ground  control 
+
+
+Figure  3.-Concrete  crib  line  in  17th  L  single  entry. 
+
+
+problems  in  deep  coal  mines.  Many  potential  advantages 
+of  single  entries  were  brought  out  by  the  trials.  These 
+advantages  included  reduction  of  bumps  by  eliminating 
+chain  pillars  and  decreasing  the  number  of  openings,  faster 
+development  rates,  elimination  of  problems  caused  by 
+pillar  remnants,  extraction  rates  for  panels  approaching 
+100  pet,  reduction  of  methane  emission  from  exposed  ribs, 
+and  simplification  of  mining  procedures  due  to  straight- 
+line  development  with  no  intersections.  The  major 
+disadvantages  listed  by  the  Sunnyside  Mine  management 
+were  losses  in  productivity,  increased  costs  to  maintain  the 
+single  entry  as  a  tailgate,  and  the  possibility  that  the  center 
+wall  would  fail  to  provide  a  smoke-free  escapeway  should 
+a  fire  occur  on  the  belt  or  equipment  (17). 
+
+An  important  point  that  should  be  noted  when  judging 
+the  success  of  the  project  is  the  marked  improvement  in 
+the  construction  of  the  second  single  entry.  Design 
+changes  necessitated  by  failures  in  the  first  panel  devel- 
+opment were  successful  in  eliminating  many  of  the  early 
+problems.  This  demonstrates  the  evolutionary  process  that 
+
+
+will  be  necessary  for  the  successful  implementation  of 
+single-entry  systems  in  the  United  States. 
+
+TUNNEL-BORING  MACHINE  PROJECT 
+
+The  TBM  project  was  proposed  in  1971  by  EACC.  Its 
+purpose  was  to  test  the  technical  and  economic  feasibility 
+of  developing  coal  mines  with  TBM's.  The  eventual 
+demonstration  was  cosponsored  by  EACC  and  the 
+Bureau's  High  Speed  Coal-Mine  Development  Sub- 
+Systems  program.  SRC  served  as  principal  investigator  for 
+the  full  term  of  the  project,  from  1974  to  1979,  even 
+though  the  program  was  transferred  to  DOE  in  1977. 
+
+The  concept  of  using  a  TBM  for  driving  develop- 
+ment headings  is  a  departure  from  the  traditional  U.S. 
+development  strategy  discussed  earlier  with  regard  to 
+European  development  methods.  The  TBM  concept  fol- 
+lows the  European  strategy  of  developing  a  coal  property 
+from  its  center  outward  to  its  boundaries  and  then  mining 
+inward,  leaving  the  mined-out  areas  behind.   Mined-out 
+
+
+10 
+
+
+Figure  4.-Single-entry  center  wall  in  18th  L,  right  side. 
+
+
+Figure  5.-Single-entry  center  wall  In  18th  L,  left  side. 
+
+
+11 
+
+
+ELEVATION 
+
+Continuous    miner        Conveyor  Belt 
+
+
+12 
+
+
+Scale,  ft 
+
+
+"^BI- 
+SECTION A-A 
+
+Figure  6.-Elevation  and  plan  view  of  Sunnyside  split  single  entry. 
+
+
+areas  are  abandoned,  so  very  little  coal  must  be  left  in 
+place  for  support.  Maintenance  of  development  headings 
+is  minimized  because  little  ground  is  disturbed  during 
+development,  and  once  an  area  has  been  mined  out,  the 
+development  headings  may  also  be  abandoned.  This  strat- 
+egy is,  of  course,  in  conflict  with  present  U.S.  regulations 
+regarding  gob  ventilation;  however,  its  advantages  cannot 
+be  overlooked,  that  is,  rapid  development,  improved  ex- 
+traction ratio,  improved  subsidence  control,  and  improved 
+ground  control.  This  strategy  also  allows  flexibility  in 
+product  control  and,  in  gaseous  mines,  the  degasification 
+of  the  coal  prior  to  mining  (18). 
+
+The  site  selected  for  the  project  was  the  Northeast 
+Mains  area  of  EACC's  Federal  No.  2  property  where  ear- 
+lier attempts  at  conventional  development  had  failed. 
+Development  of  a  10-entry  heading  had  been  halted  in  the 
+area  some  years  before  because  of  excessive  methane. 
+Although  the  high  concentrations  of  methane  presented 
+special  problems,  successful  implementation  would  prove 
+that  single  entries  could  be  driven  in  extremely  gassy  coal. 
+
+At  the  time  of  the  project,  McGuire  Corp.  of  Fort 
+Smith,  AR,  operated  the  only  permissible  TBM  in  the 
+country.  The  machine  had  been  used  to  drive  slopes  down 
+to  coal  seams  and  could  be  modified  to  drive  in  coal 
+without  going  through  the  lengthy  approval  procedures 
+
+
+required  for  new  machines.  McGuire  was  subcontracted 
+by  EACC,  and  preparation  for  the  project  began  in  1974. 
+The  TBM  was  modified  to  excavate  an  18-ft-diam  tunnel 
+a  distance  of  6,000  ft  to  intersect  a  shaft  constructed  for 
+the  project. 
+
+The  assembled  TBM  system  was  relatively  complex  for 
+a  coal  mining  operation  (fig.  7).  The  basic  machine  con- 
+sisted of  a  primary  unit  and  a  secondary  unit.  The  primary 
+unit  included  the  cutterhead,  loading  buckets,  roof  bolters, 
+and  hydraulic  gripping  rams  (wall  grippers).  The  second- 
+ary unit  provided  the  electric  and  hydraulic  power  for  the 
+TBM  system.  The  combined  units  were  50  ft  long  and 
+weighed  about  35  st.  Immediately  behind  the  secondary 
+unit,  a  50-ft  skid-mounted  trailing  unit  (tertiary  unit)  was 
+used  to  provide  the  following  support  functions:  (1)  track 
+installation,  (2)  application  of  shotcrete,  and  (3)  divider 
+support  beam  installation.  The  trailing  unit  was  equipped 
+with  a  monorail  and  air-powered  cranes  to  handle  heavy 
+equipment  and  materials. 
+
+The  primary,  secondary,  and  trailing  units  included  steel 
+panels  dividing  the  tunnel  entry  into  upper  and  lower  com- 
+partments (fig.  8).  Steel  divider  panels  also  trailed  these 
+units  for  a  distance  of  320  ft  to  an  automatic  mine-car 
+loading  station.  These  sliding  steel  dividers  carried  the 
+primary  haulage  system-an  extendable  conveyor  formed  by 
+
+
+12 
+
+
+Secondary  conveyor 
+
+ill  iiTilV~i/i'i^W/AAV 
+
+
+Canopy 
+
+Cutterhead 
+
+
+Primary  conveyor       Roof  bo|ter 
+
+
+Wall  gripper 
+
+
+Hydraulic  pump 
+
+
+Drive  motor  Belly  jack 
+
+Reset  jack 
+
+
+Operator's  station 
+
+Figure  7.-Tunnel-boring  machine. 
+
+
+Degasification  equipment 
+Shotcrete  system 
+
+
+Tunnel  boring  machine 
+
+
+V 
+
+H 
+
+'/ 
+
+//AW 
+
+w// 
+
+/Ml 
+
+\ 
+
+*// 
+
+//a 
+
+1 
+
+' 
+
+: 
+
+1 
+
+* 
+
+X 
+
+D 
+0 
+
+£ 
+
+r 
+
+i   , 
+
+V 
+
+1 
+
+' 
+
+V 
+
+1 
+
+T 
+
+i 
+
+1 
+
+//*Ul 
+
+\\V>// 
+
+//i 
+
+411 
+
+W^ 
+
+'/ 
+
+\ 
+
+* 
+
+PLAN  VIEW 
+
+
+SECTION    SECTION 
+A-A  B-B 
+
+
+0    6  12 
+
+i i i 
+
+Scale,  ft 
+
+
+Figure  8.-Elevation  and  plan  view  of  TBM  split  single  entry. 
+
+
+13 
+
+
+two  belts.  Permanent  concrete  panels,  called  flexicore, 
+were  installed  beneath  a  raised  portion  of  the  temporary 
+divider  just  ahead  of  the  loading  station.  Together,  the 
+sliding  steel  and  the  flexicore  provided  a  continuous, 
+horizontal  divider  from  the  entrance  of  the  tunnel  to  the 
+face.  Ventilation  air  was  directed  through  the  lower  com- 
+partment to  the  face  and  exhausted  through  the  upper 
+compartment.  Ten-ton  mine  cars  were  loaded  at  the  load- 
+ing station  on  a  specially  designed  double-track  carriage 
+called  a  California  switch.  This  unit  was  390  ft  long  with 
+a  40-ft  ramp  up  from  the  main  track.  The  California 
+switch  followed  the  TBM  as  it  advanced  by  riding  on  the 
+main  track.  The  entire  TBM  system  was  approximately 
+790  ft  long  when  fully  extended,  but  could  collapse  to 
+about  540  ft  when  the  loading  chute  and  California  switch 
+were  moved  up.  This  was  done  at  approximately  250-ft 
+intervals. 
+
+The  TBM  was  a  system  designed  to  excavate,  support, 
+and  construct  the  tunnel  in  one  continuous  operation.  Ad- 
+ditional support  operations  were  carried  out  between  the 
+trailing  unit  and  the  front  end  of  the  California  switch. 
+Within  this  area,  service  lines  were  installed,  degasification 
+holes  were  drilled,  and  a  3-in  layer  of  shotcrete  was  ap- 
+plied to  the  walls.  Two  roof  bolting  machines  located  on 
+the  primary  unit  provided  all  the  immediate  roof  support 
+that  was  necessary.  Installation  of  the  flexicore  divider 
+took  place  from  atop  the  California  switch,  beneath  a 
+raised  portion  of  the  sliding  steel  divider.  It  was  antic- 
+ipated that  such  a  system  would  be  capable  of  100  ft  of 
+advance  per  day,  as  had  been  accomplished  with  TBM  sys- 
+tems used  on  civil  engineering  projects.  Actual  advance 
+rates,  however,  were  much  lower  because  of  a  number  of 
+operational,  design,  and  labor  problems. 
+
+Boring  began  in  January  1976  with  only  the  primary  and 
+secondary  units  in  operation.  As  the  TBM  advanced,  the 
+trailings  sections  of  the  system  were  added  until  the  entire 
+system  was  assembled.  Boring  with  the  complete  system 
+did  not  begin  until  January  1977.  The  length  of  time  taken 
+to  assemble  the  total  system  was  a  reflection  of  the  prob- 
+lems incurred  in  making  the  system  comply  with  mining 
+regulations. 
+
+The  final  contract  report  concerning  the  TBM  project 
+(18)  gives  an  account  of  the  problems  associated  with  the 
+project  from  start  to  finish.  Many  of  these  problems  were 
+associated  with  equipment  design  or  failure  and  with  labor 
+or  management  issues.  The  major  concerns,  however,  in- 
+volved the  single-entry  aspects  of  the  project.  Fire  pre- 
+vention is  essential  in  any  single  entry,  raising  questions  of 
+electrical  permissibility.  In  Europe,  all  equipment  within 
+a  single  entry  must  be  permissible.  This  was  the  primary 
+difference  between  European  regulations  and  U.S.  prac- 
+tices concerning  equipment.  Other  differences  were  in- 
+fluenced either  directly  or  indirectly  by  the  determination 
+of  where  permissible  equipment  would  be  allowed.  In 
+both  the  Sunnyside  and  the  TBM  projects,  the  last  open 
+crosscut  was  generally  determined  by  MSHA  to  be  the  end 
+of  the  permanent  dividers.  In  the  case  of  the  TBM 
+project,  however,  a  decision  was  made  not  to  allow  non- 
+permissible  equipment  within  the  mouth  of  the  tunnel. 
+
+
+This  effectively  made  the  tunnel  mouth  the  last  open 
+crosscut.  The  one  exception  to  this  rule  was  the  use  of 
+nonpermissible  battery-powered  locomotives  in  the  tunnel 
+behind  the  end  of  the  permanent  dividers.  This  allowance 
+was  granted  by  MSHA  because  no  permissible  locomotives 
+were  available  and  their  construction  would  have  been  very 
+costly  and  would  have  delayed  the  project  by  many 
+months. 
+
+The  decision  to  use  only  permissible  equipment  in 
+the  tunnel  affected  another  critical  area.  Because  of  the 
+length  of  the  entry,  the  operating  voltage  (480  V)  could 
+not  be  carried  to  the  machine  by  a  cable  of  practical  size. 
+It  was  necessary  to  use  a  transformer  on  the  secondary 
+unit  to  reduce  the  primary  mine  voltage  of  7,200  V  to 
+480  V.  Permissible  transformers  are  not  uncommon,  but 
+one  using  7,200- V,  l,000-kV»A  primary  power  had  never 
+been  built.  In  addition,  30  CFR  18.47  (d)  (5)  implies 
+that  face  voltage  shall  not  exceed  4,160  V.  During  the 
+initial  boring  phase,  a  480-V  trailing  cable  was  used  while 
+boring  the  725-ft  length  required  to  assemble  the  com- 
+plete system.  Concurrently,  a  variance  was  sought  under 
+30  CFR  18.47  (d)  (6),  which  allows  MSHA  to  approve 
+high-voltage  equipment,  provided  additional  safeguards  are 
+met.  Many  delays  occurred  during  the  approval  process. 
+Initial  testing  of  a  7,200-  to  480-V  transformer  at  the 
+Westinghouse  High  Power  Laboratory  in  Pittsburgh,  PA, 
+led  to  improvements  and  eventual  approval. 
+
+Equipment  permissibility  is,  of  course,  required  in 
+underground  coal  mines  because  of  the  explosive  atmos- 
+phere created  by  the  generation  of  coal  dust  and  the  lib- 
+eration of  methane.  In  addition  to  permissibility,  the 
+amount  of  dust  and  methane  in  the  ventilating  air  was  also 
+strictly  regulated.  The  Northeast  Mains  area  at  the 
+Federal  No.  2  Mine  had  an  established  history  of  pro- 
+ducing excessive  methane.  That  area  of  the  mine  had  al- 
+ready been  involved  in  a  degasification  project  with  the 
+Bureau's  Pittsburgh  Research  Center,  so  a  degasification 
+plan  was  devised  to  incorporate  the  tunnel  into  the  existing 
+system.  The  plan  was  to  drill  holes  angled  into  the  coal 
+ahead  of  the  tunnel  face  and  vent  the  methane  through  a 
+6-in  pipeline  and  a  borehole  to  the  surface.  These  3.5-in 
+holes  were  drilled  into  alternating  ribs  at  250-ft  intervals 
+as  soon  as  the  trailing  unit  had  passed  and  were  angled 
+20°  from  the  tunnel  centerline  to  place  them  ahead  of  the 
+face. 
+
+Many  problems  were  encountered  with  the  degasifica- 
+tion system  and  it  was  eventually  abandoned.  As  in  the 
+Sunnyside  project,  auxiliary  face  ventilation  was  used  to 
+control  methane  liberated  during  excavation.  Several  "hot 
+spots"  were  encountered  in  the  tunnel  that  halted  work 
+until  the  methane  level  was  reduced,  particularly  toward 
+the  end  of  the  project  when  advance  rates  were  high.  The 
+most  important  control  measure  used,  however,  was  apply- 
+ing shotcrete  to  the  tunnel  walls,  which  sealed  the  coal 
+from  the  atmosphere  and  prevented  contamination  of  the 
+intake  air  before  it  reached  the  face.  Methane  liberation 
+in  gaseous  coal  mines  will  always  present  a  special  prob- 
+lem in  single  entries  and  will  require  that  some  type  of 
+sealant  be  used  or  that  other  measures  be  taken. 
+
+
+14 
+
+
+Another  ventilation  problem  common  to  both  the 
+Sunnyside  and  the  TBM  projects  was  leaks  in  the  divider 
+between  the  intake  and  return  airways.  Because  of  the 
+experimental  nature  of  the  TBM  project,  MSHA  required 
+that  50,000  cfm  of  intake  air  be  supplied  to  a  control  point 
+behind  the  trailing  unit.  Early  in  the  project,  it  was 
+recognized  that  maintaining  this  airflow  would  be  a  prob- 
+lem, and  a  detailed  ventilation  study  was  begun  (19).  The 
+study  concluded  that  there  would  be  sufficient  airflow  to 
+complete  the  tunnel  only  if  leaks  in  the  divider  could  be 
+controlled.  The  major  sources  of  the  leaks  were  cracks 
+between  the  members  of  the  permanent  dividers  and  poor 
+seals  around  air-lock  doors  in  the  dividers.  Leaks  were 
+sealed  on  a  continual  basis  throughout  the  project,  but 
+even  so,  only  50  pet  of  the  air  entering  the  single  entry 
+actually  reached  the  face.  This  is  considered  a  major 
+obstacle  to  this  type  of  single-entry  arrangement.  If  multi- 
+compartment single  entries  are  to  be  used,  improvements 
+in  methods  of  sealing  divider  walls  will  be  necessary. 
+
+Another  major  obstacle  to  the  TBM  project  was  the 
+divider  wall  construction.  As  discussed  earlier,  the  split 
+single  entry  was  developed  as  a  means  of  driving  a  single 
+entry  while  at  the  same  time  complying  with  the  CFR  and 
+
+
+State  mining  laws  concerning  separate  escapeways  from 
+each  working  area.  For  a  divider  wall  to  serve  as  a 
+substitute  for  a  line  of  chain  pillars  and  stoppings,  it  has  to 
+prevent  a  fire  or  explosion  on  either  side  of  the  divider 
+from  propagating  to  the  other  side  (30  CFR  75.329-2). 
+This  meant  that  the  divider  wall  had  to  be  built  from  sub- 
+stantial materials.  The  divider  wall  was  also  required  to 
+have  doors  spaced  every  100  ft  to  allow  workers  to  pass 
+from  one  side  to  the  other.  Most  of  the  doors  were  2  by 
+2  ft,  but  every  fifth  door  was  much  larger  and  had  a  stair- 
+way that  would  allow  an  injured  worker  to  be  carried 
+through  on  a  stretcher  (fig.  9). 
+
+An  industrial  engineering  study  conducted  for  the 
+Bureau  identified  the  installation  of  the  divider  wall  as  the 
+most  time-consuming  task  in  overall  tunnel  construction. 
+Therefore,  the  divider  wall  not  only  created  problems  with 
+ventilation,  but  its  construction  would  have  controlled  the 
+TBM  excavation  rate  had  it  not  been  for  many  other  un- 
+scheduled delays.  During  the  Sunnyside  project,  the  divid- 
+er wall  created  ventilation  problems  and  its  construction 
+was  a  major  obstacle  to  rapid  development  of  the  entry, 
+particularly  because  of  the  difficulties  encountered  while 
+bringing  construction  supplies  in,  but  also  because  of  the 
+
+
+Figure  9.-Lower  compartment  of  entry  developed  by  TBM. 
+
+
+15 
+
+
+time  used  to  build  the  wall,  during  which  no  mining 
+occurred.  Experience  gathered  from  both  projects  has 
+shown  that  divider  wall  construction  and  maintenance  will 
+be  major  obstacles  to  the  efficient  driving  of  split  single 
+entries. 
+
+The  single-entry  projects  in  the  United  States  have 
+provided  valuable  experience  to  the  mining  industry.  The 
+
+
+most  obvious  lesson  was  that  in  order  to  bring  European 
+single  entries  into  compliance  with  U.S.  law,  changes 
+were  made  that  created  problems  in  construction  and 
+ventilation.  These  problems  muted  the  primary  reasons 
+for  single-entry  development,  that  is,  improved  ground 
+control,  rapid  development,  and  greater  overall  safety 
+under  severe  mining  conditions. 
+
+
+OTHER  SINGLE-ENTRY  RESEARCH  STUDIES  IN  UNITED  STATES 
+
+
+Two  other  studies  initiated  by  the  Bureau  have  contrib- 
+uted significantly  to  single-entry  research  in  this  country. 
+The  first  of  these  studies  was  conducted  by  NAMCO  and 
+resulted  in  a  report  entitled  "Single-Entry  Longwall  Study" 
+(6).  The  second  was  a  study  of  the  design  of  a  single-entry 
+development  system  for  retreat  longwall  mining  systems, 
+conducted  by  Ketron.  These  and  several  other  related 
+studies  will  be  discussed  briefly  in  the  following  sections. 
+
+NORTH  AMERICAN  MINING  CONSULTANTS  STUDY 
+
+The  purposes  of  the  NAMCO  study  were  threefold: 
+first,  to  identify  State  and  Federal  regulations  that  con- 
+strain driving  longwall  development  panels;  second,  to 
+propose  optional  single-entry  layouts  and  mine  designs; 
+and  third,  to  compare  costs  between  the  proposed  designs 
+and  conventional  panel  development. 
+
+This  study  concluded  that  true  single-entry  devel- 
+opments are  prohibited  by  current  regulations.  Under 
+30  CFR  75.1704  and  30  CFR  75.1704-1  (1989),  every  active 
+workplace  is  required  to  have  two  separate  escapeways, 
+one  of  which  must  be  located  in  intake  air.  The  laws  of 
+several  states  as  well  as  30  CFR  75.302  (1989)  control  the 
+use  of  auxiliary  ventilation  systems  and  limit  their  use  to 
+the  working  face.  Since  1970,  30  CFR  75.326  (1989)  has 
+prohibited  the  use  of  belt  conveyors  in  intake  or  return  air 
+passages,  limiting  their  installation  to  separate  compart- 
+ments carrying  reduced  airflows.  Two  other  regulations, 
+30  CFR  75.316-2  and  30  CFR  75.311  (1989),  restrict  the 
+use  of  single  entries  for  longwall  panel  development  by 
+requiring  bleeder  systems  for  mined  panels  and  by  pro- 
+hibiting any  intake  air  containing  more  than  0.25  pet 
+methane  from  passing  a  gob  area  if  it  is  to  be  used  to 
+ventilate  an  active  working  face.  For  both  the  Sunnyside 
+and  TBM  projects,  regulations  prohibiting  the  installation 
+of  belt  conveyors  in  return  air  were  waived  under  a  grand- 
+father clause,  and  the  separate  ventilation  and  escapeway 
+requirements  were  met  with  the  split-entry  arrangement. 
+
+The  NAMCO  study  also  compared  the  mining  laws  of 
+the  United  States  with  those  of  other  countries,  high- 
+lighting the  relative  merits  of  each.  Three  longwall  panel 
+development  systems  were  compared:  a  multiple-entry  sys- 
+tem, a  European-type  single-entry  system,  and  a  modified 
+system  of  NAMCO's  own  design  that  was  a  compromise 
+between  European  practices  and  U.S.  requirements.  The 
+modified  system  failed  to  satisfy  all  U.S.  regulations,  but  it 
+was  similar  to  the  modified  single  entries  driven  at 
+Sunnyside.    This  study  concluded  that  in  the  absence  of 
+
+
+adverse  geological  conditions,  the  multiple-entry  systems 
+required  by  U.S.  laws  and  regulations  are  inherently  safer 
+than  single-entry  systems.  The  study  also  noted  that  where 
+the  physical  conditions  become  hazardous  for  the  multiple- 
+entry  method  of  working,  those  U.S.  laws  and  regulations 
+that  constrain  or  prohibit  European-type  single-entry 
+workings  negate  their  purpose  and  are  of  doubtful  benefit. 
+In  such  cases,  European  regulations,  methods,  and  experi- 
+ence, which  are  drawn  directly  from  more  hazardous  con- 
+ditions, offer  a  method  of  single-entry  operation  that 
+provides  improved  control  over  the  strata  and  greater 
+overall  safety  (6). 
+
+NAMCO's  economic  comparison  also  favored  the 
+multiple-entry  system  when  used  in  conventionally  devel- 
+oped mines.  A  case  was  made,  however,  for  the  economic 
+benefits  of  single-entry  development  for  an  entire  mine 
+property.  The  central  argument  was  that  increased  re- 
+source recovery  could  offset  the  higher  capital  cost  of 
+single  entries. 
+
+KETRON  STUDY 
+
+The  purpose  of  the  Ketron  study  was  to  analyze  the 
+single-entry  demonstrations  conducted  in  the  1970's  and  to 
+design  an  improved,  legally  acceptable  single-entry  system 
+for  developing  retreat  longwall  panels.  The  resulting  con- 
+cept was  another  modified  system  based  on  an  entry  split 
+into  three  separate  compartments:  an  intake  airway,  a 
+return  airway,  and  a  belt  compartment  in  the  center  of  the 
+entry.  The  proposed  system  would  be  similar  to  a  three- 
+entry  room-and-pillar  system  and  thus  would  comply  with 
+current  regulations,  provided  favorable  interpretations  con- 
+cerning the  divider  walls  were  applied.  This  system  would 
+meet  those  regulations  that  presently  constrain  or  prohibit 
+driving  two-compartment,  split  single  entries,  as  well  as 
+true  single  entries.  The  regulations  dealing  with  bleeders 
+and  fresh  air  could  also  be  met  with  this  configuration. 
+
+The  Ketron  design  recommended  a  class  of  European 
+continuous  mining  systems  generally  referred  to  as  "partial 
+cutting  machines"  and  specified  the  Eickhoff  short-face 
+ranging  shearer  as  the  best  alternative.  This  system  is  an 
+advancing  "mini-longwalT  system  with  a  standard  longwall 
+shearer  riding  an  armored  face  conveyor.  A  stage  loader 
+feeds  a  belt  conveyor,  providing  continuous  haulage.  This 
+system  can  drive  a  single  entry  between  20  to  40  ft  wide. 
+Roof  bolters  are  mounted  on  the  mining  machine  for 
+immediate  support.  The  Ketron  design  called  for  a  30-ft- 
+wide  entry.  Additional  support  for  this  span  would  come 
+
+
+16 
+
+
+from  two  divider  walls  constructed  to  form  a  three- 
+compartment  system.  The  key  to  supporting  such  a  wide 
+span  would  be  to  prevent  as  much  roof  convergence  as 
+possible  before  installation  of  the  support  walls.  The 
+Eickhoff  system  would  allow  the  walls  to  be  constructed  to 
+within  12  ft  of  the  cutting  face. 
+
+The  primary  advantages  of  the  Ketron  entry  design 
+would  be  in  meeting  the  regulatory  requirements  and  in 
+providing  a  truly  continuous  mining  system.  As  long  as  the 
+divider  walls  were  interpreted  as  adequate  substitutes  for 
+chain  pillars  and  stoppings,  regulations  would  be  the  same 
+as  for  three-entry  systems.  The  delays  and  loss  of  produc- 
+tivity associated  with  the  Sunnyside  single  entry  would  be 
+superseded  by  the  total  system  approach  provided  by  the 
+Eickhoff  continuous  miner.  The  apparent  disadvantages 
+are  that  two  divider  walls  must  be  constructed  and  sealed 
+and  that  these  walls  must  be  strong  enough  to  support  a 
+30-ft  span.  Several  wall  designs  were  evaluated  in  the 
+study.  The  most  desirable  design  consisted  of  a  yielding 
+steel  post  for  support,  wire  mesh  for  lagging,  and  fiber- 
+reinforced  resin  as  a  sealant.  Based  on  the  TBM  and 
+Sunnyside  projects,  the  construction  and  maintenance  of 
+these  walls  would  be  an  impediment  to  rapid,  efficient 
+driving  of  this  type  of  entry  system.  The  concept  delivered 
+by  the  Ketron  study  is,  however,  a  significant  improvement 
+over  past  U.S.  single-entry  systems.  Questions  remain  to 
+be  answered,  particularly  with  regard  to  the  support  of  a 
+30-ft  roof  span,  the  construction  of  the  divider  walls,  and 
+MSHA's  interpretation  of  regulations  concerning  the  split 
+single  entries.  Many  of  these  questions  could  be  answered 
+only  by  carrying  out  a  field  demonstration  similar  to  the 
+Sunnyside  and  TBM  projects. 
+
+RESEARCH  RELATED  TO  SINGLE  ENTRIES 
+
+During  the  1970's,  there  were  many  additional  studies 
+undertaken  in  support  of  single-entry  research  or  to  inves- 
+tigate related  subjects.  Many  of  these  studies  dealt  with 
+new  types  of  instruments  such  as  the  Creare  vibrating- 
+wire  stress  gauge  (20)  or  with  new  equipment  such  as  the 
+Dosco  in-seam  miner  (21-22).  Other  studies,  funded 
+under  contract  by  the  Bureau,  produced  computerized 
+two-dimensional  (23)  or  three-dimensional,  finite-element 
+
+
+analyses  of  the  Sunnyside  single  entry,  based  upon  the  data 
+obtained  during  the  trial.  One  finite-element  analysis 
+compared  the  theoretical  stability  of  several  different  entry 
+configurations,  including  the  single  entry  (24). 
+
+Another  Bureau  study  using  the  single-entry  concept  at 
+Sunnyside  involved  installing  a  flexible  steel  liner  in  an 
+advancing  tailgate  and  monitoring  it  from  November  1976 
+to  March  1977.  The  liner  provided  a  temporary  second 
+escapeway  and  return  air  conduit  for  the  15th  R  longwall 
+panel.  It  was  made  up  of  4-ft-diam,  4-ga  steel  sections 
+bolted  together  and  installed  immediately  behind  the 
+second  longwall  support,  which  was  a  combination  of 
+chocks  and  shield  supports.  An  inert  cushion  was  used  as 
+a  base  for  the  liner,  which  was  usually  buried  2  ft  in  the 
+bottom.  The  first  50  ft  were  protected  by  a  double  row  of 
+wood  cribs,  but  thereafter  the  liner's  only  protection  came 
+from  wood  posts  and  broken  rock  hand  shoveled  over  it. 
+Six  stations  were  monitored  in  the  992-ft  liner  to  measure 
+deformation.  As  a  result  of  information  gained  during  this 
+study,  the  Bureau  funded  a  contract  to  design  and  demon- 
+strate a  more  permanent  liner  (25). 
+
+Another  aspect  investigated  was  divider-support  walls. 
+Initially,  different  materials  for  construction  of  divider 
+walls  were  evaluated  (26),  and  later  a  rapid  center  wall 
+placement  system  was  designed  using  foam  concrete  as  the 
+construction  material  (27).  There  were  also  investigations 
+into  the  economic  and  safety  aspects  of  divider  wall 
+systems  (28).  Divider  wall  research  led  to  a  Bureau  proj- 
+ect to  design  and  test  concrete  cribs.  These  concrete  crib 
+blocks  not  only  proved  to  be  much  better  supports  than 
+their  wooden  counterparts,  but  they  also  were  lighter, 
+cheaper,  and  easier  to  install  (29).  Field  tests  of  two  crib 
+block  configurations  were  held  in  conjunction  with  the 
+Sunnyside  project,  and  two  more  designs  were  tested  at 
+five  other  U.S.  mines  (30).  As  a  result  of  that  research, 
+concrete  crib  blocks  are  being  manufactured  commercially 
+and  are  being  used  more  often  underground. 
+
+Many  other  projects  not  directly  related  to  single-entry 
+research  were  associated  with  the  Sunnyside  and  TBM 
+demonstrations.  These  demonstrations  merely  provided 
+convenient  in-mine  laboratories  for  investigating  new 
+hardware  and  mining  concepts. 
+
+
+CONCLUSIONS 
+
+
+The  four  projects  described  in  this  report— the  Sunnyside 
+project,  the  TBM  project,  the  NAMCO  study,  and  the 
+Ketron  single-entry  design-have  had  a  great  impact  on 
+single-entry  research  in  this  country.  The  Sunnyside  and 
+TBM  demonstrations  were  different  in  purpose  and  design; 
+however,  they  established  the  compartmentalized  entry  as 
+the  U.S.  answer  to  the  single  entry.  Although  the 
+NAMCO  study  raises  some  serious  questions  about  the 
+effectiveness  and  relative  safety  of  this  type  of  system, 
+both  the  NAMCO  study  and  Ketron  design  used  this  basic 
+concept  in  their  proposals  for  future  single  entries.   The 
+
+
+divided  single-entry  concept  was  not  selected  for  its 
+simplicity  or  its  efficiency,  nor  was  it  selected  because  of 
+improved  ground  control  or  safety.  It  was  selected  be- 
+cause it  is  more  easily  adapted  to  U.S.  mining  regulations. 
+Divided  single  entries  have  been  driven  and  used  with- 
+out mishap,  but  their  productivity  and  economics  have  not 
+been  attractive.  Difficulties  have  arisen  in  adapting  single 
+entries  to  U.S.  mining  laws.  Mining  regulations,  both  State 
+and  Federal  have  evolved  over  the  years  to  govern  room- 
+and-pillar  mining  and  limit  the  introduction  of  new  and 
+different  mining  methods.    Single  entries,  for  example, 
+
+
+17 
+
+
+were  possible  only  after  obtaining  variances  from  statutes 
+regarding  permissibility  and  by  liberal  interpretation  of 
+regulations  dealing  with  ventilation  seals  and  fire  barriers. 
+In  the  United  States,  ventilation  and  escapeway 
+regulations  have  forced  the  use  of  a  divider  wall.  For  a 
+divider  wall  to  be  in  compliance  with  mining  law,  however, 
+it  must  not  allow  the  propagation  of  either  a  fire  or  an 
+explosion  from  one  side  to  the  other.  The  Sunnyside  and 
+TBM  projects  set  the  precedent  for  entry  development 
+using  a  divided  single  entry.  For  longwall  panel  devel- 
+opment, where  the  most  critical  need  exists,  the  Sunnyside 
+project  demonstrated  that,  although  the  entries  were  suc- 
+cessfully driven  and  used,  the  more  conventional  two-entry 
+system  was  preferable.  Construction  and  maintenance  of 
+the  divider  wall  and  lost  productivity  caused  by  cycling 
+equipment  at  the  face  made  these  entries  too  costly. 
+
+The  Ketron  design  is  indicative  of  the  next  generation 
+of  divided  single  entries,  and  while  a  systems  approach  to 
+the  design  has  eliminated  delays  caused  by  rotating  work- 
+ers and  equipment  at  the  face,  the  three-compartment  con- 
+cept requires  doubling  the  construction  time  and  widening 
+the  entry  span.  This  three-compartment  design  will  be 
+necessary  to  comply  with  current  U.S.  regulations  in  all 
+coal  mines  except  those  where  grandfather  clauses  permit 
+the  operation  of  conveyors  in  return  airways.  In  addition 
+to  these  unsolved  problems,  a  major  safety  question  is  at 
+issue  with  the  divided  single  entry:  Are  divider  walls 
+actually  barriers  to  fire  and  explosion  as  is  mandated  by 
+30  CFR  75.329-2  (1989)? 
+
+Single-entry  development  in  the  United  States  is  far 
+from  perfected.  Many  problems  remain  unsolved,  such  as 
+how  to  control  excessive  amounts  of  methane  in  gassy 
+areas.    Experiences  to  date  have  demonstrated  that  the 
+
+
+problems  are  not  insurmountable,  however,  and  that  they 
+can  be  solved  by  ingenuity  and  careful  engineering.  The 
+pertinent  questions  for  now  concern  the  future  of  the 
+single  entry  in  this  country.  Is  there  a  need  for  this  meth- 
+od right  now?  Will  there  be  a  need  for  it  in  the  future? 
+The  general  consensus  of  nearly  all  the  single-entry  inves- 
+tigators is  that  although  the  economics  and  efficiency  of 
+the  modified  U.S.  single  entry  are  not  attractive,  they  do 
+provide  additional  stability  in  deep  mines.  Kaiser  Steel 
+Corporation  management  said  in  assessing  the  Sunnyside 
+experiments  (77):  "It  has  been  proved  that  a  single  entry 
+can  be  driven  in  less  time  with  no  diminution  of  safety  to 
+the  face  crew.  Future  mining,  under  deeper  cover  and  less 
+competent  roof,  could  easily  swing  the  tide  of  opinion 
+toward  the  single-entry  concept." 
+
+If  single-entry  technology  is  needed,  what  direction 
+should  it  take?  One  direction  leads  to  further  devel- 
+opment of  the  divided  single  entry  in  order  to  comply  with 
+Federal  and  State  regulations  regarding  ventilation  and 
+escapeways.  The  other  direction  leads  to  the  adoption  of 
+European  technology  and  its  attendant  regulations. 
+
+Further  development  and  refinement  will  surely  be 
+necessary  to  make  divided  single  entries  meet  current  min- 
+ing regulations  and  be  economically  attractive.  European 
+single-entry  systems  will  not  comply  with  U.S.  regula- 
+tions; however,  years  of  experience  with  these  systems 
+have  proven  them  to  be  safe  and  efficient  longwall  devel- 
+opment techniques  under  European  conditions.  In  the 
+end,  the  future  of  single  entries  in  this  country  will  be 
+decided  by  industry  needs  and  further  reconciliation  of 
+regulatory  concerns  and  the  technical  and  economic  merits 
+of  single-entry  systems. 
+
+
+REFERENCES 
+
+
+1.  Poad,  M.  E.,  E.  L.  Phillips,  and  E.  T.  Bowers.  Single-Entry 
+Development  for  Longwall  Mining.  Paper  in  First  Symposium  on 
+Underground  Mining  (Louisville,  KY,  Oct.  21-23,  1975).  Nat.  Coal 
+Assoc.,  Washington,  DC,  v.  1,  1975,  pp.  135-143. 
+
+2.  Jackson,  D.  Advancing  Longwall  Mining:  A  First  for  Mid- 
+Continent  Coal  and  a  First  for  the  U.S.  Sec.  in  Coal  Age  Operating 
+Handbook  of  Underground  Mining.  Coal  Age  Min.  Inf.  Services, 
+McGraw-Hill,  New  York,  v.  1,  1977,  pp.  62-67. 
+
+3.  Bullers,  W.  E  Boring  a  Coal  Mine  Slope.  Min.  Congr.  J.,  v.  63, 
+No.  5,  1977,  pp.  4(M3. 
+
+4.  Brezovec,  D.  Roadheader  Drives  Two  Slopes.  Coal  Age,  v.  88, 
+No.  8,  1983,  pp.  50-52. 
+
+5.  Adam,  F.  J.  Special  Monitoring  Requirements  for  Multi-Lift 
+Longwall  Mining  Field  Trial  (DOE  contract  DE-AC01-79ET11268,  Task 
+Order  123).   Dep.  Energy,  July  1982,  pp.  6-9. 
+
+6.  North  American  Mining  Consultants,  Inc.  Single-Entry  Longwall 
+Study,  v.  1:  Final  Report  (DOE  contract  DE-AC01-77-ET-12558). 
+Dep.  Energy,  1982,  242  pp.;  NTIS  DE  82019861. 
+
+7.  Tucker,  R  H.  Mining  Development  in  the  National  Coal  Board. 
+Min.  Eng.  (London),  v.  142,  No.  260,  1983,  pp.  589-598. 
+
+8.  Bordia,  S.  K.  Design  of  Longwall  Mining  Systems.  Colliery 
+Guardian,  v.  231,  No.  10,  1983,  pp.  521-523. 
+
+9.  Australian  Coal  Miner.  Joint  Coal  Board  Releases  Its  Annual 
+Report  Covering  1980/81.   V.  4,  No.  4,  1982,  pp.  34,  42,  46-48. 
+
+10.  Wallman,  D.,  and  J.  McKendry.    Single-Entry  Development  at 
+Ellalong  Colliery.   Mine  and  Quarry  Mechanisation,  1981,  pp.  67-74. 
+
+
+11.  Round,  C.  The  Design  of  the  Experience  With  Single-Entry 
+Faces  at  South  Kirby  Colliery.  Min.  Eng.  (London),  v.  142,  No.  253, 
+1982,  pp.  193-199. 
+
+12.  Poad,  M.  E.,  G.  G.  Waddell,  and  E.  L.  Phillips.  Single-Entry 
+Development  for  Longwall  Mining.  Research  Approach  and  Results  at 
+Sunnyside  No.  2  Mine,  Carbon  County,  Utah.  BuMines  RI  8252,  1977, 
+29  pp. 
+
+13.  Poad,  M.  E,  G.  G.  Waddell,  and  M.  D.  Ross.  Research  Program 
+for  Single-Entry  Longwall  Development  of  Coal  Mines.  Paper  in 
+Proceedings  1974  Rapid  Excavation  and  Tunneling  Conference  (San 
+Francisco,  CA,  June  24-27,  1974).  AIME,  New  York,  v.  2,  1974, 
+pp.  1471-1472. 
+
+14.  Scheibner,  B.  J.  Geology  of  the  Single-Entry  Project  at  Sunnyside 
+Coal  Mines  1  and  2,  Sunnyside,  Utah.  BuMines  RI  8402,  1979, 106  pp. 
+
+15.  Bowers,  E.  T,  and  L.  N.  Henton.  A  Summary  of  Data  From  the 
+Sunnyside  Single  Entry  Study-1971-80.  BuMines  OFR  25-84,  1983, 
+541  pp. 
+
+16.  Ross,  M.  D.  Longwall  Mining  Using  the  Single-Entry  System  and 
+Advancing  Tailgate.   Min.  Congr.  J.,  v.  60,  No.  8,  1974,  pp.  38-41. 
+
+17.  Huntsman,  L.  W.,  and  D.  C.  Pearce.  Entry  Development  for 
+Longwall  Mining.   Min.  Congr.  J.,  v.  67,  No.  7,  1981,  pp.  29-32,  51. 
+
+18.  Tisdale,  J.  E.,  and  D.  R  Skidmore.  Demonstration  of  Tunnel- 
+Boring  Machine  for  Coal-Mine  Development:  Final  Technical  Report 
+(DOE  contract  ET-74-C-01-9068,  East.  Associated  Coal  Corp.).  Dep. 
+Energy,  1979,  149  pp.;  NTIS  DE  82013516. 
+
+
+18 
+
+
+19.  Belton,  A.  Ventilation  Analysis.  Final  Report  to  Eastern 
+Associated  Coal  Corp.  From  John  T.  Boyd  Co.,  1978;  available  upon 
+request  from  M.  O.  Serbousek,  BuMines,  Spokane,  WA. 
+
+20.  Van  Dillen,  D.  E.  The  Three-Dimensional  Structural  Analysis  of 
+Double-Entry  and  Single-Entry  Coal  Mines.  Final  Report.  Volume  III. 
+Three-Dimensional  Finite  Element  Analyses  of  Single-  and  Double- 
+Entry  Portions  of  Sunnyside  Mine  No.  1  (contract  H0262020,  Agbabian 
+Associates).  BuMines  OFR  16  (3)-80,  1978,  278  pp.;  NTIS  PB  80- 
+150360. 
+
+21.  Tokarg,  R  D.,  K.  Hay,  C.  B.  Conrad,  J.  P.  Haskins,  and  J.  J. 
+Jacobsen.  In-Mine  Test  and  Economic  Evaluation  of  the  Dosco  In- 
+Seam  Miner  (DOE  contract  ET-76-C-06-1830).  Dep.  Energy,  1980, 
+101  pp. 
+
+22.  Manley,  C.  D.  Demonstration  and  Evaluation  of  Dosco  In-Seam 
+Heading  Machine:  Final  Report  (DOE  contract  ET-76-C-01-9044, 
+Allied  Corp.).    Dep.  Energy,  1979,  28  pp.;  NTIS  DE  82004520. 
+
+23.  Pariseau,  W.  G.  Interpretation  of  Rock  Mechanics  Data  (Vol.  I) 
+(A  Two-Dimensional  Finite  Element  Approach  to  the  Evaluation  of 
+Underground  Coal  Mine  Stability)  (contract  H0220077,  Univ.  UT). 
+BuMines  OFR  47  (l)-80,  1978,  172  pp. 
+
+24.  Van  Dillen,  D.  E.,  and  R  W.  Fellner.  Comparisons  of  Structural 
+Stability  for  Entry  Configurations  and  Ground  Support  for  Longwall 
+
+
+Panel  Development  (contract  J0285014,  Agbabian  Associates).  BuMines 
+OFR  50-82,  1981,  225  pp.;  NTIS  PB  82-201864. 
+
+25.  Ko,  K.  C.  Flexible  Liner  for  Use  in  Advancing  Tailgate  (contract 
+H0292014,  Kenneth  C.  Ko  &  Associates).  BuMines  OFR  6-82,  1980, 
+191  pp.;  NTIS  PB  82-149352. 
+
+26.  Poad,  M.  E.,  M.  O.  Serbousek,  and  J.  Goris.  Engineering  Proper- 
+ties of  Fiber-Reinforced  and  Polymer-Impregnated  Shotcrete.  BuMines 
+RI  8001,  1975,  25  pp. 
+
+27.  Marshall,  M.  D.  The  Evaluation  of  Foam  Concrete  for  a  Rapid 
+Centerwall  Placement  System:  Final  Technical  Report  (DOE  contract 
+ET-75-C-01-9101,  MSA  Res.  Corp.).  Dep.  Energy,  1978,  68  pp.;  NTIS 
+HCP/T9101-01. 
+
+28.  Walton,  D.  R,  S.  B.  Rondum,  P.  W.  Kauffman,  and  S.  A. 
+Hawkins.  Health  and  Safety  Analysis  on  Support  Walls,  Volume  1 
+(contract  J0295036,  Manage.  Eng.  Inc.).  BuMines  OFR  121(l)-82, 
+1980,  207  pp.;  NTIS  PB  82-251950. 
+
+29.  Anderson,  G.  L.,  and  T.  W.  Smelser.  Development,  Testing,  and 
+Analysis  of  Steel-Fiber-Reinforced  Concrete  Mine  Support  Members. 
+BuMines  RI  8412,  1980,  38  pp. 
+
+30.  Smelser,  T.  W.,  and  L.  N.  Henton.  Concrete  Crib  Design  and 
+Field  Testing.   BuMines  RI  8804,  1983,  44  pp. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29149 
+
+
+g>  ©S  co 
+
+z 
+
+«-!.«• 
+
+> 
+
+5 
+
+■n 
+O 
+
+33 
+
+O 
+
+m 
+■n 
+
+O 
+
+>  I 
+
+Departm 
+au  of  Mil 
+E  Street 
+hington, 
+
+TJ 
+
+r 
+
+a-    =  o 
+
+3 
+
+1 
+
+8 
+
+CO 
+
+nt  of 
+
+N.W. 
+.C. 
+
+m 
+c 
+</> 
+m 
+
+Z 
+
+m 
+
+°  r»        3" 
+
+CO 
+
+*»  co      _ 
+
+I 
+
+CO 
+
+nterior 
+
+#9800 
+1 
+
+m 
+D 
+
+c 
+> 
+
+I— 
+
+o 
+
+-o 
+
+o 
+
+-\ 
+C 
+
+z 
+
+
+m 
+
+
+O 
+
+-< 
+m 
+
+30 
+
+
+413=  90 
+
+
+mmcmw^mmZ 
+
+
+•  * 8 "    ^?'  * 
+
+
+0T 
+
+
+si-  °"      /.-^i>-      cP*.^;%     /.-^fe-S. 
+
+
+•  ^  "  .«  V   A:  V  :g|:  >f  :#fe  >l 
+
+
+>*  :WAo  V.**   /; 
+
+
+°o 
+
+
+a   *****    • 
+•  •  *     \ 
+
+
+•b^ 
+
+
+uu*^ 
+
+
+\  \^  :*Mtii  \.J"  :£b[\  %^#  .-isSfifc  V^ 
+
+
+v^ 
+
+
+*      5?    %     * 
+
+
+•"••-%        .a>v  l.^«,  *k 
+
+
+A^"^!#. 
+
+
+nV       .  o  n  •  _      *£. 
+
+
+hit 
+
+A:  J^\.  %Jm&:  ^\  x-wjWS  *****  :< 
+
+
+**  «^°^  -.^  <=-$u?- 
+
+
+^V 
+
+
+^     \*^y     v*^f-\^    %*^-*\o°     v<3^\^     ^^^r:^/     %*t 
+
+
+,4  q.         :  o^ 
+
+
+^d* 
+
+
+A>  .  *■  <  «  *       ^ 
+
+
+A  yj^,  \ 
+
+
+*bV 
+
+
+Av  ..f..„    ^  ^    ^••♦^o/      *^>V^lA**^"       ,.0^  « • " a  *    ^b 
+
+
+o.   ♦/^T»'  A 
+
+
+HECKMAN        IXI 
+
+BINDERY  INC.        |8| 
+
+NOV  90 
+
+N.  MANCHESTER, 
+
+
+•      .ay  c»       *■ 
+
+
+V     . 
+
+
+^^     \ 
+
+
+■^r,      &        *?2MMM*        ^     AT        *^ 
+
+
+•    ^^.    : 
+
+
+.c^^rv 
+
+

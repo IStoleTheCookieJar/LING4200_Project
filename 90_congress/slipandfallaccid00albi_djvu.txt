@@ -1,0 +1,2215 @@
+.0' 
+
+
+--  -> '"  ^W-\ 
+
+
+C$*sf>  o%%%f^?«  A>«*  .,< 
+
+
+'bV0 
+
+
+W   •* 
+
+
+>.%.         Ac^*°o         <f. •&£.%_         Aci&.%         >^J^V         A.^.% 
+
+
+% 
+
+
+5,0 -A 
+
+
+o*,^-A    .,+4..^;:-.^     ,p*..i*t:.*«j,    ^..jS5^.A     A.^fc.%     A 
+
+
+^0 
+
+
+V1  .»»VL 
+
+
+<*    *'7VT«     ,0 
+
+
+«^°^ 
+
+
+ik.  *; 
+
+
+^1' 
+
+
+^      A 
+
+YV 
+
+
+A  <»   *'TTr*    A  ^, 
+
+«i^A      oV^^Pfc-    ^U.^       Kt^m^^     <h.A 
+
+
+fl^0^ 
+
+
+£°* 
+
+
+•  «o 
+
+
+<Z*  aPV     ♦'",5-       ^  V  .♦* 
+
+^\A^ 
+
+
+°o 
+
+
+»o<? 
+
+
+t4°^ 
+
+
+•  •« 
+
+
+**     :»»»     w    refill'-     ^ 
+
+
+re-      . 
+
+
+^••?W*  ****  M'AW  ** X  'jSff'  ^\.-wW:  J-\  :.I|lf 
+
+
+•       "^  0"? 
+
+
+°o 
+
+
+.„y,:^,\.  y,*^x  x.-^-.\ 
+
+
+V^^y...  °*^^'/     %'*&\4?    V^V 
+
+
+* 
+« 
+
+
+If*       OO/IO  BUREAU  OF  MINES 
+
+IU       y^^i*  INFORMATION  CIRCULAR/1990 
+
+
+Slip-and-Fall  Accidents  During 
+Equipment  Maintenance  in  the 
+Surface  Mining  Industry 
+
+
+By  Thomas  J.  Albin  and  W.  P.  Adams 
+
+
+^  ^  \      u.s.  BUREAU  OF  MINES 
+
+o    m.    J  a      M    r" 
+
+
+80 
+
+
+X 
+
+
+o 
+
+
+1910-1990 
+
+
+\    years    /  THE  MINERALS  SOURCE 
+
+**au  of  ^ 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9249 
+
+*  »■ 
+
+
+Slip-and-Fall  Accidents  During 
+Equipment  Maintenance  in  the 
+Surface  Mining  Industry 
+
+
+By  Thomas  J.  Albin  and  W.  P.  Adams 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+O 
+
+
+o 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Albin,  Thomas  J. 
+
+Slip-and-fall  accidents  during  equipment  maintenance 
+industry  /  by  Thomas  J.  Albin  and  W.  P.  Adams. 
+
+in  the  surface 
+
+mining 
+
+p.      cm.  -  (Information  circular  / 
+
+Bureau  of  Mines  (1988)  ;  9249) 
+
+Bibliography:  p.  10. 
+
+Supt.  of  Docs,  no.:  I  28.27:9249. 
+
+1.     Mine    accidents.        2.    Mines 
+supplies-Maintenance  and  repair.  3. 
+Paul),  1961-    .    II.  Title.    III.  Series: 
+of  Mines);  9249. 
+
+and    mineral     resources-Equipment    and 
+Falls  (Accidents)  I.  Adams,  W.  P.  (Wayne 
+Information  circular  (United  States.  Bureau 
+
+TN295.U4       [TN311] 
+
+622  s- 
+
+-dc20     [622'.8] 
+
+89-600171 
+
+CIP 
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Problem  description 2 
+
+Problem  background    2 
+
+Objectives   3 
+
+Method   3 
+
+Accident  record  analysis 3 
+
+Assessment  of  worker  behavior 5 
+
+Mining  machine  access  system  analysis   5 
+
+Results    6 
+
+Direct  worker  behavior 6 
+
+Machine  access  system  design 8 
+
+Workstation  design 8 
+
+Discussion    8 
+
+Relative  hazard  of  direct  worker  behavior  and  machine  access  system  design    9 
+
+Risk  perception    9 
+
+Summary  and  conclusions 10 
+
+References 10 
+
+Appendix  A.-Sample  calculations  of  relative  risk  ratios    12 
+
+Appendix  B.-Calculation  of  probability  of  slip-and-fall  accident  happening  to  individual  during  40-year 
+
+period 13 
+
+ILLUSTRATION 
+
+1.    Example  of  machine  access  system  scoring  sheet 7 
+
+TABLES 
+
+1.  Operational  definitions  for  antecedent  events  to  slip-and-fall  accidents 4 
+
+2.  Listing  of  antecedent  events,  codes,  and  frequency  noted  in  accident  narratives    6 
+
+3.  Antecedent  events  associated  with  direct  and  indirect  worker  behavior 6 
+
+4.  Slip-and-fall  accident  location,  proportion  of  total  work  time  in  location,  and  relative  risk 8 
+
+5.  Machine  access  system  ratings 8 
+
+6.  Antecedent  events  related  to  workstation  design 8 
+
+7.  Relative  risk  ratios  for  direct  worker  behavior  and  access  system  elements 9 
+
+
+SLIP-AND-FALL  ACCIDENTS  DURING  EQUIPMENT  MAINTENANCE 
+IN  THE  SURFACE  MINING  INDUSTRY 
+
+
+By  Thomas  J.  Albin1  and  W.  P.  Adams2 
+
+
+ABSTRACT 
+
+This  U.S.  Bureau  of  Mines  report  identifies  potential  causes  of  slip-and-fall  accidents  occurring  during 
+surface  mine  equipment  maintenance  and  describes  the  relative  roles  of  direct  worker  behavior  and 
+machine  design.  The  relative  roles  of  human  behavior  and  machine  design  in  the  causation  of  slip-and- 
+fall  accidents  were  determined  through  analysis  of  accident  records,  observations  of  maintenance  worker 
+behavior,  and  evaluation  of  mine  machinery.  From  these  data,  relative  risk  ratios  were  calculated. 
+Behavior  had  a  relative  risk  ratio  of  1.5;  machine  design,  specifically  access  systems  design,  had  a  relative 
+risk  ratio  of  2.2.  Of  the  access  systems,  ladders  had  the  highest  relative  risk  ratio,  7.0.  This  study 
+suggests  that  accident  intervention  would  be  most  profitably  made  in  improving  the  design  of  systems 
+used  to  access  maintenance  worker  areas  of  mining  equipment. 
+
+
+'industrial  engineer,  Twin  Cities  Research  Center,  U.S.  Bureau  of  Mines,  Minneapolis,  MN  (now  with  3M  Company,  St.  Paul,  MN). 
+2Mechanical  engineer,  Twin  Cities  Research  Center,  U.S.  Bureau  of  Mines,  Minneapolis,  MN  (now  with  University  of  Nebraska-Lincoln, 
+Lincoln,  NB). 
+
+
+INTRODUCTION 
+
+
+PROBLEM  DESCRIPTION 
+
+Recent  research  conducted  by  the  U.S.  Bureau  of 
+Mines  has  shown  that  accidents  occurring  during  main- 
+tenance of  mining  equipment  constituted  34  pet  of  all 
+surface  mining  accidents  from  1978  to  1984  (i).3  Does  this 
+mean  that  maintenance  is  more  hazardous  than  other  min- 
+ing activity?  During  1986,  the  only  year  for  which  demo- 
+graphic data  regarding  miners  are  available,  there  were  an 
+estimated  27,864  maintenance  workers  in  the  surface 
+mining  industry  (2-3).  Although  these  workers  accounted 
+for  only  6.7  pet  of  all  hours  worked,  they  were  involved  in 
+16.8  pet  of  all  surface  mining  accidents  (4).  Based  on 
+these  estimates,  it  appears  that  maintenance  is  2-1/2  times 
+more  hazardous  than  other  surface  mining  activities. 
+
+Contemporary  mining  equipment  is  quite  large,  and 
+maintenance  workers  must  move  about  on  it  to  perform 
+their  jobs.  A  large  part  of  their  work  is  performed  in  the 
+presence  of  fluids,  fuels,  and  lubricants.  Dusts,  ore 
+particles,  and  other  associated  debris  may  also  degrade 
+surface  footing  properties.  All  of  these  substances  put 
+maintenance  workers  at  risk  for  slips  and  falls.  Bureau 
+research  found  that  slip-and-fall  accidents  constitute 
+approximately  20  pet  of  all  surface  mining  maintenance 
+accidents. 
+
+Slip-and-fall  accidents,  as  a  group,  are  more  severe  than 
+are  other  mining  accidents.  A  standard  definition  of 
+accident  severity,  as  used  by  the  U.S.  Mine  Safety  and 
+Health  Administration  (MSHA),  is  the  sum  of  the  lost 
+workdays  plus  the  statutory  number  of  penalty  days 
+assessed  to  each  accident  plus  one-half  the  restricted  duty 
+workdays.  One  study  found  the  average  accident  severity 
+for  all  surface  mining  accidents  to  be  18.5  days  compared 
+with  33  days  for  slip-and-fall  accidents  (5).  Thus  slips  and 
+falls,  as  20  pet  of  all  maintenance  accidents  with  an 
+average  severity  1.8  times  the  average,  account  for  36  pet 
+of  all  maintenance  accident  severity. 
+
+Slips  and  falls  are  clearly  an  important  safety  problem 
+that  costs  individuals  and  mine  operating  companies 
+dearly.  The  individual  endures  both  the  economic  and 
+physical  costs  of  the  accident,  while  the  operating  company 
+endures  increased  insurance  costs  and  losses  in  produc- 
+tivity. It  has  been  estimated  that  the  average  direct  cost 
+per  case  of  all  surface  mining  accidents  is  $14,000  (<5).  If 
+the  relationship  between  accident  severity  and  accident 
+cost  is  linear,  then  an  average  slip-and-fall  accident  has  an 
+associated  cost  1.8  times  the  overall  average,  or  $25,200. 
+This  estimate  is  based  on  (1)  loss  in  personal  income,  (2) 
+compensation  of  wages,  (3)  death  and  disability  benefits, 
+(4)  medical  costs,  (5)  postaccident  losses  as  a  result  of 
+fatality  or  amputation,  and  (6)  investigation  of  a  fatal 
+accident  (6).  The  estimate  does  not  include  the  costs 
+of  (1)  loss  of  life,  (2)  fines,  (3)  lawsuits,  (4)  loss  of 
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+preceding  the  appendix  at  the  end  of  this  report. 
+
+
+equipment,  (5)  productivity  losses  due  to  workplace  dis- 
+ruption, (6)  productivity  losses  due  to  temporary  or 
+permanent  shutdowns,  (7)  productivity  losses  due  to 
+inexperienced  replacement  workers,  or  (8)  long-term 
+followup  medical  or  rehabilitation  treatment  (6). 
+
+The  expected  loss  to  a  mining  operator  in  a  given  time 
+period  can  be  estimated.  During  the  first  6  months  of 
+1987,  individuals  employed  in  all  sectors  of  surface  mining 
+operations,  including  coal,  metal-nonmetal,  and  sand  and 
+gravel,  with  their  associated  plants  and  mills,  worked  a 
+total  of  398,179,605  h  (7).  During  the  same  time  period, 
+1,163  slip-and-fall  accidents  occurred  in  these  same 
+operations  (7).  The  expected  incidence  rate  of  slip- and- fall 
+accidents  per  any  given  unit  of  time  may  be  obtained  from 
+these  data  by  division.  It  is  the  usual  practice  to  base  the 
+incidence  rate  on  the  number  of  accidents  per  100  work 
+years,  where  a  work  year  is  defined  as  2,000  h  worked  (one 
+full-time  equivalent)  (7).  Using  this  method,  the  expected 
+incidence  rate  of  slip-and-fall  accidents  in  surface  mining 
+is  0.58  incidents  per  year  per  100  full-time  equivalents. 
+(An  alternative  method  for  estimating  incidence  rates  is 
+described  in  reference  8.)  The  minimal  expected  cost  of 
+a  slip-and-fall  accident  per  100  full-time  equivalents  is  the 
+product  of  the  probability  of  a  slip-and-fall  accident  (0.58), 
+times  the  linearly  estimated  cost  of  a  slip-and-fall  accident 
+($25,200),  or  $14,616.  Thus,  each  surface  mining  operation 
+should  expect  to  incur  approximately  $15,000  in  costs  be- 
+cause of  slip-and-fall  accidents  per  100  full-time  employees 
+annually. 
+
+This  $15,000  cost  figure  can  be  used  to  "bench  mark" 
+intervention  efforts  aimed  at  preventing  or  decreasing  the 
+rate  of  slip-and-fall  accidents.  As  an  example,  assume  a 
+mine  with  100  full-time  employees  is  contemplating  spend- 
+ing $20,000  in  permanent  improvements  that  would  de- 
+crease slip-and-fall  accidents  by  50  pet.  This  is  an  initial 
+investment  of  $20,000  and  a  reduced  expected  annual  cost 
+of  $7,500  (15,000  x  0.5).  The  expected  payback  period  is 
+2.67  years,  calculated  by  dividing  $20,000  by  $7,500  per 
+year  (9). 
+
+However,  this  example  assumes  that  the  miner  has 
+some  knowledge  of  the  causes  of  slip-and-fall  accidents 
+prior  to  addressing  them,  knowledge  of  the  effect  on  the 
+slip-and-fall  incidence  rate  of  remediating  them  once  they 
+are  identified,  and  an  idea  of  the  cost  of  implementing  the 
+remediative  measures.  While  the  last  might  be  estimated 
+with  accuracy,  the  first  two  are  less  well  studied  in  surface 
+mining. 
+
+PROBLEM  BACKGROUND 
+
+Remediation  of  the  causes  of  slip-and-fall  accidents  re- 
+quires knowledge  of  the  kinds  of  causes  and  their  nature. 
+In  a  general  discussion  of  accident  safety,  two  diametrically 
+opposed  explanations  of  accident  causation  are  given.  The 
+first  of  these  is  that  "stupid,  careless,  negligent  people  are 
+
+
+the  cause  of  90  pet  of  all  accidents  and  that  the  tools, 
+machinery,  or  processes  should  not  even  be  considered  as 
+being  primary  potential  causes"  (11).  The  other  extreme 
+explanation  blames  poorly  designed  products  as  the  cause 
+of  accidents.  The  belief  is  that  products  should  be  so 
+designed  that,  even  in  the  presence  of  untrained  careless 
+persons,  the  product  will  have  human  fail-safe  procedures 
+features  that  will  provide  protection  for  persons  from  their 
+own  errors  and  negligence  (10).  While  these  two  oppo- 
+sites  are  recognized  as  extremes,  they  serve  a  heuristic 
+purpose:  To  what  extent  are  individual  behavior  and 
+machine  design  involved  as  risk  factors  in  slip-and-fall 
+accidents  in  surface  mining  maintenance? 
+
+A  study  done  by  MSHA  in  1985  analyzing  ladder  falls 
+from  off-road  haul  trucks  stated  that  "safe  ladder  systems 
+are  needed  to  prevent  men  from  falling;  however,  in- 
+sufficient training  and  unsafe  work  practices  appear  to  be 
+major  causes  of  injuries  associated  with  haul  truck  ladder 
+systems"  (11).  It  is  worth  noting  that  the  researchers  were 
+unable  to  classify  65  pet  of  the  accidents  as  to  probable 
+cause.  Unsafe  work  habits  were  defined  in  this  study  as 
+(1)  missing  a  step,  (2)  carrying  articles,  (3)  jumping  from 
+the  ladder,  (4)  catching  clothing  or  ring  on  a  step  or 
+handrail,  (5)  not  using  the  handrail,  (6)  falling  from  a 
+moving  truck  and,  (7)  facing  away  from  the  ladder.  While 
+the  classification  of  some  of  these  behaviors  might  be 
+debated,  the  import  remains,  individuals  engage  in  risky 
+behavior  in  the  job  environment. 
+
+Risk  may  be  defined  logically  as  the  expected  loss  re- 
+sultant from  a  chosen  alternative  behavior  (12),  and  it  may 
+be  further  divided  into  objective  and  subjective  risk  that 
+often  differ  (13).  Objective  risk  is  the  verbally  expressed 
+level  of  risk,  i.e.,  "it  is  unsafe  to  climb  a  ladder  while 
+carrying  an  object  in  my  hands,"  versus  the  subjective  risk 
+assessment,  i.e.,  "I've  carried  this  part  up  this  way  a 
+hundred  times  before  without  any  problem."  Behavior 
+clearly  plays  a  role  in  slip-and-fall  accidents,  and  risk 
+perception  logically  plays  an  important  role  in  behavior. 
+
+Previous  work  by  the  Bureau  on  slip-and-fall  accidents 
+during  maintenance  has  focused  on  the  design  of  access 
+systems  (such  as  ladders,  steps  and  stairs,  and  walkways) 
+for  mining  machines  (14).  Serious  design  problems, 
+particularly  the  height  of  the  first  step  off  the  ground,  were 
+identified  and  remediative  devices  were  developed. 
+
+
+Risk  behaviors  associated  with  slip-and-fall  accidents 
+are,  currently,  not  well  described.  Some  are  well  known, 
+i.e.,  descending  a  ladder  facing  outwards,  but  there  are 
+likely  others  as  yet  unidentified.  In  addition,  the  risk 
+associated  with  these  behaviors  has  not  been  directly 
+assessed.  Similarly,  machine  design  problems  have  typi- 
+cally been  ascribed  to  existing  access  systems,  i.e.,  the 
+height  of  the  first  ladder  step  above  the  ground,  but  it  is 
+not  clear  if  other  design  problems  exist. 
+
+It  is  apparent  that  remediation  of  slip-and-fall  accidents 
+will  be  necessary.  It  is  also  apparent  that  both  behavior, 
+including  risk  perception,  and  machine  design  are  probable 
+causes  of  such  accidents,  but  that  their  relative  importance 
+is  unclear.  It  is  important  to  understand  their  relative 
+causal  roles  in  order  to  develop  effective  remediation 
+strategies  that  will  prevent  or  decrease  slip-and-fall 
+accidents. 
+
+OBJECTIVES 
+
+This  research  is  part  of  the  Bureau's  program  to  en- 
+hance the  health  and  safety  of  mine  maintenance  workers. 
+There  are  two  major  objectives  of  this  study.  The  first  is 
+to  develop  a  description  of  antecedent  events  to  slip-and- 
+fall  accidents  that  occur  during  the  maintenance  of  surface 
+mining  equipment.  The  second  is  to  determine  the  relative 
+roles  of  behavior  and  machine  design  in  slip-and-fall  ac- 
+cident causation.  These  objectives  will  be  accomplished 
+through  analysis  of  accident  record  narratives  and  field 
+data. 
+
+The  description  of  behavior  included  identification  and 
+description  of  specific  risk  behaviors,  estimation  of  the 
+proportion  of  all  behavior  that  the  identified  risk  behaviors 
+constitute,  and  finally,  empirical  estimates  of  risk  resultant 
+to  the  behaviors. 
+
+Machine  design  was  assessed  both  by  compliance  of  ac- 
+cess system  design  with  the  guidelines  for  access  systems 
+of  off-road  equipment  described  in  the  Society  of  Automo- 
+tive Engineers  Standard  SAE  J 185  (15)  and  by  the  evalua- 
+tion of  sufficiency  and  adequacy  of  existing  access  systems 
+as  determined  through  the  analysis  of  accident  records. 
+Empirical  estimates  of  the  relative  risk  of  various  access 
+system  elements  were  developed. 
+
+
+METHOD 
+
+
+ACCIDENT  RECORD  ANALYSIS 
+
+Accident  records,  including  a  short  narrative  description 
+of  the  accident,  were  obtained  from  the  MSHA  data  base 
+through  use  of  the  Bureau's  Accident  Data  Analysis 
+(ADA)  program.  These  accident  records  were  drawn  from 
+the  surface  mining  industry,  which  includes  coal,  metal  and 
+nonmetal,  and  aggregate  mines.  All  slip-and-fall  accidents 
+involving  surface  mine  maintenance  workers  in  the  years 
+1985, 1986,  and  the  first  half  of  1987  were  analyzed.  These 
+
+
+were  the  most  recent  data  available  at  the  time  of  compila- 
+tion. A  total  of  1,381  accident  records  were  obtained. 
+Based  on  1986  estimates  (2-3),  these  records  pertain  to 
+18,362  mines  and  27,864  workers. 
+
+The  accident  narratives  were  typically  not  prepared  by 
+the  injured  individual.  They  were  most  commonly  prepar- 
+ed by  safety  officers,  next  followed  in  frequency  by 
+foremen,  and  finally  by  the  injured  individuals.  Some  addi- 
+tional caveats  regarding  the  narratives  should  be  noted. 
+The  narratives  were  prepared  after  the  fact.  As  such,  their 
+
+
+accuracy  and  validity  may  be  fairly  questioned.  First,  it  is 
+conceivable,  and  even  likely,  that  important  causal  factors 
+have  not  been  included  in  some  of  the  narratives.  Second, 
+the  reliability  of  the  narratives  may  be  questioned.  Given 
+the  free-form  nature  of  the  narrative,  an  individual  might 
+note  and  report  widely  differing  narratives  of  highly  similar 
+events.  This  problem  is  further  complicated  when  many 
+different  individuals  are  reporting  accidents.  Nonetheless, 
+these  records  do  contain  information  that  has  an  important 
+heuristic  value  for  future  research. 
+
+The  narrative  records  were  read  and  classified  by  a 
+single  rater  (Adams)  using  a  prepared  list  of  operationally 
+
+
+defined  event  codes.  This  rater  is  a  graduate  engineer 
+with  approximately  1-year's  experience  in  human  factors. 
+In  order  to  assess  rater  reliability,  100  accident  narratives 
+were  randomly  drawn  and  classified  by  a  second  rater 
+( Albin).  The  codes  for  these  100  records  were  compared 
+with  the  codes  prepared  by  Adams.  A  coefficient  of  agree- 
+ment (7(5)  of  0.93  (p  <  O.'OOl)  was  obtained. 
+
+Event  codes  and  definitions  were  created  for  any  events 
+discovered  in  the  course  of  analysis  that  did  not  fit  events 
+defined  in  the  original  list.  The  final  list  of  events  and 
+their  definitions  are  presented  in  table  1. 
+
+
+Table  1  .-Operational  definitions  for  antecedent  events  to  slip-and-fall  accidents 
+
+Event  Definition 
+
+Ladder  structural  failure Ladcer  component  failed  while  in  use. 
+
+Slipped  on  ladder    Individual  slipped  while  on  ladder. 
+
+Ladder  slipped  or  fell Portable  ladder  slipped  or  fell  while  in  use. 
+
+Handrail  not  used    Individual  did  not  use  handrail  while  climbing  ladder,  stairs,  etc.  although  hands 
+
+were  free. 
+Carrying  object  while  using  ladder  .  .  Individual  carried  object  while  climbing  or  descending  ladder,  so  that  hands 
+
+were  not  free  to  grasp  handrail. 
+
+Handrail  did  not  arrest Handrail  friction  was  insufficient  or  excessive  load  on  hand  gripping  rail. 
+
+Fell  from  ladder Individual  fell  from  ladder. 
+
+Stepped  off  access  system    Individual  slipped  and  fell  while  stepping  from  ladder,  step,  etc.  to  base 
+
+surface. 
+Siipped  on  surface Individual  slipped  on  mud.  ice.  etc.  while  walking  on  parking  lot,  pitfloor,  etc.  (not 
+
+incasing  building  floors). 
+Unmarked  hazard    Unmarked  or  unguarded  hazard,  particularly  holes  in  surface  made  by  missing 
+
+plates  of  deck  grating. 
+
+Tripped  on  uneven  surface Indivic-al  tripped  on  projection  from  surface. 
+
+Tripped  on  grating Individual  tripped  when  cleats  of  work  boots  were  caught  in  grating. 
+
+Siipped  on  debris    Individual  slipped  on  debris,  scrap,  ore.  tools,  etc.  on  surface. 
+
+Siipped  on  spill   Individual  slipped  on  spilled  substance,  such  as  lubricant,  coolant,  water. 
+
+Slipped  on  work  surface    Individual  slipped  on  surface  of  work  area  (including  building  floors). 
+
+Slipped  on  stairs  or  step    Individual  slipped  or  fell  on  stairs  or  step. 
+
+Portable  stairs  moved    Portable  stairs  moved  while  in  use. 
+
+Siipped  off  machine Individual  slipped  or  fell  from  machine  because  of  poor  surface  traction. 
+
+Slipped  on  machine Individual  slipped  while  on  mobile  or  stationary  machine  and  fell  on  machine. 
+
+Slipped  on  machine  access  system   .  Individual  slipped  and  fell  while  stepping  onto  ladder,  step.  etc.  from  base 
+
+surface. 
+
+Slipped  on  catwalk    Individual  slipped  on  walkway  or  catwaJk. 
+
+Slipped  on  deck    Individual  slipped  on  deck  of  mobile  or  stationary  machine. 
+
+No  escape  route    Escape  route  was  not  designed  into  system. 
+
+Jumped Individual  jumped  from  one  location  to  another,  as  in  jumping  between 
+
+machines  or  down  from  machines. 
+Inadequate  workstand    Workstand  did  not  have  sufficient  surface  traction  or  was  lacking  a  necessary 
+
+component,  such  as  a  guardrail. 
+No  guardrail    Individual  fell  off  object,  such  as  workstand  or  platform  because  guardrail  was 
+
+not  in  place. 
+
+Guardrail  structural  failure    Guardrail  failed  because  of  load. 
+
+No  toe  rail   Individual's  foot  slipped  over  edge  or  object,  such  as  tool,  dropped  off  because 
+
+toe  rail  was  not  provided. 
+Structural  failure    Failure  of  structural  member  not  part  of  access  system.   Failure  of  structural 
+
+member  not  designed  for  use  as  access  system  but  being  used  for  such  is 
+
+coded  as  inadequate  workstand. 
+
+Inadequate  access  design    Access  system  not  designed  properly  to  enable  adequate  access  to  machine. 
+
+Unexpected  energy  release    Individual  fell  when  unexpected  energy  was  released,  such  as  wrench  slipping 
+
+or  rope  breaking. 
+Work  boots  not  cleaned Individual  slipped  and  fell  because  of  decreased  traction  due  to  mud,  oil,  etc. 
+
+on  boots. 
+
+Clothes  caught  on  object     Individual  slipped  and  fell  when  clothes  caught  on  object. 
+
+Unknown Not  enough  information  to  classify. 
+
+Access  system  not  used Individual  did  not  use  access  system  although  one  was  available. 
+
+Knee  gave  way    Individual's  knee  buckled  causing  slip  and  fall. 
+
+Falling  or  raising  object Accident  caused  by  falling  object,  or  while  individual  was  raising  object. 
+
+Bumped  head   Accident  caused  by  bump  to  head. 
+
+Carried  object    Individual  was  carrying  object  in  hands  prior  to  accident. 
+
+
+Coce 
+
+10  
+
+11  
+
+12  
+
+13 
+
+14  
+
+15  
+
+16  
+
+17.  33.  41 
+
+20  . 
+
+21  
+
+22  
+
+23 
+
+24  
+
+25  
+
+26 
+
+30.  32    .  . 
+
+31  
+
+40  
+
+42  
+
+43  
+
+44  
+
+45  
+
+46 
+
+47  
+
+50  
+
+51  
+
+52  
+
+53  
+
+54.  64    .  . 
+
+55  
+
+60 
+
+61  
+
+63  
+
+65  
+
+66 
+
+70  
+
+71  
+
+72  
+
+73 
+
+
+ASSESSMENT  OF  WORKER  BEHAVIOR 
+
+The  analysis  of  accident  narrative  reports  described  in 
+the  section  "Accident  Record  Analysis"  was  used  to  de- 
+velop a  list  of  direct  worker  behaviors  that  were  antece- 
+dent to  slip-and-fall  accidents.  These  behaviors  include 
+using  a  ladder  while  carrying  an  object  in  the  hands; 
+jumping  from  a  machine;  not  using  an  access  system  when 
+one  is  available;  and  not  cleaning  oil,  mud,  etc.  off  of  work 
+boots. 
+
+For  the  field  phase  of  the  study,  two  researchers 
+observed  maintenance  work  activity  for  a  combined  80  h 
+of  observation  time.  During  this  time,  four  maintenance 
+workers  were  scheduled  to  be  filmed  while  performing 
+their  normal  duties  for  2  h  each  on  2  separate  days  over  a 
+period  of  4  days.  Filming  was  done  while  maintenance 
+personnel  accessed  front-end  loaders,  bulldozers,  off-road 
+haul  trucks,  road  graders,  power  shovels,  and  various 
+stationary  machines  such  as  crushers,  etc.  In  actuality, 
+much  of  the  maintenance  work  observed  during  these 
+filming  periods  took  place  in  areas  that  were  physically 
+inaccessible  to  the  camera.  Consequently,  only  about  2  h 
+film  was  gathered  on  each  of  the  four  individuals.  One 
+individual  at  a  time  was  filmed,  starting  on  the  second  and 
+sixth  hours  of  each  shift  in  order  to  control  for  time 
+effects.  Both  the  days  when  filming  occurred  and  the 
+order  of  filming  during  the  shift  were  randomly  deter- 
+mined for  each  individual.  While  the  possibility  of  a 
+Hawthorne  effect  exists,  previous  research  has  suggested 
+that  such  behavior  changes  are  transient  and  disappear 
+after  repeated  observations  (17). 
+
+Behavioral  samples  were  obtained  by  viewing  randomly 
+determined  portions  of  1  day's  videotape  of  each  of  the 
+four  maintenance  workers  while  they  serviced  mining 
+equipment.  The  days  used  were  randomly  selected  for 
+each  individual  as  follows.  Each  of  the  four  selected  tapes 
+was  numbered  in  sequence.  The  lengths  of  the  selected 
+videotapes,  as  indicated  by  the  tape  player's  incremental 
+counter,  were  added,  in  order  of  sequence,  to  generate 
+a  total  tape  length.  A  BASICA  program  was  written  to 
+generate  a  list  of  100  random  numbers  ranging  between 
+0  and  1.  Each  of  these  numbers  was  then  multiplied  by 
+the  total  tape  length  to  generate  a  point  at  which  the  ob- 
+servation was  to  occur.  The  tape  was  then  viewed  at  these 
+points.  A  tally  was  made  of  all  instances  where  one  of  the 
+high-risk  behaviors  was  observed. 
+
+During  each  day  that  an  individual  maintenance  worker 
+was  selected  for  filming,  that  individual  was  under  continu- 
+ous observation  by  an  observer.  The  observer  recorded 
+information  on  the  relative  proportions  of  time  that 
+maintenance  workers  spent  in  various  locations,  including 
+various  access  systems.  These  locations  were  (1)  on  a 
+ladder,  (2)  on  the  ground,  (3)  on  stairs,  (4)  stationary  on 
+a  machine,  (5)  on  a  workstand,  (6)  climbing  on  a  machine 
+
+
+where  no  prepared  access  existed,  (7)  on  a  walkway, 
+(8)  operating  a  machine,  and  (9)  miscellaneous. 
+
+These  worker  location  data  were  collected  continuously 
+on  all  four  maintenance  workers  over  the  4-day  period 
+using  a  systematic  random  sampling  procedure  (18)  at 
+10-min  intervals  after  a  randomly  determined  starting 
+point.  These  data  were  recorded  in  a  notebook. 
+
+The  objective  of  this  phase  of  the  study  was  to  estimate 
+two  proportions:  the  proportion  of  high-risk  behaviors  and 
+the  proportion  of  time  spent  in  various  locations.  The 
+estimates  of  these  proportions  were  accomplished  via  a 
+work-sampling  technique  (18).  This  method  may  be  used 
+to  estimate  the  precision  of  the  estimate  of  a  proportion 
+using  equation  1: 
+
+
+N  =  (p'  (1  -  pO^/D2, 
+
+
+(1) 
+
+
+where        N 
+P' 
+
+
+and 
+
+
+D 
+
+
+=  number  of  samples  required, 
+
+=  first-guess  estimate  of  the  proportion,' 
+
+=  z-score  for  any  desired  confidence 
+interval, 
+
+=  desired  precision  of  the  estimate  of  the 
+proportion,  expressed  as  a  decimal  frac- 
+tion and  interpreted  as  the  proportion 
+plus  or  minus  D  pet. 
+
+
+While  z  was  specified  prior  to  the  study  as  1.96,  and 
+time  constraints  suggested  a  maximum  sample  size,  N,  of 
+100,  the  proportion  of  risk  behaviors  was  unknown  at  the 
+beginning  of  the  study,  resulting  in  an  unknown  degree 
+of  precision.  It  was  decided  to  use  a  conservative  pro- 
+cedure (18)  to  estimate  the  precision  for  a  sample  size 
+of  100  observations.  This  procedure  consists  of  setting  p' 
+equal  to  0.5  and  solving  equation  1  for  D.  Using  this  pro- 
+cedure yielded  a  value  of  0.09  for  D.  This  was  considered 
+to  be  an  acceptable  level  of  precision,  particularly  as 
+the  true  proportion  was  considered  likely  to  be  much  less 
+than  0.5,  which  would  result  in  increased  precision  of  the 
+estimate  with  a  sample  size  of  100. 
+
+MINING  MACHINE  ACCESS  SYSTEM  ANALYSIS 
+
+Access  systems  of  mobile  mine  equipment  were 
+evaluated  for  new  (1988)  and  older  (pre- 1988)  machinery. 
+Access  systems  of  the  new  machines  were  evaluated  with 
+the  manufacturers'  permission  and  cooperation  at  the  1988 
+MINEXPO  show  in  Chicago,  IL.  Of  the  new  off-road 
+machines  examined,  three  were  front-end  loaders  and  two 
+were  trucks.  These  machines  are  a  reasonable  representa- 
+tion of  equipment  that  would  be  found  in  a  surface  mine, 
+with  the  notable  exception  of  power  shovels. 
+
+
+Of  the  older  machines  evaluated  at  a  cooperating  min- 
+ing operation,  two  were  front-end  loaders  and  two  were 
+off-road  haul  trucks.  All  machines  were  evaluated  for 
+compliance  with  the  recommended  access  system  design 
+guidelines  published  by  SAE  (15).  Scoring  sheets  were 
+constructed  for  this  evaluation,  which  depicted  different 
+access  system  components  and  the  relevant  dimension  lines 
+of  each.  Each  relevant  dimension  of  the  access  system, 
+e.g.,  ladder  width,  was  given  a  letter  code.  The  evaluator 
+recorded  the  site  of  any  particular  access  system 
+component  on  the  machine,  e.g.,  cab  access,  and  the 
+measurements  appropriate  to  that  particular  access  system 
+element  by  letter  code  on  the  sheet.  A  sample  scoring 
+sheet  is  shown  in  figure  1. 
+
+Dimensions  for  each  access  system  element  were  scored 
+to  indicate  compliance  with  the  SAE  J185  standard.  The 
+SAE  J185  standard  gives  minimum,  maximum,  and  rec- 
+ommended dimensions  for  each  access  system  element. 
+If  the  access  system  of  a  machine  was  within  10  pet, 
+plus  or  minus,  of  the  recommended  dimension,  it  was 
+given  a  score  of  1.  An  access  system  element  whose 
+dimensions  were  between  the  maximum  and  minimum 
+given  in  SAE  J185  but  not  within  a  10-pct  range  of  the 
+recommended  dimension  was  given  a  score  of  2.  An 
+access  system  element  whose  dimensions  were  outside  the 
+maximum  or  minimum  values  was  given  a  score  of  3. 
+Each  access  system  component  was  given  a  composite 
+score,  which  was  the  arithmetic  average  of  its  subelements' 
+scores,  i.e.,  the  score  for  a  ladder  would  be  the  average  of 
+the  score  for  step  width,  handrail  diameter,  etc. 
+
+RESULTS 
+
+A  complete  listing  of  antecedent  events,  their  associated 
+codes,  and  the  frequency  with  which  they  were  noted  in 
+the  accident  records  is  presented  in  table  2.  The  total 
+number  of  events  exceeds  the  number  of  accidents  because 
+some  accidents  had  more  than  one  antecedent  event  noted. 
+
+Direct  Worker  Behavior 
+
+Direct  volitional  behavior  of  the  individual  involved  in  an 
+accident  was  noted  in  8.9  pet  of  all  accident  narratives. 
+These  behaviors  included  descending  a  ladder  facing 
+outward;  carrying  an  object  while  using  a  ladder;  jumping 
+from  a  machine;  not  cleaning  mud,  oil,  etc.  from  work 
+boots;  or  not  using  an  access  system  when  one  is  available. 
+
+Using  the  random  sampling  procedure  described  in  the 
+"Methods"  section,  100  observations  were  made  of  main- 
+tenance workers'  behavior  while  they  were  maintaining 
+mining  equipment.  During  these  observations,  six  in- 
+stances of  direct,  high-risk  behaviors,  such  as  jumping  off 
+the  machine,  were  observed.  Thus,  the  estimate  of  the 
+proportion  of  high-risk  behaviors,  as  calculated  from 
+equation  1,  is  0.06,  plus  or  minus  0.05.  A  summary  of  all 
+behavioral  data  from  both  the  accident  records  and  field 
+observations  is  presented  in  table  3. 
+
+Table  3  indicates  that  an  additional  237  accidents  (17.2 
+pet)  had  a  possible  behavioral  component,  although  the 
+
+
+behavior  was  not  necessarily  that  of  the  injured  individual. 
+These  events  were  unmarked  hazards,  such  as  removed 
+floor  plates,  debris  on  surface,  and  spills  on  surface. 
+
+Table  2.-Listing  of  antecedent  events,  codes,  and 
+frequency  noted  in  accident  narratives 
+
+Event Code        Frequency 
+
+Slipped  on  surface 20  170 
+
+Slipped  off  machine 40  170 
+
+Unknown 65  141 
+
+Slipped  on  spill    25  129 
+
+Stepped  off  machine   41  116 
+
+Tripped  on  uneven  surface 22  104 
+
+Unexpected  energy  release    60  97 
+
+Slipped  on  machine 42  90 
+
+Inadequate  workstand    50  89 
+
+Slipped  on  work  surface 26  82 
+
+Slipped  on  debris 24  73 
+
+Carried  object   73  62 
+
+Slipped  on  step 32  55 
+
+Slipped  on  stairs    30  53 
+
+Jumped 47  51 
+
+Fell  from  ladder 16  50 
+
+Slipped  on  ladder    11  48 
+
+Stepped  off  structure  or  equipment  other 
+
+than  machine    33  39 
+
+Ladder  slipped  or  fell 12  38 
+
+Access  system  not  used 66  38 
+
+Unmarked  hazard 21  35 
+
+Falling  or  raising  object   71  34 
+
+Other  structural  failure   54  32 
+
+Knee  gave  way 70  27 
+
+Work  boots  not  cleaned 61  25 
+
+Stepped  on  machine  access  system  ....  43  22 
+
+Stepped  off  ladder 17  12 
+
+Slipped  on  catwalk 44  12 
+
+Slipped  on  deck 45  9 
+
+No  guardrail 51  9 
+
+Carrying  object  while  using  ladder 14  7 
+
+Tripped  on  grating 23  6 
+
+Portable  stairs  moved 31  6 
+
+Guardrail  structural  failure    52  6 
+
+Clothes  caught  on  object 63  6 
+
+Ladder  structural  failure  10  5 
+
+Inadequate  access  design    55  4 
+
+Bumped  head    72  3 
+
+Handrail  not  used 13  2 
+
+Handrail  did  not  arrest 15  2 
+
+No  escape  route 46  2 
+
+No  toe  rail   53  2 
+
+Total  structural  failure 64  1 
+
+
+Table  3.-Antecedent  events  associated  with  direct 
+and  indirect  worker  behavior 
+
+Event  Code         Frequency 
+
+Direct: 
+
+Jumped 47  51 
+
+Access  system  not  used    66  38 
+
+Work  boots  not  cleaned 61  25 
+
+Carried  object  while  using  ladder 14  7 
+
+Handrail  not  used    13  2 
+
+Total 123 
+
+Indirect: 
+
+Slipped  on  spill 25  129 
+
+Slipped  on  debris    24  73 
+
+Unmarked  hazard    21  _35 
+
+Total 237 
+
+
+Model : 
+
+
+Loc 
+
+
+Loc 
+
+
+Loc 
+
+
+Loc: 
+
+
+Loc 
+
+
+Loc 
+
+
+Loc 
+
+
+A 
+
+A   . 
+
+A 
+
+A 
+
+A 
+
+A 
+
+A 
+
+R 
+
+R 
+
+R 
+
+R 
+
+R 
+
+R 
+
+R 
+
+C. 
+
+r. 
+
+r. 
+
+c 
+
+r. 
+
+C 
+
+C 
+
+n 
+
+n 
+
+n 
+
+D 
+
+n 
+
+0 
+
+0 
+
+F 
+
+v. 
+
+F 
+
+E 
+
+E 
+
+F, 
+
+F 
+
+Figure  1. -Example  of  machine  access  system  scoring  sheet  (Loc  =  location).   (Courtesy  Society  of  Automotive  Engineers  (15)) 
+
+
+Machine  Access  System  Design 
+
+
+Table  4.-Slip-and-fall  accident  location,  proportion  of 
+total  work  time  in  location,  and  relative  risk 
+
+
+The  accident  narratives  indicate  that  access  system 
+elements  (ladders,  steps  and  stairs,  and  walkways)  were  the 
+location  of  291  accidents  (21.1  pet  of  total).  Field  data 
+indicate  that  workers  spend  10.8  pet  of  their  total  work 
+time  on  ladders,  steps  and  stairs,  and  walkways.  A 
+convenient  way  of  evaluating  the  relative  risk  of  access 
+system  elements  is  to  divide  the  percentage  total  of  all 
+accidents  that  occur  on  an  access  system  element  by  the 
+percentage  of  total  work  time  during  which  the  worker  is 
+located  on  that  element.  The  higher  the  obtained  ratio, 
+the  more  hazardous  the  access  system  element.  Such  an 
+analysis  is  presented  in  table  4.  This  table  incorporates  the 
+accident  narrative  data  with  the  data  obtained  in  the  field 
+regarding  the  location  of  the  worker.  Ladders,  with  a  ratio 
+of  6.1,  and  steps  and  stairs,  with  a  ratio  of  2.4,  are  the 
+most  hazardous  of  the  access  system  elements.  The  cate- 
+gories of  surfaces  and  machines  have  been  added  to  this 
+table  for  completeness. 
+
+Measurements  were  taken  on  the  access  systems  of 
+eight  new  machines  at  the  1988  MINEXPO  in  Chicago, 
+IL.  Three  of  these  machines  were  front-end  loaders  and 
+two  were  off-road  haul  trucks.  Similar  measurements  of 
+older  machines  were  taken  at  a  cooperating  mining 
+operation  on  two  front-end  loaders  and  two  off-road  haul 
+trucks.  These  data  are  presented  in  table  5.  There  is  a 
+noticeable  improvement  in  the  design  of  the  newer 
+equipment  access  systems.  The  overall  average  rating  for 
+new  machine  access  systems  was  1.7  as  compared  with  2.0 
+for  older  machines.  Older  truck  ladders  deviate  the  most 
+from  the  SAE  J 185  guidelines  with  an  average  of  2.6. 
+
+
+Workstation  Design 
+
+Maintenance  workers  often  gain  access  to  the  workplace 
+through  the  use  of  workstands  or  other  means  of  access 
+that  are  not  an  integral  part  of  the  mining  equipment. 
+A  common  example  is  a  stepladder.  A  number  of  such 
+accidents  where  the  workstand  design  appeared  to  be  at 
+fault  were  noted  in  the  accident  narratives.  These 
+incidents  were  grouped  with  other  records  where  there 
+were  apparent  design  problems  with  the  workstation. 
+Three  hundred  instances  of  workstation  design  problems 
+were  noted  in  the  accident  narratives.  These  data  are 
+presented  in  table  6. 
+
+
+Location             Frequency 
+
+Pet  total 
+accidents 
+
+Pet  total 
+work  time 
+
+Ratio 
+
+Access  systems: 
+
+Ladders    
+
+Stairs  and  steps 
+Walkways  .... 
+
+Surfaces    
+
+Machines  and  all 
+else    
+
+160 
+
+114 
+
+12 
+
+252 
+
+843 
+
+11.6 
+
+8.3 
+
+.9 
+
+18.2 
+
+61.0 
+
+1.9 
+
+3.5 
+
+5.4 
+
+38.9 
+
+51.0 
+
+6.1 
+
+2.4 
+.17 
+.47 
+
+1.20 
+
+Table  5.-Machine  i 
+
+access  system  ratings 
+
+Machine 
+
+Ladders 
+
+Walkways 
+
+Handrails 
+
+Average 
+
+NEW 
+
+Front-end  loaders: 
+
+A 
+
+B 
+
+C 
+
+2 
+
+2.1 
+
+1.5 
+
+1 
+2 
+1 
+
+1.8 
+2.7 
+1.5 
+
+1.6 
+2.3 
+1.4 
+
+Average    
+
+1.9 
+
+1.3 
+
+2.0 
+
+1.8 
+
+Trucks: 
+
+D 
+
+E   
+
+1.5 
+1.8 
+
+1.3 
+1.5 
+
+1.7 
+1.5 
+
+1.5 
+1.6 
+
+Average    
+
+1.7 
+
+1.4 
+
+1.6 
+
+1.6 
+
+Overall  average 
+
+1.8 
+
+1.4 
+
+1.8 
+
+1.7 
+
+OLDER 
+
+Front-end  loaders: 
+
+F   
+
+G 
+
+1.6 
+1.8 
+
+2 
+2 
+
+NA 
+1.9 
+
+1.8 
+1.9 
+
+Average    
+
+1.7 
+
+2 
+
+1.9 
+
+1.9 
+
+Trucks: 
+
+H 
+
+I 
+
+2.5 
+2.7 
+
+1.7 
+1 
+
+2.7 
+2 
+
+2.3 
+
+1.9 
+
+Average    
+
+2.6 
+
+1.4 
+
+2.4 
+
+2.1 
+
+Overall  average 
+
+2.2 
+
+1.7 
+
+2.2 
+
+2.0 
+
+NA        Not  available. 
+
+Table  6.-Antecedent  events  related  to  workstation  design 
+
+Event Code        Frequency 
+
+Tripped  on  uneven  surface 22  104 
+
+Inadequate  workstand    50  89 
+
+Ladder  slipped  or  fell 12  38 
+
+Other  structural  failure  54  32 
+
+No  guardrail 51  9 
+
+Guardrail  structural  failure    52  6 
+
+Portable  stairs  moved 31  6 
+
+Ladder  structural  failure   10  5 
+
+Inadequate  access  design    55  4 
+
+Handrail  did  not  arrest 15  2 
+
+No  toe  rail   53  2 
+
+Total  structural  failure 64                1 
+
+Total 298 
+
+
+DISCUSSION 
+
+
+This  study  sought  to  identify  antecedent  events  to  slip 
+and  fall  accidents  in  order  to  develop  a  better  under- 
+standing of  the  causation  of  such  accidents.  In  addition,  it 
+sought  to  describe  the  relative  roles  of  worker  behavior 
+and  machine  design  contributory  to  accidents.  It  was 
+further  hypothesized  that  the  perception  of  risk  would 
+
+
+affect  behavior.  Data  were  collected  from  two  different 
+sources:  reports  of  surface  mining  maintenance  accidents 
+and  a  field  study  of  maintenance  workers. 
+
+There  were  three  major  findings  in  this  study.  First, 
+analysis  of  the  accident  narratives  showed  that  286  acci- 
+dents, or  20.7  pet  of  the  total  number  of  accidents  studied, 
+
+
+occurred  on  access  system  elements  such  as  ladders,  stairs 
+and  steps,  and  walkways.  In  contrast,  workers  spent  only 
+10.8  pet  of  their  total  work  time  on  access  system  ele- 
+ments. Second,  a  group  of  direct  worker  behaviors  ante- 
+cedent to  slip-and-fall  accidents  was  identified  in  the 
+accident  narratives.  These  direct  behaviors  were  found  in 
+123  accident  narratives,  or  8.9  pet  of  the  total  number  of 
+accident  reports.  Field  studies  indicated  that  these 
+behaviors  constituted  approximately  6  pet  of  all  worker 
+behaviors,  plus  or  minus  5  pet.  Third,  older  machines 
+were  ranked  lower  than  new  machines  when  measured 
+against  the  SAE  J 185  standards,  with  overall  rankings  of 
+2.0  and  1.7,  respectively.  Ladders  and  handrails  on  older 
+off-road  haul  trucks  were  particularly  problematic. 
+
+Finally,  during  the  80  h  of  observation,  a  single  slipping 
+accident  was  observed.  This  slip  did  not  result  in  an  injury 
+and  occurred  on  a  fixed  ladder.  No  direct  behavior  ante- 
+cedents were  observed  prior  to  this  incident. 
+
+RELATIVE  HAZARD  OF  DIRECT  WORKER 
+
+BEHAVIOR  AND  MACHINE  ACCESS 
+
+SYSTEM  DESIGN 
+
+In  order  to  discuss  the  relative  roles  of  direct  worker 
+behavior  and  machine  design  in  the  causation  of  main- 
+tenance slip-and-fall  accidents,  a  mutual  basis  of  com- 
+parison between  these  two  classes  of  antecedent  events 
+must  be  established.  The  method  used  in  this  report  is  to 
+calculate  relative  risk  ratios.  Relative  risk  ratios  compare 
+the  rates  of  occurrence  of  an  accident  in  one  location  or 
+category  with  the  rate  of  occurrence  of  similar  accidents 
+elsewhere.  A  relative  risk  ratio  greater  than  1  indicates  a 
+higher  degree  of  risk  associated  with  that  given  category. 
+The  general  formula  for  relative  risk  ratios  is  given  in 
+equation  2  (19). 
+
+
+RR  = 
+
+
+(AcC/hC) 
+
+
+(TAc  -  AcC)/Th  -  hC) 
+
+
+(2) 
+
+
+where       RR  =  relative  risk, 
+
+AcC  =  accidents  associated  with  category, 
+
+hC  =  hours  worked  in  category, 
+
+TAc  =  total  number  of  accidents, 
+
+and  Th  =  total  hours  worked. 
+
+(The  term  "category,"  as  used  in  this  equation,  refers  to 
+location  or  the  type  of  behavior  associated  with  the  acci- 
+dent and  hours  worked  terms.)  Conceptually,  there  is  no 
+difference  between  the  proportion  of  hours  worked  and 
+the  number  of  hours  worked.  The  field  estimates  of  the 
+proportion  of  work  time  spent  in  various  locations  or 
+behaviors  was  substituted  for  the  number  of  work  hours; 
+the  total  work  hours  is  then  equal  to  unity. 
+
+
+The  first  comparison  made  was  between  direct  behavior 
+and  use  of  access  system  elements.  Direct  behavior  has  a 
+relative  risk  ratio  of  1.5,  while  access  systems  have  a  rela- 
+tive risk  ratio  of  2.2.  These  ratios  are  presented  in  ta- 
+ble 7;  the  calculation  of  all  relative  risk  ratios  is  included 
+in  appendix  A.  Access  systems  are  relatively  more  hazard- 
+ous than  direct  behavior.  This  effect  is  maintained  when 
+the  overlap  cases  are  eliminated  from  the  calculation  of 
+the  relative  risk  ratios.  Based  on  the  accident  narratives, 
+there  is  an  overlap  of  18  cases  between  the  2  sets  of  ante- 
+cedent events:  direct  behavior  and  access  system  elements. 
+If  these  cases  are  eliminated,  the  relative  risk  ratios  for  be- 
+havior and  access  systems  are  1.3  and  2.0,  respectively. 
+
+Table  7.-Relative  risk  ratios  for  direct  worker 
+behavior  and  access  system  elements 
+
+Category  Risk  ratio 
+
+Direct  behavior 1.5 
+
+Access  systems 2.2 
+
+Direct  behavior1   1.3 
+
+Access  systems1    2.0 
+
+Individual  access  system  elements: 
+
+Ladders    6.8 
+
+Stairs  and  steps    2.5 
+
+Walkways .2 
+
+'Overlap  cases  eliminated. 
+
+The  preliminary  ratios  in  table  4  suggest  that  some  ac- 
+cess elements,  particularly  ladders,  are  more  hazardous 
+than  others.  Accordingly,  relative  risk  ratios  were  cal- 
+culated for  individual  access  system  elements.  These  ratios 
+are  also  presented  in  table  7.  Ladders  have  a  very  high 
+relative  risk  ratio  of  6.8,  stairs  and  steps  have  a  high  ratio 
+of  2.5,  and  walkways  have  a  very  low  ratio  of  0.2.  The 
+relative  risk  ratios  confirm  the  preliminary  estimates  of 
+the  relative  hazards  of  access  system  elements  made  in 
+table  4. 
+
+The  greatest  hazard  antecedent  to  slip-and-fall  accidents 
+is  apparently  the  access  systems,  particularly  ladders. 
+Reference  to  table  5  shows  that,  although  improvement 
+has  been  noted,  ladders  are  tied  for  the  worst  overall 
+ranking  in  terms  of  compliance  with  SAE  J185  off-road 
+access  system  standards.  Commonly  noted  ladder  defici- 
+encies were  the  height  of  the  first  step  above  the  ground 
+and  unequal  spacing  of  ladder  rungs. 
+
+RISK  PERCEPTION 
+
+The  concept  of  subjective  risk  was  introduced  earlier  in 
+this  report.  Subjective  risk  is  defined  as  the  individual's 
+experience  of  the  hazard  level  associated  with  some  behav- 
+ior. The  field  data  gathered  on  worker  behavior  give  some 
+understanding  of  the  subjective  experience  of  risk  asso- 
+ciated with  behavior.  During  the  maintenance  of  the  min- 
+ing equipment,  six  high-risk  behaviors  were  observed  dur- 
+ing a  105-min  observation  period.  The  individuals  were 
+engaging  in  identified  risk  behaviors  at  a  rate  of  one 
+behavior  every  17.5  min.  None  of  these  behaviors  resulted 
+in  an  accident. 
+
+
+10 
+
+
+During  the  collection  of  field  data,  one  slipping  incident 
+was  observed  in  approximately  80  h.  This  incident  did  not 
+result  in  an  injury. 
+
+Earlier,  the  incidence  rate  of  slip-and-fall  accidents  was 
+estimated  as  0.58  per  100  work  years  for  all  surface  mine 
+workers.  Using  the  same  method,  the  incidence  rate  of 
+slip-and-fall  accidents  for  maintenance  workers  is  esti- 
+mated as  1.98  per  100  work  years. 
+
+An  individual  worker's  subjective  risk  experience  with 
+regard  to  hazardous  behaviors  would  be  this:  A  minor, 
+non-injurious  slip  might  be  expected,  on  average,  after 
+enough  time  had  elapsed  for  the  occurrence  of  274  haz- 
+ardous, or  risk  associated  behaviors.  An  accident  has  a 
+probability  of  occurrence  of  0.019  per  work  year.  Thus, 
+using  a  binomial  estimate,  there  is  about  an  even  chance 
+
+
+(p  =  0.46)  that  a  worker  could  work  40  years  without  ex- 
+periencing a  slip-and-fall  accident.  (The  calculations  for 
+this  probability  are  shown  in  appendix  B.)  It  should  now 
+be  apparent  that  the  subjective  level  of  risk  of  engaging  in 
+risk  behavior  is,  justifiably,  quite  low. 
+
+Similar  arguments  can  be  made  for  estimation  of  the 
+subjective  appreciation  of  the  risk  of  using  access  systems. 
+The  estimated  incidence  rate  of  slip-and-fall  accidents 
+while  using  access  systems  is  0.46  per  100  work  years. 
+(Calculations  are  shown  in  appendix  B.)  If  this  rate  is 
+converted  to  an  annual  binomial  probability  of  injury  while 
+using  an  access  system  of  0.004,  the  probability  of  working 
+for  40  years  without  experiencing  a  slip-and-fall  injury 
+while  using  an  access  system  is  0.84. 
+
+
+SUMMARY  AND  CONCLUSIONS 
+
+
+The  Bureau  studied  slip-and-fall  accidents  that  occurred 
+during  surface  mining  maintenance.  A  list  of  antecedent 
+events  to  slip-and-fall  accidents  was  generated  from  analy- 
+sis of  slip-and-fall  accident  narratives. 
+
+Two  main  variables  were  studied  as  they  related  to  slip- 
+and-fall  accidents  during  surface  mining  maintenance. 
+These  variables  are  the  direct  behavior  of  the  individuals 
+involved  in  the  accident  and  the  design  of  the  access 
+systems.  The  use  of  access  systems  was  found  to  have  a 
+higher  relative  risk  ratio  than  the  direct,  hazardous 
+behaviors  identified  from  the  analysis  of  the  narratives. 
+Ladders  were  identified  as  the  most  hazardous  of  access 
+systems.  Improvement  in  the  compliance  of  new  equip- 
+ment access  systems  with  SAE  J 185  guidelines  was  noted, 
+but  the  access  systems  of  older  equipment,  particularly 
+off-road  haul  truck  ladders,  are  still  problematic. 
+Subjective  risk  values  were  estimated  for  maintenance 
+workers;  the  obtained  values  were  quite  low,  suggesting 
+that  individuals  will  routinely  engage  in  risk  behavior 
+without  significant  expectation  of  injury. 
+
+
+While  the  probability  of  a  slip-and-fall  injury  is  small 
+for  any  individual  maintenance  worker,  it  is  cumulative  for 
+a  group.  The  probability  of  a  maintenance  worker  sustain- 
+ing a  slip-and-fall  injury  in  a  company  with  five  mainten- 
+ance workers  is  0.095  during  any  year.  Thus,  it  is  probably 
+more  reasonable  for  a  company  to  be  more  sensitive  to 
+accident  risk  than  an  individual  because  the  expectation  of 
+loss  is  greater. 
+
+Given  that  a  company  is  more  likely  to  be  sensitive  to 
+the  risk  of  slip-and-fall  accidents,  what  strategies  should  be 
+taken  to  improve  slip-and-fall  safety?  The  first  priority, 
+based  on  the  findings  of  this  study,  would  be  to  improve 
+the  quality  of  access  system  elements,  particularly  ladders. 
+A  reasonable  approach  might  be  to  bring  them  into  com- 
+pliance with  the  SAE  J185  guidelines.  The  second  priority 
+would  be  to  make  an  effort  to  change  the  subjective  risk 
+perception  of  the  maintenance  workers.  Training  pro- 
+grams have  been  described  (20)  that  effectively  teach 
+workers  to  recognize  hazards  and  to  change  their  behavior 
+accordingly. 
+
+
+REFERENCES 
+
+
+1.  Long,  D.  A.  An  Analysis  of  Off-Highway  Haulage  Truck  Main- 
+tenance and  Repair  Accidents,  1978-84.   BuMines  IC  9139,  1987,  15  pp. 
+
+2.  Butani,  S.  J.,  and  A.  M.  Bartholomew.  Characterization  of  the 
+1986  Coal  Mining  Workforce.    BuMines  IC  9192,  1988,  76  pp. 
+
+3.  .      Characterization   of  the    1986   Metal   and   Nonmetal 
+
+Workforce.    BuMines  IC  9193,  1988,  69  pp. 
+
+4.  U.S.  Department  of  Labor.  Mine  Injuries  and  Worktime, 
+Quarterly.    Closeout  Ed.,  1986,  31  pp. 
+
+5.  Albin,  T.  J.  Bureau  Research  in  Human  Factors  Applied  to 
+Recent  Accident  Experience  in  the  North-Central  Region.  Pres.  at 
+MSHA-IL  Dep.  Mines  &  Miner.-IL  Assoc.  Aggregate  Prod.  Saf.  Conf., 
+Feb.  24,  1988,  6  pp.;  available  from  T.  J.  Smith,  Twin  Cities  Res.  Cent., 
+BuMines,  Minneapolis,  MN. 
+
+6.  Chi,  D.  N.  H.,  and  B.  J.  Hamilton.  Trends  in  Mining  Accidents 
+and  Their  Costs  (1975-1984).  Pres.  at  19th  Int.  Symp.  on  Appl.  of 
+Comput.  Methods  in  Miner.  Ind.,  University  Park,  PA,  Apr.  14-18, 1986, 
+14  pp.;  available  from  Librarian,  Twin  Cities  Res.  Cent.,  BuMines, 
+Minneapolis,  MN. 
+
+
+7.  U.S.  Department  of  Labor.  Mine  Injuries  and  Worktime,  Quar- 
+terly.  Jan.-June  1987,  33  pp. 
+
+8.  Kogut,  J.  An  Empirical  Bayes  Methodology  for  Accident  Risk 
+Estimation  and  Incidence  Rate  Comparison.  MSHA,  Health  and  Saf. 
+Anal.  Cent.,  Denver,  CO,  1982,  93  pp. 
+
+9.  Lutz,  R  P.  Discounted  Cash  Flow  Techniques.  Ch.  in  Hand- 
+book of  Industrial  Engineering,  ed.  by  G.  Salvendy.  Wiley,  1984, 
+pp.  9.3.1-9.3.17. 
+
+10.  Miller,  J.  M.  The  Management  of  Occupational  Safety.  Ch.  in 
+Handbook  of  Industrial  Engineering,  ed.  by  G.  Salvendy.  Wiley,  1984, 
+pp.  6.14.1-6.14.18. 
+
+11.  Quisenberry,  S.  Injuries  Associated  With  Truck  Ladders.  MSHA 
+Health  and  Saf.  Anal.  Cent.,  Denver,  CO,  1982,  36  pp. 
+
+12.  Oppe,  S.  The  Concept  of  Risk:  A  Decision  Theoretic  Approach. 
+Ergonomics,  v.  31,  1988,  pp.  435^40. 
+
+13.  Howarth,  C.  I.  The  Relationship  Between  Objective  Risk,  Subjec- 
+tive Risk,  and  Behavior.    Ergonomics,  v.  31,  1988,  pp.  527-535. 
+
+
+11 
+
+
+14.  Long,  D.  A.  Improved  Personnel  Access  for  Surface  Mining 
+Equipment.    BuMines  IC  8983,  1984,  20  pp. 
+
+15.  Society  of  Automotive  Engineers.  Access  Systems  for  Off-Road 
+Machines.  SAE  J185  (Aug85)  in  On-Highway  Vehicles  and  Off- 
+Highway  Machinery.    SAE  Handbook,  v.  4,  1987,  pp.  40.309^0.314. 
+
+16.  Cohen,  J.  A  Coefficient  of  Agreement  for  Nominal  Scales.  Educ. 
+and  Psychol.  Meas.,  v.  20,  No.  1,  1960,  pp.  37^6. 
+
+17.  Ramsey,  J.  D.,  C.  L.  Burford,  and  M.  Y.  Berhir.  Systematic 
+Classification  of  Unsafe  Worker  Behavior.  Int.  J.  Ind.  Ergonomics,  v.  1, 
+1986,  pp.  21-28. 
+
+
+18.  Richardson,  W.  J.,  and  E.  S.  Pape.  Work  Sampling.  Ch  in  Hand- 
+book of  Industrial  Engineering,  ed.  by  G.  Salvendy.  Wiley,  1984, 
+pp.  4.6.1^.6.21. 
+
+19.  Silverstein,  B.  A.  Patterns  of  Cumulative  Trauma  Disorders  in 
+Industry.  Eng.  Summer  Conf.  in  Occup.  Ergonomics,  Univ.  MI,  Ann 
+Arbor,  MI,  1987,  10  pp. 
+
+20.  Hopkins,  B.  L.,  R  J.  Conard,  and  M.  J.  Smith.  Effective  and 
+Reliable  Behavioral  Control  Technology.  Am.  Ind.  Hyg.  Assoc.  J.,  v.  47, 
+No.  12,  1986,  pp.  785-791. 
+
+
+12 
+
+
+APPENDIX  A.-SAMPLE  CALCULATIONS  OF  RELATIVE  RISK  RATIOS 
+
+Direct  Behavior 
+
+(123/0.06) 
+
+
+2,050 
+1,338 
+
+
+=    1.5 
+
+
+=    2.2 
+
+
+(1,381  -  123)/(1  -  0.06) 
+
+Access  Systems 
+
+(286/0.108) 2,648 
+
+(1,381  -  286)/(1.0  -  0.108)     ™    1,228 
+
+Direct  Behavior  Accidents  With  Overlap  Removed 
+
+(105/0.06)  1,750 
+
+(1,381  -  105)/(1  -  0.06)     :      1,357 
+
+Access  System  Accidents  With  Overlap  Removed 
+
+(268/0.108)  2,481 
+
+
+(1,381  -  268)/(1.0  -  0.108)        1,248 
+
+
+=    2.0 
+
+
+Individual  Access  System  Elements 
+Ladders: 
+
+
+(160/0.019) 
+
+
+(1,381  -  160)/(1.0  -  0.019) 
+
+Stairs  and  Steps: 
+
+(114/0.035) 
+
+(1,381  -  114)/(1.0  -  0.035) 
+
+Walkways: 
+
+(12/0.054) 
+
+
+8,421 
+1,245 
+
+
+3,257 
+1,313 
+
+
+222 
+
+
+=    6.8 
+
+
+=   2.5 
+
+
+(1,381  -  12)/(1.0  -  0.054)  1,447 
+
+
+=    0.2 
+
+
+13 
+
+APPENDIX  B.-CALCULATION  OF  PROBABILITY  OF  SLIP-AND-FALL  ACCIDENT 
+HAPPENING  TO  INDIVIDUAL  DURING  40-YEAR  PERIOD 
+
+The  probability  that  an  individual  will  experience  a  slip-  n  years  without  a  slip-and-fall  accident  is  0.981  raised  to 
+
+and-fall  accident  during  any  year  is  0.019.  Thus,  the  prob-  the  nth  power.   The  probability  of  working  40  years  with- 
+
+ability  that  a  slip-and-fall  accident  will  not  happen  is  out  a  slip-and-fall  accident  is  thus  0.981  raised  to  the 
+
+1  -  0.019  =  0.981.    Each  year  is  assumed  to  be  indepen-  40th  power,  or  0.46. 
+dent  of  every  other  year.     The  probability  of  working 
+
+
+INT.BU.OF  MINES,PGH.,PA  29137 
+
+
+"0 
+
+m 
+
+
+F  Q 
+
+
+o 
+
+> 
+
+
+o 
+
+35 
+
+"0 
+
+2  c 
+
+
+°»  o 
+
+IT 
+
+°  2 
+
+
+03  C 
+
+
+m 
+
+c 
+
+m  CO 
+I     CO 
+
+
+o 
+
+
+CO 
+
+z 
+m 
+
+
+O  "O 
+
+
+O 
+IO 
+^  CO 
+
+■*  * 
+
+to 
+
+CO 
+
+o 
+
+o 
+
+
+3" 
+<D 
+
+
+> 
+
+z 
+m 
+D 
+
+c 
+> 
+
+o 
+
+"D 
+"D 
+O 
+33 
+
+
+3 
+
+m 
+
+
+O 
+
+-< 
+m 
+
+
+413-90 
+
+
+.0        0'"°' 
+
+
+**      *™n.'     ,«? 
+
+
+V 
+
+
+> 
+
+
+i"^    1 0  "  • 
+-^  0 
+
+*♦  /Jfe'v  \/  ;i8&0fc  %/  : 
+
+
+a5°^ 
+
+
+J        *o  •  »  - 
+
+o 
+
+
+'bV' 
+
+
+-X  .^aat-X  ,/,-aiX  .to\/ifc\/^>./ 
+
+
+^^ 
+
+
+-^0^ 
+
+
+*     sr  ~*t>    ' ' ' '      ^v 
+
+
+<>^ 
+
+
+^0^ 
+
+
+roV 
+
+
+>°^ 
+
+
+^.^  .•afe-r  *\/  ^Mm*  \<?  -*^fev  ^^ 
+
+
+^*^^y    cb,;^^-v 
+
+
+sr"V 
+5^, 
+
+
+0      ^^ 
+
+
+•     ^^ 
+
+
+♦*  -^5it\    Aiife:  °^    /V^iX    £*m&kS  yV^k.%  «( 
+
+
+H°* 
+
+
+o^txt.- o>     v*^-'^ 
+
+
+o      *..«•     a- 
+
+
+%.** 
+
+
+\5,      'o  .  »  *       A 
+
+.0 
+
+
+%^  ,0*  ♦•'■J,!*    *o,  a>V    •^L#%"^  ,0*  ,••£!«    V  a>V    .«Lr%^  ,0*  t.^.    * 
+
+
+'bV* 
+
+
+«5°^ 
+
+
+i0^ 
+
+
+£0* 
+
+
+♦2* 
+
+
+*o  «,    t 
+
+
+•  A>^ 
+
+
+a;«ts       »' 
+*     ^     * 
+
+.0  ^    *.,*•      at 
+
+
+^4^  0«^8S»-        ^A< 
+
+
+1**0 
+
+
+^  ^ 
+
+
+4<J      «*^SSSlrCi>   %„        c     * 
+
+
+<>    *'TT 
+
+
+^^  NOV  90       <*"   :%. 
+
+
+1H1=J^      N.  MANCHESTER.     I  JV  0 
+
+I    ^k$^>        INDIANA  46962      I       A         ( 
+
+^— — ^  V 
+
+Am 
+
+
+^\/    %-tSs-^    v^>    %^s^*^    \*^^V    f 
+
+
+V*"  •• 
+
+
+^       A> 
+-'     aO^  ^ 
+
+" - ■ .iii..imJj 
+
+

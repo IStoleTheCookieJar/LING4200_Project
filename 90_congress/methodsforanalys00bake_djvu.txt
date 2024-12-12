@@ -1,0 +1,2917 @@
+*^       .  v  « 
+
+
+.-io,*. 
+
+
+•  •  •      "%;>  V     » '  *  ° 
+
+
+•      %    ^^      »'^ 
+
+
+'^ov*^   :]S1^'<  "'-^.-o^'  :«aia':    '^ov*^  :£lli^.\  '^^c<^ 
+
+
+jPv-., 
+
+
+vf'3 
+
+
+,0"  • 
+
+
+\"!^-,/    ^.•^■^^^o^     *o,'^^\/    %. 
+
+*..*'  .•ANM".  %„/  .*aife*-.  **..**  .-^siic;^"-  \..^' 
+
+
+v^\^..X   J>y 
+
+
+r»' 
+
+
+?''\.. 
+
+
+-  ^^  V'^^*'^°'^  V*^'^**^/^        %'*^^''^0'5'      "^"H^'*^^**/  ^o^ 
+
+
+0^  ^^^     '. 
+
+
+<>v 
+
+
+^'  --^..^^^  ^' 
+
+
+>*  .^^ 
+
+
+•^0 
+
+
+,*1°^ 
+
+
+"^oV^ 
+
+
+.*lo^ 
+
+
+oV 
+
+
+rl°^ 
+
+
+^^•n^. 
+
+
+s*^^  /^^;r.  ^^^.  .  c°*  .**ii^^.  '°o    .^■^■*;.^^I^  "•$..    c^^^  .c:;;^.  "^^o    .-^^  .^  -  -  -  -  ^^ 
+
+
+i» »       aV"^        -> ' 
+
+
+'^6* 
+
+
+^•1°^ 
+
+
+•  . o -        .0  "^         *  »  »  1  •        . A^ 
+
+
+.-lo*. 
+
+
+l\^^o^'^' 
+
+
+•        *r>     4  *■ 
+
+
+*       «^^'\, 
+
+
+\r^  I    no>in    IIIIIIH^^^^^  BUREAU  OF  MINES  ^^ 
+
+lU       9240    IIH^  INFORMATION  CIRCULAR/1990 
+
+
+i     {^/lAR  -•  8  199(J     I 
+
+
+Methods  for  the  Analysis  of  Mineral 
+Chromites  and  Ferrochrome  Slag 
+
+
+By  D.  A.  Baker  and  J.  W.  Siple 
+
+
+BUREAU  OF  MINES 
+1910-1990 
+
+JHE  MINERALS  SOURCE 
+
+
+'U   OF 
+
+
+Mission:  Asthe  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  useof  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9240 
+
+
+Methods  for  the  Analysis  of  Mineral 
+Chromites  and  Ferrochrome  Slag 
+
+By  D.  A.  Baker  and  J.  W.  Siple 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Baker,  D.  A.  (Delbert  A.) 
+
+Methods  for  the  analysis  of  mineral  chromites  and  ferrochrome  slag  /  by  D.  A. 
+Baker  and  J.  W.  Siple. 
+
+p.    cm.  -  (Information  circular  /  Bureau  of  Mines;  9240) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28.27:9240. 
+
+1.  Chromium  ores-Analysis.    I.  Siple,  J.  W.    II.  Title.    III.  Series:  Information 
+circular  (United.  Bureau  of  Mines);  9240 
+
+~-4:N295.U4     [TN490.C4]      622  s-dc20  [553.4'643'0287]      89-600322 
+
+CIP 
+
+
+I 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Total  chromium  in  mineral  chromite  and  ferrochrome  slags 2 
+
+Acid-soluble  or  "metallic"  chromium  in  ferrochrome  slags    4 
+
+Total  iron  in  mineral  chromite  and  ferrochrome  slags    6 
+
+Ferrous  iron  in  miner2d  chromite  and  ferrochrome  slags    8 
+
+MetaUic  iron  in  ferrochrome  slags 9 
+
+Aluminum  and  magnesium  in  mineral  chromite  and  ferrochrome  slags 10 
+
+Calcium  in  mineral  chromite  and  ferrochrome  slags 11 
+
+Gravimetric  sihca  in  mineral  chromite  and  ferrochrome  slags 12 
+
+Manganese  in  mineral  chromite,  ferrochrome  slags,  zmd  ferrochrome 14 
+
+Acid  digestion  of  ferrochrome  metal 17 
+
+Method  A   17 
+
+Method  B    17 
+
+Discussion   18 
+
+References 18 
+
+Appendix  A.-Reagent  preparation    19 
+
+Appendix  B— Use  of  zirconium  crucibles 21 
+
+Appendix  C.-Notes  on  sample  preparation   22 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+°c 
+
+degree  Celsius 
+
+mL 
+
+milliliter 
+
+g 
+
+gram 
+
+N 
+
+normal  concentration. 
+
+h 
+
+hour 
+
+nm 
+
+nanometer 
+
+L 
+
+liter 
+
+pet 
+
+percent 
+
+meq  wt 
+
+milliequivalent  weight 
+
+ppm 
+
+part  per  million 
+
+mg 
+
+milligram 
+
+s 
+
+second 
+
+min 
+
+minute 
+
+METHODS  FOR  THE  ANALYSIS  OF  MINERAL 
+CHROMITES  AND  FERROCHROME  SLAG 
+
+
+By  D.  A.  Baker^  and  J.  W.  Siple^ 
+
+
+ABSTRACT 
+
+This  report  describes  the  elemental  characterization  of  chromite  and  related  materials  at  the  Bureau 
+of  Mines,  Albany  Research  Center.  Analytical  methods  for  determining  the  major  constituents, 
+representing  extensive  experience,  refinement,  and  development,  are  described  and  fully  annotated.  This 
+presentation  should  allow  other  laboratories  to  use  these  methods  and  obtain  comparable  results  with 
+a  minimum  of  time  needed  for  famiUarization  with  individual  methods. 
+
+
+^Chemist. 
+
+Albany  Research  Center,  Bureau  of  Mines,  Albany,  OR. 
+
+
+INTRODUCTION 
+
+
+A  goal  of  the  Bureau  of  Mines  is  the  maintenance  of  an 
+adequate  supply  of  critical  minerals  and  metals  to  meet 
+national  economic  and  strategic  needs.  As  part  of  this 
+effort,  the  Bureau's  Albany  Research  Center  has  con- 
+ducted research  related  to  chromium  ores  and  production. 
+In  providing  analytical  support,  the  Center  has  analyzed 
+many  samples  of  chromium  materials  and  has  acquired 
+considerable  experience  in  the  requisite  techniques. 
+
+Chromium  is  on  the  critical  materials  hst  because  it  is 
+widely  used  in  strengthening  and  enhancing  the  corrosion 
+resistance  of  ferrous  alloys  and  there  is  a  lack  of  adequate 
+domestic  resources.  In  general,  the  United  States  has 
+relied  on  imports  to  supply  91  pet  of  its  chromium  needs, 
+depending  on  secondary  recovery  to  supply  the  remaining 
+9  pet  (ly 
+
+Research  projects  at  the  Albany  Research  Center  have 
+ranged  from  the  location  and  characterization  of  domestic 
+sources  of  chromite  ore,  through  smelting  ferrochrome 
+ingot  operations,  to  the  recovery  of  chromium  and 
+chromium-bearing  minerals  from  various  industrial  wastes. 
+Reports  published  include  Bureau  of  Mines  Information 
+Circular  8916,  entitled  "Podiform  Chromite  Occurrences 
+in  the  Caribou  Mountain  and  Lower  Kanuti  River  Areas, 
+Central  Alaska.  Part  II:  Beneficiation"  (2)  and  Bureau  of 
+Mines  Report  of  Investigations  8676,  entitled  "Chromium 
+Recovery  From  Nickel-Cobalt  Laterite  and  Laterite  Leach 
+Residues"  (3). 
+
+In  support  of  these  and  other  research  projects,  this 
+Center  has  analyzed  a  large  number  of  samples  of 
+chromite  ore,  ferrochrome,  ferrochrome  slag,  and  solids 
+and  solutions  from  chromium  recovery  investigations.  The 
+
+
+large  number  of  samples  processed  has  promoted  refine- 
+ment of  the  analytical  methods  used,  so  that  reliability  of 
+the  results  is  not  sacrificed  in  order  to  return  the  data  in 
+a  timely  manner.  The  results  of  this  refinement  are 
+presented  in  this  publication. 
+
+The  purpose  of  this  report  is  to  present  the  techniques 
+used  at  the  Albany  Research  Center  for  the  analysis  of 
+chromite  minerals  and  ferrochrome-related  samples. 
+The  methods  given  in  this  report  are  based  on  standard 
+techniques  {4-13).  The  presentation  is  concise  and  offers 
+supplementary  information  to  aid  the  understanding  of  less 
+experienced  analysts  and  technicians.  Toward  this  goal, 
+the  format  for  the  presentation  of  each  method  includes: 
+
+1.  A  short  introductory  note  on  each  method. 
+
+2.  Lists  of  equipment  and  materials. 
+
+3.  A  step-by-step  listing  of  the  procedure. 
+
+4.  Procedure  notes  that  provide  information  pertaining 
+to  the  reasons  for  a  step  in  the  method  or  supplementary 
+instructions  referring  to  indications  of  success,  malfunction, 
+or  optional  actions  that  may  be  taken. 
+
+The  preparation  of  reagent  solutions  is  presented  in 
+appendix  A.  Appendixes  B  and  C  present  some  notes  on 
+the  use  of  zirconium  crucibles  and  on  sample  preparation. 
+
+This  format  should  allow  the  experienced  analyst  to 
+take  this  report  into  the  laboratory  and  produce  results 
+that  are  comparable  and  compatible  with  results  obtained 
+at  this  Center,  with  a  minimum  of  delay  for  familiarization 
+with  the  techniques,  and  this  format  should  accelerate  the 
+understanding  of  the  less  experienced  analyst. 
+
+
+TOTAL  CHROMIUM  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+The  total  chromium  content  in  mineral  chromite  and 
+ferrochrome  slags  can  range  from  a  fraction  of  a  percent 
+in  the  slags  to  greater  than  30  pet  in  the  ore  concentrates. 
+Because  of  this  variation  and  because  of  the  difficulty  in 
+dissolving  chromite-containing  samples,  the  method  of 
+choice    at    this    Center    has   been    fusion   with   sodium 
+
+
+peroxide,  followed  by  persulfate  oxidation  and  titration 
+with  ferrous  iron. 
+
+The  wet  method  is  sufficiently  accurate  and  reproduc- 
+ible for  high-quality  results  on  a  routine  basis.  The  sam- 
+ples may  be  determined  very  rapidly  without  a  sacrifice  in 
+quality.  Batches  of  20  determinations  have  been  com- 
+pleted in  6  h  by  one  analyst  without  assistance. 
+
+
+Equipment 
+
+Zirconium    crucible    (approximately   30-mL    capacity 
+seems  most  convenient). 
+
+Meker  or  similar  gas-air  mix  burner. 
+
+400-mL  beaker  and  cover. 
+
+Glass  stirring  rod. 
+
+Hotplate. 
+
+Rubber  policeman. 
+
+Burette. 
+
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  Hst  of  references 
+preceding  the  appendixes  at  the  end  of  this  ref)ort. 
+
+
+Materials 
+
+Sodium  peroxide,  reagent  grade,  granular,  20  mesh  or 
+finer. 
+
+Sulfuric  acid,  reagent  grade,  diluted  1:1  with  distilled 
+water. 
+
+Saturated  manganese  solution. 
+
+Silver  nitrate,  reagent  grade,  2.5-pct  solution. 
+
+Ammonium  persulfate,  reagent  grade,  crystal. 
+
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+
+Phosphoric  acid,  reagent  grade,  concentrated. 
+
+Ferrous  iron  solution,  standardized. 
+
+Sodium  diphenylamine  sulfonate  solution. 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  zirconium  crucible. 
+
+2.  Add  4  to  12  g  of  sodium  peroxide,  and  stir  imtil  the 
+peroxide  and  sample  are  thoroughly  mixed. 
+
+3.  Fuse  over  a  burner  imtil  all  sample  particles  are  dis- 
+solved. Swirl  and  inspect  occasionally  to  keep  unattacked 
+particles  dispersed. 
+
+4.  When  the  fusion  is  complete,  allow  the  crucible  and 
+melt  to  cool. 
+
+5.  When  they  are  cool,  tap  gently  to  free  the  soHdified 
+melt  from  the  bottom  of  the  crucible. 
+
+
+11.  To  the  solution  in  the  beaker,  add  one  drop  of  a  sat- 
+urated manganese  solution,  2  or  3  mL  of  a  2.5-pct  solu- 
+tion of  silver  nitrate,  and  3  to  6  g  of  ammonium  persulfate. 
+Stir  thoroughly. 
+
+12.  Bring  the  solution  to  a  boil,  and  boil  for  several  min- 
+utes to  decompose  the  excess  persulfate. 
+
+13.  Remove  the  beaker  from  the  hotplate,  and  immedi- 
+ately add  5  mL  concentrated  hydrochloric  acid  to  decom- 
+pose the  permanganate. 
+
+14.  Stir  and  cool  the  solution  to  room  temperature  or 
+below. 
+
+
+6.  Place  the  solidified  melt  and  the  emptied  crucible  in 
+a  400-mL  beaker,  add  150  to  200  mL  of  cold  distilled  wa- 
+ter, and  cover  quickly. 
+
+7.  When  leaching  activity  has  subsided,  slide  the  cover 
+aside  slightly  and  slowly  add  about  25  mL  of  1:1  sulfuric 
+acid  solution.  Reclose  the  cover  and  wait  for  the  com- 
+pletion of  any  further  leaching  action. 
+
+8.  Remove  and  rinse  the  cover  glass,  and  rinse  down  the 
+beaker  sides. 
+
+9.  Place  a  glass  stirring  rod  in  the  beaker  and  stir  the 
+contents  thoroughly. 
+
+10.  Remove  and  thoroughly  rinse  the  crucible.    Inspect 
+the  inside  of  the  crucible  and  poUce  it  if  necessary. 
+
+
+15.  When  the  solution  is  cool,  add  about  10  mL  of  con- 
+centrated phosphoric  acid,  and  titrate  with  a  standard  fer- 
+rous iron  solution  using  two  to  five  drops  of  sodium  di- 
+phenylamine  sulfonate  solution  as  the  indicator,  which 
+changes  from  purple  to  green  at  the  endpoint. 
+
+Titration  equation: 
+
+Cr+^  +  3Fe^^-*  Cr+^  +  SFe'^l 
+
+
+Calculation: 
+
+
++  2 
+
+
+mL  titer  x  N  Fe      x  eq  wt  Cr 
+
+
+sample  wt  x  1,000 
+
+
+1  mL  O.IOOOA^  Fe 
+
+
++  2 
+
+
+X  100  =  pet  total  Cr. 
+
+
+1.733  mg  Cr. 
+
+
+Procedure  Notes 
+
+
+1.  Sample  size  is  usually  roughly  calculated  to  yield  a 
+titration  of  about  20  to  50  mL  (as  a  convenience).  How- 
+ever, a  minimum  of  0.2  g  is  used  when  adequate  sample  is 
+available.  A  maximum  of  about  1  g  is  used  to  keep  the 
+melt  volume  to  a  manageable  level. 
+
+2.  Increase  the  sodium  peroxide  to  match  sample  size 
+using  an  approximate  ratio  of  20  parts  of  peroxide  to 
+1  part  of  sample.  Again,  consideration  must  be  given  to 
+melt  volume  at  high  sample  weights.  Thorough  mixing 
+cannot  be  overstressed.  Sample  particles  in  the  melt  can 
+aggregate  and  stubbornly   resist  attack. 
+
+3.  The  burner  should  be  capable  of  bringing  the  crucible 
+to  red  heat  on  the  bottom.  Mixing  remains  important.  If 
+particles  are  allowed  to  aggregate,  fusing  time  may  have  to 
+be  extended,  which  increases  the  attack  on  the  crucible 
+itself,  shortening  its  useful  life,  increasing  the  tendency  of 
+the  cooled  melt  to  stick  to  the  crucible,  and  adding  a  sig- 
+nificant concentration  of  zirconium  to  the  analyte  solution. 
+
+
+4.  If  the  melt  is  to  be  leached  quickly,  the  crucible  can 
+be  set  out  on  any  heat-resistant  material  to  cool.  If  the 
+melt  has  to  be  set  aside  for  a  while,  it  should  be  set  on  a 
+hotplate  on  low  heat  to  keep  it  from  absorbing  atmo- 
+spheric water  (which  makes  the  melt  stick  to  the  crucible). 
+
+5-6.  If  gentle  tapping  does  not  free  the  melt,  try  moder- 
+ately hard  tapping.  If  the  melt  still  sticks,  lay  the  crucible 
+on  its  side  in  the  bottom  of  the  beaker. 
+
+7.  The  leaching  reaction  can  range  from  very  slow  to 
+very  vigorous.  A  high  aluminum  concentration  tends  to 
+slow  the  reaction.  A  slow  leach  reaction  may  become  a 
+very  fast  leach  reaction  when  sulfuric  acid  is  added,  so  care 
+must  be  exercised.  Once  the  leach  reaction  has  finished, 
+the  addition  of  sulfuric  acid  is  generally  accompanied  by 
+moderate  effervescence  unless  a  significant  amount  of  car- 
+bonate is  present. 
+
+
+8-10.  Rinse  down  any  visible  precipitate  particles  and 
+police  out  any  residue  in  the  crucible.  Stirring  should  pro- 
+duce a  clear  solution  unless  hydrolyzed  zirconium  or  alu- 
+minum is  present.  Do  not  add  more  sulfuric  acid  unless 
+iron  or  chromium  hydroxide  precipitate  is  present.  Excess 
+sulfuric  acid  may  slow  or  prevent  the  oxidation  of 
+chromium. 
+
+11.  The  manganese  is  to  indicate  the  completion  of  the 
+chromium  oxidation.  AH  of  the  chromium  will  be  oxidized 
+before  the  manganese  begins  to  be  converted  to  perman- 
+ganate. If  permanganate  is  the  salt  added,  it  may  not  all 
+reduce  and  may  leave  a  permanganate  pink.  Proceed  re- 
+gardless. The  permanganate  color  after  the  decomposition 
+of  the  excess  persulfate  is  the  important  condition,  not  the 
+pink  in  the  intermediate  stages.  The  silver  nitrate  is  a 
+catalyst  in  the  oxidation  reaction.  Crystalline  ammonium 
+persulfate  is  used  to  save  the  time  and  labor  of  preparing 
+fresh  solution. 
+
+12.  When  the  oxidation  is  complete  and  the  manganese 
+turns  red,  it  turns  quickly,  in  1  or  2  s.  As  the  excess  per- 
+sulfate is  destroyed,  a  mild  effervescence  can  be  seen  in 
+the  solution.  If  the  solution  does  not  turn  red  after  boiling 
+for  a  few  minutes,  remove  it  from  the  hotplate  and  inspect 
+it  for  precipitate  that  looks  Hke  silver  chloride.   If  found, 
+
+
+add  more  silver  nitrate  and  cimmonium  persulfate,  and  re- 
+turn the  solution  to  the  hotplate.  If  no  such  precipitate  is 
+found,  just  add  more  ammonium  persulfate,  and  return  the 
+solution  to  the  hotplate.  Repeat  the  operations  as 
+necessary.  Lost  water  may  be  replaced  without  any  hazard 
+to  results. 
+
+13.  The  chloride  in  the  hydrochloric  acid  will  be  oxidized 
+to  chlorine  gas  in  the  process  of  reducing  the  permanga- 
+nate. It  will  also  precipitate  the  silver.  The  chloride  will 
+not  react  with  the  dichromate  produced. 
+
+14.  Be  aware  that  a  small  amount  of  chlorine  gas  is 
+evolved  during  cooling. 
+
+15.  The  phosphoric  acid  is  added  to  complex  the  ferric 
+iron.  If  significant  amounts  of  aluminum  or  titanium  are 
+present,  hydrofluoric  acid  may  be  substituted  for  the  phos- 
+phoric acid.  The  ferrous  iron  solution  is  prepared  from 
+ferrous  ammonium  sulfate  in  12-L  batches.  A  piece  of 
+purified  aluminum  sheet  kept  in  the  carboy  helps  to  keep 
+the  normality  of  the  solution  constant.  Sodium  diphenyl- 
+amine  sulfonate  is  used  because  it  is  easily  soluble  in  dis- 
+tilled water  and  thus  preparation  is  simplified.  Any  of  the 
+diphenylamine  indicators  will  work,  giving  a  sharp  endpoint 
+by  changing  from  purple  to  green. 
+
+
+ACID-SOLUBLE  OR  "METALLIC"  CHROMIUM  IN  FERROCHROME  SLAGS 
+
+
+At  this  Center,  results  from  this  method  have  been  used 
+almost  exclusively  as  data  for  the  calculation  of  the  total 
+degree  of  reduction  in  a  smelter  batch,  rather  than  as  an 
+indicator  for  the  metallization  of  chromium.  When  a 
+charge  of  chromite  material  is  smelted  or  prereduced,  the 
+crystal  structure  is  changed,  and  once  the  chromite  spinel 
+structure  has  been  opened,  the  chromium  becomes  much 
+more  available  to  acid  attack.  Partially  reduced  chromium 
+
+Equipment 
+
+250-mL  beaker. 
+400-mL  beaker. 
+Stirring  rod. 
+Hotplate. 
+Filter  paper. 
+Funnel. 
+Burette. 
+
+
+species  and  chromium  in  the  form  of  silicates,  carbonates, 
+or  other  carbon  compounds,  as  well  as  chromium  metal, 
+are  then  available  to  acid  attack.  (These  species  of  chro- 
+mium are  often  grouped  under  the  name  "metallic"  chro- 
+mium.) (It  has  been  noted  that  a  very  finely  ground  sam- 
+ple of  a  mineral  chromite  concentrate  will  generally  give 
+up  a  few  relative  percent  of  its  chromium  to  this  method.) 
+
+
+Materials 
+
+Sulfuric  acid,  reagent  grade,  diluted  1:1  with  distilled 
+water. 
+
+Hydrofluoric  acid,  46  to  51  pet,  reagent  grade. 
+Saturated  manganese  solution. 
+Silver  nitrate  solution. 
+
+Ammonium  persulfate,  reagent  grade,  crystal. 
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+Phosphoric  acid,  reagent  grade,  concentrated. 
+Ferrous  iron  solution,  standardized. 
+Sodium  diphenylamine  sulfonate  solution. 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  250-mL  beaker. 
+
+2.  Add  80  to  90  mL  of  distilled  water,  10  mL  of  1:1  sul- 
+furic acid,  and  5  to  10  mL  of  hydrofluoric  acid. 
+
+3.  Place  the  beaker  on  a  hotplate  and  bring  to  a  gentle 
+boil  or  just  below. 
+
+4.  Digest  at  a  gentle  boU,  or  just  below,  for  40  to 
+50  min,  replacing  lost  water  whenever  the  digestion 
+approaches  half  the  original  volume. 
+
+5.  Remove  the  solution  from  the  hotplate,  cool  to  about 
+room  temperature,  and  filter  through  a  medium-speed 
+qualitative  paper  (such  as  Schleicher  and  Schuel"*  (S&S) 
+597)  into  a  400-mL  beaker.  Wash  5  to  10  times  with  dis- 
+tilled water. 
+
+6.  Dilute  the  combined  filtrate  and  washes  up  to  200  to 
+250  mL  total  volume. 
+
+7.  Add  one  drop  of  saturated  manganese  solution,  2  or 
+3  mL  of  2.5-pct  silver  nitrate  solution,  and  3  to  6  g  of 
+ammonium  persulfate,  rinse  sides,  and  stir  thoroughly. 
+
+8.  Bring  the  solution  to  a  boil,  and  boil  several  minutes 
+to  destroy  the  excess  persulfate. 
+
+
+9.  Remove  the  beaker  from  the  hotplate,  and  imme- 
+diately add  3  to  5  mL  of  concentrated  hydrochloric  acid  to 
+decompose  the  permanganate. 
+
+10.  Stir  thoroughly,  rinse  sides,  and  cool  to  room  tem- 
+perature or  below. 
+
+11.  When  the  solution  is  cool,  add  about  10  mL  of  con- 
+centrated phosphoric  acid  emd  titrate  with  a  standard  fer- 
+rous iron  solution  using  three  to  five  drops  of  sodium  di- 
+phenylamine  sulfonate  solution  as  the  indicator,  which 
+changes  from  purple  to  green  at  the  endpoint. 
+
+Titration  equation: 
+
+Cr  +  ^  +  3Fe  +  2  ->  Cr"^^  +  3Fe  +  l 
+
+
+Calculation: 
+
+
++  2 
+
+
+mL  titer  x  A^  Fe      x  eq  wt  Cr 
+
+
+X  100 
+
+
+sample  wt  x  1,000 
+pet  acid-soluble  Cr. 
+
+1  mL  O.IOOOA^  Fe^^  =  1.733  mg  Cr. 
+
+
+Procedure  Notes 
+
+
+1.  Sample  size  is  usually  roughly  calculated  to  yield  a 
+convenient  titration.  Sample  sizes  from  a  few  hundred 
+milligrams  for  prer educed  smelter  charges  up  to  several 
+grams  for  slag  are  easily  handled,  though  large  samples  of 
+finely  ground  material  sometimes  have  a  tendency  to 
+bump. 
+
+2.  The  described  acid  mixture  is  proper  for  all  normal 
+determinations.  Another  small  volume  of  hydrofluoric  acid 
+may  be  added  if  high  silica  or  metal  passivation  is  sus- 
+pected. Do  not  add  more  sulfuric  acid.  A  high  sulfuric 
+acid  concentration  can  slow  or  prevent  the  oxidation  of 
+chromium  from  Cr*^  to  Cr^*. 
+
+3-4.  Gentle  digestion  is  preferred  over  vigorous  boiling 
+because  it  requires  much  less  attention  and  entails  less 
+danger  of  passivating  any  metallics  present. 
+
+5.  Very  fine  gangue  particles  will  sometimes  pass 
+through  ("slime"  through)  the  paper,  but  they  do  no  harm 
+in  the  oxidation  or  titration  steps,  other  than  making  the 
+solution  cloudy. 
+
+
+4 
+
+Reference  to  specific  products  does  not  imply  endorsement  by 
+the  Bureau  of  Mines. 
+
+
+6.  Aim  at  150  to  200  mL  solution  volume  at  the  start  of 
+the  titration. 
+
+7.  Saturated  manganese  solution  is  to  indicate  the 
+completion  of  the  chromium  oxidation.  All  of  the  chro- 
+mium will  be  oxidized  before  the  manganese  is  converted 
+to  permanganate.  The  silver  nitrate  is  a  catalyst  in  the 
+chromium  oxidation.  Crystalline  ammonium  persulfate  is 
+used  to  save  the  time  and  labor  of  preparing  fresh 
+solution. 
+
+8.  When  the  oxidation  is  complete  and  the  manganese 
+turns  red,  it  turns  quickly.  As  the  excess  persulfate  is  de- 
+stroyed, a  mild  effervescence  can  be  seen  in  the  solution. 
+If  the  solution  does  not  turn  red  after  boiling  for  a  few 
+minutes,  remove  it  from  the  hotplate  and  inspect  it  for 
+precipitate  that  looks  like  silver  chloride.  If  found,  add 
+more  silver  nitrate  and  ammonium  persulfate,  and  return 
+the  solution  to  the  hotplate.  If  no  such  precipitate  is 
+found,  just  add  more  persulfate  and  return  the  solution  to 
+the  hotplate.  Repeat  these  operations  as  necessary.  Lost 
+water  may  be  replaced  without  any  hazard  to  results. 
+
+9.  The  chloride  in  the  hydrochloric  acid  will  be  oxidized 
+to  chlorine  gas  in  the  process  of  reducing  the 
+permanganate.  It  will  also  precipitate  the  silver.  The 
+chloride  will  not  react  with  the  dichromate. 
+
+
+10.  Be  aware  that  a  small  amount  of  chlorine  gas  is 
+evolved  during  cooling. 
+
+11.  The  phosphoric  acid  is  used  as  a  complexing  agent  for 
+the  ferric  iron  present.  If  significant  amounts  of  titanium 
+or  aluminum  are  present,  hydrofluoric  acid  may  be 
+substituted  for  the  phosphoric  acid.  The  ferrous  iron 
+solution  is  prepared  from  ferrous  ammonium  sulfate  in 
+
+
+12-L  batches.  A  piece  of  purified  aluminum  sheet  kept  in 
+the  carboy  helps  to  maintain  constant  normality  of  the 
+solution.  Sodium  diphenylamine  sulfonate  is  used  because 
+it  is  easily  soluble  in  distilled  water  and  thus  preparation 
+is  simplified.  Any  of  the  diphenylamine  indicators  will 
+work,  giving  a  sharp  endpoint  by  changing  from  purple 
+to  green. 
+
+
+TOTAL  IRON  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+Iron  is  the  second  major  element  in  chromite.  In  smelt- 
+ing operations  where  ferrochrome  is  the  product,  a  specific 
+range  in  the  chromium-to-iron  ratio  is  desired.  Where 
+pure  metalUc  chromium  is  the  product,  the  iron  concen- 
+tration is  not  as  important.  In  both  cases,  it  is  important 
+to  have  a  good  value  for  the  chromium-to-iron  ratio.  A 
+typical  chromite  or  chromite  concentrate  can  range  from 
+less  than  10  pet  iron  to  over  20  pet  iron. 
+
+Equipment 
+
+Zirconium  crucible  (approximately  30-mL  capacity). 
+
+Meker  or  similar  gas-air  mix  burner. 
+
+400-mL  beaker  and  cover. 
+
+Glass  stirring  rod. 
+
+500-mL  Erlenmeyer  flask. 
+
+Hotplate. 
+
+Funnel. 
+
+Filter  paper. 
+
+Burette. 
+
+
+To  cope  with  this  variability  and  with  the  difficulty  in 
+attacking  chromite  samples,  the  method  of  choice  at  this 
+Center  is  titration  after  alkaline  fusion.  This  method  is 
+also  used  on  ferrochrome  slags,  even  though  they  may  oc- 
+casionally contain  less  than  1  pet  iron. 
+
+While  this  method  is  not  as  fast  as  the  total  chromium 
+method,  rapid  and  reliable  results  are  easily  obtained. 
+
+
+Materials 
+
+Sodium  peroxide,  reagent  grade,  granular,  20  mesh  or 
+fmer. 
+
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+
+Aqueous  ammonia,  reagent  grade,  concentrated. 
+
+Hydrochloric  acid,  reagent  grade,  diluted  1:1  with 
+distilled  water. 
+
+Stannous  chloride,  reagent  grade,  10-pct  solution  in  20- 
+pct  hydrochloric  acid. 
+
+Saturated  mercuric  chloride  solution. 
+
+Phosphoric  acid,  reagent  grade,  concentrated. 
+
+Sodium  diphenylamine  sulfonate  solution. 
+
+Potassium  dichromate,  reagent  grade,  0.1/V  solution  in 
+distilled  water. 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  zirconium  crucible. 
+
+2.  Add  4  to  12  g  of  sodium  peroxide,  and  stir  untU  the 
+peroxide  and  sample  are  thoroughly  mixed. 
+
+3.  Fuse  over  a  gas  and  air  burner  imtil  all  sample  par- 
+ticles are  dissolved.  Swirl  and  inspect  occasionally  to  keep 
+unattacked  particles  dispersed. 
+
+4.  When  the  fusion  is  complete,  allow  the  crucible  and 
+melt  to  cool. 
+
+5.  When  they  are  cool,  tap  gently  to  free  the  solidified 
+melt  from   the  bottom  of  the  crucible. 
+
+6.  Place  the  solidified  melt  and  the  emptied  crucible  in 
+a  400-mL  beaker,  add  150  to  200  mL  of  cold  distilled  wa- 
+ter, and  cover  quickly. 
+
+
+7.  When  leaching  activity  has  subsided,  remove  and  rinse 
+the  cover  and  wash  down  the  beaker  sides. 
+
+8.  Slowly,  with  stirring,  add  concentrated  hydrochloric 
+acid  until  all  the  precipitated  iron  dissolves. 
+
+9.  Remove  and  thoroughly  rinse  the  crucible,  and  police 
+it  if  necessary. 
+
+10.  Slowly,  with  stirring,  add  concentrated  aqueous  am- 
+monia until  a  permanent  iron  precipitate  is  obtained;  then 
+add  20  to  25  mL  excess. 
+
+11.  Bring  the  solution  to  a  boil,  and  boil  for  a  few  min- 
+utes to  destroy  any  remaining  peroxide  and  produce  a 
+more  easily  filterable  precipitate. 
+
+
+12.  Remove  the  beaker  from  the  hotplate,  and  rinse  the 
+
+sides. 
+
+13.  Filter  the  solution  through  a  fast-speed,  quahtative 
+paper  (such  as  S&S  595).  Wash  the  beaker  once  and  wash 
+the  precipitate  three  to  five  times  with  distilled  water,  and 
+discard  the  filtrate  and  washes. 
+
+14.  Wash  the  precipitate  back  into  its  original  beaker  with 
+distilled  water. 
+
+15.  Wash  the  filter  paper  free  of  iron  with  alternating 
+rinses  of  hot  1:1  hydrochloric  acid  and  distilled  water. 
+Make  sure  any  precipitate  particles  stuck  on  the  beaker 
+sides  cire  redissolved. 
+
+16.  Add  20  to  25  mL  of  concentrated  hydrochloric  acid, 
+stir  until  all  the  precipitate  dissolves,  and  transfer  the  so- 
+lution to  a  500-mL  Erlenmeyer  flask. 
+
+17.  Set  the  flask  on  a  hotplate  and  bring  it  to  a  boil. 
+Reduce  the  iron  with  dropwise  additions  of  10-pct  stan- 
+nous chloride  solution  with  agitation  until  the  solution  is 
+
+
+colorless,  or  light  green  if  Cr^^  is  present.   Add  three  to 
+five  drops  excess,  and  bring  to  a  boil  again. 
+
+18.  Cool  the  solution  to  room  temperature  or  below. 
+
+19.  When  the  solution  is  cool,  add  10  mL  of  a  saturated 
+mercuric  chloride  solution,  and  mix.  Immediately  add  7  to 
+10  mL  of  concentrated  phosphoric  acid  and  three  to  five 
+drops  of  sodium  diphenylamine  sulfonate  indicator,  and 
+titrate  with  standard  potassium  dichromate  solution  to  the 
+first  permanent  purple. 
+
+Titration  equation: 
+
+3Fe^^  +  Cr"^^  -*  3Fe^^  +  Cr"^l 
+Calculation: 
+
+mL  titer  x  A'^  K2Cr207  x  eq  wt  Fe 
+
+
+sample  wt  x  1,000 
+pet  total  Fe. 
+
+
+X  100 
+
+
++  6 
+
+
+1  mL  O.lOOOyV  Cr^°  =  5.585  mg  Fe. 
+
+
+Procedure  Notes 
+
+
+1.  Sample  size  is  usually  approximated  to  yield  a  10-  to 
+30-mL  titration.  However,  a  minimum  of  about  0.2  g  is 
+used  when  adequate  sample  is  available.  A  maximum  of 
+about  1  g  is  used  to  keep  the  melt  volume  to  a  manageable 
+level. 
+
+2.  An  approximate  ratio  of  20  pairts  of  peroxide  to  1  part 
+of  sample  is  used.  At  high  sample  weights,  resulting  melt 
+volume  must  be  considered,  however.  The  flux  and  sample 
+must  be  thoroughly  mixed,  or  the  sample  particles  may 
+aggregate  and  stubbornly  resist  attack. 
+
+3.  The  burner  should  be  capable  of  bringing  the  entire 
+crucible  bottom  to  red  heat.  Careful  agitation  must  be 
+done  to  keep  the  particles  from  aggregating.  Extended 
+fusion  time  increases  the  attack  on  the  crucible  itself  and 
+adds  a  significant  concentration  of  zirconium  to  the  analyte 
+solution.  It  also  tends  to  make  the  cooled  melt  stick  to 
+the  crucible. 
+
+4.  If  the  melt  is  to  be  leached  quickly,  the  crucible  can 
+be  set  out  on  any  heat-resistant  material  to  cool.  If  the 
+melt  has  to  be  set  aside  for  a  while,  it  should  be  set  on  a 
+hotplate  at  low  heat  to  keep  it  from  absorbing  atmospheric 
+water. 
+
+5-6.  If  gently  tapping  does  not  free  the  melt,  try  mod- 
+erately hard  tapping.If  the  melt  still  sticks,  lay  the  crucible 
+on  its  side  on  the  bottom  of  the  beaker. 
+
+7-8.  The  leaching  reaction  can  range  from  very  slow 
+to  very  vigorous.    A  high  iron  concentration  speeds  the 
+
+
+reaction.  A  high  aluminum  concentration  tends  to  slow 
+the  reaction.  A  slow  leach  may  become  a  very  fast  leach 
+when  acid  is  added.  Once  the  leach  is  finished,  the  addi- 
+tion of  acid  is  generally  accompanied  by  mild  effervescence 
+unless  there  is  a  considerable  amount  of  carbonate  present 
+to  evolve  carbon  dioxide. 
+
+10.  An  cmimonia  precipitation  is  done  to  free  the  iron  of 
+the  large  amount  of  sodium  in  the  solution  and  to  produce 
+larger  precipitate  particles.  A  high  sodium  concentration 
+has  been  found  to  depress  the  indicator  change  in  the  ti- 
+tration. It  has  also  been  found  that  with  a  sodium  hydrox- 
+ide precipitation,  a  very  fine-grained  iron  precipitate  is 
+produced.  The  coarser  precipitate  produced  by  the  am- 
+monia is  easily  filtered.  A  small  excess  of  sodium  peroxide 
+added  to  the  ammonia  precipitation  after  step  10  will  allow 
+the  precipitate  to  be  freed  of  nearly  all  of  the  chromium 
+present.  Sodium  peroxide  is  added  1  or  2  g  at  a  time  until 
+a  moderate  effervescence  is  produced  by  gentle  stirring 
+and  the  beaker  contents  take  on  a  deeper  brown  color. 
+Chromium,  usually  present  as  hydrated  chromic  oxide 
+(CrjOj)  is  oxidized  to  Cr*^  by  the  sodium  peroxide  and 
+remains  in  the  filtrate.  This  operation  can  be  used  to 
+measure  iron  and  chromium  on  the  same  sample  but  usu- 
+ally needs  to  be  repeated  to  remove  all  visible  traces  of 
+chromium  from  the  iron  solution.  If  chromium  is  to  be 
+determined,  the  filtrate  is  acidified  with  1:1  sulfuric  acid 
+and  titrated  as  for  total  chromium.  Results  are  slightly 
+low,  and  the  method  is  not  recommended  unless  insuffi- 
+cient sample  is  available  for  a  separate  determination. 
+
+
+11-12.  Bubbles  from  peroxide  decomposition  cause  me- 
+chanical problems  in  the  filtration,  often  slowing  it 
+unnecessarily. 
+
+13.  It  has  been  found  convenient,  after  rinsing  the  beziker, 
+to  wash  the  sides  once  with  hot  1:1  hydrochloric  acid  from 
+a  wash  bottle. 
+
+15.  A  glass  wash  bottle  with  insulation  for  holding  is  used 
+to  contain  the  1:1  hydrochloric  acid  for  washing. 
+
+16.  The  Erlenmeyer  flask  is  a  matter  of  preference;  the 
+titration  may  be  done  just  as  well  in  the  beaker.  If  a 
+beaker  is  used,  it  should  be  covered  during  cooling. 
+
+17.  The  stannous  chloride  reduces  the  Fe^^  to  the  Fe^^ 
+form  necessary  for  the  titration.  Interfering  elements  that 
+are  reducible  by  stannous  chloride  are  rare  in  chromite 
+
+
+mineral  samples  and  ferrochrome  slags.  The  excess 
+staimous  chloride  protects  the  Fe^^  from  air  oxidation 
+while  cooling. 
+
+19.  Saturated  mercuric  chloride  solution  is  added  in 
+excess  to  destroy  the  excess  stannous  ion;  it  does  not 
+otherwise  participate  in  the  titration  reaction.  Phosphoric 
+acid  is  added  as  a  complexing  agent  for  Fe^^.  If  much 
+titanium  or  zirconium  is  present  in  the  solution,  a  gellike 
+precipitate  may  form  when  the  phosphoric  acid  is  added. 
+This  interferes  with  mixing  efficiency  and  requires  a  slower 
+cmd  more  careful  titration.  It  does  not  interfere  chem- 
+ically. Hydrofluoric  acid  may  be  substituted  for  the  phos- 
+phoric acid  or  added,  in  small  amounts,  in  addition  to  the 
+phosphoric  acid  to  avoid  this  condition.  The  indicator  is 
+at  first  colorless,  turns  green  as  the  endpoint  is  approached 
+(very  heird  to  see  when  much  Cr*^  is  also  present),  and 
+sharply  turns  to  purple  at  the  endpoint. 
+
+
+FERROUS  IRON  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+The  determination  of  ferrous  iron  in  mineral  chromites 
+and  other  chromite-bearing  samples  is  limited  by  the 
+difficult  solubility  of  the  chromite  lattice.  Reaction  of  the 
+ferrous  iron  immediately  upon  release  from  the  crystal 
+seems  to  be  the  preferred  way  of  measurement.  Attempts 
+to  dissolve  chromite  by  other  methods  depend  on  strong 
+oxidizing  agents  that  leave  no  ferrous  iron  to  be  mea- 
+sured. The  V^''-V*^  system  is  stable  enough  to  yield  good 
+results  when  it  is  used  to  react  with  released  ferrous  iron. 
+
+The  situation  is  complicated,  however,  by  the  lack 
+of  any  standard  materials  with  a  certified  ferrous  iron 
+value.  National  Bureau  of  Standards  (NBS)  103a  chrome 
+
+Equipment 
+
+150-mL  beaker  and  cover  glass. 
+
+600-mL  beaker. 
+
+Stirring  rod. 
+
+Hotplate. 
+
+Pipette  (50-mL  capacity). 
+
+Burette. 
+
+
+refractory,  for  example,  Usts  an  FeO  value  that  is  total  iron 
+expressed  as  ferrous  oxide.  While  this  value  should  be 
+fairly  close,  several  relative  percent  of  the  ferrous  iron  are 
+oxidized  by  atmospheric  oxygen  in  grinding  and  storage. 
+
+With  the  limitations  in  mind,  researchers  at  this  Center 
+have  used  results  from  this  method  as  data  for  the  calcu- 
+lation of  smelter  charges  and  of  total  reduction  in  a 
+smelter  run. 
+
+The  method  requires  an  overnight  digestion,  but  is 
+otherwise  simple  and  rapid.  Reproducibility  has  been  usu- 
+cdly  within  2  relative  percent. 
+
+
+Materials 
+
+Vanadium-acid  mixture. 
+
+O.l/V  Fe^^  standard  solution. 
+
+Sodium  diphenylamine  sulfonate  solution. 
+
+
+Procedure 
+
+
+1.  Weigh  a  sample  to  contain  1.5  meq  vA  Fe*^  or  less 
+into  a  150-mL  beaker. 
+
+2.  Add  just  enough  distilled  water  to  wet  and  disperse 
+the  sample. 
+
+3.  Pipette  50  mL  of  the  vanadium-acid  mix  onto  the 
+sample  while  swirling  the  beaker  to  maintain  dispersion. 
+Pipette  a  blank  for  digestion  with  each  batch  of  samples. 
+
+4.  Cover  and  digest  overnight  on  a  hotplate  at  about 
+100°  c. 
+
+
+5.  Remove  from  the  hotplate  and  cool  to  room  tem- 
+perature or  below. 
+
+6.  When  the  solution  is  cool,  slowly  pour  it  into  a 
+600-mL  beaker  containing  150  to  200  mL  of  water,  while 
+stirring.  Thoroughly  rinse  the  small  beaker  into  the  large 
+beaker,  and  dilute  the  solution  to  about  500  mL  total 
+volume. 
+
+7.  Titrate  with  standard  Fe^^  solution  using  three  to  five 
+drops  of  sodium  diphenylamine  sulfonate  indicator,  which 
+changes  from  purple  to  green  at  the  endpoint. 
+
+
+Titration  equation: 
+
+
+V+5  +  Fe^2 
+
+
+V+4  +  Ft^\ 
+
+
+Calculation: 
+
+(mL  blank  titer  -  mL  sample  titer)  x  N  Fe 
+
+
+If  metallic  iron  is  present,  it  must  be  corrected  for  by 
+subtracting  three  times  the  amount  of  iron  present  (in 
+milliequivalents)  from  the  milliequivalents  of  V^^  con- 
+sumed, as  in  the  following  equation: 
+
+
+.  +  2 
+
+
+.  +  2 
+
+
+=  meq  Fe      in  sample. 
+
+
+.  +  2 
+
+
+(mL  blank  titer  -  mL  sample  titer)  x  N  Fe 
+
+-  3(meq  Fe°)  =  meq  Fe"*"  . 
+The  result  is  then  used  in  the  second  equation  above. 
+
+
+meq  Fe      x  meq  wt  Fe  ,  , 
+
+— T-^ X  100  =  pet  Fe^  . 
+
+sample  wt 
+
+
+Procedure  Notes 
+
+
+1.  Complete  solution  is  more  reliably  obtcdned  when  the 
+sample  is  limited  to  0.5  g  or  less.  Fine  grinding  is  essen- 
+tial to  the  method,  and  all  samples  should  be  groimd  to 
+100  mesh  or  finer. 
+
+2-3.  It  is  necessary  to  give  some  attention  to  m containing 
+the  sample  dispersion.  The  samples  have  a  tendency  to 
+form  lumps  when  the  acid  is  added,  and  this  negates  the 
+beneficial  effects  of  fine  grinding.  Lumps  of  seunple  stub- 
+bornly resist  attack. 
+
+
+4.  The  acid  mix  wiU  slowly  attack  glass.  Thin  or  etched 
+beakers  should  be  avoided. 
+
+5-6.  Take  care,  this  is  a  very  strong  acid  solution. 
+
+7.  If  metalhc  iron  is  present  it  will  consume  3  meq  of 
+V^^  solution  for  each  milUequivalent  of  iron  present.  A 
+separate  metallic  iron  analysis  is  done,  and  the  results  are 
+used  to  correct  the  Fe*^  results. 
+
+
+METALLIC  IRON  IN  FERROCHROME  SLAGS 
+
+
+It  would  truly  be  unusual  to  find  a  sample  of  mineral 
+chromite  with  metallic  iron  in  it.  However,  this  Center  has 
+handled  many  samples  of  prereduced  smelter  charges  with 
+several  percent  of  metallic  iron  and  ferrochrome  slags  with 
+measurable  quantities  of  metallic  iron.  Therefore,  this 
+method  finds  its  use  in  the  later  stages  of  mineral  chromite 
+processing. 
+
+Equipment 
+
+100-mL  volumetric  flask  with  screw  cap. 
+
+250-mL  Erlenmeyer  flask. 
+
+150-mL  beaker. 
+
+Hotplate. 
+
+Funnel. 
+
+Filter  paper. 
+
+Pipette  (50-mL  capacity). 
+
+Burette. 
+
+
+Results  from  this  method  have  been  used  to  calculate 
+total  reduction  in  smelter  runs,  the  efficiency  of  the  parti- 
+tion of  metallics  and  slag  materials,  and  the  final  smelter 
+charge. 
+
+The  method  is  rapid  and  reliable  and  yields  high-quality 
+results  on  a  routine  basis.  Reproducibility  has  typically 
+been  well  within  1  relative  percent. 
+
+Materials 
+
+Mercuric  chloride,  reagent  grade,  crystals. 
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+Phosphoric  acid,  reagent  grade,  concentrated. 
+Sodium  diphenylamine  sulfonate  solution. 
+0.1/V  potassium  dichromate  solution,  standardized. 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  100-mL  volumetric  flask. 
+
+
+4.  Bring  the  solution  to  a  boil,  and  boil  gently  for  1  min. 
+
+
+2.  Using  nonmetaUic  tools,  add  8  to  10  g  of  mercuric  5.  Remove  the  flask  from  the  heat,  and  immediately 
+
+chloride.  screw  the  cap  on  snugly. 
+
+
+3.  Immediately  add  40  to  50  mL  of  distilled  water,  and 
+swirl  the  flask  vigorously  to  mix  the  contents. 
+
+
+6.  Cool  the  solution  to  room  temperature  or  below. 
+
+
+10 
+
+
+7.  When  the  solution  is  cool,  dilute  to  the  mark  with 
+distilled  water,  reseal  the  flask,  and  mix  the  contents  of 
+the  flask  thoroughly. 
+
+8.  Filter  into  a  dry  beaker  using  a  dry  funnel  and  a  dry, 
+medium-speed  qualitative  paper  (such  as  S&S  597). 
+
+9  Pipette  50  mL  of  filtrate  into  a  250-mL  Erlenmeyer 
+flask. 
+
+
+Titration  equation: 
+
+
+3Fe^^  +  Cr+^ 
+
+
+3Fe  +  ^  +  Cr'^l 
+
+
+Calculation: 
+
+mL  titer  x  A^  Cr"^^  x  eq  wt  Fe  x  2 
+
+
+10.  Add  5  to  10  mL  of  concentrated  hydrochloric  acid, 
+5  to  10  mL  of  concentrated  phosphoric  acid,  and  three  to 
+five  drops  of  sodium  diphenylamine  sulfonate  indicator. 
+Titrate  with  O.IN  potassium  dichromate  solution  to  a 
+purple  endpoint. 
+
+Procedure  Notes 
+
+
+sample  wt  x  1,000 
+=  pet  metaUic  Fe. 
+
+
+xlOO 
+
+
+1  mL  O.IOOOA^  K2Cr207 
+
+
+5.585  mg  Fe. 
+
+
+1.  A  maximum  sample  size  of  about  2  g  is  used  to  min- 
+imize the  error  caused  by  soUd  material  in  the  volumetric 
+flask. 
+
+2.  Metallic  spatulas  show  definite  signs  of  attack  after 
+contact  with  mercuric  chloride;  therefore,  all  handling 
+should  be  done  with  glass,  plastics,  or  porcelain  utensils, 
+and  thorough  caution  should  be  used.  The  final  solution 
+after  boiling  should  be  saturated  with  mercuric  chloride 
+with  a  few  excess  crystals  in  evidence. 
+
+3-6.  The  mercuric  chloride  begins  attack  upon  contact 
+with  any  metal.  The  attacked  metal  then  becomes  much 
+more  subject  to  air  oxidation,  so  delays  should  be  mini- 
+mized until  the  solution  is  boiled  and  tightly  stoppered. 
+
+
+Chromium  may  be  taken  into  solution  aJso,  but  it  does  not 
+interfere  except  by  imparting  a  green  color  to  the  solution. 
+
+7.  Shake  the  flask  until  any  materials  caked  on  the  bot- 
+tom cu-e  thoroughly  dispersed.  At  this  point,  the  flask  may 
+be  left  for  up  to  24  h  before  continuing. 
+
+8-9.  In  summcuy,  take  a  "dry  ahquot"  of  50  mL  into  a 
+250-mL  Erlenmeyer  flask.  Fine  materials  sometimes  slime 
+through  the  filter  paper.  They  may  be  ignored  unless  the 
+filtrate  becomes  too  murky  to  see  the  endpoint. 
+
+10.  The  hydrochloric  acid  provides  the  proper  acid  me- 
+dium for  the  titration.  The  phosphoric  acid  complexes 
+with  ferric  iron.  The  endpoint  sharply  turns  to  purple. 
+The  titrations  should  be  carried  out  promptly. 
+
+
+ALUMINIUM  AND  MAGNESIUM  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+Aluminum  and  magnesium  occur  as  gangue  components 
+in  chromite  ores  and  ferrochrome  slags.  At  this  Center, 
+ores  from  many  different  sites  and  of  many  varieties  aie 
+examined  for  commercial  feasibility.  The  beneficiation  of 
+these  ores  is  a  continuing  activity  that  produces  most  of 
+the  samples  that  are  analyzed  with  this  method.  Data 
+from  this  method  are  used  in  economic  feasibility  studies, 
+
+
+Equipment 
+
+Zirconium  crucible  (approximately  30-mL  capacity). 
+
+Meker  or  similau'  gas-air  mix  burner. 
+
+250-mL  beaker 
+
+Watchglass  to  fit  250-mL  beaker. 
+
+Stirring  rod. 
+
+100-mL  volumetric  flask. 
+
+Assorted  volumetric  flasks. 
+
+Hotplate. 
+
+Rubber  policeman. 
+
+Assorted  pipettes. 
+
+AA  spectrophotometer. 
+
+
+to  decide  the  best  beneficiation  methods  for  different  ore 
+types,  and  to  cadculate  the  smelter  charge. 
+
+The  method  of  choice  at  this  Center  is  fusion  with  a 
+minimum  of  sodium  peroxide,  solution  with  hydrochloric 
+acid,  and  dilution  to  a  proper  range  for  determination  by 
+atomic  absorption  (AA)  spectroscopy.  This  technique  is 
+rapid  and  accurate  enough  to  handle  a  considerable 
+sample  load  without  sacrificing  reliability. 
+
+Materials 
+
+Sodium  peroxide,  reagent  grade,  granular,  20  mesh  or 
+finer. 
+
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+Appropriate  AA  standards. 
+
+
+11 
+
+
+Procedure 
+
+
+1.  Weigh  0.2  g  of  sample  into  a  zirconium  crucible. 
+
+2.  Add  3  to  4  g  of  sodium  peroxide,  and  mix  thoroughly. 
+
+3.  Fuse  over  a  burner  imtil  all  sample  particles  are 
+dissolved.  Swirl  and  inspect  occasionally  to  keep  unat- 
+tacked  particles  dispersed. 
+
+4.  When  the  fusion  is  complete,  allow  the  crucible  and 
+melt  to  cool. 
+
+5.  When  they  are  cool,  tap  the  crucible  to  dislodge  the 
+melt  and  place  the  melt  in  the  250-mL  beaker. 
+
+6.  Add  10  to  20  mL  of  distilled  water  to  the  beaker,  and 
+cover  quickly  with  the  watchglass. 
+
+7.  Add  about  5  mL  of  distilled  water  and  3  to  5  mL  of 
+concentrated  hydrochloric  acid  to  the  crucible. 
+
+8.  When  the  leaching  action  has  subsided  in  the  beaker, 
+uncover  and  rinse  the  cover  and  sides  with  a  minimum  of 
+distilled  water. 
+
+
+9.  Police  the  crucible,  and  pour  the  solution  slowly  into 
+the  beaker.   Rinse  the  crucible  carefully. 
+
+10.  Slowly,  with  stirring,  acidify  the  leach  in  the  beaker 
+with  concentrated  hydrochloric  acid;  then  add  approxi- 
+mately 5  mL  excess. 
+
+11.  Place  the  beaker  on  a  hotplate  at  low  to  medium  heat 
+for  15  to  30  min  to  clarify  the  solution. 
+
+12.  Remove  the  beaker  from  the  hotplate,  cool,  and 
+transfer  the  solution  to  a  100-mL  volumetric  flask.  Make 
+the  flask  up  to  the  mark  and  mix. 
+
+13.  Make  a  10:1  dilution  of  the  sample  solution  for  deter- 
+mination of  aluminum  and  a  100:1  dilution  for  determina- 
+tion of  the  magnesium. 
+
+14.  Measure  the  absorbance  of  the  aluminum  at  309.3  nm 
+and  the  magnesium  at  285.2  nm.  Set  the  other  AA  instru- 
+ment parameters  in  accordance  with  the  manufacturer's 
+recommendations. 
+
+
+Procedure  Notes 
+
+
+1.  Experience  has  shown  that  0.2  g  is  a  convenient 
+amount  for  nearly  all  chromite  samples. 
+
+2.  The  amount  of  sodium  peroxide  used  needs  to  be  the 
+bare  minimum  necessary  for  rehable  sample  attack  so  that 
+the  AA  instrument  will  not  be  overloaded  with  dissolved 
+
+salts. 
+
+3.  The  burner  should  be  capable  of  bringing  the  crucible 
+bottom  to  red  heat.  Mixing  is  important.  If  particles  are 
+allowed  to  aggregate,  fusing  time  may  have  to  be  extended, 
+increasing  the  attack  on  the  crucible  itself  cind  increasing 
+the  tendency  of  the  cooled  melt  to  stick  to  the  crucible. 
+
+4.  If  the  melt  is  to  be  leached  quickly,  the  crucible  may 
+be  set  on  any  heat-resistant  surface  to  cool.  If  the  crucible 
+must  be  set  aside  awhile  after  cooling,  it  should  be  set  on 
+a  hotplate  on  low  heat  to  keep  the  melt  from  absorbing 
+atmospheric  moisture.  Because  of  its  small  volume,  the 
+melt  is  usually  easier  to  remove  from  the  crucible  if  it  has 
+solidified  with  the  crucible  tilted. 
+
+
+5-10.  The  small  sample  and  melt  size  sometimes  makes 
+removal  of  the  cooled  melt  difficult.  The  higher  the  iron 
+content,  the  more  vigorous  the  leach  reaction.  Police  the 
+inside  of  the  crucible  thoroughly.  When  finished,  the  so- 
+lution volume  should  be  less  than  100  mL. 
+
+11.  If  extended  heating  was  necessary  and  the  crucible 
+attacked,  the  solution  may  not  clarify  because  of  the  pres- 
+ence of  hydrolyzed  zirconium.    (This  very  rarely  happens.) 
+
+12.  The  solution  may  be  left  to  evaporate  if  its  final  vol- 
+ume is  greater  than  100  mL. 
+
+13.  A  10:1  dilution  will  yield  a  final  dilution  factor  of 
+1,000:1  for  the  aluminum.  A  100:1  dilution  will  yield  a  fi- 
+nal dilution  factor  of  10,000:1  for  magnesium.  Most  sam- 
+ples may  then  be  determined  using  10-  and  20-ppm  stan- 
+dards for  the  aluminum  and  2-  and  4-ppm  standards  for 
+the  magnesium. 
+
+
+CALCIUM  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+Calcium  is  rarely  found  in  chromite  ores  in  amounts 
+greater  than  a  few  tenths  of  a  percent,  zmd  calcium  anad- 
+ysis  is  rarely  requested  on  ore  samples.  Calcium 
+compounds  are,  however,  used  as  slag  conditioners  for 
+ferrochrome  smelting.  Most  of  the  chromite-related 
+samples  received  for  calcium  analysis  at  this  Center  have 
+
+
+been  slag  samples.  The  data  produced  are  used  mainly  to 
+establish  material  balance  in  smelter  calculations. 
+
+The  method  of  choice  at  this  Center  is  fusion  with  a 
+minimum  of  sodium  peroxide,  solution  with  hydrochloric 
+acid,  and  dilution  to  a  proper  range  for  atomic  absorption 
+(AA)  spectroscopy. 
+
+
+12 
+
+
+The  method  for  the  preparation  of  the  sample  for 
+calcium  analysis  is  identical  to  the  preparation  of  the 
+sample  for  aluminum  and  magnesium  (previous  section). 
+Usually,  the  dilution  prepared  for  aluminum  is  a  proper 
+concentration  for  calcium  determination  using  2-  and 
+5-ppm  calcium  standards.  Occasionally,  the  dilution 
+prepared  for  the  magnesium  determination  is  used  when 
+the  calcium  concentration  is  high.  The  undiluted  solution 
+(step  12  of  the  aluminum-magnesium  method)  is  used 
+when  the  calcium  concentration  is  low.  When  analyzing 
+for  calcium,  a  reagent  blank  must  be  C8u-ried  along  to 
+
+
+correct  for  the  calcium  content  of  the  sodium  peroxide. 
+Better  precision  is  obtained  if  the  sodium  peroxide  flux  is 
+weighed  when  preparing  the  fusions  for  calcium  analysis. 
+The  absorbance  of  the  calcium  solution  is  measured  at 
+211.3  nm  with  the  other  AA  instrument  parameters  set 
+according  to  the  manufactxu'er's  recommendations.  When 
+calcium  determination  is  combined  with  the  determination 
+of  fduminxmi  and  magnesium,  samples  may  be  run  rapidly 
+and  large  sample  loads  may  be  analyzed  quickly  without 
+sacrificing  reUability. 
+
+
+GRAVIMETRIC  SILICA  IN  MINERAL  CHROMITE  AND  FERROCHROME  SLAGS 
+
+
+SiHca  is  present  in  chromite  ores  as  a  basic  silicate.  In 
+characterization  and  beneficiation  studies  performed  on 
+chromites  at  this  Center,  the  chromium-silica  ratio 
+determines  the  purity  of  the  gangue  material  being 
+analyzed.    Accurate  characterization  of  the  original  ore 
+
+
+material  amd  the  further  feasibihty  of  smelting  to  ferro- 
+chrome  are  identified  by  using  this  ratio. 
+
+The  method  of  analysis  for  silica  at  this  Center  is  dehy- 
+dration of  the  siUcic  acid  with  sulfuric  and  perchloric  acids. 
+One  dehydration  is  accurate  enough  for  characterization  of 
+the  ore. 
+
+
+Equipment 
+
+Zirconium  crucible  (approximately  30-mL  capacity). 
+Platinum  crucible  (approximately  20-mL  capacity). 
+Meker  or  similar  gas-air  mix  burner. 
+400-mL  beaker  and  cover. 
+Boiling  or  bump  cup  for  400-mL  beaker. 
+Glass  stirring  rod. 
+Hotplate. 
+
+Rubber  policeman. 
+Funnel. 
+
+Filter  paper  and  pulp. 
+
+Fume   cabinet   or   hood   suitable  for   the  fuming   of 
+perchloric  acid. 
+Muffle  furnace. 
+
+
+Materials 
+
+Sodium  peroxide,  reagent  grade,  granular,  20  mesh  or 
+fmer. 
+
+Hydrochloric  acid,  reagent  grade,  concentrated. 
+
+Sulfuric  acid,  reagent  grade,  diluted  1:1  with  distilled 
+water. 
+
+Perchloric  acid,  reagent  grade,  concentrated. 
+
+Hydrofluoric  acid,  reagent  grade,  48  to  51  pet. 
+
+Hydrochloric  acid,  reagent  grade,  diluted  20:1  with 
+distilled  water. 
+
+
+Procedure 
+
+
+1.  Weigh  0.5  g  of  the  sample  into  a  zirconium  crucible. 
+
+2.  Add  4  to  12  g  of  sodium  peroxide,  and  stir  until  the 
+sample  is  thoroughly  mixed. 
+
+3.  Fuse  the  crucible  contents  using  the  gas  and  air 
+burner  until  all  particles  are  dissolved  completely. 
+
+4.  When  the  fusion  is  complete,  allow  the  crucible  amd 
+its  contents  to  cool. 
+
+5.  Gently  tap  the  melt  into  a  400-mL  beaker,  and  add 
+50  to  75  mL  of  distilled  water. 
+
+6.  Carefully  add  to  the  crucible  10  to  15  mL  of  distilled 
+water  and  5  mL  of  concentrated  hydrochloric  acid.  When 
+the  chemical  action  ceases,  slowly  pour  the  contents  of  the 
+crucible  into  the  400-mL  beaker  containing  the  mziin  melt. 
+
+
+7.  Police  the  crucible,  being  careful  to  remove  any  ad- 
+hering silica  particles  from  the  sides. 
+
+8.  Acidify  the  solution  in  the  400-mL  beaker  with  con- 
+centrated hydrochloric  acid. 
+
+9.  To  the  beaker  add  30  mL  of  1:1  sulfuric  acid  and 
+40  mL  of  concentrated  perchloric  acid. 
+
+10.  Place  the  beaker  and  its  contents  on  a  hotplate  in  a 
+perchloric  acid  hood,  and  slowly  evaporate  the  solution 
+until  dense  white  fumes  of  perchloric  acid  appear. 
+
+11.  Put  a  cover  glass  over  the  beaker,  and  reflux  at  a 
+high-heat  setting  on  the  hotplate  for  15  to  20  min.  A 
+boiling  or  bump  cup  made  of  aluminum  or  similar  material 
+helps  avoid  splattering. 
+
+
+12.  When  the  beaker  is  cool,  add  150  mL  of  distilled 
+water  to  the  mass  in  the  beaker  and  stir.  SUghtly  heat,  if 
+necessary,  to  dissolve  any  insoluble  materiiJ  other  than  the 
+silica. 
+
+13.  Filter  the  solution  through  a  medium-speed  paper 
+(such  as  S&S  589  white  ribbon)  plus  a  little  paper  pulp, 
+and  pohce  the  400-mL  beaker  to  remove  any  silica  that 
+adheres  to  the  sides. 
+
+14.  Wash  the  sUica  caught  in  the  filter  paper,  alternately, 
+five  times  with  distilled  water  and  five  times  with  the  5-pct 
+hydrochloric  acid  wash  solution  (heat  sUghtly). 
+
+15.  After  allowing  the  filter  paper  and  its  contents  to 
+drain  properly,  place  them  in  a  clean  platinimi  crucible. 
+
+16.  Starting  at  a  low  temperature  in  a  muffle  furnace, 
+ignite  the  crucible  and  contents  to  1,200°  C  for  approxi- 
+mately 1  h. 
+
+17.  Cool  in  a  desiccator,  and  weigh  the  platinum  crucible 
+containing  the  ignited  sihca  and  its  associated  impurities. 
+
+
+13 
+
+
+18.  Add  3  to  5  mL  of  hydrofluoric  acid  and  one  to  two 
+drops  of  1:1  sulfuric  acid  to  the  platinum  crucible. 
+
+19.  Slowly  volatilize  the  silica  as  sUicon  tetrafluoride  on 
+a  hotplate  at  a  low  heat. 
+
+20.  As  soon  as  the  hydrofluoric  acid  and  silica  have  evap- 
+orated and  fumes  of  sulfvu"ic  acid  appear,  increase  the  hot- 
+plate temperature  to  a  high  setting. 
+
+21.  When  drying  is  complete,  ignite  the  platinum  crucible 
+and  impurities  to  a  red  heat  over  a  burner. 
+
+22.  Weight  the  platinum  crucible  and  impurities  when 
+cool. 
+
+Calculation: 
+
+(wt  Ft  crucible  +  Si02+  impurities)  -  (wt  Pt  crucible  +  impurities) 
+
+
+sample  wt 
+
+
+X  100  =  pet  total  SiOj. 
+
+
+Procedure  Notes 
+
+
+1.  A  sample  size  suitable  for  most  chromite  ores  is 
+0.5  g.  If  considerable  (over  40  pet)  sihca  is  present,  reduce 
+the  sample  size  to  0.25  g. 
+
+2.  Increase  the  sodium  peroxide  as  the  Scunple  size  in- 
+creases, at  an  approximate  ratio  of  20  parts  of  peroxide  to 
+1  part  of  sample.  Again,  however,  consideration  must  be 
+given  to  melt  volume  at  high  sample  weights.  Thorough 
+mixing  cannot  be  overstressed.  Sample  particles  in  the 
+melt  can  aggregate  and  stubbornly  resist  attack. 
+
+3.  The  burner  should  be  capable  of  bringing  the  crucible 
+to  red  heat  on  the  bottom.  Mixing  remains  important.  If 
+particles  are  allowed  to  aggregate,  fusing  time  may  have  to 
+be  extended,  which  increases  the  attack  on  the  crucible 
+itself,  shortening  its  useful  life,  increasing  the  tendency  of 
+the  cooled  melt  to  stick  to  the  crucible,  and  adding  a  sig- 
+nificant concentration  of  zirconium  to  the  analyte  solution. 
+
+4.  If  the  melt  is  to  be  leached  quickly,  the  crucible  can 
+be  set  out  on  any  heat-resistant  material  to  cool.  If  the 
+melt  has  to  be  set  aside  for  a  while,  it  should  be  set  on  a 
+hotplate  on  low  heat  to  keep  it  from  absorbing  atmo- 
+spheric water  (which  makes  the  melt  stick  to  the  crucible). 
+
+5.  If  gentle  tapping  does  not  free  the  melt,  try  mod- 
+erately hard  tapping.  If  the  melt  still  sticks,  lay  the  cru- 
+cible on  its  side  in  the  bottom  of  the  beaker. 
+
+6.  The  leaching  reaction  can  range  from  very  slow  to 
+very  vigorous.  A  high  aluminum  concentration  tends  to 
+slow  the  reaction.  A  slow  leach  reaction  may  become  a 
+very  (ast  leach  reaction  when  sulfuric  acid  is  added,  so 
+
+
+care  must  be  exercised.  Once  the  leach  reaction  has  fin- 
+ished, the  addition  of  sulfuric  acid  is  generally  accom- 
+panied by  moderate  effervescence  unless  a  significant 
+amount  of  carbonate  is  present. 
+
+7.  Using  glassware  will  introduce  negligible  silica  into 
+the  analysis,  although  one  must  be  careful  not  to  uninten- 
+tionally add  silica  by  accidentally  chipping  a  stirring  rod, 
+etc.  CfUefully  pohce  all  glassware  and  crucibles  to  remove 
+particles  of  sihca.  Nonignited  silica  is  quite  sticky  and  ad- 
+heres readily  to  most  surfaces. 
+
+9.  The  purpose  of  using  sulfuric  and  perchloric  acids  is 
+to  dehydrate  the  soluble  silicic  acid  Si02*H20  to  insolu- 
+ble sihca  (SiOj).  These  two  acids  are  excellent  for  this 
+purpose. 
+
+10.  A  speciail  perchloric  acid  hood  is  needed  for  evapo- 
+ration since  most  commercial  hoods  are  not  designed  for 
+this  purpose  and  may  react  explosively  to  perchloric  acid 
+fumes. 
+
+11.  When  the  solution  reaches  a  volume  of  approximately 
+100  to  125  mL,  salts  start  to  precipitate.  As  this  happens, 
+occasional  stirring  keeps  the  solution  well  mixed  and  pre- 
+vents bumping.  A  bump  or  boiling  cup  is  a  good  preventa- 
+tive measure  against  splattering. 
+
+12.  An  acid  volume  of  50  to  75  mL  is  satisfactory  for  re- 
+fluxing  to  begin.  Do  not  fume  off  all  of  the  perchloric 
+acid.  If  this  happens,  insoluble  chromium  salts  will  appear, 
+which  will  not  redissolve  upon  adding  water.  Should  this 
+occur,  add  more  perchloric  acid  and  refume.  Refluxing  for 
+
+
+14 
+
+
+15  to  20  min  removes  almost  all  of  the  water  from  the 
+silicic  acid  and  also  oxidizes  the  iron  and  chromium  in 
+solution  to  an  orange  color. 
+
+13.  After  adding  distilled  water  to  the  cooled  and  refluxed 
+silicic  acid,  do  not  let  the  solution  stand  for  long,  as  some 
+of  the  colloidal  silica  will  redissolve.  It  may  be  necessary 
+to  heat  the  beaker  and  its  contents  slightly  or  to  add 
+several  milUliters  of  concentrated  hydrochloric  acid  to 
+redissolve  any  material  that  is  difficult  to  dissolve. 
+
+14.  Wash  the  fdter  paper  carefully  to  remove  all  traces  of 
+perchloric  acid.  //  this  is  not  done,  the  remaining 
+perchlorates  will  ignite  explosively  in  the  furnace. 
+
+16.  The  ignition  to  1,200°  C  effectively  removes  all  traces 
+of  water  from  the  silica. 
+
+17.  Ignited  sihca  (SiOj)  is  hght  and  fluffy.  Avoid  air 
+drafts  and  spillage  when  weighing  and  igniting.  The 
+weighed  silica  is  always  impure,  and  with  chromites  it  may 
+have  a  light  greenish  color.  Impurities  include  aluminum, 
+
+
+chromium,  iron,  titanium,  vanadium,  and  zirconium,  as 
+well  as  beryUium,  calcium,  amd  strontium,  if  present  in  the 
+initial  material.  The  weight  of  impurities  should  be 
+extremely  small  in  compairison  to  the  weight  of  silica 
+obtained  if  the  analysis  is  carefully  done. 
+
+18.  Adding  hydrofluoric  acid  to  the  weighed  silica 
+produces  sihcon  tetrafluoride  (SiF^),  which  is  a  gas.  This 
+step  must  be  done  in  a  hood  as  fumes  of  hydrofluoric  acid 
+and  silicon  tetrafluoride  are  extremely  toxic.  Sulfuric  acid 
+also  must  be  added  to  the  platinum  crucible  containing  the 
+ignited  sihca  and  impurities.  When  the  platinum  crucible 
+is  reignited  with  its  residue  of  iron,  aluminum,  etc., 
+everything  remaining  will  be  reignited  to  an  oxide  form, 
+as  originally  done  at  1,200°  C  rather  than  to  a  fluoride 
+form.  As  an  example,  ferric  sulfate  [Fe2(S04)3]  as  an 
+impurity  in  the  platinum  crucible  is  converted  to  ferric 
+oxide  (FejOj)  and  sulfur  trioxide  (SO3)  upon  reignition. 
+
+21.  Dirty  platinum  crucibles  may  be  cleaned  by  fusing 
+sodium  bisulfate  in  them  until  the  sides  and  bottom  are 
+free  of  stuck  particles. 
+
+
+MANGANESE  IN  MINERAL  CHROMITE,  FERROCHROME 
+SLAGS,  AND  FERROCHROME 
+
+
+Manganese  commonly  occurs  in  mineral  chromite  as  an 
+impurity,  and  the  amount  can  range  from  trace  quantities 
+to  a  few  percent.  In  ferrochrome  smelting  operations,  the 
+manganese  should  find  its  way  into  the  slag  rather  than  the 
+metal.  Data  from  these  analyses  have  most  often  been 
+used  to  trace  the  partitioning  of  the  manganese  through 
+the  smelting  process  and  for  material  balance  calculations. 
+
+At  this  Center,  the  method  of  choice  for  slags 
+and  ores  is  decomposition  by  peroxide  fusion,  followed 
+by  a  separation  of  interfering  elements  and  oxidation  of 
+
+Equipment 
+
+Zirconium  crucible  (approximately  30  mL  capacity). 
+
+Meker  or  similar  gas-air  mix  burner. 
+
+150-mL  beaker. 
+
+250-mL  beaker  cmd  cover. 
+
+Stirring  rod. 
+
+Magnetic  stirrer  and  stirring  bar. 
+
+200-mL  volumetric  flask. 
+
+100-mL  volumetric  flask. 
+
+Rubber  policeman. 
+
+Funnel. 
+
+Filter  paper. 
+
+Assorted  pipettes. 
+
+UV-visible  spectrophotometer. 
+
+Wash  bottle. 
+
+
+the  manganese  to  permanganate,  to  be  measured  by 
+molecular  absorbance  in  an  ultraviolet-  (UV)  visible 
+spectrophotometer. 
+
+MetaUic  ferrochrome  samples  may  be  decomposed  by 
+fusion  if  the  sample  is  ground  to  100  mesh  or  finer  and  the 
+sodium  peroxide  flux  is  moderated  by  the  addition  of  10  to 
+20  pet  of  sodium  carbonate.  Acid  digestion  beginning  with 
+approximately  5-pct  sulfuric  acid  and  a  trace  of  hydro- 
+fluoric acid  is  the  alternative. 
+
+
+Materials 
+
+Sodium  peroxide,  reagent  grade,  granular,  20  mesh  or 
+finer. 
+
+Sodium  carbonate,  reagent  grade,  anhydrous  powder. 
+
+Sulfuric  acid,  reagent  grade,  diluted  1:1  with  distilled 
+water. 
+
+Hydrogen  peroxide,  reagent  grade,  30-pct  solution. 
+
+Zinc  oxide,  reagent  grade,  slurry. 
+
+lodate  oxidant  solution. 
+
+Standard  manganese  solution. 
+
+
+15 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  zirconium  crucible. 
+
+2.  Add  5  to  10  g  of  sodium  peroxide  (plus  1  to  2  g  of 
+sodiiun  carbonate  for  ferrochrome  metal),  and  stir  until 
+the  sample  and  flux  are  thoroughly  mixed. 
+
+3.  Fuse  over  a  burner  until  all  sample  particles  are 
+dissolved.  Swirl  and  inspect  occasionally  to  keep  unat- 
+tacked  particles  dispersed. 
+
+4.  When  the  fusion  is  complete,  allow  the  crucible  and 
+melt  to  cool. 
+
+5.  When  they  are  cool,  tap  gently  to  free  the  melt  from 
+the  bottom  of  the  crucible. 
+
+6.  Place  the  soUdified  melt  in  the  250-mL  beaker,  add 
+about  20  mL  of  distilled  water,  and  cover  immediately. 
+
+7.  Place  the  crucible  in  front  of  its  beaker,  and  add  to 
+the  crucible  about  5  mL  of  distilled  water  and  about  2  mL 
+of  1:1  sulfuric  acid. 
+
+8.  Police  the  crucible  thoroughly,  and  slowly  rinse  its 
+contents  into  the  beciker  with  a  small  amount  of  distilled 
+water. 
+
+9.  Remove  and  rinse  the  beaker  cover  and  the  beaker 
+sides.   Place  a  stirring  rod  in  the  beaker. 
+
+10.  Slowly  and  with  vigorous  stirring,  acidify  the  leach  in 
+the  beaker  with  1:1  sulfuric  acid. 
+
+11.  Add  30-pct  hydrogen  peroxide  dropwise  with  vigorous 
+stirring  to  reduce  the  Cr**  to  Cr"^^  and  bring  the  beaker  to 
+a  boil  to  decompose  any  excess  peroxide. 
+
+12.  When  the  solution  is  clear,  remove  from  the  hotplate 
+and  cool  to  room  temperature. 
+
+
+13.  Place  a  stirring  bar  in  the  beaker  and  begin  stirring  at 
+a  moderate  rate. 
+
+14.  Add  zinc  oxide  slurry  in  small  (3-  to  5-mL)  portions, 
+allowing  for  dispersion  between  additions,  until  all  iron 
+and  chromium  are  precipitated  and  a  small  excess  of  zinc 
+oxide  is  apparent. 
+
+15.  Remove  juid  rinse  the  stirring  bar,  and  transfer  the 
+sample  slurry  to  a  200-mL  volumetric  flask.  Use  a  wash 
+bottle  to  ensure  complete  transfer. 
+
+16.  Cool  to  room  temperature  and  make  up  to  volume 
+with  distilled  water.  Stopper,  mix,  and  let  settle  for  a  time. 
+
+17.  Using  a  dry  funnel,  dry  paper,  and  a  dry  beaker,  fil- 
+ter a  portion  of  the  supernatant  Uquid  through  a  medium- 
+speed  qualitative  paper  (such  as  S&S  597). 
+
+18.  Pipette  an  ahquot  of  dry  filtered  solution  into  a 
+150-mL  beaker. 
+
+19.  Add  20  mL  of  the  iodate  oxidant  solution,  and  set  the 
+beaker  on  a  hotplate  at  low  to  medium  heat. 
+
+20.  Leave  the  beaker  on  the  hotplate  for  about  15  min 
+after  the  first  appearance  of  the  permanganate  purple. 
+
+21.  Remove  the  beaker  from  the  hotplate,  and  cool  to 
+room  temperature. 
+
+22.  Transfer  the  solution  to  a  100-mL  volumetric  flask, 
+make  to  the  mark  with  distilled  water,  stopper,  and  mix. 
+
+23.  Measure  the  absorbance  of  the  solution  with  a 
+UV-visible  spectrophotometer  at  545  nm. 
+
+24.  Prepare  a  cahbration  curve  by  pipetting  appropriate 
+aliquots  of  a  standard  manganese  solution  into  150-mL 
+beakers  and  following  steps  19  through  23. 
+
+
+Procedure  Notes 
+
+
+1.  Sample  size  is  estimated  to  yield  0.5  to  1  mg  of 
+manganese  in  the  final  aliquot  for  oxidation. 
+
+2.  Increase  the  sodium  peroxide  as  the  sample  size 
+increases,  but  consider  the  final  melt  volume  when  the 
+sample  weight  approaches  1  g.  When  metcds  are  fused  in 
+sodium  peroxide  they  tend  to  behave  like  a  thermite 
+mixture.  Carbon  will  behave  that  way  also  but  will  not  get 
+as  hot  as  a  metal.  The  addition  of  sodium  carbonate  to 
+the  flux  will  slow  the  reaction  of  metal  and  peroxide.  Iron 
+burns  very  fast  and  very  hot;  chromium  burns  much  more 
+slowly.  If  a  sample  of  ferrochrome  were  as  high  as  80  pet 
+chromium,  moderation  with  sodium  carbonate  would  prob- 
+ably not  be  necessary  as  long  as  the  sample  and  flux 
+
+
+were  well  mixed.  Efficient  mixing  of  the  sample  and  flux 
+cannot  be  overemphasized.  Several  milligrams  of  sample 
+left  unmixed  can  produce  a  spot  hot  enough  to  burn 
+through  a  zirconium  crucible. 
+
+3.  The  burner  should  be  capable  of  bringing  the  bottom 
+of  the  crucible  to  red  heat.  When  the  flux  and  sample 
+reach  sintering  temperature,  sample  particles  may  begin  to 
+burn.  This  produces  reddish-orange  flashes  and  some 
+hissing  and  popping  sounds.  When  this  happens,  remove 
+the  crucible  from  the  flame  and  attempt  to  swirl  the  con- 
+tents so  that  the  heat  of  the  burning  metal  will  be 
+absorbed  by  the  remaining  flux  and  sample  mix.  This  is 
+called  autofusion  and  is  common  in  samples  with  a  very 
+
+
+16 
+
+
+high  carbon  content  and  well-moderated  flux.  Rarely  will 
+any  of  the  sample-flux  mixture  be  ejected  from  ine  crucible 
+if  mixing  has  been  thorough.  Very  rarely  a  sample-flux 
+mix  will  "skyrocket"  or  be  uncontrollably  active.  If  this 
+happens,  while  holding  the  crucible  with  tongs,  remove  the 
+crucible  from  the  flame  and  hold  it  as  still  as  possible  until 
+the  activity  has  subsided.  Let  the  melt  soUdify  and  drop 
+the  crucible  into  a  large  beaker  or  sink  partly  filled  with 
+tap  water.  Spilled  melt  may  sometimes  be  chipped  off 
+such  materials  as  transite  and  stone  counters,  but  thorough 
+cleanup  will  require  the  use  of  dilute  acid  and  plenty  of 
+water.  Skyrocketing  is  nearly  always  caused  by  inaccurate 
+sample  estimates,  very  poor  mixing  of  sample  and  flux,  or 
+lack  of  flux  moderation;  with  care  it  is  avoidable. 
+
+4.  If  the  melt  is  to  be  leached  soon,  then  the  crucible 
+may  be  placed  on  any  heat-resistant  material  to  cool.  If 
+the  melt  must  sit  for  some  time  before  leaching,  the 
+crucible  can  be  placed  on  a  low-heat  hotplate  to  keep  it 
+from  absorbing  atmospheric  moisture. 
+
+5-6.  If  gentle  tapping  does  not  free  the  melt,  then 
+stronger  tapping  should  be  tried.  If  the  melt  sticks 
+stubbornly,  then  place  the  crucible  upside  down  on  a  clean 
+piece  of  some  durable,  nonbrittle,  nonreactive  material 
+(such  as  a  clean  scrap  of  counter  stone).  Tap  on  the 
+bottom  of  the  crucible  with  a  light  hammer  until  the  melt 
+is  broken  free.  Transfer  the  melt  to  a  250-mL  beaker,  and 
+rinse  any  small  melt  particles  into  the  beaker  also. 
+Proceed  with  the  leach. 
+
+7-8.  Often  a  small  part  of  the  melt  will  stick  in  the 
+crucible  bottom,  and  the  melt  will  splatter  on  the  crucible 
+walls  during  fusion.  These  walls  should  all  be  poUced. 
+Pour  the  policing  solution  into  the  beaker  slowly  and 
+carefully.  The  solution  in  the  beaker  is  very  basic,  and  the 
+solution  in  the  crucible  is  moderately  acidic. 
+
+9.  The  leaching  reaction  is  usually  quite  active  and  often 
+splashes  leachate  on  the  cover  and  sides. 
+
+10.  Considerable  heat  is  evolved  when  acidifying  the 
+highly  basic  leachate  with  the  highly  acidic  1:1  sulfuric  acid. 
+Excess  sodium  peroxide  will  also  be  partially  decomposed 
+and  give  off  oxygen.  Vigorous  stirring  and  slow  acid 
+addition  are  therefore  imperative.  Observe  closely  during 
+the  acid  addition  to  keep  the  reaction  from  boiling  out  of 
+the  beaker.  If  sodium  carbonate  was  added  to  the  flux, 
+then  carbon  dioxide  will  be  evolved  on  acidification, 
+causing  considerable  foaming  and  requiring  even  closer 
+attention. 
+
+11.  Ideally,  just  enough  acid  should  be  added  to  com- 
+pletely dissolve  the  melt.   Practically,  attempt  to  keep  the 
+
+
+excess  of  acid  small;  it  will  be  neutralized  in  a  later  step. 
+The  solutions  resulting  from  fused  samples  usually  have 
+most,  if  not  all,  of  their  chromium  in  the  f  6  state.  It  is 
+necessary  to  reduce  this  chromium  to  the  +  3  state  so  that 
+it  win  be  precipitated  by  the  zinc  oxide  since  the  Cr^*  will 
+interfere  in  the  absorbance  measurement.  The  most  often 
+used  method  of  reducing  the  Cr^^  to  the  Cr^^  state  is  to 
+add  small  portions  of  30-pct  hydrogen  peroxide  until  an 
+addition  produces  no  color  change  and  little  more  effer- 
+vescence. The  solution  is  then  boiled  for  several  minutes 
+to  destroy  excess  peroxide.  The  addition  of  hydrogen  per- 
+oxide to  cm  acidic  solution  of  Cr^*  first  produces  the  pur- 
+ple Cr^^  ion,  which  then  disproportionates  to  Cr^^  and 
+Cr**.  This  purple  color  is  very  intense;  lack  of  it,  upon  a 
+peroxide  addition,  is  the  prime  indicator  of  complete 
+reduction.  Boiling  will  decompose  excess  hydrogen  per- 
+oxide, but  a  small  amount  remains  intact.  This  excess 
+peroxide  will  consume  the  oxidizing  solution  by  reacting 
+with  the  oxidized  manganese.  Therefore,  close  attention 
+must  be  given  during  the  Cr^*  reduction  to  minimize  the 
+hydrogen  peroxide  excess. 
+
+12.  The  zinc  oxide  precipitation  will  cause  heat  to  be 
+evolved,  so  the  solution  should  be  cooled. 
+
+13-15.  Stirring  should  be  vigorous  enough  to  completely 
+disperse  the  added  zinc  oxide  slurry  but  not  vigorous 
+enough  to  cause  bubbles.  For  the  best  results,  allow  the 
+first  few  additions  to  dissolve  completely  before  continuing. 
+When  the  precipitate  becomes  dark  and  begins  to  persist, 
+make  the  additions  slightly  larger  and  more  frequent  until 
+the  precipitate  no  longer  darkens  but  begins  to  lighten  in 
+color.  The  precipitation  is  complete  when  there  are  white 
+particles  of  zinc  oxide  visible  in  the  precipitate  and  the  liq- 
+uid looks  slightly  milky  if  the  precipitate  is  allowed  to  set- 
+tle for  a  minute  or  two. 
+
+16.  When  mixing  the  contents  of  the  flask,  shake  vigor- 
+ously enough  to  dislodge  from  the  glass  any  precipitate 
+that  has  caked  while  cooling. 
+
+18.  Take  an  aliquot  to  approximate  a  manganese  content 
+of  1  mg  if  possible,  but  use  50  mL  as  a  maximum. 
+
+20.  All  of  the  manganese  present  should  be  oxidized  with- 
+in 5  min  of  the  first  appearance  of  color;  15-min  digestion 
+allows  a  safety  factor. 
+
+23.  Measurements  should  be  made  the  same  day  as  the 
+oxidation  step.  Checks  made  at  this  Center  have  indicated 
+that  the  color  is  stable  for  at  least  24  h,  except  in  the  case 
+of  very  high  manganese  concentrations  (more  than  3  mg  of 
+manganese  per  100-mL  flask). 
+
+
+17 
+
+
+ACID  DIGESTION  OF  FERROCHROME  METAL 
+
+
+At  times  it  may  be  necessary  or  desirable  to  dissolve  a 
+ferrochrome  sample  in  acid  rather  than  fusing  it  in  sodium 
+peroxide.  Acid  digestion  methods  are  slow,  but  require 
+little  in  the  way  of  attention.  Two  alternative  methods  are 
+
+
+described  here.  The  A  method  is  the  basic  method  to  use 
+for  most  ferrochrome  samples.  The  B  method  is  for  very 
+stubborn  samples. 
+
+
+METHOD  A 
+
+
+Equipment 
+
+250-mL  beaker  and  cover. 
+400-mL  beaker  and  cover. 
+Hotplate. 
+Funnel  (optional). 
+Filter  paper  (optional). 
+Fume  hood. 
+
+
+Materials 
+
+Sulfuric  acid,  reagent  grade,  5-pct  solution. 
+Hydrofluoric  acid,  reagent  grade,  concentrated. 
+
+
+Procedure 
+
+
+1.  Weigh  the  sample  into  a  250-mL  beaker. 
+
+2.  Add  100  mL  of  5-pct  sulfuric  acid  solution  and  1  to 
+2  mL  of  concentrated  hydrofluoric  acid. 
+
+3.  Place  the  beaker  on  a  low-  to  medium-heat  hotplate, 
+and  cover. 
+
+4.  When  the  sample  has  dissolved,  remove  the  cover  and 
+take  the  solution  to  fumes  of  sulfuric  acid;  allow  it  to  fume 
+for  a  few  minutes. 
+
+5.  Remove  the  beaker  from  the  heat,  cool,  and  dilute 
+with  distilled  water.  Warm  if  necessary  to  redissolve  the 
+salts. 
+
+
+6a.  If  the  sample  is  for  a  total  chromium  determination, 
+transfer  the  solution  to  a  400-mL  beaker  and  go  to  step  11 
+of  the  total  chromium  method. 
+
+6b.  If  the  sample  is  for  total  iron  determination,  transfer 
+the  solution  to  a  400-mL  beaker,  add  3  to  5  g  of  am- 
+monium chloride,  and  go  to  step  10  of  the  total  iron 
+method. 
+
+6c.  If  the  sample  is  for  manganese  determination,  cool  to 
+room  temperature  or  below  and  go  to  step  13  of  the  man- 
+ganese method. 
+
+
+Procedure  Notes 
+
+
+2.  The  acid  digestion  must  be  started  gently.  If  the 
+initial  acid  concentration  is  too  high,  the  chromium  in  the 
+ferrochrome  will  be  passivated  or  become  very  unreactive. 
+The  low  initial  sulfuric  acid  concentration  and  the  addition 
+of  the  small  amount  of  hydrofluoric  acid  are  to  avoid  this 
+passivation. 
+
+3.  The  solution  will  slowly  lose  water;  do  not  allow  the 
+total  volume  to  drop  below  about  25  mL  until  all  of  the 
+sample  has  dissolved. 
+
+
+4.  Do  not  take  the  solution  to  copious  fumes  or  allow  it 
+to  fume  for  more  than  a  few  minutes.  Excess  fuming  can 
+form  refractory  chromium  salts  that  are  as  difficult  to  dis- 
+solve as  chromite  itself. 
+
+6.  The  solution  may  contain  carbon  or  precipitated 
+silica.  To  remove  them,  if  desired,  filter  the  solution 
+through  a  medium-  to  slow-speed  quaHtative  paper  and 
+wash  thoroughly. 
+
+
+METHOD  B 
+
+
+Equipment 
+
+250-mL  beaker  and  cover. 
+400-mL  beaker  and  cover. 
+Hotplate, 
+Funnel  (optional). 
+Filter  paper  (optional). 
+Perchloric  acid  fume  hood. 
+
+
+Materials 
+
+Perchloric  acid,  reagent  grade,  concentrated. 
+Nitric  acid,  reagent  grade,  concentrated. 
+
+
+18 
+
+
+Procedure 
+
+1.  Weigh  the  sample  into  a  250-mL  beaker.  4.  Cover  the  beaker  and  set  on  a  medium-  to  high-heat 
+
+hotplate. 
+
+2.  Add  enough  water  to  just  cover  the  sample  and 
+
+25  mL  of  perchloric  acid.  5.  Bring  to  fumes  of  perchloric  acid,  and  fume,  covered, 
+
+until  all  metal  particles  are  dissolved. 
+
+3.  If  the  sample  is  known  to  have  a  high  carbon  content, 
+
+add  20  mL  of  concentrated  nitric  acid.  6.  See  step  6  of  method  A. 
+
+Procedure  Notes 
+
+
+3.  Nitric  acid  is  necessary  only  when  carbon  is  present 
+in  percent  amounts.  The  nitric  acid  partially  oxidizes  the 
+carbon  so  that  when  the  perchloric  acid  begins  to  react 
+with  it  the  carbon  does  not  react  explosively.  Carbon  that 
+has  not  been  predigested  with  nitric  acid  wiU  often  react 
+explosively  when  the  perchloric  acid  reaches  fuming 
+temperature. 
+
+4-6.  The  sample  is  attacked  by  fuming  perchloric  acid  to 
+produce  chromic  acid.  The  process  is  slow,  and  the  cover 
+is  necessary  to  provide  some  reflux.  Chromic  acid  crystals 
+are  usually  produced,  and  it  may  be  necessary  to  cool  the 
+beaker  and  dissolve  the  crystals  with  water  to  see  if 
+the  last  particles  of  sample  have  dissolved.  Silica  is 
+precipitated  by  the  fuming  perchloric  acid  and  may  be 
+
+
+visible  as  hght-colored,  low-density  particles  in  the 
+solution.  Carbon  is  oxidized  to  carbon  dioxide  by  the 
+fuming  acid,  but  occasionally  graphite  will  survive  the 
+treatment.  If  graphite  is  present,  it  will  usually  be  found 
+floating  on  the  surface  of  the  solution  and  occasionally  as 
+dark-colored,  low-density  particles  on  the  bottom. 
+Unattacked  sample  will  be  the  only  heavy  or  high-density 
+particles  in  the  beaker.  If  no  heavy  particles  can  be  seen, 
+then  the  solution  is  considered  complete.  If  the  sample  is 
+to  be  used  for  a  manganese  determination,  the  chromium 
+should  be  reduced  to  the  +3  state.  (See  step  11  of  the 
+manganese  method.)  If  removal  of  the  perchloric  acid  is 
+desired,  this  ccm  be  done  by  adding  20  mL  of  1:1  sulfuric 
+acid  and  taking  it  to  fumes. 
+
+
+DISCUSSION 
+
+
+Analysts  assigned  to  make  a  new  determination  on  a 
+sample  often  must  deduce  the  significance  of  steps  in  the 
+usually  sketchy  procedure  descriptions  of  in-house  methods 
+and  methods  in  journal  or  reference  pubUcations.  The 
+familiau^ization  process  results  in  a  delay  in  mastering  the 
+method.  This  report  seeks  to  shorten  that  delay,  allowing 
+analysts  newly  assigned  to  the  covered  determinations  a 
+quicker  understanding  of  the  methods. 
+
+The  information  presented  here  was  collected  empiri- 
+cally by  the  analysis  of  thousands  of  samples  over  several 
+years  and  the  observation  of  the  effects  of  small  variations 
+in  technique. 
+
+
+The  rehance  on  zirconium  crucibles  as  alkaline  fusion 
+vessels  may  have  been  noted.  Their  reUability  in  terms  of 
+durability  and  lowered  introduction  of  interfering  species 
+in  comparison  to  iron  and  nickel  crucibles  has  been  proven 
+to  the  satisfaction  of  this  Center.  They  should  not,  how- 
+ever, be  used  in  fusions  in  a  muffle  furnace  because  of  sig- 
+nificant oxygen  attack. 
+
+Any  request  for  assistance  concerning  the  subject  of  this 
+report  should  be  addressed  to  the  authors,  Bureau  of 
+Mines,  Albany  Reseau^ch  Center,  Albany,  OR. 
+
+
+REFERENCES 
+
+
+1.  Thomas,  P.  R.,  and  E.  H.  Boyle,  Jr.  Chromium 
+Availability-Market  Economy  Countries.  A  Minerals  Availability 
+Program  Appraisal.  BuMines  IC  8977,  1984,  86  pp. 
+
+2.  Dahlin,  D.  C,  L.  L.  Brown,  and  J.  J.  Kinney.  Podiform  Chromite 
+Occurrences  in  the  Caribou  Mountain  and  Lower  Kanuti  River  Areas, 
+Central  Alaska.   Part  II:  Beneficiation.   BuMines  IC  8916,  1983,  15  pp. 
+
+3.  Kirby,  D.  E.,  D.  R.  George,  and  C.  B.  Daellenbach.  Chromium 
+Recovery  From  Nickel-Cobalt  Laterite  and  Laterite  Leach  Residues. 
+BuMines  RI  8676,  1982,  22  pp. 
+
+4.  Cotton,  F.  A.,  and  G.  Wilkinson.  Advanced  Inorganic  Chemistry. 
+A  Comprehensive  Text.    Interscience  Publ.,  3d  ed,  1972,  1145  pp. 
+
+5.  Hillebrand,  W.  F.,  and  G.  E.  F.  Lundell.  Applied  Inorganic 
+Analysis.  With  Sf>ecial  Reference  to  the  Analysis  of  Metals,  Minerals, 
+and  Rocks.    Wiley,  1953,  1034  pp. 
+
+6.  Jeffery,  P.  G.  Chemical  Methods  of  Rock  Analysis.  Pergamon, 
+1975,  525  pp. 
+
+
+7.  Kolthoff,  I.  M.,  P.  V.  Elving,  and  E.  B.  Sandell  (eds).  Treatise  on 
+Analytical  Chemistry.   Interscience  Encyclopedia,  pt  2,  v.  2-4,  7-8,  1961. 
+
+8.  Lundell,  G.  E.  F.,  and  J.  I.  Hoffman.     Outlines  of  Chemical 
+Analysis.   Wiley,  1938,  250  pp. 
+
+9.  Lundell,  G.  E.  F.,  J.  I.  Hoffman,  and  H.  A.  Bright.    Chemical 
+Analysis  of  Iron  and  Steel.    Wiley,  1931,  641  pp. 
+
+10.  Scott,  W.  W.,  and  N.  H.  Furman  (eds).  Scott's  Standard  Methods 
+of  Chemical  Analysis.    D.  Van  Nostrand,  v.  1,  5th  ed.,  1948,  1234  pp. 
+
+11.  Weinig,  A.  J.,  and  W.  P.  Schoder.    Technical  Methods  of  Ore 
+Analysis  of  Chemist  and  Colleges.    Wiley,  11th  ed.,  1948,  325  pp. 
+
+12.  Welcher,  F.  J.  (ed).    Standard  Methods  of  Chemical  Analysis. 
+D.  Van  Nostrand,  v.  1,  6th  ed.,  1962,  1401  pp. 
+
+13.  Young,    R.    S.      Chemical   Analysis   in   Extractive   Metallurgy. 
+Charies  Griffin,  1971,  427  pp. 
+
+
+19 
+
+
+APPENDIX  A.-REAGENT  PREPARATION 
+
+
+O.IN  Fe*^  Solution 
+
+
+Calculation 
+
+
+Preparation 
+
+Dissolve  39  g  of  ferrous  ammonium  sulfate  hexahydrate 
+in  distilled  water  with  10  mL  of  concentrated  sulfuric  acid. 
+Dilute  to  1  L  with  distilled  water. 
+
+Standardization 
+
+Weigh  accurately  130  to  140  mg  of  primary  standard- 
+grade  potassiiun  dichromate  into  each  of  three  400-mL 
+beakers.  Add  about  150  mL  of  distilled  water  and  about 
+5  mL  of  concentrated  sulfuric  acid,  and  stir  until  com- 
+pletely dissolved.  Titrate  with  the  new  ferrous  solution  to 
+the  disappearance  of  the  diphenylamine  sulfonate  indicator 
+purple. 
+
+
+NCr^^  = 
+
+
+Calculation 
+
+
+A^Fe 
+
+
++  2         wt  K2Cr207  X  pet  purity  K2Cr20-7 
+meq  wt  K2Cr207  x  100  x  mL  titrated 
+
+mg  Cr  A^  Fe^^  x  51.996 
+
+
+mL  Fe^^  3 
+
+1  mL  O.IOOA^  Fe^'  =  1.733  mg  Cr. 
+O.IN  Cr*^  Solution 
+Preparation 
+
+Dissolve  4.9  g  of  potassium  dichromate  in  distilled  wa- 
+ter and  dilute  to  1  L. 
+
+Standardization 
+
+Weigh  accurately  0.17  to  0.18  g  of  electrolytic  or  NBS 
+standard-grade  iron  metal  into  each  of  three  250-mL 
+beakers.  Add  20  mL  of  distilled  water  and  20  mL  of 
+concentrated  hydrochloric  acid,  cover,  and  heat  gently  until 
+the  iron  is  completely  dissolved.  When  dissolved,  remove 
+from  the  heat.  Remove  the  cover,  and  rinse  cuiy 
+condensate  into  the  beaker.  Rinse  the  beaker  sides,  and 
+quantitatively  transfer  the  solution  to  a  500-mL  Erlen- 
+meyer  flask.  Make  the  volume  up  to  125  to  150  mL  with 
+distilled  water.  Bring  to  a  boil  and,  dropwise,  add  10-pct 
+stannous  chloride  solution,  with  mixing,  until  the  solution 
+is  colorless.  Add  3  to  5  drops  excess  and  just  bring  to  a 
+boil  again.  Cool  to  room  temperature  or  below,  and  add 
+10  mL  of  a  saturated  solution  of  mercuric  chloride:  mix, 
+and  add  10  mL  of  concentrated  phosphoric  acid.  Titrate 
+with  the  prepared  Cr*^  solution  using  sodium  diphenyl- 
+amine sulfonate  indicator  to  a  purple  endpoint. 
+
+
+wt  Fe  X  pet  purity  Fe 
+meq  wl  Fe  x  100  x  mL  titrated 
+
+mg  Fe 
+
+
+A^  Cr"^^  X  55.847. 
+
+
+mL  Cr"^^  sol'n 
+1  mL  O.IOOON  Cr"^^  =  5.585  mg  Fe. 
+
+Sodium  Diphenylamine  Sulfonate  Indicator 
+
+Dissolve  1.35  g  of  reagent-grade  sodium  diphenylamine 
+sulfonate  in  500  mL  of  distUled  water. 
+
+Vanadium-Acid  Mixture  for  Ferrous  Iron 
+
+Add  3.0  g  of  vanadium  pentoxide  (V2O5)  to  a  mixture 
+of  300  mL  of  concentrated  phosphoric  acid  and  600  mL  of 
+concentrated  sulfuric  acid.  Heat  and  stir  until  all  of  the 
+vanadium  pentoxide  has  dissolved.  Add,  dropwse,  a 
+saturated  solution  of  potassium  permanganate  until  the 
+acid  mixture  gives  a  faint  pink  when  a  few  drops  are 
+diluted  with  water.  Heat  to  fumes  of  sulfuric  acid,  and 
+continue  to  fume  for  several  minutes  to  destroy  the  excess 
+permainganate.  Cool  thoroughly  and  transfer  to  a  stock 
+bottle.  If  filtration  is  necessary,  use  a  pad  of  glass  wool  in 
+a  large  funnel. 
+
+Silver  Nitrate  Solution 
+
+Dissolve  25  g  of  reagent-grade  silver  nitrate  in  distilled 
+water  and  10  mL  of  concentrated  nitric  acid.  Dilute  to  1 
+L  and  store  away  from  light. 
+
+Stannous  Chloride  Reducing  Solution 
+
+Dissolve  20  g  of  stannous  chloride  in  200  mL  of  20-pct 
+(1:4)  hydrochloric  acid.  Make  this  solution  fresh  weekly  or 
+store  it  in  a  bottle  with  several  high-purity  tin  shot. 
+
+Saturated  Mercuric  Chloride  Solution 
+
+Heat  distilled  water  in  a  large  beaker  to  almost  boiling. 
+Add  reagent-grade  mercuric  chloride  to  the  water  by  the 
+spoon  or  spatula  with  vigorous  stirring  until  no  more  will 
+dissolve.   Transfer  to  a  stock  bottle. 
+
+Manganese  Oxidant  Solution 
+
+Dissolve  7.5  g  of  reagent-grade  potassium  periodate  in 
+100  mL  of  hot  1:1  nitric  acid.  When  dissolved,  cool  and 
+add  400  mL  of  concentrated  phosphoric  acid,  dilute  to  1  L, 
+and  transfer  to  a  stock  bottle. 
+
+
+20 
+
+
+Saturated  Manganese  Solution 
+
+Nearly  fill  a  convenient  size  stock  bottle  with  warm 
+distilled  water.  Add  manganese  sulfate  or  potassium 
+permanganate  to  the  bottle,  and  shake  or  stir  until 
+dissolved.  Repeat  until  no  more  will  dissolve,  and  add  a 
+small  excess.  Transfer  a  portion  of  the  supernatant  liquid 
+to  a  dropping  bottle  for  use.  Replenish  the  water  or  the 
+manganese  compoimd  as  necessary. 
+
+
+Zinc  Oxide  Slurry 
+
+Half  fill  a  250-mL  beaker  with  zinc  oxide  powder.  Add 
+distilled  water  with  stirring  until  the  slurry  is  smooth  and 
+is  the  consistency  of  heavy  cream  or  heavy  latex  pjiint.  Stir 
+the  slurry  occasionally  diu-ing  use.- 
+
+
+21 
+
+
+APPENDIX  B.-USE  OF  ZIRCONIUM  CRUCIBLES 
+
+
+Zirconium  crucibles  are  rapidly  becoming  a  standiu-d 
+piece  of  equipment,  particularly  in  laboratories  where 
+fusions  using  strongly  alkaline  fluxes  are  common.  This 
+Center  has  found  no  better  material  to  use  for  the  thou- 
+sands of  sodium  peroxide  fusions  that  are  done  here  every 
+year. 
+
+Zirconium  crucibles  usually  arrive  from  their  supphers 
+in  a  polished,  silvery  state.  They  resemble  a  polished  iron 
+or  nickel  crucible  very  closely.  If  they  become  confused 
+with  iron  or  nickel  crucibles,  they  can  be  identified  by 
+tapping  them  with  a  pencil  or  spatula  and  hstening  to  the 
+tone  produced.  Zirconium  crucibles  produce  a  pleasant, 
+almost  musical  tone  when  tapped.  The  first  use  of  the 
+crucible  in  a  flame  wiU  produce  a  dark-gray  coating  over 
+the  metal  that  seems  to  enhance  the  crucible's  resistance 
+to  sodium  peroxide.  It  is  thought  that  this  coating  is  a 
+nitride  or  a  nitride-oxide  mixture,  but  no  attempt  has  been 
+made  to  confirm  or  refute  the  idea. 
+
+The  use  of  zirconium  crucibles  should  be  limited  to 
+alkaline  fluxes  and  fusions  done  over  a  burner.  Zirconium 
+crucibles  should  not  be  used  for  extended  fusions  or 
+ignitions  in  a  muffle  furnace  unless  an  atmosphere  free  of 
+nitrogen  and  oxygen  can  be  maintained  in  the  furnace. 
+The  hottest  part  of  the  flame  produced  by  a  Fisher  or 
+similar  design  gas-air  mix  burner  is  proper  for  most 
+sample-flux  mixtures.  If  a  high  carbon,  sulfide,  or  metaUic 
+content  sample  is  being  fused,  it  is  usually  desirable  to 
+begin  the  fusion  gently  in  case  the  sample  goes  into 
+autofusion.  The  crucible  may  be  supported  on  a  wire 
+triangle  over  the  flame  or  held  with  tongs,  depending  on 
+the  analyst's  preference. 
+
+Autofusion  occurs  when  the  sample-flux  reaction  is 
+exothermic,  and  the  effect  can  range  from  barely  de- 
+tectable to  explosive.  Any  sample  known  to  contain  a 
+reduced  species  or  a  reducing  agent  should  be  fused  in 
+sodium  peroxide  moderated  by  the  addition  of  anhydrous 
+sodium  carbonate,  and  extra  care  must  be  taken  in  as- 
+suring complete  mixing  of  the  sample  and  flux.  A  well- 
+mixed  fusion  will  seldom  eject  material  from  the  crucible 
+
+
+even  if  the  fusion  becomes  quite  active.  If  an  autofusion 
+becomes  too  active  or  skyrockets,  remove  the  crucible 
+from  over  the  burner  as  quickly  as  safety  will  allow.  Place 
+or  hold  the  crucible  with  tongs  where  it  will  not  contami- 
+nate any  other  work,  imtil  the  melt  solidifies,  and  then 
+drop  the  crucible  into  a  large  beaker  or  a  sink  partially 
+fiUed  with  water.  Allow  the  leaching  reaction  to  subside 
+and  then  retrieve  the  crucible,  clean  it,  and  check  it  for 
+damage. 
+
+With  proper  care,  zirconium  crucibles  can  last  for  more 
+than  100  fusions.  They  should  be  checked  before  their 
+first  use  for  manufacturing  flaws  such  as  cracks  or  pits. 
+During  normal  use,  the  bottom  of  the  crucible  is  the  part 
+that  receives  the  most  severe  abuse  and  the  edge  of  the 
+bottom  is  where  most  crucibles  fail.  As  the  crucible  is 
+used  the  bottom  becomes  thinner,  and  when  it  is  thin 
+enough  so  that  it  can  be  flexed  with  finger  pressure,  the 
+crucible  should  be  checked  before  each  use  for  pinholes 
+around  the  edge  of  the  bottom.  Discard  any  crucible  that 
+has  a  pinhole;  the  thin  edge  of  a  pinhole  is  particularly 
+susceptible  to  attack  by  sodium  peroxide.  Also,  do  not  use 
+crucibles  with  thin  bottoms  to  fuse  samples  that  may  auto- 
+fuse.  Extending  the  fusion  time  for  a  sample  increases 
+the  attack  on  the  crucible,  which  in  turn  shortens  the  life 
+of  the  crucible  and  increases  the  amount  of  zirconium  in- 
+troduced into  the  sample.  In  general,  the  crucible  and  its 
+contents  will  come  to  red  heat  within  about  3  min.  The 
+melt  in  the  crucible  should  then  be  swirled  and  the  bottom 
+examined  for  sample  particles.  The  fusion  is  assumed 
+complete  when  no  more  sample  particles  can  be  found. 
+Some  samples  are  not  so  easily  distinguished,  and  only  ex- 
+perience with  that  sample  type  can  form  a  basis  forjudging 
+completion. 
+
+Sodium  peroxide  fusions  should  not  be  attempted  out- 
+side a  fume  hood.  At  the  minimum,  an  operator  should 
+wear  safety  glasses  and  a  lab  coat  or  apron.  Durable 
+gloves  would  be  advisable  if  samples  known  to  be  prone  to 
+autofusion  are  to  be  used. 
+
+
+22 
+
+
+APPENDIX  C.-NOTES  ON  SAMPLE  PREPARATION 
+
+
+The  grind  size  or  mesh  size  of  the  sample  is  an  ahnost 
+crucial  consideration  in  the  analysis  of  mineral  chromite, 
+ferrochrome  slags,  and  ferrochrome  metal.  In  general, 
+the  finer  the  sample  particle  size,  the  easier  it  will  be 
+to  dissolve.  If  all  samples  could  be  ground  to  pass 
+a  2(X)-mesh  screen,  nearly  all  of  the  dissolution  problems 
+would  be  solved.  In  practice,  a  sample  ground  to  pass  a 
+100-mesh  screen  will  present  little  in  the  way  of  problems, 
+but  for  mineral  and  slag  samples  in  particular,  larger 
+
+
+sample  particles  should  be  avoided.  Larger  sample 
+particles  of  metal,  instead  of  being  harder  to  fuse,  are 
+actually  easier  to  fuse  but  have  a  tendency  to  produce  hot 
+spots  in  the  crucible  and  so  contribute  to  burnthrough. 
+Larger  metal  particles,  of  course,  are  slower  to  dissolve  in 
+acid  than  smellier  pcu^ticles.  As  a  general  rule,  any  sample 
+ground  to  pass  a  100-mesh  screen  should  be  acceptable, 
+and  any  sample  that  will  not  pass  a  60-mesh  screen  will 
+present  problems  with  sample  decomposition. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29075 
+
+
+■0 
+
+m 
+
+z 
+> 
+
+r- 
+
+:l 
+11 
+o 
+
+9 
+
+"0 
+X 
+< 
+> 
+H 
+
+m 
+
+c 
+
+m  </) 
+I     CO 
+
+
+&> 
+
+
+3 
+O 
+
+> 
+
+00 
+
+c 
+
+CO 
+
+z 
+m 
+
+
+5m 
+
+o  ^ 
+
+Ss 
+
+^  en 
+<o 
+
+00 
+
+o 
+o 
+
+
+CD  C 
+
+5  w 
+
+
+O  "O 
+
+ft 
+
+<T>    3 
+
+
+> 
+
+z 
+m 
+O 
+
+c 
+> 
+
+o 
+
+"D 
+
+O 
+
+30 
+
+
+m 
+
+r— 
+O 
+■< 
+m 
+
+DO 
+
+
+255    9 
+
+
+.40*. 
+
+
+a5°^ 
+
+
+^o 
+
+
+.-tOe. 
+
+
+^^V"^         ^V'°-»*%^'^'^        \.**^^V'^         '^<J''--***V^        V'-^^^A^  "^^^^JS^.Q 
+
+:^i^*^"^.    ..^\^:k-i:vV    y.:Siv%r^.    .v^\.'.o.X    .^^^^^*.\.      v^'.'r.^-."^ 
+
+
+^0^ 
+
+
+...»     <V  <^    'o.^*     .0^  "^5^ 
+
+
+^^-^^ 
+
+
+\^<,^' 
+
+
+^         -  .  -  ~.  v;v      o  «  0  »        -O.'S' 
+
+
+•*bv^ 
+
+
+0^  V'^'^--y^         ^o^*^*^**/         V^^*>  %    *•-• 
+
+
+^5>°- 
+
+
+v„.*- 
+
+
+0^     ...,%    """'    A^      ,.<.     -^^ 
+
+
+HECKMAN 
+
+BINDERY   INC. 
+
+
+1990 
+
+
+N.  MANCHESTER, 
+5^5^  INDIANA  46962 
+
+

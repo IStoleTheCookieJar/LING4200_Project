@@ -1,0 +1,2743 @@
+-w>~    ^•w/  \;^^V*  %/W*>^  \JwV*  %°°W>^ 
+
+^-  G0*.**^>o        >*\.^&/V         G°*.-^il->o        >*..iife/V         0°*..iKl->o         ,**V 
+
+
+*%*> 
+
+
+*°«* 
+
+
+3j; 
+
+
+S». 
+
+
+^*,   \ 
+
+
+4°* 
+
+
+'•>°°    "V^'V    V^V'  V^'V 
+
+5.^?o  "o^^»  aV* 
+
+
+<^-v     t"^ 
+
+
+•%    <&     **■' 
+
+
+&*  £<?X-*+     +*>&£*%,    **>*&'-*+     *****£:>+      4?*^"i-.  ^        ^\^>>< 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+
+Utilizing  Mechanical  Linear 
+Transducers  for  the 
+Determination  of  a  Mining 
+Machine's  Position  and 
+Heading:  The  Concept 
+
+By  Christopher  C  Jobes 
+
+
+.P.NT   O^  ' 
+
+
+a 
+
+
+80 
+
+
+V      YEARS 
+
+
+(ft 
+
+3 
+O 
+
+
+& 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+/  Information  Circular  9254 
+
+
+Utilizing  Mechanical  Linear 
+Transducers  for  the 
+Determination  of  a  Mining 
+Machine's  Position  and 
+Heading:  The  Concept 
+
+
+By  Christopher  C  Jobes 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+<> 
+
+
+\ 
+
+
+<> 
+
+
+0o' 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Jobes,  Christopher  C. 
+
+Utilizing  mechanical  linear  transducers  for  the  determination  of  a   mining 
+machine's  position  and  heading:   the  concept  /  by  Christopher  C.  Jobes. 
+
+p.   cm.  -  (Bureau  of  Mines  information  circular;  9254) 
+
+Includes  bibliographical  references. 
+
+Supt.  of  Docs,  no.:  I  28.27:9254. 
+
+1.    Mining  machinery-Automatic   control-Data   processing.      2.  Transducers. 
+I.  Title.   II.  Series:   Information  circular  (United  States.  Bureau  of  Mines);  9254. 
+
+
+TN295.U4 
+
+
+[TN345] 
+
+
+622  s-dc20  [622\2] 
+
+
+90-1416 
+CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Global  navigation 2 
+
+Local  navigation 2 
+
+Face  navigation .  3 
+
+Background 3 
+
+Problem  definition 3 
+
+Topological  requirements 3 
+
+Functional  requirements 4 
+
+Constraints 4 
+
+Dimensional  constraints 5 
+
+Inertial  constraints 5 
+
+Position  and  heading  system 5 
+
+Sensor  selection 5 
+
+Sensor  configuration 6 
+
+Redundant  sensor  configuration   6 
+
+Position  and  heading  algorithm 7 
+
+Definition  of  reference  frames    7 
+
+Coordinate  transformation  of  reference  frames    8 
+
+Closed-form  solution 9 
+
+Loop  equation  development 9 
+
+Three-transducer  solution 9 
+
+Four-transducer  solution 11 
+
+Testing  and  backup  strategy 12 
+
+Error  analysis 13 
+
+Linear  transducers 13 
+
+Analog-to-digital  converter 13 
+
+Sample  rate 13 
+
+Conclusions 13 
+
+Appendix  A.-Linear  position  transducer  calibration  data 14 
+
+Appendix  B—  Calibration  equations  and  error  frequency  distribution 15 
+
+Appendix  C.-Conversion  specifications  for  Intel  remote  control  board  44/20A  analog-to-digital  converter  ...  16 
+
+ILLUSTRATIONS 
+
+1.  British  Coal  trolley-pole-type  articulated  boom .  4 
+
+2.  Instrumented  degrees  of  freedom  on  trolley-pole-type  articulated  boom 4 
+
+3.  Linear  position  transducer 6 
+
+4.  Kinematic  equivalent  of  linear  position  transducer 6 
+
+5.  Three-transducer  configuration 7 
+
+6.  Directly  solvable  redundant  four-transducer  configuration 7 
+
+7.  Local  and  machine  reference  frames  and  position  vectors 8 
+
+8.  Rectangular  and  polar  coordinate  components   8 
+
+9.  Configuration  for  position  and  heading  algorithm 9 
+
+B-l.   General  calibration  equation  error  frequency  distribution    15 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+dB 
+
+decibel 
+
+Mv 
+
+microvolt 
+
+°C 
+
+degree  Celsius 
+
+/iV/°C 
+
+microvolt  per  degree  Celsius 
+
+ft 
+
+foot 
+
+mV 
+
+millivolt 
+
+ft/s 
+
+foot  per  second 
+
+oz 
+
+ounce 
+
+Hz 
+
+hertz 
+
+pet 
+
+percent 
+
+in 
+
+inch 
+
+ppm 
+
+part  per  million 
+
+kHz 
+
+kilohertz 
+
+V 
+
+volt 
+
+kohm 
+
+kilohra 
+
+Vdc 
+
+volt,  direct  current 
+
+lb 
+
+pound 
+
+V/in 
+
+volt  per  inch 
+
+US 
+
+microsecond 
+
+7s 
+
+degree  per  second 
+
+UTILIZING  MECHANICAL  LINEAR  TRANSDUCERS  FOR  THE 
+
+DETERMINATION  OF  A  MINING  MACHINE'S  POSITION 
+
+AND  HEADING:    THE  CONCEPT 
+
+
+By  Christopher  C.  Jobes1 
+
+
+ABSTRACT 
+
+This  U.S.  Bureau  of  Mines  report  describes  a  system  to  determine  the  position  and  heading  of  a 
+mining  machine  during  maneuvers  in  the  face  area  of  an  operating  mine  section.  The  system  is  the  first 
+step  in  the  development  of  a  guidance  system  for  automated  mining  machines.  The  position  and  heading 
+algorithm  is  described,  and  a  preliminary  error  analysis  is  performed. 
+
+The  sensors  employed  were  linear  position  transducers  mounted  on  a  mining  machine  with  their 
+cables  attached  to  points  on  a  stationary  reference.  Four  linear  position  transducers  were  used  to 
+provide  a  data  redundancy  that  increased  the  reliability  of  the  guidance  system. 
+
+The  linear  position  information  obtained  from  the  transducers  was  processed  mathematically  via  the 
+position  and  heading  algorithm  to  provide  the  desired  position  and  heading  information.  The  algorithm 
+takes  advantage  of  sensor  redundancy  to  continually  test  the  accuracy  of  the  sensor  data. 
+
+The  major  sources  of  error  were  determined  to  be  the  linear  position  transducers,  the  analog-to- 
+digital  (A/D)  converter  used  to  interpret  the  data,  and  the  sampling  frequency  of  the  measurement 
+system.  These  sources  of  error  were  evaluated  to  determine  their  inaccuracies  for  use  in  calculating  the 
+overall  system  accuracy. 
+
+
+'Mechanical  engineer,  Pittsburgh  Research  Center,  U.S.  Bureau  of  Mines,  Pittsburgh,  PA. 
+
+
+INTRODUCTION 
+
+
+Navigation  is  one  of  the  key  systems  that  must  be  de- 
+veloped if  a  mining  machine  can  be  automated  and  the 
+machine  operator  can  be  moved  to  a  safe,  protected  area. 
+This  report  describes  the  approach  taken  by  the  U.S. 
+Bureau  of  Mines  to  solve  navigation  requirements  for 
+maneuvering  a  continuous  miner  at  the  coal  mine  face. 
+This  work  is  part  of  the  Bureau's  program  to  enhance 
+mine  safety. 
+
+The  function  of  a  position  and  heading  system  for  a 
+mining  machine  is  to  provide  guidance  information  for 
+navigation  in  the  face  area.  This  system  must  be  attained 
+before  face  operations  can  be  automated  under  current 
+continuous  mining  practices.2  The  automation  of  equip- 
+ment at  the  face  will  increase  health,  safety,  and  efficiency 
+in  this  area.  To  get  a  better  feel  for  navigational  require- 
+ments in  mining,  it  is  necessary  to  briefly  look  at  naviga- 
+tion in  mines  as  it  is  currently  performed  by  workers. 
+
+Navigation  in  a  mine  can  be  divided  into  three  cate- 
+gories: global  navigation,  local  navigation,  and  face  nav- 
+igation.3 Each  of  these  navigation  categories  requires  the 
+performance  of  various  navigational  tasks. 
+
+GLOBAL  NAVIGATION 
+
+Global  navigation  consists  of  the  navigation  of  a  piece 
+of  mobile  mining  equipment  from  one  place  in  a  mine  to 
+another  that  cannot  be  seen.  This  is  similar  to  driving  an 
+automobile  from  one  city  to  another.  The  travel  of  a  man- 
+trip  is  a  good  example  of  this  form  of  navigation  as  it  may 
+cover  several  miles.  Operators  of  supply  and  maintenance 
+vehicles  also  perform  this  type  of  navigation  on  a  regular 
+basis.  The  operators  of  all  mobile  mining  equipment,  at 
+one  time  or  another,  must  perform  this  type  of  navigation 
+to  get  from  the  surface  to  their  assigned  workplace.  Then- 
+tasks  usually  include,  among  other  things,  mine  mapping, 
+path  generation,  and  path  following. 
+
+The  primary  task  in  global  navigation  is  to  move  a  min- 
+ing machine  from  one  place  in  the  mine  to  another.  The 
+major  resource  for  accomplishing  a  navigational  task  is 
+the  mine  map.  A  mine  map  is  continually  updated  as 
+changes  are  made  to,  or  occur  in,  the  mine.  These 
+changes  are  usually  noted  on  the  mine  map  as  they  occur 
+since  they  may  affect  navigational  decisions.  Such  changes 
+may  include  roof  falls,  stoppings,  dangerous  conditions, 
+unnavigable  portions,  etc. 
+
+
+Schnakenberg,  G.  H.,  Jr.  Computer-Assisted  Continuous  Coal 
+Mining  System-Research  Program  Overview.  BuMines  IC  9227,  1989, 
+15  pp. 
+
+Anderson,  D.  L.  Framework  for  Autonomous  Navigation  of  a 
+Continuous  Mining  Machine:  Face  Navigation.  BuMines  IC  9214, 1989, 
+23  pp. 
+
+
+Using  a  mine  map,  knowledge  of  the  initial  position  and 
+desired  destination,  and  path  generation  rules,  a  guidance 
+system  can  usually  generate  a  path  from  one  place  in  a 
+mine  to  another.  The  generation  of  this  path  may  take 
+into  consideration  several  items:  the  normally  used  path, 
+mine  conditions  along  that  path,  traffic,  etc.  This  form  of 
+path  generation  usually  determines  which  entries  must  be 
+traveled  and  where  turns  must  be  made. 
+
+When  a  guidance  system  follows  a  generated  path,  the 
+current  position  must  be  continually  updated  on  the  mine 
+map  as  well  as  the  generated  path.  As  the  mining  machine 
+follows  the  generated  path,  it  must  negotiate  entries  and 
+corners  and  must  also  perform  collision  avoidance,  imple- 
+mented by  manipulating  the  configuration,  position,  and 
+orientation  of  the  machine. 
+
+LOCAL  NAVIGATION 
+
+Local  navigation  is  performed  within  the  area  of  the 
+mine  that  the  guidance  system  sensors  can  see.  Local 
+navigation  includes  traversing  entries  and  turning  crosscuts 
+in  the  performance  of  some  navigational  task  (e.g.,  path 
+following).  The  local  navigational  tasks  include  scheduling 
+as  well  as  the  normal  mine  mapping,  path  generation,  and 
+path  following  functions. 
+
+The  local  map  must  be  of  greater  detail  than  the  mine 
+map.  It  should  be  updated  more  frequently  and  should 
+include  the  location  of  all  pieces  of  mining  equipment  and 
+their  function.  This  information  will  be  of  use  to  the 
+scheduling  algorithm. 
+
+The  movement  of  one  piece  of  mining  equipment  from 
+one  place  in  the  local  area  to  another  requires  some  form 
+of  scheduling  since  there  is  a  good  amount  of  activity  and 
+equipment  present  in  the  average  continuous  mining  sec- 
+tion. Scheduling  is  required  since  there  is  a  cycle  of  tasks 
+to  be  performed  at  the  face  requiring  the  application  of 
+several  pieces  of  equipment  (continuous  miners,  shuttle 
+cars,  roof  bolters,  rock  dusters,  etc.)  among  the  faces  being 
+mined.  The  performance  of  these  tasks  needs  to  be  coor- 
+dinated so  that  there  is  a  minimal  amount  of  interference 
+among  the  tasks  performed,  thus  maximizing  the  efficiency 
+and  therefore  the  productivity  of  the  section. 
+
+The  path  generation  and  path  following  tasks  are  much 
+the  same  as  in  global  navigation,  with  only  a  few  added 
+complications.  If  shuttle  cars  are  present  in  the  mining 
+section,  it  may  be  necessary  to  avoid  their  trailing  cables 
+if  they  are  located  in  the  entry  being  traveled.  Also,  there 
+is  a  greater  need  of  care  in  collision  avoidance  since  there 
+are  more  items  hanging  from  the  roof,  attached  to  the  ribs, 
+or  parked  in  the  entries. 
+
+
+FACE  NAVIGATION 
+
+Face  navigation  is  performed  by  mobile  mining  equip- 
+ment preparing  to  perform  a  task  in  the  face  area  of  an 
+entry  or  crosscut  development.  The  type  of  equipment  in 
+the  face  area  may  include  mining  equipment  such  as  con- 
+tinuous mining  machines  and  roof  bolters.  The  face  nav- 
+igational tasks  include  mine  mapping,  path  generation,  and 
+path  following. 
+
+The  map  of  the  face  area  should  be  of  the  greatest 
+detail  and  should  be  updated  frequently.  The  updated 
+information  should  include  the  volume  created  by  coal 
+extraction,  the  location  and  types  of  roof  bolts  applied  in 
+the  face  area,  the  local  geology  (which  may  be  determined 
+by  monitoring  the  virtual  work  during  the  drilling  cycle), 
+etc. 
+
+
+The  path  generation  and  path  following  tasks  are  sim- 
+ilar to  those  of  local  and  global  navigation,  but  include 
+some  additional  tasks.  Path  generation  for  coal  extraction 
+must  be  in  accordance  with  predetermined  mining  patterns 
+and  must  develop  the  entry  according  to  the  mine  plan. 
+Path  following  must  be  fairly  exact  and  must  function  in 
+accordance  with  the  type  of  machine  being  guided  (i.e.,  the 
+cutting  drum  diameter  would  determine  the  distance  of 
+sump  for  a  continuous  mining  machine). 
+
+The  actual  guidance  of  the  mining  machine  is  of  great 
+importance  to  the  mining  cycle  since  much  depends  on 
+face  navigation.  This  guidance  task  is  important  since  the 
+conditions  and  obstacles  are  a  hindrance  to  the  implemen- 
+tation of  a  guidance  system. 
+
+
+BACKGROUND 
+
+
+Many  designs  of  navigational  systems  for  use  with 
+autonomous  self-guided  mining  machines  have  been  at- 
+tempted in  prior  years.  These  attempts  can  be  categorized 
+into  electromagnetic,  stress  wave,  and  mechanical  methods. 
+While  there  is  much  work  being  done  in  the  electromag- 
+netic (optical,  laser,  radar,  magnetic  compass,  natural 
+gamma,  etc.)  and  stress  wave  (ultrasonic,  seismic,  vibra- 
+tion, etc.)  areas,  very  little  attention  is  being  paid  to  me- 
+chanical guidance  systems. 
+
+The  apparent  reason  for  the  lack  of  interest  in  mechan- 
+ical guidance  systems  is  that  this  method  usually  involves 
+either  dead  reckoning  (e.g.,  sensing  wheel  motion)  or 
+mechanical  attachment.  In  dead  reckoning,  the  errors 
+introduced  into  the  system  are  cumulative,  and  therefore 
+a  system  relying  on  this  form  of  navigation  alone  is  unre- 
+liable, particularly  in  a  mining  environment.  Most  mining 
+
+
+machine  designers  seem  unwilling  to  restrict  the  motion  of 
+their  machines  enough  for  a  mechanical  attachment  system 
+to  be  a  viable  option. 
+
+One  known  attempt  has  been  made  at  using  an  attach- 
+ment method  for  the  guidance  of  a  mining  machine.  In 
+particular,  a  trolley-pole-type  articulated  boom  (fig.  1)  is 
+used  to  guide  a  roadheader.4  This  articulated  boom  has 
+six  degrees  of  freedom  (fig.  2)  that  are  instrumented  (one 
+prismatic  and  five  revolute).  This  method  uses  standard 
+robot  kinematics  techniques  to  determine  the  position  and 
+orientation  of  the  roadheader  with  respect  to  the  local 
+reference  frame.  The  system  performed  adequately,  but 
+was  not  considered  for  use  since  there  was  not  enough 
+overhead  room  available  to  the  continuous  mining 
+machine. 
+
+
+PROBLEM  DEFINITION 
+
+
+A  system  for  machine  guidance  was  required  to  deter- 
+mine the  position  and  heading  of  a  mining  machine  during 
+maneuvers  required  in  the  face  area  of  an  entry.  To  ad- 
+equately design  the  mechanical  system,  it  was  necessary 
+to  first  define  the  system's  requirements  and  constraints. 
+
+TOPOLOGICAL  REQUIREMENTS 
+
+Topological  requirements  are  the  minimum  set  of  pa- 
+rameters to  be  defined  before  the  kinematic  chain  of  a 
+mechanism  can  systematically  be  enumerated.  Usually 
+this  includes  the  "space"  (planar  or  spatial)  in  which  the 
+mechanism  moves,  the  degree  of  freedom,  and  either  the 
+number  of  links  or  independent  loops  needed  to  obtain  a 
+
+
+finite  solution  set.  At  this  point  in  the  design  procedure, 
+any  additional  specifications  should  be  made  to  reduce  the 
+number  of  solutions  even  further. 
+
+The  nature  of  motion  of  a  mining  machine  in  a  coal 
+seam  was  determined  to  be  spatial  rather  than  planar  since 
+it  cannot  be  assumed  that  the  coal  seam  would  be  abso- 
+lutely smooth  for  even  a  short  distance.  Thus,  the  mining 
+machine  was  determined  to  have  six  degrees  of  freedom 
+(x,  y,  z,  roll,  pitch,  and  yaw). 
+
+
+British  Coal,  Headquarters  Technical  Department  (Burton  on 
+Trent,  England).  Alignment  and  Profile  Guidance  of  Roadheaders. 
+Final  report  on  European  Coal  and  Steel  Community  Research  Project 
+7220-AB/810,  1987,  45  pp. 
+
+
+Figure  1. -British  Coal  trolley-pole-type  articulated  boom. 
+
+
+////////    f* 
+
+
+KEY 
+
+P 
+
+-r° r3-  Prismatic  joint 
+
+
+-(       ft-   Revolute  joint 
+
+
+Roadheader 
+
+
+The  degree  of  freedom  of  the  system  was  dependent  on 
+the  number  of  independent  inputs  to  the  system.  In  this 
+case,  the  mining  machine  was  the  input  to  the  guidance 
+system  and  therefore  the  system  had  six  degrees  of  free- 
+dom. This  degree  of  freedom  required  that  any  kinematic 
+chain  connecting  the  mining  machine  to  the  local  refer- 
+ence frame  have  at  least  six  degrees  of  freedom  to  work 
+properly. 
+
+FUNCTIONAL  REQUIREMENTS 
+
+Functional  requirements  are  the  tasks  to  be  performed 
+by  the  mechanism.  The  only  task  of  this  mechanism  is  the 
+tracking  of  the  position  and  orientation  of  the  mining 
+machine.  In  order  for  the  tracking  to  be  accomplished 
+without  unnecessary  redundancy,  no  more  than  six  degrees 
+of  freedom  were  required  to  connect  the  mining  machine 
+to  the  local  reference  frame. 
+
+CONSTRAINTS 
+
+
+Figure  2.-lnstrumented  degrees  of  freedom  on  trolley-pole- 
+type  articulated  boom. 
+
+
+When  the  mechanism  was  designed,  there  were  two 
+types  of  constraints:  dimensional  and  inertial.  These 
+constraints  determined  the  feasibility  of  any  mechanisms 
+that  were  found  to  satisfy  the  topological  and  functional 
+requirements. 
+
+
+Dimensional  Constraints 
+
+Some  of  the  dimensional  constraints  on  the  mechanism 
+connecting  the  mining  machine  to  the  local  reference 
+frame  were  that  the  mechanism— 
+
+1.  Should  perform  the  required  task  within  the  entry 
+in  which  the  mining  machine  is  to  be  working  while  min- 
+imizing contact  with  the  ribs  or  uncut  coal  blocks  since 
+such  contact  may  or  may  not  result  in  damage  to  the 
+mechanism. 
+
+2.  Should  minimize  its  interference  with  the  mining 
+machine's  task  since  its  purpose  is  to  measure,  not  to  be 
+an  avoided  object. 
+
+3.  Should  allow  up  to  a  40-ft  advance  or  a  20-ft,  90° 
+crosscut  to  maximize  productivity  during  the  automated 
+cutting  cycle. 
+
+4.  Must  avoid  interference  with  the  mining  machine 
+conveyor  boom  and  shuttle  car  (if  continuous  haulage  is 
+not  being  used)  since  such  contact  would  interfere  with 
+reliable  measurement  and  may  result  in  damage  to  the 
+mechanism. 
+
+
+5.  Must  avoid  the  ventilation  curtain  (if  present)  since 
+contact  with  the  curtain  may  affect  one  or  more  of  the 
+transducers. 
+
+Inertia  I  Constraints 
+
+Some  of  the  inertial  constraints  on  the  mechanism  con- 
+necting the  mining  machine  to  the  local  reference  frame 
+were,  as  follows: 
+
+1.  The  inertia  of  the  mechanism  should  be  minimized 
+to  reduce  the  loading  of  the  mining  machine  and  the 
+mechanism's  resolving  joints. 
+
+2.  The  mass  of  the  mechanism  must  be  minimized  to 
+reduce  its  interference  with  the  operation  of  the  mining 
+machine. 
+
+3.  The  mechanism  must  be  stiff  enough  to  maintain 
+accurate  measurements  during  the  movements  of  the  min- 
+ing machine. 
+
+
+POSITION  AND  HEADING  SYSTEM 
+
+
+To  develop  the  position  and  heading  system,  the  trans- 
+ducers to  be  used  were  selected  first.  Next,  the  config- 
+uration of  the  sensors  was  addressed  so  that  the  accuracy 
+and  reliability  of  the  position  and  heading  system  were 
+maximized.  Finally,  the  number  of  sensors  was  made 
+redundant  so  that  the  reliability  of  the  position  and  head- 
+ing system  could  be  continuously  monitored. 
+
+SENSOR  SELECTION 
+
+In  the  average  coal  seam,  the  headroom  available  to  the 
+position  and  heading  system  is  less  than  that  available  to 
+the  British  Coal  roadheader  guidance  system.  Therefore, 
+an  articulated  boom  was  not  considered  to  be  the  best  type 
+of  connection  to  make.  Aside  from  the  fact  that  it  was  a 
+cumbersome  way  to  go  about  measuring  the  position  and 
+heading  of  a  mining  machine,  it  would  have  been  big  and 
+heavy.  Because  of  the  weight  and  length  of  the  system,  it 
+was  possible  to  foresee  a  problem  with  oscillations  in  the 
+boom  that  would  reduce  the  life  of  the  measurement  sys- 
+tem and  reduce  the  accuracy  of  the  measurement  readings. 
+It  would  be  very  difficult  to  make  a  40-  to  50-ft-long  boom 
+stiff  enough  for  accurate  measurement  without  also  making 
+it  too  big  for  the  job  (i.e.,  cumbersome  with  a  correspond- 
+ing lack  of  mobility). 
+
+Since  not  all  of  the  degrees  of  freedom  of  the  links 
+connecting  the  mining  machine  to  the  local  reference 
+frame  needed  to  be  instrumented,  several  groups  of  links 
+(called  chains)  or  their  equivalents  were  used.  Further- 
+more, while   the  motion  of  the  mining  machine  was 
+
+
+in  six  degrees  of  freedom,  not  all  of  the  motions  were 
+considered  large  enough  to  require  measurement. 
+(Although  coal  seams  are  not  "flat,"  the  generally  accepted 
+change  in  gradient  does  not  typically  exceed  5°  over  an 
+occasional  roll  between  20  to  50  ft  wide  within  the 
+northern  Appalachian  coal  seams.)  Therefore,  for  a 
+relatively  smooth  seam,  the  z,  roll,  and  pitch  measurements 
+could  be  assumed  to  have  a  negligible  effect  on  the  x,  y, 
+and  yaw  measurements  (position  and  heading)  with  respect 
+to  other  sources  of  error.  If  such  information  was  needed, 
+it  would  be  possible  to  use  roll  and  pitch  sensors  on  the 
+mining  machine  to  adjust  for  such  errors  relative  to  a 
+leveled  local  reference.  Thus,  the  sensor  selection  task 
+was  one  of  determining  which  six-degree-of-freedom  chain 
+could  best  perform  the  position  and  heading 
+measurements,  but  not  all  of  whose  degrees  of  freedom 
+need  to  be  instrumented. 
+
+Given  that  most  transducers  measure  only  one  degree 
+of  freedom  and  few  had  the  necessary  linear  range,  the  list 
+of  possible  mechanical  attachment  measurement  schemes 
+was  reduced  to  a  linear  position  transducer,  or  wire  pull 
+(fig.  3),  as  it  is  sometimes  called.  Although  each  linear 
+position  transducer  technically  has  an  infinite  number  of 
+degrees  of  freedom,  each  wire  was  modeled  as  a  six- 
+degree-of-freedom  kinematic  chain  equivalent  (fig.  4). 
+Thus,  the  position  and  heading  system  development  task 
+became  a  method  of  configuring  linear  position  trans- 
+ducers to  perform  the  position  and  heading  measurement 
+task. 
+
+
+ScaSe,  in 
+
+Figure  3.-Linear  position  transducer. 
+
+
+R  KEY 
+
+-(       0-   Revolute  joint 
+
+
+-CIZD-   Cylindrical  joint 
+
+
+Mining  machine 
+Figure  4. -Kinematic  equivalent  of  linear  position  transducer. 
+
+SENSOR  CONFIGURATION 
+
+The  task  of  finding  a  configuration  in  which  the  linear 
+position  transducers  could  be  used  to  determine  the  posi- 
+tion and  heading  of  a  mining  machine  was  relatively  sim- 
+ple. While  it  was  possible  to  perform  the  required  meas- 
+urement with  one  linear  transducer  and  two  revolute 
+transducers  to  measure  the  departure  angle  of  the  wire 
+
+
+relative  to  the  local  and  machine  reference  frames,  there 
+was  no  such  transducer  on  the  market.  This  configuration 
+was  deemed  to  be  low  in  accuracy  because  the  linear 
+transducers  had  a  relatively  light  "pull"  (about  3  lb),  and 
+this  configuration  would  not  be  redundant  and  therefore 
+could  be  tested  for  accuracy.  Therefore,  three  linear  po- 
+sition transducers  were  deemed  required  to  determine  the 
+three  measured  degrees  of  freedom  (position  and  head- 
+ing). The  placement  of  these  transducers  and  the  attach- 
+ment of  their  cables  made  little  difference  in  the  ability  to 
+calculate  the  position  and  heading  of  the  mining  machine, 
+provided  the  cables  were  not  parallel  and  the  attachment 
+points  and  transducer  locations  were  separated  by  a  suffi- 
+cient distance  to  reduce  the  linear  position  transducer 
+error  to  a  reasonable  percentage.  The  placement  of  the 
+transducers  did,  however,  affect  the  computation  required 
+for  the  calculation.  If  the  linear  position  transducers  were 
+located  as  shown  in  the  top  portion  of  figure  5,  a  set  of 
+nonlinear  transcendental  equations  occurred  and  an  itera- 
+tive solution  method  was  required.  If  the  linear  position 
+transducers  were  located  as  shown  in  the  bottom  portion 
+of  figure  5,  the  solution  to  the  position  and  heading  equa- 
+tions could  be  arrived  at  easily  using  elementary  trigonom- 
+etry. However,  because  of  the  nature  of  the  trigonometric 
+equations,  some  ambiguities  arose  that  resulted  in  multiple 
+possible  machine  positions  and  headings  for  a  given  set  of 
+sensor  readings. 
+
+REDUNDANT  SENSOR  CONFIGURATION 
+
+An  easy  method  to  solve  a  portion  of  the  multiple  so- 
+lution problem  arising  from  ambiguities  in  the  trigono- 
+metric derivation  was  to  add  a  redundant  sensor  (fig.  6). 
+This  sensor  served  two  purposes.  The  first  purpose  was 
+to  identify  which  of  the  multiple  solutions  was  the  correct 
+one  by  first  performing  a  very  simple  four-transducer 
+solution.  The  other  purpose  was  to  compare  the  four 
+three-transducer  solutions  with  the  four-transducer  solu- 
+tion to  see  if  one  of  the  four  linear  position  transducers 
+was  furnishing  erroneous  data. 
+
+A  transducer  error  would  show  up  as  all  of  the  four 
+three-transducer  solutions  being  different  from  each  other, 
+since  only  one  solution  did  not  use  the  suspect  transducer. 
+Of  course  in  this  case,  the  four-transducer  solution  was 
+also  incorrect.  If  more  than  one  transducer  was  giving 
+erroneous  data,  every  three-transducer  solution  could  yield 
+a  different  position  and  heading.  This  was,  however,  pref- 
+erable to  the  case  with  a  single  three-transducer  solution 
+where  it  was  never  really  known  if  the  solution  was  correct. 
+
+Using  this  information,  the  mining  machine  could  be 
+guided  using  the  four-transducer  solution.  A  correct  solu- 
+tion could  still  be  found,  however,  if  the  initial  configura- 
+tion and  the  sign  of  angular  rotation  of  the  mining  ma- 
+chine was  known.  If  a  valid  solution  was  not  obtainable, 
+then  the  mining  machine  controller  could  shut  down  the 
+mining  machine  and  request  maintenance. 
+
+
+Reference 
+
+
+"Wlpt, 
+
+Entry                  ^-"AA  \ 
+
+LPT2\\ 
+
+Reference 
+
+/\          Mining              yk   \ 
+
+LPT  u^w  -  ^ 
+
+LPTwr 
+
+V^LPTV^ 
+
+Scale,  ft 
+
+
+KEY 
+LPT    Linear  position  transducer 
+
+
+10 
+
+
+Scale,  ft 
+
+
+KEY 
+
+LPT    Linear  position  transducer 
+
+
+Figure  5.-Three-transducer  configuration.     Top,  requiring 
+iterative  solution;  bottom,  directly  solvable. 
+
+
+Figure     6.-Directly     solvable     redundant    four-transducer 
+configuration. 
+
+
+POSITION  AND  HEADING  ALGORITHM 
+
+
+In  developing  the  position  and  heading  algorithm,  the 
+first  task  was  to  define  the  reference  frames  used.  The 
+next  task  was  to  develop  the  coordinate  transformation  of 
+the  reference  frames.  Finally,  a  closed-form  solution  of 
+the  position  and  heading  algorithm  was  developed. 
+
+DEFINITION  OF  REFERENCE  FRAMES 
+
+In  mechanism  analysis,  the  location  of  an  object  was  of 
+some  concern.  In  order  to  describe  an  object's  position  in 
+space,  a  coordinate  system  or  frame  was  attached  to  the 
+object.  The  position  and  orientation  of  the  frame  was  then 
+described  with  respect  to  some  reference  coordinate  frame. 
+For  the  purpose  of  this  research,  a  local  reference  frame 
+was  attached  to  ground  at  some  distance  behind  the  min- 
+ing machine.  The  machine  reference  frame  was  attached 
+to  some  point  on  the  mining  machine  (fig.  7).  A  reference 
+frame  was  denoted  by  the  prefix  superscripts,  A,  for  the 
+local  reference  frame,  and  B,  for  the  mining  machine's 
+reference  frame. 
+
+It  was  essential  that  some  notation  be  defined  before 
+coordinate  transformations  could  be  addressed.  The  po- 
+sition vector  was  represented  by  a  bold-faced  character 
+(R).  This  character  represented  the  position  in  space  of  a 
+point  relative  to  the  associated  reference  frame.    For  a 
+
+
+two-dimensional  example,  the  position  vector  either  de- 
+scribed an  (x,y)  point  in  rectangular  coordinate  form  or 
+an  (r,0)  point  in  polar  coordinate  form  (fig.  8).  The  no- 
+tation for  the  components  of  a  vector  in  the  rectangular 
+coordinate  system  was 
+
+
+where 
+
+
+and 
+
+
+Xj  or  yj, 
+i    =  vector  number, 
+x    =  x  component  of  position  vector, 
+y    =  y  component  of  position  vector. 
+
+
+The  notation  for  the  components  of  a  vector  in  the  polar 
+coordinate  system  was 
+
+
+where        i    =  vector  number, 
+
+r    =  magnitude  of  position  vector, 
+
+and  6     =  direction  of  the  position  vector  relative  to 
+
+positive  x  axis. 
+
+
+Scale,  ft 
+
+
+KEY 
+
+A    Local   reference 
+B    Machine  reference 
+P    Point  on  machine 
+R    Vector 
+
+
+Figure  7.-Local  and  machine  reference  frames  and  position 
+vectors. 
+
+
+1 
+
+i 
+
+P(: 
+
+\ 
+
+R,/ 
+
+Yi 
+
+\ 
+
+0 
+
+-«— Xj— - 
+
+P(r,0) 
+
+
+RECTANGULAR 
+
+COORDINATE 
+
+SYSTEM 
+
+
+POLAR 
+
+COORDINATE 
+
+SYSTEM 
+
+
+KEY 
+P   Point 
+R  Vector 
+
+Figure  8.-Rectangular  and  polar  coordinate  components. 
+
+
+The  relationship  between  the  rectangular  and  polar  coor- 
+dinate systems  was 
+
+x  =  r  cos(0)  and  y  =  r  sin(0), 
+
+with  the  corresponding  inverses 
+
+r  =  (x2  +  y2)1/2  and  6  =  tan'^y/x). 
+
+Finally,  in  matrix  notation,  the  rectangular  form  was  shown 
+as 
+
+
+or 
+
+
+"r  cos(0)l 
+_r  sin(0)J 
+
+
+COORDINATE  TRANSFORMATION 
+OF  REFERENCE  FRAMES 
+
+Since  the  mining  machine  reference  frame  moved  with 
+respect  to  the  local  reference  frame  with  three  degrees 
+of  freedom,  coordinate  transformations  were  required  to 
+transform  position  vectors  expressed  in  the  mining  ma- 
+chine coordinate  system  into  position  vectors  relative  to 
+the  local  reference  frame.  This  transformation  is  standard 
+procedure  in  robot  kinematics.  The  process  was  almost 
+trivial  since  there  were  only  two  reference  frames  in  this 
+case. 
+
+Consider  again  figure  7.  If  only  the  position  vectors 
+ARt  and  BR2  were  known,  elementary  vector  algebra  would 
+have  dictated  that  the  sum  of  the  two  would  equal  AR3. 
+That  was  not  true  in  this  case,  however,  since  BR2  was  not 
+measured  in  the  local  coordinate  frame.  If  a  transform  %T 
+was  available  to  convert  the  position  vector  from  the  ma- 
+chine coordinate  frame  into  the  local  coordinate  frame  by 
+a  rotation  operation  of  V>  degrees,  then  the  resulting  equa- 
+tion would  be 
+
+
+If 
+
+
+and 
+
+
+VR 
+
+
+^D      _   An        ,     ArpBwj 
+
+K3  ~      Kl  +  B1    K2- 
+
+(17,-18)  in  local  reference  frame, 
+
+
+(1) 
+
+
+R2    =  (20,10)  in  machine  reference  frame, 
+V>    =  heading  of  20°  in  local  reference  frame, 
+
+
+then  it  could  be  shown  that 
+
+R3    =  (32,-2)  in  local  reference  frame. 
+Letting  the  rotation  transform 
+
+cos(V>)  -sin(V>)l 
+sin(V>)    cos(V»)J 
+
+
+(2) 
+
+
+and  substituting  the  known  values  into  equation  1  yielded 
+
+
+[-£] 
+
+
+sin(20°)   cos(20°)_ 
+
+
+|~cos(20°)  -sin(20°)l   [20l 
+
+
+32 
+-2 
+
+
+m + [3 
+
+
+It  should  be  noted  here  that 
+
+
+i 
+
+
+R,. 
+
+
+This  is  the  standard  method  for  performing  kinematic 
+analysis  of  mechanisms  in  a  plane,  which  was  used  during 
+the  development  of  the  closed-form  solution  of  the  posi- 
+tion and  heading  algorithm. 
+
+
+CLOSED-FORM  SOLUTION 
+
+The  standard  solution  method  for  kinematic  problems 
+involving  more  than  one  reference  frame  (coordinate 
+transformation  analysis  of  a  planar  mechanism)  was  ap- 
+plied to  this  position  and  heading  system.  While  the  cho- 
+sen configuration  of  the  position  and  heading  system  made 
+the  problem  simple  enough  to  handle  by  elementary  trig- 
+onometric solution  methods,  the  coordinate  transformation 
+analysis  method  was  determined  to  be  general  enough  to 
+be  applied  to  all  possible  configurations  of  the  linear  trans- 
+ducers, whereas  of  the  infinite  number  of  configurations, 
+only  a  finite  number  could  be  addressed  utilizing  standard 
+trigonometric  techniques. 
+
+Before  a  closed-form  solution  for  the  position  and 
+heading  algorithm  could  be  performed,  the  linear  position 
+transducers  were  configured  for  use  and  all  the  position 
+vectors  of  interest  were  defined  (fig.  9).  The  first  step  in 
+developing  the  position  and  heading  algorithm  was  to  write 
+the  loop  equations  for  a  three-transducer  solution  and  to 
+determine  if  the  equations  could  be  reduced  into  a  direct- 
+ly solvable  form.  The  next  step  was  to  determine  the 
+closed-form  solution.  A  four-transducer  solution  was  then 
+found  from  the  closed-form  solutions  for  the  four  three- 
+transducer  solutions.  Finally,  a  strategy  was  developed  in 
+which  the  three-transducer  solutions  were  used  to  test  the 
+validity  of  the  four-transducer  solution  and  to  provide  a 
+backup  solution  should  one  transducer  provide  erroneous 
+data. 
+
+Loop  Equation  Development 
+
+Four  loop  equations  were  written  from  the  configura- 
+tion shown  in  figure  9,  as  follows: 
+
+
+eliminated  by  subtracting  equations  5  and  4  from  equation 
+3,  yielding 
+
+
+ARj  +  AR4 
+
+ArrBn             An 
+
+■  B1    *9  ."     Kll 
+
+=  o, 
+
+(3) 
+
+ARX  +  % 
+
+ArpBwJ                 Awj 
+
+-  gl    K1Q  -      Kn 
+
+=  0, 
+
+(4) 
+
+AR2  +  AR, 
+
+ArpBp                   An 
+
+■    gl      Kg      -        Kn 
+
+=  0, 
+
+(5) 
+
+AR2  +  AR7 
+
+ArpBn              Awj 
+
+■  B1    K10"     Kll 
+
+=  0. 
+
+(6) 
+
+and 
+
+
+These  four  vector  loop  equations  represented  eight  scalar 
+equations  and  seven  unknowns.  Thus,  the  four-transducer 
+solution  was  overconstrained,  which  was  to  be  expected 
+since  the  fourth  transducer  was  added  to  provide  redun- 
+dancy. Thus,  the  three-transducer  solutions  are  derived 
+first  using  the  four  combinations  of  three  equations  rep- 
+resenting six  scalar  equations  and  six  unknowns. 
+
+Three-Transducer  Solution 
+
+The  three-transducer  solution  derived  here  used  vector 
+loop  equations  3,  4,  and  5  (i.e.,  ignored  data  from  trans- 
+ducer 4).  To  reduce  the  order  of  the  equations,  ARU  was 
+
+
+and 
+
+
+AR:  -  AR2  +  AR4  -  ARg  =  0  (7) 
+
+X-^-^T^  +  ^Xo-O.  (8) 
+
+
+Entry 
+
+
+Figure  9.-Configuration  for  position  and  heading  algorithm. 
+
+
+10 
+
+
+Then,  by  substituting 
+
+
+K2  -      Kj     -       K3 
+
+(9) 
+
+and                                 Kq  -     *^io  =      ^8> 
+
+(10) 
+
+equations  7  and  8  became 
+
+AR4-AK3-AK6        =0 
+
+(11) 
+
+and                    AR4  -  AR5  -  ^TBRg  =  0. 
+
+(12) 
+
+Vector  equation  11  had  two  scalar  equations  and  only 
+two  unknowns  (94  and  96)  and  could,  therefore,  be  solved 
+directly  in  the  following  manner: 
+
+
+Letting 
+
+
+and 
+
+
+a  = 
+
+
+8  =  03  +  n 
+
+
+(13) 
+(14) 
+
+
+The  scalar  equations  were  separated  and  the  trigonometric 
+identities  cos(a  +  n)  =  -cos(a)  and  sin(a  +  n)  =  -sin(a)  are 
+used.  (Hereafter,  cd  and  s0,  the  kinematic  shorthand  for 
+cos(0)  and  sin(0),  will  be  used.) 
+
+
+H<h  -  5)1  =  [0 
+r6s((?3  -  S)J       1.0. 
+
+
+"r4c(a  +  63)~\  _  |"r3c03 
+_r4s(a  +  03)J      [r3s93 
+
+The  x  scalar  equation  component  was  solved  for  8: 
+
+t3c93  -  r4c(a  +  93) 
+
+
+■    (15) 
+
+
+5  =  ±cos" 
+
+
+'3' 
+
+
+(16) 
+
+
+and  5  was  substituted  into  y  scalar  equation  component  of 
+equation  15  using  the  identity  sinfcos'^x)]  =  (1  -  x2)^2, 
+
+
+r3s03  =  0. 
+
+
+(17) 
+
+
+The  square  root  was  isolated  on  the  left  side  of  the  equa- 
+tion and  both  sides  were  squared,  yielding 
+
+r2,  -  r3c203  +  2r3r4c03c(a  +  93)  -  r2c2(a  +  93) 
+
+=  r^s2^3  -  2r3r4s03s(a  +  93)  +  r2s2(a  +  93).        (18) 
+
+Using  the  identities  sin2(0)  +  cos2(0)  =  1  and 
+cos(a)cos(/3)  +  sin(a)sin(/3)  =  cos(a-/8),  equation  18  re- 
+duced to 
+
+
+A  =  A  +  «4  "  ^sH™' 
+
+
+(19) 
+
+
+which  was  essentially  an  application  of  the  law  of  cosines 
+to  a  triangle  whose  sides  are  known.   Thus,  since 
+
+
+±cos 
+
+
+2,2       2 
+r3  +  r4  "  r6 
+
+
+2r3r4 
+
+
+equation  13  was  solved  to  find 
+
+
+h  = 
+
+
++  a. 
+
+
+(20) 
+
+
+(21) 
+
+
+Since  a  is  determined  by  the  inverse  cosine  function,  there 
+are  actually  two  solutions  to  equation  21,  since  cos(-a)  = 
+cos(a).  One  must  therefore  assume  that  the  mining  ma- 
+chine transducer  attachment  points  will  always  be  to  the 
+positive  x  side  of  the  line  connecting  the  transducer  cable 
+attachment  points  and  therefore  take  the  positive  value  of 
+a.  Thus,  when  94,  65,  96,  and  07  are  calculated,  the  upper 
+signs  in  the  equations  are  to  be  used. 
+
+Now,  since  94  is  known,  equation  12  only  had  two  un- 
+knowns (05  and  ij))  and  could  be  solved  in  the  same  man- 
+ner as  equation  11,  letting 
+
+
+and  1/  =  05-V>  +  7r-0{ 
+
+Separating  the  scalar  equations 
+
+rr4c(08  +  v  -  ol  +  M*  +  h)] 
+
+[r4s(98  +  rf>  -  e)J        Lr5s(i/  +  08)J 
+
+
+(22) 
+(23) 
+
+
+N-sV-1  kcflgl  = 
+
+[SV>    C0J    Lr8stfsJ 
+
+
+(24) 
+
+
+The  x  scalar  equation  component  was  solved  for  1/ 
+
+"r8c(08  +  +)  -  TAds  +  *  -  0 
+
+
+V  =  ±cos 
+
+
+-9*    (25) 
+
+
+and  v  was  substituted  into  the  y  scalar  equation  compo- 
+nent of  equation  24: 
+
+
+r4s(08  +  +  -  0  +  (4  -  (r8c(08  +  V) 
+
+-  r4c(08  +  V  -  0)2)V2  -  r8s(08  +  *)  =  0. 
+
+
+(26) 
+
+
+The  square  root  was  isolated  on  the  left  side  of  the  equa- 
+tion and  both  sides  were  squared  yielding 
+
+r2  -  r2c2(08  +  r(>)  +  2rgr4c(08  +  i>)c(98  +  V  -  0 
+
+
+-2„2 
+
+
+2.2/ 
+
+
+i^(*8  +  v  -  0  =  n& Xh  +  v»  -  0 
+
+
+2„2, 
+
+
+2r4r8s(^8  +  ^)s(08  +  V  -  0  +  W(98  +  j>).       (27) 
+
+
+11 
+
+
+Equation  27  reduced  to 
+
+r5  =  r4  +  r8  "  2r4r8ce> 
+
+
+(28) 
+
+
+which  was  essentially  an  application  of  the  law  of  cosines 
+to  a  triangle  whose  sides  are  known.  Thus,  since 
+
+
+r  2    ,     2       2 
+r4  +  r8  *  r5 
+
+
+€    =    ±COS 
+
+
+2r4r8 
+
+
+(29) 
+
+
+equation  22  was  solved  to  find  the  mining  machine 
+heading. 
+
+
+V»4  =  ±e 
+
+
+(The  sign  to  be  used  for  e  cannot  be  determined  unless 
+both  the  initial  configuration  and  the  sign  of  the  angular 
+velocity  of  the  mining  machine  are  known.) 
+
+The  position  of  the  mining  machine  could  then  be  de- 
+termined from  equation  3  to  have  components 
+
+r^ii  +  rr4c^i  -Mv^i  iv^i  =rxiii:  od 
+
+therefore, 
+
+xn  =  rlc6l  +  r4c04  -  r9c(09  +  V>4)  (32) 
+
+and  yn  =  rls61  +  r4s04  -  r9s(09  +  V4).  (33) 
+
+In  summary,  the  three-transducer  solution,  which  did 
+not  use  transducer  4  data  (i.e.,  using  loop  equations  3,  4, 
+and  5),  for  the  mining  machine's  heading  was  given  by 
+using  equations  20,  21,  29,  and  30.  The  mining  machine's 
+position  was  given  by  equations  32  and  33. 
+
+In  a  similar  manner,  in  a  three-transducer  solution, 
+which  excludes  transducer  3  (i.e.,  using  loop  equations  3, 
+4,  and  6),  the  mining  machine's  heading  is  given  by 
+
+
+-l 
+
+
+and 
+
+
+7     =  ±cos 
+
+
+e5  =  e3  ±  7, 
+
+
+v     =  ±cos" 
+
+
+V>->    =  ft  -  ±u  - 
+
+
+r  2    ,     2       2  1 
+r3  +  r5  -  r7 
+
+(34) 
+
+.         2r3r5         . 
+
+(35) 
+
+r  2    ,     2       2  l 
+r5  +  r8  *  r4 
+
+(36) 
+
+.         2r5r8        J 
+
+(37) 
+
+
+The  mining  machine's  position  was  determined  by  equation 
+4  to  have  components 
+
+xll  =  ric^i  +  r5c*5  -  rioc(*iO  +  ^3>  (38) 
+
+and  yn  =  t1s61  +  r5s05  -  rlos(0lo  +  V>3).  (39) 
+
+
+Next,  in  a  three-transducer  solution,  which  excludes 
+transducer  2  (i.e.,  using  loop  equations  3,  5,  and  6),  the 
+mining  machine's  heading  was  given  by 
+
+
+(30)       and 
+
+
+_! 
+
+r  2  ,  _2     2  - 
+
+r3  +  r6  "  r4 
+
+(40) 
+
+—  ±cos 
+
+I         2r3r6        - 
+
+=  63-  n  T  S, 
+
+(41) 
+
+j 
+
+"r6  +  rl  -  r7  " 
+
+(42) 
+
+—  ±  cos 
+
+-         2r6r8        - 
+
+=  ±r,-0s 
+
++   *6- 
+
+(43) 
+
+The  mining  machine's  position  was  determined  by  equation 
+5  to  have  components 
+
+
+and 
+
+
+xn  -  r2c02  +  r6c06  -  r9c(09  +  V>2)  (44) 
+
+yn  =  r2s02  +  r6s06  -  r9s(09  +  V2)-  (45) 
+
+
+Finally,  in  the  last  three-transducer  solution,  which 
+excludes  transducer  1  (i.e.,  using  loop  equations  4,  5,  and 
+6),  the  mining  machine's  heading  was  given  by 
+
+
+-1 
+
+
+and 
+
+
+0     =  ±cos 
+
+
+=  03  -  n  T  yS, 
+
+
+f     =  ±cos" 
+
+
+V>!  =  n-  ±r- 
+
+
+r  2   ,2      2i 
+
+r3  +  r7     r5 
+
+(46) 
+
+.         2r3r7        . 
+
+:A 
+
+(47) 
+
+"r7  +  r8  *  r6  ' 
+
+(48) 
+
+-         2r7r8        - 
+
+-  es  +  e7. 
+
+(49) 
+
+The  mining  machine's  position  was  determined  by  equation 
+4  to  have  components 
+
+xll  =  r2c^2  +  x-f-Bl  -  rioc(^io  +  V>i)  (50) 
+
+and  yn  =  r2s02  +  r7s07  -  rlos(0lo  +  ^i)-  (51) 
+
+Four-Transducer  Solution 
+
+The  four-transducer  solution  was  derived  through  equa- 
+tions already  derived  in  the  three-transducer  solution  sec- 
+tion. Many  viable  combinations  of  these  equations  could 
+perform  the  desired  task,  but  these  combinations  relied  on 
+all  four  transducers  yielding  identical  results.  For  the 
+purpose  of  this  derivation,  equations  20,  21,  46,  and  47 
+were  used. 
+
+
+12 
+
+
+With  64  and  07  known  from  the  derivations  in  the  pre- 
+vious section,  the  vector  loop  equation  that  described  this 
+four-transducer  solution  was 
+
+ARX  +  AR4  -  £1%  +  bT^IO  "  AR7  "  AR2  =  °>     (52) 
+
+which  by  substituting  equations  9  and  10,  became 
+
+
+R 
+
+
+ArrB 
+
+
+4  "  B 
+
+
+T°Rg  -  ^R7 
+
+
+%  =  o. 
+
+
+(53) 
+
+
+The  only  unknown  in  this  equation  was  V>,  but  to  avoid  the 
+ambiguities  that  arise  from  the  use  of  the  inverse  sine  or 
+cosine,  information  from  both  scalar  equations  was  taken 
+into  consideration.  This  was  done  by  isolating  the  un- 
+known quantity  on  the  left  side  of  the  equation,  dividing 
+the  y  scalar  component  equation  by  the  x  scalar  compo- 
+nent equation,  and  solving  for  the  unknown  variable,  re- 
+sulting in 
+
+
+V>  =  tan"1 
+
+
+TaSVa  "  T-jSu-j  -  ToSP-j 
+
+
+r4c^4-r7c^7-r3c^3. 
+
+
+(54) 
+
+
+Of  course,  to  determine  the  correct  heading  of  the  ma- 
+chine, the  quadrant  information  yielded  by  the  x  and  y 
+scalar  equation  components  was  utilized  to  eliminate  am- 
+biguities caused  by  the  inverse  tangent  function.  The 
+mining  machine's  position  was  calculated  in  the  standard 
+manner,  yielding 
+
+xn  =  Tich  +  r4c^4  "  r9c(^9  +  V>)  (55) 
+
+and  yn  =  t1&01  +  r4s04  -  r9s(09  +  \j>).  (56) 
+
+Testing  and  Backup  Strategy 
+
+When  measurements  of  any  kind  are  performed,  it  is 
+usually  more  important  to  know  the  reliability  of  the  data 
+than  the  actual  data  itself.  If  the  data  are  not  known  to  be 
+reliable,  the  data  are  useless,  since  in  mining  operations, 
+safety  of  personnel  is  of  extreme  importance.  Thus,  the 
+redundancy  provided  by  an  additional  sensor  supplied  a 
+means  of  determining  the  accuracy  of  the  data  furnished. 
+The  four-transducer  solution  would  always  yield  the  cor- 
+rect position  and  heading,  provided  that  the  constraints  of 
+operation  were  met  and  the  transducers  were  furnishing 
+reliable  data. 
+
+In  order  for  the  guidance  system  to  operate  properly,  it 
+was  assumed  that  the  attachment  points  of  the  transducers 
+on  the  mining  machine  would  always  remain  on  the  posi- 
+tive x  side  of  the  imaginary  line  connecting  the  transducer 
+cable  attachment  points  (fig.  9).  If  this  constraint  was  not 
+met,  the  heading  and  position  data  developed  would  be 
+inaccurate.  The  best  strategy,  therefore,  was  to  keep  the 
+transducer  and  cable  attachment  points  separated  by  a 
+suitable  distance. 
+
+To  determine  if  one  of  the  transducers  was  furnishing 
+unreliable  data,  a  continuous  check  could  be  kept  by  cross 
+comparing  the  four  three-transducer  solutions.  If  only  one 
+
+
+transducer  was  furnishing  unreliable  data,  then  the  error 
+could  be  determined  to  exist  by  the  fact  that  all  four  so- 
+lutions would  disagree.  If  more  than  one  transducer  was 
+furnishing  inaccurate  data,  then  it  was  possible  that  no 
+error  could  be  identified.  While  the  possibility  of  more 
+than  one  transducer  failing  at  the  same  time  in  a  manner 
+yielding  no  identifiable  error  is  small,  it  was  theoretically 
+possible  in  a  roof  fall  or  mechanical  obstruction  of  mul- 
+tiple cables.  The  transducer  data  could  be  checked  in  such 
+cases  for  unrealistically  large  rates  of  change  in  length,  for 
+underrange  errors,  and  for  overrange  errors. 
+
+Since  each  three-transducer  solution  method  yielded 
+two  possible  positions  and  headings,  in  order  for  the 
+three-transducer  solutions  to  track  the  four-transducer 
+solution,  knowledge  of  the  initial  configuration  of  the 
+mining  machine  and  the  subsequent  changes  in  sign  of  the 
+three-transducer  solution  equations  was  required.  The 
+initial  configuration  of  the  mining  machine  was  assumed 
+to  be  similar  to  that  shown  in  figure  9  and  was  to  be  cor- 
+roborated by  the  four-transducer  solution.  This  config- 
+uration allowed  the  initialization  of  the  signs  in  the  head- 
+ing equations 
+
+
+V»4  =  ae 
+
+
+'4' 
+
+
+and 
+
+where      V\ 
+
+
+V>3  =  7r  -  ai>  -  08  +  05, 
+
+V-2  =  b»?  -  eg  +  e6, 
+0i  =  *  -  bf  -  08  +  e7, 
+
+
+(57) 
+(58) 
+(59) 
+(60) 
+
+
+and 
+
+
+=  heading  determined  by  a  three-transducer 
+solution,  which  excludes  transducer  i, 
+
+=  sign  of  e  and  v  since  both  change  signs  at 
+same  time, 
+
+=  sign  of  r\  and  £*  since  both  change  signs  at 
+same  time, 
+
+
+to  be  such  that  both  a  and  b  were  positive  in  the  initial 
+position  and  never  change  signs  at  the  same  time.  Chang- 
+ing the  signs  of  a  and  b  could  be  performed  by  keeping 
+track  of  both  headings  for  each  solution  and  choosing  the 
+appropriate  sign  and/or  by  noting  the  transition  of  the 
+solution  equations  and  using  the  sign  of  the  angular  veloc- 
+ity of  the  mining  machine  (u>).  Determining  the  signs  of 
+a  and  b  using  the  angular  velocity  of  the  mining  machine 
+was  done  in  the  following  manner  (fig.  9): 
+
+if  [(u^O)  and  (w<0)]  or  [(u~ir)  and  (w>0)],  then  a  =  -1, 
+
+if  [(^=0)  and  (w>0)]  or  [(y~ir)  and  (w<0)],  then  a  =  1, 
+
+if  [(»?M))  and  (w<0)]  or  [(»?~7r)  and  (w>0)],  then  b  =  -1, 
+
+and  if  [(f?~0)  and  (w>0)]  or  [(r?~7r)  and  (w<0)],  then  b 
+=  1. 
+
+
+13 
+
+
+Both  of  these  methods  relied  on  information  external  to 
+the  three-transducer  solutions  to  determine  the  signs  of 
+a  and  b.     If  a  transducer  did  fail,  the  error  could  be 
+
+
+determined  using  equations  57  to  60  instead  of  equations 
+30,  37,  43,  and  49. 
+
+
+ERROR  ANALYSIS 
+
+
+Once  the  position  and  heading  algorithm  had  been 
+designed  to  reduce  the  possibility  of  mathematical  errors 
+induced  by  the  configuration  of  the  position  and  heading 
+system,  it  was  necessary  to  determine  the  source  of  other 
+possible  errors.  These  errors  were  introduced  into  the 
+position  and  heading  calculation  through  the  inherent 
+inaccuracies  in  the  linear  position  transducers,  the  analog- 
+to-digital  (A/D)  converter,  and  the  sample  rate. 
+
+The  effects  of  these  errors  on  the  position  and  heading 
+calculation  depended  to  a  large  extent  on  the  position  and 
+heading  of  the  mining  machine.  While  the  determination 
+of  the  maximum  error  required  either  an  exhaustive  trig- 
+onometric proof  involving  the  taking  of  the  partial  deriv- 
+atives of  the  governing  equations  or  a  numerical  methods 
+analysis,  a  preliminary  numerical  analysis  utilizing  a  com- 
+puter model  of  the  position  and  heading  system  indicated 
+that  the  overall  position  and  heading  system  error  was  on 
+the  order  of  0.25  ft  and  3°,  respectively.  While  error  prop- 
+agation could  not  be  easily  derived,  the  errors  introduced, 
+however,  could  be  quantized. 
+
+LINEAR  TRANSDUCERS 
+
+Linear  transducers  of  the  length  necessary  to  perform 
+the  necessary  tasks  in  the  position  and  heading  system 
+(approximately  750  in)  had  a  stated  accuracy  of  0.1  pet  full 
+scale,  but  typically  had  an  accuracy  of  0.05  pet  full  scale. 
+Factory  calibration  information  on  five  Rayelco5  P-750A 
+linear  position  transducers  selected  for  use  in  the  position 
+and  heading  system  can  be  found  in  appendix  A.  A  pre- 
+liminary analysis  was  performed  on  these  calibration  data 
+to  determine  the  calibration  equations  for  each  linear 
+position  transducer  and  for  all  five  combined.  The  fre- 
+quency distribution  of  error  from  the  combined  calibration 
+equation  was  determined  and  appeared  to  be  Gaussian  in 
+
+
+nature.  (The  calibration  equations  and  error  frequency 
+distribution  can  be  found  in  appendix  B.)  The  only  other 
+accuracy  concern  for  the  linear  position  transducers  was 
+the  effect  of  the  dust  and  accumulations  of  dust  on  the 
+transducer's  wire  itself.  If  this  was  discovered  to  be  a 
+problem,  a  submersible  type  of  linear  transducer  could  be 
+used  with  water  to  flush  the  interior  of  the  cable  takeup 
+housing. 
+
+ANALOG-TO-DIGITAL  CONVERTER 
+
+The  A/D  conversion  circuitry  on  the  Intel  remote  con- 
+trol board  (iRCB)  44/20A  used  to  implement  the  position 
+and  heading  system  had  an  accuracy  of  about  0.035  pet  full 
+scale.  These  errors  were  due  in  part  to  nonlinearity,  inher- 
+ent quantizing  errors,  gain  error,  zero  error,  noise,  and 
+sample  and  hold  dynamic  error,  and  were  found  in  the 
+iRCB  44/20A's  hardware  user's  manual.  The  specifica- 
+tions for  the  A/D  converter  can  be  found  in  appendix  C. 
+
+SAMPLE  RATE 
+
+Because  of  the  processing  capability  available  to  the 
+position  and  heading  system  through  the  Intel  8051  micro- 
+processor running  in  a  distributed  control  executive  (iDCX 
+51)  real-time  multitasking  environment,  the  number  of 
+position  and  heading  calculations  performed  was  on  the 
+order  of  5  Hz.  Considering,  for  example,  that  a  Joy  16CM 
+mining  machine  can  attain  speeds  of  up  to  0.54  ft/s  and 
+angular  velocities  of  up  to  3.23°/s,6  the  sampling  errors 
+incurred  of  0.1  ft  and  0.6°  could  be  considered  acceptable 
+in  a  mining  environment.  If  greater  accuracy  is  desired, 
+a  slower  speed  could  be  used  or  the  machine  could  be 
+stopped  altogether. 
+
+
+CONCLUSIONS 
+
+
+A  system  to  determine  the  position  and  heading  of  a 
+mining  machine  during  maneuvers  required  in  the  face 
+area  of  an  operating  mine  section  was  described.  This 
+system  utilized  four  commercially  available  linear  position 
+transducers  to  obtain  the  required  sensory  data.  The  sys- 
+tem employed  sensor  redundancy  in  its  sensor  fusion 
+
+
+scenario  to  increase  the  system  reliability.  The  derivation 
+of  the  position  and  heading  algorithm  was  presented  and 
+a  preliminary  error  analysis  was  performed,  which  showed 
+that  the  position  and  heading  system  had  sufficient  ac- 
+curacy for  mining  application. 
+
+
+Reference  to  specific  products  does  not  imply  endorsement  by  the 
+U.S.  Bureau  of  Mines. 
+
+
+Sammarco,  J.  J.    Closed  Loop  Control  for  a  Continuous  Mining 
+Machine.   BuMines  RI  9209,  1988,  17  pp. 
+
+
+14 
+
+
+APPENDIX  A.-LINEAR  POSITION  TRANSDUCER  CALIBRATION  DATA 
+
+
+(Range,  750  in;  cable  tension,  24  oz;  potential  resistance,  500  ohms;  excitation,  10  V  dc) 
+
+
+Calibration 
+step 
+
+
+Travel, 
+in 
+
+
+Output, 
+V 
+
+
+Ideal, 
+V 
+
+
+Delta, 
+mV 
+
+
+TRANSDUCER  1 
+
+
+1  0.00 
+
+2 187.50 
+
+3 357.00 
+
+4 562.50 
+
+5 750.00 
+
+1  0.00 
+
+2 187.50 
+
+3 357.00 
+
+4 562.50 
+
+5 750.00 
+
+1  0.00 
+
+2 187.50 
+
+3 357.00 
+
+4 562.50 
+
+5 750.00 
+
+1  0.00 
+
+2 187.50 
+
+3 357.00 
+
+4 562.50 
+
+5 750.00 
+
+1  0.00 
+
+2 187.50 
+
+3 357.00 
+
+4 562.50 
+
+5 750.00 
+
+'0.05  pet  full  scale,  1.29  mV/(V/in)  position. 
+^.OS  pet  full  scale,  1.30  mV/(V/in)  position. 
+30.07  pet  full  scale,  1.29  mV/(V/in)  position. 
+40.04  pet  full  scale,  1.30  mV/(V/in)  position. 
+
+
+0.035 
+2.463 
+4.889 
+7.314 
+9.747 
+
+
+0.035 
+2.463 
+4.891 
+7.319 
+9.747 
+
+
+TRANSDUCER  22 
+
+
+0.028 
+2.462 
+4.891 
+7.321 
+9.758 
+
+
+0.028 
+2.460 
+4.893 
+7.325 
+9.758 
+
+
+TRANSDUCER  33 
+
+
+0.034 
+2.454 
+4.887 
+7.314 
+9.743 
+
+
+0.034 
+2.461 
+4.888 
+7.316 
+9.743 
+
+
+TRANSDUCER  44 
+
+
+0.030 
+2.461 
+4.898 
+7.339 
+9.771 
+
+
+0.030 
+2.465 
+4.901 
+7.336 
+9.771 
+
+
+TRANSDUCER  53 
+
+
+0.026 
+2.448 
+4.877 
+7.298 
+9.731 
+
+
+0.026 
+2.452 
+4.878 
+7.305 
+9.731 
+
+
+15 
+
+
+APPENDIX  B.-CALIBRATION  EQUATIONS  AND  ERROR  FREQUENCY 
+
+DISTRIBUTION 
+
+
+Output  (Qo),  in  volts,  for  the  five  linear  position  trans-  q0  .  0.02780 
+
+ducers,  as  described  in  appendix  A,  was  used  to  calculate  Qi  = ±  3.201727  in, 
+
+the  slopes,  intercepts,  and  standard  deviations  of  the  cali-  0.012992 
+bration  equations  for  each  of  the  five  linear  position  trans- 
+ducers and  for  all  five  combined.  The  general  calibration  with  maximum  error  =  0.246305  in. 
+equation  was  determined  to  be 
+
+The  calibration  equation  for  transducer  5  was  determined 
+
+Qo  -  0.02944  t0  be 
+
+Qi  = ±  2.050786  in, 
+
+°-012959  Qo  -  0.02580 
+
+Qi  =      ±  2.772926  in, 
+
+
+with  maximum  error  =  1.694514  in. 
+
+
+0.012940 
+
+
+The  calibration  equation  for  transducer  1  was  determined       with  maximum  error  =  0.030911  in. 
+to  be 
+
+
+Qo  -  0.03460 
+
+Qi  =  ±  0.89625  in, 
+
+0.012947 
+
+with  maximum  error  =  0.239444  in. 
+
+
+The  error  frequency  distribution  for  the  general  calibration 
+equation  is  as  shown  in  figure  B-l. 
+
+
+The  calibration  equation  for  transducer  2  was  determined 
+to  be 
+
+Qo  -  0.02820 
+
+Qi  =  ±  1.014279  in, 
+
+0.012970 
+
+with  maximum  error  =  0.223591  in. 
+
+The  calibration  equation  for  transducer  3  was  determined 
+to  be 
+
+Qo  -  0.03080 
+
+Qi  = ±  1.120895  in, 
+
+0.012948 
+
+with  maximum  error  =  0.35526  in. 
+
+The  calibration  equation  for  transducer  4  was  determined 
+to  be 
+
+
+6 
+5 
+4h 
+
+
+> 
+
+o 
+
+z 
+
+lit 
+
+=>    3 
+
+o 
+
+LlI 
+
+<r 
+
+"■    2 
+
+
+1        1         '         1         '        1 
+
+v\ 
+
+1 
+— > 
+
+ft 
+
+i     ■     i     ■     i     ■ 
+
+/ 
+
+V\ 
+
+* 
+
+\ 
+
+/ 
+
+/ 
+
+/ 
+
+/ 
+
+/. 
+
+/ 
+
+/ 
+
+V 
+
+$ 
+
+* 
+
+', 
+
+— -T       i 
+
+1 
+
+1 
+
+1 
+
+1 
+
+: 
+
+I 
+
+I 
+
+i 
+
+1 
+
+-2.0        -1.5        -1.0 
+
+
+-0.5  0  0.5 
+
+ERROR,  in 
+
+
+1.0 
+
+
+1 .5         2.0 
+
+
+Figure   B-1  .-General  calibration   equation  error  frequency 
+distribution. 
+
+
+16 
+
+
+APPENDIX  C.-CONVERSION  SPECIFICATIONS  FOR  INTEL  REMOTE 
+CONTROL  BOARD  44/20A  ANALOG-TO-DIGITAL  CONVERTER 
+
+
+Linearity 
+
+Differential  linearity 
+
+Inherent  quantizing  error 
+
+System  accuracy: 
+
+Gain  =  1    
+
+Gain  =  10    
+
+Gain  =  100    
+
+Gain  =  500    
+
+Gain  error 
+
+Zero  error 
+
+Channel  crosstalk 
+
+Noise  (A/D  converter) 
+
+Instrumentation  amplifier  settling  time: 
+
+Gain  =  1    
+
+Gain  =  10    
+
+Gain  =  100    
+
+Gain  =  500    
+
+A/D  conversion  time:   All  gains 
+
+Maximum  A/D  throughput: 
+
+Gain  =  1    
+
+Gain  =  10    
+
+Gain  =  100    
+
+Gain  =  500    
+
+Sample  and  hold  feedthrough  attenuation 
+
+Sample  and  hold  dynamic  error   
+
+Offset  drift  (gain  =  1) 
+
+Input  offset  drift  multiplied  by  gain 
+
+Gain  drift: 
+
+Gain  =  1    
+
+Gain  =  10    
+
+Gain  =  100    
+
+Gain  =  500    
+
+Monotonocity 
+
+Common  mode  rejection  ratio: 
+
+Gain  =  1    
+
+Gain  =  500    
+
+Amplifier  input  noise 
+
+Channel-to-channel  input  voltage  error   .  . 
+
+Resolution 
+
+FSR        Full-scale  reading. 
+LSB        Least  significant  bits. 
+RMS       Root  mean  square. 
+
+
+To  within  ±0.75  LSB. 
+To  within  ±0.75  LSB. 
+±0.5  LSB. 
+
+To  within  ±0.035  pet  FSR. 
+To  within  ±0.05  pet  FSR. 
+To  within  ±0.07  pet  FSR. 
+To  within  ±0.15  pet  FSR. 
+Adjustable  to  zero. 
+
+Do. 
+-80  dB  at  1  kHz. 
+0.2  LSB  RMS. 
+
+20 /is. 
+20  lis. 
+100  ms. 
+100  its. 
+30  lis. 
+
+20,000  samples  per  second. 
+
+Do. 
+7,500  samples  per  second. 
+
+Do. 
+-80  dB  at  1  kHz. 
+±0.75  LSB. 
+100mV/°C. 
+3  mV/°C. 
+
+32  ppm  of  FSR  per  degree  Celsius. 
+40  ppm  of  FSR  per  degree  Celsius. 
+65  ppm  of  FSR  per  degree  Celsius. 
+75  ppm  of  FSR  per  degree  Celsius. 
+Monolithic,  0°  to  +60°  C. 
+
+70  dB  at  60  Hz,  1  kohm  unbalance. 
+100  dB  at  60  Hz,  1  kohm  unbalance. 
+2  ilV  RMS. 
+±40 /iV. 
+12  bits. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29151 
+
+
+■o 
+m 
+
+$M0JC 
+SI  o  5  '(/> 
+
+z 
+
+52.  -^  <o  • 
+
+> 
+
+r- 
+3 
+
+O 
+
+■n 
+-n 
+
+—  m  °»    O 
+
+■n 
+
+O 
+
+O 
+>  1 
+
+artm 
+f  Mi 
+treel 
+:on, 
+
+" 
+
+r- 
+
+o-    2  <t> 
+
+I 
+
+s 
+
+c/> 
+
+-»  ft>    3 
+
+m 
+
+CO 
+
+z 
+m 
+
+ro  -        — , 
+
+m 
+
+(^ 
+
+■&>  (0 
+
+I 
+
+CO 
+
+Interior 
+
+#9800 
+1 
+
+> 
+
+z 
+m 
+O 
+
+c 
+> 
+
+o 
+
+-o 
+
+"0 
+
+O 
+
+3J 
+
+C 
+Z 
+
+
+m 
+
+
+O 
+
+-< 
+m 
+
+
+413- 90 
+
+
+*°* 
+
+
+",*   <*     ..     **» 
+
+
+•  «o 
+
+
+* 
+
+
+V     -  ©  «  • . 
+
+
+0»^ 
+f  *      AV<^       - ' 
+
+
+W 
+
+
+°     ^ 
+
+
+'    <(y  <>     '•>  •  *  * 
+
+^  6^      •  l^im^  oV 
+
+
+& 
+
+
+V^5 
+
+
+n^^ 
+
+
+TO 
+
+
+^   °^, 
+
+
+iP«7\ 
+
+
+jo,.       • 
+
+
+<y    » *  • 
+
+
+^^ 
+
+
+•         AV^ 
+
+
+^°^ 
+
+
+O.       'o  »  t  -       .•»  ^.         *  •  •  • 
+
+
+-^> 
+
+
+5°*. 
+
+
+.:••«    %>  4?    ♦•Jm*^  ^  0"  ,•!•••    *©v  &   site*     >  VS     .!••-    %>  .0*   »J^L>     ■ > 
+
+
+«•*  ,6* 
+
+
+*     &   %    • 
+
+
+0  •  *  *     A6  °*.  **••**   A<^  <*       -  •  •  - 
+
+
+/   A*v*v    • 
+
+
+o  »  • 
+
+
+1'°'      <?.  ■£>      *lZo*L*     >  V 
+
+
+^    *'..  *4     A 
+
+
+♦^    o 
+
+
+»*    ^' 
+
+
+:4°«* 
+
+
+c*      * 
+
+
+0>k      o 
+
+
+1    ^c 
+
+
+^^  .-ifl&i-.  \/  /Jte*  ^.^  .-^i&i-.  \.^  .-ate-. 
+
+
+£°* 
+
+
+v<^^ 
+
+
+v^^ 
+
+
+ft  c. 
+
+
+^0^ 
+
+°o   ^TT,»*  aP 
+
+
+•^  .-^%% 
+
+
+"ol? 
+
+
+^o< 
+
+
+/    V^*>     %*"v    V^V    v^%°°    V 
+
+
+„4  © . 
+
+
+feo< 
+
+
+♦.  'o. 
+
+
+^^  ^      '^O1?   '       otf 
+
+
+;*°v...  "vw^   ^'^^^    ~vT---^    ^*^'v'^V:--- 
+
+
+V9S 
+
+
+HECKMAN       ilA 
+BINDERY  INC.        |M| 
+
+^  NOV  90 
+
+N.  MANCHESTER, 
+INDIANA  46962 
+
+
+^^ 
+
+
+J-0^ 
+
+
+■  v«V  V^V  V^^V  %;^V 
+
+

@@ -1,0 +1,3022 @@
+*°* 
+
+
+<£,.      • 
+
+
+v     . «  • 
+
+
+:-\  fc'*-.\  *•«*••&%  .*.♦£&.*  /•&\  **.;£&:.  *  .< 
+
+
+■s 
+
+^ 
+** 
+
+
+V-"-V      o^*>*     V--:>     %  •*£*>*"    v:-:>      <,-3*p 
+
+
+^9 
+
+
+4»      •  „ 
+
+
+JO.        • 
+
+
+rf<36 
+
+
+,<^V      60"0 
+
+
+^■n.. 
+
+
+<>  *'TC 
+
+
+.4>     „«"•♦     *<J> 
+
+
+<>  *'T7 
+
+
+V  A*0  '" 
+
+v.* 
+
+
+U0 ,      ^cr 
+
+
+lV      .  t  *  r 
+
+
+BUREAU  OF  MINES 
+
+INFORMATION  CIRCULAR/1990 
+
+3X3BS 
+¥9S 
+
+
+A  Cobalt  Commodity  Recycling 
+Flow  Model 
+
+
+By  Robert  C.  Gabler,  Jr.,  and  William  D.  Riley 
+
+
+YEARS     g 
+
+%U  OF  *X* 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assessesourenergy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9252 
+
+A  Cobalt  Commodity  Recycling 
+Flow  Model 
+
+
+By  Robert  C.  Gabler,  Jr.,  and  William  D.  Riley 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+^^ 
+
+
+c\ 
+
+
+^ 
+
+
+& 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Gabler,  Robert  C. 
+
+A  cobalt  commodity  recycling  flow  model  /  by  Robert  C.  Gabler,  Jr.  and 
+William  D.  Riley. 
+
+p.      cm.  —  (Bureau  of  Mines  information  circular;  9252) 
+
+Includes  bibliographical  references. 
+
+1.  Cobalt  industry— Mathematical  models.  2.  Cobalt— Recycling— Mathematical 
+models.  I.  Riley,  W.  D.  (William  D.)  II.  Title.  III.  Series:  Information  circular 
+(United  States.  Bureau  of  Mines);  9252. 
+
+TN295.U4     [HD9539.C462]     622  s-dc20     [338.27483]     90-1534 
+CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+General  description    3 
+
+Industry  flow  models    4 
+
+Superalloys    4 
+
+Magnetic  alloys    5 
+
+Cemented  carbides 6 
+
+Tool  steels 6 
+
+Stainless  steels,  heat-resistant  steels,  and  other  alloys 6 
+
+Miscellaneous  and  unspecified  uses 7 
+
+Catalysts    7 
+
+Other  chemicals 7 
+
+Cobalt  material  flows 8 
+
+Summary 9 
+
+Conclusions   10 
+
+References 11 
+
+Appendix 12 
+
+ILLUSTRATIONS 
+
+1.  The  cobalt  commodity  flow  model 3 
+
+2.  Superalloys:  wrought,  cast,  and  composite 5 
+
+3.  Magnetic  alloys:  wrought,  cast,  and  composite    6 
+
+4.  Cemented  carbides    6 
+
+5.  Tool  steels    6 
+
+6.  Stainless  steels,  heat-resistant  steels,  and  other  alloys    7 
+
+7.  Miscellaneous  and  unspecified  products   7 
+
+8.  Catalysts 8 
+
+9.  Other  chemicals    8 
+
+10.    Composite  cobalt  commodity  flowsheet    9 
+
+TABLES 
+
+1.  Reported  and  apparent  consumption  of  cobalt  in  the  United  States,  1987    4 
+
+2.  Estimated  distribution  of  waste  and  downgraded  material  in  the  superalloy  industry,  1987    5 
+
+3.  Estimated  distribution  of  waste  and  downgraded  scrap  in  the  magnetic  alloy  industry,  1987    6 
+
+4.  Estimated  distribution  of  waste  and  downgraded  scrap  in  the  stainless  steel,  heat-resistant  steel, 
+
+and  other  alloys  industries,  1987 7 
+
+5.  Estimated  distribution  of  waste  and  downgraded  scrap  in  miscellaneous  and  unspecified  uses,  1987    ...  7 
+
+6.  Estimated  amounts  of  cobalt  consumed  in  noncatalyst  chemical  products,  1987    8 
+
+7.  Estimated  distribution  of  waste  and  downgraded  scrap  in  the  cobalt  commodity  industries,  1987 8 
+
+8.  Estimated  losses  of  cobalt  in  industries,  1987   10 
+
+9.  Estimated  recyclable  and  recycled  materials  by  industry,  1987 10 
+
+A-l.    Estimated  U.S.  consumption  of  cobalt  by  end  use,  1987    12 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+lb 
+
+pound 
+
+St 
+
+short  ton 
+
+lb/st 
+
+pound  per  short  ton 
+
+yr 
+
+year 
+
+pet 
+
+percent 
+
+A  COBALT  COMMODITY  RECYCLING  FLOW  MODEL 
+
+By  Robert  C.  Gabler,  Jr.,1  and  William  D.  Riley2 
+
+
+ABSTRACT 
+
+World  resources  of  cobalt  appear  ample  for  the  foreseeable  future;  however,  political  and  economic 
+events  have  caused  concern  over  the  availability  and  reliability  of  an  uninterrupted  supply.  Because  of 
+this  concern,  the  U.S.  Congress  requested  that  the  U.S.  Bureau  of  Mines  initiate  a  study  of  the  flow  of 
+cobalt  in  the  economy  that  would  delineate  and  quantify  the  production  areas  where  metal  values  are 
+lost.  As  a  result,  the  Bureau  has  developed  a  computerized  commodity  flow  model.  A  major  attribute 
+of  this  model  is  that  it  is  amenable  to  updating  as  supply,  demand,  and/or  production  data  change.  This 
+report  follows  the  flow  of  cobalt  through  its  metallurgical  and  chemical  applications  and  highlights  areas 
+where  significant  losses  occur  due  to  downgrading,  export,  or  disposal.  The  study  indicates  that  about 
+4,300,000  lb  of  cobalt-bearing  materials  are  lost  each  year,  representing  24  pet  of  U.S.  domestic  demand. 
+
+
+2Physical  scientist. 
+
+Albany  Research  Center,  U.S.  Bureau  of  Mines,  Albany,  OR. 
+
+
+INTRODUCTION 
+
+
+Cobalt  is  an  indispensable  element  in  a  variety  of 
+critical  and  strategic  applications  such  as  superalloys, 
+permanent  magnets,  cemented  carbides,  alloy  and  tool 
+steels,  catalysts,  and  chemicals.  Cobalt  has  few  viable 
+substitutes  in  most  of  its  major  end  uses.  The  United 
+States  currently  is  entirely  dependent  on  foreign  sources 
+for  its  primary  cobalt  demands.  Although  world  resources 
+of  cobalt  are  ample  for  the  foreseeable  future,  political 
+and  economic  events  have  raised  doubts  about  the 
+uninterrupted  availability  and  reliability  of  supplies  of 
+this  commodity.  The  largest  suppliers  of  cobalt  are  the 
+central  Africa  countries  of  Zaire  and,  to  a  lesser  extent, 
+Zambia.  The  risks  of  future  disruptions  from  these 
+sources  are  high  (I).3 
+
+Various  literature  studies  have  reported  the  strategic 
+importance  of  a  number  of  commodities,  their  availability, 
+and  their  vulnerability  to  interrupted  supplies  (1-8).  Most 
+of  these  studies  either  are  out  of  date  or  do  not  supply 
+information  on  losses  of  the  strategic  and  critical  com- 
+modities due  to  waste  disposal,  downgrading,  and/or 
+export. 
+
+Industry  officials  in  the  production,  manufacturing,  and 
+recycling  of  strategic  and  critical  commodities  are  reluctant 
+to  discuss  the  quantities  of  scrap  that  go  to  disposal, 
+downgrading,  and  export.  This  information  is  often  con- 
+sidered to  be  proprietary  in  nature. 
+
+Even  when  data  are  available,  there  is  confusion 
+between  disposition  of  materials  and  recycling.  For  ex- 
+ample, in  a  survey  of  seven  scrap  recyclers  in  1987  (9),  the 
+following  estimates  were  obtained  for  disposition  of  scrap 
+from  the  superalloy  industry: 
+
+Range,  pet 
+
+Domestic  recycling 60-100 
+
+Exports    0-40 
+
+Of  recycled  scrap: 
+
+Domestic  remelting 75-100 
+
+Recycling  to  same  superalloy 38-90 
+
+Recycling  to  other  high-value  superalloy  .  5-  38 
+
+Downgrading 10-25 
+
+Discarding 3-  5 
+
+These  estimates  are  typical  of  the  data  on  processing, 
+manufacturing,  disposal,  downgrading,  and  recycling  of 
+strategic  and  critical  materials.  Therein  lies  the  difficulty 
+in   determining   the   amounts   of  critical   and   strategic 
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+preceding  the  appendix  at  the  end  of  this  report. 
+
+
+commodities  that  are  discarded,  downgraded,  or  exported, 
+which  is  the  reason  for  conducting  this  study. 
+
+In  1980,  the  U.S.  Bureau  of  Mines  reported  the  results 
+of  contracted  studies  by  Inco  Research  and  Development 
+Center,  Suffern,  NY,  and  Arthur  D.  Little,  Inc.,  Cam- 
+bridge, MA,  to  assess  the  domestic  availability  of  chro- 
+mium in  scrap  and  the  amount  that  was  recycled  (10-11). 
+These  reports  contain  data  up  to  1976  and  1978,  respec- 
+tively; no  updates  of  these  studies  were  conducted  follow- 
+ing their  publication.  In  1983,  the  National  Materials 
+Advisory  Board  (NMAB)  published  a  study  of  the  flow  of 
+cobalt  in  all  end  uses,  which  discussed  the  amounts  of 
+downgraded  scrap  and  waste  produced  by  the  cobalt  in- 
+dustry (1).  The  report  also  discussed  the  need  for  im- 
+proved recycling  of  cobalt-containing  scrap. 
+
+In  May  1985,  the  U.S.  Congress,  Office  of  Technology 
+Assessment  (OTA)  produced  a  study  entitled  "Strategic 
+Materials:  Technologies  To  Reduce  U.  S.  Import  Vulner- 
+ability" (12).  Included  in  the  study  were  a  set  of  recom- 
+mendations to  the  U.S.  Bureau  of  Mines  to  conduct  a 
+survey  of  recycling-related  activities.  OTA  recommended 
+a  scrap  recycling  study  to  update  the  chromium  scrap 
+metal  information  contained  in  two  Bureau  publications 
+(10-11),  as  well  as  to  expand  the  scope  of  the  previous 
+studies  to  include  information  on  scrap  generated  by 
+cobalt,  manganese,  and  the  platinum-group  metals 
+industries,  as  well  as  the  wastes  generated  by  all  the 
+various  industrial  and  Department  of  Defense  (DOD) 
+users  of  these  four  commodities. 
+
+In  1987,  the  Bureau  initiated  this  study  of  the  four  com- 
+modities. The  main  objective  of  the  study  is  to  produce 
+a  commodity-orientated  structural  model  tracing  flow,  re- 
+cycling, and  final  disposition  of  the  four  identified  com- 
+modities, which  can  be  updated  in  subsequent  years.  A 
+second  objective  of  the  study  is  to  provide,  in  an  under- 
+standable manner,  an  overview  of  the  commodity  flow  that 
+can  be  used  by  Congress  and  industry  associations  as  a 
+tool  to  help  in  the  study  of  that  commodity's  vulnerability 
+to  political  and  availability  factors  outside  the  control  of 
+the  United  States.  Another  objective  of  the  study  is  to 
+highlight  significant  commodity  loss  areas  where  further 
+research  is  required.  This  will  enable  the  development  of 
+specific  project  proposals  to  address  specific  recycling 
+areas. 
+
+To  meet  the  preceding  objectives  of  the  study,  a 
+hierarchical  model  was  developed  for  cobalt,  and  the  data 
+for  cobalt  are  presented  here.  This  report  consists  of  a 
+general  description  of  the  model  and  its  components.  This 
+particular  model  is  a  generic  model  that  can  be  applied  to 
+other  strategic  and  critical  commodities. 
+
+
+GENERAL  DESCRIPTION 
+
+
+The  cobalt  commodity  flow  model  is  composed  of  a  hi- 
+erarchical structure  and  a  materials  balance  for  each 
+component  of  the  hierarchy.  An  overview  of  the 
+commodity  flow  model  is  shown  in  figure  1.  The  model 
+structure  provides  a  means  of  organizing  the  overall 
+industry  data  and  of  estimating  material  flow  and  waste 
+generation  by  subcomponents  of  the  industry.  The  entire 
+commodity  industry  is  represented  in  the  first  level  of  the 
+structure,  with  subsequent  consumers  in  the  lower  levels  of 
+the  structure.  This  hierarchical  structure  lends  itself  to  a 
+coding  system  for  identifying  the  industries  and  their 
+relationships.  The  cobalt  industry,  for  example,  splits  into 
+eight  industries  at  the  highest  level:  superalloys;  magnetic 
+alloys;  cemented  carbides;4  tool  steels;  stainless  steels, 
+heat-resistant  steels,  and  other  alloys;  miscellaneous  and 
+unspecified  industries;  cobalt  catalysts;  and  other 
+chemicals.  The  first  level  of  industry  components  would 
+thus  be  coded:  Co.l  for  superalloys,  Co.2  for  magnetic 
+alloys,  Co.3  for  cemented  carbides,  etc.  Under  cobalt 
+superalloy  processing  would  be  cobalt  parts  manufacturing: 
+Co.1.1.  A  new  digit  is  added  for  each  descending  level  in 
+the  hierarchy.  For  example,  the  end-use  industries  for 
+cobalt  superalloys  would  be  Co.1.1.1— jet  engine  turbine 
+blades,  Co.l.l.2-compression  rings,  etc. 
+
+With  adequate  input  data,  this  system  permits  one  to 
+simply,  quickly,  and  unambiguously  identify  the 
+subcomponents  of  any  component  of  the  cobalt  indus- 
+try. The  system  permits  the  identification  of  cobalt 
+consumption  or  waste  by  industry  component  simply  by 
+adding  all  waste  (or  consumption)  for  the  subcomponents. 
+To  list  all  the  waste  by  the  cobalt  catalyst  industry,  for 
+example,  one  simply  adds  the  waste  for  all  components 
+whose  labels  start  with  "Co.7."  If  one  wants  to  know  the 
+production  of  scrap  and  waste  in  the  cobalt  superalloy 
+parts  manufacturing  industry  one  adds  the  scrap  from  all 
+components  whose  labels  start  with  "Co.1.1." 
+
+The  data  organized  by  the  hierarchical  structure  include 
+material  balances  by  industry.  This  system  permits 
+"upward"  and  "downward"  calculation  of  consumption  and 
+waste  quantities.  That  is,  using  this  structure,  one  can 
+distribute  domestic  consumption  of  cobalt  over  the 
+numerous  industries  that  consume  cobalt.  This  is  "down- 
+ward" calculation.  One  could  also  start  by  calculating 
+consumption  for  the  lowest  components  and  add  to  get 
+total  domestic  consumption.  This  is  "upward"  calculation. 
+Using  both  upward  and  downward  calculation  provides  a 
+method  for  checking  self-consistency.  Using  upward  and 
+downward  calculation  also  permits  the  estimation  of  limits 
+on  data  that  is  not  otherwise  attainable.  For  example,  if 
+85  pet  of  the  companies  in  an  industry  report  data  and  the 
+
+
+4Cemented  carbides  are  cutting  tools  and  wear-resistant  materials 
+such  as  dies. 
+
+
+total  consumption  in  this  industry  is  known,  then  the 
+estimates  of  the  contributions  of  the  other  15  pet  of  the 
+companies  can  be  calculated  by  difference. 
+
+Minimally,  for  the  purpose  of  identifying  scrap  and 
+waste  generation  sources,  recycling  routes,  and  potential 
+recycling  opportunities,  each  component  should  have  a 
+quantified  cobalt  input  and  output,  in  contained  weight  and 
+in  gross  weight  by  material.  The  difference  between  input 
+and  output  is  identified  waste.  One  can  balance  input  and 
+output  in  contained  cobalt  units  to  determine  whether  un- 
+identified waste  streams  are  significant 
+
+
+KEY 
+Waste 
+
+
+CD 
+
+
+Processing  or 
+production 
+
+
+O 
+
+
+Part  or  product 
+manufacturing 
+
+□ 
+
+Downgraded 
+scrap 
+
+^7 
+
+Waste 
+
+
+Obsolete  scrap 
+
+
+Primary  Co 
+
+
+Cemented  carbides 
+
+
+■^-t 
+
+
+Tool  steel 
+
+
+Stainless  steel, 
+
+heat-resistant  steel, 
+
+and   other  alloys 
+
+
+Miscellaneous  and 
+unspecified  material 
+
+
+Catalyst 
+
+
+^^ 
+
+
+Other  chemical 
+Figure  1  -The  cobalt  commodity  flow  model. 
+
+
+Each  industry  material  balance  is  the  result  of  material 
+balances  for  individual  processes.  For  example,  in  the  pro- 
+duction of  superalloys,  a  detailed  materials  balance  should 
+be  produced  for  each  superalloy  production  operation.  It 
+is  likely  that  each  company  has  a  different  furnace,  uses  a 
+different  melting  procedure,  produces  to  different  chemical 
+specifications,  recycles  differently,  and  has  different 
+economic  restrictions.  All  of  these  factors  affect  the 
+fraction  of  input  materials  that  reports  to  output  product, 
+recyclable  material,  or  waste.  It  is  at  this  level  that 
+information  on  recycling  potential  is  most  valuable.  It  is 
+at  this  level  that  individual  waste  streams  and  scrap  that 
+leave  the  production  process  are  identified  and  char- 
+acterized (quantity,  concentration,  contamination,  etc.), 
+and  that  unidentified  waste  is  quantified. 
+
+With  the  hierarchical  structure  of  the  industry,  the 
+input-output  materials  balance  for  each  component,  and 
+the  detailed  materials  balance  for  each  process  that  makes 
+up  an  industry  component,  a  "blueprint"  for  commodity 
+
+
+data  collection  and  organization  has  been  developed.  The 
+base  of  this  system  is  the  process  material  balance.  The 
+process  material  balances  are  then  aggregated  to  form  the 
+industry  material  balance.  The  industry  components  are 
+organized  by  the  hierarchical  structure,  which  identifies 
+material  flows  among  industry  components. 
+
+The  model  developed  here  for  the  study  of  scrap  and 
+waste  generated  by  cobalt  processing  and  consuming  in- 
+dustries is  a  blueprint  or  guideline  for  organizing  a  logi- 
+cal study  of  cobalt  flow.  The  waste  and  scrap  generated 
+through  the  use  of  cobalt  materials  is  identified  through 
+application  of  the  material  balance  concept.  This  model 
+divides  the  cobalt  industry  into  smaller  parts,  which  should 
+make  data  collection  and  analysis  as  well  as  data  revision 
+more  manageable.  Problems  may  arise  in  application  of 
+this  model;  for  example,  some  companies  may  be  reluctant 
+to  provide  data.  But  the  model  is  general  and  flexible 
+enough  to  be  adapted  to  these  problems. 
+
+
+INDUSTRY  FLOW  MODELS 
+
+
+Neither  the  reported  consumption  nor  the  apparent 
+consumption  of  cobalt  in  any  given  year  necessarily  equals 
+the  actual  consumption  of  cobalt  in  that  year.  "Reported 
+consumption"  is  those  data  reported  to  the  U.S.  Bureau  of 
+Mines  in  response  to  the  Bureau's  industry  consumption 
+survey  questionnaires.  The  "apparent  consumption"  equals 
+primary  production  plus  production  from  old  scrap  plus 
+(imports  minus  exports)  plus  (beginning  inventories  minus 
+ending  inventories).  Apparent  consumption  is  closer  to 
+actual  consumption,  but  reported  consumption  provides  a 
+breakdown  by  end  use 
+
+In  developing  the  overall  cobalt  flow  models,  the 
+following  guidelines  were  used: 
+
+1.  The  difference  between  reported  consumption  and 
+apparent  consumption  was  prorated  among  the  various 
+level  2  industry  components,  because  there  are  insufficient 
+data  to  determine  where  the  difference  belongs; 
+
+2.  It  was  assumed  that  the  amount  of  cobalt  in  each  of 
+the  level  2  industry  flows  that  reported  to  loss,  downgrade, 
+prompt  scrap,  flow  to  manufacturing,  and  flow  to  final 
+product  was  proportional  to  the  1980  data  reported  by 
+NMAB  (1)  and  that  this  proportionment  is  still  valid  at 
+this  time; 
+
+3.  The  portions  of  loss  and  downgraded  material 
+for  most  of  the  metals  that  appear  as  solid  scrap,  mixed 
+scrap,  turnings,  grindings,  and  waste  were  assumed  to 
+be  proportioned  as  reported  by  Curwick,  Petersen,  and 
+Makar  (11). 
+
+The  cobalt  industry  comsumption  data  for  1987  are  shown 
+in  table  1. 
+
+
+Table  1. -Reported  and  apparent  consumption  of  cobalt 
+
+in  the  United  States,  1987  (thousand 
+
+pounds  contained  cobalt) 
+
+Industry                                Reported  Apparent 
+Metallurgical: 
+
+Superalloy 6,273              7,403 
+
+Magnetic  alloy 1,719              2,029 
+
+Cutting  and  wear-resistant 
+
+materials   1,174              1,386 
+
+Tool  steel      383                  452 
+
+Stainless  steel,  heat-resistant  steel, 
+
+and  other  alloys  (excluding  alloy 
+
+steels  and  superalloys) 151                  178 
+
+Miscellaneous  and  unspecified 
+
+materials1    883               1,042 
+
+Chemical: 
+
+Catalyst 1,096               1,294 
+
+Other  chemical  uses2 3,422 4,040 
+
+Total 315,099  17,824 
+
+1Full  alloy  steel,  high-strength  low-alloy  steel,  nonferrous  alloys, 
+welding  materials  (standard  and  hardfacing),  and  metal  powder  pro- 
+ducts. Individual  data  are  withheld  to  avoid  disclosing  company 
+proprietary  information. 
+
+2Driers,  feed  or  nutritive  additives,  glass  decolorizers,  ground  coat 
+frit,  and  pigments. 
+
+3Data  do  not  add  to  total  shown  because  of  independent  rounding. 
+
+SUPERALLOYS 
+
+The  flow  of  cobalt  in  the  superalloy  industry  is  shown 
+in  figure  2.  Quantities  were  generated  by  the  model,  using 
+the  following  assumptions: 
+
+1.  The  reported  amount  of  cobalt  contained  in  recycled 
+obsolete  scrap  (13)  is  proportioned  only  to  superalloy  and 
+cemented  carbides  processing. 
+
+
+2.  The  amount  of  cobalt  from  obsolete  scrap  used  in 
+cemented  carbides  is  proportional  to  the  ratio  of  obsolete 
+scrap  cobalt  input  to  cemented  carbides  to  total  cobalt 
+input  to  cemented  carbides  shown  by  NMAB  (500  units  of 
+cobalt  in  obsolete  scrap  per  1,344  units  of  total  cobalt 
+input)  (2). 
+
+3.  The  input  of  cobalt  in  obsolete  scrap  to  superalloy 
+production  is  the  difference  between  contained  cobalt  in 
+total  consumed  obsolete  scrap  and  contained  cobalt  in  ob- 
+solete scrap  consumed  in  production  of  cemented  carbides. 
+
+4.  The  difference  between  total  apparent  consumption 
+of  cobalt  in  superalloy  production  and  that  part  from  obso- 
+lete scrap  is  primary  cobalt. 
+
+5.  The  ratio  of  primary  cobalt  consumed  in  wrought 
+products  to  that  consumed  in  cast  products  is  2.0  (2). 
+
+The  composite  flow  of  superalloys  in  the  manufacture 
+of  parts  is  the  sum  of  two  independent  flows,  which  are  the 
+production  of  wrought  alloy  parts  and  cast  parts  (fig.  2). 
+
+
+Obsolete  scrap 
+
+
+Prompt  scrap 
+
+
+Parts    (2.733) 
+
+
+Wrought 
+
+
+Obsolete  scrap 
+
+
+Prompt  scrap 
+
+
+(1.738) 
+
+
+Parts    (1.397) 
+
+
+*  Cast 
+
+
+Obsolete  scrap 
+
+
+Prompt   scrap 
+
+
+Parts    (4,130) 
+
+
+*  Composite 
+
+
+Figure  2. -Superalloys:  wrought,  cast,  and  composite  (quanti- 
+ties in  thousand  pounds  contained  cobalt).  Data  may  not  add  to 
+totals  shown  because  of  independent  rounding. 
+
+
+In  the  superalloy  industry  there  are  two  types  of 
+processing:  In  the  first,  metal  is  processed  to  an  alloy  and 
+this  material,  in  the  form  of  a  billet  or  ingot,  then  goes 
+to  producing  a  manufactured  part  (wrought).  In  the  sec- 
+ond, the  alloy  is  prepared  by  the  melting  of  pure  metals 
+by  the  parts  manufacturer  immediately  prior  to  casting  the 
+parts  (cast).  To  simplify  the  model,  these  two  different 
+operations  are  summed  up  as  a  composite  flow  sequence 
+of  superalloy  processing  and  parts  manufacturing. 
+
+From  the  model,  the  following  figures  were  generated. 
+In  1987,  the  superalloy  industry  consumed  materials  esti- 
+mated to  contain  7,403,000  lb  of  cobalt,  generated  waste 
+material  estimated  to  contain  565,000  lb  of  cobalt,  and 
+downgraded  material  estimated  to  contain  2,707,000  lb 
+of  cobalt.  The  distribution  of  this  material  is  shown  in 
+table  2.  In  many  cases  the  loss  to  downgrade  is  due  to 
+the  fact  that  specifications  for  certain  end-use  products 
+require  the  use  of  virgin  metal  to  produce  the  alloys. 
+These  requirements  cause  large  amounts  of  scrap  material 
+to  be  used  as  a  cobalt  source  for  alloys  with  lower 
+concentrations  of  cobalt  and  lower  economic  values 
+(downgraded.) 
+
+Table  2.-Estimated  distribution  of  waste  and  downgraded 
+material  in  the  superalloy  industry,  1987 
+
+JO3//? 
+Material  contained  Co 
+
+Loss  material:  Waste 565 
+
+Downgraded: 
+
+Solid  scrap  371 
+
+Mixed  scrap    217 
+
+Turnings 1,089 
+
+Grindings   1,030 
+
+Total    3,272 
+
+
+MAGNETIC  ALLOYS 
+
+The  manufacture  of  magnets  involves  two  major 
+processes,  wrought  alloy  processing  and  casting.  The  flows 
+of  cobalt  in  the  manufacture  of  magnets  with  wrought  and 
+cast  alloys  are  shown  in  figure  3.  The  composite  flows  of 
+cobalt  in  all  magnet  manufacturing  are  also  shown  in 
+figure  3.  The  flows  were  estimated  based  on  the  data  of 
+Curwick,  Petersen,  and  Makar  (11)  and  NMAB  (1).  An 
+estimated  2,029,000  lb  of  cobalt  was  used  in  magnet 
+manufacture  in  1987.  Of  this  amount,  an  estimated 
+141,000  lb  of  cobalt  reported  to  waste,  79,000  lb  of  cobalt 
+to  downgrade,  and  1,808,000  lb  of  cobalt  to  magnets.  The 
+distribution  of  waste  and  downgraded  materials  is  shown 
+in  table  3.  NMAB  states  that  essentially  no  obsolete 
+cobalt  magnet  scrap  was  recycled  to  the  production  of 
+cobalt-containing  products  (7). 
+
+
+Primary  Co 
+
+
+(812) 
+
+
+*  Wrought 
+
+
+Obsolete  scrap 
+
+
+Magnet  (732) 
+
+
+Primary  Co 
+
+
+(1,217) 
+
+
+*  Cast 
+
+
+parts'  <1'076> 
+
+
+Primary  Co 
+
+
+(2.029) 
+
+
+Magnet 
+parts 
+
+
+(1,808) 
+
+
+*  Composite 
+
+
+Figure  3.-Magnetic  alloys:  wrought,  cast,  and  composite 
+(quantities  in  thousand  pounds  contained  cobalt).  Data  may  not 
+add  to  totals  shown  because  of  independent  rounding. 
+
+
+Table  3.- Estimated  distribution  of  waste  and  downgraded 
+scrap  in  the  magnetic  alloy  industry,  1987 
+
+10*  lb 
+contained  Co 
+
+141 
+
+_79 
+
+220 
+
+
+Material 
+
+Loss  material,  waste 
+
+Downgraded  scrap,  mixed   . 
+Total    
+
+
+CEMENTED  CARBIDES 
+
+This  category  consists  of  cutting  tools  and  wear-resistant 
+materials  such  as  dies.  The  flow  of  cobalt  in  this  industry 
+is  based  on  NMAB  data  (1)  and  is  shown  in  figure  4.  The 
+material  first  goes  through  powder  processing,  where  the 
+only  reported  loss  occurs.  Then,  the  material  goes  to  parts 
+manufacturing.  About  3  to  25  pet  cobalt  is  used  as  a 
+matrix-cement  for  carbide  cutting  tools,  and  about  6  to 
+25  pet  cobalt  is  used  in  carbide  drawing  dies  (1).  In  the 
+overall  production  of  cemented  carbide  inserts  and  parts, 
+obsolete  scrap  containing  an  estimated  516,000  lb  of  cobalt 
+and  870,000  lb  of  primary  cobalt  were  used,  producing 
+waste  containing  an  estimated  23,000  lb  of  cobalt  and  parts 
+and  inserts  containing  an  estimated  1,363,000  lb  of  cobalt. 
+
+
+Parts   (1,363) 
+
+
+Figure  4.-Cemented  carbides  (quantities  in  thousand  pounds 
+contained  cobalt). 
+
+
+Primary  Co 
+
+
+(452) 
+
+
+Semifinished 
+
+steel 
+
+production 
+
+
+To   tool   mfg. 
+
+
+(380) 
+
+
+Tools  (371) 
+
+
+Figure  5.-Tool  steels  (quantities  in  thousand  pounds  con- 
+tained cobalt). 
+
+
+TOOL  STEELS 
+
+The  primary  use  for  this  product  is  in  high-speed  tools. 
+Cobalt  is  added  to  tungsten-chromium  hot-work  tool  steels 
+to  increase  the  toughness  and  strength  of  the  alloy  at  high 
+temperatures  (14).  The  flows  of  cobalt  in  this  industry 
+are  based  on  NMAB  data  (1)  and  are  shown  in  figure  5. 
+In  this  industry  an  estimated  452,000  lb  of  cobalt  is  used 
+to  produce  high-speed  tools  containing  an  estimated 
+371,000  lb  of  cobalt.  The  production  and  manufacturing 
+losses  of  waste  are  estimated  to  contain  81,000  lb  of  cobalt. 
+
+STAINLESS  STEELS,  HEAT-RESISTANT  STEELS, 
+
+AND  OTHER  ALLOYS  (EXCLUDING  ALLOY 
+
+STEELS  AND  SUPERALLOYS) 
+
+The  primary  end  use  of  products  of  this  industry  is  in 
+applications  where  heat  and  corrosion  resistance  are  re- 
+quired (75).  The  flows  of  cobalt  in  this  industry  are  shown 
+in  figure  6.  A  total  of  208,000  lb  of  contained  cobalt  was 
+estimated  to  go  into  production  of  the  final  products.  Of 
+this,  178,000  lb  was  primary  cobalt  and  the  remainder  was 
+prompt  scrap  containing  30,000  lb  of  cobalt.  During  pro- 
+duction operations,  an  estimated  12,000  lb  of  contained 
+cobalt  reported  as  waste  and  39,000  lb  of  contained  cobalt 
+reported  as  downgraded  scrap.  Using  the  data  of  Curwick, 
+Petersen,  and  Makar  (11),  the  downgraded  material  is  esti- 
+mated to  break  down  into  solid  scrap,  mixed  scrap,  and 
+grindings  as  shown  in  table  4.  The  final  products  were 
+estimated  to  contain  128,000  lb  of  cobalt.  NMAB  reports 
+that  essentially  no  obsolete  cobalt-containing  scrap  is  used 
+by  this  industry. 
+
+
+Prompt  scrap 
+
+
+Primary  Co 
+
+
+(178) 
+
+
+Final 
+products 
+
+
+(128) 
+
+
+I 
+
+I    Home 
+
+
+Figure  6.-Stainless  steels,  heat-resistant  steels,  and  other 
+alloys  (excludes  alloy  steels  and  superalioys)  (quantities  in 
+thousand  pounds  contained  cobalt).  Data  may  not  add  to  totals 
+shown  because  of  independent  rounding. 
+
+
+Prompt  scrap 
+
+
+Primary  Co 
+
+
+(1.042) 
+
+
+FLnal»    (747) 
+products 
+
+
+Figure  /.-Miscellaneous  and  unspecified  products  (quantities 
+in  thousand  pounds  contained  cobalt).  Data  may  not  add  to 
+totals  shown  because  of  independent  rounding. 
+
+
+Table  4.-Estimated  distribution  of  waste  and  downgraded 
+
+scrap  in  the  stainless  steel,  heat-resistant  steel, 
+
+and  other  alloys  industries,  1987 
+
+
+Table  5.-Estimated  distribution  of  waste  and 
+
+downgraded  scrap  in  miscellaneous  and 
+
+unspecified  uses,  1987 
+
+
+Material 
+
+Loss  material: 
+
+Grindings   
+
+Waste 
+
+Downgraded: 
+
+Solid  scrap  
+
+Mixed  scrap    
+
+Grindings    
+
+Total  
+
+
+103  lb 
+contained  Co 
+
+
+1 
+11 
+
+
+28 
+
+8 
+
+_3 
+
+51 
+
+
+MISCELLANEOUS  AND  UNSPECIFIED  USES 
+
+This  series  of  end-use  industries  produces  the  following 
+products:  welding  materials  for  structural  and  hardfacing 
+applications,  high-strength  low-alloy  steels,  full  alloy  steels, 
+nonferrous  alloys,  mill  products  made  from  metal  powder, 
+and  other  unspecified  uses.  Individual  data  are  withheld 
+by  the  Bureau  to  avoid  disclosing  company  proprietary 
+data.  Information  in  the  1979  to  1984  Minerals  Year- 
+books (16)  indicates  that  an  average  of  82  pet  of  the  cur- 
+rently designated  miscellaneous  and  unspecified  materials 
+were  known  to  be  metal  alloys.  Thus,  a  metallurgical  flow 
+model  used  by  NMAB  (7)  was  used  as  a  blueprint  for  this 
+portion  of  the  cobalt  industry.  The  data  are  shown  in  fig- 
+ure 7.  NMAB  states  that  essentially  no  obsolete  cobalt- 
+containing  scrap  is  used  to  produce  these  products  (7). 
+An  estimated  1,042,000  lb  of  primary  cobalt  was  used  by 
+these  industries  in  1987.  From  this  input,  the  processing 
+and  manufacturing  parts  of  the  industries  were  estimated 
+to  produce  final  products  containing  747,000  lb  of  cobalt. 
+During  the  processing  and  manufacturing  operations,  waste 
+material  containing  69,000  lb  of  cobalt  and  downgraded 
+scrap  containing  227,000  lb  of  cobalt  were  generated. 
+Estimates,  based  on  the  data  of  Curwick,  Petersen,  and 
+Makar  (11),  show  that  the  downgraded  scrap  can  be 
+broken  down  into  solids,  mixed  scrap,  and  grindings  as 
+shown  in  table  5. 
+
+
+Material 
+
+Loss  material: 
+
+Grindings   
+
+Waste 
+
+Downgraded: 
+
+Solid  scrap   
+
+Mixed  scrap    
+
+Grindings   
+
+Total 
+
+
+103  lb 
+contained  Co 
+
+
+7 
+63 
+
+162 
+45 
+20 
+
+297 
+
+
+CATALYSTS 
+
+A  major  use  of  cobalt  in  chemical  products  is  as  cata- 
+lysts. The  catalysts  are  used  for  hydrogenation,  hydration, 
+desulfurization,  oxidation,  reduction,  and  synthesis  of  hy- 
+drocarbons (14-16).  The  flows  of  cobalt  in  the  catalyst 
+industry  are  shown  in  figure  8.  The  amounts  in  the  flow- 
+chart are  estimated  using  data  from  NMAB  (1).  In  1987, 
+an  input  of  materials  containing  an  estimated  1,294,000  lb 
+of  cobalt  produced  catalysts  containing  an  estimated 
+1,218,000  lb  of  cobalt.  Process  and  manufacturing  waste 
+materials  contained  an  estimated  76,000  lb  of  cobalt. 
+Some  of  these  catalysts  can  be  regenerated  several  times, 
+but  ultimately  the  fate  of  most  is  disposal  or  metal 
+recovery.  The  Bureau  has  developed  technology  to  recover 
+cobalt  from  the  spent  catalysts  (17),  and  there  is  currently 
+some  reported  use  of  recycling  technology  by  industry. 
+Deering  reports  that  between  500,000  and  1,000,000  lb  of 
+cobalt  is  recovered  from  spent  catalysts  annually  (18) . 
+This  recycling  activity  would  lead  to  an  estimated  disposal 
+of  spent  catalysts  containing  in  the  range  of  218,000  to 
+718,000  lb  of  cobalt  per  year. 
+
+OTHER  CHEMICALS 
+
+This  industry  produces  chemicals  in  the  form  of  paint 
+driers  for  lacquers,  enamels  and  varnishes;  feed  additives; 
+
+
+Catalysts  (1,218) 
+
+
+Figure  8.-Catalysts  (quantities  in  thousand  pounds  contained 
+cobalt). 
+
+
+products 
+
+
+(3.723) 
+
+
+Figure  9.-Other  chemicals  (quantities  in  thousand  pounds 
+contained  cobalt). 
+
+
+decolorizers  for  soda-lime-silicate  glasses;  ground  glass 
+frits  to  improve  the  adherence  of  porcelain  enamels  to 
+sheet  metal;  pigments  in  colors  of  violet,  blue,  green,  and 
+pink;  and  salts  (14).  The  flows  of  cobalt  in  this  industry 
+are  shown  in  figure  9.  Chemical  processing  efficiency  is 
+about  97  pet,  and  chemical  manufacturing  efficiency  is 
+somewhat  lower,  about  95  pet  (1).  These  values  were  used 
+in  defining  flows  within  this  industry.  The  model  estimates 
+that  the  industry  used  about  4,040,000  lb  of  primary  co- 
+balt in  1987.  This  reports  as  waste  material  contain- 
+ing 317,000  lb  of  cobalt  and  final  products  containing 
+3,723,000  lb  of  cobalt.  The  model's  estimated  distribution 
+of  cobalt  among  these  products  based  on  reported  con- 
+sumption is  shown  in  table  6.  About  two-thirds  of  the 
+products  are  paint  driers. 
+
+Table  6.  -  Estimated  amounts  of  cobalt  consumed  in 
+noncatalyst  chemical  products,  1987 
+
+
+Product 
+
+Paint  driers    
+
+Ground  coat  frit 
+
+Pigments 
+
+Feed  additives 
+
+Glass  decolorizers   
+
+Total    
+
+
+103  lb 
+contained  Co 
+
+2,141 
+
+863 
+
+620 
+
+58 
+
+41^ 
+
+3,723 
+
+
+COBALT  MATERIAL  FLOWS 
+
+The  overall  flows  of  cobalt  in  the  industries  using  co- 
+balt are  shown  in  figure  10.  In  the  chemical  portion  of 
+the  flowchart,  in  1987,  the  industries  consumed  an  esti- 
+mated 5,334,000  lb  of  cobalt.  During  processing  and  man- 
+ufacturing operations,  materials  containing  an  estimated 
+393,000  lb  of  cobalt  were  lost  as  waste.  The  final  products 
+contain  an  estimated  4,941,000  lb  of  cobalt.  Approximately 
+two-thirds  of  this  material  is  used  in  dissipative  end  uses 
+where  recovery  and  recycling  do  not  occur.  Some  metal 
+recovery  from  catalysts  has  been  reported  by  Deering  (18). 
+In  the  metallurgical  portion  of  the  flowchart,  in  1987,  the 
+industries  consumed  obsolete  scrap  containing  an  esti- 
+mated 2,510,000  lb  of  cobalt,  an  estimated  9,980,000  lb  of 
+primary  cobalt,  and  prompt  scrap  containing  an  estimated 
+2,243,000  lb  of  cobalt.  During  processing  and  manufactur- 
+ing, materials  containing  an  estimated  893,000  lb  of  cobalt 
+were  lost  as  waste,  and  scrap  materials  containing  an  esti- 
+mated 3,052,000  lb  of  cobalt  were  downgraded  with  signifi- 
+cant loss  of  cobalt  values.  The  final  products  contain  an 
+estimated  8,547,000  lb  of  cobalt.  Based  on  prior  studies  of 
+the  content  of  waste  and  downgraded  scrap  streams  (10), 
+the  waste  and  downgraded  scrap  streams  are  divided  as 
+shown  in  table  7.  These  losses  and  downgrades  caused  the 
+resource  loss  of  about  24  pet  of  the  1987  apparent  con- 
+sumption of  cobalt;  the  downgraded  scrap  is  either  melted 
+to  other  alloys  in  which  the  cobalt  may  be  lost  or  greatly 
+diluted,  or  exported  for  refining  to  recover  nickel  and 
+cobalt.  There  is  much  uncertainty  about  the  portion  of 
+the  downgraded  and  obsolete  scrap  that  goes  to  export. 
+The  U.S.  Bureau  of  Mines  reported  that  403,000  lb  of 
+contained  cobalt  was  exported  in  1987  (13).  This  includes 
+cast  cobalt  materials,  cobalt  alloys,  waste,  and  scrap. 
+Estimates  from  Bureau  of  Census  data  for  1987  reported 
+by  the  U.S.  Bureau  of  Mines  indicate  the  contained  cobalt 
+exported  to  be  about  806,000  lb  (19).  There  do  not  appear 
+to  be  valid  figures  for  the  amounts  from  wastes  and  scrap 
+in  these  estimates. 
+
+Table  7.-Estimated  distribution  of  waste  and  downgraded 
+scrap  in  the  cobalt  commodity  industries,  1987 
+
+TO3  to 
+Material  contained  Co 
+
+Loss  material: 
+
+Grindings   8 
+
+Waste 1,276 
+
+Downgraded: 
+
+Solid  scrap   564 
+
+Mixed  scrap    347 
+
+Turnings 1,092 
+
+Grindings   1,049 
+
+Total 4,336 
+
+
+Obsolete  scrap 
+
+
+Prompt  scrap 
+
+
+Apparent 
+consumption 
+
+
+(17,824) 
+
+
+(2,510) 
+
+Primary  Co 
+
+
+(2,243) 
+
+
+Primary  Co 
+
+
+(15.314) 
+
+
+(9,980) 
+
+
+Metallurgical 
+processing 
+
+
+To  mfg. 
+
+
+Home 
+
+
+scrap 
+
+
+(13,527) 
+
+
+Downgraded 
+
+scrap 
+
+(3,052) 
+
+
+Products 
+
+and       (8,547) 
+parts 
+
+
+Primary  Co 
+
+
+(5,334) 
+
+
+Chemical 
+
+
+processing 
+\ / 
+
+
+To  mfg. 
+
+
+(5,175) 
+
+
+Final 
+products 
+
+
+(4,941) 
+
+
+Figure  10.-Composite  cobalt  commodity  flowsheet  (quantities  in  thousand  pounds  contained  cobalt), 
+shown  because  of  independent  rounding. 
+
+
+Data  may  not  add  to  totals 
+
+
+SUMMARY 
+
+
+A  Bureau  commodity  flow  model  was  updated  and 
+computerized  for  the  industries  that  consume  cobalt. 
+Based  on  available  data,  the  flow  model  follows  cobalt 
+through  its  processing  and  manufacturing  industries 
+showing  estimated  values  for  material  lost  through 
+disposal,  downgrading,  and  dissipation.  The  model  was 
+prepared  using  certain  estimates  and  assumptions.  The 
+model  has  the  capability  of  easy  updating  as  new  data 
+become  available. 
+
+An  industry  flowchart  was  presented  for  each  of  the 
+industries  that  consume  cobalt.  The  flow  of  the  entire 
+cobalt  commodity  was  also  described  based  on  the  flows  in 
+the  individual  industries  (fig.  10).  The  apparent  con- 
+sumption of  cobalt  in  1987  was  17,824,000  lb.  The  esti- 
+mated amounts  consumed  by  the  various  industries  were 
+shown  in  table  1.  The  largest  consumer  was  the  superalloy 
+industry,  which  used  material  containing  7,403,000  lb  of 
+cobalt  in  its  operations.  This  was  estimated  to  be 
+composed  of  obsolete  scrap  containing  1,994,000  lb  of 
+cobalt  and  5,409,000  lb  of  primary  cobalt.  This  industry 
+was  also  the  largest  producer  of  downgraded  scrap 
+and  wastes,  producing  downgraded  scrap  containing 
+2,707,000  lb  of  cobalt  and  waste  containing  565,000  lb  of 
+cobalt  (table  8).  Other  high  losses  of  cobalt  occurred  in 
+the  chemical  industries  and  in  the  miscellaneous  and 
+
+
+unspecified  areas.  Over  all,  downgraded  scrap  material 
+containing  an  estimated  3,052,000  lb  of  cobalt  and  waste 
+material  containing  an  estimated  1,284,000  lb  of  cobalt 
+were  produced.  In  addition  to  these  amounts,  an  esti- 
+mated 3,290,000  lb  of  cobalt  is  consumed  in  dissipative 
+chemical  and  catalyst  end  uses. 
+
+Based  on  the  estimated  lifetimes  of  various  metal  pro- 
+ducts (2)  and  the  estimated  amounts  of  products  produced 
+in  1977  (10  years),  1982  (5  years),  and  1985  (2  years),  in 
+1987  there  should  have  been  potentially  recyclable  metal 
+products  containing  8,432,000  lb  of  cobalt.  Table  9  shows 
+the  distribution  of  these  products,  their  potential  life  span, 
+the  amount  of  cobalt  content  potentially  recyclable,  and 
+the  amount  estimated  to  have  been  recycled  to  the  same 
+alloy  without  downgrading.  About  83  pet  of  obsolete 
+superalloy  scrap  and  52  pet  of  the  obsolete  cemented 
+carbide  scrap  is  estimated  to  be  recycled.  Overall,  only  an 
+estimated  30  pet  of  the  total  obsolete  scrap  was  efficient- 
+ly recycled.  Assumptions  are  that  essentially  no  obsolete 
+scrap  is  effectively  recycled  from  magnets,  tool  steels, 
+stainless  and  heat-resistant  steels,  and  miscellaneous 
+and  unspecified  material.  Thus,  there  is  an  estimated 
+5,922,000  lb  of  contained  cobalt  in  the  obsolete  scrap  that 
+is  not  recycled  to  the  same  or  equal-value  alloy. 
+
+
+10 
+
+
+Table  8.-Estimated  losses  of  cobalt  in  industries,  1987 
+
+
+Loss 
+
+
+Industry 
+
+
+Operation 
+
+
+103  lb 
+
+pet  of 
+
+contained 
+
+U.S. 
+
+Co 
+
+consumption 
+
+2,234 
+
+12.5 
+
+473 
+
+2.7 
+
+356 
+
+2.0 
+
+209 
+
+1.2 
+
+196 
+
+1.1 
+
+175 
+
+1.0 
+
+121 
+
+.7 
+
+79 
+
+.4 
+
+79 
+
+.4 
+
+72 
+
+.4 
+
+62 
+
+.3 
+
+52 
+
+.3 
+
+52 
+
+.3 
+
+38 
+
+.2 
+
+38 
+
+.2 
+
+30 
+
+.2 
+
+23 
+
+.1 
+
+17 
+
+.1 
+
+Superalloy 
+
+Do 
+
+Do 
+
+Do 
+
+Other  chemical    .  .  . 
+Miscellaneous  and 
+unspecified. 
+Other  chemical    .  .  . 
+Magnetic  alloy 
+
+Do 
+
+Tool  steel 
+
+Magnetic  alloy 
+Miscellaneous  and 
+unspecified. 
+
+Do 
+
+Catalyst 
+
+Do 
+
+Stainless  steel, 
+heat-resistant  steel, 
+and  other  alloy. 
+Cemented  carbide  . 
+Miscellaneous  and 
+unspecified. 
+Stainless  steel, 
+heat-resistant  steel, 
+and  other  alloy. 
+
+Do 
+
+Tool  steel 
+
+Stainless  steel, 
+heat-resistant  steel, 
+and  other  alloys. 
+
+
+Manufacturing  downgrade 
+Processing  downgrade  .  . 
+
+Processing  waste   
+
+Manufacturing  waste  .... 
+
+.  .  do 
+
+Manufacturing  downgrade 
+
+Processing  waste   
+
+Processing  downgrade  .  . 
+
+Processing  waste   
+
+.  .  do 
+
+Manufacturing  waste  .... 
+Processing  downgrade  .  . 
+
+Processing  waste   
+
+Manufacturing  waste  .... 
+
+Processing  waste   
+
+Manufacturing  downgrade 
+
+Processing  waste   
+
+Manufacturing  waste  .... 
+
+Processing  downgrade  .  . 
+
+Processing  waste   
+
+Manufacturing  waste  .... 
+.  .  do 
+
+
+.05 
+
+
+.05 
+.05 
+.02 
+
+
+Table  9.  -  Estimated  recyclable  and  recycled  materials  by 
+industry,  1987,  thousand  pounds  contained  cobalt 
+
+
+Product 
+
+
+Lifetime, 
+
+yr1 
+
+
+Potentially 
+recyclable 
+
+
+Estimated 
+recycle 
+
+
+Superalloys   
+
+Magnetic  alloys   
+
+Cemented  carbides   
+
+Tool  steels 
+
+Stainless  steel,  heat-resistant  steel,  and  other 
+alloys  (excluding  alloys  steels  and  superalloys) 
+
+Miscellaneous  and  unspecified 
+
+Total 
+
+'Reference  1,  page  24. 
+
+
+10 
+
+2,400 
+
+1,994 
+
+10 
+
+4,200 
+
+0 
+
+2 
+
+1,000 
+
+516 
+
+5 
+
+100 
+
+0 
+
+5 
+
+100 
+
+0 
+
+5 
+
+600 
+
+0 
+
+8,400 
+
+
+2,510 
+
+
+CONCLUSIONS 
+
+
+A  cobalt  commodity  flow  model  has  been  developed. 
+The  model  is  set  up  in  a  hierarchical  manner  with  levels 
+for  the  various  industries  and  subindustries.  The  mathe- 
+matical relationships  in  the  model  are  discussed  in  the 
+appendix.  The  model  shows  the  distribution  of  apparent 
+1987  consumption  of  17,824,000  lb  of  cobalt  in  eight 
+subindustries.  Estimates  in  table  8  show  production  of 
+downgraded  scrap  containing  3,052,000  lb  cobalt  and  loss 
+or  waste  material  containing  1,284,000  lb  cobalt.  The 
+largest  producer  of  scrap  and  waste  is  the  superalloy 
+industry,  in  which  scrap  and  waste  produced  during  alloy 
+processing  and  parts  manufacturing  contain  5,311,000  lb  of 
+
+
+cobalt.  Of  this,  2,039,000  lb  of  contained  cobalt  was  in 
+prompt  scrap  that  was  reused  by  the  industry.  The  re- 
+maining material  containing  3,271,000  lb  cobalt  is  divided 
+into  downgraded  scrap  with  2,707,000  lb  of  cobalt  and 
+waste  with  565,000  lb  of  cobalt.  These  two  loss  areas  are 
+places  where  prime  concern  should  be  addressed  in  studies 
+of  recycling.  The  principal  cause  of  the  downgrading  of 
+materials  is  that  certain  end  uses  require  virgin  metal,  and 
+thus,  any  scrap  is  downgraded  to  production  of  lower  value 
+alloys  or  alloys  where  the  cobalt  is  lost  in  processing. 
+
+The  development  of  this  flow  model  has  highlighted 
+areas  where  data  are  needed  to  make  the  model  more 
+
+
+11 
+
+
+effective.  There  are  few  or  no  current  data  available  on 
+the  amounts  of  material  that  report  as  solid  scrap,  mixed 
+scrap,  turnings,  grindings,  and  waste.  The  amounts  calcu- 
+lated in  this  model  are  based  on  data  from  1980  and  1976. 
+In  the  past  outside  contractors  have  gathered  these  data 
+(i,  10).   The  Bureau   needs  to  make  changes  in  its  data 
+
+
+gathering  survey  sheets  to  obtain  the  required  information 
+on  a  continuing  basis  so  that  this  model  can  be  kept  up  to 
+date.  There  are  some  Environmental  Protection  Agency 
+data  that  are  useful  in  determining  the  amounts  of  waste 
+and  downgraded  material,  but  even  these  data  have 
+substantial  gaps. 
+
+
+REFERENCES 
+
+
+1.  National  Materials  Advisory  Board-National  Research  Council. 
+Cobalt  Conservation  Through  Technological  Alternatives.  (BuMines 
+contract  J0113103).    Nat.  Acad.  Press,  Publ.  NMAB^t06,  1983,  204  pp. 
+
+2.  Peterson,  G.  R,  D.  I.  Bleiwas,  and  P.  R  Thomas.  Cobalt 
+Availability-Domestic.  A  Minerals  Availability  System  Appraisal. 
+BuMines  IC  8848,  1981,  31  pp. 
+
+3.  Mishra,  C.  P.,  C.  D.  Sheng-Fogg,  R  G.  Christiansen, 
+J.  F.  Lemons,  Jr.,  and  D.  L.  De  Giacomo.  Cobalt  Availability-Market 
+Economy  Countries.  A  Minerals  Availability  Program  Appraisal. 
+BuMines  IC  9012,  1985,  33  pp. 
+
+4.  U.S.  Department  of  Commerce.  Critical  Materials  Requirements 
+of  the  U.S.  Steel  Industry.   U.S.  GPO,  1983,  259  pp. 
+
+5.  National  Materials  Advisory  Board-National  Research  Council. 
+Basic  and  Strategic  Metals  Industries:  Threats  and  Opportunities.  Nat. 
+Acad.  Press,  Publ.  NMAB-425,  1985,  151  pp. 
+
+6.  Kilgore,  C.  C,  and  P.  R  Thomas.  Manganese  Availability- 
+Domestic.  A  Minerals  Availability  System  Appraisal.  BuMines 
+IC  8889,  1982,  14  pp. 
+
+7.  Anstett,  T.  F.,  D.  I.  Bleiwas,  and  C.  Sheng-Fogg.  Platinum 
+Availability-Market  Economy  Countries.  A  Minerals  Availability 
+System  Appraisal.    BuMines  IC  8897,  1982,  16  pp. 
+
+8.  U.S.  Bureau  of  Mines.  An  Appraisal  of  Minerals  Availability  for 
+34  Commodities.    B  692,  1987,  300  pp. 
+
+9.  Papp,  J.  F.  Letter  report  (USAF  Mil.  Interdep.  Purchase  Request 
+FY615-87-05292),  July  29,  1987,  19  pp.  Available  upon  request  from 
+R  C.  Gabler,  Jr.,  BuMines,  Albany,  OR 
+
+10.  Kusik,  C.  L,  H.  V.  Makar,  and  M.  R  Mounier.   Availability  of 
+Critical  Scrap  Metals  Containing  Chromium  in  the  United  States. 
+
+
+Wrought  Stainless  Steels  and  Heat-Resisting  Alloys.  BuMines  IC  8822, 
+1980,  51  pp. 
+
+11.  Curwick,  L.  R,  W.  A.  Petersen,  and  H.  V.  Makar.  Availability  of 
+Critical  Scrap  Metals  Containing  Chromium  in  the  United  States. 
+Superalloys  and  Cast  Heat-  and  Corrosion-Resistant  Alloys.  BuMines 
+IC  8821,  1980,  51  pp. 
+
+12.  U.S.  Congress,  Office  of  Technology  Assessment.  Strategic 
+Materials:  Technologies  To  Reduce  U.S.  Import  Vulnerability. 
+OTA-rTE-248,  1985,  409  pp. 
+
+13.  U.S.  Bureau  of  Mines.  Minerals  and  Materials.  A  Bimonthly 
+Survey.    Oct./Nov.  1988,  59  pp. 
+
+14.  Planinsek,  F.,  and  J.  B.  Newkirk.  Cobalt  and  Cobalt  Alloys.  Ch. 
+in  Kirk-Othmer  Encyclopedia  of  Chemical  Technology.  Wiley,  3d  ed., 
+v.  6,  1979,  pp.  481-494. 
+
+15.  Kirk,  W.  S.  Cobalt.  Ch.  in  Mineral  Facts  and  Problems, 
+1985  Edition.    BuMines  B  675,  1985,  pp.  171-183. 
+
+16.  U.S.  Bureau  of  Mines.  Minerals  Yearbooks  1978-86.  Chapter  on 
+Cobalt. 
+
+17.  Siemens,  R  E.,  B.  W.  Jong,  and  J.  H.  Russell.  Potential  of  Spent 
+Catalysts  as  a  Source  of  Critical  Metals.  Conserv.  &  Recycl.,  v.  9,  No. 
+2,  1986,  pp.  189-196. 
+
+18.  Deering,  W.  Presentation  on  catalyst  recycling.  Pres.  at  the 
+Metals  Week  Ni-Mo-Co  Conference,  Tucson,  AZ,  Oct.  26-28,  1988, 
+8  pp.;  available  from  R  C.  Gabler,  Jr.,  BuMines,  Albany,  OR 
+
+19.  Kirk,  W.  S.  Cobalt.  Ch.  in  BuMines  Minerals  Yearbook  1987, 
+v.  1,  pp.  271-278. 
+
+
+12 
+
+
+APPENDIX 
+
+
+This  section  discusses  the  assumptions  and  mathematics  Obsolete  scrap  used  in  superalloy  production  was 
+
+used  in  developing  the  cobalt  commodity  flow  model.  The  determined  as  follows: 
+assumptions  for  overall  cobalt  data  are- 
+
+1.  Assume  that  the  reported  ratio  of  input  obsolete 
+
+1.  The  difference  between  reported  consumption  and  scrap  to  total  input  cobalt  consumed  in  cemented  carbide 
+apparent  consumption  is  proportionally  divided  among  the  products  production  in  1980  is  still  valid  (i). 
+components  of  "U.S.  consumption  of  cobalt  by  end  use"  2.  Assume  that  obsolete  scrap  is  recycled  only  to 
+(table  A- 1).  The  data  under  "apparent  consumption"  were  superalloy  and  cemented  carbide  products  (i). 
+
+used  in  the  flow  model. 
+
+2.  The  ratios  of  wastes  and  downgraded  scrap  materials  Then                            A  =  B  x  C,                            (A-l) 
+reported  by  NMAB  (i)1  are  still  valid  until  new  data  are 
+
+available.  where          A    =  total  cobalt  in  obsolete  scrap  input  to 
+
+SUPERALLOYS  cobalt  flow,   thousand  pounds  con- 
+tained cobalt, 
+
+Superalloy  operations  are  carried  out  in  two  processes, 
+
+superalloy  production  and  parts  manufacturing.    In  the  B    =  total  cobalt  input  in  obsolete  scrap,  st, 
+casting  industry  the  two  steps  are  sometimes  carried  out  by 
+
+the  same  company,  which  melts  primary  metals  to  form  and              C    =  (2,000  Ib/st  cobalt)/l,000. 
+the  alloy  and  then  casts  it  into  near-net-shape  parts.  These 
+
+are  then  machined  to  final  dimensions.    For  simplicity  Then                            D  =  A  x  E,                             (A-2) 
+these  operations  are  described  as  superalloy  production 
+
+and  parts  manufacturing  in  the  flow  model  for  both  types  where          D    =  obsolete    scrap    input    to    cemented 
+
+of  operations.  carbide,  thousand  pound  contained 
+
+The  value  for  cobalt  consumption  for  superalloys  from  cobalt, 
+table  A-l  was  used  for  input  cobalt  (not  including  prompt 
+
+scrap)  (19).  and              E    =  ratio  of  cobalt  input  from  obsolete  scrap 
+to  cemented  carbide  products  to  total 
+
+'italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references  cobalt  consumed  in  cemented  carbide 
+
+preceding  this  appendix.  products  in  1980  (i). 
+
+Table  A-1  .-Estimated  U.S.  consumption  of  cobalt  by  end  use, 
+1987  (thousand  pounds  of  contained  cobalt) 
+
+End  use Reported  (78) Apparent 
+
+Superalloys2 6,273  7,403 
+
+Alloys  (excluding  alloy  steels  and  superalloys): 
+
+Magnetic 1,719  2,029 
+
+Cutting  and  wear-resistant3  1,174  1,386 
+
+Nonferrous    W  W 
+
+Welding  materials  (structural  and  hardfacing)    W  W 
+
+Other    94  111 
+
+Steels: 
+
+Tool    383  452 
+
+Stainless  and  heat-resisting 57  67 
+
+Full-alloy W  W 
+
+High-strength  low-alloy   W  W 
+
+Mill  products  made  from  metal  powder    W  W 
+
+Miscellaneous  and  unspecified 883  1,042 
+
+Chemical  and  ceramic  uses: 
+
+Driers  in  paint  and  related  products 1,968  2,323 
+
+Catalysts 1,096  1,294 
+
+Ground  coat  frit 794  937 
+
+Pigments    570  673 
+
+Feed  and  nutritive  additives 53  63 
+
+Glass  decolorizers 37 44 
+
+Total 41 5,099 17,824 
+
+W        Withheld  to  avoid  disclosing  company  proprietary  data;  included  with  "Miscellaneous  and  unspecified." 
+'U.S.  primary  +  secondary  production  +  imports -exports  +  adjustments  for  Government  and  industry  stock 
+
+changes. 
+
+2Data  not  comparable  to  those  prior  to  1986  because  of  the  addition  of  statistical  canvass  coverage  of  the 
+
+superalloy  recycling  industry. 
+
+3Cemented  and  sintered  carbides  and  cast  carbide  dies  and  parts. 
+"Data  do  not  add  to  total  shown  because  of  independent  rounding. 
+
+
+13 
+
+
+Then 
+where 
+
+Then 
+where 
+
+and 
+
+
+F  =  A  -  D, 
+
+
+(A-3) 
+
+
+=  obsolete  scrap  input  to  superalloy  pro- 
+duction. 
+
+
+G  =  H  -  F, 
+
+
+(A-4) 
+
+
+H 
+
+
+=  primary  cobalt  input  to  superalloy  pro- 
+duction, 
+
+=  cobalt  input  to  superalloy  production 
+from  obsolete  scrap  and  primary  co- 
+balt (19). 
+
+
+Then 
+
+where  I 
+
+
+I  =  (F  +  G)  x  0.2754, 
+
+
+(A-5) 
+
+
+=  prompt  scrap  input  to  superalloy  pro- 
+duction, 
+
+
+and  0.2754  =  ratio  of  cobalt  input  to  superalloy  pro- 
+duction from  prompt  scrap  to  sum  of 
+primary  cobalt  and  obsolete  scrap  (1). 
+
+Then  J    =  sum(F  +  G  +  I)  x  0.31/8.15,       (A-6) 
+
+where  J    =  superalloy  processing  waste, 
+
+and  0.31/8.15  =  ratio  of  superalloy  processing  waste  to 
+total  cobalt  input  (1). 
+
+Then  K    =  sum(F  +  G  +  I)  x  0.41/8.15,       (A-7) 
+
+where  K    =  superalloy      processing      downgraded 
+
+scrap, 
+
+and  0.41/8.15  =  ratio  of  superalloy  processing  down- 
+graded scrap  to  total  cobalt  in- 
+put  (1). 
+
+
+Then  L 
+
+where  L 
+Then 
+
+where  M 
+and  0.18/7.43 
+
+Then 
+
+where  N 
+
+
+=  sum(F  +  G  +  I)  -  J  -  K,  (A-8) 
+
+=  input  to  superalloy  parts  manufacturing. 
+
+M  =  L  x  0.18/7.43,  (A-9) 
+
+=  superalloy  parts  manufacturing  waste, 
+
+=  ratio  of  superalloy  manufacturing  waste 
+to  cobalt  input  to  superalloy  parts 
+manufacturing  (/). 
+
+
+N  =  L  x  1.92/7.43, 
+
+
+(A-10) 
+
+
+=  superalloy  parts  manufacturing  down- 
+graded scrap, 
+
+
+and  1.92/7.43  =  ratio  of  superalloy  manufacturing 
+downgraded  scrap  to  cobalt  input  to 
+superalloy  parts  manufacturing  (1). 
+
+Then  P  =  L  -  M  -  N  -  I,  (A-ll) 
+
+where  P    =  superalloy  manufactured  parts. 
+
+Then  Q    =  sum(F  +  G  +  I)  x  0.8/8.15,       (A-12) 
+
+where  Q    =  estimated  superalloy  downgraded  scrap 
+
+and  waste  exported, 
+
+and  0.08/8.15  =  ratio  of  exported  material  to  superalloy 
+total  input  (1). 
+
+MAGNETIC  ALLOYS 
+
+Magnetic  alloy  operations  are  carried  out  in  two  basic 
+phases,  alloy  production  and  parts  manufacturing. 
+
+
+S  =  R  x  0.09/2.3, 
+
+
+(A-13) 
+
+
+where 
+
+
+R    =  primary  cobalt  input  to  magnetic  al- 
+loys (19), 
+
+S    =  magnetic  alloy  processing  waste, 
+
+
+and    0.09/2.3    =  ratio  of  magnetic  alloy  processing  waste 
+to  cobalt  input  to  magnetic  alloys  (1). 
+
+
+Then 
+where 
+
+
+T  =  R  x  0.09/2.3, 
+
+
+(A-14) 
+
+
+T    =  magnetic  alloy  processing  downgraded 
+waste, 
+
+
+and  0.09/2.3  =  ratio  of  magnetic  alloy  processing 
+downgraded  scrap  to  cobalt  input  to 
+magnetic  alloys  (1). 
+
+
+Then 
+
+U  =  R  -  S  -  T,                        (A-15) 
+
+where 
+
+U 
+
+=  magnetic  alloy  input  to  parts  manufac- 
+turing. 
+
+Then 
+
+V  =  U  x  0.07/2.12,                    (A-16) 
+
+where 
+
+V 
+
+=  magnetic  alloy  parts  manufacturing 
+waste, 
+
+and  0.07/2.12  =  ratio  of  magnetic  alloy  parts  manufac- 
+turing waste  to  cobalt  input  to  magnet- 
+ic alloy  parts  manufacturing  (1). 
+
+
+14 
+
+
+Then  W  =  U  -  V,  (A-17) 
+
+where         W    =  magnetic  alloy  parts  and  products. 
+
+CEMENTED  CARBIDE  MATERIALS 
+
+This  industry,  which  makes  cemented  carbide  cutting 
+tools  and  cast  wear  resistant  dies,  is  a  two-stage  operation. 
+Stage  1  is  the  processing  of  carbide  materials  and  stage  2 
+is  the  manufacturing  of  parts  and  products.  This  is  the 
+other  one  of  two  industries  that  use  significant  amounts  of 
+obsolete  scrap  in  their  processing  and  manufacturing. 
+
+
+Y  =  X  x  0.50/1.30, 
+
+
+(A-18) 
+
+
+where  X    =  total  cobalt  input  to  manufacture  of 
+
+cemented  carbide, 
+
+Y    =  obsolete  scrap  input, 
+
+and  0.50/1.30  =  ratio  of  cobalt  input  from  obsolete 
+scrap  to  total  cobalt  input  to  this 
+industry  (1). 
+
+
+Then 
+
+
+Z  =  X  -  Y. 
+
+
+(A-19) 
+
+
+where  Z    =  primary  cobalt  input  to  manufacture 
+
+and  production  of  cemented  carbide 
+products. 
+
+Then  AA  =  Xx  0.03/1.8,  (A-20) 
+
+where       AA    =  cemented  carbide  processing  waste, 
+
+and    0.03/1.8    =  ratio  of  cemented  carbide  processing 
+waste  to  total  cobalt  input  (1). 
+
+
+Then 
+
+
+BB  =  X  -  AA, 
+
+
+(A-21) 
+
+
+where        BB    =  input  to   cemented  carbide  products 
+manufacturing. 
+
+
+Then 
+
+
+CC  =  BB  x  0.03, 
+
+
+(A-22) 
+
+
+where        CC    =  cemented  carbide  products  manufac- 
+turing waste, 
+
+and  0.03    =  waste  fraction  based  on  an  estimated 
+
+97-pct    efficiency    in    manufacturing 
+cemented  carbide  products  (1). 
+
+Then  DD  =  BB  -  CC,  (A-23) 
+
+where       DD    =  cemented  carbide  products. 
+
+
+TOOL  STEELS 
+
+This  industry  consists  of  operations  to  produce  tool 
+steels  and  the  manufacturing  of  parts  from  the  tool  steel. 
+
+
+FF  =  EE  x  0.08/0.5, 
+
+
+(A-24) 
+
+
+where        EE    =  primary  cobalt  input  for  production  of 
+tool  steels  (79), 
+
+FF    =  tool  steel  production  waste, 
+
+and    0.08/0.5    =  ratio  of  tool  steel  production  waste  to 
+primary  cobalt  input  (1). 
+
+
+Then 
+
+
+GG  =  EE  -  FF, 
+
+
+(A-25) 
+
+
+where       GG    =  tool  steel  input  to  parts  and  products 
+manufacturing. 
+
+
+Then 
+
+
+HH  =  GG  x  0.01/0.42, 
+
+
+(A-26) 
+
+
+where  HH  =  tool  steel  parts  and  products  manu- 
+facturing waste, 
+
+and  0.01/0.42  =  ratio  of  tool  steel  parts  and  products 
+manufacturing  waste  to  tool  steels 
+input  to  parts  and  products  manu- 
+facturing (1). 
+
+Then  II  =  GG  -  HH,  (A-27) 
+
+where  II    =  tool  steel  parts  and  products. 
+
+STAINLESS  AND  HEAT-RESISTANT  STEELS 
+
+AND  OTHER  ALLOYS  (EXCLUDING  ALLOY 
+
+STEELS  AND  SUPERALLOYS) 
+
+This  industry  consists  of  the  production  and  processing 
+of  alloys  and  the  manufacture  of  parts  and  products  from 
+the  alloys. 
+
+
+LL  =  JJ  +  KK, 
+
+
+(A-28) 
+
+
+where 
+
+
+and 
+
+
+JJ    =  stainless  and  heat-resistant  primary 
+cobalt  input  to  this  industry  (19), 
+
+KK    =  other  alloys  primary  cobalt  input  to 
+this  industry  (19), 
+
+LL    =  total  primary  cobalt  input  to  the  in- 
+dustry. 
+
+
+15 
+
+
+where 
+
+MM 
+
+and 
+
+0.1/0.6 
+
+Then 
+
+where 
+
+NN 
+
+Then 
+
+where 
+
+PP 
+
+and 
+
+0.03/0.7 
+
+Then 
+
+where 
+
+00 
+
+and 
+
+0.03/0.7 
+
+Then 
+
+where 
+
+RR 
+
+Then 
+
+where 
+
+SS 
+
+and 
+
+0.01/0.64 
+
+Then 
+
+where 
+
+TT 
+
+and 
+
+0.1/0.64 
+
+MM  =  LL  x  0.1/0.6,  (A-29) 
+
+=  prompt  scrap  input  to  this  industry, 
+
+=  ratio  of  prompt  scrap  input  to  total 
+primary  cobalt  input  (i). 
+
+NN  =  LL  +  MM,  (A-30) 
+
+=  total  cobalt  input  to  these  alloys. 
+
+PP  =  NN  x  0.03/0.7,  (A-31) 
+
+=  metal  processing  waste, 
+
+=  ratio  of  metal  processing  waste  to 
+total  input  cobalt  (i). 
+
+QQ  =  NN  x  0.03/0.7,  (A-32) 
+
+=  metal  processing  downgraded  scrap, 
+
+=  ratio  of  metalprocessing  downgraded 
+scrap  to  total  input  cobalt  (i). 
+
+
+RR  =  NN  -  PP  -  QQ, 
+
+
+(A-33) 
+
+
+=  input  metal  to  parts  and  products 
+manufacturing. 
+
+
+SS  =  RR  x  0.01/0.64, 
+
+
+(A-34) 
+
+
+=  parts  and  products  manufacturing 
+waste, 
+
+=  ratio  of  parts  and  product  manufac- 
+turing waste  to  input  metal  to  parts 
+and  products  manufacturing  (i). 
+
+
+TT  =  RR  x  0.1/0.64, 
+
+
+(A-35) 
+
+
+=  parts  and  products  manufacturing 
+downgraded  scrap, 
+
+=  ratio  of  parts  and  products  manufac- 
+turing downgraded  scrap  to  input 
+metal  to  parts  and  products 
+manufacturing  (2). 
+
+
+Then  UU 
+
+where  UU 
+
+
+=  RR  -  SS  -  TT  -  MM, 
+=  parts  and  products. 
+
+
+(A-36) 
+
+
+MISCELLANEOUS  AND  UNSPECIFIED 
+
+These  industries  are  a  collection  of  miscellaneous  pro- 
+cesses and  products.  It  is  assumed  that  each  component 
+has  a  metal  processing  phase  and  a  parts  and  products 
+phase. 
+
+AAA    =  sum(W  +  WW  +  XX  + 
+
+
+YY  +  ZZ), 
+
+
+(A-37) 
+
+
+where  AAA  =  total  primary  cobalt  input  to  mis- 
+cellaneous and  unspecified  metal 
+processing, 
+
+W    =  primary  cobalt  input  to  full  alloy  steel, 
+
+WW    =  primary  cobalt  input  to  high-strength 
+low-alloy  steel, 
+
+XX    =  primary    cobalt    input    to    nonferrous 
+alloys, 
+
+YY    =  primary  cobalt  input  to  welding  mate- 
+rials, 
+
+
+and 
+
+
+Then 
+
+
+ZZ    =  primary  cobalt  input  to  other  miscella- 
+neous and  unspecified  uses. 
+
+
+BBB  =  AAA  x  1/6, 
+
+
+(A-38) 
+
+
+where  BBB  =  prompt  scrap  input  to  miscellaneous 
+and  unspecified  metal  processing, 
+
+and  1/6    =  ratio  of  prompt  scrap  to  primary  cobalt 
+
+input  to  miscellaneous  and  unspecified 
+metal  processing  (7). 
+
+Then      CCC    =  (AAA  +  BBB)  x  0.03/0.7,         (A-39) 
+
+where     CCC    =  metal  processing  waste, 
+
+and  0.03/0.7  =  ratio  of  metal  processing  waste  to  total 
+cobalt  input  to  miscellaneous  and  un- 
+specified metal  processing  (i). 
+
+Then      DDD    =  (AAA  +  BBB)  x  0.03/0.7,  (A-40) 
+
+where    DDD    =  metal  processing  downgraded  scrap, 
+
+and  0.03/0.7  =  ratio  of  metal  processing  downgraded 
+scrap  to  total  cobalt  input  to  mis- 
+cellaneous and  unspecified  metal  pro- 
+cessing (i). 
+
+
+16 
+
+
+Then       EEE    =  (AAA  +  BBB)  -  CCC  -  DDD,  (A-41) 
+
+where  EEE  =  metal  to  miscellaneous  and  unspecified 
+metal  parts  and  products. 
+
+Then        FFF    =  EEE  x  0.01/0.64,  (A-42) 
+
+where      FFF    =  parts  and  products  manufacturing  waste, 
+
+and  0.01/0.64  =  ratio  of  parts  and  products  manufac- 
+turing waste  to  cobalt  input  to  parts 
+and  products  manufacturing. 
+
+
+Then 
+
+
+GGG  =  EEE  x  0.1/0.64, 
+
+
+(A-43) 
+
+
+where  GGG  =  parts  and  products  manufacturing 
+downgraded  scrap, 
+
+and  0.1/0.64  =  ratio  of  parts  and  products  manu- 
+facturing downgraded  scrap  to  input 
+cobalt  to  parts  and  products  manu- 
+facturing (1). 
+
+Then     HHH    =  EEE  -  FFF  -  GGG  -  BBB,         (A-44) 
+
+where  HHH  =  miscellaneous  and  unspecified  parts  and 
+products. 
+
+CATALYSTS 
+
+Catalysts  are  produced  in  a  two-phase  operation.  The 
+first  is  processing  to  a  metal  form  or  alloy  and  the  second 
+the  manufacturing  of  the  catalysts  themselves. 
+
+JJJ  =  III  x  0.05/1.7,  (A-45) 
+
+where        JJJ    =  chemical  production  waste, 
+
+III    =  primary    cobalt    input    to    chemical 
+production, 
+
+and  0.05/1.7  =  ratio  of  chemical  production  waste  to 
+primary  cobalt  input  to  chemical 
+production  (1). 
+
+
+Then 
+
+
+KKK  =  III  -  JJJ, 
+
+
+(A-46) 
+
+
+where  KKK  =  produced  chemicals  input  to  catalyst 
+product  manufacturing. 
+
+Then  LLL  =  KKK  x  0.05/1.65,  (A-47) 
+
+where      LLL    =  catalyst  product  manufacturing  waste, 
+
+and  0.05/1.65  =  ratio  of  catalyst  product  manufacturing 
+to  produced  chemicals  input  to  catalyst 
+product  manufacturing  (1). 
+
+
+Then  MMM  =  KKK  -  LLL,  (A-48) 
+
+where  MMM    =  catalyst  products. 
+
+OTHER  CHEMICALS 
+
+This  industry  produces  paint  driers,  feed  and  nutritive 
+additives,  glass  decolorizers,  ground  coat  frit,  and  pig- 
+ments. Each  product  was  assumed  to  be  produced  by  a 
+two-phase  operation.  The  first  phase  is  chemical  produc- 
+tion and  the  second  product  manufacturing. 
+
+NNN    =  sum(PPP  +  QQQ  +  RRR  + 
+
+SSS    +  TTT)  x  0.03,  (A-49) 
+
+where     NNN    =  chemical  production  waste, 
+
+PPP    =  primary  cobalt  input  to  paint  driers  (19), 
+
+QQQ    =  primary    cobalt    input    to    feed    and 
+nutritive  additives  (19), 
+
+RRR    =  primary  cobalt  input  to  glass  decolor- 
+izers (19), 
+
+SSS    =  primary  cobalt  input  to  ground  coat 
+frit  (19), 
+
+TTT    =  primary  cobalt  input  to  pigments  (19), 
+
+and  0.03    =  chemical  production  waste  based  on 
+
+97-pct  efficiency  in  chemical  produc- 
+tion (7). 
+
+Then     UUU    =  sum(PPP  +  QQQ  +  RRR  + 
+
+SSS  +    TTT)  -  NNN,  (A-50) 
+
+where    UUU    =  produced  chemicals  input  to  chemical 
+product  manufacturing. 
+
+Then  VW  =  UUU  x  0.05,  (A-51) 
+
+where     VW    =  chemical  product  manufacturing  waste, 
+
+and  0.05    =  waste  loss  based  on  95-pct  efficiency 
+
+in  chemical    product    manufacturing 
+(5-pct  waste  loss)  (1). 
+
+
+Then  WWW  =  UUU  -  VW, 
+
+where  WWW    =  chemical  products. 
+
+
+(A-52) 
+
+
+INT.BU.OF  MINES,PGH.,PA  29148 
+
+
+m 
+
+z 
+
+<£  -*  <D    ' 
+
+> 
+3 
+
+O 
+
+■n 
+-n 
+
+—  m  °>    O 
+
+-n 
+O 
+3D 
+
+O 
+
+>  1 
+
+artm 
+f  Mil 
+
+treet 
+ton, 
+
+"0 
+
+r 
+
+a-    ?  <d 
+
+33 
+
+I 
+
+(0 
+
+nt  of 
+as 
+
+N.W. 
+.C. 
+
+m 
+c 
+</> 
+m 
+
+z 
+m 
+
+§2      J 
+
+(/> 
+
+*k  (/)      J^ 
+
+I 
+
+(/) 
+
+nterior 
+
+#9800 
+1 
+
+> 
+z 
+m 
+O 
+c 
+> 
+r- 
+
+o 
+
+-o 
+
+"0 
+
+O 
+
+3D 
+
+
+m 
+
+"0 
+
+I— 
+O 
+
+-< 
+m 
+
+30 
+
+
+413-90 
+
+
+*  •>  .  •  '      ^0  *£>.      *  «  ,  1  •         $r  O         *  •  .  0  .0  ^5>        *  •  ,  .  •         aT  O.       *  •  .  0  8       .0  "$>       * •  ,  y  •       ^ 
+
+
+V**    - 
+
+
+A^         * 
+
+
+•      7>.         at> 
+
+
+'  ..  » 
+
+
+•   „/^,   ••" 
+
+
+™^»     4?        o»     •  ens  « 
+
+^o<~  SONS**    ^ov*    tffKfc   **o«    ^M^'-    «b 
+
+
+"^  *^~r  ^p       °o    'T^To-    «o 
+
+
+'~    .r 
+
+
+.  i  *     .A 
+
+
+'p  .♦* 
+
+
+^/ 
+
+
+S°*      ^ 
+
+
+a5°^     . 
+
+
+o  > 
+
+
+A5*  « 
+
+
+3*    •*•••     <> 
+
+
+^  ..Ji 
+
+
+^^     ••- 
+
+
+•»      o 
+
+
+«5°*    •' 
+
+
+c5°^ 
+
+
+^    4^      * 
+
+
+•£*    A*"      *  z-^ffltea  •      ^    t' 
+
+
+sO* 
+
+
+*      "Ov         a"*        *  1 
+
+
+*        aV     ♦. 
+
+
+1?    «r 
+
+
+^u.^ 
+
+
+V\ 
+
+
+v 
+
+
+<;■ 
+
+
+<y 
+
+
+'  ♦       «?        ♦,      »^ 
+
+
+A 
+
+
+<\ 
+
+
+vv 
+
+
+vv     *!^L'*     o 
+
+
+^     •*, 
+
+
+;*»-•"  °      a0  ^*      " '       v4*  ^      •  ■  °      A0  ^»      • '  *       <Sr  ^      •  •  °      A0 
+
+
+V*  ..»^Lv  'q 
+
+
+<L^      U%.  o 
+
+
+*^s         A*" 
+
+aV^ 
+
+
+c^^. 
+
+
+^         A* 
+
+
+^ 
+
+
+aP'  ^    *•"»•»•'  1$ 
+
+
+*<2* 
+
+
+*0^ 
+
+
+«bV* 
+
+
+^ 
+
+
+*.    •••*•    J 
+
+
+^ 
+
+
+^ 
+
+
+•^ 
+
+
+s.0--* 
+
+
+A    yVigfcA     o0*:^  °*     A-jSS&X     ^s«J^°*    **•&!&*+     ■ 
+
+
+A      ♦ 
+
+
+,*>  ^». 
+
+
+%/ 
+
+
+^"•••t-'^"    ■^'•3»,/r     ►"•••••4V4  %,-Sff?*v*  \ 
+
+-^  X^>    ^  .-^fe-\  y<£feS   4fsM£kS    f*itik°» 
+
+<^  ..  °°^ 
+
+^    *  sues  •   ^&»   c*»    ♦ 
+
+^     *o  .  *  *     A 
+
+
+•  a  o 
+
+
+^0^, 
+
+
+^°^ 
+
+
+% 
+
+
+0*.  0,t  A^  <*  '^« 
+
+^.4N       .V'^P..     ^,4 
+
+
+^,. 
+
+
+>vyafet-.%,  ^.•av^.v  ^v-'dfe.-.v  *>.'&?**+.  ^\^m 
+
+

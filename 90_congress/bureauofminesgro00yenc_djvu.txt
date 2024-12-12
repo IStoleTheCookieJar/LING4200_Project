@@ -1,0 +1,3179 @@
+«5°*    : 
+
+
+•^o4* 
+
+
+<{,>        o  •  o  -     *<& 
+
+
+<0 
+
+
+4> 
+
+
+<►    ♦*TV 
+
+
+?V  v^v  ^^v  v^y   v^sv  v~v  °< 
+
+
+V    **  ^    • 
+
+
+*bK 
+
+
+^6* 
+
+
+•  «o 
+
+
+5s  ^ 
+
+
+^0^ 
+
+
+••:<**  .o*  ..'.*!*    *o. 
+
+
+^s> 
+
+
+°c 
+
+
+4  9* 
+
+
+°o,  **7tT»*  aoP         ^ 
+
+
+4  9* 
+
+
+4?        * 
+
+
+^m^m^m^Wiw^ 
+
+
+*****  /4fe*    *  /  ' 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+¥9f 
+
+
+The  Bureau  of  Mines  Ground-Fault 
+Protection  Research  Program-A 
+Summary 
+
+By  M.  R.  Yenchek  and  A.  J.  Hudson 
+
+
+YEARS      a 
+
+***u  of  ^ 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+Mission:  As  the  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity forthe  public  landsand  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+/information  Circular  9260 
+
+The  Bureau  of  Mines  Ground-Fault 
+Protection  Research  Program-A 
+Summary 
+
+
+By  M.  R.  Yenchek  and  A.  J.  Hudson 
+
+ii 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+ILLUSTRATIONS  -  Continued 
+
+
+Page 
+
+
+15.  Sensitive  CT  design 8 
+
+16.  Electronic  relay  and  CT 9 
+
+17.  Prototype  sensitive  GFR  enclosure 9 
+
+18.  Block  diagram  for  prototype  ac  analog  relay 9 
+
+19.  Schematic  diagram  for  prototype  ac  analog  relay 10 
+
+20.  Block  diagram  for  prototype  digital  relay   10 
+
+21.  Schematic  diagram  for  prototype  digital  relay 11 
+
+22.  Bruceton  Mine  power  system 12 
+
+23.  Power  feed  through  in  A-Butt,  Bruceton  Mine 12 
+
+24.  Load  center  in  12-Room,  Bruceton  Mine 12 
+
+25.  Sensitive  GFR  installation,  Bruceton  Mine 13 
+
+26.  Totalizer  amplifier  circuits  for  digital  and  analog  GFR's 14 
+
+27.  Differential  current  relaying  using  saturable  transformer 15 
+
+28.  Saturable  transformer  current  sensor   16 
+
+29.  Saturable  transformer  output  voltage  versus  dc  fault  current   16 
+
+30.  Drop  in  sensor  output  versus  frequency   16 
+
+31.  Saturable  transformer  prototype 17 
+
+32.  Dc  relay  block  diagram   17 
+
+33.  Dc  relay  timing  diagram    17 
+
+34.  Schematic  diagram  of  dc  relay  prototype    18 
+
+35.  Dc  relay  prototype 19 
+
+36.  Typical  high-voltage  distribution  circuit 19 
+
+37.  Simplified  diagram  of  ground-check  monitoring  system  used  in  mine  distribution  systems 20 
+
+38.  System  block  diagram    21 
+
+39.  Block  diagram  of  relay  circuit    21 
+
+TABLE 
+
+1.  Counter  readings  of  GFR  performance 13 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+A 
+
+ampere 
+
+kQ 
+
+kilohm 
+
+mV 
+
+millivolt 
+
+dB 
+
+decibel 
+
+kV 
+
+kilovolt 
+
+Q 
+
+ohm 
+
+op 
+
+degree  Fahrenheit 
+
+lb 
+
+pound 
+
+pet 
+
+percent 
+
+ft 
+
+foot 
+
+mA 
+
+milliampere 
+
+s 
+
+second 
+
+h 
+
+hour 
+
+pF 
+
+microfarad 
+
+V 
+
+volt 
+
+hp 
+
+horsepower 
+
+fiU 
+
+microhenry 
+
+VA 
+
+volt-ampere 
+
+Hz 
+
+hertz 
+
+MQ 
+
+megohm 
+
+W 
+
+watt 
+
+in 
+
+inch 
+
+ms 
+
+millisecond 
+
+Wb/A-m 
+
+weber  per  ampere-meter 
+
+kHz 
+
+kilohertz 
+
+MS 
+
+microsecond 
+
+yd3 
+
+cubic  yard 
+
+THE  BUREAU  OF  MINES  GROUND-FAULT  PROTECTION 
+RESEARCH  PROGRAM-A  SUMMARY 
+
+
+By  M.  R.  Yenchek1  and  A.  J.  Hudson2 
+
+
+ABSTRACT 
+
+The  U.S.  Bureau  of  Mines  designed  and  constructed  sensitive  and  coordination-free  ground-fault  relays 
+(GFR's)  for  use  on  mine  power  systems.  First,  a  list  of  GFR  attributes  for  mine  ac  utilization  applications 
+was  compiled.  These  practical  guidelines  specified  design,  construction,  transient  immunity,  reliability,  and 
+operating  criteria.  The  time-current  characteristics  of  the  ac  and  dc  units,  subsequently  fabricated,  were 
+designed  to  be  below  the  human  electrocution  threshold.  The  significant  and  highly  variable  capacitance  of 
+high-voltage  distribution  cables  was  found  to  preclude  the  sensing  of  ground  currents  in  the  milliampere 
+range.  However,  the  coordination-free  system  developed  for  high-voltage  distribution  should  enhance  safety 
+by  significantly  decreasing  response  time  to  ground  faults.  Implementation  of  the  sensitive  GFR  technology 
+in  the  mining  industry  has  the  potential  to  eliminate  the  majority  of  injuries  and  nearly  all  the  deaths  resulting 
+from  contact  with  energized  components. 
+
+
+Electrical  engineer. 
+2Electronics  technician. 
+Pittsburgh  Research  Center,  U.S.  Bureau  of  Mines,  Pittsburgh,  PA. 
+
+
+INTRODUCTION 
+
+
+An  analysis  of  U.S.  Mine  Safety  and  Health  Ad- 
+ministration (MSHA)  statistics  for  electrical  accidents 
+at  underground  mines  between  1980  and  1985  showed  that 
+electricians  and  mechanics  suffered  the  highest  incidence 
+of  injury  and  death.  Specifically,  there  were  595  acci- 
+dents associated  with  repair  and  maintenance  of  electri- 
+cal apparatus,  29  of  which  were  fatal.  The  resultant 
+cost  to  the  public  and  private  sectors  was  estimated  at 
+$28  million  (i).3 
+
+These  data  are  not  surprising  since  electricians  and 
+mechanics  have  the  greatest  exposure  to  electrical  hazards. 
+Space  on  mining  machines  is  extremely  limited,  with 
+electrical  control  boxes  crowded  with  parts.  During 
+troubleshooting  of  energized  circuits  there  is  danger  that, 
+through  either  inattention  or  an  inadvertent  slip,  an  elbow 
+or  arm  will  contact  an  energized  component.  Under  such 
+working  conditions  electrical  safety  can  be  improved 
+through  the  use  of  effective  protective  devices  for 
+personnel. 
+
+When  a  worker  contacts  an  energized  component, 
+electric  current  flows  through  the  worker's  body  and 
+returns  to  the  power  source,  either  through  the  earth  or 
+
+
+via  a  ground  wire.  In  this  case  the  presence  of  a  ground 
+wire  does  not  preclude  or  mitigate  hazardous  leakage 
+current.  The  only  available  safeguard  in  such  occurrences 
+is  a  ground-fault  detection  system. 
+
+Most  ground-fault  protection  in  use  on  underground 
+mine  power  systems  is  inadequate  from  a  shock  prevention 
+standpoint.  Typical  response  levels  are  in  the  ampere 
+range,  significantly  exceeding  the  electrocution  threshold. 
+Increasing  device  sensitivity  results  in  undesirable  nuisance 
+tripping  and  unscheduled  interruptions  in  production. 
+However,  a  sensitive  ground-fault  relay  (GFR)  not  only 
+can  identify  and  act  to  interrupt  the  small  deadly  ground 
+currents  that  electrocute  people,  but  can  ignore  spurious 
+signals  that  may  result  when  motors  are  started  or  circuit 
+breakers  switched.  Recent  U.S.  Bureau  of  Mines  research, 
+aimed  at  virtually  eliminating  electrocutions  resulting  from 
+direct  contact,  developed  sensitive  GFR's  for  ac  and 
+dc  utilization  circuits.  In  addition,  coordination-free  relays 
+were  devised  for  use  on  high-voltage  distribution.  Ap- 
+plication of  this  technology  in  the  mining  industry  could 
+eliminate  the  majority  of  injuries  and  nearly  all  deaths 
+resulting  from  contact  with  energized  components. 
+
+
+ELECTRIC-SHOCK  ANALYSIS 
+
+
+Although  the  prevention  of  sustained  electric  shock  is 
+an  ideal  goal  for  industry,  it  is  usually  impractical.  The 
+detection  of  such  shocks  and  resultant  body  currents  as 
+low  as  10  mA  would  likely  be  a  complete  impediment  to 
+production.  Consequently,  a  more  realistic  goal  is  to 
+design  protection  against  electrocution,  not  electric  shock. 
+
+To  devise  effective  personnel  protection,  it  is  first 
+necessary  to  understand  how  electrical  current  can  be 
+lethal  to  humans.  Ventricular  fibrillation  is  by  far  the 
+most  common  cause  of  death  from  accidental  electric 
+shock.  This  condition  is  induced  when  sufficient  current 
+flows  through  the  chest  and  disrupts  the  nervous  system 
+impulses,  internal  to  the  heart,  that  synchronize  normal 
+heartbeat.  The  heart  no  longer  acts  as  an  efficient  pump 
+to  circulate  blood,  and  death  is  likely  to  occur  within 
+minutes.  In  light  of  this,  safety  can  be  enhanced  if  the 
+potential  current  flow  through  the  body  can  be  minimized. 
+
+This  risk  of  electrocution  is  determined  to  a  large  ex- 
+tent by  power  system  configuration.  To  maximize  safety, 
+the  recommended  arrangement  for  ac  systems  features  a 
+direct-  or  derived-neutral  point  on  the  source  trans- 
+former secondary,  tied  to  earth  through  a  grounding 
+resistor.     Equipment  frames  are  then  grounded  by  a 
+
+
+grounding  conductor  connection  to  the  grounded  side  of 
+the  resistor.  When  a  grounded  worker  accidentally 
+contacts  an  energized  conductor,  the  body  current  is 
+limited  in  magnitude  by  the  grounding  resistor  (fig.  1). 
+
+Ventricular  fibrillation  is  a  function  not  only  of  current 
+magnitude  (I),  but  also  of  frequency,  duration  of  expo- 
+sure (t),  and  weight  of  the  victim.    The  threshold  was 
+
+
+Italic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+preceding  the  appendix  at  the  end  of  this  report. 
+
+
+Figure  1  .-Resistance-grounded  power  system  with  grounded 
+worker. 
+
+
+statistically  defined  by  Dalziel  and  Lee  (2)  as  that  current 
+through  the  chest  that  will  cause  ventricular  fibrillation  in 
+1  out  of  200  people.  For  110-lb  individuals,  the  60-Hz 
+threshold  was  expressed  as 
+
+
+I    =    116/  Ji, 
+
+
+(1) 
+
+
+where       I    =  current,  mA, 
+
+
+and 
+
+
+t    =  time,  s. 
+
+
+This  relationship  is  shown  graphically  in  figure  2.  For 
+brief  exposures,  relatively  more  current  is  needed  to  cause 
+fibrillation.  For  longer  durations,  the  limit  decreases, 
+down  to  50  mA,  below  which  fibrillation  is  unlikely  no 
+matter  how  long  the  exposure. 
+
+Given  these  constraints,  an  optimum  ohmic  value  can 
+be  determined  for  the  neutral  grounding  resistor,  Rg, 
+shown  in  figure  3.  This  value  should  be  high  enough  to 
+protect  against  ventricular  fibrillation,  yet  sufficiently  low 
+to  permit  reliable  ground-fault  detection  without  nuisance 
+tripping.  Ideally,  the  resistor  should  limit  current  below 
+the  electrocution  threshold  for  a  direct  contact  shock.  In 
+such  instances,  the  body  resistance,  Rb,  may  be  as  low 
+
+
+350 
+
+
+4  5 
+
+Figure  2.-60-Hz  fibrillation  threshold  for  110-lb  individuals. 
+
+
+as  500  0  (3).  The  equation  defining  the  60-Hz  electro- 
+cution threshold  may  be  rewritten  to  determine  the 
+maximum  nonfibrillating  current  for  the  total  circuit 
+clearing  time  as  follows: 
+
+
+where 
+and 
+
+
+I    =    116/7(1!  +  t2)  , 
+tj    =  operating  time  of  GFR,  s, 
+
+
+(2) 
+
+
+t2    =  operating  time  of  molded-case  circuit 
+breaker,  s. 
+
+
+A  relay  operating  time  of  100  ms  provides  sufficient  time 
+delay  to  prevent  nuisance  tripping.  A  molded-case  circuit 
+breaker  typically  opens  its  contacts  within  34  ms.  Given  a 
+total  operating  time  of  134  ms,  the  maximum  current  that 
+will  not  result  in  fibrillation  is  317  mA.  This  can  now  be 
+used  to  define  the  ohmic  value  of  the  neutral  grounding 
+resistor,  R  (fig.  3): 
+
+
+Rg    =    (Vin/I)-Rb, 
+where        V-      =  line-to-neutral  system  voltage,  V, 
+
+
+(3) 
+
+
+and 
+
+
+I    =  maximum  nonfibrillating  current,  A, 
+Rb    =  human  body  resistance,  ft. 
+
+
+For  example,  on  a  480-V  system,  Rg  =  374  ft,  and  ground 
+faults  are  limited  to  a  maximum  of  (480/75) /374  = 
+740  mA. 
+
+The  human  response  to  currents  of  varying  frequency  is 
+shown  in  figure  4  (4).  It  is  an  unfortunate  fact  that 
+humans  are  most  sensitive  to  60-Hz  signals.  The  reason 
+for  this  is  that,  physiologically,  the  muscles  and  the  nerves 
+of  the  body  are  most  easily  stimulated  by  changes  in 
+current  magnitude.  The  ac  sine  wave  is  characterized  by 
+constantly  changing  magnitude,  as  opposed  to  pure  dc 
+where  the  only  change  occurs  the  instant  the  circuit  is 
+made  or  broken.  Consequently,  about  3.5  times  more  dc 
+than  ac  is  required  to  induce  ventricular  fibrillation  (5). 
+Conversely,  the  muscles  and  nerves  do  have  a  finite 
+reaction  time,  such  that  with  increasing  frequency,  the 
+
+
+V|n© 
+
+
+Rb 
+
+
+Figure  3.-Electrical  accident  equivalent  circuit 
+
+
+stimulation  of  one  alternation  does  not  have  time  to  elicit 
+a  response  before  it  is  annulled  by  the  succeeding 
+alternation. 
+
+For  dc  power  systems,  a  three-phase  bridge  rectifier 
+arrangement  is  preferred  (fig.  5).  Shock  hazards  are 
+reduced,  not  only  by  the  presence  of  the  grounding  re- 
+sistor, but  also  because  line-to-ground  voltage  is  one-half 
+the  line-to-line  dc  voltage.  When  a  grounded  worker 
+inadvertently  contacts  an  energized  positive  or  negative 
+conductor,  the  resultant  current  through  the  individual  is 
+half-wave  rectified  as  shown  in  figure  6.  Research  con- 
+ducted recently  by  Bernstein  (<5)  has  established  that  the 
+
+
+presence  of  an  18-pct  ripple  in  a  half-wave-rectified  wave 
+tends  to  reduce  the  threshold  such  that  the  following 
+relationship  applies  (fig.  7): 
+
+
+i  =  348/yr, 
+
+where        I    =  current,  mA, 
+
+
+(4) 
+
+
+and 
+
+
+t    =  time,  s. 
+
+
+These  electrocution  threshold  characteristics  are  an  im- 
+portant consideration  for  the  design  of  sensitive  GFR's. 
+
+
+600 
+
+
+10                      100  1,000            10,000 
+
+FREQUENCY,  Hz 
+
+Figure    4.-Fibrillation    threshold    at  currents    of    varying 
+frequency. 
+
+
+m 
+
+
+ooo_ 
+
+
+til 
+
+
+Ripple  frequency  =  180  Hz 
+
+
+TIME 
+
+
+Figure  6.-Half-wave-rectified  ground-fault  current 
+
+
+900 
+
+
+Figure  5.-Three-phase  resistance-grounded  system  feeding 
+full-wave  rectifier. 
+
+
+"012345 
+Figure  7.-Half-wave-rectified  dc  ventricular  fibrillation  threshold. 
+
+
+ALTERNATING  CURRENT  UTILIZATION 
+
+
+Initial  Bureau  research  concentrated  on  providing  the 
+ac  utilization  portion  of  a  mine  power  system  with  sensitive 
+ground-fault  protection.  The  utilization  system  includes 
+portable  power  cables,  power  centers,  rectifiers,  motors, 
+and  the  associated  protective  devices.  It  is  the  most 
+troublesome  part  of  the  power  system  in  terms  of  safety 
+and  reliability  because  of  its  temporary  nature.  As  mining 
+progresses,  the  utilization  system  is  stretched  to  its  limit 
+and  repositioned,  necessitating  frequent  handling  of  trailing 
+cables  and  equipment  repairs,  a  major  source  of  electro- 
+cutions underground  (1).  The  presence  of  large  motor 
+loads  strains  the  dependability  of  protection  devices  by 
+introducing  large  voltage  and  current  transients.  Con- 
+sequently, the  application  of  effective  personnel  protection 
+for  utilization  circuits  would  have  a  major  impact  on 
+underground  safety. 
+
+Zero-sequence  or  balanced-flux  relaying  (fig.  8)  is 
+the  most  reliable  and  most  common  method  employed  for 
+ground-fault  relaying  (7).  As  shown  in  figure  8,  the  phase 
+conductors  pass  through  the  toroidal  current  transformer 
+(CT)  window.  The  sum  of  the  three  phase  currents  is  the 
+CT  primary  current  and  is  proportional  to  the  zero- 
+sequence  current  (8).  An  unfaulted  balanced  system 
+features  little  or  no  zero-sequence  current,  and  the  CT 
+secondary  current  is  approximately  zero.  However,  when 
+a  ground  fault  occurs,  the  resultant  secondary  current  is 
+used  to  trip  the  relay.  Zero-sequence  relaying  is 
+unaffected  by  phase  voltage  fluctuations,  and  since  only 
+ground  leakage  is  monitored,  the  relay  can  be  made  very 
+sensitive.  Consequently,  it  is  the  only  practical  technique 
+capable  of  responding  to  low-level  hazardous  ground 
+currents  and  the  method  of  choice  for  the  Bureau's 
+sensitive  GFR  research  program. 
+
+BACKGROUND  RESEARCH 
+
+As  a  first  step  in  the  design  process,  a  list  of  GFR 
+attributes  for  ac  mining  applications  was  compiled.  Next, 
+test  procedures  were  devised  to  ensure  device  compliance 
+
+
+Phase 
+A  — 
+
+
+B- 
+C- 
+
+
+ZN)  sequence 
+relay 
+
+
+Ground  wire 
+
+
+Figure  8.-Zero-sequence  relaying. 
+
+
+with  the  desired  operating  characteristics.  These  practical 
+guidelines  (9),  addressing  GFR  design  and  construction, 
+transient  immunity,  reliability,  and  time-current  char- 
+acteristics, are  summarized  below. 
+
+Proper  Design  and  Construction 
+
+A  relay  system  of  suitable  design  and  construction  does 
+not  pose  a  personnel  hazard,  reduces  the  amount  of  down- 
+time caused  by  GFR  failures,  and  facilitates  acceptance  of 
+the  GFR  as  a  useful  safety  device.  Electronic  instruments 
+designed  and  constructed  for  military  use  must  comply 
+with  Military  Standard  454  (10).  The  key  portions  of  that 
+standard,  which  can  be  applied  to  GFR's  in  underground 
+mining,  are  related  to  safety  and  accessibility:  The  design 
+shall  incorporate  methods  to  protect  personnel  from 
+accidental  contact  with  voltages  greater  than  30  V  root- 
+mean-square  (RMS)  or  dc  during  normal  operation.  All 
+external  surfaces  shall  be  at  ground  potential  during  nor- 
+mal operation.  All  terminals  shall  be  corrosion  resistant. 
+Sharp  external  projections  shall  be  avoided.  Suitable  ac- 
+cess shall  be  provided  for  adjustments,  testing,  and  routine 
+maintenance.  No  unsoldering  shall  be  necessary  to  remove 
+the  front  cover  for  troubleshooting. 
+
+Mine  Worthiness 
+
+Underground,  GFR's  are  located  inside  metal-clad  load 
+centers,  so  both  the  relay  and  CT  must  have  metal  mount- 
+ing lugs.  Terminal  strips  should  be  sized  for  No.  12  AWG 
+wire.  In  addition,  the  relay  case  should  be  moisture  and 
+dust  resistant. 
+
+Size  Limitations 
+
+Space  is  typically  limited  inside  mine  power  equipment 
+compartments.  Since  several  GFR's  may  be  used  in  a  sin- 
+gle power  center  to  protect  all  outgoing  circuits,  they  must 
+not  be  much  larger  than  present  GFR's.  Thus,  the  relay 
+components  should  be  mounted  in  a  compact  enclosure 
+not  exceeding  3  by  6  by  6  in.  To  minimize  flux  leakage, 
+the  CT  window  should  only  be  large  enough  to  accommo- 
+date the  encircled  power  conductors.  The  outside  dia- 
+meter of  a  4/0  single-conductor  cable  is  0.807  in  (11). 
+Three  such  cables  fit  snugly  through  a  1.750-in-diameter 
+window.  For  ease  of  installation  of  cables  with  terminals, 
+the  window  diameter  should  be  increased  to  2.100  in. 
+Present  ground-fault  CT's  in  use  underground  have  outside 
+diameters  smaller  than  4  in.  Since  they  are  placed 
+between  the  molded-case  circuit  breaker  and  the  load- 
+center  coupler,  they  are  no  more  than  3  in  wide. 
+
+Electrocution  Prevention 
+
+The  primary  reason  for  employing  sensitive  GFR's  in 
+mining  is  to  prevent  accidental  electrocutions.  For  60-Hz 
+circuits,  the  desired  region  for  GFR  operation  is  below 
+
+
+and  to  the  left  of  the  threshold  shown  in  figure  2.  To 
+define  GFR  time-current  characteristics,  a  variable  60-Hz 
+voltage  source  in  series  with  a  50-fl,  225-W  fixed  resistance 
+is  used  to  inject  current  through  the  CT  primary  as  shown 
+in  figure  9.  A  double-pole,  single-throw  switch  initiates  the 
+test  and  triggers  the  storage  oscilloscope,  which  monitors 
+relay  contact  activity.  Test  currents  are  varied  from  0  to 
+1,000  mA. 
+
+Power  Harmonics 
+
+
+GFR  CT,  should  not  falsely  activate  the  relay.  In  addition, 
+they  should  not  damage  the  relay  control  circuitry. 
+
+An  impulse  generator,  constructed  in  accordance  with 
+Underwriters  Laboratories  (UL)  Standard  943  (13),  is  em- 
+ployed to  simulate  transient  overvoltages  as  they  would 
+occur  on  residential  and  industrial  power  systems.  The 
+test  circuit  consists  of  a  relay  switch  and  resonant  circuit, 
+shown  schematically  in  figures  11  and  12.  The  generated 
+waveform  exhibits  the  following  characteristics  under  no 
+load: 
+
+
+The  filtering  for  GFR's  must  be  designed  so  as  to  pre- 
+clude false  tripping  by  any  harmonics  superimposed  on 
+the  power  conductors.  However,  attenuation  of  these 
+higher  frequencies  must  not  be  so  severe  that  hazardous 
+currents  above  the  electrocution  threshold  (fig.  4)  are 
+permitted.  In  testing  GFR  frequency  response  (fig.  10),  an 
+audio  oscillator  and  power  amplifier  provide  high- 
+frequency  currents  from  60  Hz  to  10  kHz.  For  each 
+frequency,  the  voltage  is  slowly  increased  until  the  GFR 
+activates. 
+
+Voltage  Surge  Immunity 
+
+Mine  power  systems  frequently  experience  voltage 
+surges  when  circuit  breakers  and  switches  are  opened  or 
+closed.  Although  the  duration  of  these  transients  is  less 
+than  50  ms,  past  research  indicates  their  magnitude  can 
+reach  five  times  the  utilization  voltage  (12).  These  surges, 
+when  present  on  the  power  conductors  encircled  by  the 
+
+
+Resistor 
+— WV 
+
+
+L 
+
+
+— -To  oscilloscope 
+v. trigger 
+
+A 
+
+
+(£)  Voltage 
+V- /  source 
+
+
+..Current  probe 
+to  oscilloscope 
+channel  2 
+
+
+JT 
+
+T_ 
+
+
+To  channel  1 
+
+
+Relay 
+Figure  9.-Test  setup  to  determine  60-Hz  tripping  characteristics. 
+
+
+1.  Initial  rise  time  of  0.5  ps  between  10  and  90  pet  of 
+peak  amplitude; 
+
+2.  Period  of  following  oscillatory  wave,  10  /is;  and 
+
+3.  Amplitude  of  each  successive  peak,  60  pet  of  the 
+preceding  peak. 
+
+The  amplitude  of  the  first  peak  is  fully  adjustable  from 
+0  to  9,000  V.  In  the  first  part  of  the  test,  10  successive  5- 
+kV  surges  are  imposed  on  the  power  conductors  encircled 
+by  the  CT  while  the  relay  contacts  are  observed.  Next,  ten 
+1-kV  impulses  are  applied  in  parallel  with  the  120-V  ac 
+control  voltage,  and  at  random  with  respect  to  its  phase. 
+Afterward,  the  relay  is  operated  at  60  Hz  to  detect 
+possible  damage  to  circuitry. 
+
+
+Line  output 
+
+
+Relay 
+control 
+
+
+rrn 
+
+Cathode-ray  oscilloscope 
+trigger  output 
+
+
+Neutral  ground 
+
+
+Figure  11. -Impulse  generator  circuit 
+
+
+CT 
+
+
+Frequency 
+counter 
+
+
+Frequency 
+generator 
+
+
+\®^n=z7^. 
+
+
+<£> 
+
+
+Ammeter 
+Figure  1 0.-Frequency  response  test  circuit 
+
+
+Light 
+
+
+I20V 
+60  Hz 
+
+
+II,  50  V  A 
+
+
+lOkil,  IW  Dl 
+
+
+-w* ►Hr — t 
+
+
+32  MF,  250  V 
+
+
+11*    >' 
+
+
+CR|  relay 
+
+Cathode-ray 
+oscilloscope 
+gate  input 
+R3 
+I  kfl,  '/feW 
+
+
+I  M.a,  72W 
+
+
+rm 
+
+
+Figure  12.-Relay  control  circuit  for  impulse  generator. 
+
+
+Common-Mode  Transients 
+
+
+Safe  Failure  Modes 
+
+
+Sensitive  GFR's  must  be  unaffected  by  large  transient 
+currents  occurring  simultaneously  on  all  phases  of  an  ac 
+utilization  circuit.  Such  currents  may  briefly  exceed  six 
+times  full-load  motor  rating  during  starting  or  under  heavy 
+intermittent  load.  The  maximum  short-circuit  settings 
+listed  in  30  CFR  75.601  (14)  effectively  limit  balanced 
+three-phase  loading  to  2,500  A.  Nevertheless,  balanced 
+currents  up  to  2,500  A  should  be  tolerated  for  up  to  5  s 
+without  activation  of  the  GFR.  A  three-phase  high-power 
+source  is  used  to  variably  supply  balanced  three-phase 
+currents  through  a  shorted  trailing  cable  encircled  by  the 
+GFR  CT.  The  voltage  is  increased  until  the  relay  activates 
+or  the  2,500-A  ceiling  is  reached.  Tripping  thresholds  are 
+confirmed  through  repeated  tests. 
+
+Current  Withstand 
+
+The  molded-case  circuit  breakers  used  on  low-voltage 
+ac  mine  power  circuits  typically  have  an  interrupting  rating 
+of  30,000  A.  Currents  of  this  magnitude  are  quite  possible 
+during  three-phase  faults.  Since  the  GFR  CT  is  a  part  of 
+the  power  system,  it  too  should  withstand  up  to  30,000  A 
+for  the  time  it  takes  the  breaker  to  clear  (a  few  hertz). 
+The  withstand  test  is  conducted  with  a  high-current  circuit 
+breaker  tester  as  shown  in  figure  13.  The  tester  is 
+equipped  with  an  initiate  switch  that  can  be  jogged  to 
+reasonably  control  the  test  duration.  Current  magnitudes 
+are  recorded  on  a  storage  oscilloscope  connected  across  a 
+400-A,  100-mV  shunt.  The  CT  secondary  is  shorted  to 
+preclude  high  secondary  voltages.  The  CT  is  subjected  to 
+30,000  A  for  approximately  4  Hz.  The  60-Hz  current  ratio 
+and  winding  resistance  are  measured  before  and  after  the 
+withstand  test  to  detect  any  degradation  of  the  CT. 
+
+Quality  Assurance 
+
+For  dependability  underground,  all  devices  from  the 
+same  manufacturer  should  be  consistent  in  electrical  and 
+mechanical  performance  over  a  reasonable  service  life.  In 
+addition,  each  GFR  should  be  equipped  with  a  means  to 
+test  its  operation. 
+
+
+In  the  event  of  failure  of  the  GFR's  internal  circuitry, 
+it  is  vital  that  the  unit  activate  its  associated  circuit  breaker 
+to  remove  power  and  prevent  a  false  sense  of  security. 
+Two  common  failure  modes  are  the  loss  of  120-V  control 
+power  to  the  GFR  and  an  opening  of  the  CT  winding. 
+
+PROTOTYPE  DESIGN  AND  CONSTRUCTION 
+
+Sensitive  GFR's  are  available  commercially  for  use  in 
+British  mines  and  in  the  U.S.  irrigation  industry.  Three 
+such  brands  were  evaluated  in-house  for  potential  appli- 
+cability to  U.S.  mining  using  the  above  criteria.  None  was 
+found  suitable  without  design  modifications  (15).  How- 
+ever, these  tests  served  as  the  basis  for  the  development  of 
+a  mine-worthy  sensitive  ground-fault  protection  system 
+consisting  of  a  CT  and  an  electronic  relay. 
+
+Current  Transformer 
+
+The  CT  for  a  sensitive  ground-fault  system  has  the  duty 
+of  precisely  sensing  the  existence  of  small  ground-fault 
+currents  on  three-phase  line  conductors  feeding  mine  ma- 
+chinery. It  must  be  able  to  distinguish  these  faults  within 
+the  complex  electromagnetic  environment  that  exists  in 
+mine  power  equipment.  Specifically,  the  CT  must  not  send 
+erroneous  signals  to  the  relay  circuitry  when  in  the  pres- 
+ence of  external  magnetic  fields  and  when  observing  high 
+common-mode  line  currents.  This  precise  device  must  also 
+be  able  to  physically,  electrically,  and  magnetically  with- 
+stand the  mine  environment. 
+
+The  output  of  the  CT  secondary  was  anticipated  to 
+be  in  the  millivolt  range  when  sensed  currents  were  in 
+milliamperes.  The  following  expression  is  used  to  pre- 
+dict open-circuit  output  voltage  for  a  given  ground-fault 
+current  (16): 
+
+
+E    = 
+
+
+=    hNuflplnCR^Rj) 
+
+
+(5) 
+
+
+where      E    =  RMS  output  voltage  of  secondary  volt- 
+age, V, 
+
+h    =  toroid  core  width,  m, 
+
+
+To  storage 
+oscilloscope 
+
+
+Mine  duty 
+circuit  breaker 
+
+
+Secondary 
+shorted 
+
+
+Figure  1 3.-Current  withstand  test  circuit 
+
+
+and 
+
+
+N  =  number  of  turns  on  secondary  winding, 
+
+u  =  core  permeability,  Wb/A-m-turns, 
+
+f  =  frequency,  Hz, 
+
+Ip  =  RMS  value  of  ground-fault  current,  A, 
+
+RQ  =  outer  toroidal  radius,  m, 
+
+Rj  =  inner  toroidal  radius,  m. 
+
+
+Equation  5  is  valuable  in  designing  a  current  sensor  for  a 
+sensitive  ground-fault  protection  system.  It  shows  that  CT 
+
+
+output  voltage  may  be  affected  by  various  electrical  and 
+mechanical  quantities. 
+
+In  addition,  consideration  must  also  be  given  the  CT 
+burden,  or  external  load  impedance  on  its  secondary.  The 
+burden  impedance  cannot  be  so  low  as  to  reduce  the  sec- 
+ondary voltage  to  an  unusable  value.  Voltage  input  to  the 
+relay  must  be  sufficiently  high  so  that  amplification  and 
+noise  concerns  are  minimal.  Since  core  dimensions  are 
+limited  by  available  space,  voltage  output  can  be  maxi- 
+mized by  using  a  high-permeability  core  and  a  large 
+number  of  secondary  turns  (see  equation  5).  Also,  a  high- 
+permeability  core  minimizes  flux  leakage  inherent  with 
+window-type  CT's. 
+
+Cores  are  usually  constructed  of  thin  laminations  to 
+reduce  eddy  current  losses.  For  the  GFR  toroid,  the  core 
+was  made  by  continuously  winding  a  0.006-  by  0.75-in  tape 
+of  magnetic  material  starting  with  a  2.5-in  ID.  After 
+winding  to  an  outer  diameter  of  3.5  in,  the  core  was 
+annealed  to  remove  strains  and  impurities  from  the  tape. 
+
+An  80  pet  nickel-iron  alloy  core  was  able  to  meet  the 
+accuracy  requirements  of  sensitive  ground-fault  relaying. 
+However,  one  problem  with  nickel-iron  cores  is  that  then- 
+excellent  magnetic  properties  can  be  degraded  by  winding 
+stresses  and  pressures.  A  nonmetallic  or  phenolic  box 
+(fig.  14)  around  the  core  provided  protection  against 
+mechanical  damage  as  well  as  insulation  for  the  secondary 
+winding.  The  effects  of  vibration  and  shock  are  mitigated 
+by  cushioning  the  core  in  a  silicon  casing. 
+
+The  CT  must  be  able  to  operate  within  significant  mag- 
+netic fields  generated  by  nearby  power  transformers  or 
+the  monitored  power  conductors  themselves.  To  minimize 
+any  volts-per-turn  imbalance  requires  a  regressive  winding 
+technique  (fig.  15)  (17).  One-half  of  the  250  secondary 
+turns  of  No.  22  AWG  magnet  wire  were  wound  around  the 
+core  in  one  direction.  The  second  half  were  wound 
+around  the  core  in  the  opposite  direction  across  the  first 
+half  so  that  each  second-half  turn  falls  between  a  pair  of 
+first-half  turns  within  the  window  crossing  on  the  CT  sides. 
+A  separate  single  turn  was  wound  on  the  core  for  primary 
+injection  testing. 
+
+As  stated  previously,  power  conductor  common-mode 
+currents  can  produce  local  core  saturation,  noncancelling 
+voltages  across  the  CT  secondary,  and  nuisance  tripping  of 
+the  relay.  It  was  found  (18)  that  a  2.1-in-ID,  0.1-in-thick, 
+concentric,  low-permeability  iron  buffer  adjacent  to  the 
+power  conductors  tended  to  distribute  local  flux  saturation 
+effects. 
+
+The  core,  windings,  and  buffer  were  potted  in  epoxy 
+and  enclosed  in  a  metallic  housing  that  has  convenient 
+holes  for  mounting  the  assembly  inside  mine  power  equip- 
+ment. The  output  cable  contains  the  four  conductors  for 
+the  CT  secondary  and  the  test  winding. 
+
+Electronic  Relay 
+
+Solid-state  sensitive  GFR's  were  designed  to  operate 
+with  the  CT  (figs.  16-17).  Two  versions  were  conceptu- 
+alized, one  based  upon  analog  techniques,  the  other  using 
+
+
+Nonmetallic 
+insert 
+
+
+Nonmetallic 
+case 
+
+Insert 
+cushioning 
+
+
+Tape- 
+wound 
+core 
+
+
+Figure  14.- Nonmetallic  core  box  construction. 
+
+
+Toroid  core,   2.5-in-ID,   3.5-in-OD,  0.75-in-high, 
+
+tape-wound  with  0.006-in  nickel- iron 
+alloy,  cased  and  phenolic  boxed. 
+
+
+250-turn,  regressively 
+wound  CT secondary 
+
+
+Transformer 
+secondary  leads 
+
+
+Test  winding  leads 
+
+
+-2.l-in-ID  low-permeability  steel  pipe 
+with  single  wrap  of  0.00l-in  nickel- 
+iron  alloy  on  outer  surface. 
+
+Figure  1 5.-Sensitive  CT  design. 
+
+
+digital  (19).  Both  incorporate  the  same  control  power 
+supply  and  electromechanical  relay  trip  circuitry  mounted 
+on  interchangeable  cards. 
+
+Analog  Version 
+
+A  block  diagram  of  the  analog  relay  is  shown  in  fig- 
+ure 18  and  a  schematic  is  shown  in  figure  19.  Since  the 
+sum  of  the  three  line  currents  that  form  the  primary  cur- 
+rent in  the  CT  is  nearly  zero  under  normal  operating  con- 
+ditions, normal  phase  currents  should  not  trip  the  relay. 
+However,  when  a  ground  fault  occurs,  a  voltage  will  be 
+induced  across  the  secondary  in  proportion  to  the  fault 
+magnitude.  The  CT  (T2)  secondary  was  connected  across 
+a  burden  resistor  (Rj)  and  an  inverting  operational  ampli- 
+fier QA:  (fig.  19).  Diodes  D1  and  D2  were  included  to 
+limit  short-duration  transients  at  the  GFR  input. 
+
+A  first-order,  low-pass  filter  was  utilized  to  match  the 
+relay  frequency  response  to  that  of  humans  (fig.  4).  This 
+filter  consisted  of  operational  amplifier  QA2,  resistors,  R5 
+
+
+♦ 
+
+
+0  12  3 
+
+i 1 L_J 
+
+
+Figure  16.- Electronic  relay  and  CT. 
+
+
+h2-32"H 
+
+0.596"  typical 
+0.86" typical  |— \ 
+
+-E5B 
+
+
+0.2l9-in-diam 
+
+mounting  holes 
+
+(4) 
+
+
+Figure  17.-Prototype  sensitive  GFR  enclosure. 
+
+
+R6,  R7,  and  capacitor  Q.  It  had  a  3-dB  cutoff  frequency 
+of  2  kHz  and  a  gain  of  2.  Full-wave  rectification  was 
+accomplished  by  the  combination  of  the  two  operational 
+amplifiers  QA3  and  QA4.  Diode  Ds,  resistor  R14,  and 
+capacitor  C5  provided  a  smoothed  dc  output  signal 
+comparable  to  the  peak  value  of  the  input  sinusoidal 
+voltage  at  QA3.  The  smoothed  signal  was  then  applied  to 
+the  noninverting  input  of  the  comparator  QAj.  This  stage 
+was  designed  such  that  its  output  state  changes  abruptly 
+from  zero  to  a  high  voltage  when  the  input  reaches  an 
+adjustable  pickup  reference  voltage. 
+
+
+QAi 
+
+Amplifier 
+
+
+QA2 
+Filter 
+
+
+QA3,  QA4 
+Full- wave 
+rectifier 
+
+
+R-C 
+Integrator 
+
+
+QA5 
+Level 
+detector 
+
+
+R-C,  Q, 
+Definite- 
+time  delay 
+
+
+Open-CT 
+trip  signal 
+
+
+Qz 
+Trigger 
+
+
+-ojp- 
+
+Reset 
+
+
+Target 
+
+
+Trip 
+relay 
+
+
+:N.C 
+:N.O. 
+
+
+Figure  18.- Block  diagram  for  prototype  ac  analog  relay. 
+
+
+During  normal  operation,  the  current  from  the  24-V 
+supply  flows  through  the  coil  of  the  normally  closed  elec- 
+tromechanical relay  Kls  resistor  R^,  and  the  green  light- 
+emitting  diode  (LED)  D14,  because  the  thyristor,  Q2,  is  off. 
+When  a  ground  fault  occurs  above  the  pickup  setting,  the 
+voltage  signal  from  the  comparator  starts  to  charge  capaci- 
+tor C6  through  the  adjustable  resistance  R^  and  fixed  re- 
+sistor R^.  This  continues  until  the  unijunction  transistor 
+(UJT)  turns  on  and  discharges  C6.  The  GFR  operating 
+time  is  determined  by  the  time  it  takes  to  turn  on  the  UJT. 
+To  activate  the  GFR,  a  trip  signal  greater  than  the  trip 
+level  setting  must  still  be  present  after  the  desired  delay 
+has  occurred.  The  output  of  the  UJT  initializes  the  gate 
+of  the  thyristor,  Q2.  Once  the  thyristor  is  fired,  it  latches 
+on.  This  deenergizes  the  electromechanical  relay  and 
+turns  on  the  red  LED  D13. 
+
+Several  fail-safe  characteristics  were  incorporated  into 
+the  relay  design.  For  example,  a  loss  or  significant  drop  of 
+control  power  deenergizes  the  electromechanical  relay  coil. 
+In  addition,  if  the  secondary  winding  of  the  CT  disconnects 
+from  the  analog  circuitry,  the  relay  will  initiate  a  tripping 
+signal. 
+
+An  internal  power  supply  provides  regulated  ±15-V 
+power  for  the  relay's  active  integrated  circuits,  as  well  as 
+an  unregulated  supply  of  approximately  +  24  V  for  the  re- 
+lay K,  and  its  associated  network.  The  120-V  primary  of 
+the  power  supply  transformer  is  fuse  protected  and  in- 
+cludes transient  suppression. 
+
+A  test  circuit,  consisting  of  a  test  winding  on  the  CT  T2, 
+momentary  switch  S2,  and  a  current-limiting  resistor  R33 
+is  provided  on  the  relay.  When  the  switch  is  closed,  a  test 
+current  greater  than  the  relay  pickup  setting  is  primary 
+injected  into  the  CT,  and  the  relay  activates. 
+
+Digital  Version 
+
+A  block  diagram  of  the  digital  prototype  is  shown  in 
+figure  20  and  a  schematic  in  figure  21.  As  with  the  analog 
+version,  the  CT  T2  is  connected  across  a  1,000-Q  bur- 
+den R2.  The  ac  output  voltage  of  the  CT  is  amplified 
+by  the  inverting  operational  amplifier  QA1B.    The  output 
+
+
+10 
+
+
+I  k,Q 
+
+
++  15  V 
+
+
+R20 
+10  Mil 
+
+
+R|5 
+
+
+R22 
+
+22kft     IOkil: 
+-W\l — —  +  I5V' 
+
+
+K-@TP3     Time   ± 
+R23      delay    ■ 
+500  kU  adjustment 
+
+
+-@TP, 
+
+
+/  \ 
+
+D|3       D|4 
+(Red)  (Green) 
+
+
+X  C10 
+
+0.1  uF    ■= 
+35  V 
+"~ ""-15  V 
+
+
+MC79LI5CP 
+
+
+Figure  19.-Schematic  diagram  for  prototype  ac  analog  relay. 
+
+
+OAia 
+0pen-CT 
+detector 
+
+
+QAIB 
+
+Zero- sequence 
+
+amplifier 
+
+
+QA2A 
+Filter 
+
+
+QA2B 
+Level  detector 
+
+
+Time    delay 
+detector 
+
+
+Qi 
+
+Trigger 
+
+
+4  i 
+
+
+-0J0- 
+
+Reset 
+
+
+N.O. 
+
+
+Target      Trip 
+relay 
+
+Figure  20.-Block  diagram  for  prototype  digital  relay. 
+
+of  QA1B  is  then  fed  into  a  first-order,  low-pass  filter  with 
+a  3-dB  cutoff  of  1.6  kHz.  The  purpose  of  this  filter  is  to 
+attenuate  high-frequency  signals  such  that  false  tripping 
+due  to  harmonic  currents  or  high-frequency,  long-duration 
+transients  may  be  avoided.  This  attenuation  should  not  be 
+too  steep,  because  high-frequency  currents  can  cause  elec- 
+trical fatalities. 
+
+
+The  ac  output  of  the  filter  network  is  fed  to  the  com- 
+parator QA2B  through  a  dc-blocking  network  consisting  of 
+Q,  R12,  and  C4.  Consequently,  an  ac-filtered  trip  signal 
+will  be  delivered  to  the  negative  input  terminal  of  this  dif- 
+ferential amplifier.  The  voltage  divider  consisting  of  R13 
+and  R14  provides  a  positive  reference  voltage  to  the  posi- 
+tive input  terminal  of  the  differential  amplifier.  When  the 
+sinusoidal  trip  signal  at  the  negative  amplifier  input  is  less 
+than  the  trip  level  setting  at  the  positive  input  terminal, 
+the  output  of  the  comparator  is  at  its  positive  saturation 
+value  of  about  + 13  V  dc.  At  any  instant  when  the  trip 
+signal  is  greater  than  the  trip  level  setting,  the  comparator 
+output  goes  to  its  negative  saturation  value  of  -13  V  dc. 
+During  this  time,  diode  CR5  clamps  the  inputs  to  the 
+CD4528  retriggerable  one-shot  and  the  555  timer  to  ap- 
+proximately 0  V. 
+
+The  retriggerable  one-shot  remains  in  its  stable  state 
+of  unity  logic  output  as  long  as  a  l-to-0  transition  does  not 
+occur  at  its  input.  However,  when  such  a  transition  does 
+occur  (corresponding  to  a  trip  signal),  the  retriggerable 
+one-shot  goes  to  its  unstable  state  of  zero  logic  output  for 
+as  long  as  the  trip  signal  is  present.  Should  the  input 
+switch  back  to  a  high  state  before  the  GFR  activates,  the 
+one-shot  will  return  to  its  stable  state  and  GFR  operation 
+will  be  blocked. 
+
+
+11 
+
+
+Test  © 
+
+winding 
+
+
+Figure  21  .-Schematic  diagram  for  prototype  digital  relay. 
+
+
+The  GFR  time  delay  circuitry  includes  the  555  timer, 
+the  IQu  NOR  gate,  and  the  CD4528  retriggerable  one- 
+shot.  As  long  as  no  l-to-0  transitions  occur  at  the  timer 
+input,  its  output  remains  in  a  stable  zero  state.  When  a 
+l-to-0  transition  does  occur  (corresponding  to  a  trip  ini- 
+tiation), the  555  timer  output  becomes  unstable  (1)  for 
+100  ms,  the  GFR  intentional  delay  time.  The  IC^  NOR 
+gate  isolates  the  timer  output  from  the  CD4528  one-shot 
+input. 
+
+The  relay  firing  circuitry  includes  the  IC5A  NOR  gate, 
+the  2N1595  thyristor,  Qu  the  electromechanical  relay  K1} 
+and  associated  components.  The  relay  tripping  signal,  a 
+high  NOR  output,  is  developed  only  if  the  outputs  of  both 
+CD4528  one-shots  are  zero.  This  occurs  only  if  the  relay 
+delay  time  has  expired  and  the  trip  signal  exceeds  the  trip 
+level  setting.  The  remainder  of  the  firing  circuit  is  similar 
+to  the  analog  version,  as  are  the  power  supply  and  test 
+circuit.  The  digital  version  also  has  open-CT  and  loss-of- 
+control-power  safety  features. 
+
+Four  analog  and  four  digital  prototypes  were  con- 
+structed under  phase  1  of  Bureau  contract  J0134025  (19). 
+Their  ability  to  detect  low-level  faults  was  confirmed  in  the 
+
+
+laboratory.  What  remained  to  be  demonstrated  was  satis- 
+factory operation  in  an  underground  mining  environment. 
+
+FIELD  AND  LABORATORY  EVALUATIONS 
+
+To  ensure  an  unbiased  evaluation,  the  Bureau  assumed 
+the  responsibility  of  testing  the  units  at  a  cooperative 
+commercial  mine.  This  demonstration  would  have  a  two- 
+fold purpose: 
+
+1.  To  expose  the  prototype  GFR's  to  the  transients 
+and  anomalies  associated  with  a  mine  power  system  to 
+gauge  circuit  durability. 
+
+2.  To  measure  the  number  of  tripping  events  and  de- 
+termine if  false  or  nuisance  tripping  is  of  concern  when 
+GFR's  are  actually  providing  ground-fault  protection. 
+
+Bruceton  Mine 
+
+Initially,  the  economically  depressed  coal  industry 
+was  unresponsive  to  published  solicitations  for  coopera- 
+tors.   Consequently,  the  devices  were  first  installed  at  the 
+
+
+12 
+
+
+Bureau's  Bruceton  Mine  near  Pittsburgh,  PA,  to  establish 
+some  performance  history. 
+
+Bruceton  Mine  Power  System 
+
+Electrical  power  at  a  potential  of  7,200  V  is  delivered  to 
+the  mine  substation  on  the  surface,  as  shown  in  fig- 
+ure 22.  The  three-phase,  480-V  utilization  voltage  for  the 
+mine  is  derived  via  a  delta-wye  configuration.  Ground- 
+fault  currents  are  limited  to  15  A  by  an  18.5-0  resistor 
+connected  between  the  secondary  neutral  point  and  the 
+earth  grounding  bed.  From  the  substation,  power  feeds 
+into  the  surface  control  building  (building  07)  where  it 
+divides  to  supply  both  the  Experimental  Mine  and  the 
+Safety  Research  Coal  Mine  (SRCM).  Overcurrent,  short- 
+circuit,  undervoltage,  and  grounded-phase  protection  are 
+provided  at  the  beginning  of  these  branch  circuits,  located 
+within  a  wall  panel  in  building  07.  The  sole  ground-fault 
+protective  device  (GFR  2)  for  the  Experimental  Mine  is  in 
+this  panel.  From  building  07,  power  for  the  SRCM  is 
+transmitted  underground  through  a  borehole.  A  480-V, 
+three-phase  service  disconnect  is  situated  underground  at 
+the  bottom  of  this  borehole.  From  this  disconnect,  power 
+is  fed  into  A-Butt,  where  three-phase  auxiliary  and  single- 
+phase  lighting  power  is  tapped  (fig.  23).  The  auxiliary 
+circuits,  infrequently  used  to  maneuver  equipment  in  and 
+out  of  the  mine,  are  equipped  with  grounded-phase  pro- 
+tection (GFR's  7  and  8).  In  12-Room,  the  480-V  power 
+connects  to  a  load  center  (fig.  24)  for  the  portable  mining 
+equipment.  Grounded-phase  protection  is  incorporated  on 
+each  of  the  four  outgoing  circuits. 
+
+In  summary,  as  shown  in  figure  22,  ground-fault 
+protection  is  provided  at  eight  locations  within  the 
+Bruceton  Mine  power  system.     Toroidal  transformers 
+
+
+7,200/480  V 
+
+
+r~ 
+
+
+_Buildlna  _07 
+
+
+Surface 
+substation 
+
+
+©)        (D) 
+
+
+Safety  Research  Coal  Mine 
+
+-Load  center 
+3-phase,  480-V 
+
+
+12-Room 
+
+
+A-Butt 
+
+
+!®;)@WW) ! 
+
+[-1-1-1 — I_J 
+
+
+-L 
+
+
+I 
+
+Roof 
+Loader  bolter 
+
+
+Cutter 
+
+
+Auxiliary 
+3-phase  power 
+
+
+Experimental 
+Mine 
+
+
+Auxiliary 
+fan 
+
+
+encircling  the  power  conductors  are  connected  to  small 
+socket-type  relays  with  sensitivities  of  6  A. 
+
+Ground-Fault  Relay  Installation 
+
+To  preclude  extensive  tripping  of  the  power,  it  was  in- 
+tended that  the  prototype  sensitive  GFR's  operate  event 
+counters  in  lieu  of  activating  the  circuit  breakers  each  time 
+leakage  current  exceeded  50  mA.  The  existing  ground- 
+fault  protection  and  grounding  resistor  remained  in  service. 
+Simply  connecting  the  unit's  control  power  to  the  mine 
+power  system  and  exposing  it  to  anomalies  and  transients 
+constitutes  one  test  of  mine  worthiness. 
+
+Eight  prototype  GFR's  were  available  for  the  demon- 
+stration. Since  their  durability  was  unknown  at  the  outset, 
+it  was  decided  to  utilize  only  six,  keeping  two  as  spares. 
+Consequently,  no  sensitive  GFR's  were  installed  on  the 
+rarely  utilized  auxiliary  circuits  in  A-Butt.  Two  analog  and 
+two  digital  versions  were  installed  underground  in  the  load 
+center;  two  digital  units  were  placed  in  building  07. 
+
+
+Figure  23.-Power  feedthrough  in  A-Butt,  Bruceton  Mine. 
+
+
+Figure  22. -Bruceton  Mine  power  system.    Circled  numbers 
+indicate  GFR's. 
+
+
+Figure  24.-Load  center  in  12-Room,  Bruceton  Mine. 
+
+
+13 
+
+
+All  prototype  GFR's  installed  underground  were  ad- 
+justed for  a  definite  time  delay  of  100  ms,  the  recom- 
+mended setting  for  shock  protection.  To  incorporate 
+a  degree  of  coordination,  the  upstream  devices  in  build- 
+ing 07  were  fixed  with  a  delay  of  250  ms. 
+
+As  shown  in  figure  25,  the  CT's  of  the  sensitive  GFR's 
+were  installed  around  the  three  480-V  phase  conductors. 
+The  single-phase  control  power  for  the  electronic  relays 
+was  obtained  using  480/120-V  control  transformers.  The 
+electromechanical  counters  were  rated  at  120  V  and  6  W. 
+
+Upon  installation,  the  test  circuit  of  each  GFR  was  ex- 
+ercised to  verify  operation.  At  each  location  (building  07 
+or  the  12-Room  load  center)  all  relays  tripped  when  the 
+test  button  of  any  one  was  activated.  The  following  were 
+investigated  as  possible  sources  of  this  false  tripping: 
+
+•  Physical  orientation  of  the  relays  (because  of  space 
+limitations  the  units  were  installed  on  their  sides  in  the 
+load  center), 
+
+•  Induced  currents  in  parallel  CT  secondary  leads, 
+
+•  Low  control  voltage, 
+
+•  Voltage  transient  from  the  counter  activation. 
+
+The  GFR's  were  tested  in  the  laboratory  with  the  relays 
+upright,  on  their  sides,  upside  down,  etc.;  the  sensitivity 
+and  time  delay  were  unaffected.  Next,  two  GFR's  were 
+energized  with  their  CT  secondary  leads  at  various  dis- 
+tances and  orientations  with  respect  to  each  other.  No 
+differences  in  performance  were  detected.  Voltage  mea- 
+surements of  the  control  transformer  underground  showed 
+it  remained  constant  at  120  V  when  the  test  buttons  were 
+pushed.  Further  tests  in  the  laboratory  revealed  that  the 
+relays  would  not  trip  until  the  control  voltage  dropped 
+to  65  V.  Finally,  the  counters  were  disconnected,  and 
+the  relays  operated  properly  without  interfering  with 
+each  other.  These  counters  consist  of  an  electromagnetic 
+coil  that,  upon  loss  of  signal,  counts  by  disengaging  a 
+ratchet  wheel.  The  switching  of  this  inductive  load  created 
+a  voltage  transient  that  activated  the  other  units. 
+
+
+Several  methods  of  transient  suppression  were  tried  in 
+the  laboratory  without  success.  Metal-oxide  varistors 
+(MOV's)  were  connected  across  the  input  of  the  relay 
+electronics;  capacitors  were  placed  across,  and  ferrite-core 
+inductors  in  series  with,  the  relay  power  supply.  Only  the 
+placement  of  0.33-^F  capacitors  across  the  counter  coil 
+solved  the  problem. 
+
+It  was  felt  that  GFR  transient  immunity  was  not  com- 
+promised by  the  tripping  associated  with  the  electro- 
+magnetic counters.  The  voltage  transient  created  by  the 
+inductive  coil  switching  was  severe,  but  extremely  localized 
+in  the  power  system.  The  switching  of  large  motor  loads 
+should  not  give  rise  to  similar  problems  because  of  the 
+damping  effect  of  the  intervening  cable  impedance. 
+
+Ground  Fault  Relay  Performance 
+
+The  relays  were  then  connected  to  the  mine  power  sys- 
+tem, with  mine  personnel  periodically  inspecting  the  units 
+and  resetting  those  that  tripped.  Table  1  lists  the  GFR 
+performance  at  the  end  of  30  days. 
+
+Table  1. -Counter  readings  of  GFR  performance 
+
+
+Relay  location1 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+After  30  days 
+
+3 
+1 
+
+9 
+3 
+
+5 
+3 
+
+1 
+0 
+
+2 
+1 
+
+n 
+
+After  additional  2  weeks  .  .  . 
+
+0 
+
+'See  figure  22. 
+
+480-V, 
+3-phase 
+
+Figure  25.-Sensltlve  GFR  Installation,  Bruceton  Mine. 
+
+
+At  this  time  all  units  were  removed  from  service  and 
+examined  in  the  laboratory.  Both  digital  units  installed  in 
+building  07  were  malfunctioning.  GFR  1,  protecting  the 
+SRCM,  could  not  be  reset  and  remained  in  a  trip  mode. 
+The  GFR  for  the  Experimental  Mine  would  not  trip  when 
+tested.  After  troubleshooting,  the  following  components 
+(fig.  21)  were  found  defective  and  repaired: 
+
+GFR  1:   Digital  IC5,  CD4001. 
+
+GFR  2:  Thyristor  Q^  2N1595;  reset  switch  S,;  in  addi- 
+tion, the  main   power  transformer  Tj  was  resoldered. 
+
+Before  the  evaluation  was  continued  underground,  the 
+prototypes  were  thermally  stressed  at  120°  F  while  ener- 
+gized in  an  environmental  chamber  for  1  week.  No  addi- 
+tional malfunctions  were  uncovered.  The  units  were  then 
+reinstalled  at  their  original  locations  on  the  mine  power 
+system  and  monitored  for  2  weeks  by  mine  personnel.  The 
+largest  motor  fed  from  the  load  center,  the  60-hp,  480-V 
+pump  motor  for  the  cutting  machine,  was  started  repeat- 
+edly to  determine  if  the  resultant  current  inrush  would 
+affect  GFR  3.  No  false  trips  were  observed.  The  ab- 
+sence of  tripping  when  the  pump  motor  was  started  is 
+encouraging  from  the  standpoint  of  immunity  of  transient 
+common-mode  currents.  At  the  end  of  this  time,  digital 
+GFR  5  was  found  inoperative  because  of  defective  IC5, 
+CD4001.  In  addition,  it  was  observed  that  when  the  relay 
+electronics  cards  were  inserted  into  the  relay  enclosures, 
+they  did  not  always  contact  the  rear  terminals  without 
+being  jiggled. 
+
+
+14 
+
+
+The  prototype  ac  GFR's  were  installed  on  the  Bruceton 
+Mine  power  system  for  a  total  of  6  weeks.  During  this 
+period  they  were  exposed  to  anomalies  and  transients  as- 
+sociated with  the  system.  The  count  history  revealed  a 
+high  number  of  trips  for  the  GFR  protecting  the 
+Experimental  Mine  (GFR  2,  table  1).  It  may  be  specu- 
+lated that  the  relays  in  building  07  were  more  accessible 
+than  those  underground  and  were  reset  with  a  higher 
+frequency  by  mine  personnel.  Also,  it  may  be  speculated 
+that  the  malfunctions  of  the  digital  relays  in  building  07 
+were  the  result  of  a  design  flaw  or  their  greater  exposure 
+to  upstream  power  system  transients,  especially  lightning. 
+Additional  studies  were  necessary  to  pinpoint  the  causes  of 
+these  malfunctions. 
+
+Ground  Fault  Relay  Modifications 
+
+The  6-week  evaluation  at  the  Bruceton  Mine  pointed 
+out  several  deficiencies  in  the  test  setup  and  the  GFR 
+design,  which  were  addressed  in  followup  laboratory  work. 
+First,  the  use  of  120-V  electromechanical  counters  to 
+monitor  relay  activation  was  judged  to  be  of  limited  utility, 
+since  mine  personnel  were  relied  upon  to  check  the  units 
+visually.  An  unattended  GFR  may  count  one  trip  when  in 
+reality  it  could  have  tripped  many  times  with  prompt  reset. 
+Consequently,  electronic  totalizers  were  procured  as 
+replacements  for  the  electromechanical  counters.  Char- 
+acterized by  high  input  impedance,  the  totalizers  featured 
+an  internal  battery  power  supply  and  were  sensitive  to  6-V 
+pulses.  These  monitoring  devices  were  connected  to  the 
+GFR's  internal  circuitry  via  amplifier  circuits  shown  in 
+figure  26.  The  totalizers  monitor  the  presence  of  tripping 
+signals,  internal  to  the  GFR,  that  are  present  any  time 
+leakage  currents  through  the  CT  exceed  50  mA  for  the 
+prescribed  time  delay.  Since  the  internal  tripping  signals 
+are  unaffected  by  relay  status,  trip  events  can  be  monitored 
+without  reliance  on  mine  personnel. 
+
+As  shown  in  figure  21,  outputs  3  and  11  of  NOR 
+gate  ICjg  were  grounded.  However,  through  inversion 
+these  outputs  became  high  and  should  be  floated.  Cor- 
+rection of  this  error  eliminated  the  overheating  of 
+ICjb  (CD4001)  in  the  digital  GFR  models. 
+
+In  addition  to  these  basic  changes,  further  modifications 
+were  recommended.  Troubleshooting  in  the  laboratory 
+was  hampered  by  the  lack  of  readily  identifiable  test  points 
+on  the  printed  circuit  board.  Key  circuit  locations  could  be 
+made  more  accessible  by  the  installation  of  color-coded 
+test  points  on  the  side  of  the  board.  Also,  to  permit 
+measurements  while  the  GFR  is  in  service,  extender 
+boards  could  be  fabricated. 
+
+Extracting  the  printed  circuit  board  from  the  metallic 
+enclosure  opens  the  CT  secondary.   During  service,  high 
+
+
+2N2222 
+
+To 
+
+k,Q<L      counter 
+
+
+KEY 
+[3]  [JJ  Test  points  on  ac  GFR 
+
+[JJ  Emitter  of  UJT  Q, 
+
+U  Output  of  QA5(IC2  )  (PIN  7) 
+
+Figure  26.-Totalizer  amplifier  circuits  for  digital  (A)  and  analog 
+(S)  GFR's. 
+
+voltages  could  be  present  across  these  terminals,  endan- 
+gering personnel  in  close  proximity.  Consequently,  a 
+means  should  be  devised  to  ensure  that  the  CT  secondary 
+is  shorted  if  the  circuit  board  is  removed.  This  could  take 
+the  form  of  a  shorting  connector  or  a  high-ohmic-value 
+resistor  in  combination  with  back-to-back  Zener  diodes  to 
+limit  high  voltages. 
+
+To  ease  CT  installation,  metal  mounting  brackets  and 
+screw  terminals  should  be  added  to  the  CT  housing.  Also, 
+a  connector  should  be  installed  on  the  relay  enclosure  to 
+facilitate  connection  of  the  CT  and  the  120-V  control 
+power. 
+
+Many  modifications  can  be  implemented  to  improve 
+ruggedness  and  reliability.  The  CT  assembly  can  be  pot- 
+ted. To  improve  connector  contact,  the  circuit  board  can 
+be  double  sided  with  plated  through-holes.  In  lieu  of 
+commercial-grade  components,  parts  built  to  military 
+specifications  can  be  employed. 
+
+Many  of  these  changes  were  incorporated  subsequently 
+in  GFR's  built  for  the  Bureau  by  a  small  electronics  firm. 
+These  prototypes  were  then  used  in  field  evaluations  at 
+commercial  sites. 
+
+
+15 
+
+
+Commercial  Tests 
+
+Through  announcements  in  trade  magazines  and  the 
+Bureau's  "Technology  News,"  the  mining  community  was 
+made  aware  of  the  potential  safety  benefits  of  sensitive 
+ground-fault  protection.  Several  companies  inquired  about 
+the  availability  of  prototypes  for  field  evaluations. 
+
+Three  GFR's  were  forwarded  to  a  western  haulage- 
+equipment  manufacturer  for  testing  on  two  types  of  new 
+electrical  scooptrams  used  in  hard-rock  mines.  One 
+vehicle,  intended  for  use  in  small-diameter  haulageways, 
+had  a  tramming  capacity  of  1,500  lb  with  a  0.5-yd3  bucket. 
+Electrically  powered  at  380  V,  three-phase,  50-Hz,  via  a 
+250-ft,  No.  6  AWG  trailing  cable,  it  featured  a  30-hp 
+motor  onboard.  Existing  ground-fault  protection  was  set 
+at  4  A  with  no  fault-limiting  resistance.  With  the  sensitive 
+GFR  trip  set  at  60  mA,  the  vehicle  was  operated  through 
+load-haul-dump  cycles  under  start,  run,  and  stall  conditions 
+for  over  8  h  without  any  GFR  trips. 
+
+Next,  a  prototype  GFR  was  evaluated  with  a  large 
+scooptram  of  27,000-lb  tramming  capacity  and  8-yd3  bucket 
+capacity.  Electrically  powered  at  600  V,  three-phase, 
+60-Hz,  it  featured  a  200-hp  motor  onboard.  Nuisance-free 
+GFR  operation  was  experienced  with  a  trip  setting  of 
+100  mA.  When  adjusted  to  lower  settings,  the  GFR  would 
+activate  upon  motor  startup. 
+
+These  tests,  the  first  commercial  evaluations  of  the 
+prototype  GFR's,  proved  their  viability  for  50-Hz  power. 
+
+
+It  is  believed  that  further  reductions  in  the  trip  setting 
+would  have  been  possible  if  a  grounding  resistor  of 
+suitable  ohmic  value  had  been  utilized  at  the  source 
+transformer.  Nevertheless,  the  manufacturer  was  quite 
+pleased  with  the  results  and  noted  that  a  high  degree  of 
+safety  was  obtained  with  protection  set  at  100  mA.  This 
+manufacturer  is  now  considering  equipping  all  new  vehicles 
+with  sensitive  GFR's. 
+
+Through  assistance  from  the  Mine  Safety  and  Health 
+Administration,  arrangements  were  made  with  a  mine 
+operator  to  evaluate  the  sensitive  GFR  in  an  underground 
+coal  mine  in  southern  Ohio.  The  prototype  was  installed 
+within  a  1,040-V  ac  load  center  and  protected  a  750-ft, 
+1/0  AWG,  SHD-GC  cable  powering  a  continuous  miner. 
+When  the  power  was  energized,  the  relay  immediately  acti- 
+vated, indicating  a  ground  fault  was  present.  Trouble- 
+shooting by  the  mine  electrician  revealed  that  the  high- 
+frequency  signal  of  the  local  ground-check  monitor, 
+superimposed  on  the  power  conductors,  was  induced  into 
+the  relay  through  the  GFR  toroidal  CT.  Repositioning  the 
+monitor's  tone  filter  eliminated  this  problem.  However, 
+the  sensitive  GFR  continued  to  activate  whenever  the 
+circuit  breaker  was  closed.  This  was  attributed  to  the 
+significant  charging  current  of  the  shielded  cable  and  was 
+eliminated  when  the  GFR  trip  setting  was  increased  to 
+75  mA. 
+
+
+DIRECT  CURRENT  UTILIZATION 
+
+
+The  second  phase  of  the  Bureau's  sensitive  ground-fault 
+research  program  focused  on  protection  of  dc  power 
+systems  feeding  offtrack  vehicles.  For  the  past  25  years 
+the  use  of  dc  for  powering  underground  mining  equipment 
+has  continually  declined,  with  a  concomitant  rise  in  the 
+consumption  of  ac.  This  trend  is  logical  as  ac  can  be 
+transmitted  and  distributed  more  efficiently  and  ac  motors 
+require  much  less  maintenance.  At  first  glance,  it  may 
+seem  that  dc  systems  in  the  mining  industry  are  destined 
+for  obsolescence.  However,  for  certain  mining  applications 
+such  as  traction  where  high  starting  torques  are  needed, 
+the  series-wound  dc  motor  is  more  suitable.  Thus,  dc  will 
+continue  to  play  a  role  in  powering  mining  machinery, 
+especially  in  the  form  of  onboard  rectification.  Workers 
+will  continue  to  operate  and  repair  dc  machines,  and  the 
+dc  shock  hazards  associated  with  these  jobs  will  continue 
+to  exist. 
+
+Previous  Bureau-sponsored  research  (9)  showed  that  of 
+all  possible  ground-fault  protection  schemes,  a  differential- 
+current    arrangement   using   a   saturable   transformer 
+appeared  to  provide  the  greatest  measure  of  safety  because 
+of  its  fail-safe  operation  and  selectivity  in  protecting 
+
+
+individual  circuits.  As  shown  in  figure  27,  a  toroidal  trans- 
+former serves  as  the  ground-fault  current  sensor  and 
+encircles  both  the  positive  and  negative  outgoing  con- 
+ductors of  the  dc  circuit.  The  primary  winding  of  the 
+sensor  is  excited  by  an  ac  signal,  while  the  secondary  is 
+connected  to  the  GFR. 
+
+
+Saturable 
+transformer 
+
+
+To 
+
+
+rectifier  _^_ 
+
+
+To  grounding 
+resistor 
+
+
+To  ac 
+primary  excitation 
+
+
+■*■  Positive 
+—  Negative 
+-*■  Ground 
+
+
+To 
+machine 
+
+
+Figure    27.-Differential    current    relaying    using    saturable 
+transformer. 
+
+
+16 
+
+
+Under  unfaulted  conditions,  ac  is  induced  in  the 
+secondary  winding,  causing  the  relay  to  operate  in  the 
+normal  mode.  The  circuit  current  through  the  positive 
+conductor  equals  that  through  the  negative  conductor,  and 
+the  magnetic  fields  about  both  conductors  tend  to  cancel 
+each  other.  When  a  ground  fault  occurs,  the  currents  in 
+the  positive  and  negative  conductors  become  unequal.  The 
+resultant  magnetic  field  alters  the  transformer  action  of  the 
+sensor  and  reduces  the  voltage  across  the  transformer- 
+secondary  winding,  causing  the  relay  to  initiate  a  tripping 
+action.  These  two  components,  the  saturable  transformer 
+and  the  solid-state  relay,  comprise  the  sensitive  dc  ground- 
+fault  protection. 
+
+PROTOTYPE  DESIGN  AND  CONSTRUCTION 
+
+
+Primary  excitation  frequency  was  plotted  against  the 
+drop  in  output  voltage  during  a  ground  fault.  From  fig- 
+ure 30,  it  can  be  seen  that  a  relatively  low  frequency  is 
+desirable.  A  nominal  value  of  110  Hz  was  chosen  to  avoid 
+interference  with  60-  and  180-Hz  induced  voltages. 
+
+The  completed  design  is  shown  in  figure  31.  The  sen- 
+sor's magnetic  properties  are  mechanically  protected  by  a 
+metal  and  phenolic  housing. 
+
+Electronic  Relay 
+
+Analysis  of  the  electronic  relay  shows  that  it  consists  of 
+a  series  of  building  blocks  (fig.  32).  The  110-Hz  oscillator 
+powers  the  primary  of  the  saturable  transformer  sensor. 
+
+
+Current  Sensor 
+
+The  sensor  was  designed  (20)  using  theoretical  predic- 
+tions of  performance  along  with  experimental  observations. 
+The  parameters  to  be  quantified  are  shown  in  figure  28. 
+They  include  Rs,  the  series  resistance;  Np  and  Ns,  the 
+primary  and  secondary  turns;  the  core  material  and 
+dimensions.  A  0.5-in,  tape-wound  core  was  constructed  of 
+a  high-permeability,  low-loss  nickel-iron  alloy.  To  ac- 
+commodate two  power  conductors,  the  core  was  sized  at 
+2.5  in;  its  overall  outside  diameter  was  3.5  in.  After 
+winding,  the  core  was  annealed  to  remove  strain  and 
+impurities  from  the  tape. 
+
+Dc  was  then  applied  through  the  window  while  the  ac 
+secondary  voltage  was  measured,  with  the  objective  to 
+maximize  the  drop  in  ac  output  for  dc  fault  currents  in  the 
+milliampere  range.  By  varying  the  number  of  primary  and 
+secondary  turns,  the  series  resistance,  and  the  exciting 
+voltage,  plots  of  the  ac  output  versus  the  dc  fault  current 
+were  derived,  as  shown  in  figure  29.  Satisfactory  per- 
+formance was  obtained  with  a  series  resistance  of  470  ft 
+and  25  turns  on  the  primary  and  secondary. 
+
+
+Relay 
+input 
+
+impedance 
+
+
+200  300 
+
+FAULT  CURRENT,  mA 
+
+
+500 
+
+
+Figure  29.-Saturable  transformer  output  voltage  versus  dc 
+fault  current 
+
+
+dc  load 
+
+
+0.001       001  0.1  1.0  10.0       100.0 
+
+FREQUENCY,   kHz 
+
+
+Figure  28. -Saturable  transformer  current  sensor. 
+
+
+Figure  30.-Drop  in  sensor  output  versus  frequency. 
+
+
+17 
+
+
+Si 
+
+
+F 
+
+
+Figure  31  .-Saturable  transformer  prototype. 
+
+
+|ov 
+
+
++  I2V 
+
+
+Adjustable 
+time  delay 
+
+
+IIO-Hz 
+oscillator 
+
+
+Trip  level 
+filter  output 
+
+
+Comparator 
+output 
+
+
+Trip  signal 
+sensor  output 
+
+
+Delay  timer 
+output 
+
+
+Oscillator 
+
+
+1       Current 
+"1       sensor 
+
+I 
+
+
+Band- pass 
+filter 
+
+
+Comparator 
+
+
+Trip  signal 
+sensor 
+
+— *■ 
+
+Relay  delay 
+timer 
+
+— ». 
+
+Relay  trip 
+network 
+
+Mechanical 
+relay 
+
+i 
+
+i 
+
+\ 
+
+' 
+
+t 
+
+Reset  check 
+network 
+
+Power 
+supply 
+
+Figure  32.-Dc  relay  block  diagram. 
+
+
+Figure  33  displays  timing  diagrams  from  the  circuitry 
+shown  schematically  in  figure  34.  During  the  imposition 
+of  a  ground  fault,  the  magnitude  of  the  primary  input 
+signal  remains  constant.  The  sensor  output,  essentially 
+identical  to  the  input,  feeds  a  second-order  band-pass  filter 
+designed  with  a  3-dB  bandwidth  of  10  Hz  and  a  midband 
+voltage  gain  of  5.  When  a  ground  fault  greater  than  or 
+equal  to  150  mA  dc  flows  through  the  sensor  window,  the 
+
+
+0 
+
+
+Trip  signal 
+generator 
+
+
+Figure  33.-Dc  relay  timing  diagram. 
+
+
+sensor  core  saturates  and  the  fdter  output  drops  to  55  pet 
+of  its  original  value.  The  peak  ac  output  of  the  band-pass 
+fdter  is  compared  with  a  positive  reference  voltage  at 
+the  input  of  a  comparator.  Adjustment  of  this  reference 
+voltage  sets  the  current  pickup  or  trip  level,  recommended 
+at  150  mA  dc. 
+
+During  a  fault  the  comparator  no  longer  sends  periodic 
+pulses  to  a  retriggerable  one-shot  acting  as  a  trip  signal 
+sensor.  Accordingly,  the  output  of  this  one-shot  switches 
+from  1  to  0,  its  stable  state.  This  transition  triggers  an 
+adjustable  timer,  which  in  turn  activates  the  relay  trip 
+network  via  the  gating  of  a  silicon-controlled  rectifier 
+(SCR),  if  the  fault  duration  is  100  ms  or  longer.  The  firing 
+of  this  thyristor  diverts  current  from  the  coil  of  an 
+electromechanical  relay.  This  deactivated  relay  in  turn 
+operates  the  trip  mechanism  of  the  circuit  breaker.  As 
+with  the  ac  sensitive  GFR's,  the  dc  prototype  features  a 
+reset  switch  and  a  test  circuit.  In  addition,  the  GFR  acts 
+to  remove  power  upon  loss  of  signal  from  the  sensor  or 
+upon  loss  of  the  120-V  ac  control  power. 
+
+
+18 
+
+
+r-- 
+
+
+cr.<t 
+o  z 
+
+
+5      ,-KHi' 
+
+
+cj 
+
+
+*—  otr> 
+
+
+rose 
+
+
+"^-0|— HMrl |l«- 
+
+
+DO  !2g 
+CJ*  jjjznfi 
+m  —  — 
+
+
+I 
+
+a 
+
+>• 
+a 
+
+
+u 
+
+•o 
+
+"5 
+
+E 
+a 
+
+o> 
+
+B 
+
+■o 
+o 
+
+a 
+
+E 
+
+£ 
+
+i 
+
+
+il 
+
+
+"\A^-{gpH 
+
+
+19 
+
+
+The  components  of  the  prototype  are  mounted  on  an 
+interchangeable  board  within  a  metallic  housing  as  shown 
+in  figure  35.  This  compact  design  measures  8-3/4  in  high 
+by  5-1/2  in  deep  by  2  in  wide. 
+
+LABORATORY  EVALUATION 
+
+The  sensitive  dc  GFR  prototypes  were  evaluated  for 
+immunity  against  voltage   and  current  transients  in  a 
+
+
+manner  similar  to  that  used  for  the  ac  prototypes.  In  all 
+tests,  the  relays  did  not  falsely  activate  nor  did  they 
+become  damaged  by  the  simulated  power  system  surges. 
+The  dc  GFR's  are  available  for  installation  in  an 
+underground  mine  having  dc  face  equipment  fed  from  a 
+three-phase  full-wave  rectifier. 
+
+
+ALTERNATING  CURRENT  DISTRIBUTION 
+
+
+The  final  phase  of  the  Bureau's  ground-fault  research 
+program  focused  on  the  ac  distribution  portion  of  coal 
+mine  power  systems.  These  high-voltage  circuits  feature 
+a  series  of  switchhouses,  each  with  inherent  ground-fault 
+protection,  distributed  along  the  way  from  the  surface  to 
+the  section  load  centers.  The  operation  of  the  electro- 
+mechanical GFR's,  installed  in  these  switchhouses,  is 
+coordinated  by  large,  intentional  time  delays  to  ensure  that 
+
+
+faults  are  cleared  without  interrupting  power  to  sound, 
+upstream  circuit  portions.  These  additive  delays  may  in 
+practice  average  2  s  per  relay.  As  a  result,  upstream  relays 
+respond  slowly  to  hazardous  ground  currents  and  workers 
+are  exposed  to  fire  and  burn  hazards.  In  response  to  these 
+problems,  the  Bureau  conducted  research  to  design  and 
+construct  a  coordination-free  relaying  system  that  reacts  to 
+a  ground  fault  50  to  100  times  faster  than  present  pro- 
+tective systems. 
+
+To  understand  the  concept  of  coordination-free  re- 
+laying, a  series  of  switchhouses  must  be  visualized  installed 
+along  a  high-voltage  distribution  line  (fig.  36).  If  a  relay 
+in  an  upstream  switchhouse  detects  a  ground  fault  and  a 
+downstream  relay  does  not,  the  fault  must  be  in  the  zone 
+joining  them.  Consequently  the  upstream  relay  will  acti- 
+vate the  local  circuit  breaker.  If  both  upstream  and  down- 
+stream relays  detect  faults,  the  fault  must  be  downstream 
+from  the  zone  and  neither  relay  will  activate. 
+
+BACKGROUND  RESEARCH 
+
+Initial  research  centered  on  determining  the  highest 
+practical  ohmic  values  for  high-voltage  grounding  resistors. 
+These  components,  connected  between  the  transformer- 
+secondary  neutral  point  and  the  earth  grounding  medium, 
+restrict  ground-fault  current  magnitude.  To  provide  pro- 
+tection against  electrocutions,  this  limitation  should  be  in 
+the  milliampere  range. 
+
+Underground  high-voltage  cable  is  required  to  have 
+metallic  shielding  around  each  power  conductor.  Con- 
+sequently,   this    cable    exhibits    significant    distributed 
+
+
+Figure  35. -Dc  relay  prototype. 
+
+
+SH  I  SH  2  SH  3 
+
+Figure  36.-Typical  high-voltage  distribution  circuit 
+
+
+20 
+
+
+capacitance  not  only  among  power  conductors,  but  also 
+between  power  and  ground  conductors.  In  addition,  the 
+use  of  discrete  capacitors  for  surge  and  power-factor 
+correction  adds  to  the  circuit  capacitance.  Thus,  dis- 
+tribution circuits  feature  charging  currents  of  up  to  10  A. 
+Through  a  computer-assisted  transient  evaluation  of  mine 
+distribution  circuits,  it  was  concluded  that  instability  results 
+if  ground  faults  are  limited  below  capacitive  charging 
+currents.  Thus,  it  was  recommended  that  present  ground- 
+fault-limiting  levels  of  25  A  continue  to  be  utilized, 
+precluding  complete  personnel  shock  protection. 
+
+With  coordination-free  relaying,  detected-fault  status  is 
+continuously  transmitted  from  the  downstream  to  the  up- 
+stream relay.  Utilizing  dependable  blocking  logic,  the 
+signal  from  the  downstream  relay  acts  to  prevent  tripping. 
+The  most  practical  communication  link  available  appears 
+to  be  the  ground-check  conductors  already  present  in 
+almost  all  high-voltage  cables  used  with  pilot  ground-check 
+monitors  (GCM's). 
+
+Ground-check  monitoring  systems  for  high-voltage  dis- 
+tribution usually  monitor  the  integrity  of  the  grounding 
+conductor  connected  between  switchhouses  (fig.  37). 
+Separate,  independent  GCM  units  are  installed  in  each 
+switchhouse.  GCM's  commonly  circulate  low-voltage 
+60-Hz  signals  through  the  pilot-ground  circuit.  Con- 
+sequently, a  transmission  frequency  of  1,000  Hz  was 
+chosen  for  the  coordination-free  ground-fault  relay 
+(CF-GFR)  blocking  signal.  Active  electronic  filters  were 
+used  to  couple  and  decouple  the  superposed  signals. 
+
+Two  intentional  delays  were  proposed  for  the  ex- 
+perimental relays:  50  ms  for  primary  and  relay-racing 
+protection  and  150  ms  for  backup  protection.  Primary 
+protection  must  include  time  for  fault  signal  detection  and 
+a  safety  factor.  Relay  racing  occurs  if  a  blocking  signal  is 
+not  received  in  time  to  prevent  false  tripping  upstream. 
+The  backup  delay  is  desirable  should  the  downstream 
+breaker  fail  to  open  during  a  ground  fault. 
+
+It  was  recommended  that  backup  be  graded  in  150-ms 
+increments,  with  the  most  downstream  breaker  in  a  series 
+
+
+path  having  a  50-ms  delay  as  primary  protection  and  no 
+backup  relay.  The  next  outby  breaker  would  have  a  50-ms 
+delay  for  primary  protection  and  a  total  delay  of  200  ms  in 
+backup.  The  next  relay  would  exhibit  delays  of  50  and 
+350  ms,  respectively. 
+
+PROTOTYPE  DESIGN  AND  CONSTRUCTION 
+
+Once  design  criteria  were  established,  a  CF-GFR  was 
+designed  and  three  prototypes  were  constructed.  Block 
+diagrams  for  the  overall  system  and  each  relay  are  shown 
+in  figures  38  and  39,  respectively  (27).  The  CF-GFR 
+design  has  been  fully  documented  through  schematics,  wir- 
+ing diagrams,  and  component  listings  (22). 
+
+The  blocking  signal,  tuned  to  1,000  Hz,  is  coupled  to 
+the  pilot  and  ground  wires  through  a  switch  controlled  by 
+a  logic  device.  When  a  ground  fault  is  sensed  locally,  the 
+coupling  is  accomplished.  The  purpose  of  the  attenuator 
+is  to  avoid  a  very  low  impedance  path  between  the  pilot 
+and  ground  wires.  Such  a  path  would  severely  reduce  the 
+blocking  signal  amplitude  and  prevent  its  propagation  to 
+the  upstream  switchhouse  and  relay. 
+
+The  upstream  detector  circuit  checks  for  proper  ampli- 
+tude and  frequency  in  the  incoming  downstream  blocking 
+signal.  The  60-Hz  GCM  signal  is  attenuated  by  the  band- 
+pass filter.  When  the  blocking  signal  is  detected,  a  block- 
+ing logic  signal  is  sent  to  the  trip  element  actuator  to  in- 
+hibit primary  protection  tripping. 
+
+Local  zero-sequence  ground  faults  are  sensed  by  the 
+toroidal  CT.  When  this  ground  current  is  greater  than  the 
+pickup  level  of  5  A,  a  trip  signal  is  sent  to  the  trip  element 
+actuator  after  the  appropriate  delay  interval.  However, 
+primary  protection  is  inhibited  if  a  blocking  signal  has 
+been  detected  from  the  downstream  relay.  Backup  delay 
+time  is  then  sensed.  The  trip  element  is  then  actuated  at 
+the  end  of  the  backup  delay  interval  if  the  locally  sensed 
+ground  fault  is  still  greater  than  the  pickup  setting. 
+
+Additionally,  if  the  local  fault-sensing  CT  becomes 
+open,  then,  irrespective  of  any  other  signals,  a  trip  is 
+
+
+Pilot 
+
+conductor 
+
+
+2 
+
+
+Grounding 
+conductor 
+
+
+GCM 
+
+
+J? 
+
+
+Pilot  conductor 
+
+
+Grounding  conductor 
+
+
+GCM 
+
+
+J) 
+
+
+—  Pilot 
+conductor 
+
+
+t 
+
+
+Grounding 
+conductor 
+
+
+SH  1 
+
+
+SH  2 
+
+
+Power  flow  O 
+
+Figure  37,-Simplified  diagram  of  ground-check  monitoring  system  used  in  mine  distribution  systems. 
+
+
+GFR  signal 
+generator 
+
+
+Switch 
+
+
+Pilot 
+wire 
+
+
+Ground  wire 
+
+
+I,     , 
+
+
+Primary  delay 
+circuit 
+
+
+Blocking 
+logic 
+
+
+Trip  element 
+actuator 
+
+
+Backup  delay 
+circuit 
+
+
+a 
+
+
+Circuit  breaker 
+
+
+Attenuator 
+
+
+Machine 
+frame 
+
+
+60-Hz  GCM 
+
+
+21 
+
+
+GFR 
+detector 
+
+
+Logic 
+device 
+
+
+Band-pass 
+filter 
+
+
+Local  fault 
+sense  circuit 
+
+
+X 
+
+
+Phase  conductor 
+
+
+GCM    relay 
+
+
+Pilot 
+wire 
+
+
+Ground  wire 
+
+
+Figure  38.-System  block  diagram. 
+
+
+Phase 
+
+conductor 
+
+
+Sense  and 
+amplify 
+
+
+Open-coil 
+detection 
+
+
+Filter 
+
+
+Backup  delay 
+
+generator 
+
+circuit 
+
+
+T 
+
+
+Logic  for 
+trip  signal 
+generation 
+
+
+Adjust 
+
+pickup  level 
+
+
+Comparator 
+
+
+Adjust  delay 
+
+
+Primary  delay 
+
+generation 
+
+circuit 
+
+
+Local  trip 
+
+signal 
+generator 
+
+
+Logic  for 
+trip  signal 
+generation 
+
+
+Trip 
+element 
+
+
+Downstream 
+inhibit  signal 
+
+
+Figure  39.-Block  diagram  of  relay  circuit 
+
+
+22 
+
+
+activated  instantaneously.  Also,  if  an  increase  in  imped- 
+ance of  the  pilot-  and  ground-wire  circuits  is  sensed  by  the 
+GCM,  an  instantaneous  trip  is  activated. 
+
+LABORATORY  EVALUATION 
+
+Laboratory  tests  with  a  12-V  commercial  GCM  and  the 
+CF-GFR  prototypes  verified  that  both  safety  devices  will 
+
+
+function  without  interfering  with  each  other.  The  operat- 
+ing range  of  the  GCM's,  whose  voltage  is  compatible 
+with  the  GFR  filters,  is  limited  to  4,000  ft  by  the 
+substantial  impedance  of  No.  8  AWG  pilot  conductors. 
+Nevertheless,  this  should  not  preclude  the  direct  appli- 
+cation of  CF  GFR's  on  most  underground  distribution 
+circuits. 
+
+
+CONCLUSIONS 
+
+
+Sensitive  and  coordination-free  ground-fault  protec- 
+tion has  been  designed  for  use  on  resistance-grounded 
+mine  power  systems.  To  facilitate  commercial  manu- 
+facture, the  designs  are  fully  documented  by  detailed 
+schematics,  assembly  drawings,  and  component  listings. 
+Prototype  units  have  been  tested  in  the  laboratory  and 
+are  available  for  installation  in  underground  mines. 
+Implementation  of  this  practical  protection  would  not 
+require   extensive   alterations   to   mine   power   systems. 
+
+
+Existing  GFR's  would  simply  be  replaced  with  solid-state 
+units. 
+
+The  sensitive  GFR's,  when  installed  on  ac  and  dc  mine 
+utilization  circuits,  can  prevent  nearly  all  the  poten- 
+tial electrocutions  on  these  low-voltage  power  systems. 
+CF  GFR's,  installed  on  ac  distribution  circuits  in  coal 
+mines,  can  reduce  the  incidence  of  fires  associated  with 
+high-voltage  power  systems  by  significantly  decreasing 
+response  time  to  faults. 
+
+
+REFERENCES 
+
+
+1.  Oyier,  A.  Electrical  Accidents  in  Mining  (1980-85).  Fatal  and 
+Nonfatal  Accidents  Underground  and  on  the  Surface  at  Underground 
+Coal  and  Metal-Nonmetal  Mines.    BuMines  IC  9259,  1990,  in  press. 
+
+2.  Dalziel,  C.  F.,  and  W.  R.  Lee.  Reevaluation  of  Lethal  Electric 
+Current.  IEEE  Trans,  and  Ind.  Gen.  Appl.,  v.  IGA-4,  No.  5,  1968, 
+p.  467. 
+
+3.  Lee,  R  L.  Electrical  Safety  in  Industrial  Plants.  IEEE  Trans. 
+Ind.  and  Gen.  Appl.,  v.  IGA-7,  No.  1,  1971,  p.  11. 
+
+4.  Geddes,  L.  A.,  and  L.  E.  Baker.  Response  to  Passage  of  Electric 
+Current  Through  the  Body.  J.  Assoc.  Adv.  Med.  J  -frum.,  v.  5,  No.  1, 
+1971,  p.  233. 
+
+5.  Knickerbocker,  G.  C.  Fibrillating  Parameters  of  Direct 
+and  Alternating  20  Hz  Currents  Separately  and  in  Combination-An 
+Experimental  Study.  IEEE  Trans.  Commun.,  v.  COM-21,  No.  9,  1973, 
+p.  1017. 
+
+6.  Bernstein,  T.  Safety  Criteria  for  Intended  or  Expected  Non- 
+Lethal  Electrical  Shock.  Proceedings  of  the  First  International  Sympo- 
+sium on  Electrical  Shock  Safety  Criteria,  Toronto,  Canada.  Pergamon 
+Press,  Inc.,  1985,  p.  283. 
+
+7.  Morley,  L.  A.  Mine  Power  Systems  (contract  J0155009,  PA  State 
+Univ.).  Volume  II.  BuMines  OFR  178(2)-82,  1982,  p.  79;  NTIS  PB  83- 
+120386. 
+
+8.  Wagner,  C.  F.  Symmetrical  Components.  McGraw-Hill,  1933, 
+437  pp. 
+
+9.  Morley,  L.  A.,  F.  C.  Trutt,  and  D.  J.  Rufft.  Electrical-Shock 
+Prevention  (contract  J0113009,  PA  State  Univ.).  Volume  II-Ground- 
+Fault  Interrupting  Devices.  BuMines  OFR  177(2)-83,  1982,  110  pp.; 
+NTIS  PB  84-102953. 
+
+10.  U.S.  Navy.  U.  S.  Standard  Requirements  for  Electrical  Equip- 
+ment. Mil.  Stand.  454J,  Sec.  1  and  36,  Apr.  1984,  pp.  1-1-1-12  and 
+36-1-36-2. 
+
+11.  Cablec  Corp.  (Indianapolis,  IN).  Mining  Cable  Engineering 
+Handbook.  1987,  168  pp. 
+
+12.  Stanek,  E.  K.,  W.  Vilcheck,  and  A.  Kunjara.  Mine  Electrical 
+Power  Systems.  Transients  Protection,  Reliability  Investigation,  and 
+Safety  Testing  of  Mine  Electrical  Power  Systems  (grant  G0144137,  WV 
+
+
+Univ.).    Volume    I-Transients    in    Mine    Electrical    Power   Systems. 
+BuMines  OFR  6(1)-81,  1979,  169  pp.;  NTIS  PB  81-166761. 
+
+13.  Underwriters  Laboratories  (Melville,  NY).  Ground-Fault  Circuit 
+Interrupters.    Stand.  943,  1980,  14  pp. 
+
+14.  U.S.  Code  of  Federal  Regulations.  Title  30-Mineral  Resources; 
+Chapter  I-Mine  Safety  and  Health  Administration,  Department  of 
+Labor;  Subchapter  0-Coal  Mine  Safety  and  Health;  Part  75-Mandatory 
+Safety  Standards-Underground  Coal  Mines,  Subpart  G-Trailing  Cables; 
+Sec.  75.601.   July  1,  1988. 
+
+15.  Yenchek,  M.  R,  and  M.  N.  Ackerman.  Evaluation  of  Sensitive 
+Ground-Fault  Interrupters  for  Coal  Mines.  BuMines  IC  9057,  1985, 
+15  pp. 
+
+16.  Magnetics  (Butler,  PA).  Design  Manual  Featuring  Tape- Wound 
+Cores.   Publ.  TWC-300R  1980,  28  pp. 
+
+17.  Steen,  F.  L.  Supertoroids  With  'Zero'  External  Fields  Made  With 
+Regressive  Windings.    Electron.  Des.,  v.  18,  Sept.  1976,  p.  45. 
+
+18.  Dolinar,  K.  D.  Improved  Ground-Fault  Protection  System  for 
+Low-  and  Medium-Voltage  Trailing  Cables.  Conference  Record  of  the 
+1980  IEEE-Industry  Applications  Society  Annual  Meeting,  Cincinnati, 
+OH.    IEEE,  1980,  p.  594. 
+
+19.  Morley,  L.  A,  F.  C.  Trutt,  and  T.  Novak.  Sensitive  Ground-Fault 
+Protection  for  Mines.  Phase  I-Alternating  Current  Utilization, 
+(contract  J0134025,  PA  State  Univ.).  BuMines  OFR  26-85,  1984,  89  pp.; 
+NTIS  PB  85-185767. 
+
+20.  Kohler,  J.  L.,  F.  C.  Trutt,  and  L.  A.  Morley.  Sensitive  Ground- 
+Fault  Protection  for  Mines.  Phase  II-Direct  Current  Utilization 
+(contract  J0134025,  PA  State  Univ.).  BuMines  OFR  29-87, 1986,  81  pp.; 
+NTIS  PB  87-203410. 
+
+21.  Trutt,  F.  C,  H.  G.  Rotithor,  and  J.  L.  Kohler.  A  Coordination- 
+Free  Relay  for  AC  Mine  Distribution  Systems.  Conference  Record  of 
+the  1988  IEEE-Industry  Applications  Society  Annual  Meeting, 
+Pittsburgh,  PA  IEEE,  1988,  p.  1727. 
+
+22.  Trutt,  F.  G,  J.  L.  Kohler,  H.  G.  Rotithor,  L.  A.  Morley,  and 
+T.  Novak.  Sensitive  Ground-Fault  Protection  for  Mines.  Phase  III— 
+Coordination-Free  GFR's  for  AC  Distribution  (contract  J0134025,  PA 
+State  Univ.).   BuMines  OFR  2-89,  1988,  95  pp.;  NTIS  PB  89-143382. 
+
+
+23 
+
+
+APPENDIX 
+
+[.-ABBREVIATIONS  AND  SYMBOLS 
+
+ac 
+
+alternating  current 
+
+PW 
+
+pilot  wire 
+
+AWG 
+
+American  wire  gauge 
+
+Q 
+
+thyristor 
+
+C 
+
+capacitor 
+
+QA 
+
+operational  amplifier 
+
+CF-GFR 
+
+coordination-free  ground-fault 
+
+relay 
+
+R 
+
+resistor 
+
+CR 
+
+relay 
+
+Rt 
+
+body  resistance 
+
+CT 
+
+current  transformer 
+
+Rs 
+
+grounding  resistor 
+
+D 
+
+diode 
+
+R, 
+
+inner  toroidal  radius 
+
+dc 
+
+direct  current 
+
+Rl 
+
+load  resistance 
+
+E 
+
+RMS  output  voltage  of  transformer  secondary 
+
+R0 
+
+outer  toroidal  radius 
+
+f 
+
+frequency 
+
+Rs 
+
+source  resistance 
+
+F 
+
+fuse 
+
+RMS 
+
+root-mean-square 
+
+GCM 
+
+ground-check  monitor 
+
+S 
+
+switch 
+
+GFR 
+
+ground-fault  relay 
+
+SCR 
+
+silicon-controlled  rectifier  (thyristor) 
+
+h 
+
+toroid  core  width 
+
+SH 
+
+switchhouse 
+
+I 
+
+current 
+
+t 
+
+time 
+
+*p 
+
+RMS  value  of  ground-fault  current 
+
+ti 
+
+opera^g  time  of  GFR 
+
+IC 
+
+integrated  circuit 
+
+t2 
+
+operating  time  of  molded-case  circuit  breaker 
+
+K 
+
+electromagnetic  relay 
+
+T 
+
+transformer 
+
+L 
+
+inductor 
+
+TP 
+
+test  point 
+
+LED 
+
+light-  emitting  diode 
+
+u 
+
+core  permeability 
+
+MOV 
+
+metal-oxide  varistor 
+
+U 
+
+digital  logic  component 
+
+N 
+
+number  of  turns  on  secondary  < 
+
+winding 
+
+UJT 
+
+unijunction  transistor 
+
+Np 
+
+primary  turns 
+
+vtt 
+
+control  voltage 
+
+Ns 
+
+secondary  turns 
+
+v* 
+
+dc  voltage 
+
+N.C. 
+
+normally  closed 
+
+vta 
+
+line-to-neutral  system  voltage 
+
+N.O. 
+
+normally  open 
+
+z 
+
+Zener  diode 
+
+INT.BU.OF  MINES,PGH.,PA  29177 
+
+
+> 
+z 
+m 
+O 
+c 
+> 
+i- 
+
+o 
+
+"0 
+
+~o 
+O 
+
+
+3 
+
+m 
+
+
+O 
+
+< 
+m 
+
+3) 
+
+
+413=  90 
+
+
+Jp*fc. 
+
+
+^"•7m*"  <** 
+
+
+**<& 
+
+
+o.     • 
+
+
+_ .  /\  #H'  /%  -jBR:  /\  l%9)  J*x  -•' 
+
+
+•  d>*^  - 
+
+
+=5^ 
+
+
+1>N^5^^^5^T?^ 
+
+
+*  ^ 
+^ 
+
+
+«4<k 
+
+
+jP^Ci, 
+
+
+4,*V     e^lf"     ^ 
+
+
+A°* 
+
+
+a0  -a 
+
+
+rl0^ 
+
+
+V      co«<.4      * 
+
+

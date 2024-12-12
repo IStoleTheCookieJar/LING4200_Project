@@ -1,0 +1,3849 @@
+Ui 
+
+
+HV  6432 
+.1565 
+2010 
+Copy  2 
+
+
+_ 
+
+
+LI  .W  j;jj  D  D  is 
+
+
+Initial  Response  to  Chemical,  Biological, 
+Radiological,  Nuclear  and 
+High-Yield  Explosive  Incidents 
+
+
+DEFENSE  THREAT  REDUCTION  AGENCY 
+
+AND  THE 
+
+USSTRATCOM  CENTER  FOR  COMBATING  WMD 
+
+
+PURPOSE  STATEMENT 
+
+
+The  following  are  suggested  immediate  actions  (up  to  8  hours) 
+taken  by  an  Installation  Commander  in  the  event  of  a  chemical, 
+biological,  radiological,  nuclear  and/or  high-yield  explosive 
+(CBRNE)  terrorist/hostile  incident  on  a  Department  of  Defense 
+(DoD)  installation  in  the  Continental  United  States  (CONUS). 
+For  the  purposes  of  standardization  and  consistency,  it  is  general 
+guidance  for  all  Services,  and  is  not  meant  to  supersede  any 
+individual  Service  documents/guidance.  It  is  understood  that  many 
+installations  already  have  specific  CBRNE  response/antiterrorism 
+plans.  This  book  is  not  meant  to  usurp  these  plans,  but  is  instead 
+general  guidance  for  those  installations  that  do  not  yet  have  plans. 
+Other  DoD  and  national  guidance  CBRNE  response  documents 
+should  be  considered  firstly  (please  see  reference  list).  This 
+handbook  outlines  general  actions,  specifying  procedures  to  be 
+carried  out  by  the  Installation  Commander  and  other  response 
+personnel  in  the  case  of  each  individual  CBRNE  event. 
+
+DISCLAIMER 
+
+The  information  in  this  handbook  should  be  used  as  basic 
+guidance.  Nothing  in  this  instruction  should  be  interpreted  to 
+subsume,  replace,  detract  from,  or  conflict  with,  authorities 
+and  responsibilities  of  the  Installation  Commander,  DoD,  and/ 
+or  Federal,  State  and  local  leadership  specified  by  law  or  DoD 
+guidance.  At  the  scene  of  any  CBRNE  incident,  circumstances 
+vary  and  are  unpredictable.  Incidents  may  require  only  the  most 
+rudimentary  application  of  the  suggestions  made  in  this  document, 
+but  may  also  require  extremely  complex  intervention  procedures 
+that  are  beyond  the  scope  of  this  document. 
+
+
+For  assistance  or  additional  information  on  this  handbook 
+
+please  contact: 
+
+The  Defense  Threat  Reduction  Agency, 
+Consequence  Management  Division 
+8725  John  Jay  Kingman  Road  M/S  6201 
+Fort  Belvoir,  VA  22060 
+(703)  767-4379 
+CM@DTRA.MIL 
+
+
+IMMEDIATE  ACTIONS  FOR  ANY  INCIDENT 
+
+♦  Gain  Situational  Awareness 
+
+♦  Critical  Mission  Operations  Protection 
+
+♦  Life-Saving  and  Mitigation  Operations 
+
+♦  Notify  Higher  Headquarters 
+
+♦  Notify  Installation  Personnel 
+
+♦  Notify  State  and  Local  Jurisdictions 
+
+♦  Make  a  Public  Announcement, 
+
+(as  necessary) 
+
+
+THINK  ABOUT 
+
+
+♦  Health  and  Safety 
+
+♦  Security 
+
+♦  Infrastructure  /  Evacuation 
+
+♦  Public  Affairs 
+
+♦  Legal  /  Claims  Issues 
+
+♦  Logistics 
+
+♦  Long-Term  Impact 
+
+
+LC  Control  Number 
+
+
+DoD  Management  of  a  Terrorist  Incident 
+
+
+2 
+
+
+RESPONSE  BASICS 
+
+DEFINITION  OF  A  CBRNE  INCIDENT 
+
+(From  Department  of  Defense  Instruction  2000.18,  Enclosure  2): 
+
+The  deliberate  or  inadvertant  release  of  chemical,  biological, 
+radiological,  nuclear  or  high-yield  explosive  (CBRNE)  devices 
+with  potential  to  cause  significant  numbers  of  casualties  and 
+
+high  levels  of  destruction. 
+
+
+INSTALLATION  COMMANDER’S  BASIC  RESPONSIBILITIES 
+
+DoD  Installation  Commanders  have  responsibility  and 
+authority  for  INITIAL  RESPONSE,  INITIAL  CONTAINMENT,  and 
+NEUTRALIZATION  of  terrorist/hostile  incidents  occuring  within 
+
+their  installation. 
+
+
+AUTHORITY  AND  JURISDICTION  IN  TERRORIST  INCIDENT  RESPONSES 
+Incident  Location 
+
+DoD  installation  or  vessel  within  the  United  States,  its  territories  and 
+possessions 
+
+Initial  Response 
+
+DoD  military  and/or  civilian  security  forces 
+
+Containment  of  Incident 
+
+Initially  DoD  military  and/or  civilian  security  forces,  with  transition  to 
+FBI  or  civilian  law  enforcement  dependent  on  jurisdiction 
+
+Incident  Resolution 
+
+DoD  Security  Organizations,  Military  Emergency  Service  Team/Special 
+Reaction  Team  or  FBI  or  other  appropriate  civilian  law  enforcement 
+dependent  on  jurisdiction 
+
+Incident  Investigation  (Coordinating  Agency) 
+
+FBI  and  DoD  Criminal  Investigative  Task  Force  (CITF)  for  military 
+commission  crimes 
+
+Prosecution  (Coordinating  Agency) 
+
+Department  of  Justice  (DOJ)  and  DoD  Office  of  Military  Commissions 
+for  prosecuting  military  commission  pursuant  to  President’s  Military 
+Order  of  November  13,  2001 
+
+
+3 
+
+
+INSTALLATION  COMMANDER’S  BASIC  RESPONSIBILITIES  IN 
+THE  CASE  OF  A  CBRNE  INCIDENT  ON  THE  INSTALLATION 
+
+
+INSTALLATION  COMMANDERS  SHOULD  IMMEDIATELY: 
+
+1.  Activate  the  installation’s  initial  response  elements  and  local 
+memorandums  of  understanding/memorandums  of  agreement 
+(MOUs/MOAs).  MOUs/MOAs  must  be  utilized  in  order  to  make  up 
+for  an  installation’s  shortfalls  and  to  detect,  deter  and  respond  to  a 
+CBRNE  incident. 
+
+2.  Initiate  the  DoD  notification  process. 
+
+3.  Request  resources  to  augment  the  installation’s  response 
+capabilities  and  notify  affected  local  personnel  on  what  protective 
+measures  to  take. 
+
+4.  Assume  overall  initial  authority.  In  accordance  with  (IAW)  DoD 
+0-2000.12,  DoD  Installation  Commanders  have  responsibility 
+and  authority  for  initial  response,  containment  and  resolution  of 
+criminal  incidents  occurring  within  their  installation.  The  FBI  has 
+coordinating  agency  responsibilities  for  investigation  and  prosecution 
+of  alleged  violations  of  U.S.  Code  or  investigating  any  incidents 
+
+that  an  Installation  Commander  declares  to  be  terrorist  in  nature 
+that  occur  on  DoD  installations  or  within  DoD  facilities.  Also,  if 
+needed,  Commanders  may  ask  the  FBI  for  assistance  if  the  FBI  has 
+superior  tactical  assets  available,  such  as  regional  Special  Weapons 
+and  Tactics  (SWAT)  teams  or  Hostage  Response  Teams  (HRT). 
+
+The  Installation  Commander,  however,  will  at  all  times  maintain 
+command  and  control  of  the  installation’s  military  assets  and 
+resources. 
+
+According  to  DoD  reference  (see  page  53  for  a  complete  listing), 
+the  National  Response  Framework  (NRF)  and  the  Department  of 
+Homeland  Security  (DHS)  National  Incident  Management  System 
+(NIMS),  the  initial  responders  to  a  CBRNE  incident  should  immediately 
+identify  and  report  the  nature  of  the  situation,  isolate  the  incident, 
+and  contain  the  situation.  The  Installation  Commander  (or  the  State/ 
+county  health  department  in  the  case  of  a  localized  biological  attack) 
+must  oversee  these  actions  and  activate  the  installation’s  Emergency 
+Operations  Center  (EOC).  Additionally,  the  Commander  should  notify 
+specialized  response  forces,  and  immediately  report  the  incident  to 
+the  appropriate  superior  military  command  EOC,  military  investigative 
+agency,  FBI  and/or  civilian  authorities.  IAW  the  NIMS  Incident 
+Command  System  (ICS),  Installation  Commanders  should  send  liaisons 
+to  the  military  EOC  and  State/local  EOC  (or  Joint  Field  Office  (JFO))  and 
+FBI  Joint  Operations  Center  (JOC),  as  applicable)  to  maintain  event 
+cognizance  and  request  support  as  required. 
+
+
+INSTALLATION  COMMANDER’S  BASIC  RESPONSIBILITIES  IN 
+THE  CASE  OF  A  CBRNE  INCIDENT  ON  THE  INSTALLATION 
+
+
+THE  FOLLOWING  MUST  BE  ADDRESSED  AT  THE  INSTALLATION-LEVEL: 
+
+♦  Preserving  and  saving  lives 
+
+♦  Preventing  human  suffering  and  preserving  health  and  safety 
+
+♦  Securing  and  eliminating  the  hazard 
+
+♦  Mitigating  the  incident 
+
+♦  Protecting  critical  assets  and  infrastructure  and  preventing  further 
+damage  to  the  installation  and  maintaining  public  confidence  in 
+the  installation’s  ability  to  respond  to  a  terrorist/hostile  incident 
+
+♦  Incident  reporting  to  higher  headquarters 
+
+♦  Enforcing  security  measures  to  protect  persons  and  property 
+
+♦  Notification  and  employment  of  select  first  and  emergency 
+responders 
+
+♦  Consider  transfer  of  critical  operations  to  secondary  location(s), 
+where  applicable 
+
+♦  Impact  of  uncontrolled  movement  of  contaminated  casualties 
+(“Self-Referrals”) 
+
+♦  Hazardous  material  (HAZMAT)  response  capabilities 
+
+♦  Mass  warning  of  family  members,  U.S.  personnel  supporting  U.S. 
+military  operations  and  allied/coalition  personnel 
+
+♦  Notification  of  emergency-essential  military,  DoD  civilians, 
+contractors  and  off-installation  medical  resources 
+
+♦  Casualty  flow  control  at  military  treatment  facilities/clinics 
+
+♦  Activation  of  the  EOC 
+
+♦  Evacuation/shelter/shelter-in-place  management 
+
+♦  Follow-on  incident  reporting  to  higher  headquarters 
+
+♦  Establishment  of  staging  areas 
+
+♦  Coordination  with  local  responders 
+
+♦  Casualty  tracking 
+
+♦  Plume  modeling 
+
+♦  Establishment  of  mass  care  capability 
+
+♦  Agent  confirmatory  testing 
+
+
+(Concept  for  list  originally  from  CNI  3440.17(see  p.53);  additions  have  been 
+made  for  further  response  assistance  by  an  Installation  Commander) 
+
+
+5 
+
+
+WHAT  TO  ASK  DURING  THE  RESPONSE 
+
+
+♦  What  was  detected?  What  are  the  symptoms?  Was  it  a  chemical, 
+biological,  radiological,  nuclear  or  high-yield  explosive  incident? 
+
+♦  Where  was  the  explosion/release?  Are  there  any  casualties? 
+
+♦  Did  the  explosion/release  contain  more  than  one  CBRNE 
+component,  and  are  first  responders  checking  for  secondary 
+devices? 
+
+♦  Who  is  the  designated  incident  commander? 
+
+♦  Are  there  reports  of  other  incidents,  locally,  nationally,  or  globally? 
+
+♦  What  critical  mission  operations/facilities  are  affected? 
+
+♦  What  critical  operations/facilities  can  be  preserved/relocated? 
+
+♦  Will  the  incident  directly  affect  the  surrounding  community  or 
+multiple  jurisdictions? 
+
+♦  If  a  downwind  hazard  exists,  will  it  be  affected  due  to  weather?  How 
+will  weather  patterns  affect  response  capabilities? 
+
+(weather  =  wind  air/speed/direction,  rain/run-off,  temperatures) 
+
+♦  Do  any  mutual  aid  agreements  or  MOU/MOAs  exist? 
+
+♦  What  local,  State  and  Federal  assistance  is  available  and  what 
+would  be  their  estimated  time  of  arrival  (ETA)? 
+
+♦  What  equipment  and  protective  clothing  and  measures  will  be 
+required? 
+
+♦  What  is  the  status  of  the  work  of  the  first  responders? 
+
+♦  Is  decontamination  a  concern?  What  medical  treatment  facilities 
+are  available  for  casualties? 
+
+♦  What  is  the  status  of  the  installation's  mission  critical  facilities  and 
+critical  support  capabilities? 
+
+
+SUGGESTED  INTERMEDIATE  PERSONNEL  PROTECTIVE  MEASURES 
+
+♦  Compartmentalize  installation  to  preserve  critical  operations 
+
+♦  Be  aware  of  secondary  device  threats  during  response  efforts  in 
+rescue  area 
+
+♦  Move  upwind  of  the  suspected  area 
+
+♦  Cover  all  exposed  skin  surfaces  and  protect  respiratory  systems  as 
+much  as  possible 
+
+♦  Evacuate/shelter-in-place,  minimizing  passage  through 
+contaminated  area 
+
+
+6 
+
+
+♦  Confusion,  casualties,  and  blocked  road  networks  may  interfere 
+with  the  response  efforts  and  cause  a  potential  for  fear  amongst 
+the  local  populace. 
+
+♦  Infrastructure  damage  to  include  water  source  and  inability  to 
+account  for  all  personnel  due  to  unknown  destruction  of  buildings/ 
+roadways. 
+
+♦  The  FBI  is  the  lead  jurisdictional  authority  for  investigation  and 
+prosecution  in  the  case  of  a  terrorist  event.  Evidence  must  be 
+preserved  as  much  as  possible. 
+
+♦  DHS  may  assume  the  role  of  the  overall  incident  manager/ 
+coordinator  of  consequence  management  operations  if  the  event 
+is  determined  to  require  a  more  systematic  Federal  response 
+coordinated  through  the  National  Response  Framework  procedures. 
+
+♦  Press  coverage  will  begin  immediately  and  should  be  handled  by 
+the  incident  Joint  Information  Center  (J  1C). 
+
+♦  If  a  WMD-Civil  Support  Team  is  available,  it  may  be  notified  through 
+the  State  for  additional  response  support  and  expertise. 
+
+♦  There  may  be  damage  to  communications  and  electronics  systems. 
+
+
+7 
+
+
+WMD  CONSEQUENCE  MANAGEMENT  TASKS 
+
+
+r 
+
+
+ASSESS 
+
+
+THREAT 
+
+
+READINESS 
+
+
+I 
+
+
+PLANS  AND 
+TACTICS, 
+TECHNIQUES, 
+AND 
+
+PROCEDURES 
+
+
+DETECTION 
+AND  ANALYSIS 
+
+
+SURVEILLANCE 
+
+
+COORDINATE 
+
+OPERATIONS 
+
+
+EXERCISES 
+
+WARNING 
+
+AND 
+
+REPORTING 
+
+
+CONDUCT 
+
+LOGISTICS 
+
+
+HEALTH 
+
+SERVICE 
+
+SUPPORT 
+
+
+COMMAND, 
+CONTROL,  AND 
+SYNCHRONIZA¬ 
+TION 
+
+
+ZEZ 
+
+
+SECURITY  AND 
+CONTROL 
+
+
+FORENSICS 
+
+SAMPLE 
+COLLECTION 
+AND  PACKAGING? 
+
+
+PUBLIC  AND 
+CIVIL  AFFAIRS 
+ACTIVITIES 
+
+
+L 
+
+
+DE¬ 
+
+CONTAMINATE 
+
+
+TRANSPORT 
+CASUALTIES, 
+REMAINS,  AND 
+SAMPLES  | 
+
+
+PERSONNEL 
+AND  MATERIAL 
+DEPLOYMENT 
+
+
+FACILITIES  AND 
+MATERIAL 
+MAINTENANCE 
+
+
+SUPPORT  TO 
+WEAPONS  OF 
+MASS 
+
+DESTRUCTION 
+
+DISASTER 
+
+ASSISTANCE 
+
+OPERATIONS 
+
+
+MITIGATION 
+
+
+EMERGENCY 
+
+DECONTAMINA¬ 
+
+TION 
+
+
+RESTORATIVE 
+
+OPERATIONS 
+
+
+(Figure  from  Joint  Pub  3-40,  Figure  IV-1) 
+
+This  chart  from  JP  3-40  provides  a  basic  outline  of  the  most  common 
+DoD  tasks  and  functions  that  must  be  addressed  during  DoD  WMD  CM 
+operations.  These  tasks  and  functions  are  applicable  to  deliberate,  adaptive 
+and  crisis  action  planning.  Planning  for  specific  tasks  and  functions  required 
+for  a  particular  CM  mission  will  be  dependent  upon  the  nature  of  the  WMD 
+material,  meteorological  conditions,  anticipated  impacted  population/area 
+and  desired  end  states.  More  detailed  information  on  these  tasks  and 
+functions  and  operational  contexts  can  be  found  in  Joint  Publication  3-41 
+(Consequence  Management). 
+
+
+Domestic  DoD  CM  operations  where  an  Installation  Commander  provides 
+support  to,  or  requires  support  from,  adjoining  jurisdictions  will  be  conducted 
+within  the  context  of  Defense  Support  to  Civil  Authorities  (DSCA).  The 
+3025-series  of  DoD  Directives,  Instructions  and  Manuals  define  DoD  DSCA 
+policy,  procedures,  and  processes  consistent  with  the  National  Response 
+Framework  (NRF)  and  the  National  Incident  Management  System  (NIMS).  The 
+NRF  defines  Federal  agency  responsibilities  and  response  processes  from  an 
+all-hazards  approach,  which  includes  the  response  to  WMD  incidents.  The  NIMS 
+provides  a  common  structure  for  command  and  control  of  response  activities, 
+as  well  as  common  concepts,  principles,  and  terminology.  Pages  9  and  10  of 
+this  handbook  provide  a  more  detailed  overview  of  the  NRF  and  NIMS. 
+
+
+8 
+
+
+THE  NATIONAL  RESPONSE  FRAMEWORK  (NRF)  AND  THE 
+NATIONAL  INCIDENT  MANAGEMENT  SYSTEM  (NIMS) 
+
+DoD  response  to  a  domestic  WMD  incident  will  be  conducted  consistent 
+with  the  NRF.  The  following  are  brief  excerpts  from  the  NRF  which, 
+along  with  DoD  3025-series  publications,  should  be  consulted  for 
+further  reference. 
+
+The  NRF  and  the  NIMS  integrate  the  capabilities  and  resources 
+of  various  governmental  jurisdictions,  incident  management  and 
+emergency  response  disciplines,  nongovernmental  organizations, 
+and  the  private  sector  into  a  cohesive,  coordinated,  and  seamless 
+national  framework  for  domestic  incident  management.  The  NRF, 
+using  the  NIMS,  is  an  all-hazards  plan  that  provides  the  structure  and 
+mechanisms  for  national  level  policy  and  operational  coordination  for 
+domestic  incident  management.  Consistent  with  the  model  provided  in 
+the  NIMS,  the  NRF  can  be  partially  or  fully  implemented  in  the  context 
+of  a  threat,  anticipation  of  a  significant  event,  or  the  response  to  a 
+significant  event. 
+
+The  NRF,  using  the  NIMS,  establishes  mechanisms  to  maximize 
+prevention,  preparedness,  response,  and  recovery  integration  and 
+improves  coordination  and  integration  of  Federal,  State,  local,  tribal, 
+regional,  private-sector,  and  nongovernmental  organization  partners. 
+The  NRF  and  the  NIMS  have  also  been  established  to  efficiently  utilize 
+resources,  improve  incident  management  communications,  increase 
+situational  awareness  and  facilitate  emergency  mutual  aid  and  Federal 
+emergency  support  across  State,  local,  and  tribal  jurisdictions  and 
+between  the  public  and  private  sectors. 
+
+The  NIMS  is  a  system  mandated  by  HSPD-5  that  provides  a  consistent, 
+nationwide  approach  for  Federal,  State,  local,  and  tribal  governments; 
+the  private  sector;  and  NGOs  to  work  effectively  and  efficiently  together 
+to  prepare  for,  respond  to,  and  recover  from  domestic  incidents, 
+regardless  of  cause,  size,  or  complexity.  To  provide  for  interoperability 
+and  compatibility  among  Federal,  State,  local,  and  tribal  capabilities, 
+the  NIMS  includes  a  core  set  of  concepts,  principles,  and  terminology. 
+The  incident  command  system  (ICS)  forms  the  basic  structure  for 
+incident  management  at  all  levels.  An  example  chart  of  the  basic  ICS 
+structure,  with  an  additional  chart  of  the  Operations  section  for  a  multi- 
+jurisdictional  incident,  are  provided  below. 
+
+
+9 
+
+
+The  ICS  employs  a  concept  of  “Unified  Command”  for  complex  incident 
+management  operations  where  multiple  jurisdictions  or  agencies  have 
+authority  or  for  incidents  at  multiple  locations.  Concepts  of  “command” 
+and  “unity  of  command”  have  distinct  legal  and  cultural  meanings  for 
+military  forces  and  operations.  For  military  forces,  command  runs  from 
+the  President  to  the  Secretary  of  Defense  (SECDEF)  to  the  Commander  of 
+the  combatant  command  to  the  commander  of  the  forces.  The  “Unified 
+Command”  concept  utilized  by  civil  authorities  is  distinct  from  the  military 
+chain  of  command. 
+
+THE  DEPARTMENT  OF  DEFENSE  AND  THE  NRF/NIMS 
+
+The  DoD  has  significant  resources  that  may  be  available  to  support  the 
+Federal  response  when  directed  by  appropriate  national  authorities. 
+
+The  SECDEF  shall  provide  and  authorizes  DSCA  for  domestic  incidents 
+as  directed  by  the  President  or  when  consistent  with  military  readiness 
+operations  and  appropriate  under  the  circumstances  and  the  law. 
+Accordingly,  the  DoD  is  considered  a  cooperating  agency  to  the  majority  of 
+the  NRF  Incident  Annexes  and  a  support  agency  to  all  Emergency  Support 
+Functions  (ESFs)  (except  when  the  USA  Army  Corps  of  Engineers  is  a 
+
+
+in 
+
+
+primary  agency  for  ESF  #3,  Public  Works  and  Engineering).  For  additional 
+information  on  DSCA,  refer  to  the  NRF  Base  Plan  and  DoD  3025-series 
+publications. 
+
+Nothing  in  the  NRF  impairs  or  otherwise  affects  the  authority  of  the 
+SECDEF  over  the  DoD,  including  the  chain  of  command  for  military 
+forces  from  the  President  as  Commander-in-Chief,  to  the  SECDEF,  to 
+the  commander  of  military  forces,  or  any  other  military  command  and 
+control  procedures.  The  SECDEF  shall  retain  command  of  military  forces 
+conducting  DSCA  operations. 
+
+The  Defense  Coordinating  Officer 
+
+If  appointed  by  DoD,  the  DCO  serves  as  DoD’s  single  point  of  contact 
+at  the  Joint  Field  Office  (JFO)  (the  temporary  Federal  organization 
+established  locally  to  coordinate  operational  Federal  assistance  activities 
+to  the  affected  jurisdiction(s)).  With  few  exceptions,  requests  for  DSCA 
+originating  at  the  JFO  are  coordinated  with  and  processed  through 
+the  DCO  consistent  with  DoD  Instruction  3025.  The  DCO  may  have  a 
+Defense  Coordinating  Element  (DCE)  consisting  of  a  staff  and  military 
+liaison  officers  in  order  to  facilitate  coordination  and  support  to  activated 
+ESFs.  Specific  responsibilities  of  the  DCO  (subject  to  modification  based 
+on  the  situation)  include  processing  requirements  for  military  support, 
+forwarding  mission  assignments  to  the  appropriate  military  organizations 
+through  DoD-designated  channels,  and  assigning  military  liaisons  such 
+as  Emergency  Preparedness  Liaison  Officers  (EPLOs),  as  appropriate,  to 
+activated  ESFs. 
+
+Immediate  Response  Authority 
+
+Imminently  serious  conditions  resulting  from  any  civil  emergency  may 
+require  immediate  action  to  save  lives,  prevent  human  suffering,  and/or 
+mitigate  property  damage.  When  such  conditions  exist  and  time  does  not 
+permit  approval  from  higher  headquarters,  local  military  commanders  and 
+responsible  officials  from  DoD  components  and  agencies  are  authorized 
+by  DoD  directive  and  pre-approval  by  the  SECDEF,  subject  to  any 
+supplemental  direction  that  may  be  provided  by  their  DoD  component,  to 
+take  necessary  action  to  respond  to  requests  of  civil  authorities  consistent 
+with  the  Posse  Comitatus  Act  (18  U.S.C.  §  1385).  All  such  necessary 
+action  is  referred  to  as  “Immediate  Response”  and  must  be  reported 
+through  the  chain-of-command  to  the  NMCC  by  the  most  expeditious  means. 
+
+
+11 
+
+
+Command  Structures  I  Coordination  Structures 
+
+
+NIMS  FRAMEWORK  AND  STRUCTURE  FOR  NRP  COORDINATION  DURING  A  TERRORIST  INCIDENT 
+
+
+NIMS  Framework 
+
+Multiagency  Coordination  Entity 
+
+□  Strategic  coordination 
+
+□  Prioritization  between  incidents  and 
+associated  resource  allocadon 
+
+□  Focal  point  for  issue  resoludon 
+
+
+EOCs/Multiagency 
+Coordination  Centers 
+
+□  Support  and  coordinadon 
+
+□  Idenu tying  resource  shortages 
+and  issues 
+
+□  Gathering  and  providing 
+informadon 
+
+Implementing  mulitagency 
+coordinadon  endty  decisions 
+
+
+Field  Level  Regional  Level  National  Level 
+
+
+JFO/PFO 
+
+FCO 
+
+SCO 
+
+DCO 
+
+SAC 
+
+□ 
+
+
+Local  Emergency 
+Ops  Center 
+
+
+Incident  Command 
+
+□  Direct  on-scene 
+
+emergency  management 
+
+(Area  Command  opdon 
+not  depicted) 
+
+
+Incident 
+
+Command  Post 
+
+
+State  Emergency 
+Ops  Center 
+
+
+Interagency 
+
+Incident 
+
+Management 
+
+Group 
+
+
+*  Strategic 
+Information  & 
+Operations 
+Center 
+
+
+Joint  Field 
+Office 
+
+
+Regional 
+
+Response 
+
+Coordination 
+
+Center 
+
+
+Homeland 
+
+Security 
+
+Operations 
+
+Center 
+
+
+*  At  the  field  level,  the  FBI  Joint  Operations  Center  coordinates  all  criminal 
+investigation  and  law  enforcement-related  activities.  When  the  JFO  is 
+established,  the  JOC  becomes  a  component  of  the  JFO.  At  the 
+headquarters  level,  the  FBI  Strategic  Information  and  Operations  Center 
+coordinates  criminal  investigation  and  law  enforcement-related  activities 
+and  works  in  coordination  with  the  HSOC  and  IIMG.  The  SIOC  functions  as 
+both  a  mulitagency  coordination  center  and  multiagency  coordination  entity 
+as  defined  in  the  NIMS. 
+
+
+JFO  =  Joint  Field  Office 
+
+PFO  =  Principal  Federal  Official 
+
+FCO  =  Federal  Coordinating  Officer 
+
+
+SCO  =  State  Coordinating  Officer 
+DCO  =  Defense  Coordinating  Officer 
+SAC  =  Special  Agent  in  Charge  (FBI) 
+
+
+CONTACT  NUMBERS 
+
+
+For  a  complete  listing  of  CBRNE-specific  assets/resources  by 
+installation,  please  see  the  DTRA  CBRNE  Database  and/or  the  Nuclear 
+Accident  Response  Capabilities  Listing  (NARCL). 
+
+
+AGENCY 
+
+PHONE  # 
+
+LOCATION 
+
+INSTALLATION  NUMBE 
+
+RS 
+
+Installation  Command  Post 
+
+On-Post  Fire  Department 
+
+On-Post  Emergency  Dispatch  (911  Center) 
+
+Security  Forces 
+
+Installation  Hospital  Emergency  Room 
+
+Civil  Engineers 
+
+Chaplain 
+
+Commander’s  Hotline 
+
+Public  Affairs  Officer  (PAO) 
+
+Explosive  Ordnance  Disposal  (EOD) 
+
+(If  Available  -  If  Not,  Contact  Off-Installation  Source) 
+
+Emergency  Operations  Center  (EOC) 
+
+Public  Works 
+
+Mortuary  Affairs 
+
+Info.  Technology/Communications  Center 
+
+OFF-INSTALLATION  LOCATION-SPECIFIC  RESPONSE  ASSISTANCE 
+
+Higher  Headquarters 
+
+State  EOC 
+
+FBI  -  Local  Field  Office 
+
+Local  Fire  Department  Per  MOU/MOA 
+
+Local  Medical  Facilities  (Ambulance) 
+
+Civilian  Bomb  Squad  Per  MOU/MOA 
+
+Regional  Federal  Radiological  Monitoring 
+And  Assessment  Center  (FRMAC)  Office 
+
+24  Hour  Local  EOC 
+
+County  Help  Line  Of  State/County  EOC 
+
+U.S.  Department  Of  Agriculture  (USDA) 
+(Local  Flegional  Office) 
+
+U.S.  Department  Of  Health  And  Human 
+Services  (HHS)  (Local  Regional  Office) 
+
+13 
+
+
+AGENCY 
+
+PHONE  # 
+
+LOCATION 
+
+INSTALLATION  NUMBERS 
+
+NMCC 
+
+703-693-8196 
+
+703-693-3441 
+
+703-697-6340 
+
+PENTAGON, 
+WASHINGTON,  DC 
+
+DHS  National  Operations  Center 
+(NOC) 
+
+(202)  282-8000 
+
+1-800-462-9029 
+
+WASHINGTON,  DC 
+
+National  Response  Center 
+
+1-800-424-8802 
+
+WASHINGTON,  DC 
+
+AFRRI 
+
+(301)  295-0316 
+
+BETHESDA,  MD 
+
+IMAAC  (NARAC)  -  Emergency  Only 
+
+(925)  424-6465 
+
+WASHINGTON,  DC 
+
+DOE/NNSA  Operational  Emergency 
+and  Incident  Reporting 
+
+(202)  586-8100 
+
+WASHINGTON,  DC 
+
+NARAC 
+
+(925)  422-7627 
+
+LIVERMORE,  CA 
+
+CDC  -  Emergency  Response  Hotline 
+
+(770)  488-7100 
+
+ATLANTA,  GA 
+
+CDC  Coordinating  Office  of  Terrorism 
+Preparedness  and  Emergency 
+
+Response 
+
+(404)  639-7405 
+
+ATLANTA,  GA 
+
+CBIRF  -  Operations  Officer 
+
+(301)  744-2027 
+
+INDIANHEAD,  MD 
+
+USAF  Hammer  Ace 
+
+dsn:  574-541 1 
+
+commercial: 
+
+(757)  764-5411 
+
+SCOn  AFB,  IL 
+
+AFRAT 
+
+dsn:  240-5562 
+
+FRONT  OFFICE: 
+
+(210)  536-3486 
+
+SAN  ANTONIO,  TX 
+
+USAMRIID 
+
+1-888-872-7443 
+
+FT  DETRICK,  MD 
+
+USAMRICD 
+
+dsn:  584-3277 
+(410)  436-3277 
+
+ABERDEEN 
+
+PROVING 
+
+GROUND,  MD 
+
+CHEMTREC 
+
+1-800-262-8200 
+
+ARLINGTON,  VA 
+
+USDA  Operations  Center 
+
+(202)  720-571 1 
+1-877-677-2369 
+
+WASHINGTON,  DC 
+
+DTRA  Operations  Center 
+
+877-240-1187 
+dsn:  427-2003 
+
+commercial: 
+
+(703)  767-2003 
+
+ALEXANDRIA,  VA 
+
+CHEM/BIO/RAD  DECONTAMINATION 
+
+IHIHH  decontamination  PRINCIPLES 
+
+♦  For  an  effective  response  to  a  CBRNE  incident,  an  installation  must 
+have,  or  have  direct  access  to,  trained  personnel  and  specialized 
+equipment  with  HAZMAT  capabilities 
+
+♦  Decontaminate: 
+
+■  As  soon  as  possible 
+
+■  Only  what  is  necessary 
+
+■  As  close  to  contaminated  area  as  possible,  upwind 
+
+■  With  mission  priority  and  health  essentials  in  mind 
+
+♦  Wash  exposed  areas  with  soap  and  water  for  most  immediate 
+decontamination  effects 
+
+♦  Identify  readily-available  water  sources 
+
+
+LEVELS  OF  PERSONAL  PROTECTIVE  EQUIPMENT  (PPE) 
+
+From  the  Office  of  Occupational  Safety  and  Health,  U.S.  Department  of  Labor  and  the  Environmental 
+
+Protection  Agency  standards  and  guidance 
+
+Level  A 
+
+To  be  selected  when  the  greatest  level  of  skin,  respiratory,  and  eye 
+protection  is  required.  These  fully  encapsulating  suits  afford  protection 
+against  petroleum  products  and  halogenated  hydrocarbons,  as  well  as 
+against  nerve  and  blister  agents.  Self-contained  breathing  apparatuses 
+(SCBAs),  totally-encapsulating  chemical-protective  suits,  coveralls, 
+safety  boots/shoes,  safety  glasses  and/or  chemical  splash  goggles  are 
+recommended. 
+
+Level  B 
+
+To  be  selected  when  the  highest  level  of  respiratory  protection  is  necessary 
+but  a  lesser  level  of  skin  protection  is  needed.  Liquid  splash-protective 
+suits,  pressure-demand,  full  face-piece  SCBAs,  inner  chemical-resistant 
+gloves  and  safety  boots,  and  hard  hats  are  recommended. 
+
+Level  C 
+
+To  be  selected  when  the  concentration(s)  and  type(s)  of  airborne 
+substance(s)  are  known  and  the  criteria  for  using  air  purifying  respirators 
+are  met.  Support  function  protective  garments,  full  face-piece,  air-purifying, 
+canister-equipped  respirators,  chemical  resistant  gloves  and  safety  boots, 
+and  hard  hats  are  recommended. 
+
+Level  D 
+
+A  work  uniform  may  be  selected  affording  minimal  protection:  used  for 
+nuisance  contamination  only.  Coveralls,  safety  boots/shoes,  safety  glasses 
+or  chemical  splash  goggles  are  recommended.  Use  Level  D  protection 
+when  no  danger  of  chemical  exposure  exists.  Current  recommendations  for 
+PPE  to  be  used  in  situations  of  radiation  contamination  suggest  only  Level 
+
+D  type  protection  plus  a  dust  filter  for  respiratory  protection. 
+
+15 
+
+
+SAMPLE  OF  A  CASUALTY  DECONTAMINATION-CORRIDOR  LAYOUT* 
+
+
+please  see  FM  3-1 1 .21 ,  Appendix  C 
+
+CONSIDERATIONS  WHEN  DEALING  WITH  MASS  DECONTAMINATION 
+
+♦  Isolation  of  contaminated  victims  within  certain  areas,  or  medical 
+facilities,  if  available. 
+
+♦  Quarantines  to  restrict  movement  of  personnel  (and  animals)  in 
+specific  areas  of  the  installation. 
+
+♦  Notification  of  affected  public  off-installation. 
+
+♦  Proper  PPE  at  all  times  according  to  installation/DoD  standards 
+and  requirements. 
+
+♦  Proper  handling  procedures  for  deceased  collaborated  with 
+Mortuary  Affairs  and  the  State  Medical  Examiners  Office. 
+
+
+CHEM/BIO/RAD  DECONTAMINATION 
+
+IMPORTANT  ACTIONS 
+
+
+♦  Provide  concise  information  on  the  threat,  recommendations  on 
+what  should  be  done  to  combat  it,  and  instructions  on  handling 
+victims  to  all  hospitals,  clinics,  nursing  homes,  home  health  care 
+agencies,  individual  physicians,  pharmacies,  school  nursing  staffs, 
+and  other  medical  providers 
+
+♦  Initiate  MOUs/MOAs  for  civilian  medical  assistance  as  the  majority 
+of  installations  have  limited  medical  care  expertise;  the  local  health 
+department  or  state  public  health  region  field  office  will  typically 
+take  the  lead  in  coordinating  the  local  medical  response  when 
+installation  assets  are  overwhelmed 
+
+♦  In  most  instances,  respirators,  M40/MCU-2P  masks,  or  adequate 
+levels  of  personal  protective  equipment  (PPE)  will  be  required 
+
+♦  Removal  of  outer  clothing  &  rapid  washing  of  exposed  skin  generally 
+removes  90%  of  contamination 
+
+♦  Use  caution  when  removing  clothing  from  burned  patients  to 
+prevent  aggravation  &  further  contamination  of  wounds 
+
+♦  Run-off  may  be  contaminated,  as  will  any  used  materials  (wound 
+dressings,  protective  gear,  etc.),  and  should  be  collected  in  a 
+protected  location  for  disposal 
+
+♦  Take  care  moving  injured  personnel  to  avoid  re-contamination  of 
+clean  individuals 
+
+
+SAMPLE  OF  A  PERSONNEL  DECONTAMINATION-STATION  LAYOUT 
+
+
+17 
+
+
+CHEMICAL  DECONTAMINATION 
+
+
+♦  Respirator,  M40/MCU-2P  masks,  or  adequate  levels  of  PPE  are 
+required 
+
+♦  A  clean  treatment  area  should  be  established  immediately 
+
+♦  Mild  soap  and  hot  water  can  be  used  to  remove  most,  if  not  all,  of 
+the  agent/gross  contamination 
+
+♦  A  diluted  bleach  solution  (1  part  bleach,  200  parts  water)  may  be 
+used  for  more  complete  skin  decontamination 
+
+♦  Antidotes,  when  available,  should  be  administered  in  the 
+contaminated  areas,  if  possible  (i.e.  Nerve  Agent  Antidote  Kits 
+(NAAK)) 
+
+♦  Ensure  medical  responders,  transport  units,  and  receiving  medical 
+facilities  are  properly  protected  against  secondary  contamination 
+
+♦  Use  Level  A  PPE  if  substance  is  unknown  and  move  up  equipment 
+level  as  required  by  agent  effects 
+
+♦  Know  an  immediately  available  water  source 
+
+♦  Run-off  needs  to  be  contained 
+
+♦  Review  procedures  for  storage  and  disposal  of  contaminated 
+materials 
+
+♦  Consider  replacement  of  clothes 
+
+
+BIOLOGICAL  DECONTAMINATION 
+
+i . . . .  i  ISSUES 
+
+♦  Respirator,  M40/MCU-2P  masks,  or  adequate  levels  of  PPE 
+are  required 
+
+♦  Inhalation  is  the  most  likely  and  largest  area  of  concern  for 
+biological  agents 
+
+♦  Scrubbing  exposed  area  with  mild  soap  and  water  is  often 
+sufficient  to  avert  contact  spread  of  agent  -  note  that  runoff  will  be 
+contaminated 
+
+♦  Replacement  of  contaminated  clothing  with  clean  clothing 
+
+♦  Undiluted  household  bleach  may  assist  in  clothing  and  equipment 
+decontamination  (with  30  minutes  of  contact  time  and  a  solution 
+of  1  part  bleach,  100  parts  water)  and  skin  decontamination 
+
+(1  part  bleach,  200  parts  water) 
+
+
+RADIOLOGICAL  DECONTAMINATION 
+
+
+l-  .... 
+
+
+ISSUES 
+
+
+.4 
+
+
+♦  Respirator,  M40/MCU-2P  masks,  or  adequate  levels  of  PPE  are 
+required 
+
+♦  Radioactive  contamination  continues  to  irradiate  nearby  living 
+things 
+
+♦  Contaminated  patients  do  not  present  an  immediate  irradiation 
+hazard  to  medical  personnel  with  normal  protection;  following 
+decontamination,  they  are  no  longer  hazardous 
+
+♦  Decontamination  should  occur  before  arrival  at  installation  medical 
+facilities,  but  definitive  medical  health  care  should  not  be  withheld 
+for  decontamination  purposes 
+
+♦  Most  external  radioactive  contamination  can  be  eliminated  by  the 
+removal  of  clothing 
+
+♦  If  the  casualty  has  surface  contamination  and  no  physical  injuries, 
+washing  with  soap  and  water  provides  effective  decontamination 
+
+♦  If  a  contaminated  casualty  has  substantial  physical  injuries,  the 
+casualty  should  be  stabilized  before  decontamination  is  performed 
+
+♦  Be  sure  skin  is  washed  thoroughly,  but  GENTLY  -  abrasions  on  the 
+skin  will  lead  to  internal  contamination 
+
+♦  A  living  patient  cannot  be  so  radiologically  contaminated  as  to 
+present  an  acute  hazard  to  medical  personnel;  life/limb-saving 
+medical  attention  should  never  be  delayed  because  of  the 
+presence  of  radioactive  material  or  contamination 
+
+
+19 
+
+
+RADIOLOGICAL  CASUALTY  DECONTAMINATION 
+
+
+The  following  diagram  from  AFRRI’s  Medical  Management  of 
+Radiological  Casualties  Handbook  shows  a  setup  for  casualty  reception 
+in  a  contaminated  environment.  The  actual  setup  of  this  area  may  vary 
+depending  on  assets  and  circumstances. 
+
+
+CHEMICAL  INCIDENT 
+
+INDICATIONS  OF  A  CHEMICAL  INCIDENT 
+
+
+♦  May  not  be  easily  detectable  by  senses 
+
+♦  Chemical  cloud  may  exist;  unusual  number  of  dead  or  dying 
+animals  or  insects  in  the  area 
+
+♦  Unexplained  odors  (smell  of  bitter  almonds,  peach  pits,  newly 
+mown  hay,  or  green  grass);  some  agents  may  be  odorless 
+
+♦  Unusual  liquid  or  unauthorized  spraying  in  the  area;  agents  may  be 
+released  as  tiny  droplets,  similar  to  the  release  of  an  insecticide 
+
+♦  Often  large  numbers  of  victims  display  a  sudden  onset  of  symptoms 
+of  nausea,  difficulty  breathing,  convulsions,  disorientation,  or 
+patterns  of  illness  inconsistent  with  natural  disease 
+
+♦  Low-lying  clouds  or  fog  unrelated  to  weather;  clouds  of  dust;  or 
+suspended,  possibly  colored,  particles 
+
+♦  The  effect  of  a  chemical  agent  depends  on  its  concentration  and 
+type;  smaller  doses  of  the  agent  may  or  may  not  kill 
+
+♦  Some  chemical  agents  are  heavier  than  air,  consequently  when 
+sheltering-in-place,  remain  out  of  low-lying  areas,  such  as  ditches 
+or  ravines 
+
+
+EXAMPLES  OF  CHEMICAL  AGENTS 
+
+type/ 
+
+AGENT 
+
+EXAMPLE 
+
+MECHANISM  OF 
+ATTACK 
+
+TIME  OF  ONSET 
+OF  SYMPTOMS 
+
+SYMPTOMS 
+
+Blister 
+
+Mustard  (H) 
+
+Skin  and  tissue 
+destruction  on 
+contact 
+
+Hours 
+
+Redness  of  skin,  skin 
+blistering,  eye  irritation, 
+blindness,  and  lung  disease 
+
+Nerve 
+
+Sarin  (GB)  and 
+VX 
+
+Nervous  system 
+disruption  on 
+inhalation  or 
+contact 
+
+Seconds  to 
+minutes 
+
+Dim  vision,  muscular 
+twitching,  salivation,  difficulty 
+breathing,  nausea,  and 
+convulsions 
+
+Blood 
+
+Cyanogen 
+chloride  (CK) 
+Hydrogen 
+cyanide  (AC) 
+
+Blocking  of  blood 
+and  oxygen  on 
+inhalation 
+
+Seconds  to 
+minutes 
+
+Dizziness,  nausea,  vomiting, 
+headaches,  and  convulsions 
+
+Choking 
+
+Phosgene  (CG) 
+Chlorine 
+
+Luna  damage  on 
+inhalation 
+
+Min.  for  initial 
+symptoms, 
+several  hrs. 
+for  later 
+symptoms 
+
+Eye  and  airway  irritation, 
+tightness  in  the  chest, 
+shortness  of  breath,  and 
+fluid  in  the  lungs 
+
+IN  THE  EVENT  OF  A  CHEMICAL  INCIDENT  CONTACT 
+THE  NATIONAL  MILITARY  COMMAND  CENTER  (NMCC) 
+
+(703)  692-2387 
+
+(24  HOURS/ 7  DAYS  A  WEEK) 
+
+
+21 
+
+
+INCIDENT  (I)  TO  1+15  MIN  -  RESPONSE  CHECKLIST 
+
+♦  Gain  situational  awareness 
+
+♦  Initiate  concept  of  operations,  if  it  exists 
+
+♦  Continue  the  mission  and  critical  operations 
+
+♦  Limit  further  damage  to  lives  and  property  (contain  the 
+situation) 
+
+♦  Notify  the  NMCC  via  Operational  Report  (0PREP)-3  incident  report 
+of  terrorist/hostile  chemical  incident 
+
+♦  Confirm  direct  notification  of  Higher  Headquarters,  Fire,  Emergency 
+Medical  Services  (EMS),  Security  Forces,  EOD,  HAZMAT  and 
+Chemical  Response  Team,  if  available 
+
+♦  Adjust  Force  Protection  (FPCON)  level 
+
+♦  Activate  Installation  Command  Post  (ICP)  or  EOC 
+
+♦  Appoint  an  incident  commander  (usually  senior  Fire  official  at 
+incident) 
+
+♦  Notify  State  and  local  authorities  as  defined  in  MOUs/MOAs 
+
+♦  Initiate  mass  notification  via  EOC  (installation  emergency  alert 
+system) 
+
+♦  Determine  protective  measures 
+
+♦  Confirm  first  responders  have  made  initial  assessment; 
+established  an  on-scene  command  post,  cordon,  entry/ exit  points 
+and  staging  area;  are  mitigating  the  situation;  and  are  performing 
+life-saving  operations  and  initial  casualty  decontamination 
+
+♦  Confirm  first  responders  have  established  hazardous/ 
+contamination  control  zones  and  are  utilizing  personal  protection 
+equipment  and  decontamination  supplies  and  antidotes,  if 
+available 
+
+♦  Ensure  first  responders  have  checked  for  secondary  devices 
+
+♦  Identify  possible  further  health/medical  needs  and  available 
+resources/equipment 
+
+♦  Contact  key  health  personnel  (CDC,  local  hospitals,  etc.) 
+
+♦  Identify  affected  individuals,  if  necessary,  implement 
+contamination  avoidance  measures  (i.e.  quarantine)  and  confirm 
+establishment  of  casualty  holding  area 
+
+♦  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+
+1+15  MIN  TO  1+1  HR  -  RESPONSE  CHECKLIST 
+
+♦  Ensure  Security  Forces  are  implementing  protection  procedures  of 
+personnel  and  installation 
+
+♦  Assess  infrastructure  on-installation  (communications,  damage 
+assessment,  water/sewage/electricity,  control  of  food,  housing); 
+issue  notices,  if  necessary 
+
+♦  Activate  JIC  for  incident  announcements  on  and  off-installation; 
+monitor  notification  of  local/civilian  public  with  emergency  alert 
+system  via  radio/TV,  mobile  public  address  systems,  and  sirens 
+via  JIC;  JIC  will  also  process  media  requests  for  information  and 
+announcements 
+
+♦  Confirm  installation  mass  notification  and  notification  of  affected 
+local  population  (include  directions  for  personal  protection  in  public 
+announcement) 
+
+♦  Activate  installation  shelter-in-place  or  evacuation  plans  via  EOC 
+and  Security  Forces 
+
+♦  Identify  available  transportation;  direct  coordination  of  alternate 
+means/routes 
+
+♦  Conduct  follow-on  reports  to  higher  headquarters  via  situation 
+report  (SITREP) 
+
+♦  Readjust  FPCON  level,  if  necessary 
+
+♦  Work  with  Higher  Headquarters  to  coordinate  arrival  of  DoD/ 
+Federal  response  teams 
+
+♦  Ensure  local  off-installation  assistance/mutual  aid  has  access  to 
+installation  and  is  arriving 
+
+♦  Begin/obtain  personnel  accounting  information 
+
+♦  Confirm  first  responders  are  attempting  identification  of  agent  and 
+scope  of  damage 
+
+♦  Confirm  decontamination  efforts;  redefine  boundaries  of  hazard/ 
+contamination  control  zones  based  on  new  information 
+
+♦  Assist  in  evacuation/relocation/traffic  redirection,  if  necessary,  via 
+Security  Forces 
+
+♦  Confirm  and  maintain  contact  with  local  and  State  EOCs,  if 
+activated 
+
+♦  Determine  size/scope  and  ETA  of  DoD/Federal  assets 
+
+♦  Confirm  health  and  security  personnel  have  cleared  and  secured 
+on-installation  hospital  entrances  and  grounds 
+
+
+CONTINUED . . . 
+
+23 
+
+
+1+1 5  MIN  TO  1+1  HR  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+♦  Confirm  all  health  centers  (on-installation  and  off,  if  needed) 
+are  able  to  provide  sufficient  emergency  care  and  that 
+
+only  life  threatening  injuries  are  receiving  treatment  before 
+decontamination  (public  should  be  directed  to  seek  medical 
+attention  only  when  needed) 
+
+♦  Seek  medical  advisors  for  possible  preventative  measures  or 
+limiting  the  effects  of  the  chemical  agent 
+
+♦  Assess  status  of  local  public  transportation,  private/military 
+transportation  assets 
+
+1+1  HR  TO  1+4  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Continue  notification  of  installation/local/civilian  public  via  JIC 
+
+♦  Confirm  entry/exit  control  of  arriving  mutual  aid  at  staging  area 
+
+♦  Coordinate  with  and  brief  arriving  local,  State,  Federal  and  DoD 
+agencies  and  assets 
+
+♦  Complete  personnel  accountability 
+
+♦  Determine  how  to  transport  personnel  on/off/within  the 
+installation,  if  necessary;  if  evacuating,  Security  Forces  will  direct 
+this  process 
+
+♦  Confirm  and  monitor  continuation  of  response  and  recovery 
+operations  and  decontamination  station  upwind  of  the  hot  zone 
+
+♦  Confirm  recharge  of  installation  capabilities,  if  necessary 
+
+♦  Monitor  decontamination  efforts;  ensure  first  entry  team  has  been 
+decontaminated 
+
+♦  Appropriate  office  (most  installations,  Legal  Affairs)  will  make 
+family  notifications 
+
+♦  Confirm  presumptive  identification  of  agent  type 
+
+♦  Continue  preservation  of  evidence  measures 
+
+♦  Confirm  non-ambulatory  casualties  are  removed  during  casualty 
+extraction 
+
+♦  DoD  will  provide  personnel,  chemical  weapon  response  resources 
+and  airborne  sampling  on  request  -  EOC  must  coordinate  request 
+
+♦  Continue  personnel  accounting  of  contaminated  casualties  at 
+hospitals;  coordinate  with  Mortuary  Affairs  for  dead  and  continue 
+advisory  shelter-in-place/evacuation  options 
+
+♦  Ensure  provision  of  basic  needs  begins,  if  necessary 
+
+
+♦  Monitor  public  announcements  as  new  information  warrants 
+
+♦  Continue  monitoring  decontamination  actions 
+
+♦  Continue  monitoring  evacuation  status,  if  necessary 
+
+♦  Continue  monitoring  response  and  recovery  operations 
+
+♦  State  and  local  health  departments  and  HHS  will  ensure  availability 
+of  medical  care/other  human  services,  crisis  counseling,  chemical 
+incident  advice,  etc. 
+
+
+♦  DHS  will  work  to  provide  the  installation  with  consequence 
+management  and  mitigation  support  IAW  the  NRF,  and  may 
+activate  the  NRF  Terrorism  Annex 
+
+
+♦  If  directed  by  appropriate  national  authorities  IAW  the  NRF,  DHS  will 
+become  the  lead  authority;  FBI  will  maintain  investigative  authority 
+and  installation  will  support  efforts 
+
+♦  If  DHS  and/or  the  FBI  does  not  assume  lead  IAW  the  NRF,  the 
+installation  will  remain  the  lead  authority  for  all  consequence 
+management  and  crisis  management  coordination,  efforts  and 
+actions 
+
+♦  USDA  may  be  contacted  for  food  and  agricultural  contamination 
+issues 
+
+
+♦  Continue  monitoring  installation’s  infrastructure  and  provision 
+capabilities 
+
+
+(From  JP  3-11) 
+
+
+The  hazards  from  a  chemical  strike  may  last  for  less  than  an  hour  or 
+for  several  weeks.  The  effects  on  personnel  may  be  immediate.  For 
+units  forced  into  high  levels  of  protection,  missions  will  take  longer  to 
+perform.  A  summary  of  chemical  weapon  effects  for  persistent  and 
+nonpersistent  agents  is  shown  on  the  next  page. 
+
+
+25 
+
+
+CHEMICAL  WEAPONS  EFFECTS 
+
+The  following  types  of  agents  and  their  effects  are  based  on  military 
+weaponized  chemical  agents.  Toxic  industrial  chemicals/materials  (such 
+as  chlorine  or  cyanide),  which  may  be  found  near  or  on  an  installation, 
+must  also  be  considered.  Their  effects  will  be  similar  to  those  found  below. 
+
+
+CHEMICAL  WEAPONS  EFFECTS 
+
+CHEMICAL  AGENT 
+
+TARGET  OF  CHOICE 
+
+TARGET  EFFECT 
+
+NONPERSISTENT  NERVE 
+
+PERSONNEL 
+
+IMMEDIATE  AND  LETHAL 
+
+PERSISTENT  NERVE 
+
+PERSONNEL,  MATERIAL, 
+LOGISTICS  AND  COMMAND 
+
+AND  CONTROL  FACILITIES 
+
+REDUCED  OPERATIONS 
+
+TEMPO  OR  MISSION 
+
+degradation;  lethal  or 
+
+CASUALTY-PRODUCING 
+
+PERSISTENT  BLISTER 
+
+SAME  AS  PERSISTENT  NERVE 
+
+SAME  AS  PERSISTENT  NERVE 
+
+NONPERSISTENT 
+
+BLOOD  AND  NON 
+PERSISTENT  CHOKING 
+
+PERSONNEL 
+
+IMMEDIATE,  LETHAL  OR 
+
+CASUALTY  PRODUCING 
+
+Information  taken  from  Joint  Publication  3-1 1 ,  Figure  D-1 
+
+
+THREAT  CHEMICAL  AGENTS 
+
+TYPES 
+
+SYMPTOMS 
+
+EFFECTS 
+
+RATE  OF 
+ACTION 
+
+RELEASE 
+
+FROM 
+
+NERVE 
+
+DIFFICULTY  BREATHING. 
+SWEATING,  DROOLING, 
+NAUSEA,  VOMITING, 
+CONVULSIONS,  AND 
+DIMMING  OF  VISION. 
+SYMPTOMS  USUALLY 
+DEVELOP  QUICKLY. 
+
+INCAPACITATES  AT 
+
+low  concentration; 
+
+KILLS  IF  INHALED  OR 
+ABSORBED  THROUGHT 
+THE  SKIN  OR  EYES. 
+
+VERY  RAPID  BY 
+
+INHALATION  OR 
+THROUGH  THE 
+eyes;  SLOWER 
+THROUGH  SKIN. 
+
+AEROSOL, 
+
+VAPOR,  OR 
+
+LIQUID. 
+
+BLOOD 
+
+AND 
+
+CHOKING 
+
+DIFFICULTY 
+
+breathing;  coma. 
+
+KILLS  IF  HIGH 
+CONCENTRATION 
+
+ARE  INHALED. 
+
+RAPID. 
+
+AEROSOL  OR 
+VAPOR. 
+
+BLISTER 
+
+SYMPTOMS  RANGE 
+
+FROM  IMMEDIATE  TO 
+DELAYED,  DEPENDING 
+
+ON  AGENT.  SEARING 
+
+OF  EYES  AND  STINGING 
+
+OF  SKIN.  POWERFUL 
+IRRITATION  OF  EYES, 
+
+NOSE  AND  SKIN. 
+
+BLISTERS  SKIN 
+
+AND  RESPIRATORY 
+tract;  CAN  CAUSE 
+TEMPORARY 
+
+BLINDNESS.  SOME 
+
+STING  AND  FORM 
+
+WELTS  ON  THE  SKIN. 
+
+BLISTERS  FROM 
+MUSTARD  MAY 
+APPEAR  SEVERAL 
+HOURS  AFTER 
+EXPOSURE, 
+WHEREAS 
+
+LEWISITE  CAUSES 
+BLISTERS  WITHIN 
+MINUTES  OF 
+EXPOSURE. 
+
+LIQUID  OR 
+DROPLETS. 
+
+Taken  directly  from  Joint  Publication  3-1 1 ,  Figure  D-2 
+
+
+BIOLOGICAL  INCIDENT 
+
+INDICATIONS  OF  A  BIOLOGICAL  INCIDENT 
+
+♦  Primary  care  physicians,  hospitals,  pharmacies  &  EMS 
+providers  will  begin  to  notice  off-season  symptoms  (similar  to  a  flu 
+outbreak  to  include  symptoms  like  unexplained  gastrointestinal 
+illnesses  and  upper  respiratory  problems);  careful  to  note  that 
+symptoms  may  occur  during  on-season  as  well 
+
+♦  Potential  lag-time  between  employment  and  on-set  of  symptoms 
+(except  for  fast-acting  agents,  e.g.,  ricin) 
+
+♦  Most  biological  agents  have  incubation  period  of  1-7  days  before 
+on-set  of  symptoms,  thus  potential  for  widespread  contamination 
+through  affected  personnel  is  great;  detection  will  occur  several 
+hours/days/weeks  after  original  dissemination 
+
+♦  Evidence  of  a  disease  that  is  unusual  or  does  not  occur  naturally  in 
+a  given  area  or  manifestation  of  multiple  disease  symptoms  in  the 
+same  patients;  indicates  mixed  agents 
+
+♦  Large  numbers  of  military  and  civilian  casualties  may  be  affected 
+within  a  geographic  area 
+
+♦  Data  suggesting  an  outbreak  from  a  definitive  source 
+
+♦  Large  die-off  in  multiple  species  of  animals 
+
+♦  Absence  of  a  natural  cause  for  the  outbreak 
+
+♦  Biological  agents  can  be  classified  as  pathogens  or  toxins.  Human 
+pathogens  are  defined  as  organisms  that  cause  disease  in  man. 
+Pathogens  include  bacteria,  rickettsia,  fungi,  and  viruses.  Naturally 
+occurring  toxins  are  non-living  byproducts  of  cellular  processes  that 
+can  be  lethal  or  highly  incapacitating.  Page  32  provides  a  synopsis 
+of  several  potential  biological  agents  and  their  ranges  of  effects 
+(JP  3-11). 
+
+
+IN  THE  EVENT  OF  A  BIOLOGICAL  INCIDENT 
+
+CONTACT 
+
+THE  NATIONAL  MILITARY  COMMAND  CENTER  (NMCC) 
+
+(703)  692-2387 
+
+(24  HOURS/ 7  DAYS  A  WEEK) 
+
+
+27 
+
+
+MORE  BIOLOGICAL  INDICATIONS  AND  INFORMATION 
+
+
+METHODS  OF  DISPERSAL 
+
+1)  Airborne  via  liquid  droplets/aerosolized  spray  -  hard  to  detect 
+and  is  effective  in  covering  large  areas  with  minimal  amounts  of 
+agent  and  equipment 
+
+2)  Blood/body  fluids 
+
+3)  Food  and  water  source  introduction 
+
+4)  Infected  animal  (vector)  release 
+
+5)  Dry  powders  (for  example,  via  the  postal  system) 
+
+IMPORTANT  TO  NOTE 
+
+♦  May  result  in  high  mortality  rates  and  have  the  potential  for  major 
+public  health  impact,  as  well  as  cause  public  panic  and  social 
+disruption 
+
+♦  Requires  special  action  for  public  health  preparedness 
+
+♦  Time  required  before  symptoms  are  observed  is  dependent  on  the 
+agent  used  and  the  dose  received 
+
+♦  Most  important  is  to  identify  an  unfolding  event  early  and  be  able  to 
+screen  personnel  rapidly  and  distribute  antidotes  effectively 
+
+♦  Best  protection  is  hand-washing,  masks  and  shelter-in-place 
+
+♦  There  will  be  a  need  for  an  early  decision  to  quarantine;  coordinate 
+with  local  department  of  health 
+
+♦  On-installation  in-patient  medical  facility  will  need  surge/storage 
+isolation  facility 
+
+♦  Agent  can  be  identified  with  100%  accuracy  only  in  a  lab;  results 
+may  be  available  within  24  -  48  hours 
+
+♦  Timely  identification  and  communication  of  the  attack  is  essential 
+in  treating  and  controlling  the  disease  and  limiting  the  effect  on 
+personnel 
+
+♦  Preventive  medicine  specialists  shall  be  required  to  assist 
+Commanders  with  identifying  safe  food  and  water  sources  in 
+determining  when  to  use  treatment,  immunization,  and  other 
+preventative  measures 
+
+
+28 
+
+
+IMMEDIATE  DISCOVERY  (OVERT  SCENARIO) 
+
+INCIDENT  (I)  TO  I  +  1  HOUR  -  RESPONSE  CHECKLIST 
+
+If  an  unknown  biological  agent/ material  is  immediately  present 
+
+and  discovered  at  the  installation,  follow  the  same  general 
+
+response  activities  as  a  CHEMICAL  INCIDENT,  with  the  following 
+
+additional  actions: 
+
+♦  Upon  possible  discovery  of  any  biological  agent,  notify  first 
+responders 
+
+♦  If  a  suspect  package  is  found,  leave  where  discovered  and  contact 
+HAZMAT  team,  EOD,  CDC  and/or  CBIRF,  if  available 
+
+♦  Clear  the  area,  close  any  doors,  and  take  actions  to  prevent  entry 
+into  the  area;  shut  off  ventilation  system(s) 
+
+♦  Advise  personnel  to  immediately  wash  hands  with  soap  and  water 
+to  prevent  spread;  seek  medical  expert  advice  for  exposed  or 
+potentially-exposed  personnel 
+
+♦  Inform  first  responders  where  washing  of  hands  took  place  for 
+contaminated  run-off 
+
+♦  Collaborate  in  creation  of  list  of  personnel  that  may  have  had 
+contact  with  package  or  room  where  agent/material  was  found  and 
+provide  to  public  health  authorities  and  Security  Forces 
+
+♦  Notify  State  and  local  authorities  as  defined  in  MOUs/MOAs 
+
+♦  First  responders  will  monitor  for  amounts  of  contamination,  FBI 
+must  be  notified  if  a  terrorist  event  is  suspected 
+
+♦  To  reduce  panic,  make  a  public  announcement  via  EOC  or 
+activated  JIC 
+
+♦  Quarantine  affected  area/personnel,  as  needed 
+
+♦  Begin  setup  of  an  office/area  for  incident  information/advice 
+
+♦  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+♦  DHS  will  work  to  provide  the  installation  with  consequence 
+management  and  mitigation  support  IAW  the  NRF,  and  may  activate 
+the  NRF  Terrorism  Annex. 
+
+♦  If  directed  by  appropriate  national  authorities  IAW  the  NRF,  DHS  will 
+become  the  lead  authority;  FBI  will  maintain  investigative  authority 
+
+and  installation  will  support  efforts 
+
+♦  If  DHS  and/or  the  FBI  does  not  assume  lead  IAW  the  NRF,  the 
+installation  will  remain  the  lead  authority  for  all  consequence 
+management  and  crisis  management  coordination,  efforts  and 
+
+actions 
+
+
+29 
+
+
+DELAYED  DISCOVERY: 
+
+DAY  1  TO  DAY  7  -  RESPONSE  CHECKLIST 
+
+NO  NOTICE.  HOSPITALS  INDICATE  ATYPICAL  ACTIVITY: 
+
+♦  Direct  installation  or  request  local  department  of  health  undertake 
+an  investigation 
+
+♦  Notify  the  NMCC  via  OPREP-3  incident  report  of  possible  terrorist/ 
+hostile  incident  (DoD  will  make  recommendations  as  the  situation 
+necessitates) 
+
+♦  Notify  State  and  local  authorities  as  defined  in  the  MOUs/MOAs 
+
+♦  The  local  health  department  or  State  Public  Health  Region 
+Field  Office,  as  the  entities  most  familiar  with  community 
+health  providers,  will  typically  take  the  lead  in  coordinating  the 
+local  medical  response,  until  Federal  assets  are  available  or 
+requested  for  support 
+
+♦  Alert  Security  Forces 
+
+♦  Notify  local  Emergency  management  and  services  organizations  of 
+situation  (Fire,  EMS,  police) 
+
+♦  Warn  medical  community/health  departments  of  situation, 
+potential  effects 
+
+♦  Contact  neighboring  jurisdictions  to  determine  status  (same? 
+different?) 
+
+♦  Advise  installation/community  leaders  of  best  protective  measures 
+
+♦  Prepare  public  statement  via  EOC  or  activated  JIC 
+
+■  Advise  persons  to  stay  in  their  homes 
+
+■  Advise  persons  to  seek  medical  attention  only  if  necessary 
+
+♦  Confirm  initial  determination  of  illness(es)  and  cause(s)  (agent) 
+
+■  Determine  contagiousness 
+
+♦  Make  outbreak  determination  (if  necessary) 
+
+♦  DHS  will  make  a  determination  if  Incident  of  National  Significance 
+(refer  to  last  three  bullets  on  previous  page) 
+
+♦  Coordinate  decision  to  quarantine  with  local  health  department 
+
+♦  Facilitate  personnel  health  screening  and  treatment 
+
+♦  Facilitate  antidote  issuance  and  treatment 
+
+♦  Make  CDC  request  (Strategic  National  Stockpile  request)  for 
+additional  medication  via  installation  hospital,  if  necessary 
+
+♦  Seek  medical  advisors  for  possible  preventative  measures  or 
+limiting  the  effects  of  biological  agent 
+
+♦  Put  out  extensive  literature/information  on  proactive  measures  for 
+the  population  to  prevent  transmission  of  the  infection 
+
+♦  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+
+DELAYED  DISCOVERY: 
+
+DAY  7  TO  DAY  14  -  RESPONSE  CHECKLIST 
+
+♦  Facilitate  access  of  medical  screeners  to  affected  personnel 
+
+♦  Follow  up  with  installation  or  local  department  of  health 
+undertaking  the  investigation 
+
+♦  Ensure  Security  Forces  are  maintaining  public  order 
+
+♦  Continue  close  communication  with  the  medical  community  about 
+hospital  status 
+
+♦  Monitor  status  of  neighboring  jurisdictions 
+
+♦  Continue  public  statements  as  more  information  becomes 
+available 
+
+♦  Direct  increased  surveillance  for  identified  symptoms 
+
+♦  Determine  and  confirm  case  definition  and  attack  rate 
+
+♦  Confirm  persons  likely  infected;  request  suggested  actions  from 
+expert  medical  personnel 
+
+♦  Confirm  receipt  of  formal  identification  of  outbreak  contaminant 
+
+♦  Update  local,  State  and  Federal  notifications  (CDC,  FBI, 
+
+HHS,  etc.) 
+
+♦  Hospitals,  health  care  centers  will  maintain  standard  precautions/ 
+actions  and  provide  installation  with  updates 
+
+♦  Appropriate  office  (most  installations,  Legal  Affairs)  will  make 
+family  notifications 
+
+
+DELAYED  DISCOVERY: 
+
+DAY  14  TO  DAY  21  -  RESPONSE  CHECKLIST 
+
+♦  Follow  up  with  installation  or  local  department  of  health 
+investigation 
+
+♦  Monitor  status  of  public  and  protective  measures  being  taken 
+
+♦  Update  local,  State  and  Federal  notifications  (CDC,  FBI,  HHS,  etc.) 
+
+♦  Hospitals,  health  care  centers  will  maintain  standard  precautions 
+unless  severe  contagiousness  is  determined;  Federal  agencies  and 
+DoD  will  provide  actions  to  installation  if  severe  contagiousness  is 
+determined 
+
+♦  Monitor  and  confirm  reachback  capabilities  and  actions  of  CDC 
+(Strategic  National  Stockpile),  civilian  hospital  capabilities  and 
+MOUs/MOAs 
+
+
+31 
+
+
+POTENTIAL  BIOLOGICAL  AGENTS 
+
+DISEASE  OR  AGENT 
+
+ROUTES  OF 
+INFECTION  1 
+
+UNTREATED 
+
+MORTALITY 
+
+(%) 
+
+INCUBATION 
+
+PERIOD 
+
+VACCINE 
+
+TREATMENT 
+
+ANTHRAX  (BACILLUS 
+ANTHRACIS) 
+
+S,  D,  R 
+
+s:  5-20% 
+
+R:  80-90% 
+
+1-4  DAYS 
+
+YES 
+
+ANTIBIOTICS 
+
+(limited 
+EFFECTIVENESS 
+AFTER  SEVERE 
+SYMPTOMS 
+develop) 
+
+BOTULINUM 
+
+NEUROTOXINS 
+
+D,  R 
+
+60% 
+
+1-4  DAYS 
+
+ind; 
+
+AVAILABLE 
+ONLY  UNDER 
+FDA- 
+
+APPROVED 
+
+PROTOCOL 
+
+IMMEDIATE 
+
+ANTITOXIN 
+
+PLAGUE  (YERSINIA 
+PESTIS) 
+
+V,  R 
+
+bubonic:  50% 
+PNEUMONIC 
+100% 
+
+2-3  DAYS 
+
+NO 
+
+ANTIBIOTICS 
+
+Q  FEVER  (COXIELLA 
+
+burnetii) 
+
+V,  R 
+
+<1% 
+
+2-10  DAYS 
+
+IND 
+
+ANTIBIOTICS 
+
+RICIN  TOXIN 
+
+D,  R 
+
+35-39% 
+
+1-3  DAYS 
+
+NO 
+
+SYMPTOMATIC 
+
+STAPHYLOCOCCAL 
+ENTEROTOXIN  B 
+
+D,  R 
+
+<  1% 
+
+4-6  DAYS 
+
+NO 
+
+SYMPTOMATIC 
+
+SMALLPOX 
+
+R 
+
+35-39% 
+
+10-12  DAYS 
+
+AVAILABLE 
+ONLY  FROM 
+CONTROLLED 
+US  STOCK 
+
+SUPPORTIVE 
+
+TULAREMIA 
+
+D,  R,  V 
+
+30-60% 
+
+2-10  DAYS 
+
+IND 
+
+ANTIBIOTICS 
+
+VENEZUELAN  EQUINE 
+ENCEPHALITIS 
+
+R,  v 
+
+<1% 
+
+2-6  DAYS 
+
+IND 
+
+SUPPORTIVE 
+
+VIRAL  HEMORRHAGIC 
+FEVERS  (EBOLA, 
+MARBURG,  LASSA, 
+
+RIFT  VALLEY, 
+
+DENGUE,  ETC.) 
+
+DC,  R,  V 
+
+UP  TO  90% 
+
+(depends 
+
+ON  VIRUS) 
+
+3-21  DAYS 
+
+NO 
+
+SYMPTOMATIC 
+(SOME  MAY 
+
+RESPOND  TO 
+
+ribavirin) 
+
+D  -  DIGESTIVE  SYSTEM  DC  =  DIRECT  CONTACT  R  =  RESPIRATORY  S  =  SKIN  V  =  VECTOR 
+IND  =  INVESTIGATIONAL  NEW  DRUG  FDA  =  FOOD  &  DRUG  ADMINISTRATION 
+
+NOTE!  1  RESPIRATORY  WOULD  BE  THE  PRIMARY  ROUTE  OF  ENTRY  IN  A  BIOLOGICAL  ATTACK;  AND  THE 
+
+MOST  PROBABLE  MODE  OF  DISSEMINATION  WOULD  BE  RELEASE  OF  A  BIOLOGICAL  AGENT  THROUGH 
+AEROSOL  DELIVERY. 
+
+Information  taken  from  Joint  Publication  3-11,  Figure  C-1 
+
+
+RADIOLOGICAL  INCIDENT 
+
+INDICATIONS  OF  A  RADIOLOGICAL  INCIDENT 
+
+*  According  to  AFRRI’s  Medical  Management 
+of  Radiological  Casualties  Handbook: 
+
+♦  Material  dispersed  can  originate  from  any  location  using 
+radioactive  sources  (nuclear  waste  processors,  nuclear  power 
+plants,  university  research  facilities,  medical  radiotherapy  clinics,  or 
+industrial  complexes) 
+
+♦  Exposure  may  be  known/recognized  or  clandestine  through: 
+
+■  Large  recognized  exposures,  such  as  radiological  dispersal 
+devices  (any  device  that  causes  the  purposeful  dissemination  of 
+radioactive  material  across  an  area  without  a  nuclear  detonation;  a 
+radioactive  source  is  blown  up  using  conventional  explosives  and  is 
+scattered  across  the  targeted  area  as  debris) 
+
+■  Small  radiation  source  emitting  continuous  gamma  radiation 
+producing  group  or  individual  chronic  intermittent  exposures 
+(such  as  radiological  sources  from  medical  treatment  devices  or 
+environmental  water  or  food  pollution) 
+
+♦  Exposure  may  result  from  one  or  any  combination  of  the  following: 
+
+■  External  (such  as  skin  contamination  with  a  radioactive  material) 
+
+■  Internal  (absorbed,  inhaled,  or  ingested  radioactive  material) 
+
+♦  Conventional  explosion:  will  cause  injury  from  the  physical  effects 
+of  the  blast  (debris  scattered  from  explosion)  in  addition  to  the 
+radiation  and  heavy-metal  hazard  inherent  in  many  radioactive 
+materials 
+
+♦  Psychological  effects:  severity  will  depend  on  the  nature  of  the 
+material  and  method  of  deployment;  number  of  casualties  from  blast 
+and  a  more  frantic  situation  will  intensify  stress  among  personnel 
+
+Intermittent/Chronic  Exposure  Symptoms: 
+
+♦  Headache,  fatigue,  weakness 
+
+♦  Anorexia,  nausea,  vomiting,  diarrhea 
+
+♦  Partial  and  full  thickness  skin  damage,  hair  loss,  ulceration 
+
+♦  Low  white  blood  cell  count,  a  decrease  in  blood  platelets,  skin 
+hemorrhaging,  opportunistic  infections 
+
+Specific  Symptoms  of  Concern,  especially  with  a  2-3  week  prior 
+history  of  nausea  and  vomiting: 
+
+♦  Thermal  burn-like  skin  effects  without  documented  thermal  exposure 
+
+♦  Immunological  dysfunction  with  secondary  infections 
+
+♦  A  tendency  to  bleed  (nose,  gums) 
+
+♦  Decreased  ability  for  blood  clotting 
+
+
+IN  THE  EVENT  OF  A  RADIOLOGICAL  INCIDENT 
+CONTACT  THE  NATIONAL  MILITARY  COMMAND  CENTER  (NMCC) 
+(703)  692-2387  (24  HOURS  /  7  DAYS  A  WEEK) 
+
+
+33 
+
+
+IMPORTANT  INFORMATION  ON  RADIOLOGICAL  DISPERAL 
+
+
+According  to  DoD  Concept  of  Operations  for  CBRNE  Defense 
+
+Supporting  US  Military  Installation  and  Facility  Preparedness: 
+
+♦  Low-level  radiological  material  is  available  from  a  large  number  of 
+industrial  sources  worldwide. 
+
+♦  Terrorists  able  to  gain  access  to  this  material  could  exploit  it  using 
+explosive  devices  (or  devices  such  as  aerial  sprayers  or  hidden 
+stationary  sources). 
+
+♦  Specific  examples  of  terrorist/hostile  radiological  hazards  include 
+iridium,  cobalt,  cesium,  and  highly  enriched  uranium  (HEU)  as  the 
+core  of  a  radiological  dispersal  device. 
+
+♦  Although  rarely  lethal  in  the  near-term,  the  deliberate 
+dissemination  of  radioactive  matter  can  cause  considerable 
+immediate  psychological  harm.  At  moderate  dosages,  exposed 
+personnel  could  also  experience  delayed  effects  or  might  develop 
+cancer  decades  later. 
+
+Treatment  Considerations  (from  AFRRI’s  Medical  Management  of 
+
+Radiological  Casualties  Handbook): 
+
+♦  If  trauma  is  present,  treat 
+
+♦  If  external  radioactive  contaminants  are  present,  decontaminate 
+
+♦  If  radioiodine  (reactor  accident)  is  present,  consider  giving 
+prophylactic  potassium  iodide  (Lugol’s  Solution)  within  first  24 
+hours  only  (ineffective  later) 
+
+Decontamination  Considerations  (from  AFRRI’s  Medical  Management  of 
+
+Radiological  Casualties  Handbook): 
+
+♦  Exposure  without  contamination  requires  no  decontamination 
+(Radiation  Safety  Officer  (RSO)  measurement) 
+
+♦  Exposure  with  contamination  requires  Universal  Precautions, 
+removal  of  patient  clothing,  and  decontamination  with  water 
+
+♦  For  internal  contamination,  contact  RSO  and/or  nuclear  medicine 
+physician 
+
+♦  Treating  contaminated  patients  before  decontamination  may 
+contaminate  the  facility;  plan  for  decontamination  before  arrival 
+
+♦  Patient  with  life-threatening  condition:  treat,  then  decontaminate 
+
+♦  Patient  with  non-life-threatening  condition:  decontaminate,  then 
+treat 
+
+
+INCIDENT  (I)  TO  1 5  MIN  -  RESPONSE  CHECKLIST 
+
+4  Gain  situational  awareness 
+4  Initiate  concept  of  operations,  if  exists 
+4  Continue  the  mission  and  critical  operations 
+4  Limit  further  damage  to  lives  and  property  (contain  the 
+situation) 
+
+4  Notify  the  NMCC  via  OPREP-3  incident  report  of  terrorist/hostile 
+radiological  incident  (ensure  nuclear  detonation  is  not  reported) 
+
+4  Confirm  direct  notification  of  Higher  Headquarters,  Fire,  EMS, 
+Security  Forces,  EOD,  radiological  response  assets,  if  available 
+
+4  Adjust  FPCON  level 
+4  Activate  ICP/EOC 
+
+4  Appoint  an  incident  commander  (usually  senior  fire  official  at 
+incident) 
+
+4  Notify  State  and  local  authorities  as  defined  in  the  MOUs/MOAs 
+4  Initiate  mass  notification  via  EOC  (installation  emergency  alert 
+system) 
+
+4  Determine  protective  measures 
+
+4  Confirm  first  responders  have  made  initial  assessment; 
+
+established  an  on-scene  command  post,  cordon,  entry/exit  points 
+and  staging  area;  mitigated  the  situation;  and  are  performing 
+life-saving  operations  and  initial  casualty  decontamination 
+4  Confirm  first  responders  have  established  hazardous/ 
+
+contamination  control  zones  and  are  utilizing  personal  protection 
+equipment  and  decontamination  supplies 
+4  Ensure  first  responders  have  checked  for  secondary  devices 
+4  Identify  possible  further  health/medical  needs  and  available 
+resources/equipment 
+
+4  Contact  key  health  personnel  (radiological  assistance  teams/ 
+agencies,  local  hospitals,  etc.) 
+
+4  Identify  affected  individuals,  if  necessary,  implement 
+
+contamination  avoidance  measures  for  surrounding  incident  area 
+4  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+
+35 
+
+
+1+15  MIN  TO  1+1  HR  -  RESPONSE  CHECKLIST 
+
+
+♦  Ensure  Security  Forces  are  implementing  protection  procedures  of 
+personnel  and  installation 
+
+♦  Assess  infrastructure  on-installation  (communications,  damage 
+assessment,  water/sewage/electricity,  control  of  food,  housing); 
+issue  notices,  if  necessary 
+
+♦  Activate  JIC  for  incident  announcements  on  and  off-installation; 
+monitor  notification  of  local/civilian  public  with  emergency  alert 
+system  via  radio/TV,  mobile  public  address  systems,  and  sirens 
+via  JIC;  JIC  will  also  process  media  requests  for  information  and 
+announcements 
+
+♦  Confirm  installation  mass  notification  and  notification  of  local 
+affected  population  (include  directions  for  personal  protection  in 
+public  announcements) 
+
+♦  Activate  installation  shelter-in-place  or  evacuation  plans  via  EOC 
+and  Security  Forces 
+
+♦  Confirm  establishment  of  cordon  for  first  responders  until  radiation 
+levels  have  been  determined 
+
+♦  Conduct  follow-on  reports  to  Higher  Headquarters  via  SITREP 
+
+♦  Readjust  FPCON  level,  if  necessary 
+
+♦  Work  with  higher  headquarters  to  coordinate  arrival  of  Federal/ 
+DoD  response  teams 
+
+♦  Identify  available  transportation;  direct  coordination  of  alternate 
+means,  routes 
+
+♦  Ensure  local  off-installation  assets  (mutual  aid)  have  access  to 
+installation  and  are  arriving 
+
+♦  Begin/obtain  personnel  accounting  information 
+
+♦  Monitor  response  and  recovery  actions;  confirm  type  of  radiation 
+and  dispersal  means  known 
+
+♦  Confirm  decontamination  efforts;  boundaries  of  hazardous/ 
+contamination  control  zones  redefined  based  on  new  information 
+
+♦  Assess  Medical  Center  capabilities  to  handle  contaminated 
+casualties 
+
+♦  Assist  in  evacuation/relocation/traffic  redirection  preparation  if 
+necessary,  via  Security  Forces 
+
+
+CONTINUED . . . 
+
+
+1+15  MIN  TO  1+1  HR  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+
+♦  Confirm  and  maintain  contact  with  local  and  State  EOCs,  if 
+activated 
+
+♦  Determine  size/scope  and  ETA  of  DoD/Federal  assets 
+
+♦  Confirm  health  and  security  personnel  have  cleared  and  secured 
+on-installation  hospital  entrances  and  grounds 
+
+♦  Confirm  all  health  centers  (on-installation  and  off,  if  needed) 
+are  able  to  provide  sufficient  emergency  care  and  that 
+
+only  life  threatening  injuries  are  receiving  treatment  before 
+decontamination  (public  should  be  directed  to  seek  medical 
+attention  only  when  needed) 
+
+♦  Assess  status  of  local  public  transportation,  private/military 
+transportation  assets 
+
+♦  Seek  medical  advisors  for  possible  preventative  measures  or 
+limiting  the  effects  of  radiation 
+
+
+1+1  HR  TO  1+4  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Continue  notification  of  installation/local/civilian  public  via  JIC 
+
+♦  Confirm  entry/exit  control  of  arriving  mutual  aid  at  staging  area 
+
+♦  Coordinate  with/brief  arriving  State,  Federal  and  DoD  agencies 
+
+♦  Complete  personnel  accountability 
+
+♦  Monitor  continued  response  and  recovery  efforts  and 
+decontamination  efforts 
+
+♦  Determine  how  to  transport  people  on/off/within  the  installation,  if 
+necessary;  if  evacuating,  Security  Forces  will  direct  this  process 
+
+♦  Installation  may  request  the  radiological  assistance  teams  or 
+agencies  (i.e.  the  FRMAC) 
+
+♦  Department  of  Energy  (DOE)  and  DTRA  (Hazard  Prediction  and 
+Assessment  Capability  (HPAC))  (202-586-2830  and  1-877-240- 
+1187  respectively)  can  model  plumes;  requests  should  go  through 
+their  EOCs  in  Washington,  D.C. 
+
+♦  Appropriate  office  (most  installations,  Legal  Affairs)  will  make 
+family  notifications 
+
+♦  Confirm  presumptive  identification  of  radiation  type 
+
+♦  Continue  preservation  of  evidence  measures  CONTINUED  . . . 
+
+
+37 
+
+
+1+1  HR  TO  1+4  HRS  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+
+♦  Confirm  non-ambulatory  casualties  are  removed  during  casualty 
+extraction 
+
+♦  Continue  personnel  accounting  of  contaminated  casualties  at 
+hospitals;  coordinate  with  Mortuary  Affairs  for  dead  and  continue 
+advisory  shelter-in-place/evacuation  options 
+
+♦  Ensure  provision  of  basic  needs  begins,  if  necessary 
+
+
+1+4  HRS  TO  1+8  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Monitor  public  announcements  as  new  information  warrants 
+
+♦  Continue  monitoring  response  and  recovery  efforts 
+
+♦  Continue  to  monitor  decontamination  actions 
+
+♦  Monitor  evacuation  status,  if  necessary 
+
+♦  DHS  will  work  to  provide  the  installation  with  consequence 
+management  and  mitigation  efforts  and  incident  oversight  if 
+directed  by  appropriate  national  authorities  IAW  the  NRF  (the 
+NRF  Nuclear/Radiological  Annex  and/or  Terrorism  Annex  may  be 
+activated) 
+
+♦  If  directed  by  appropriate  national  authorities  IAW  the  NRF,  DHS  will 
+become  the  lead  authority;  FBI  will  maintain  investigative  authority 
+and  installation  will  support  efforts 
+
+♦  If  DHS  and/or  the  FBI  does  not  assume  lead  IAW  the  NRF,  the 
+installation  will  remain  the  lead  authority  for  all  consequence 
+management  and  crisis  management  coordination,  efforts  and 
+actions 
+
+♦  DoD  will  provide  personnel,  radiological  resources  and  airborne 
+sampling  on  request 
+
+♦  State  and  local  health  department  and  HHS  will  ensure  availability 
+of  medical  care/other  human  services,  crisis  counseling, 
+radiological  incident  advice,  if  necessary 
+
+♦  DOE  will  provide  radiological  monitoring  and  assessment  activities, 
+generate  plume  models  and  provide  reference  material  for 
+calibrating  radiological  instruments;  radiation  shielding  materials 
+upon  request 
+
+
+INDICATIONS  OF  A  NUCLEAR  INCIDENT 
+
+
+A.4 
+
+Blast:  Increased  pressure  and  strong  winds  collapse  buildings 
+and  displace  objects;  crushes,  deforms,  tumbles,  shocks,  creates 
+projectile  missiles  and  obstacles;  flying  debris  and  blast  will  cause 
+physical  injury 
+
+Thermal  Radiation:  Intense  heat  burns  and  starts  fires  and  will  cause 
+eye  damage 
+
+Nuclear  Radiation:  Causes  immediate  or  delayed  radiation  sickness 
+and  may  cause  death  within  close  proximity  of  detonation  (personnel 
+affected  will  depend  on  size  of  weapon),  increases  disease  and  non¬ 
+battle  injury,  material  and  terrain  contamination;  neutrons  and  gamma 
+rays  produced  during  the  first  minute,  but  fallout  may  last  for  years 
+Radiation  Sickness:  Severe  radiation  sickness  resulting  from  external 
+irradiation  and  its  consequent  organ  effects  is  a  primary  medical 
+concern;  when  appropriate  medical  care  is  not  provided,  the  median 
+lethal  dose  of  radiation,  the  LD50/60  (that  which  will  kill  50%  of  the 
+exposed  persons  within  a  period  of  60  days),  is  estimated  to  be  3.5 
+grays  of  absorbed  radiation 
+
+Electromagnetic  Pulse:  Causes  permanent  or  temporary  impairment 
+of  electrical,  electro-optical,  and  electronic  equipment  and 
+communications  systems 
+
+Flashblindness:  A  temporary  condition  that  occurs  with  peripheral 
+observation  of  a  brilliant  flash  of  intense  light  energy,  for  example,  a 
+fireball;  the  duration  of  flash  blindness  can  last  several  seconds  when 
+exposure  occurs  during  daylight  and  will  be  followed  by  a  darkened 
+afterimage  that  lasts  for  several  minutes  (at  night,  flash  blindness  can 
+last  for  up  to  30  minutes) 
+
+Psychological  Effects:  Include  intense  acute  and  chronic  stress 
+disorders 
+
+*  The  above  information  taken  from  JP  3-1 1  and  AFRRI’s  Medical  Management  of 
+
+Radiological  Casualties  Handbook. 
+
+
+IN  THE  EVENT  OF  A  NUCLEAR  INCIDENT 
+CONTACT  THE  NATIONAL  MILITARY  COMMAND  CENTER  (NMCC) 
+(703)  692-2387  (24  HOURS  /  7  DAYS  A  WEEK) 
+
+
+39 
+
+
+INCIDENT  (I)  TO  1+1 5  MIN  -  RESPONSE  CHECKLIST 
+
+
+4  Gain  situational  awareness 
+4  Initiate  concept  of  operations,  if  exists 
+4  Continue  the  mission  and  critical  operations 
+4  Limit  further  damage  to  lives  and  property  (contain  the 
+situation) 
+
+4  Notify  the  NMCC  via  OPREP-3  incident  report  of  terrorist/hostile 
+nuclear  incident  (ensure  nuclear  detonation  is  reported) 
+
+4  Confirm  direct  notification  of  Higher  Headquarters,  Fire,  EMS, 
+Security  Forces,  EOD,  radiological  response  assets,  if  available 
+4  Adjust  FPCON  level 
+4  Activate  ICP/EOC 
+
+4  Appoint  an  incident  commander  (usually  senior  fire  official  at 
+incident) 
+
+4  Notify  State  and  local  authorities  as  defined  in  the  MOUs/MOAs 
+4  NMCC  notifies  DHS  who  may  implement  appropriate  NRF 
+
+procedures  and  may  activate  the  NRF  Catastrophic  Incident  Annex 
+and/or  the  Nuclear/Radiological  and  Terrorism  Annexes 
+4  DHS  will  work  to  provide  the  installation  with  consequence 
+management  and  mitigation  efforts  and  incident  oversight 
+4  If  directed  by  appropriate  national  authorities  IAW  the  NRF,  DHS  will 
+become  the  lead  authority;  FBI  will  maintain  investigative  authority 
+and  installation  will  support  efforts 
+4  If  DHS  and/or  the  FBI  does  not  assume  lead  IAW  the  NRF,  the 
+installation  will  remain  the  lead  authority  for  all  consequence 
+management  and  crisis  management  coordination,  efforts  and 
+actions 
+
+4  Initiate  mass  notification  via  EOC  (installation  emergency  alert 
+system) 
+
+4  Determine  protective  measures 
+4  Confirm  first  responders  have  made  initial  assessment; 
+established  an  on-scene  command  post,  cordon,  entry/exit 
+points  and  staging  area;  mitigated  the  situation;  and 
+are  performing  life-saving  operations  and  initial  casualty 
+decontamination 
+
+
+CONTINUED 
+
+
+■  at 
+
+
+INCIDENT  (I)  TO  1+1 5  MIN  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+
+♦  Confirm  first  responders  have  established  hazardous/ 
+contamination  control  zones  and  are  utilizing  personal  protection 
+equipment  and  decontamination  supplies 
+
+♦  Ensure  first  responders  have  checked  for  secondary  devices 
+
+♦  Identify  possible  further  health  and  medical  needs  and  available 
+resources  and  equipment 
+
+♦  Contact  key  health  personnel  (radiological  assistance  teams/ 
+agencies,  local  hospitals,  etc.) 
+
+♦  Identify  affected  individuals,  if  necessary,  implement 
+contamination  avoidance  measures  for  surrounding  incident  area 
+
+♦  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+
+1+15  MIN  TO  1+1  HR  -  RESPONSE  CHECKLIST 
+
+
+♦  Confirm  establishment  of  National  Defense  Area  (NDA),  secure 
+area  around  the  incident  site;  issue  airspace  restrictions;  maintain 
+close  communications  with  Security  Forces 
+
+♦  Order  the  establishment  of  a  cordon  for  first  responders 
+
+♦  Ensure  Security  Forces  are  implementing  protection  procedures  of 
+personnel  and  installation 
+
+♦  Assess  infrastructure  on-installation  (communications,  damage 
+assessment,  water/sewage/electricity,  control  of  food,  housing); 
+issue  notices,  if  necessary 
+
+♦  Activate  JIC  for  incident  announcements  on  and  off-installation; 
+monitor  notification  of  local/civilian  public  with  emergency  alert 
+system  via  radio/TV,  mobile  public  address  systems,  and  sirens 
+via  JIC;  JIC  will  also  process  media  requests  for  information  and 
+announcements 
+
+♦  Confirm  installation  mass  notification  and  notification  of  local 
+affected  population  (include  directions  for  personal  protection  in 
+public  announcements) 
+
+♦  Activate  installation  shelter-in-place  or  evacuation  plans  via  EOC 
+and  Security  Forces 
+
+♦  Conduct  follow-on  reports  to  Higher  Headquarters  via  SITREP 
+
+♦  Readjust  FPCON  level,  if  necessary 
+
+CONTINUED . . . 
+
+
+41 
+
+
+1+1 5  MIN  TO  1+1  HR  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+
+♦  Work  with  higher  headquarters  to  coordinate  arrival  of  Federal/DoD 
+response  teams 
+
+♦  Ensure  local  off-installation  assets/mutual  aid  has  access  to 
+installation  and  is  arriving 
+
+♦  Begin/obtain  personnel  accounting  information 
+
+♦  Monitor  response  and  recovery  actions 
+
+♦  Confirm  decontamination  efforts;  boundaries  of  hazardous/ 
+contamination  control  zones  redefined  based  on  new  information 
+
+♦  Assist  in  evacuation/relocation/traffic  redirection/preparation  if 
+necessary,  via  Security  Forces 
+
+♦  Confirm  and  maintain  contact  with  local  and  State  EOCs,  if 
+activated 
+
+♦  Determine  size/scope  and  ETA  of  DoD/Federal  assets 
+
+♦  Confirm  health  and  security  personnel  have  cleared  and  secured 
+on-installation  hospital  entrances  and  grounds 
+
+♦  Confirm  all  health  centers  (on-installation  and  off,  if  needed) 
+are  able  to  provide  sufficient  emergency  care  and  that 
+
+only  life  threatening  injuries  are  receiving  treatment  before 
+decontamination  (public  should  be  directed  to  seek  medical 
+attention  only  when  needed) 
+
+♦  Assess  status  of  local  public  transportation,  private/military 
+transportation  assets 
+
+♦  Seek  medical  advisors  for  possible  preventative  measures  or 
+limiting  the  effects  of  radiation 
+
+
+1+1  HR  TO  1+4  HRS  -  RESPONSE  CHECKLIST 
+
+
+A.4 
+
+
+♦  Continue  notification  of  installation/local/civilian  public  via  JIC 
+
+♦  Confirm  entry/ exit  control  of  arriving  mutual  aid  at  staging  area 
+
+♦  Coordinate  with/brief  arriving  State,  Federal  and  DoD  agencies 
+
+♦  Complete  personnel  accountability 
+
+♦  Monitor  continued  response  and  recovery  efforts  and 
+decontamination  efforts 
+
+
+CONTINUED . 
+
+
+•  ■ 
+
+
+1+1  HR  TO  1+4  HRS  (CONT’D)  -  RESPONSE  CHECKLIST 
+
+
+A.4 
+
+
+♦  Determine  how  to  transport  people  on/off/within  the  installation,  if 
+necessary;  if  evacuating,  Security  Forces  will  direct  this  process 
+
+♦  Installation  may  request  the  radiological  assistance  teams  or 
+agencies,  (i.e.  the  FRMAC) 
+
+♦  DOE  and  DTRA  (HPAC)  can  model  plumes;  requests  should  go 
+through  their  EOCs  in  Washington,  D.C.  (202-586-2830  and 
+1-877-240-1187  respectively) 
+
+♦  Appropriate  office  (most  installations,  Legal  Affairs)  will  make 
+family  notifications 
+
+♦  Continue  preservation  of  evidence  measures 
+
+♦  Confirm  non-ambulatory  casualties  are  removed  during  casualty 
+extraction 
+
+♦  Continue  personnel  accounting  of  contaminated  casualties  at 
+hospitals;  coordinate  with  Mortuary  Affairs  for  dead  and  continue 
+advisory  shelter-in-place/evacuation  options 
+
+♦  Ensure  provision  of  basic  needs  begins,  if  necessary 
+
+
+1+4  HRS  TO  1+8  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Monitor  public  announcements  as  new  information  warrants 
+
+♦  Continue  monitoring  response  and  recovery  efforts 
+
+♦  Continue  to  monitor  decontamination  actions 
+
+♦  Monitor  evacuation  status,  if  necessary 
+
+♦  DoD  will  provide  personnel,  radiological  resources  and  airborne 
+sampling  on  request 
+
+♦  State/local  health  department  and  HHS  will  ensure  availability  of 
+medical  care/other  human  services,  crisis  counseling,  radiological 
+incident  advice,  if  necessary 
+
+♦  DOE  will  provide  radiological  monitoring  and  assessment  activities, 
+generate  plume  models  and  provide  reference  material  for 
+calibrating  radiological  instruments;  radiation  shielding  materials 
+upon  request 
+
+
+43 
+
+
+From  AFRRI’s  Medical  Management  of  Radiobiological  Casualties  Handbook 
+
+
+ACUTE  RADIATION  SYNDROME 
+
+
+PHASE  OF 
+
+SYNDROME 
+
+WHOLE-BODY  IRRADIATION  FROM  EXTERNAL  RADIATION  OR  INTERNAL  ABSORPTION 
+
+FEATURE 
+
+SUBCLINICAL  RANGE 
+
+(rad  or  cGy) 
+
+SUBLETHAL  RANGE  (RAD  OR  cGy) 
+
+LETHAL  RANGE  (RAD  OR  cGy) 
+
+0-100 
+
+100-200 
+
+200-600 
+
+600-800 
+
+600-3000 
+
+>  3000 
+
+INITIAL  OR 
+PRODROMAL 
+
+NAUSEA, 
+
+VOMITING 
+
+NONE 
+
+5-50% 
+
+50-100% 
+
+75-100% 
+
+90-100% 
+
+100% 
+
+TIME  OF 
+
+ONSET 
+
+3-6  H 
+
+24  H 
+
+1-2  H 
+
+<1  H 
+
+<1  H 
+
+DURATION 
+
+LYMPHOCYTE 
+
+COUNT 
+
+<24  H 
+
+<24  H 
+
+<1000  AT  24  H 
+
+<48  H 
+
+<500  AT  24  H 
+
+<48  H 
+
+<48  H 
+
+CNS  FUNCTION 
+
+NO 
+
+IMPAIR¬ 
+
+MENT 
+
+NO 
+
+IMPAIRMENT 
+
+ROUTINE  TASK 
+PERFORMANCE 
+COGNITIVE 
+IMPAIRMENT  FOR 
+6-20H 
+
+SIMPLE  AND 
+ROUTINE  TASK 
+PERFORMANCE 
+COGNITIVE 
+IMPAIRMENT  FOR 
+>24H 
+
+PROGRESSIVE 
+
+INCAPACITATION 
+
+LATENT 
+
+DURATION 
+
+>2  WKS 
+
+7-15  D 
+
+0-7  D 
+
+0-2  D 
+
+NONE 
+
+MANIFEST 
+
+(obvious) 
+
+ILLNESS 
+
+SIGNS  AND 
+SYMPTOMS 
+
+NONE 
+
+MODERATE 
+
+LEUKOPENIA 
+
+SEVERE  LEUKOPENIA,  PURPURA, 
+HEMORRAGE,  PNEUMONIA,  HAIR 
+
+LOSS  AFTER  300  RAD  (cGy) 
+
+DIARRHEA,  FEVER, 
+
+ELECTROLYTE 
+
+DISTURBANCE 
+
+CONVULSIONS, 
+ATAXIA,  TREMOR, 
+LETHARGY 
+
+TIME  OF  ONSET 
+
+>2  WKS 
+
+2  D  -  2  WKS 
+
+2-3  D 
+
+CRITICAL  PERIOD 
+
+NONE 
+
+4-6  WKS 
+
+5-14  D 
+
+148  H 
+
+ORGAN  SYSTEM 
+
+NONE 
+
+HEMATOPOIETIC  AND  RESPIRATORY 
+(MUCOSAL)  SYMPTOMS 
+
+Gl  TRACT 
+
+MUCOSAL 
+
+SYSTEMS 
+
+CNS 
+
+HOSPITALIZATION 
+
+%  DURATION 
+
+0 
+
+<5% 
+
+45-60  D 
+
+90% 
+
+60-90  D 
+
+100% 
+
+90+ D 
+
+100% 
+
+2  WKS 
+
+100% 
+
+2  D 
+
+FATALITY 
+
+0% 
+
+0% 
+
+0-80% 
+
+90-100% 
+
+90-100% 
+
+TIME  OF  DEATH 
+
+3-12  WKS 
+
+1-2  WKS 
+
+1-2  D 
+
+HIGH-YIELD  EXPLOSIVE  (HE)  INCIDENT 
+
+INDICATIONS  OF  A  HIGH-YIELD  EXPLOSIVE  INCIDENT 
+
+
+Heat  and  Fires:  Intense  heat  from  explosion  will  cause  burns  and 
+start  fires 
+
+Blast  Pressure  Effect  (most  powerful  of  all  explosive  effects): 
+
+Expanding  gases  exert  extreme  pressure  on  atmosphere  surrounding 
+point  of  detonation;  pressure  and  strong  winds  collapse  buildings  and 
+displace  objects  in  the  case  of  a  very  large  explosion 
+
+Fragmentation  Effect:  Debris  and  fragmentation  are  produced  by 
+the  explosive  container,  objects  around  the  detonation  point  and  the 
+intended  target 
+
+Thermal  Effect:  High  explosives  produce  higher  temperatures  for  a 
+shorter  time;  effect  is  seen  usually  as  a  bright  flash  at  the  moment  of 
+detonation;  a  fireball  is  more  likely  to  cause  a  secondary  fire  than  a 
+high-yield  explosive  detonation 
+
+Ground  and  Water  Shock:  Occurs  when  an  explosive  is  initiated 
+while  buried  in  the  earth  or  submerged  under  water  -  may  cause 
+substantially  greater  damage 
+
+Blast  and  Flying  Debris:  Will  cause  the  most  physical  injury  and 
+casualties 
+
+Weakened  and  Collapsed  Buildings:  Will  create  hazardous  areas 
+
+Disorientation  and  Mental  Trauma:  For  those  at  or  close  to  the 
+detonation  site 
+
+
+Ensure  FIRST  RESPONDERS  are  aware  during  RESPONSE  and 
+RECOVERY  MISSIONS  of  SECONDARY  DEVICE  THREATS;  If  there 
+is  any  indication  of  a  SECONDARY  CHEMICAL,  BIOLOGICAL,  OR 
+RADIOLOGICAL  (CBR)  DEVICE  attached  to  a  HIGH-EXPLOSIVE 
+INCIDENT,  Turn  to  the  suggested  CBR  INITIAL  RESPONSE  ACTIONS 
+in  this  handbook. 
+
+
+IN  THE  EVENT  OF  A  HIGH-YIELD  EXPLOSIVE  INCIDENT 
+CONTACT  THE  NATIONAL  MILITARY  COMMAND  CENTER  (NMCC) 
+(703)  692-2387  (24  HOURS  /  7  DAYS  A  WEEK) 
+
+
+45 
+
+
+INCIDENT  (I)  TO  1+15  MIN  -  RESPONSE  CHECKLIST 
+
+
+♦  Gain  situational  awareness 
+
+♦  Initiate  concept  of  operations,  if  exists 
+
+♦  Continue  the  mission  and  critical  operations 
+
+♦  Limit  further  damage  to  lives  and  property  (contain  the  situation) 
+
+♦  Notify  the  NMCC  via  OPREP-3  incident  report  of  terrorist/hostile 
+high-explosive  incident  (if  secondary  devices,  report  as  well) 
+
+♦  Confirm  direct  notification  of  Higher  Headquarters,  Fire,  EMS, 
+Security  Forces,  and  EOD 
+
+♦  Adjust  FPCON  level 
+
+♦  Activate  ICP/EOC 
+
+♦  Appoint  an  incident  commander  (usually  senior  fire  official  at 
+incident) 
+
+♦  Notify  State  and  local  authorities  as  defined  in  the  MOUs/MOAs 
+
+♦  NMCC  notifies  DHS  who  may  declare  an  Incident  of  National 
+Significance  and  activate  the  NRF  Catastrophic  Incident  Annex 
+and/or  the  Terrorism  Annex 
+
+♦  DHS  will  work  to  provide  the  installation  with  consequence 
+management  and  mitigation  efforts  and  incident  oversight 
+
+♦  If  directed  by  appropriate  national  authorities  IAW  the  NRF,  DHS  will 
+become  the  lead  authority;  FBI  will  maintain  investigative  authority 
+and  installation  will  support  efforts 
+
+♦  If  DHS  and/or  the  FBI  does  not  assume  lead  IAW  the  NRF,  the 
+installation  will  remain  the  lead  authority  for  all  consequence 
+management  and  crisis  management  coordination,  efforts  and 
+actions 
+
+♦  Initiate  mass  notification  via  EOC  (installation  emergency  alert 
+system) 
+
+♦  Confirm  first  responders  have  made  initial  assessment,  established 
+an  on-scene  command  post,  cordon,  entry/ exit  points  and  staging 
+area,  mitigated  the  situation  and  are  performing  life-saving 
+operations  and  initial  casualty  decontamination,  if  it  exists 
+
+♦  Ensure  first  responders  have  checked  for  secondary  devices,  if 
+present,  turn  to  CBR  incident  response  in  this  manual 
+
+♦  Identify  possible  further  health  and  medical  needs  and  available 
+resources  and  equipment 
+
+♦  Contact  key  health  personnel  (CBR  assistance  teams/agencies, 
+local  hospitals,  etc.) 
+
+♦  Ensure  preservation  of  evidence  on-scene  (crime  scene) 
+
+
+1+15  MIN  TO  1+1  HR  -  RESPONSE  CHECKLIST 
+
+
+♦  Confirm  secure  area  around  the  incident  site;  issue  airspace 
+restrictions;  maintain  close  communications  with  Security  Forces 
+
+♦  Ensure  Security  Forces  are  implementing  protection  procedures  of 
+personnel  and  installation 
+
+♦  Assess  infrastructure  on-installation  (communications,  damage 
+assessment,  water/sewage/electricity,  control  of  food,  housing); 
+issue  notices,  if  necessary 
+
+♦  Activate  JIC  for  incident  announcements  on  and  off-installation; 
+monitor  notification  of  local/civilian  public  with  emergency  alert 
+system  via  radio/TV,  mobile  public  address  systems,  and  sirens 
+via  JIC;  JIC  will  also  process  media  requests  for  information  and 
+announcements 
+
+♦  Confirm  installation  mass  notification  and  notification  of  local 
+affected  population  (include  directions  for  personal  protection  in 
+public  announcements) 
+
+♦  Activate  installation  shelter-in-place  or  evacuation  plans  via  EOC 
+and  Security  Forces 
+
+♦  Conduct  follow-on  reports  to  Higher  Headquarters  via  SITREP 
+
+♦  Readjust  FPCON  level,  if  necessary 
+
+♦  Work  with  Higher  Headquarters  to  coordinate  arrival  of  Federal/ 
+DoD  response  teams 
+
+♦  Ensure  local  off-installation  assets/mutual  aid  has  access  to 
+installation  and  is  arriving 
+
+♦  Begin/obtain  personnel  accounting  information 
+
+♦  Monitor  response  and  recovery  actions 
+
+♦  Confirm  decontamination  efforts,  if  necessary 
+
+♦  Assist  in  evacuation/relocation/traffic  redirection/preparation  if 
+necessary,  via  Security  Forces 
+
+♦  Confirm  and  maintain  contact  with  local  and  State  EOCs,  if 
+activated 
+
+♦  Determine  size/scope  and  ETA  of  DoD/Federal  assets 
+
+♦  Confirm  health  and  security  personnel  have  cleared  and  secured 
+on-installation  hospital  entrances  and  grounds 
+
+♦  Confirm  all  health  centers  (on-installation  and  off,  if  needed)  are 
+able  to  provide  sufficient  emergency  care 
+
+♦  Assess  status  of  local  public  transportation,  private/military 
+transportation  assets 
+
+
+47 
+
+
+1+1  HR  TO  1+4  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Continue  notification  of  installation/local/civilian  public  via  JIC 
+
+♦  Confirm  entry/exit  control  of  arriving  mutual  aid  at  staging  area 
+
+♦  Coordinate  with/brief  arriving  State,  Federal  and  DoD  agencies 
+
+♦  Complete  personnel  accountability 
+
+♦  Monitor  continued  response  and  recovery  efforts  and 
+decontamination  efforts,  if  necessary 
+
+♦  Determine  how  to  transport  people  on/off/within  the  installation,  if 
+necessary;  if  evacuating,  Security  Forces  will  direct  this  process 
+
+♦  Appropriate  office  (most  installations,  Legal  Affairs)  will  make 
+family  notifications 
+
+♦  Continue  preservation  of  evidence  measures 
+
+♦  Continue  personnel  accounting  of  casualties  at  hospitals; 
+coordinate  with  Mortuary  Affairs  for  dead  and  continue  advisory 
+shelter-in-place/evacuation  options 
+
+♦  Ensure  provision  of  basic  needs  begins,  if  necessary 
+
+
+1+4  HRS  TO  1+8  HRS  -  RESPONSE  CHECKLIST 
+
+
+♦  Monitor  public  announcements  as  new  information  warrants 
+
+♦  Continue  monitoring  response  and  recovery  efforts 
+
+♦  Continue  to  monitor  decontamination  actions,  if  necessary 
+
+♦  Monitor  evacuation  status,  if  necessary 
+
+♦  State/local  health  department  and  HHS  will  ensure  availability 
+of  medical  care/other  human  services,  crisis  counseling,  etc.,  if 
+necessary 
+
+
+EVACUATION  ACTIONS 
+
+
+PRIORITIES  FOR  EMERGENCY  EVACUATION 
+
+
+Priority  I:  Ambulatory  injured  or  ill  personnel 
+Priority  II:  Non-ambulatory  injured  or  ill  personnel 
+Priority  III:  Pregnant  women  and  families 
+Priority  IV:  Other  non-critical  personnel 
+
+Should  the  entire  installation  require  evacuation,  the  Installation 
+Commander,  assisted  by  Security  Forces,  Fire,  Civil  Engineers/Public 
+Works  and  Transportation  will  coordinate  and  control  the  movement 
+of  personnel  off  the  installation  to  other  locations  through  the  EOC 
+and  the  local  community’s  EOC.  Installation  evacuation/shelter- 
+in-place  plans  will  be  initiated,  if  they  exist,  through  MOUs/MOAs. 
+Security  Forces  will  lead  the  evacuation  actions  according 
+to  their  own  plans  and  knowledge  of  the  installation.  Special 
+considerations  need  to  be  made  concerning  civilian  mutual  aid 
+assistance  entry  points  and  procedures  into  the  installation  and  into 
+the  local  community. 
+
+
+SHELTER-IN-PLACE  ACTIONS 
+
+
+CONTAMINATION  CONTROL 
+AREA  (CCA) 
+
+
+LIQUID 
+
+1 
+
+1 
+
+VAPOR 
+
+HAZARD 
+
+1 
+
+HAZARD 
+
+AREA 
+
+1 
+
+AREA 
+
+(LHA) 
+
+1 
+
+1 
+
+(VHA) 
+
+TOXIC  FREE  AREA 
+
+(TFA) 
+
+
+OPTIONAL 
+
+MECHANICAL 
+
+ROOM 
+
+
+BLAST 
+
+PROTECTED 
+
+MAIN 
+
+ENTRANCE 
+
+
+AIR  FLOW 
+
+
+ocr: 
+
+
+BLAST 
+PROTECTED 
+AIR  INLET 
+
+
+GENERAL  LAYOUT  FOR  AN  NBC  SHELTER 
+
+
+(Figure  from  FM  3-11.34) 
+
+
+49 
+
+
+PROTECTION-IN-PLACE  OPTIONS 
+
+FOR  THIS 
+
+function: 
+
+USE  THESE  ITEMS: 
+
+with  this  guidance: 
+
+Sealing  Air 
+
+Infiltration 
+
+Points 
+
+-  Plastic  Canvas 
+
+-  Plastic  Sheeting 
+
+-  NBC  protective  covers 
+(NBC-PC) 
+
+-  Foam-In-Place 
+
+-  Gasket  forming  materials 
+(silicon,  rubber  gaskets, 
+foam  sealing  materials) 
+
+-  Place  plastic  around  inside  of  windows  and  doors. 
+
+-  Close  holes  and  windows  with  plywood;  seal  with 
+materials  available  (i.e.  duct  tape). 
+
+-  Spray  foam  into  doorways  and  windows,  overlapping 
+all  sills  and  openings.  Foam  spray  will  not  work  well 
+on  overhead  horizontal  surfaces. 
+
+-  Spray  foam  into  all  air  intakes  and  exhausts. 
+
+-  Cut  and  fit  plastic  as  necessary;  use  duct  tape  to 
+hold  in  place. 
+
+CAUTION:  Turn  off  HVAC  systems  before  sealing 
+air  intakes/exhausts. 
+
+Individual 
+
+Covers 
+
+-  Plastic  Sheet 
+
+-  Plastic  Canvas 
+
+-  NBC-PC 
+
+-  Military/Civilian  Wet 
+
+Weather 
+
+-  Gear/Rain  Suits  (Rubber) 
+
+-  Ponchos 
+
+-  Modular  Chemically 
+
+Hardened  Tent  (MCHT) 
+
+-  Tent  extendable  modular 
+personnel  tents  (TEMPER) 
+
+-  Cut  plastic  sheet,  plastic  canvas,  and  NBC-PC 
+
+1 .5  times  taller  and  wider  than  the  individual  using 
+it.  Use  as  cover  to  provide  protection-in-place  for 
+personnel  caught  in  the  open. 
+
+-  Make  rain  suits/ponchos  part  of  daily  work  uniform, 
+use  in  conjunction  with  plastic  sheet,  plastic  canvas, 
+and  NBC-PC. 
+
+-  Pre-position  MCHT  and  TEMPER  throughout  fixed 
+sites,  concentrate  on  areas  with  few  approved 
+shelters,  but  high  personnel  concentrations, 
+
+Materiel 
+
+Covers 
+
+-  Plastic  Sheeting 
+
+-  Plastic  Coated  Canvas 
+
+-  NBC-PC 
+
+-  Large  Area  Shade  Systems 
+
+-  Large  Area  Maintenance 
+Shelter 
+
+-  Cut  and  fit  as  necessary,  use  duct  tape  to  hold  in 
+place. 
+
+-  Place  covered  material  under  shade  systems  or 
+shelters  for  additional  protection. 
+
+Shelters 
+
+-  Container  Express  (CONEX) 
+
+-  Military-Owned 
+
+Demountable 
+
+-  Container  (MILVAN) 
+
+-  Modular  command  post 
+system  (MCPS) 
+
+-  Modular  General  Purpose 
+Tent  System  (MGPTS) 
+
+-  Place  CONEX/MILVAN  at  regular  intervals  around 
+fixed  sites.  Attach  plastic  sheet/NBC-PC  to  front 
+of  CONEX/MILVAN  of  sufficient  size  to  cover  the 
+opening  and  to  act  as  a  liquid  barrier.  Attach  weight 
+(piece  of  wood/iron  bar,  etc)  to  bottom  edge  of 
+plastic  to  hold  in  place  when  being  used. 
+
+-  Erect  MCPS/MGPTS  at  specified  intervals  (based 
+on  personnel  concentrations). 
+
+-  Use  these  measures  in  conjunction  with  individual 
+and  materiel  covers. 
+
+Vertical 
+
+Separation 
+
+-  Plastic  Sheeting 
+
+-  Plastic  Coated  Canvas 
+
+-  NBC-PC 
+
+-  Move  operations  to  upper  floor/levels. 
+
+-  Block  entryways  and  openings  with  multiple  sheets 
+of  plastic.  Place  a  plastic  sheet  at  foot  of  stairs, 
+another  partway  up  the  stairs,  a  third  at  the  top  of 
+the  stairs,  etc. 
+
+CAUTION:  The  duration  of  protection  using  these  measures  is  not  quantified  and  is  provided  for 
+emergency  situations  only.  This  table  does  not  preclude  using  other  expedient  measures  afforded  by 
+available  materials  and  common  sense. 
+
+»  .  . . . . . -- . . - -  -  - - - - - 
+
+From  FM  3-11.34,  Table  J-2 
+
+
+50 
+
+
+SITUATION  REPORT  (SITREP) 
+
+
+DO  NOT  DELAY  SENDING  THE  REPORT  WHILE  WAITING 
+FOR  COMPLETE  OR  ADDITIONAL  INFORMATION! 
+
+— 
+
+EXAMPLE  SITUATION  REPORT  [SITREP] 
+
+1.  Name,  physical  address  and  mailing  address  of  facility 
+
+2.  Name  and  telephone  number  of  qualified  individual 
+to  be  contacted  for  further  information 
+
+3.  Name  and  telephone  number  of  person  making  report 
+
+4.  Date/time  and  location  of  incident 
+
+5.  Identification  of  type  of  event  being  reported  (CBRNE) 
+
+6.  Area  affected  and  wind  conditions 
+
+7.  Casualties 
+
+8.  Property  damage/status  of  critical  facilities 
+
+9.  Response  actions  (ongoing,  anticipated  and  recommended/ 
+requested) 
+
+10.  Agencies  notified 
+
+
+51 
+
+
+OPREP-3  PINNACLE  REPORT 
+
+
+FROM  FM  3-11.21: 
+
+
+According  to  Chairman  of  the  Joint  Chiefs  of  Staff  Manual  3150.03, 
+the  installation  will  submit  an  operations  report  (0PREP)-3  in  the  event 
+of  a  terrorist  WMD  incident  directly  to  the  NMCC.  The  goal  is  to  make 
+initial  voice  reports  within  15  minutes  of  an  incident,  with  message 
+reports  submitted  within  1  hour  of  the  incident.  The  initial  report 
+must  not  be  delayed  to  gain  additional  information.  Follow-up  reports 
+can  be  submitted  as  additional  information  becomes  available. 
+
+The  installation  will  submit  voice  reports  sequentially  to  the  NMCC, 
+appropriate  Commanders,  and  the  reporting  unit’s  parent  service 
+and  intermediate  superior  command.  Conference  calls  or  concurrent 
+telephone  calls  should  be  considered  if  no  delays  are  encountered 
+and  security  can  be  maintained.  There  will  remain  an  open  line 
+between  the  NMCC  and  the  installation  throughout  the  duration  of 
+the  incident.  All  OPREP-3  will  be  submitted  as  soon  as  possible  after 
+an  event  or  incident  has  occurred  and  sent  at  FLASH  or  IMMEDIATE 
+precedence.  Message  Address:  JOINT  STAFF  WASHINGTON  DC//J3 
+NMCC//. 
+
+
+REFERENCES 
+
+
+National  Response  Framework.  Department  of  Homeland  Security. 
+January  2008. 
+
+National  Incident  Management  System.  Department  of  Homeland 
+Security.  December  2008. 
+
+Joint  Publication  3-11,  Joint  Doctrine  for  Operations  in  Nuclear, 
+Biological,  and  Chemical  (NBC)  Environments.  August  2008. 
+
+Joint  Publication  3-40,  Joint  Doctrine  for  Combating  Weapons  of  Mass 
+Destruction.  10  June  2009. 
+
+CJCSM  3150.03,  Joint  Reporting  Structure  and  Event  and  Incident 
+Reports.  19  June  1998. 
+
+DoDI,  Number  2000.18,  DoD  Installation  CBRNE  Emergency 
+Response  Guidelines.  ASD(SOLIC).  4  December  2002. 
+
+FM  3-11.21,  MCRP  3-37.2C,  NTTP  3-11.24,  AFTTP(I)  3-2.37, 
+Multiservice  Tactics,  Techniques,  and  Procedures  for  Nuclear ; 
+Biological,  and  Chemical  Aspects  of  Consequence  Management. 
+
+12  December  2001. 
+
+FM  3-11.34,  MCWP  3.37.5,  NTTP  3-11.23 ,  AFTTP(I)  3-2.33, 
+
+Multiservice  Procedures  for  Nuclear,  Biological,  and  Chemical  (NBC) 
+Defense  of  Theater  Fixed  Sites,  Ports  and  Airfield. 
+
+29  September  2000. 
+
+Medical  Management  of  Radiological  Casualties  Flandbook.  Military 
+Medical  Operations,  Armed  Forces  Radiobiology  Research  Institute. 
+Bethesda,  Maryland.  April  2003. 
+
+Defining  Personal  Protective  Equipment.  Office  of  Occupational  Safety 
+and  Health,  Department  of  Labor.  Regulations  (Standards-29  CFR) 
+Part  1910.120  AppB.  22  August  1994. 
+
+Chemical/Biological/Radiological  Incident  Flandbook.  Interagency 
+Intelligence  Committee  on  Terrorism  (HOT).  October  1998. 
+
+DoD  Concept  of  Operations  for  CBRNE  Defense  Supporting  US  Military 
+Installation  and  Facility  Preparedness.  October  2003.  (Draft) 
+
+CNI  3440.17,  Navy  Installation  Emergency  Management  Program. 
+
+22  July  2005. 
+
+Advanced  Disaster  Medical  Response:  Manual  for  Providers.  Ed. 
+
+Susan  M.  Briggs.  Harvard  Medical  International.  Boston,  2003. 
+
+
+53 
+
+
+NOTES 
+
+
+Domestic  &  Foreign 
+Consequence 
+Management 
+Planning 
+
+
+CBRN  & 
+Consequence 
+Management 
+Training  Exercises 
+
+
+Consequence 
+Management 
+Advisory  Teams 
+(CMAT) 
+
+Deployable  Assistance 
+
+
+Analysis  of 
+Real  World  & 
+Exercise  Observations 
+
+
+We  specialize  in 
+planning,  executing, 
+and  guiding 
+Chemical,  Biological, 
+Radiological  & 
+Nuclear  (CBRN) 
+Consequence 
+Management 
+training  &  exercises 
+
+
+We  provide  on-scene 
+technical  advice 
+and  capabilities 
+including 
+hazard  prediction 
+modeling 
+
+for  Joint  Task  Force, 
+Response  Task  Force 
+and  Global 
+Combatant 
+Commanders 
+
+
+Contact  us  at  CM@DTRA.MIL 
+
+
+_ 
+
+C  ACQl 
+
+ISIT 
+
+01 
+
+MS 
+
+III 
+
+lllllllllllillll 
+
+n  M 
+
+P 
+
+f 
+
+100 
+

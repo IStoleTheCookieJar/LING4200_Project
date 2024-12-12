@@ -1,0 +1,1444 @@
+r 
+
+
+•i",    -€ 
+^^'O* 
+
+
+.'^^'^ 
+
+
+^oV^ 
+
+
+•^-^    • 
+
+
+,^o^ 
+
+
+5 
+
+
+.^''^ 
+
+
+.^'^^ 
+
+
+^^-n^.  ^-^ 
+
+
+•  ■«' 
+
+
+.^  .,. 
+
+
+•  a  0 
+
+
+^Cr^9^ 
+
+
+0*^  r'^.^' 
+
+
+^""^ 
+
+
+'^      A*' 
+
+
+♦        aV      "^^ 
+
+
+1^ 
+
+
+V-S' 
+
+
+0' 
+
+
+'bV- 
+
+
+.^S'' 
+
+
+"^         'WI^W»         A^-^  ^^6^=         c'^^rv         o^^^^»         aV«^.  - 
+
+
+^^-n^^ 
+
+
+r^ 
+
+
+^ 
+
+
+«^  xV  ^^  -     *    *    •  4  ' 
+
+
+IIIIIIMMIIMMMIMnilllMMIMIIIIIIMMIMIIIII 
+
+
+IC    9248 
+
+
+BUREAU  OF  MINES 
+INFORMATION  CIRCULAR/1990 
+
+y93 
+
+
+Dust  Control  In  Coal  Preparation  and 
+Mineral  Processing  Plants 
+
+By  Edward  F.  Divers  and  Andrew  B.  Cecala 
+
+
+U.S.  BUREAU  OF  MINES 
+1910-1990 
+
+THE  MINERALS  SOURCE 
+
+
+^AU  OF  >^' 
+
+
+Mission:  Asthe  Nation's  principal  conservation 
+agency,  the  Department  of  the  Interior  has  respon- 
+sibility for  most  of  our  nationally-owned  public 
+lands  and  natural  and  cultural  resources.  This 
+includes  fostering  wise  use  of  our  land  and  water 
+resources,  protecting  our  fish  and  wildlife,  pre- 
+serving the  environmental  and  cultural  values  of 
+our  national  parks  and  historical  places,  and  pro- 
+viding for  the  enjoyment  of  life  through  outdoor 
+recreation.  The  Department  assesses  our  energy 
+and  mineral  resources  and  works  to  assure  that 
+their  development  is  in  the  best  interests  of  all 
+our  people.  The  Department  also  promotes  the 
+goals  of  the  Take  Pride  in  America  campaign  by 
+encouraging  stewardship  and  citizen  responsibil- 
+ity for  the  public  lands  and  promoting  citizen  par- 
+ticipation in  their  care.  The  Department  also  has 
+a  major  responsibility  for  American  Indian  reser- 
+vation communities  and  for  people  who  live  in 
+Island  Territories  under  U.S.  Administration. 
+
+
+Information  Circular  9248 
+
+
+Dust  Control  in  Coal  Preparation  and 
+IVIineral  Processing  Plants 
+
+By  Edward  F.  Divers  and  Andrew  B.  Cecala 
+
+
+UNITED  STATES  DEPARTMENT  OF  THE  INTERIOR 
+Manuel  Lujan,  Jr.,  Secretary 
+
+BUREAU  OF  MINES 
+T  S  Ary,  Director 
+
+
+^^ 
+
+
+\ 
+
+
+^ 
+
+
+<o 
+
+
+Library  of  Congress  Cataloging  in  Publication  Data: 
+
+
+Divers,  Edward  F. 
+
+Dust  control  in  coal  preparation  and  mineral  processing  plants  /  by  Edward  F. 
+Divers  and  Andrew  B.  Cecala. 
+
+p.    cm.  —  (Information  circular  /  Bureau  of  Mines;  9248) 
+
+Includes  bibliographical  references. 
+
+1.  Coal  preparation  plants — Dust  control.  2.  Ore-dressing  plants — Dust  control. 
+I.  Cecala,  Andrew  B.  II.  Title.  III.  Series:  Information  circular  (United  States. 
+Bureau  of  Mines);  9248 
+
+
+TN295.U4 
+
+
+[TN816]        622  s--dc20  [622'.83] 
+
+
+90-1528 
+CIP 
+
+
+CONTENTS 
+
+Page 
+
+Abstract 1 
+
+Introduction 2 
+
+Background   2 
+
+Coal  preparation    2 
+
+Mineral  processing 2 
+
+Dust  sampling  instruments 2 
+
+Ventilation 3 
+
+Whole  plant 3 
+
+Local  exhaust 3 
+
+Air  cleaners 4 
+
+Baghouse-type  dust  collectors 4 
+
+Scrubbers 5 
+
+Electrostatic  precipitators 6 
+
+Control  at  source 7 
+
+Water  sprays   7 
+
+Good  housekeeping   7 
+
+Personal  protection  devices 8 
+
+Dust  helmets 8 
+
+Respirators    9 
+
+Special  problems    9 
+
+Pipe  and  duct  clogging 9 
+
+Control  room  dust 10 
+
+Conclusions    11 
+
+References 11 
+
+ILLUSTRATIONS 
+
+1.  Effects  of  bulk-loading  outside  on  worker's  exposure  inside  mill    3 
+
+2.  Wall  exhaustor — typical  layout 4 
+
+3.  Baghouse-type  dust  collector    4 
+
+4.  Small-diameter  cyclone  type  scrubber 5 
+
+5.  Flooded  fibrous  bed-type  scrubber 5 
+
+6.  Venturi-type  scrubber — horizontal  arrangement 5 
+
+7.  Venturi-type  scrubber — vertical  arrangement 6 
+
+8.  Electrostatic  precipitator    7 
+
+9.  Increase  in  worker's  dust  exposure  from  broom  sweeping 8 
+
+10.  High  capacity  remote  vacuum  system 8 
+
+11.  Dust  helmet    8 
+
+12.  Disposable-type  respirator 9 
+
+13.  Positive  pressure-type  respirator 9 
+
+14.  Settling  type  drop-out  chamber    10 
+
+15.  Baffle  type  drop-out  chamber 10 
+
+16.  Centrifugal  type  drop-out  chamber 10 
+
+TABLE 
+
+1.    Respirable  dust  test  results    6 
+
+
+UNIT  OF  MEASURE  ABBREVIATIONS  USED  IN  THIS  REPORT 
+
+Btu/h 
+
+British  thermal  unit  per 
+
+hour 
+
+hp 
+
+horsepower 
+
+cfm 
+
+cubic  foot  per  minute 
+
+in 
+
+inch 
+
+ft 
+
+foot 
+
+inHjO 
+
+in  of  water  (pressure) 
+
+ft' 
+
+cubic  foot 
+
+mg/m' 
+
+milligram  per  cubic  meter 
+
+ft/min 
+
+foot  per  minute 
+
+min 
+
+minute 
+
+gpm 
+
+gcdlon  per  minute 
+
+pet 
+
+percent 
+
+h 
+
+hour 
+
+st/h 
+
+short  ton  per  hour 
+
+DUST  CONTROL  IN  COAL  PREPARATION 
+AND  MINERAL  PROCESSING  PLANTS 
+
+
+By  Edward  F.  Divers^  and  Andrew  B.  Cecala^ 
+
+
+ABSTRACT 
+
+This  U.S.  Bureau  of  Mines  report  briefly  evciluates  the  advjmtages  and  disadvantages  of  basic  dust 
+control  techniques  presently  used  by  U.S.  coal  preparation  and  mineral  processing  plants.  These  include 
+ventilation,  baghouse-type  collectors,  wet  scrubbers,  electrostatic  precipitators,  source  control,  sprays, 
+good  housekeeping,  and  personal  protection  devices.  Two  specific  problems  in  these  types  of  operations 
+are  also  considered:   dust  collector  system  duct  clogging,  and  control  room  dust  control. 
+
+Information  provided  in  this  report  results  from  dust  control  research  projects  conducted  by  the 
+Bureau  at  various  coal  preparation  and  mineral  processing  plants  over  the  past  decade  to  reduce 
+workers'  dust  exposure.  These  studies  indicate  that  plant  ventilation  systems  normally  provide  the  most 
+cost  effective  method  for  dust  control.  Baghouses  and  scrubbers  were  also  effective  in  specific 
+appUcations,  and  examples  of  each  are  given.  In  extreme  dust  conditions,  personal  protection  devices, 
+such  as  respirators  or  the  dust  helmet,  can  also  be  highly  cost  effective. 
+
+Mining  engineers,  Pittsburgh  Research  Center,  U.S.  Bureau  of  Mines,  Pittsburgh,  PA. 
+
+
+INTRODUCTION 
+
+
+Coal  preparation  and  mineral  processing  plants  can 
+present  a  wide  vciriety  of  dust  problems.  Fortunately, 
+the  problems  in  both  types  of  plants  can  be  reduced  or 
+resolved  by  the  same  basic  techniques  previously 
+mentioned.    This  U.S.  Bureau  of  Mines  report  provides 
+
+
+information  to  operators  considering  various  options  for 
+dust  control.  Its  conclusions  are  primarily  based  on  the 
+field  experience  of  Bureau  personnel  and  plant  operators 
+and  can  be  applied  to  most,  if  not  all,  plant  dust  problems. 
+
+
+BACKGROUND 
+
+
+COAL  PREPARATION 
+
+There  are  approximately  500  coal  preparation  plants  in 
+the  United  States.  The  number  of  operators  in  each  plant 
+ranges  from  about  3  to  10  per  shift;  raw  capacity  ranges 
+from  roughly  250  to  1,250  st/h. 
+
+A  recent  Bureau  survey  of  21  coal  preparation  plants 
+showed  that  one-third  had  highly  localized  respirable  dust 
+levels.  These  were  dust  levels  in  given  specific  areas  of 
+the  plant  and  not  exposure  levels  of  plant  personnel.  No 
+relationship  was  found  between  dust  concentration  and  age 
+or  capacity  of  the  plant.  Some  old  plants  show  1  mg/m^ 
+or  less  in  all  areas.  Some  new  plants  had  respirable  dust 
+concentrations  up  to  11  mg/m^  in  specific  areas.  In 
+general,  these  areas  only  had  temporary  occupancy,  seldom 
+exceeding  several  hours.  High  dust  concentrations  were 
+closely  associated  with  dry  coal.  With  a  few  exceptions, 
+these  high  dust  concentrations  were  found  in  poorly 
+ventilated  areas  on  the  ground  floor.  Excluding  venti- 
+lation, few  plants  use  operating  dust  control  devices.  Silica 
+(quartz)  analysis  made  on  gravimetric  samples  from  coal 
+preparation  plants  show  that  the  percent  siHca  was  usually 
+below  Federal  limits. 
+
+MINERAL  PROCESSING 
+
+There  are  well  over  1,000  mineral  processing  plants  in 
+the  United  States.  While  dust  concentrations  in  these 
+plants  are  generally  much  lower  than  in  coal  preparation 
+plants,  the  associated  respiratory  problem  can  be  more 
+severe  due  to  siUca.  In  recent  years.  Bureau  studies  have 
+concentrated  on  those  mineral  processing  plants  having 
+silica  problems;  the  percent  silica  on  gravimetric  samples 
+varies  from  0  to  over  90  pet.  The  problem  can  be  espe- 
+cially severe  in  the  silica  sand  industry  where  respirable 
+silica  usually  is  in  the  80  to  90  pet  range.  When  silica  is 
+present,  the  FederaJ  dust  standcu^d  is  tightened  below  the 
+usual  2  mg/m^. 
+
+Unlike  coal  preparation,  mineral  processing  plants 
+usually  process  the  product  completely  dry  because  of 
+screen  and  duct  clogging  problems  associated  with  wet 
+products.   When  products  JU"e  hygroscopic,  the  possibility 
+
+
+for  any  type  of  wet  processing  is  excluded.  Another  major 
+difference  is  that  many  workers  at  mineral  processing 
+plants  spend  the  majority  of  the  workday  at  a  specific 
+location,  which  is  not  common  in  coal  preparation  plants. 
+This  can  extend  ventilation  to  year-round  use,  and  fixed 
+worker  locations  can  be  economically  heated  by  infrared 
+devices.  Although  they  are  not  generally  recommended 
+due  to  costs,  the  use  of  steam,  foams,  and  water  additives 
+(surfactants)  may  be  appropriate  for  some  mineral 
+processing  plants.  Water  sprays  can  also  be  an  effective 
+seasonal  or  occasional  dry  product  (such  as  strip  coal) 
+control  technique  for  both  types  of  plcmts. 
+
+DUST  SAMPLING  INSTRUMENTS 
+
+Two  types  of  dust  sampling  equipment  were  used 
+during  these  evaluations:  gravimetric  dust  samplers  and/or 
+instantaneous  dust  monitors  called  real-time  aerosol 
+monitors  (RAM)  (1)} 
+
+Gravimetric  dust  samples  have  been  the  primary  means 
+of  determining  respirable  dust  concentrations  used  by  the 
+Mine  Safety  and  Health  Administration  (MSHA)  since 
+dust  monitoring  became  a  mandated  practice  as  estab- 
+Ushed  by  the  1969  Federeil  Mine  Health  and  Safety  Act. 
+Although  gravimetric  sampling  is  performed  for  all  com- 
+pUance  testing,  it  is  not  the  most  advantageous  technique 
+for  many  studies  because  of  the  time  required  to  obtain 
+dust  data. 
+
+The  instantaneous  RAM-1  dust  monitor  built  by 
+Monitoring  Instruments  for  the  Environment  (MIE),  Inc., 
+Bedford,  MA  overcomes  the  drawbacks  of  gravimetric 
+sampling.  The  RAM-1  unit  instantaneously  calculates 
+respirable  dust  concentrations.  However,  the  RAM-1 
+cannot  distinguish  the  quartz  concentration  of  the  dust. 
+
+Visucd  observation  can  be  an  effective  technique  for 
+estimating  dust  concentrations,  even  though  water  mist  can 
+cause  problems.  As  a  general  guideUne,  respirable  dust 
+concentrations  below  2  mg/m'  will  not  create  visibiUty 
+problems  or  hcdoing  around  lights;  these  are  especially 
+
+ntalic  numbers  in  parentheses  refer  to  items  in  the  list  of  references 
+at  the  end  of  this  report. 
+
+
+evident  above  5  or  6  mg/m'.  Visibility  problems  beyond 
+50  or  60  ft  typically  start  at  8  to  10  mg/m^,  and  distinct 
+visibility  problems  beyond  20  to  30  ft  occur  above  15  or  20 
+
+
+mg/m^.  At  these  high  respirable  concentrations,  coal  dust 
+odor  can  be  detected  and  rapid  accumulation  of  all  types 
+of  larger  dust  p2u-ticles  on  most  surfaces  is  evident. 
+
+
+VENTILATION 
+
+
+WHOLE  PLANT 
+
+Ventilation  can  be  an  excellent  low-cost  dust  control 
+technique  for  all  plants  during  mUd  weather.  Plants  using 
+effective  ventilation  systems  have  low  dust  concentrations, 
+with  peaks  generally  below  2  mg/m^  respirable.  These 
+systems  consists  of  powered  exhaustors  (fans)  or  gravity 
+ventilators  in  the  roof,  open  access  doors,  and  open-close- 
+type  wall  louvers  at  grade.  Due  to  a  sUght  increase  in 
+initial  plant  costs,  ventilation  systems  are  not  built  into 
+most  plants.  However,  since  ductwork  is  not  required, 
+subsequent  addition  of  a  ventilation  system  can  be 
+relatively  inexpensive,  about  $1  per  cubic  foot  per  minute 
+for  a  powered  roof  exhaustor  system  with  adjustable 
+louvers  at  grade.  Powered  roof  exhaustors  should  be  sized 
+to  provide  between  6  to  12  air  changes  per  hoiu".  Where 
+dust  concentrations  are  known  or  safely  assumed  to  be 
+low,  6  to  8  air  changes  per  hour  can  be  used. 
+
+
+Air  changes  per  hour 
+
+
+Total  volume  exhausted  per  hour 
+Total  volume  of  ventilated  building 
+
+
+However,  long-term,  high  dust  concentrations,  above 
+6  mg/m^,  may  not  be  adequately  controlled  by  ventilation 
+alone.  In  these  cases,  primary  efforts  should  be  directed 
+to  control  at  the  dust  source,  or  using  dust  collectors  such 
+as  baghouses  or  scrubbers. 
+
+Design  guidelines  for  the  installation  of  plant 
+ventilation  systems  am  be  found  in  the  "ASHRAE 
+Handbook  of  Fimdamentals"  or  their  systems  handbook 
+published  by  the  American  Society  of  Heating, 
+Refrigeration,  and  Air-Conditioning  Engineers,  Inc., 
+Atlanta,  GA,  or  "Industrial  Ventilation"  published  by  the 
+Committee  on  Industrial  Ventilation,  Cincinnati,  OH. 
+
+For  ventilation  to  be  effective  as  a  dust  control 
+technique,  it  is  critical  that  the  design  be  capable  of 
+supplying  relatively  clean  makeup  air  to  the  system.  If  air 
+supplied  to  the  ventilation  system  is  contaminated,  the 
+ventilation  system  can  be  ineffective  and  may  increase  a 
+
+
+worker's  dust  exposure.  This  occiu-red  at  a  mineral 
+processing  plant  where  trailer  trucks  were  being  bulk- 
+loaded  outside  a  mill  building  (fig.  1).  The  dusty  air 
+generated  from  the  bulk-loading  process  was  drawn  into 
+the  mill  as  makeup  jiir  for  a  ventilation  system;  worker's 
+dust  exposure  was  increased  147  pet  over  previous 
+(normal)  levels  diuing  the  buUc-loading.  Inlet  louvers 
+should  not  be  placed  neai  outside  dust  or  other 
+contaminant  sources. 
+
+LOCAL  EXHAUST 
+
+Local  exhaust  through  wzdl  exhaustors,  fans,  and  other 
+devices  can  be  a  highly  cost-effective  technique  for 
+removing  dust  from  specific,  generally  small,  cueas.  This 
+is  frequently  done  with  wall-mounted  propeller  fans 
+properly  protected  cmd  mounted  close  to  the  dust  source, 
+usually  without  ductwork  (fig.  2).  Fan  volumetric  capac- 
+ities generally  range  from  10,000  to  25,000  cfm  or  more, 
+with  motors  from  1  to  5  hp.  The  exhaustors  aie  controlled 
+by  operation  of  the  dust-generating  soiu-ce,  such  as  a 
+crusher,  emd/or  mjmual  control.  Because  strong  outside 
+winds  can  negatively  affect  the  performance  of  exhaustors, 
+their  placement  should  normally  be  on  the  nonwindward 
+(lee)  side  of  buildings. 
+
+
+Bulk  loading  outside 
+
+
+8  12 
+
+TIME,  min 
+
+Figure    1. -Effects    of    bulk-loading    outside    on    worker's 
+exposure  inside  mill. 
+
+
+Airflow 
+
+
+Guard 
+(outside) 
+
+
+and  boot 
+
+
+Manual   shutter 
+(aluminunn) 
+
+
+Figure  2.-Wall  exhauster — typical  layout 
+
+
+AIR  CLEANERS 
+
+
+BAGHOUSE-TYPE  DUST  COLLECTORS 
+
+Baghouses  collect  airborne  dust  by  filtration  through 
+special  cloths,  somewhat  similar  to  a  home  vacuum 
+sweeper.  The  collected  dust  is  normally  shaken  auto- 
+matically from  the  filters  into  a  hopper  (fig.  3).  Baghouses 
+have  several  advantages,  especially  for  mineral  processing 
+plants:  they  offer  high  dust  collection  efficiency  that  is 
+essentially  independent  of  mineral  type,  cmd  they  do  not 
+use  water.  When  in-plant  space  is  not  available,  outside 
+installations  are  generally  successful.  Disadvantages  are 
+size  (especially  height),  duct  routing  and  cost,  handling  of 
+the  collected  dust,  and  frequent  problems  when  excessive 
+moisture  or  water  is  in  the  air.  Initial  cost  generailly 
+exceeds  $4  per  cubic  foot  per  minute.  Nevertheless, 
+baghouses  are  especially  recommended  for  those  plamts  on 
+a  reduced  silica  standard.  Where  very  high  dust  collection 
+efficiency  is  required,  use  a  baghouse. 
+
+Visible  dust  in  the  exhaust  plume  always  indicates 
+problems  in  baghouse  systems.  For  example,  at  one  coal 
+preparation  plant  a  38,000  cfm  outside  unit  discharged  to 
+the  atmosphere.  A  visible  plume  was  emitted  from  its 
+exhaust  and  respirable  dust  sampling  showed  a  concen- 
+tration of  5.0  mg/m^.  This  was  caused  by  torn  bags. 
+Properly  designed  and  maintained  systems  will  show  less 
+than  1  mg/m  in  the  exhaust  plume,  and  no  visible  dust. 
+
+Another  baghouse  system  was  located  on  the  second 
+floor  of  a  5-year  old  plant.  Its  capacity  was  approximately 
+15,000  cfm,  and  it  eilso  exhausted  to  the  outside.  A  simple 
+
+
+manually  operated  spUtter  was  installed  in  the  fan 
+discharge  duct  that  also  allowed  inside  discharge  during 
+cold  weather.  Since  the  system  was  adequately  main- 
+tained, exhaust  concentrations  averaged  0.70  mg/m^. 
+Inside  discharge  during  severe  cold  weather  saved  over  1 
+milhon  Btu/h  by  reducing  makeup  air  heating  cost.  Inside 
+discharge  should  not  be  used  when  sihca  dust  is  present. 
+
+
+Collector-fan 
+
+
+Clean  air 
+out 
+
+
+Solid  floor 
+perforated 
+at  bag  inlet 
+
+
+Figure  3.-Baghouse-type  dust  collector. 
+
+
+Silica  dust  presents  a  serious  dust  hazard  and  requires  the 
+plant  to  meet  a  lower  Federal  dust  standard. 
+
+Baghouses  can  achieve  very  high  respirable  dust 
+collection  efficiency,  well  above  99  pet  with  special  bag 
+filter  material.  This  high  efficiency  cannot  be  readily 
+achieved  by  scrubbers.  However,  scrubber  efficiency  can 
+be  adequate  for  most  coal  preparation  appUcations. 
+
+SCRUBBERS 
+
+Scrubbers  frequently  offer  another  practical  control 
+method,  especially  for  coal  preparation  plant  dust  control. 
+They  collect  airborne  dust  by  highly  turbulent  collision 
+with  water  droplets  or  a  wetted  surface,  the  water  then 
+being  separated  from  the  airstreemi.  The  water  consumed 
+does  not  present  problems  to  most  coal  preparation  plant 
+operators,  but  can  make  them  imsuitable  for  minereds 
+
+
+processing.  Dust  collector  efficiency  can  be  sufficient  to 
+allow  the  scrubbed  air  to  be  discharged  back  into  the 
+plant,  and  they  £ire  small  enough  to  allow  them  to  be 
+retrofitted  into  operating  plants.  Typical  components 
+consist  of  a  25,000  to  50,000  cfm  fan  generally  operating 
+between  6  to  10  in  HjO,  the  scrubbing  device,  water  sprays 
+at  a  flow  rate  between  0.5  and  3  gpm  per  1,000  cfm  of 
+airflow,  a  water  droplet  eliminator  and  duct  work  to 
+various  dust  sources.  Initial  costs  are  $2  to  $3  per  cubic 
+foot  per  minute,  and  mziintenance  is  uncomplicated. 
+
+Disadvantages  are  fan  power  cost  and  fan  noise, 
+potential  clogging,  and  cold  weather  freezing  problems. 
+
+Three  commonly  used  types  of  scrubbers  were  eval- 
+uated for  this  work:  the  small-diameter  cyclone  (fig.  4), 
+the  flooded  bed  (fig.  5),  and  the  venturi  (fig.  6)  (2).  The 
+primary  purpose  was  to  determine  if  the  cleaned  air  could 
+be  safely  dischairged  back  into  the  plant. 
+
+
+-Turning  vanes 
+
+
+Airflow 
+U^  to  fan 
+
+
+Figure  4.-Small-diameter  cyclone  type  scrubber. 
+
+
+-Spray  Blade  type 
+
+nozzles       rnist  eliminator-, 
+
+''^    [   pLj^  Airflow 
+_T^  to  fan 
+
+
+/ 
+
+
+' — ^  Drain 
+Figure  5.-Fiooded  fibrous  bed-type  scrubber. 
+
+
+Long 
+transition 
+
+
+Blade  type  mist 
+
+
+eliminator-i       transition- 
+
+
+Centrifugal 
+fan 
+
+
+Dusty  air 
+inlet  duct 
+
+
+Figure  6.-Venturi-type  scrubber — horizontal  arrangement 
+
+
+Dust  sampling  results  showed  that  all  three  can  do  jui 
+adequate  job  of  dust  control  at  the  pickup  locations. 
+Results  at  the  vicinity  of  the  scrubber  fiui  discharge  were 
+determined  (table  1). 
+
+Table  1  .-Respirable  dust  test  results' 
+(8-h  gravimetric  averages  at  scrubber) 
+
+
+Scrubber  type 
+
+Discharge, 
+mg/m^ 
+
+Efficiency, 
+pet 
+
+Small-diameter  cyclone   . . . 
+
+Flooded  fibrous  bed 
+
+Venturl 
+
+2.47 
+1.12 
+3.09 
+
+88 
+95 
+85 
+
+Mnlet  was  21  for  all  three  types  of  scrubbers. 
+
+The  flooded  bed  scrubber  was  more  than  twice  as 
+efficient  as  the  small-diameter  cyclone,  allowing  unlimited 
+exposiu-e  time.  The  results  are  consistent  with  previous 
+Biu-eau  studies  comparing  both  scrubber  types  (3-4). 
+However,  both  scrubbers  clogged  with  coal  particles, 
+creating  imacceptable  maintenance  problems.  Air  pressure 
+drop  across  the  flooded  bed  panel  increased  from  3.8  to 
+6.5  in  of  water  during  9  h  of  typical  operation  due  to 
+clogging.  The  cyclone  panel  increased  about  hadf  of  this 
+2.7  in  rise,  i.e.,  1.37  in,  under  identical  conditions.  Proper 
+operation  of  these  scrubbers  is  highly  dependent  upon  a 
+steady  and  uniform  application  of  spray  water.  Clogged 
+and  partly  clogged  sprays  decrease  the  dust  collection 
+efficiency,  and  increase  the  pressure  buildup  across  both 
+cyclone  and  flooded  bed  types. 
+
+Aucdysis  of  the  used  flooded  bed  panels  showed  that 
+clogging  was  primarily  caused  by  large  particulate  (up  to 
+1/16-in)  embedded  in  the  mesh.  This  indicates  that  the 
+dust  inlet  duct  was  located  too  close  to  the  dust  source.  In 
+most  underground  applications,  the  flooded  bed  panels  are 
+cleaned  once  per  shift  by  drying  and  shaking,  or  by  direct 
+flushing  with  a  hose. 
+
+The  venturi  showed  no  indication  of  clogging.  Its 
+efficiency  was  limited  by  the  fan  pressure  capabihty  in  this 
+installation  that  only  allowed  a  maximimi  of  6  in  HjO 
+gauge  differential  pressure  across  the  ventiu-i  throat.  The 
+dust  collection  efficiency  of  a  venturi  scrubber  is  essen- 
+tially unlimited,  and  primarily  dependent  on  fan  pressme 
+capability  and  waterflow  rate.  Past  Bureau  work  shows 
+that  a  throat  differential  above  10  in  H2O  gauge  would 
+keep  discharge  concentrations  below  2  mg/m  in  this 
+installation  (5). 
+
+Owing  to  its  simplicity  and  low  cost,  venturi-type 
+scrubbers  can  be  readily  recommended  for  coal  prep- 
+aration plants.  They  are  commercially  available  in  a  wide 
+
+
+range  of  configiu-ations,  including  vertical  (fig.  7).  As  a 
+gmdeline,  minimiun  throat  differential  pressures  should 
+be  6,  10,  and  15  in  HjO  gauge  for  respective  inlet  con- 
+centrations of  10,  20,  and  30  mg/m^  respirable  dust.  A 
+venturi  should  not  be  operated  at  less  than  4  in  HjO  gauge 
+pressiu-e  drop  across  the  throat. 
+
+ELECTROSTATIC  PRECIPITATORS 
+
+Electrostatic  precipitators  (5)  pass  airborne  dust 
+between  electrically  charged  plates  (fig.  8).  This  causes 
+the  dust  to  migrate  toward  and  adhere  to  the  plates;  this 
+dust  is  then  automatically  shaken  or  washed  from  the 
+plates.  Precipitators  offer  several  advantages,  including 
+very-high  dust  collection  efficiency,  and  very-low  air 
+pressure  drop  (1/2-in  HjO  gauge  across  the  precipitator). 
+This  results  in  low  fan  power  requirements.  Initial,  $1  to 
+$1.50  per  cubic  foot  per  minute,  and  operating  costs  are 
+lower  than  scrubbers  or  baghouses. 
+
+
+Dusty 
+air  in 
+
+
+-Drain 
+Figure  7.-Venturl-type  scrubber — vertical  arrangement 
+
+
+Disadvantages  include  fairly  large  in  size,  and  a 
+requirement  for  relatively  experienced  m2dnten2mce 
+personnel  to  work  with  the  high  voltages,  and  potential 
+sparking  problems  associated  with  high  voltages. 
+Efficiency  is  reduced  if  subjected  to  vibration,  if  inlet  air 
+velocity  is  not  uniform,  and  if  shutdown  time  is  required 
+for  cleaning.  Detergent  water  is  frequently  required  for 
+cleaning. 
+
+Results  of  efficiency  tests  of  electrostatic  precipitators 
+showed  a  wide  efficiency  difference  between  various  plants. 
+One  5,000  cfm  installation  was  only  30  pet  efficient  on 
+respirable  coed  dust.  Minerals  containing  sodiimi  can  also 
+present  problems  when  high  dust  collection  efficiency  is 
+required.  For  best  results,  electrostatic  efficiency  data  on 
+the  specific  dust  and  installation  should  be  obtained  before 
+purchasing  a  precipitator. 
+
+
+Gas 
+passage 
+between 
+plates 
+
+
+Dischorge 
+electrode 
+
+
+Hopper- 
+Figure  8.-Electrostatic  precipitator. 
+
+
+CONTROL  AT  SOURCE 
+
+
+For  maximum  cost  effectiveness,  dust  should  be 
+controlled  at  its  source  prior  to  dilution  and  dispersal. 
+Usually,  dust  sources  are  determined  by  visual  observation, 
+especially  diuing  startup  or  on-off  procedures.  Precise 
+determination  of  the  appropriate  control  technique  de- 
+pends on  many  factors,  some  beyond  the  scope  of  this 
+report.  However,  these  general  guidelines  should  be 
+followed: 
+
+*  A  thorough  dust  survey  should  be  conducted  when 
+it  appeeu-s  that  control  costs  will  be  significant. 
+
+*  The  survey  should  at  least  determine  the  dust  type 
+(if  unknown),  its  sources,  extent,  and  concentration. 
+
+*  The  control  technique  should  be  primarily  based  on 
+survey  data.  For  example,  simple  ventilation  may  be 
+suitable  for  a  dust  concentration  of  4  mg/m^,  but  not 
+for  10  mg/m^. 
+
+Although  not  pointed  out  in  most  literature,  high  dust 
+concentrations  or  low  threshold  limit  value  (TLV)  usually 
+require  more  severe  and  costly  controls,  such  as  baghouses 
+or  scrubbers.  Frequently,  two  control  techniques  such  as 
+water  sprays  and  ventilation  can  work  together  for  maxi- 
+mum cost  effectiveness. 
+
+WATER  SPRAYS 
+
+Where  the  product  aillows,  water  sprays  can  be  very  cost 
+effective  for  dust  source  control  (6-7).  Their  primary 
+effectiveness  is  in  keeping  the  dust  from  becoming 
+airborne,  accordingly  the  effectiveness  is  primarily  de- 
+pendent on  flow  rate  and  coverage,  not  water  pressure. 
+Once  airborne,  respirable  dust  is  very  difficult  to  knock 
+down.  This  knockdown  effectiveness  is  dependent  on  flow 
+rate  emd  pressure,  and  the  best  spray  systems  seldom 
+exceed  60  pet  efficiency  on  respirable  dust.  Although  not 
+
+
+generally  recommended  due  to  cost,  water  additives 
+(surfactants)  (8),  foams  (9),  and  steam  (10)  can  occasion- 
+cdly  provide  additional  source  control. 
+
+GOOD  HOUSEKEEPING 
+
+Effective  housekeeping  is  essential  for  maintaining 
+acceptable  dust  levels.  Product  material  allowed  to 
+buildup  on  the  walls,  beams,  equipment,  floors,  and 
+walkways  can  be  readily  dispersed.  Dust  buildup  on  grated 
+floors  and  walkways  is  a  significant  dust  contributor, 
+especially  with  the  higher  floor  levels;  a  worker  can  create 
+a  significant  amount  of  dust  just  walking  across  this 
+grating,  causing  dust  to  drop  three  or  four  floors.  An 
+effective  housekeeping  practice  is  to  clean  the  mill  or  plant 
+at  least  once  a  day.  Many  operations  will  wash  down  all 
+floors  and  equipment  to  achieve  this,  although  in  some 
+plants  that  do  not  allow  for  the  use  of  water,  vacuum 
+cleaning  systems  are  used.  Sweeping  or  blowing  clean  air 
+with  compressed  air  should  not  be  used.  Figure  9  shows 
+the  increase  in  the  respirable  dust  exposure  to  a  worker 
+when  a  co-worker  in  a  mill  was  sweeping  the  floor  one 
+level  below  with  a  push  broom.  The  operator's  dust 
+exposure  increased  to  nearly  six  times  the  previous 
+concentration  because  of  this  dust. 
+
+Plants  or  mills  with  low  dust  concentrations  generally 
+had  good  housekeeping  practices.  Most  of  these  opera- 
+tions would  wash  down  or  vacuum  the  plant  or  mill  each 
+shift.  This  is  not  to  suggest  that  effective  housekeeping 
+was  the  sole  reason  for  low  dust  concentrations,  but  to 
+emphasize  that  those  operations  who  were  trying  to 
+maintain  low  dust  levels  realized  the  importance  of  this 
+practice.  Various  types  of  commercial  vacuum  cleaning 
+devices  are  available  for  this  purpose.  They  range  from 
+high  capacity  remote  vacuum  collectors  (fig.  10)  to  easily 
+portable  tank-type  units. 
+
+
+to 
+
+E 
+
+E 
+
+
+o 
+o 
+
+I- 
+
+
+-'^t  . 
+
+
+TIME,  min 
+
+Figure  9.-lncrease  in  worlter's  dust  exposure  from  broom 
+sweeping. 
+
+
+To  dust 
+collector 
+
+
+■^:>^mH^..:::: 
+
+
+Figure  lO.-IHigh  capacity  remote  vacuum  system. 
+
+
+PERSONAL  PROTECTION  DEVICES 
+
+
+Occasionally,  dust  control  with  baghouses  or  scrubbers 
+may  not  be  practical,  as  from  various  sources  spread  over 
+large  areas.  In  these  cases,  control  at  the  dust  sources  is 
+suggested.  Where  this  is  prohibitive  due  to  costs,  space 
+limitations,  or  other  reasons,  use  of  the  dust  helmet  or 
+other  personal  protection  devices  such  as  respirators  is 
+strongly  recommended. 
+
+DUST  HELMETS 
+
+Dust  helmets  have  been  designed  to  provide  dust 
+protection  for  the  wearer  without  some  of  the  talking, 
+spitting,  and  fit  problems  associated  with  typical  respi- 
+rators. They  use  a  small  fan  in  the  hebnet  to  provide 
+filtered  air  to  the  breathing  zone  of  the  wearer  (fig.  11). 
+The  fan  is  powered  by  a  rechargeable  belt-mounted  battery 
+suitable  for  8-h  continuous  operation.  A  high  efficiency 
+filter  is  fitted  to  the  fan  discharge,  a  coarse  filter  at  its 
+inlet;  both  are  throw-away  types.  The  helmet  is  used  with 
+a  full-face  lucite  lens.  Tests  of  the  helmet's  efficiency  on 
+various  dusts  and  conditions  generally  show  excellent 
+results  and  reasonably  good  acceptance  by  personnel, 
+except  when  they  must  work  in  tight  places.  Various  types 
+of  side  shields  are  available  to  increase  the  helmet's  dust 
+protection  efficiency  as  ambient  ak  velocity  rises.  Bureau 
+tests  of  the  helmet  with  two  types  of  side  shields  show  dust 
+reductions  greater  than  90  pet  between  ambient  and  inside 
+helmet  respirable  concentrations  (11).  Typical  in-plant 
+tests  would  show  92  pet  without  a  full-face  side  shield,  and 
+98  pet  with. 
+
+The  hebnet  can  be  very  useful  in  extreme  dust 
+conditions,  such  as  in  coal  preparation  plcmts  with  high 
+respirable  concentrations  or  in  mineral  processing  plzmts 
+
+
+Main  filter 
+
+
+Safety  helmet 
+shell 
+
+
+Motor  and 
+fan  assembly 
+
+
+Battery 
+pack 
+
+
+Hinged 
+clear 
+visor 
+
+
+Figure  1 1  .-Dust  helmet 
+
+
+Figure  1 2.-Disposable-type  respirator. 
+
+
+with  high  siHca  dust  levels.  Primary  disadvantages  are 
+glare  from  the  lens,  especially  for  those  who  must  wear 
+glasses,  and  the  excessive  bulk  for  tight  work  spaces. 
+
+RESPIRATORS 
+
+Many  types  of  dust  respirators  are  also  commercially 
+available  for  this  use.  Dust  protection  efficiency  is  roughly 
+dependent  on  cost,  type,  face  fit,  and  ranges  from 
+approximately  60  pet  for  simple  throw-away  or  negative- 
+pressure  types  (fig.  12),  to  the  upper  90  pet  for  powered 
+positive-pressure  types  (fig.  13).  When  respirable  silica 
+dust  concentrations  exceed  5  mg/m^,  or  long-term  ex- 
+posure is  anticipated,  the  latter  types  should  be  used. 
+However,  dust  helmets  and  respirators  only  help  protect 
+the  worker  from  usual  dust  and  mist,  they  are  not  to  be 
+used  for  harmful  chemical  dusts  or  gasses. 
+
+
+Figure  13.-Posltive  pressure-type  respirator. 
+
+
+SPECIAL  PROBLEMS 
+
+
+PIPE  AND  DUCT  CLOGGING 
+
+Serious  duct  clogging  problems  occur  in  some  of  the 
+duct  collector  systems  in  coal  preparation  plants;  dust 
+peirticles  graduidly  accumulate  in  the  horizontal  duct  rims 
+between  the  pickup  points  and  fan,  and  zdmost  completely 
+block  the  airflow.  This  not  only  cripples  the  performance 
+of  the  duct  collector  system,  but  also  presents  safety 
+problems.  The  added  weight  of  the  dust  can  occasionedly 
+break  the  duct  hangers,  allowing  sections  to  drop. 
+Clogging  could  occur  as  often  as  every  6  months.  In  these 
+cases,  the  prepjiration  plant  operators  would  occasionally 
+drop  these  duct  sections  and  flush  with  high-pressure 
+water.     The  common  remedy  for  this  problem  is  to 
+
+
+maintain  an  adequate  duct  ak  velocity  as  indicated  in  the 
+American  Conference  of  Government-Industrial  Hygienist 
+(ACGIH)  Handbook,  however,  the  duct  air  velocity  in 
+some  plants  is  aheady  above  4,000  ft/min.  Conversations 
+with  material  handling  experts  show  that  these  problems 
+are  not  rare,  even  in  hi^-velocity  systems.  No  simple 
+solution  has  been  foimd  to  the  duct  clogging  problem. 
+One  possibility  has  been  to  paint  the  duct  interior,  first 
+with  an  epoxy  nonlift  primer  followed  by  an  epoxy  topcoat, 
+both  with  suitable  catalyst.  Extra  water  sprays  in  the  duct 
+sections  that  clog  have  also  been  successful.  In  some 
+cases,  a  dropout  box  or  inertial  separator  can  help.  Use 
+of  inertial  separators  can  also  help  prevent  scrubber 
+clogging.  Inertifd  separators  separate  large  dust  particulate 
+
+
+10 
+
+
+from  the  airstream  xising  a  centrifugal,  gravitational,  or 
+inertial  force.  The  separate  dust  faiUs  into  a  hopper,  where 
+it  is  temporarily  stored.  The  three  primary  types  are 
+settling  chambers,  baiffle  chambers,  and  centrifugal 
+collectors.  Neither  settling  chambers  nor  baffle  chambers 
+are  commonly  used  in  the  minerals  processing  industry, 
+mostly  due  to  space  requirements,  and  difficulties  with 
+cleaning  and  disposal  of  the  collected  dust. 
+
+Settling  chambers  (fig.  14)  consist  of  a  large  box 
+installed  in  the  ductwork.  The  sudden  enlargement  at  the 
+chamber  reduces  the  speed  of  the  dust-filled  airstream, 
+and  heavier  particles  settle  out.  They  are  simple  in  design 
+and  can  be  readily  manufactured. 
+
+Baffle  chambers  (fig.  15)  use  a  fixed  baffle  plate  that 
+causes  the  airstreeun  to  make  a  sudden  change  of  direction. 
+Large-diameter  particles  do  not  follow  the  gas  stream,  but 
+continue  into  a  dead  air  space  and  settle. 
+
+Centrifugal  collectors  (fig.  16)  use  cyclone-type  action 
+to  separate  dust  particles  from  the  air.  In  a  typical 
+cyclone,  the  high  velocity  dusty  air  enters  at  a  tangent. 
+The  centrifugal  force  created  by  the  circular  flow  forces 
+
+
+Dusty 
+air  inlet 
+
+
+Outlet 
+
+
+Dust  collection 
+hoppers 
+
+SETTLING  CHAMBER 
+Figure  14.-Settling  type  drop-out  chamber. 
+
+
+the  dust  particles  toward  the  wall  of  the  cyclone,  where 
+they  fall  into  a  hopper.  These  collectors  are  more 
+expensive  and  more  efficient  in  removing  particulate  than 
+settling  and  baffle  chambers. 
+
+CONTROL  ROOM  DUST 
+
+Control  room  dust  is  generally  not  a  serious  problem, 
+except  when  the  dust  contains  silica.  Sihca  is  not  a 
+problem  in  coal  preparation  plant  control  rooms,  but  it  can 
+be  a  serious  health  problem  in  many  mineral  processing 
+plant  rooms,  especially  because  of  the  long-term,  8-h 
+occupjmcy.  Dust  can  Jilso  be  detrimental  to  electrical 
+equipment. 
+
+Wall-  or  window-mounted  air  conditioners  admitting 
+filtered  outside  air  are  adequate  for  control  in  most  coal 
+preparation  plants.  For  mineral  processing  plants,  high 
+efficiency  filters  are  strongly  recommended.  Minimum 
+makeup  airflows  should  be  above  several  hundred  cubic 
+feet  per  minute  even  for  small  rooms  (say  1,000  ft^);  this 
+air  should  not  be  recirculated,  but  allowed  to  leak  from  the 
+room.  This  will  help  insure  a  positive  pressure  within  the 
+room,  and  reduce  dust  infiltration.  Conventional  through- 
+the-wall  or  window-type  ziir  conditioners  should  not  be 
+used  for  room  pressurization;  their  makeup  (fresh)  airflow 
+is  usually  too  low  for  mineral  processing  plants. 
+
+
+Inner  vortex 
+
+
+To  hopper 
+BAFFLE   CHAMBER 
+
+
+Outer  vortex 
+
+
+hopper 
+CENTRIFUGAL   TYPE 
+
+
+Figure  1 5.-Baffle  type  drop-out  chamber. 
+
+
+Figure  1 6.-Centrifugal  type  drop-out  chamber. 
+
+
+11 
+
+
+CONCLUSIONS 
+
+
+Currently,  about  one-third  of  the  coal  preparation       in  both  cases  are  essentially  indentical  and  depend  on  dust 
+
+
+plants  in  the  U.S.  have  excessive  respirable  dust  concen- 
+trations in  specific  areas.  Results  from  extensive  work  at 
+mineral  processing  plants  with  dust  problems  indicate  that 
+dust  concentrations  are  lower,  but  frequently  compoimded 
+by  sihca  and  full-shift  exposure.    The  primary  solutions 
+
+
+soiu"ces,  type,  and  concentration.  In  broad  order  of  practi- 
+cahty  and  cost-effectiveness,  these  solutions  are  ventilation, 
+baghouses,  scrubbers,  good  housekeeping,  and  personal 
+protection  devices. 
+
+
+REFERENCES 
+
+
+1.  Williams,  K.  L.,  and  R.  J.  Timko.  Performance  Evaluation  of  a 
+Real-Time  Aersol  Monitor.   BuMines  IC  8968,  1984,  20  pp. 
+
+2.  Grigal,  D.,  G.  Ufken,  J.  Sandstedt,  M.  Blom,  and  D.  Johnson. 
+Development  of  Improved  Scrubbers  for  Coal  Mine  Applications 
+(contract  H0199055).  BuMines  OFR  91-83,  July  1982, 124  pp.;  NTIS  PB 
+83-205385. 
+
+3.  Divers,  E.  F.,  and  J.  T.  Janosik.  Scrubbers  for  Dust  Control:  A 
+Comparison  of  Six  Medium-Energy  Use  Types.  BuMines  RI 8449, 1980, 
+29  pp. 
+
+4.  .    Comparison  of  Five  Types  of  Low-Energy  Scrubbers  for 
+
+Dust  Control.    BuMines  RI  8289,  1978,  38  pp. 
+
+5.  McDonald,  J.  J.,  and  A.  H.  Dean.  Electrostatic  Precipitator 
+Manual,  Noyes  Data  Corp.,  1982,  480  pp. 
+
+6.  Mody,  v.,  and  R.  Jakhete.  Conveyor  Belt  Dust  Control  (contract 
+H0113007,  Martin-Marietta  Lab.).  BuMines  OFR  31-86,  Feb.  1984, 
+410  pp. 
+
+
+7.  Mody,  v.,  and  R.  Jakhete.  Dust  Control  Handbook  for  Minerals 
+Processing  (contract  J0235005).  BuMines  OFR  2-88,  Feb.  1987,  220  pp.; 
+NTIS  PB-88-159108. 
+
+8.  Volkwein,  J.  C,  A.  B.  Cecala,  and  E.  D.  Thimons.  Moisture 
+Application  for  Dust  Control.  Appl.  Ind.  Hyg.,  v.  4,  No.  8,  Aug.  1989, 
+pp.  198-200. 
+
+9.  .    Use  of  Foam  for  Dust  Control  in  Minerals  Processing. 
+
+BuMines  RI  8808,  1983,  11  pp. 
+
+10.  Cecala,  A.  B.,  J.  C.  Volkwein,  and  E.  D.  Thimons.  Adding  Steam 
+To  Control  Dust  in  Mineral  Processing.   BuMines  RI  8935,  1985,  9  pp. 
+
+11.  Cecala,  A.  B.,  J.  C.  Volkwein,  E.  D.  Thimons,  and  C.  W.  Urban. 
+Protection  Factors  of  the  Airstream  Helmet.  BuMines  RI  8591,  1981, 
+17  pp. 
+
+
+INT.BU.OF  MINES,PGH.,PA  29136 
+
+
+■0 
+
+m 
+
+Si  o 
+
+5   W 
+
+z 
+
+">  ZI 
+
+m  ■ 
+
+> 
+
+5 
+
+o 
+
+■n 
+■n 
+
+3" 
+
+C    <B 
+©■p. 
+
+■71 
+
+o 
+
+O 
+
+> 
+
+treet 
+ton, 
+
+"V 
+
+r- 
+
+0- 
+
+5  «> 
+
+a 
+
+1 
+
+00 
+
+c 
+
+V) 
+
+0 
+
+m 
+
+c 
+
+V) 
+
+z 
+m 
+
+S2 
+
+3" 
+
+(D 
+
+V) 
+
+3 
+
+(O 
+
+n 
+
+i 
+
+00 
+
+^ 
+
+® 
+
+0 
+
+5' 
+
+0 
+
+^ 
+
+> 
+z 
+m 
+D 
+c 
+> 
+
+o 
+
+"D 
+TJ 
+O 
+3) 
+
+
+m 
+
+
+O 
+
+-< 
+m 
+3) 
+
+
+413-90 
+
+
+'^o^ 
+
+
+<  *  ^.^    *  •  •  -    -a 
+
+
+^      "■•      ^V^  '^    '•-» 
+
+
+*     A  <^    ♦'TV.-    4 
+
+
+^•\  «c°^;^^%  /^-^'X  .^<*;^'>-   X'-^i'X   c^  *:^^'>   .^^ 
+
+
+S°^ 
+
+
+...i^m^.   ^^^^^^^^  y^^^   t^^^^<i>   ,»^^\  %^^^^' 
+
+
+4ECKMAN 
+
+"NDERY  INC. 
+
+
+•  ■  o  ' 
+
+
+"^   '•-^K*'  ^^^^'\  °''^^^*'  •j.'^^^   ■"• 
+
+
+'%.n<i^       *^^^     ^r.'^ 
+
+<?5  °^ 
+
+
+0^         ^^/^TT,.*  ^^^'^       -o^' 
+
+
+^^      N.  MANCHESTER,  -*        ♦><^*      tV  K'i         'f^V      A.  -A      '^^S^K'^      .'V  ^-.      'X^T*      A*  ^^      "^'^i^J^* 
+
+

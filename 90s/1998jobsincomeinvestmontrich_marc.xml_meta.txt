@@ -1,8 +1,0 @@
-ETag: "9df946d5b264a5b6ac03ea0ab99c617e"
-accept: */*
-authorization: LOW trYpWTgKXDTtv8Qq:REDACTED_BY_IA_S3
-content-length: 5455
-host: s3.us.archive.org
-user-agent: curl/7.21.3 (i386-pc-win32) libcurl/7.21.3 OpenSSL/0.9.8q zlib/1.2.5
-x-varnish: 1458102798
-x-upload-date: 2011-03-15T02:02:18.000Z
